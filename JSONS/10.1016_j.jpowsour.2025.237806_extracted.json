@@ -1,0 +1,264 @@
+{
+  "doi": "10.1016/j.jpowsour.2025.237806",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Ca3Co4O9",
+        "BiCuSeO",
+        "SrTiO3",
+        "CaMnO3",
+        "In2O3",
+        "Nb-doped SrTiO3",
+        "nonstoichiometric Ca3Co4O9",
+        "Ce-doped In2O3"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "BiCuSeO",
+          "value": 1500,
+          "unit": "μV/K",
+          "temperature": "923 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "value": 100,
+          "unit": "μV/K",
+          "temperature": "N/A"
+        },
+        {
+          "material": "CaMnO3",
+          "value": 200,
+          "unit": "μV/K",
+          "temperature": "N/A"
+        },
+        {
+          "material": "In2O3",
+          "value": 300,
+          "unit": "μV/K",
+          "temperature": "1223 K"
+        },
+        {
+          "material": "Nb-doped SrTiO3",
+          "value": -200,
+          "unit": "μV/K",
+          "temperature": "1050 K"
+        },
+        {
+          "material": "SrTiO3",
+          "value": 100,
+          "unit": "μV/K",
+          "temperature": "N/A"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "Nb-doped SrTiO3",
+          "value": 0.00142,
+          "unit": "S/m",
+          "temperature": "1050 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "value": 0.0009,
+          "unit": "S/m",
+          "temperature": "N/A"
+        },
+        {
+          "material": "Ce-doped In2O3",
+          "value": 0.00047,
+          "unit": "S/m",
+          "temperature": "1223 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "value": 0.0015,
+          "unit": "S/m",
+          "temperature": "923 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "SrTiO3",
+          "value": 0.03,
+          "unit": "W/m·K",
+          "temperature": "1050 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "value": 0.09,
+          "unit": "W/m·K",
+          "temperature": "N/A"
+        },
+        {
+          "material": "In2O3",
+          "value": 0.047,
+          "unit": "W/m·K",
+          "temperature": "1223 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "value": 2.5,
+          "unit": "W/m·K",
+          "temperature": "923 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Nb-doped SrTiO3",
+          "zt_value": 1.42,
+          "temperature": "1050 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "zt_value": 0.9,
+          "temperature": "N/A"
+        },
+        {
+          "material": "Ce-doped In2O3",
+          "zt_value": 0.47,
+          "temperature": "1223 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "zt_value": 1.5,
+          "temperature": "923 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": [
+        {
+          "min_temp": "1050 K",
+          "max_temp": "1223 K",
+          "context": "ZT measurements in Ce-doped In2O3"
+        },
+        {
+          "min_temp": "923 K",
+          "max_temp": "923 K",
+          "context": "ZT measurements in BiCuSeO"
+        },
+        {
+          "min_temp": "1050 K",
+          "max_temp": "1050 K",
+          "context": "ZT measurements in Nb-doped SrTiO3"
+        },
+        {
+          "min_temp": "800 K",
+          "max_temp": "800 K",
+          "context": "ZT measurements in Ca3Co4O9"
+        },
+        {
+          "min_temp": "300 K",
+          "max_temp": "800 K",
+          "context": "ZT measurements in ZnO, SrTiO3, CaMnO3, In2O3"
+        }
+      ]
+    },
+    "crystal_structure": {
+      "crystal_data": [
+        {
+          "material": "SrTiO3",
+          "structure": "perovskite"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "structure": "unknown"
+        },
+        {
+          "material": "BiCuSeO",
+          "structure": "unknown"
+        },
+        {
+          "material": "CaMnO3",
+          "structure": "unknown"
+        },
+        {
+          "material": "In2O3",
+          "structure": "fluorite"
+        },
+        {
+          "material": "Nb-doped SrTiO3",
+          "structure": "perovskite"
+        },
+        {
+          "material": "Ce-doped In2O3",
+          "structure": "fluorite"
+        }
+      ]
+    },
+    "space_group": {
+      "space_group_data": [
+        {
+          "material": "Ca3Co4O9",
+          "space_group": "",
+          "space_group_number": ""
+        },
+        {
+          "material": "BiCuSeO",
+          "space_group": "",
+          "space_group_number": ""
+        },
+        {
+          "material": "SrTiO3",
+          "space_group": "",
+          "space_group_number": ""
+        },
+        {
+          "material": "CaMnO3",
+          "space_group": "",
+          "space_group_number": ""
+        },
+        {
+          "material": "In2O3",
+          "space_group": "",
+          "space_group_number": ""
+        },
+        {
+          "material": "Nb-doped SrTiO3",
+          "space_group": "",
+          "space_group_number": ""
+        },
+        {
+          "material": "Ce-doped In2O3",
+          "space_group": "",
+          "space_group_number": ""
+        }
+      ]
+    },
+    "lattice_parameters": {
+      "lattice_data": [
+        {
+          "material": "SrTiO3",
+          "a": "3.905 Å",
+          "c": "3.905 Å",
+          "system": "perovskite"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "system": "rhombohedral"
+        },
+        {
+          "material": "BiCuSeO",
+          "a": "3.87 Å",
+          "b": "3.87 Å",
+          "c": "12.0 Å",
+          "alpha": "90.1°",
+          "beta": "90.1°",
+          "gamma": "120°"
+        }
+      ]
+    }
+  }
+}

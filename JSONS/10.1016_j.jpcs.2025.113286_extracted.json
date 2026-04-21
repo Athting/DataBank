@@ -1,0 +1,183 @@
+{
+  "doi": "10.1016/j.jpcs.2025.113286",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "NbMnAs",
+        "NbMnSb",
+        "NbMnBi"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "NbMnAs",
+          "value": "",
+          "unit": "μV/K",
+          "temperature": "1200 K"
+        },
+        {
+          "material": "NbMnSb",
+          "value": "",
+          "unit": "μV/K",
+          "temperature": "1200 K"
+        },
+        {
+          "material": "NbMnBi",
+          "value": "",
+          "unit": "μV/K",
+          "temperature": "1200 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "NbMnAs",
+          "value": 0.005,
+          "unit": "S/cm",
+          "temperature": "1200 K"
+        },
+        {
+          "material": "NbMnSb",
+          "value": 0.004,
+          "unit": "S/cm",
+          "temperature": "1200 K"
+        },
+        {
+          "material": "NbMnBi",
+          "value": 0.003,
+          "unit": "S/cm",
+          "temperature": "1200 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "NbMnAs",
+          "value": 0.025,
+          "unit": "W/m·K",
+          "temperature": "1200 K"
+        },
+        {
+          "material": "NbMnSb",
+          "value": 0.0256,
+          "unit": "W/m·K",
+          "temperature": "1200 K"
+        },
+        {
+          "material": "NbMnBi",
+          "value": 0.0255,
+          "unit": "W/m·K",
+          "temperature": "1200 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "NbMnAs",
+          "value": 0.68,
+          "unit": "",
+          "temperature": "1200 K"
+        },
+        {
+          "material": "NbMnSb",
+          "value": 0.56,
+          "unit": "",
+          "temperature": "1200 K"
+        },
+        {
+          "material": "NbMnBi",
+          "value": 0.55,
+          "unit": "",
+          "temperature": "1200 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "NbMnAs",
+          "zt_value": 0.68,
+          "temperature": "1200 K"
+        },
+        {
+          "material": "NbMnSb",
+          "zt_value": 0.56,
+          "temperature": "1200 K"
+        },
+        {
+          "material": "NbMnBi",
+          "zt_value": 0.55,
+          "temperature": "1200 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": [
+        {
+          "min_temp": "1200 K",
+          "max_temp": "1200 K",
+          "context": "thermoelectric analysis"
+        }
+      ]
+    },
+    "crystal_structure": {
+      "crystal_data": [
+        {
+          "material": "NbMnAs",
+          "structure": "Not specified in text"
+        },
+        {
+          "material": "NbMnSb",
+          "structure": "Not specified in text"
+        },
+        {
+          "material": "NbMnBi",
+          "structure": "Not specified in text"
+        }
+      ]
+    },
+    "space_group": {
+      "space_group_data": [
+        {
+          "material": "NbMnAs",
+          "space_group": "Not provided in text"
+        },
+        {
+          "material": "NbMnSb",
+          "space_group": "Not provided in text"
+        },
+        {
+          "material": "NbMnBi",
+          "space_group": "Not provided in text"
+        }
+      ]
+    },
+    "lattice_parameters": {
+      "lattice_data": [
+        {
+          "material": "NbMnAs",
+          "a": "5.93 Å",
+          "c": "3.85 Å",
+          "system": "cubic"
+        },
+        {
+          "material": "NbMnSb",
+          "a": "5.98 Å",
+          "c": "3.91 Å",
+          "system": "cubic"
+        },
+        {
+          "material": "NbMnBi",
+          "a": "5.98 Å",
+          "c": "4.11 Å",
+          "system": "cubic"
+        }
+      ]
+    }
+  }
+}

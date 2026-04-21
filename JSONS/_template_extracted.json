@@ -1,0 +1,121 @@
+{
+  "doi": "10.1016/j.your-journal.yyyy.xxxxxx",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": ["Compound_A", "Compound_B"]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "Compound_A",
+          "value": 210.5,
+          "unit": "uV/K",
+          "temperature": "300 K"
+        },
+        {
+          "material": "Compound_B",
+          "value": 185.2,
+          "unit": "uV/K",
+          "temperature": "500 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "Compound_A",
+          "value": 1.8,
+          "unit": "S/cm",
+          "temperature": "300 K"
+        },
+        {
+          "material": "Compound_B",
+          "value": 2400,
+          "unit": "S/m",
+          "temperature": "500 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Compound_A",
+          "value": 0.85,
+          "unit": "W/m·K",
+          "temperature": "300 K"
+        },
+        {
+          "material": "Compound_B",
+          "value": 1.1,
+          "unit": "W/m·K",
+          "temperature": "500 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Compound_A",
+          "value": 0.42,
+          "unit": "",
+          "temperature": "300 K"
+        },
+        {
+          "material": "Compound_B",
+          "value": 0.57,
+          "unit": "",
+          "temperature": "500 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Compound_A",
+          "zt_value": 0.72,
+          "temperature": "300 K"
+        },
+        {
+          "material": "Compound_A",
+          "zt_value": 0.95,
+          "temperature": "800 K"
+        },
+        {
+          "material": "Compound_B",
+          "zt_value": 0.63,
+          "temperature": "500 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": [
+        {
+          "min_temp": "300 K",
+          "max_temp": "800 K",
+          "context": "Thermoelectric characterization range"
+        }
+      ]
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": [
+        {
+          "material": "Compound_A",
+          "a": "Unknown",
+          "b": "Unknown",
+          "c": "Unknown",
+          "alpha": "Unknown",
+          "beta": "Unknown",
+          "gamma": "Unknown",
+          "system": "Unknown"
+        }
+      ]
+    }
+  }
+}

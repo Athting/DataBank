@@ -1,0 +1,157 @@
+{
+  "doi": "10.1016/j.jallcom.2015.02.133",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Ba3Al3P5",
+        "Ba3Ga3P5"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "Ba3Al3P5",
+          "value": "",
+          "unit": "S/cm",
+          "temperature": "500 K",
+          "carrier_concentration": "7.1 × 10^19 holes per cm^3"
+        },
+        {
+          "material": "Ba3Al3P5",
+          "value": "",
+          "unit": "S/cm",
+          "temperature": "800 K",
+          "carrier_concentration": "1.3 × 10^20 holes per cm^3"
+        },
+        {
+          "material": "Ba3Ga3P5",
+          "value": "0.65",
+          "unit": "S/cm",
+          "temperature": "800 K",
+          "carrier_concentration": "1.3 × 10^20 holes per cm^3"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Ba3Al3P5",
+          "value": "minimum lattice thermal conductivity",
+          "unit": "not explicitly stated in text"
+        },
+        {
+          "material": "Ba3Ga3P5",
+          "value": "minimum lattice thermal conductivity",
+          "unit": "not explicitly stated in text"
+        },
+        {
+          "material": "p-type Ba3Ga3P5",
+          "value": "small and comparable to Ca5Al2Sb6 and Ca5Ga2Sb6",
+          "unit": "not explicitly stated in text"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Ba3Al3P5",
+          "value": 0.49,
+          "unit": "",
+          "temperature": "500 K"
+        },
+        {
+          "material": "Ba3Al3P5",
+          "value": 0.65,
+          "unit": "",
+          "temperature": "800 K"
+        },
+        {
+          "material": "Ba3Ga3P5",
+          "value": 0.65,
+          "unit": "",
+          "temperature": "800 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Ba3Al3P5",
+          "zt_value": 0.49,
+          "temperature": "500 K",
+          "carrier_concentration": "7.1 × 1019 holes per cm3"
+        },
+        {
+          "material": "Ba3Ga3P5",
+          "zt_value": 0.65,
+          "temperature": "800 K",
+          "carrier_concentration": "1.3 × 1020 holes per cm3"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": [
+        {
+          "min_temp": "500 K",
+          "max_temp": "800 K",
+          "context": "Maximum ZT for p-type Ba3M3P5"
+        },
+        {
+          "min_temp": "500 K",
+          "max_temp": "800 K",
+          "context": "Maximum ZT for p-type Ba3Ga3P5"
+        }
+      ]
+    },
+    "crystal_structure": {
+      "crystal_data": [
+        {
+          "material": "Ba3Al3P5",
+          "structure": "unknown",
+          "space_group": "unknown"
+        },
+        {
+          "material": "Ba3Ga3P5",
+          "structure": "unknown",
+          "space_group": "unknown"
+        }
+      ]
+    },
+    "space_group": {
+      "space_group_data": [
+        {
+          "material": "Ba3Al3P5",
+          "space_group": "",
+          "space_group_number": ""
+        },
+        {
+          "material": "Ba3Ga3P5",
+          "space_group": "",
+          "space_group_number": ""
+        }
+      ]
+    },
+    "lattice_parameters": {
+      "lattice_data": [
+        {
+          "material": "Ba3Al3P5",
+          "a": "",
+          "b": "",
+          "c": "3",
+          "system": "unknown"
+        },
+        {
+          "material": "Ba3Ga3P5",
+          "a": "",
+          "b": "",
+          "c": "3",
+          "system": "unknown"
+        }
+      ]
+    }
+  }
+}

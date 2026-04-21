@@ -1,0 +1,149 @@
+{
+  "doi": "10.0000/default.demo.2026.000001",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": ["DefaultCompoundA", "DefaultCompoundB"]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "DefaultCompoundA",
+          "value": 220,
+          "unit": "uV/K",
+          "temperature": "300 K"
+        },
+        {
+          "material": "DefaultCompoundA",
+          "value": 260,
+          "unit": "uV/K",
+          "temperature": "700 K"
+        },
+        {
+          "material": "DefaultCompoundB",
+          "value": 180,
+          "unit": "uV/K",
+          "temperature": "300 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "DefaultCompoundA",
+          "value": 2.4,
+          "unit": "S/cm",
+          "temperature": "300 K"
+        },
+        {
+          "material": "DefaultCompoundB",
+          "value": 1800,
+          "unit": "S/m",
+          "temperature": "300 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "DefaultCompoundA",
+          "value": 1.1,
+          "unit": "W/m·K",
+          "temperature": "300 K"
+        },
+        {
+          "material": "DefaultCompoundA",
+          "value": 0.9,
+          "unit": "W/m·K",
+          "temperature": "700 K"
+        },
+        {
+          "material": "DefaultCompoundB",
+          "value": 1.4,
+          "unit": "W/m·K",
+          "temperature": "300 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "DefaultCompoundA",
+          "value": 0.42,
+          "unit": "",
+          "temperature": "300 K"
+        },
+        {
+          "material": "DefaultCompoundA",
+          "value": 0.71,
+          "unit": "",
+          "temperature": "700 K"
+        },
+        {
+          "material": "DefaultCompoundB",
+          "value": 0.36,
+          "unit": "",
+          "temperature": "300 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "DefaultCompoundA",
+          "zt_value": 0.65,
+          "temperature": "300 K"
+        },
+        {
+          "material": "DefaultCompoundA",
+          "zt_value": 1.02,
+          "temperature": "700 K"
+        },
+        {
+          "material": "DefaultCompoundB",
+          "zt_value": 0.48,
+          "temperature": "300 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": [
+        {
+          "min_temp": "300 K",
+          "max_temp": "700 K",
+          "context": "default demo range"
+        }
+      ]
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": [
+        {
+          "material": "DefaultCompoundA",
+          "a": "Unknown",
+          "b": "Unknown",
+          "c": "Unknown",
+          "alpha": "Unknown",
+          "beta": "Unknown",
+          "gamma": "Unknown",
+          "system": "Unknown"
+        },
+        {
+          "material": "DefaultCompoundB",
+          "a": "Unknown",
+          "b": "Unknown",
+          "c": "Unknown",
+          "alpha": "Unknown",
+          "beta": "Unknown",
+          "gamma": "Unknown",
+          "system": "Unknown"
+        }
+      ]
+    }
+  }
+}

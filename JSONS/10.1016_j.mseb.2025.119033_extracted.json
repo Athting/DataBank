@@ -1,0 +1,167 @@
+{
+  "doi": "10.1016/j.mseb.2025.119033",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Cs₂RuCl₆",
+        "Rb₂RuCl₆",
+        "K₂RuCl₆",
+        "Cs₂RuBr₆",
+        "Rb₂RuBr₆",
+        "K₂RuBr₆"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "Cs₂RuCl₆",
+          "value": 2300,
+          "unit": "μV/K",
+          "temperature": "300 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "Cs₂RuCl₆",
+          "value": 0.998,
+          "unit": "ZT",
+          "temperature": "300 K"
+        },
+        {
+          "material": "Cs₂RuCl₆",
+          "value": 2300,
+          "unit": "μV/K",
+          "temperature": "300 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Cs₂RuCl₆",
+          "value": 0.998,
+          "unit": "dimensionless (ZT)",
+          "temperature": "300 K"
+        },
+        {
+          "material": "Cs₂RuCl₆",
+          "value": 2300,
+          "unit": "μV/K",
+          "temperature": "300 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Cs₂RuCl₆",
+          "zt_value": 0.998,
+          "temperature": "300 K"
+        },
+        {
+          "material": "Cs₂RuCl₆",
+          "zt_value": 0.965,
+          "temperature": "1000 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": [
+        {
+          "min_temp": "300 K",
+          "max_temp": "1000 K",
+          "context": "Thermoelectric evaluation"
+        }
+      ]
+    },
+    "crystal_structure": {
+      "crystal_data": [
+        {
+          "material": "Cs₂RuCl₆",
+          "structure": "cubic",
+          "space_group": "Fm-3m"
+        }
+      ]
+    },
+    "space_group": {
+      "space_group_data": [
+        {
+          "material": "Cs₂RuCl₆",
+          "space_group": "Fm-3m",
+          "space_group_number": "225"
+        },
+        {
+          "material": "Rb₂RuCl₆",
+          "space_group": "Fm-3m",
+          "space_group_number": "225"
+        },
+        {
+          "material": "K₂RuCl₆",
+          "space_group": "Fm-3m",
+          "space_group_number": "225"
+        },
+        {
+          "material": "Cs₂RuBr₆",
+          "space_group": "Fm-3m",
+          "space_group_number": "225"
+        },
+        {
+          "material": "Rb₂RuBr₆",
+          "space_group": "Fm-3m",
+          "space_group_number": "225"
+        },
+        {
+          "material": "K₂RuBr₆",
+          "space_group": "Fm-3m",
+          "space_group_number": "225"
+        }
+      ]
+    },
+    "lattice_parameters": {
+      "lattice_data": [
+        {
+          "material": "Cs₂RuCl₆",
+          "a": "9.75 Å",
+          "c": "10.19 Å",
+          "system": "cubic"
+        },
+        {
+          "material": "Rb₂RuCl₆",
+          "a": "10.01 Å",
+          "c": "10.23 Å",
+          "system": "cubic"
+        },
+        {
+          "material": "K₂RuCl₆",
+          "a": "10.11 Å",
+          "c": "10.41 Å",
+          "system": "cubic"
+        },
+        {
+          "material": "Cs₂RuBr₆",
+          "a": "10.23 Å",
+          "c": "10.58 Å",
+          "system": "cubic"
+        },
+        {
+          "material": "Rb₂RuBr₆",
+          "a": "10.28 Å",
+          "c": "10.61 Å",
+          "system": "cubic"
+        },
+        {
+          "material": "K₂RuBr₆",
+          "a": "10.33 Å",
+          "c": "10.71 Å",
+          "system": "cubic"
+        }
+      ]
+    }
+  }
+}

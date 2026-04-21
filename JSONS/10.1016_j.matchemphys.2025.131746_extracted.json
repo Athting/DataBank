@@ -1,0 +1,207 @@
+{
+  "doi": "10.1016/j.matchemphys.2025.131746",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "TaFeGe",
+        "TaFeSn"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "TaFeGe",
+          "value": 0.72,
+          "unit": "μV/K",
+          "temperature": "300 K"
+        },
+        {
+          "material": "TaFeSn",
+          "value": 0.45,
+          "unit": "μV/K",
+          "temperature": "500 K"
+        },
+        {
+          "material": "TaFeSn",
+          "value": 0.94,
+          "unit": "μV/K",
+          "temperature": "1200 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "TaFeGe",
+          "value": 0.72,
+          "unit": "S/cm",
+          "temperature": "300 K"
+        },
+        {
+          "material": "TaFeSn",
+          "value": 0.79,
+          "unit": "S/cm",
+          "temperature": "300 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "TaFeGe",
+          "value": 0.72,
+          "unit": "W/m·K",
+          "temperature": "300 K"
+        },
+        {
+          "material": "TaFeSn",
+          "value": 0.79,
+          "unit": "W/m·K",
+          "temperature": "300 K"
+        },
+        {
+          "material": "TaFeGe",
+          "value": 0.9,
+          "unit": "W/m·K",
+          "temperature": "1200 K"
+        },
+        {
+          "material": "TaFeSn",
+          "value": 0.94,
+          "unit": "W/m·K",
+          "temperature": "1200 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "TaFeGe",
+          "value": 0.65,
+          "unit": "",
+          "temperature": "10 K"
+        },
+        {
+          "material": "TaFeGe",
+          "value": 0.72,
+          "unit": "",
+          "temperature": "300 K"
+        },
+        {
+          "material": "TaFeGe",
+          "value": 0.9,
+          "unit": "",
+          "temperature": "1200 K"
+        },
+        {
+          "material": "TaFeSn",
+          "value": 0.77,
+          "unit": "",
+          "temperature": "10 K"
+        },
+        {
+          "material": "TaFeSn",
+          "value": 0.79,
+          "unit": "",
+          "temperature": "300 K"
+        },
+        {
+          "material": "TaFeSn",
+          "value": 0.45,
+          "unit": "",
+          "temperature": "500 K"
+        },
+        {
+          "material": "TaFeSn",
+          "value": 0.94,
+          "unit": "",
+          "temperature": "1200 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "TaFeGe",
+          "zt_value": 0.72,
+          "temperature": "300 K"
+        },
+        {
+          "material": "TaFeGe",
+          "zt_value": 0.9,
+          "temperature": "1200 K"
+        },
+        {
+          "material": "TaFeSn",
+          "zt_value": 0.77,
+          "temperature": "100 K"
+        },
+        {
+          "material": "TaFeSn",
+          "zt_value": 0.45,
+          "temperature": "500 K"
+        },
+        {
+          "material": "TaFeSn",
+          "zt_value": 0.94,
+          "temperature": "1200 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": [
+        {
+          "min_temp": "10 K",
+          "max_temp": "1200 K",
+          "context": "Temperature-dependent thermoelectric properties investigation"
+        },
+        {
+          "min_temp": "10 K",
+          "max_temp": "300 K",
+          "context": "Low-temperature cooling"
+        },
+        {
+          "min_temp": "300 K",
+          "max_temp": "500 K",
+          "context": "Wearable thermoelectric"
+        },
+        {
+          "min_temp": "500 K",
+          "max_temp": "1200 K",
+          "context": "High-temperature generators"
+        }
+      ]
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": [
+        {
+          "material": "TaFeGe",
+          "a": "Unknown",
+          "b": "Unknown",
+          "c": "Unknown",
+          "alpha": "Unknown",
+          "beta": "Unknown",
+          "gamma": "Unknown",
+          "system": "Unknown"
+        },
+        {
+          "material": "TaFeSn",
+          "a": "Unknown",
+          "b": "Unknown",
+          "c": "Unknown",
+          "alpha": "Unknown",
+          "beta": "Unknown",
+          "gamma": "Unknown",
+          "system": "Unknown"
+        }
+      ]
+    }
+  }
+}

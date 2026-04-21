@@ -1,0 +1,144 @@
+{
+  "doi": "10.1038/s41467-025-60571-1",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "PbSe",
+        "GaSb",
+        "Pb0.99875(GaSb)0.00125Se",
+        "Pb0.99875(GaSb)0.00125Zn0.01Se1.01-0.3%Cu"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "PbSe (GaSb doped)",
+          "value": "-",
+          "unit": "μV/K",
+          "temperature": "300-873 K",
+          "improvement": "significantly improved"
+        },
+        {
+          "material": "PbSe (GaSb, Zn, and Cu doped)",
+          "value": "-",
+          "unit": "μV/K",
+          "temperature": "300-873 K",
+          "lattice_thermal_conductivity_reduction": "record-low"
+        }
+      ]
+    },
+    "electrical_conductivity": null,
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "PbSe",
+          "value": 0.94,
+          "unit": "W/m·K",
+          "temperature": "300-873 K"
+        },
+        {
+          "material": "Pb0.99875 (GaSb) 0.00125 Se",
+          "value": 0.4,
+          "unit": "W/m·K",
+          "temperature": "873 K"
+        },
+        {
+          "material": "Pb0.99875 (GaSb) 0.00125 Zn0.01Se1.01-0.3%Cu",
+          "value": 0.4,
+          "unit": "W/m·K",
+          "temperature": "873 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Pb0.99875 (GaSb) 0.00125 Se",
+          "value": 22.37,
+          "unit": "μW/cm·K²",
+          "temperature_range": "300 ‒873 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Pb0.99875 (GaSb) 0.00125 Se",
+          "zt_value": 0.94,
+          "temperature": "300 ‒873 K"
+        },
+        {
+          "material": "Pb0.99875 (GaSb) 0.00125 Zn0.01Se1.01-0.3%Cu",
+          "zt_value": 1.01,
+          "temperature": "300 ‒873 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": [
+        {
+          "min_temp": "300 K",
+          "max_temp": "873 K",
+          "context": "Temperature range for PbSe samples with GaSb doping and lattice thermal conductivity reduction"
+        },
+        {
+          "min_temp": "300 K",
+          "max_temp": "873 K",
+          "context": "Temperature range for PbSe samples with interstitial Cu and discordant Zn atoms and record-low lattice thermal conductivity"
+        }
+      ]
+    },
+    "crystal_structure": {
+      "crystal_data": [
+        {
+          "material": "PbSe",
+          "structure": "not specified",
+          "space_group": "not specified"
+        },
+        {
+          "material": "Pb0.99875 (GaSb) 0.00125 Se",
+          "structure": "not specified",
+          "space_group": "not specified"
+        },
+        {
+          "material": "Pb0.99875 (GaSb) 0.00125 Zn0.01Se1.01-0.3%Cu",
+          "structure": "not specified",
+          "space_group": "not specified"
+        }
+      ]
+    },
+    "space_group": {
+      "space_group_data": [
+        {
+          "material": "PbSe",
+          "space_group": "unknown"
+        }
+      ]
+    },
+    "lattice_parameters": {
+      "lattice_data": [
+        {
+          "material": "Pb0.99875 (GaSb) 0.00125 Se",
+          "a": "not provided",
+          "b": "not provided",
+          "c": "not provided",
+          "alpha": "not provided",
+          "beta": "not provided",
+          "gamma": "not provided",
+          "system": "not provided"
+        },
+        {
+          "material": "Pb0.99875 (GaSb) 0.00125 Zn0.01Se1.01-0.3%Cu",
+          "a": "not provided",
+          "b": "not provided",
+          "c": "not provided",
+          "alpha": "not provided",
+          "beta": "not provided",
+          "gamma": "not provided",
+          "system": "not provided"
+        }
+      ]
+    }
+  }
+}

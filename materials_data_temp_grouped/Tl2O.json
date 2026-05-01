@@ -1,0 +1,51 @@
+{
+  "Material": "Tl2O",
+  "DOIs_Researched": [
+    "10.1039/c8tc06601a",
+    "10.1016/j.ssc.2019.02.004"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Tl2O",
+        "Property": "ThermCond",
+        "Value": 0.49,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2019.02.004"
+      },
+      {
+        "Original_Name_In_Paper": "single layer p-type Tl2O",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8tc06601a"
+      },
+      {
+        "Original_Name_In_Paper": "single-layer Tl2O",
+        "Property": "ZT",
+        "Value": 1.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8tc06601a"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Tl2O",
+        "Property": "ZT",
+        "Value": 1.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8tc06601a"
+      },
+      {
+        "Original_Name_In_Paper": "Tl2O",
+        "Property": "ZT",
+        "Value": 1.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8tc06601a"
+      }
+    ]
+  }
+}

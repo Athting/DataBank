@@ -1,0 +1,18 @@
+{
+  "Material": "La0.75Sr0.25Cr0.5Mn0.5",
+  "DOIs_Researched": [
+    "10.1016/j.ijhydene.2017.12.134"
+  ],
+  "Data_By_Temperature": {
+    "1173.0": [
+      {
+        "Original_Name_In_Paper": "La0.75Sr0.25Cr0.5Mn0.5O3",
+        "Property": "Conductivity",
+        "Value": 150.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ijhydene.2017.12.134"
+      }
+    ]
+  }
+}

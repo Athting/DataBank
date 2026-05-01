@@ -1,0 +1,178 @@
+{
+  "Material": "SrTe",
+  "DOIs_Researched": [
+    "10.1038/nature12608",
+    "10.1038/nature11439",
+    "10.1016/j.jssc.2011.09.031",
+    "10.1016/j.scriptamat.2016.04.009",
+    "10.1016/j.actamat.2017.03.036",
+    "10.1016/j.jallcom.2017.07.193",
+    "10.1038/nchem.955",
+    "10.1039/c2jm33899h",
+    "10.1039/c1ee02297k",
+    "10.1007/s11837-014-1155-0",
+    "10.1016/j.jallcom.2017.10.185",
+    "10.1016/j.actamat.2014.12.042",
+    "10.1016/j.cap.2016.03.028",
+    "10.1039/c3ta11825h",
+    "10.1557/jmr.2015.151",
+    "10.1016/j.jmat.2015.01.001",
+    "10.1016/j.mattod.2013.05.004"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "SrTe nanoprecipitates",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11837-014-1155-0"
+      },
+      {
+        "Original_Name_In_Paper": "SrTe nanocrystals",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/nature11439"
+      },
+      {
+        "Original_Name_In_Paper": "SrTe",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/nchem.955"
+      },
+      {
+        "Original_Name_In_Paper": "SrTe",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": "including SrTe",
+        "Source_DOI": "10.1016/j.actamat.2014.12.042"
+      },
+      {
+        "Original_Name_In_Paper": "SrTe nano-precipitates",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": "introducing SrTe",
+        "Source_DOI": "10.1016/j.jmat.2015.01.001"
+      },
+      {
+        "Original_Name_In_Paper": "SrTe",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2011.09.031"
+      },
+      {
+        "Original_Name_In_Paper": "SrTe nanoparticles",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": "By including",
+        "Source_DOI": "10.1038/nature12608"
+      },
+      {
+        "Original_Name_In_Paper": "SrTe-2 % doped PbTe",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2017.03.036"
+      },
+      {
+        "Original_Name_In_Paper": "SrTe",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mattod.2013.05.004"
+      },
+      {
+        "Original_Name_In_Paper": "SrTe nanocrystals",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2jm33899h"
+      },
+      {
+        "Original_Name_In_Paper": "SrTe",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c1ee02297k"
+      },
+      {
+        "Original_Name_In_Paper": "SrTe nanocrystals",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta11825h"
+      }
+    ],
+    "915.0": [
+      {
+        "Original_Name_In_Paper": "SrTe nanoscale",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1557/jmr.2015.151"
+      },
+      {
+        "Original_Name_In_Paper": "SrTe nanoscale",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.10.185"
+      },
+      {
+        "Original_Name_In_Paper": "PbTe-doped SrTe nano-sized",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2016.04.009"
+      }
+    ],
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "SrTe",
+        "Property": "ZT",
+        "Value": 2.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.07.193"
+      }
+    ],
+    "813.0": [
+      {
+        "Original_Name_In_Paper": "SrTe nanocrystals",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2016.03.028"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "0.5 % SrTe",
+        "Property": "Seebeck",
+        "Value": 6.5e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/nchem.955"
+      }
+    ]
+  }
+}

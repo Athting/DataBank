@@ -1,0 +1,18 @@
+{
+  "Material": "PbSe1\u2212xTe",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2011.01.033"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "PbSe1\u2212xTex samples with Te",
+        "Property": "Conductivity",
+        "Value": 28571.4285714286,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2011.01.033"
+      }
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "Material": "(Sn0.95Cd0.05Te)0.93(C",
+  "DOIs_Researched": [
+    "10.1039/c9ta11180h"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "(Sn0.95Cd0.05Te)0.93(Cu2Te)0.07",
+        "Property": "ThermCond",
+        "Value": 0.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta11180h"
+      },
+      {
+        "Original_Name_In_Paper": "(Sn0.95Cd0.05Te)0.93(Cu2Te)0.07",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta11180h"
+      },
+      {
+        "Original_Name_In_Paper": "(Sn0.95Cd0.05Te)0.93(Cu2Te)0.07",
+        "Property": "ZT",
+        "Value": 1.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta11180h"
+      }
+    ],
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "(Sn0.95Cd0.05Te)0.93(Cu2Te)0.07",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta11180h"
+      },
+      {
+        "Original_Name_In_Paper": "(Sn0.95Cd0.05Te)0.93(Cu2Te)0.07",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta11180h"
+      }
+    ]
+  }
+}

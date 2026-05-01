@@ -1,0 +1,36 @@
+{
+  "Material": "(Ge0.84Pb0.16Te)0.93Bi2",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2019.151747"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "(Ge0.84Pb0.16Te)0.93(Bi2Te3)0.07",
+        "Property": "ThermCond",
+        "Value": 0.46,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.151747"
+      },
+      {
+        "Original_Name_In_Paper": "(Ge0.84Pb0.16Te)0.93(Bi2Te3)0.07",
+        "Property": "ZT",
+        "Value": 1.47,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.151747"
+      }
+    ],
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "(Ge0.84Pb0.16Te)0.93(Bi2Te3)0.07",
+        "Property": "ZT",
+        "Value": 1.47,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.151747"
+      }
+    ]
+  }
+}

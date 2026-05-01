@@ -1,0 +1,18 @@
+{
+  "Material": "Sn0.958In0.01Cd0.03Te",
+  "DOIs_Researched": [
+    "10.1039/c7tc02162c"
+  ],
+  "Data_By_Temperature": {
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.958In0.01Cd0.03Te",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7tc02162c"
+      }
+    ]
+  }
+}

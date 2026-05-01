@@ -1,0 +1,18 @@
+{
+  "Material": "CuGaTe8",
+  "DOIs_Researched": [
+    "10.1039/c8ta04379e"
+  ],
+  "Data_By_Temperature": {
+    "870.0": [
+      {
+        "Original_Name_In_Paper": "Cu4\u2212\u03b4Ga4Te8 ternary chalcogenides",
+        "Property": "ZT",
+        "Value": 1.51,
+        "Units": null,
+        "Editing": "addition of Sb",
+        "Source_DOI": "10.1039/c8ta04379e"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "PbTe : Tl produces",
+  "DOIs_Researched": [
+    "10.1039/c1ee01928g"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "PbTe : Tl produces",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": "Tl - doping",
+        "Source_DOI": "10.1039/c1ee01928g"
+      }
+    ]
+  }
+}

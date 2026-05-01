@@ -1,0 +1,67 @@
+{
+  "doi": "10.1016/j.jallcom.2006.02.003",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Co3.2Fe0.8Sb12",
+        "Co3.35Fe0.65Sb12"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Co3.2Fe0.8Sb12",
+          "value": 2.58,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Co3.2Fe0.8Sb12",
+          "zt_value": 0.53,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "Co3.2Fe0.8Sb12",
+          "zt_value": 0.53,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "Co3.2Fe0.8Sb12",
+          "zt_value": 0.53,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "Co3.35Fe0.65Sb12",
+          "zt_value": 0.32,
+          "temperature": "773.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

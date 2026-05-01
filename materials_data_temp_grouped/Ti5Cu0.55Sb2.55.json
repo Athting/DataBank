@@ -1,0 +1,18 @@
+{
+  "Material": "Ti5Cu0.55Sb2.55",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2008.02.114"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ti5Cu0.55Sb2.55",
+        "Property": "Conductivity",
+        "Value": 408163.2653061224,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2008.02.114"
+      }
+    ]
+  }
+}

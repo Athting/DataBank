@@ -1,0 +1,18 @@
+{
+  "Material": "Ba8Ge16Ge30",
+  "DOIs_Researched": [
+    "10.1039/b916400f"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ba8Ge16Ge30",
+        "Property": "ThermCond",
+        "Value": 1.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/b916400f"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "transition metal sublattice",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2015.03.017"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "transition metal sublattice",
+        "Property": "ZT",
+        "Value": 0.45,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2015.03.017"
+      }
+    ]
+  }
+}

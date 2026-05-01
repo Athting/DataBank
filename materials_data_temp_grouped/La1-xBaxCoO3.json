@@ -1,0 +1,18 @@
+{
+  "Material": "La1-xBaxCoO3",
+  "DOIs_Researched": [
+    "10.1007/s40145-019-0333-5"
+  ],
+  "Data_By_Temperature": {
+    "330.0": [
+      {
+        "Original_Name_In_Paper": "La1\u2013xBaxCoO3",
+        "Property": "ZT",
+        "Value": 0.048,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s40145-019-0333-5"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "Material": "Co3.40Ni0.60Sb12",
+  "DOIs_Researched": [
+    "10.1039/c9tc01824g"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Co3.40Ni0.60Sb12",
+        "Property": "PF",
+        "Value": 0.0034000000000000002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc01824g"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Co3.40Ni0.60Sb12",
+        "Property": "Conductivity",
+        "Value": 179000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc01824g"
+      }
+    ]
+  }
+}

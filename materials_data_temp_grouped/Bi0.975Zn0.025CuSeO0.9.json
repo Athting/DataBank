@@ -1,0 +1,26 @@
+{
+  "Material": "Bi0.975Zn0.025CuSeO0.9",
+  "DOIs_Researched": [
+    "10.1007/s11664-017-5579-5"
+  ],
+  "Data_By_Temperature": {
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.975Zn0.025CuSeO0.975S0.025",
+        "Property": "Seebeck",
+        "Value": 0.00036,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-017-5579-5"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.975Zn0.025CuSeO0.975S0.025",
+        "Property": "Conductivity",
+        "Value": 4330.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-017-5579-5"
+      }
+    ]
+  }
+}

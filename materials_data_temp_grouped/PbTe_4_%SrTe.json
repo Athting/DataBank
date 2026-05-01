@@ -1,0 +1,36 @@
+{
+  "Material": "PbTe_4\\%SrTe",
+  "DOIs_Researched": [
+    "10.1039/c5ra03942h",
+    "10.1007/s11434-014-0237-2",
+    "10.1016/B978-0-12-815751-0.00009-2"
+  ],
+  "Data_By_Temperature": {
+    "915.0": [
+      {
+        "Original_Name_In_Paper": "p-type PbTe doped with 4 % SrTe",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra03942h"
+      },
+      {
+        "Original_Name_In_Paper": "p-type PbTe doped with 4 % SrTe",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11434-014-0237-2"
+      },
+      {
+        "Original_Name_In_Paper": "p-type PbTe doped with 4 % SrTe",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-12-815751-0.00009-2"
+      }
+    ]
+  }
+}

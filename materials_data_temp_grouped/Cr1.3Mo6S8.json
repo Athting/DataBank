@@ -1,0 +1,18 @@
+{
+  "Material": "Cr1.3Mo6S8",
+  "DOIs_Researched": [
+    "10.1007/s11664-009-0975-0"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "Cr1.3Mo6S8",
+        "Property": "ZT",
+        "Value": 0.17,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-009-0975-0"
+      }
+    ]
+  }
+}

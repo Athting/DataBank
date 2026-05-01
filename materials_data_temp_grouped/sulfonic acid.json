@@ -1,0 +1,18 @@
+{
+  "Material": "sulfonic acid",
+  "DOIs_Researched": [
+    "10.1016/j.enchem.2020.100029"
+  ],
+  "Data_By_Temperature": {
+    "353.0": [
+      {
+        "Original_Name_In_Paper": "sulfonic acid",
+        "Property": "Conductivity",
+        "Value": 4.63,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.enchem.2020.100029"
+      }
+    ]
+  }
+}

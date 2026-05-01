@@ -1,0 +1,58 @@
+{
+  "Material": "SnGe0.2Te",
+  "DOIs_Researched": [
+    "10.1039/c7cp04931e"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.8Ge0.2Te",
+        "Property": "ThermCond",
+        "Value": 5.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cp04931e"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.8Ge0.2Te",
+        "Property": "ThermCond",
+        "Value": 3.7,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cp04931e"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.8Ge0.2Te",
+        "Property": "ThermCond",
+        "Value": 3.1,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cp04931e"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.8Ge0.2Te",
+        "Property": "Conductivity",
+        "Value": 500000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cp04931e"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.8Ge0.2Te",
+        "Property": "Conductivity",
+        "Value": 204081.6326530612,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cp04931e"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.8Ge0.2Te",
+        "Property": "Conductivity",
+        "Value": 121951.2195121951,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cp04931e"
+      }
+    ]
+  }
+}

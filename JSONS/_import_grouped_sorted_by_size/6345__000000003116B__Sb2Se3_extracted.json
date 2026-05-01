@@ -1,0 +1,129 @@
+{
+  "doi": "10.1016/j.physb.2018.06.030",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "pure Sb2Se3",
+        "Sb2Se3 NW",
+        "Sb2Se3",
+        "Sb2Se3 nanowires",
+        "Te-doped Sb2Se3",
+        "Sb2Se3 nanocrystals",
+        "n-type Sb2Se3"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "Sb2Se3 NW",
+          "value": 0.000661,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Sb2Se3",
+          "value": 0.0018000000000000002,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Sb2Se3 nanowires",
+          "value": -0.00075,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Te-doped Sb2Se3",
+          "value": -0.000145,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Sb2Se3 nanocrystals",
+          "value": -0.00075,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "pure Sb2Se3",
+          "value": 5,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure Sb2Se3",
+          "value": 5,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Sb2Se3",
+          "value": 1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Sb2Se3",
+          "value": 0.000002,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Te-doped Sb2Se3",
+          "value": 0.001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "n-type Sb2Se3",
+          "zt_value": 1.12,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "Sb2Se3",
+          "zt_value": 1.12,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "n-type Sb2Se3",
+          "zt_value": 1.12,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "Sb2Se3",
+          "zt_value": 1,
+          "temperature": "100.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "3.0 wt % SiC",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2016.11.331"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "3.0 wt % SiC",
+        "Property": "ThermCond",
+        "Value": 1.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": "addition of SiC",
+        "Source_DOI": "10.1016/j.jallcom.2016.11.331"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "Material": "TlGdTe2",
+  "DOIs_Researched": [
+    "10.1007/s11664-011-1846-z"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "telluride TlGdTe2",
+        "Property": "ThermCond",
+        "Value": 0.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-011-1846-z"
+      }
+    ],
+    "550.0": [
+      {
+        "Original_Name_In_Paper": "TlGdTe2",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-011-1846-z"
+      }
+    ]
+  }
+}

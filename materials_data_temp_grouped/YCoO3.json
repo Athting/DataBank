@@ -1,0 +1,38 @@
+{
+  "Material": "YCoO3",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2013.03.095"
+  ],
+  "Data_By_Temperature": {
+    "190.0": [
+      {
+        "Original_Name_In_Paper": "YCoO3",
+        "Property": "Conductivity",
+        "Value": 0.00015290520000000001,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2013.03.095"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "YCoO3",
+        "Property": "Seebeck",
+        "Value": 0.001039,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2013.03.095"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "YCoO3",
+        "Property": "Seebeck",
+        "Value": 0.0010479999999999999,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2013.03.095"
+      }
+    ]
+  }
+}

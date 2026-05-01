@@ -1,0 +1,28 @@
+{
+  "Material": "Bi0.95Ca0.05Cu0.95Co0.",
+  "DOIs_Researched": [
+    "10.1016/j.solidstatesciences.2019.106019"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.95Ca0.05Cu0.95Co0.05SeO",
+        "Property": "ZT",
+        "Value": 0.11,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2019.106019"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Bi0.95Ca0.05Cu0.95Co0.05SeO",
+        "Property": "ZT",
+        "Value": 0.11,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2019.106019"
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "Material": "PbTeIAgSbSe2",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2020.154377"
+  ],
+  "Data_By_Temperature": {
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "PbTe0.992I0.008-5 % AgSbSe2",
+        "Property": "ThermCond",
+        "Value": 0.53,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154377"
+      }
+    ],
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "PbTe0.992I0.008-5 % AgSbSe2",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154377"
+      },
+      {
+        "Original_Name_In_Paper": "PbTe0.992I0.008+5 % AgSbSe2",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154377"
+      }
+    ],
+    "423.0": [
+      {
+        "Original_Name_In_Paper": "PbTe0.992I0.008-5 % AgSbSe2",
+        "Property": "PF",
+        "Value": 0.0014800000000000002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154377"
+      }
+    ]
+  }
+}

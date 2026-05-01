@@ -1,0 +1,18 @@
+{
+  "Material": "Bi0.85Sb0.15",
+  "DOIs_Researched": [
+    "10.1007/s10853-006-0831-z"
+  ],
+  "Data_By_Temperature": {
+    "100.0": [
+      {
+        "Original_Name_In_Paper": "single-crystal Bi0.85Sb0.15 alloy",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-006-0831-z"
+      }
+    ]
+  }
+}

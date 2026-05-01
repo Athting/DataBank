@@ -1,0 +1,18 @@
+{
+  "Material": "GexBixTe",
+  "DOIs_Researched": [
+    "10.1038/s41598-019-45071-9"
+  ],
+  "Data_By_Temperature": {
+    "740.0": [
+      {
+        "Original_Name_In_Paper": "Ge1-xBixTe crystals",
+        "Property": "ZT",
+        "Value": 1.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-019-45071-9"
+      }
+    ]
+  }
+}

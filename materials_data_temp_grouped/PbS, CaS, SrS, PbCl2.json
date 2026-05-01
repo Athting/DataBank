@@ -1,0 +1,34 @@
+{
+  "Material": "PbS, CaS, SrS, PbCl2",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2019.120995"
+  ],
+  "Data_By_Temperature": {
+    "930.0": [
+      {
+        "Original_Name_In_Paper": "n-type PbS+3 % CaS / SrS+1 % PbCl2 based materials",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2019.120995"
+      },
+      {
+        "Original_Name_In_Paper": "n-type PbS+3 % CaS / SrS+1 % PbCl2",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2019.120995"
+      },
+      {
+        "Original_Name_In_Paper": "n-type PbS+3 % CaS / SrS+1 % PbCl2",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2019.120995"
+      }
+    ]
+  }
+}

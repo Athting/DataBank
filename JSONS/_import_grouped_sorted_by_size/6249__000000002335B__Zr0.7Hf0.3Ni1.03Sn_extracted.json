@@ -1,0 +1,98 @@
+{
+  "doi": "10.1039/c5cp05213k",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Zr0.7Hf0.3Ni1.03Sn"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "Zr0.7Hf0.3Ni1.03Sn",
+          "value": -0.000158,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "773.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "Zr0.7Hf0.3Ni1.03Sn",
+          "value": 1230,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "773.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Zr0.7Hf0.3Ni1.03Sn",
+          "value": 2.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Zr0.7Hf0.3Ni1.03Sn",
+          "value": 2.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Zr0.7Hf0.3Ni1.03Sn",
+          "value": 0.0030700000000000002,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Zr0.7Hf0.3Ni1.03Sn",
+          "zt_value": 0.96,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Zr0.7Hf0.3Ni1.03Sn",
+          "zt_value": 0.96,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Zr0.7Hf0.3Ni1.03Sn",
+          "zt_value": 0.96,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Zr0.7Hf0.3Ni1.03Sn",
+          "zt_value": 0.96,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Zr0.7Hf0.3Ni1.03Sn",
+          "zt_value": 0.96,
+          "temperature": "773.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

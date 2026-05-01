@@ -1,0 +1,38 @@
+{
+  "Material": "In4Se3\u2212\u03b4",
+  "DOIs_Researched": [
+    "10.1039/c2jm33899h",
+    "10.1016/j.pmatsci.2016.07.002",
+    "10.1039/d0ta00240b"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "In4Se3\u2212\u03b4",
+        "Property": "ThermCond",
+        "Value": 1.7000000000000002,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta00240b"
+      }
+    ],
+    "705.0": [
+      {
+        "Original_Name_In_Paper": "crystalline n-type In4Se3\u2212\u03b4",
+        "Property": "ZT",
+        "Value": 1.48,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2016.07.002"
+      },
+      {
+        "Original_Name_In_Paper": "In4Se3\u2212\u03b4",
+        "Property": "ZT",
+        "Value": 1.48,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2jm33899h"
+      }
+    ]
+  }
+}

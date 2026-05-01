@@ -1,0 +1,18 @@
+{
+  "Material": "LaCoO\u2082.9NiO\u2082.9",
+  "DOIs_Researched": [
+    "10.1016/j.progsolidstchem.2007.01.020"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "LaCo0.90Ni0.10O2.9",
+        "Property": "PF",
+        "Value": 0.00027,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.progsolidstchem.2007.01.020"
+      }
+    ]
+  }
+}

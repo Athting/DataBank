@@ -1,0 +1,18 @@
+{
+  "Material": "Ge1.00In0.01Te",
+  "DOIs_Researched": [
+    "10.1016/j.mtphys.2020.100239"
+  ],
+  "Data_By_Temperature": {
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "Ge1.00In0.01Te",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": "doping of In",
+        "Source_DOI": "10.1016/j.mtphys.2020.100239"
+      }
+    ]
+  }
+}

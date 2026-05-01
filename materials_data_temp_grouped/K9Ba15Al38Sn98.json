@@ -1,0 +1,26 @@
+{
+  "Material": "K9Ba15Al38Sn98",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2016.09.231"
+  ],
+  "Data_By_Temperature": {
+    "590.0": [
+      {
+        "Original_Name_In_Paper": "K9Ba15Al38Sn98",
+        "Property": "ZT",
+        "Value": 0.5700000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.09.231"
+      },
+      {
+        "Original_Name_In_Paper": "K9Ba15Al38Sn98",
+        "Property": "ZT",
+        "Value": 0.5700000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.09.231"
+      }
+    ]
+  }
+}

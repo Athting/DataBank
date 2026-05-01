@@ -1,0 +1,26 @@
+{
+  "Material": "CeLaFeCo3Sb12",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2018.11.030"
+  ],
+  "Data_By_Temperature": {
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "Ce0.1La0.2FeCo3-Sb12",
+        "Property": "ThermCond",
+        "Value": 1.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2018.11.030"
+      },
+      {
+        "Original_Name_In_Paper": "Ce0.1La0.2FeCo3-Sb12",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2018.11.030"
+      }
+    ]
+  }
+}

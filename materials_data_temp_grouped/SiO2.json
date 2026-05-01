@@ -1,0 +1,334 @@
+{
+  "Material": "SiO2",
+  "DOIs_Researched": [
+    "10.1016/S0921-5107(01)00912-6",
+    "10.1016/j.jallcom.2017.09.305",
+    "10.1016/B978-0-32-346240-2.00012-1",
+    "10.1016/j.jeurceramsoc.2020.05.052",
+    "10.1016/j.jallcom.2017.02.295",
+    "10.1016/j.intermet.2005.10.018",
+    "10.1016/j.physb.2015.12.028",
+    "10.1016/S0921-5107(99)00477-8",
+    "10.1016/B978-0-12-819576-5.00006-2",
+    "10.1016/j.nanoen.2020.105379",
+    "10.1038/srep08501",
+    "10.1016/S0167-2738(00)00709-8",
+    "10.1016/j.nanoen.2014.11.029",
+    "10.1039/c7cs00315c",
+    "10.1016/j.sna.2007.01.013",
+    "10.1038/nnano.2012.88",
+    "10.1557/mrs.2012.203",
+    "10.1016/S0025-5408(97)00250-X",
+    "10.1016/S1369-7021(12)70117-7",
+    "10.1016/j.intermet.2010.05.011",
+    "10.1039/c3ta01594g",
+    "10.1016/B978-044482548-3-50088-3",
+    "10.1016/j.tsf.2011.06.008",
+    "10.1016/j.carbon.2012.09.021",
+    "10.1016/j.matchar.2007.10.009",
+    "10.1039/c9tc05710b",
+    "10.1016/j.snb.2017.03.113",
+    "10.1140/epjb-e2015-50594-7",
+    "10.1016/j.jallcom.2018.09.335",
+    "10.1016/S0025-5408(00)00425-6",
+    "10.1016/S0167-577X(97)00217-6",
+    "10.1016/B978-0-12-811091-1.00004-5",
+    "10.1016/j.mtadv.2019.100029"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "SiO2",
+        "Property": "ThermCond",
+        "Value": 600.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1557/mrs.2012.203"
+      },
+      {
+        "Original_Name_In_Paper": "SiO2",
+        "Property": "ThermCond",
+        "Value": 160.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1557/mrs.2012.203"
+      },
+      {
+        "Original_Name_In_Paper": "amorphous SiO2",
+        "Property": "ThermCond",
+        "Value": 2.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta01594g"
+      },
+      {
+        "Original_Name_In_Paper": "SiO2",
+        "Property": "ThermCond",
+        "Value": 1.3599999999999999,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0167-577X(97)00217-6"
+      },
+      {
+        "Original_Name_In_Paper": "SiO2",
+        "Property": "ThermCond",
+        "Value": 1.3599999999999999,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0921-5107(01)00912-6"
+      },
+      {
+        "Original_Name_In_Paper": "SiO2",
+        "Property": "ThermCond",
+        "Value": 1.3599999999999999,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2005.10.018"
+      },
+      {
+        "Original_Name_In_Paper": "amorphous SiO2",
+        "Property": "ThermCond",
+        "Value": 1.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2014.11.029"
+      },
+      {
+        "Original_Name_In_Paper": "SiO2",
+        "Property": "ThermCond",
+        "Value": 1.3599999999999999,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2010.05.011"
+      },
+      {
+        "Original_Name_In_Paper": "SiO2",
+        "Property": "ThermCond",
+        "Value": 1.3599999999999999,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0025-5408(00)00425-6"
+      },
+      {
+        "Original_Name_In_Paper": "SiO2 / Si",
+        "Property": "ThermCond",
+        "Value": 15.6,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.09.335"
+      },
+      {
+        "Original_Name_In_Paper": "SiO2",
+        "Property": "ThermCond",
+        "Value": 1.3599999999999999,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0921-5107(99)00477-8"
+      },
+      {
+        "Original_Name_In_Paper": "graphene-on-SiO2",
+        "Property": "ThermCond",
+        "Value": 600.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S1369-7021(12)70117-7"
+      },
+      {
+        "Original_Name_In_Paper": "SiO2",
+        "Property": "ThermCond",
+        "Value": 80.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.carbon.2012.09.021"
+      },
+      {
+        "Original_Name_In_Paper": "SiO2",
+        "Property": "ThermCond",
+        "Value": 600.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-12-819576-5.00006-2"
+      },
+      {
+        "Original_Name_In_Paper": "SiO2",
+        "Property": "ThermCond",
+        "Value": 1.3599999999999999,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0025-5408(97)00250-X"
+      },
+      {
+        "Original_Name_In_Paper": "SiO2",
+        "Property": "ThermCond",
+        "Value": 1.3599999999999999,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-044482548-3-50088-3"
+      },
+      {
+        "Original_Name_In_Paper": "amorphous SiO2",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.105379"
+      },
+      {
+        "Original_Name_In_Paper": "SiO2 / Si",
+        "Property": "Conductivity",
+        "Value": 200.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2020.05.052"
+      },
+      {
+        "Original_Name_In_Paper": "SiO2",
+        "Property": "Seebeck",
+        "Value": 5e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc05710b"
+      },
+      {
+        "Original_Name_In_Paper": "SiO2",
+        "Property": "Conductivity",
+        "Value": 68000000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchar.2007.10.009"
+      },
+      {
+        "Original_Name_In_Paper": "SiO2",
+        "Property": "Conductivity",
+        "Value": 3.5,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": "addition of SiO2",
+        "Source_DOI": "10.1016/B978-0-12-811091-1.00004-5"
+      },
+      {
+        "Original_Name_In_Paper": "SiO2 / Si",
+        "Property": "Conductivity",
+        "Value": 4000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cs00315c"
+      }
+    ],
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "SiO2",
+        "Property": "ThermCond",
+        "Value": 1.6,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.09.305"
+      },
+      {
+        "Original_Name_In_Paper": "SiO2",
+        "Property": "ThermCond",
+        "Value": 1.6,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.02.295"
+      }
+    ],
+    "5.0": [
+      {
+        "Original_Name_In_Paper": "amorphous SiO2",
+        "Property": "ThermCond",
+        "Value": 0.1,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/nnano.2012.88"
+      }
+    ],
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "SiO2",
+        "Property": "ThermCond",
+        "Value": 0.6000000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtadv.2019.100029"
+      }
+    ],
+    "298.0": [
+      {
+        "Original_Name_In_Paper": "SiO2",
+        "Property": "ThermCond",
+        "Value": 10.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.snb.2017.03.113"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "amorphous SiO2",
+        "Property": "ThermCond",
+        "Value": 600.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/srep08501"
+      },
+      {
+        "Original_Name_In_Paper": "silicon dioxide",
+        "Property": "ThermCond",
+        "Value": 600.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-32-346240-2.00012-1"
+      }
+    ],
+    "1223.0": [
+      {
+        "Original_Name_In_Paper": "silicon oxide",
+        "Property": "ZT",
+        "Value": 0.45,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1140/epjb-e2015-50594-7"
+      }
+    ],
+    "1323.0": [
+      {
+        "Original_Name_In_Paper": "amorphous silicon dioxide film",
+        "Property": "Conductivity",
+        "Value": 10.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.sna.2007.01.013"
+      }
+    ],
+    "293.0": [
+      {
+        "Original_Name_In_Paper": "SiO2",
+        "Property": "Seebeck",
+        "Value": -0.000624,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2011.06.008"
+      }
+    ],
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "SiO2",
+        "Property": "PF",
+        "Value": 0.00034899999999999997,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2015.12.028"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "SiO2",
+        "Property": "Conductivity",
+        "Value": 1.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0167-2738(00)00709-8"
+      }
+    ]
+  }
+}

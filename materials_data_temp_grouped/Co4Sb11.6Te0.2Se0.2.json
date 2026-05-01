@@ -1,0 +1,18 @@
+{
+  "Material": "Co4Sb11.6Te0.2Se0.2",
+  "DOIs_Researched": [
+    "10.1016/j.physb.2013.05.026"
+  ],
+  "Data_By_Temperature": {
+    "590.0": [
+      {
+        "Original_Name_In_Paper": "Co4Sb11.6Te0.2Se0.2",
+        "Property": "Seebeck",
+        "Value": 0.000299,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2013.05.026"
+      }
+    ]
+  }
+}

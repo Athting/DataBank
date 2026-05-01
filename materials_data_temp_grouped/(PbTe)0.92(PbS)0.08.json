@@ -1,0 +1,18 @@
+{
+  "Material": "(PbTe)0.92(PbS)0.08",
+  "DOIs_Researched": [
+    "10.1016/j.commatsci.2011.08.016"
+  ],
+  "Data_By_Temperature": {
+    "642.0": [
+      {
+        "Original_Name_In_Paper": "(PbTe)0.92(PbS)0.08",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2011.08.016"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "In5Sb5Cu",
+  "DOIs_Researched": [
+    "10.1016/j.cap.2011.04.044"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "In5Sb5Cu",
+        "Property": "ThermCond",
+        "Value": 10.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2011.04.044"
+      }
+    ]
+  }
+}

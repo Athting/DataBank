@@ -1,0 +1,18 @@
+{
+  "Material": "(Hf0.5Zr0.5)NiSn",
+  "DOIs_Researched": [
+    "10.1557/PROC-0886-F09-02"
+  ],
+  "Data_By_Temperature": {
+    "963.0": [
+      {
+        "Original_Name_In_Paper": "(Hf0.5Zr0.5)NiSn",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1557/PROC-0886-F09-02"
+      }
+    ]
+  }
+}

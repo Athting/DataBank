@@ -1,0 +1,18 @@
+{
+  "Material": "Ca3Co3.97Cu0.03O9",
+  "DOIs_Researched": [
+    "10.1039/c8ra01691g"
+  ],
+  "Data_By_Temperature": {
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "Ca3Co3.97Cu0.03O9",
+        "Property": "PF",
+        "Value": 0.00021,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ra01691g"
+      }
+    ]
+  }
+}

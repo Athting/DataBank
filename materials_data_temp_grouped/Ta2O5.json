@@ -1,0 +1,18 @@
+{
+  "Material": "Ta2O5",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2017.01.340"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ta2O5",
+        "Property": "ThermCond",
+        "Value": 0.8200000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.01.340"
+      }
+    ]
+  }
+}

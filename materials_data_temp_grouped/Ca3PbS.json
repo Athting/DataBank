@@ -1,0 +1,18 @@
+{
+  "Material": "Ca3PbS",
+  "DOIs_Researched": [
+    "10.1016/j.physleta.2019.02.013"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ca3PbS",
+        "Property": "Seebeck",
+        "Value": 0.000249487,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physleta.2019.02.013"
+      }
+    ]
+  }
+}

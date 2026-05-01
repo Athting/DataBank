@@ -1,0 +1,26 @@
+{
+  "Material": "CuAgTe2",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2013.10.030"
+  ],
+  "Data_By_Temperature": {
+    "610.0": [
+      {
+        "Original_Name_In_Paper": "CuAg0.05Ga0.95Te2",
+        "Property": "ThermCond",
+        "Value": 0.6000000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.10.030"
+      },
+      {
+        "Original_Name_In_Paper": "CuAg0.05Ga0.95Te2",
+        "Property": "ThermCond",
+        "Value": 0.6000000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.10.030"
+      }
+    ]
+  }
+}

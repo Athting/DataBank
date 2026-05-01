@@ -1,0 +1,28 @@
+{
+  "Material": "Cu2Ge0.8Ni0.2Se3",
+  "DOIs_Researched": [
+    "10.1016/j.jeurceramsoc.2020.12.037"
+  ],
+  "Data_By_Temperature": {
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "Cu2Ge0.8Ni0.2Se3",
+        "Property": "PF",
+        "Value": 0.0008,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2020.12.037"
+      }
+    ],
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "Cu2Ge0.8Ni0.2Se3",
+        "Property": "Conductivity",
+        "Value": 394350.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2020.12.037"
+      }
+    ]
+  }
+}

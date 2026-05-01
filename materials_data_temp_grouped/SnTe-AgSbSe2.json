@@ -1,0 +1,18 @@
+{
+  "Material": "SnTe-AgSbSe2",
+  "DOIs_Researched": [
+    "10.1016/j.jmat.2016.05.002"
+  ],
+  "Data_By_Temperature": {
+    "820.0": [
+      {
+        "Original_Name_In_Paper": "SnTe\u2013AgSbSe2 composites",
+        "Property": "ZT",
+        "Value": 0.92,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2016.05.002"
+      }
+    ]
+  }
+}

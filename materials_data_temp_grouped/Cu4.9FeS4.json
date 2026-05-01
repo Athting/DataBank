@@ -1,0 +1,42 @@
+{
+  "Material": "Cu4.9FeS4",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2018.09.291"
+  ],
+  "Data_By_Temperature": {
+    "590.0": [
+      {
+        "Original_Name_In_Paper": "Cu4.9Zn0.1FeS4",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.09.291"
+      },
+      {
+        "Original_Name_In_Paper": "Cu4.9Zn0.1FeS4",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.09.291"
+      },
+      {
+        "Original_Name_In_Paper": "Cu4.9Zn0.1FeS4",
+        "Property": "PF",
+        "Value": 0.00025,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": "Zn - substitution",
+        "Source_DOI": "10.1016/j.jallcom.2018.09.291"
+      },
+      {
+        "Original_Name_In_Paper": "Cu4.9Zn0.1FeS4",
+        "Property": "PF",
+        "Value": 0.00027,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.09.291"
+      }
+    ]
+  }
+}

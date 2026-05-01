@@ -1,0 +1,49 @@
+{
+  "Material": "K Au O",
+  "DOIs_Researched": [
+    "10.1016/j.cocom.2020.e00484",
+    "10.1007/s12034-019-1874-5"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "K3AuO",
+        "Property": "ThermCond",
+        "Value": 0.54,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cocom.2020.e00484"
+      }
+    ],
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "K3AuO",
+        "Property": "ZT",
+        "Value": 0.75,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s12034-019-1874-5"
+      }
+    ],
+    "350.0": [
+      {
+        "Original_Name_In_Paper": "K3AuO",
+        "Property": "Seebeck",
+        "Value": 0.00020531,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s12034-019-1874-5"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "K3AuO",
+        "Property": "Seebeck",
+        "Value": 0.00021568,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s12034-019-1874-5"
+      }
+    ]
+  }
+}

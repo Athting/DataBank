@@ -1,0 +1,64 @@
+{
+  "Material": "Bi85Sb13Nb2",
+  "DOIs_Researched": [
+    "10.1039/c8ra03858a",
+    "10.1016/j.proeng.2011.12.443",
+    "10.1016/j.jpcs.2010.04.008"
+  ],
+  "Data_By_Temperature": {
+    "200.0": [
+      {
+        "Original_Name_In_Paper": "Bi85Sb13Nb2",
+        "Property": "ZT",
+        "Value": 0.36,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ra03858a"
+      }
+    ],
+    "105.0": [
+      {
+        "Original_Name_In_Paper": "Bi85Sb13Nb2",
+        "Property": "Seebeck",
+        "Value": 0.00016099999999999998,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2010.04.008"
+      },
+      {
+        "Original_Name_In_Paper": "Bi85Sb13Nb2",
+        "Property": "Seebeck",
+        "Value": 0.00016099999999999998,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2010.04.008"
+      },
+      {
+        "Original_Name_In_Paper": "Bi85Sb13Nb2",
+        "Property": "Seebeck",
+        "Value": 0.00016099999999999998,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2010.04.008"
+      },
+      {
+        "Original_Name_In_Paper": "Bi85Sb13Nb2",
+        "Property": "Seebeck",
+        "Value": -0.00016183000000000001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.proeng.2011.12.443"
+      }
+    ],
+    "220.0": [
+      {
+        "Original_Name_In_Paper": "Bi85Sb13Nb2",
+        "Property": "PF",
+        "Value": 0.00445,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2010.04.008"
+      }
+    ]
+  }
+}

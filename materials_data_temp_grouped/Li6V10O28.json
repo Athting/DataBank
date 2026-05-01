@@ -1,0 +1,18 @@
+{
+  "Material": "Li6V10O28",
+  "DOIs_Researched": [
+    "10.1016/j.electacta.2006.08.069"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Li6V10O28",
+        "Property": "Conductivity",
+        "Value": 2.5,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.electacta.2006.08.069"
+      }
+    ]
+  }
+}

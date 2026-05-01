@@ -1,0 +1,64 @@
+{
+  "Material": "SrTiO3\u2212\u03b4",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2013.11.116"
+  ],
+  "Data_By_Temperature": {
+    "1006.0": [
+      {
+        "Original_Name_In_Paper": "(Sr0.9Gd0.1)TiO3\u2212\u03b4",
+        "Property": "ZT",
+        "Value": 0.37,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.11.116"
+      },
+      {
+        "Original_Name_In_Paper": "(Sr0.9Gd0.1)TiO3\u2212\u03b4",
+        "Property": "ZT",
+        "Value": 0.37,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.11.116"
+      }
+    ],
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "(Sr0.9Gd0.1)TiO3\u2212\u03b4",
+        "Property": "ZT",
+        "Value": 0.37,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.11.116"
+      },
+      {
+        "Original_Name_In_Paper": "(Sr0.9Gd0.1)TiO3\u2212\u03b4",
+        "Property": "PF",
+        "Value": 0.00107,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.11.116"
+      }
+    ],
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "(Sr0.9Gd0.1)TiO3\u2212\u03b4",
+        "Property": "PF",
+        "Value": 0.001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.11.116"
+      }
+    ],
+    "570.0": [
+      {
+        "Original_Name_In_Paper": "(Sr0.9Gd0.1)TiO3\u2212\u03b4",
+        "Property": "PF",
+        "Value": 0.0016,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.11.116"
+      }
+    ]
+  }
+}

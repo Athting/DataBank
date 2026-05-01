@@ -1,0 +1,254 @@
+{
+  "doi": "10.1039/c4dt03556a",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "tetrahedrite Cu12Sb4S13",
+        "Cu12Sb4S13",
+        "undoped Cu12Sb4S13",
+        "Cu12Sb4S13 / 3 % InSb",
+        "pure Cu12Sb4S13",
+        "Cu12Sb4S13 / 4 % InSb",
+        "bulk Cu12Sb4S13"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "Cu12Sb4S13 / 4 % InSb",
+          "value": 0.00022779999999999998,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "Cu12Sb4S13",
+          "value": 0.00014199999999999998,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "623.0 K"
+        },
+        {
+          "material": "bulk Cu12Sb4S13",
+          "value": 0.00009,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "340.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "Cu12Sb4S13",
+          "value": 111111.1111111111,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Cu12Sb4S13",
+          "value": 105,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "bulk Cu12Sb4S13",
+          "value": 100,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "320.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "tetrahedrite Cu12Sb4S13",
+          "value": 0.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Cu12Sb4S13",
+          "value": 0.65,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Cu12Sb4S13",
+          "value": 1.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "Cu12Sb4S13",
+          "value": 1.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "Cu12Sb4S13",
+          "value": 1.25,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "423.0 K"
+        },
+        {
+          "material": "Cu12Sb4S13",
+          "value": 1.1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "475.0 K"
+        },
+        {
+          "material": "Cu12Sb4S13",
+          "value": 0.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "Cu12Sb4S13",
+          "value": 1.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "923.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Cu12Sb4S13",
+          "value": 0.0004,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Cu12Sb4S13",
+          "value": 0.001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "Cu12Sb4S13",
+          "value": 0.0016200000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "623.0 K"
+        },
+        {
+          "material": "Cu12Sb4S13",
+          "value": 0.0017000000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "623.0 K"
+        },
+        {
+          "material": "Cu12Sb4S13",
+          "value": 0.00029,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Cu12Sb4S13",
+          "value": 0.00023,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "495.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Cu12Sb4S13",
+          "zt_value": 0.6000000000000001,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "Cu12Sb4S13",
+          "zt_value": 0.5,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "Cu12Sb4S13",
+          "zt_value": 0.7000000000000001,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "Cu12Sb4S13",
+          "zt_value": 0.8,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "Cu12Sb4S13",
+          "zt_value": 0.6000000000000001,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "Cu12Sb4S13",
+          "zt_value": 1.5,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "undoped Cu12Sb4S13",
+          "zt_value": 0.76,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "Cu12Sb4S13",
+          "zt_value": 0.76,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "Cu12Sb4S13",
+          "zt_value": 0.9,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "Cu12Sb4S13",
+          "zt_value": 0.92,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "Cu12Sb4S13 / 3 % InSb",
+          "zt_value": 0.9,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "pure Cu12Sb4S13",
+          "zt_value": 0.56,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "Cu12Sb4S13 / 3 % InSb",
+          "zt_value": 0.9,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "Cu12Sb4S13",
+          "zt_value": 0.76,
+          "temperature": "623.0 K"
+        },
+        {
+          "material": "Cu12Sb4S13",
+          "zt_value": 0.76,
+          "temperature": "623.0 K"
+        },
+        {
+          "material": "Cu12Sb4S13",
+          "zt_value": 0.76,
+          "temperature": "623.0 K"
+        },
+        {
+          "material": "Cu12Sb4S13",
+          "zt_value": 0.76,
+          "temperature": "623.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

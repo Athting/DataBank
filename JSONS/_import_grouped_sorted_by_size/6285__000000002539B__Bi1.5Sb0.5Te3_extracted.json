@@ -1,0 +1,101 @@
+{
+  "doi": "10.1016/j.cplett.2012.09.001",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Bi1.5Sb0.5Te3 nanopillar",
+        "Bi1.5Sb0.5Te3 thin films",
+        "bulk Bi1.5Sb0.5Te3 material",
+        "Bi1.5Sb0.5Te3",
+        "Bi1.5Sb0.5Te3 film",
+        "nanostructured Bi1.5Sb0.5Te3 film"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "Bi1.5Sb0.5Te3",
+          "value": 0.00012638,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi1.5Sb0.5Te3",
+          "value": 0.0001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "nanostructured Bi1.5Sb0.5Te3 film",
+          "value": 61500,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Bi1.5Sb0.5Te3 thin films",
+          "value": 0.0036000000000000003,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Bi1.5Sb0.5Te3 nanopillar",
+          "zt_value": 1.6099999999999999,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi1.5Sb0.5Te3 nanopillar",
+          "zt_value": 1.6099999999999999,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi1.5Sb0.5Te3 nanopillar",
+          "zt_value": 1.6099999999999999,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi1.5Sb0.5Te3 thin films",
+          "zt_value": 1.5,
+          "temperature": "295 K"
+        },
+        {
+          "material": "bulk Bi1.5Sb0.5Te3 material",
+          "zt_value": 1.8599999999999999,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi1.5Sb0.5Te3 film",
+          "zt_value": 0.56,
+          "temperature": "400.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

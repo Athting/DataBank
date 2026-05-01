@@ -1,0 +1,18 @@
+{
+  "Material": "Gd8Bi3O8",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2015.10.004"
+  ],
+  "Data_By_Temperature": {
+    "180.0": [
+      {
+        "Original_Name_In_Paper": "Gd8Bi3O8",
+        "Property": "ThermCond",
+        "Value": 0.9500000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2015.10.004"
+      }
+    ]
+  }
+}

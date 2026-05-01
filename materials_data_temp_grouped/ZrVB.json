@@ -1,0 +1,18 @@
+{
+  "Material": "ZrVB",
+  "DOIs_Researched": [
+    "10.1016/j.commatsci.2018.10.040"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Zr0.5V0.5B2 alloy",
+        "Property": "Conductivity",
+        "Value": 6080000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2018.10.040"
+      }
+    ]
+  }
+}

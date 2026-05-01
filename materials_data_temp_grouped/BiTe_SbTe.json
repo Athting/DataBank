@@ -1,0 +1,18 @@
+{
+  "Material": "BiTe/SbTe",
+  "DOIs_Researched": [
+    "10.1016/j.matdes.2018.05.019"
+  ],
+  "Data_By_Temperature": {
+    "1273.0": [
+      {
+        "Original_Name_In_Paper": "BiTe / SbTe supperlattice film",
+        "Property": "ZT",
+        "Value": 2.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matdes.2018.05.019"
+      }
+    ]
+  }
+}

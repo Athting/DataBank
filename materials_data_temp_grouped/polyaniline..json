@@ -1,0 +1,18 @@
+{
+  "Material": "polyaniline.",
+  "DOIs_Researched": [
+    "10.1039/c5ta02443a"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "SWCNT / camphorsulfonic acid (CSA)-doped polyaniline",
+        "Property": "PF",
+        "Value": 0.000176,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta02443a"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "Material": "SnTe0.985I0.015",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2016.02.012",
+    "10.1039/c4cp02091j"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "SnTe0.985I0.015",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4cp02091j"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe0.985I0.015",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4cp02091j"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe0.985I0.015",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2016.02.012"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "SnTe0.985I0.015",
+        "Property": "ZT",
+        "Value": 0.35000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4cp02091j"
+      }
+    ]
+  }
+}

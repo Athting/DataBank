@@ -1,0 +1,18 @@
+{
+  "Material": "PANI nanocomposite",
+  "DOIs_Researched": [
+    "10.1016/j.compscitech.2016.01.014"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "PANI nanocomposite",
+        "Property": "Conductivity",
+        "Value": 2650.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.compscitech.2016.01.014"
+      }
+    ]
+  }
+}

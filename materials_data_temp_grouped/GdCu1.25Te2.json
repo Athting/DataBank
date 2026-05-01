@@ -1,0 +1,34 @@
+{
+  "Material": "GdCu1.25Te2",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2017.08.018"
+  ],
+  "Data_By_Temperature": {
+    "523.0": [
+      {
+        "Original_Name_In_Paper": "GdCu1.25Te2",
+        "Property": "ThermCond",
+        "Value": 0.64,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2017.08.018"
+      },
+      {
+        "Original_Name_In_Paper": "GdCu1.25Te2",
+        "Property": "ThermCond",
+        "Value": 0.64,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2017.08.018"
+      },
+      {
+        "Original_Name_In_Paper": "GdCu1.25Te2",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2017.08.018"
+      }
+    ]
+  }
+}

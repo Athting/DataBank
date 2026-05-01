@@ -1,0 +1,368 @@
+{
+  "Material": "SnSe2",
+  "DOIs_Researched": [
+    "10.1016/j.apsusc.2020.145478",
+    "10.1016/j.ceramint.2018.09.136",
+    "10.1039/c5cp03700j",
+    "10.1038/s41598-017-15519-x",
+    "10.1016/j.tsf.2019.01.017",
+    "10.1039/c8cc02230e",
+    "10.1016/j.physe.2018.12.004",
+    "10.1039/c7cp03748a",
+    "10.1039/c7nr04766e",
+    "10.1016/j.scib.2017.11.015",
+    "10.1039/c9ta01678c",
+    "10.1016/j.matchemphys.2015.11.026",
+    "10.1016/j.ceramint.2017.02.126",
+    "10.1039/c9qi00210c",
+    "10.1016/j.nanoen.2017.11.064",
+    "10.1039/d0ta00240b",
+    "10.1039/c9cp02068c"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Cl-doped SnSe2 nanosheets",
+        "Property": "ThermCond",
+        "Value": 0.67,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta00240b"
+      },
+      {
+        "Original_Name_In_Paper": "SnSe2",
+        "Property": "ThermCond",
+        "Value": 7.29,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2015.11.026"
+      },
+      {
+        "Original_Name_In_Paper": "Cl-doped SnSe2 nanosheets",
+        "Property": "ThermCond",
+        "Value": 0.67,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8cc02230e"
+      },
+      {
+        "Original_Name_In_Paper": "SnSe2",
+        "Property": "ThermCond",
+        "Value": 0.44,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2020.145478"
+      },
+      {
+        "Original_Name_In_Paper": "monolayer SnSe2",
+        "Property": "ThermCond",
+        "Value": 3.8200000000000003,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cp03748a"
+      },
+      {
+        "Original_Name_In_Paper": "monolayer SnSe2",
+        "Property": "ThermCond",
+        "Value": 893.9,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9cp02068c"
+      },
+      {
+        "Original_Name_In_Paper": "SnSe2",
+        "Property": "ThermCond",
+        "Value": 3.8200000000000003,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physe.2018.12.004"
+      },
+      {
+        "Original_Name_In_Paper": "SnSe2 films",
+        "Property": "Conductivity",
+        "Value": 20.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-017-15519-x"
+      },
+      {
+        "Original_Name_In_Paper": "SnSe2 single crystal",
+        "Property": "Conductivity",
+        "Value": 666.6666666667,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2015.11.026"
+      },
+      {
+        "Original_Name_In_Paper": "Cl\u2212 doped n-type SnSe2 nanosheets",
+        "Property": "Seebeck",
+        "Value": -0.000235,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8cc02230e"
+      },
+      {
+        "Original_Name_In_Paper": "Cl\u2212 doped n-type SnSe2 nanosheets",
+        "Property": "Conductivity",
+        "Value": 960.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8cc02230e"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "SnSe2",
+        "Property": "ZT",
+        "Value": 2.95,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2020.145478"
+      },
+      {
+        "Original_Name_In_Paper": "n-type SnSe2",
+        "Property": "ZT",
+        "Value": 2.95,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta01678c"
+      },
+      {
+        "Original_Name_In_Paper": "SnSe2",
+        "Property": "ZT",
+        "Value": 2.95,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scib.2017.11.015"
+      },
+      {
+        "Original_Name_In_Paper": "SnSe2",
+        "Property": "ZT",
+        "Value": 0.88,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5cp03700j"
+      },
+      {
+        "Original_Name_In_Paper": "SnSe2",
+        "Property": "ZT",
+        "Value": 2.95,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta00240b"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "SnSe2",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2020.145478"
+      },
+      {
+        "Original_Name_In_Paper": "Br-doped SnSe2",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta01678c"
+      },
+      {
+        "Original_Name_In_Paper": "Ag-doped SnSe2",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.09.136"
+      },
+      {
+        "Original_Name_In_Paper": "SnSe2",
+        "Property": "ZT",
+        "Value": 0.84,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2017.02.126"
+      }
+    ],
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "Br-doped SnSe2",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9qi00210c"
+      }
+    ],
+    "789.0": [
+      {
+        "Original_Name_In_Paper": "polycrystalline SnSe2",
+        "Property": "ZT",
+        "Value": 0.63,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta01678c"
+      },
+      {
+        "Original_Name_In_Paper": "polycrystalline SnSe2",
+        "Property": "ZT",
+        "Value": 1.03,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta01678c"
+      },
+      {
+        "Original_Name_In_Paper": "SnSe2",
+        "Property": "ZT",
+        "Value": 1.03,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta01678c"
+      }
+    ],
+    "610.0": [
+      {
+        "Original_Name_In_Paper": "n-type SnSe2",
+        "Property": "ZT",
+        "Value": 0.22,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scib.2017.11.015"
+      },
+      {
+        "Original_Name_In_Paper": "SnSe2 powder",
+        "Property": "ZT",
+        "Value": 0.15,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2017.11.064"
+      },
+      {
+        "Original_Name_In_Paper": "polycrystalline SnSe2",
+        "Property": "ZT",
+        "Value": 0.63,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8cc02230e"
+      }
+    ],
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "Cl-doped SnSe2",
+        "Property": "ZT",
+        "Value": 0.22,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scib.2017.11.015"
+      }
+    ],
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "SnSe2 monolayer",
+        "Property": "ZT",
+        "Value": 0.9400000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7nr04766e"
+      }
+    ],
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "12 % doped SnSe2",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.09.136"
+      },
+      {
+        "Original_Name_In_Paper": "pure SnSe2",
+        "Property": "PF",
+        "Value": 1.75e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.09.136"
+      },
+      {
+        "Original_Name_In_Paper": "doped SnSe2",
+        "Property": "PF",
+        "Value": 0.001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.09.136"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "SnSe2",
+        "Property": "Seebeck",
+        "Value": 0.00019,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2020.145478"
+      },
+      {
+        "Original_Name_In_Paper": "SnSe2",
+        "Property": "PF",
+        "Value": 4.8e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2020.145478"
+      },
+      {
+        "Original_Name_In_Paper": "pure SnSe2",
+        "Property": "Conductivity",
+        "Value": 60.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scib.2017.11.015"
+      },
+      {
+        "Original_Name_In_Paper": "Cl-doped SnSe2",
+        "Property": "Conductivity",
+        "Value": 9600.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scib.2017.11.015"
+      },
+      {
+        "Original_Name_In_Paper": "SnSe2 nanoflower",
+        "Property": "Conductivity",
+        "Value": 100.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2020.145478"
+      }
+    ],
+    "523.0": [
+      {
+        "Original_Name_In_Paper": "SnSe2",
+        "Property": "Seebeck",
+        "Value": 0.00025499999999999996,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2019.01.017"
+      }
+    ],
+    "550.0": [
+      {
+        "Original_Name_In_Paper": "SnSe2",
+        "Property": "PF",
+        "Value": 4.2999999999999995e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2020.145478"
+      },
+      {
+        "Original_Name_In_Paper": "SnSe2 nanoflowers",
+        "Property": "PF",
+        "Value": 4.2999999999999995e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2020.145478"
+      }
+    ]
+  }
+}

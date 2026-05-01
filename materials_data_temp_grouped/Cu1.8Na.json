@@ -1,0 +1,18 @@
+{
+  "Material": "Cu1.8Na",
+  "DOIs_Researched": [
+    "10.1039/c8ta03195a"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Na-doped Cu1.8S",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta03195a"
+      }
+    ]
+  }
+}

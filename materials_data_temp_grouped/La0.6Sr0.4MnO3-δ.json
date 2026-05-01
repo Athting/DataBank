@@ -1,0 +1,18 @@
+{
+  "Material": "La0.6Sr0.4MnO3-\u03b4",
+  "DOIs_Researched": [
+    "10.1007/s10008-020-04606-1"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "La0.6Sr0.4MnO3-\u03b4",
+        "Property": "Conductivity",
+        "Value": 34000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10008-020-04606-1"
+      }
+    ]
+  }
+}

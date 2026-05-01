@@ -1,0 +1,18 @@
+{
+  "Material": "\u03b2-Cu1.98Se",
+  "DOIs_Researched": [
+    "10.1039/c7qi00210f"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "\u03b2-Cu1.98Se",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7qi00210f"
+      }
+    ]
+  }
+}

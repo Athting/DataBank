@@ -1,0 +1,85 @@
+{
+  "Material": "Sn0.85Sb0.15Te",
+  "DOIs_Researched": [
+    "10.1016/j.scib.2019.06.007",
+    "10.1039/c6ee00728g"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Sn0.85Sb0.15Te",
+        "Property": "ThermCond",
+        "Value": 0.67,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ee00728g"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.85Sb0.15Te",
+        "Property": "ThermCond",
+        "Value": 3.58,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ee00728g"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.85Sb0.15Te",
+        "Property": "ThermCond",
+        "Value": 0.67,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ee00728g"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.85Sb0.15Te",
+        "Property": "Seebeck",
+        "Value": 3.4e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ee00728g"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.85Sb0.15Te",
+        "Property": "Conductivity",
+        "Value": 235000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": "doping of Sb",
+        "Source_DOI": "10.1016/j.scib.2019.06.007"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.85Sb0.15Te",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ee00728g"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.85Sb0.15Te",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ee00728g"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.85Sb0.15Te",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ee00728g"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.85Sb0.15Te",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ee00728g"
+      }
+    ]
+  }
+}

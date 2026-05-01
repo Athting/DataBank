@@ -1,0 +1,54 @@
+{
+  "Material": "Cu3NbS4",
+  "DOIs_Researched": [
+    "10.1039/c7qi00264e"
+  ],
+  "Data_By_Temperature": {
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "Cu3NbS4",
+        "Property": "ThermCond",
+        "Value": 2.91,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7qi00264e"
+      },
+      {
+        "Original_Name_In_Paper": "Cu3NbS4",
+        "Property": "Conductivity",
+        "Value": 202.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7qi00264e"
+      }
+    ],
+    "309.0": [
+      {
+        "Original_Name_In_Paper": "Cu3NbS4",
+        "Property": "Seebeck",
+        "Value": 2.6e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7qi00264e"
+      }
+    ],
+    "306.0": [
+      {
+        "Original_Name_In_Paper": "Cu3NbS4",
+        "Property": "PF",
+        "Value": 9.700000000000001e-09,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7qi00264e"
+      },
+      {
+        "Original_Name_In_Paper": "Cu3NbS4",
+        "Property": "Conductivity",
+        "Value": 14.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7qi00264e"
+      }
+    ]
+  }
+}

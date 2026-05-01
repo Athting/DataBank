@@ -1,0 +1,18 @@
+{
+  "Material": "Cu(CNNQ)2",
+  "DOIs_Researched": [
+    "10.1039/c7ta06987a"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "copper dimethyldicyanoquinonedimethane",
+        "Property": "PF",
+        "Value": 0.05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ta06987a"
+      }
+    ]
+  }
+}

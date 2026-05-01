@@ -1,0 +1,18 @@
+{
+  "Material": "AgI, Ag2O, MoO3",
+  "DOIs_Researched": [
+    "10.1016/j.pcrysgrow.2006.03.008"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "SISOMO [ 50AgI\u201325Ag2O\u201325MoO3 ]",
+        "Property": "Conductivity",
+        "Value": 0.6000000000000001,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pcrysgrow.2006.03.008"
+      }
+    ]
+  }
+}

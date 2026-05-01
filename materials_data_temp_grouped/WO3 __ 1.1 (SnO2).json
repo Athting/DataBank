@@ -1,0 +1,18 @@
+{
+  "Material": "WO3 \\* 1.1 (SnO2)",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2018.09.151"
+  ],
+  "Data_By_Temperature": {
+    "1023.0": [
+      {
+        "Original_Name_In_Paper": "10 mol % SnO2-added WO3",
+        "Property": "PF",
+        "Value": 7.77e-06,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.09.151"
+      }
+    ]
+  }
+}

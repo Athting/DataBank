@@ -1,0 +1,18 @@
+{
+  "Material": "PANI\u2013graphene nanosheets",
+  "DOIs_Researched": [
+    "10.1039/c5ra01794g"
+  ],
+  "Data_By_Temperature": {
+    "453.0": [
+      {
+        "Original_Name_In_Paper": "PANI\u2013graphene nanosheets",
+        "Property": "ZT",
+        "Value": 0.0019500000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra01794g"
+      }
+    ]
+  }
+}

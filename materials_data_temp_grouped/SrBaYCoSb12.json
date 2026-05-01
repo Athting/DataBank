@@ -1,0 +1,161 @@
+{
+  "Material": "SrBaYCoSb12",
+  "DOIs_Researched": [
+    "10.1039/c5ra03942h",
+    "10.1016/j.actamat.2013.09.039",
+    "10.1016/j.jallcom.2016.10.114",
+    "10.1016/j.rser.2018.10.006",
+    "10.1016/j.jallcom.2012.05.011",
+    "10.1039/c9tc01634a",
+    "10.1016/j.jssc.2018.11.030",
+    "10.1039/c6qi00263c",
+    "10.1016/j.actamat.2011.12.023",
+    "10.1016/j.jallcom.2017.11.199",
+    "10.1016/j.actamat.2013.03.031",
+    "10.1016/j.matlet.2019.126960"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Sr0.07Ba0.07Yb0.07Co4Sb12",
+        "Property": "ThermCond",
+        "Value": 0.64,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2013.09.039"
+      },
+      {
+        "Original_Name_In_Paper": "Sr0.07Ba0.07Yb0.07Co4Sb12",
+        "Property": "ThermCond",
+        "Value": 2.38,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2011.12.023"
+      }
+    ],
+    "835.0": [
+      {
+        "Original_Name_In_Paper": "Sr0.09Ba0.11Yb0.05Co4Sb12",
+        "Property": "ZT",
+        "Value": 1.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2019.126960"
+      },
+      {
+        "Original_Name_In_Paper": "Sr0.09Ba0.11Yb0.05Co4Sb12",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.10.114"
+      },
+      {
+        "Original_Name_In_Paper": "Sr0.09Ba0.11Yb0.05Co4Sb12",
+        "Property": "ZT",
+        "Value": 1.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6qi00263c"
+      },
+      {
+        "Original_Name_In_Paper": "Sr0.09Ba0.11Yb0.05Co4Sb12",
+        "Property": "ZT",
+        "Value": 1.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.11.199"
+      },
+      {
+        "Original_Name_In_Paper": "Sr0.09Ba0.11Yb0.05Co4Sb12",
+        "Property": "ZT",
+        "Value": 1.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rser.2018.10.006"
+      },
+      {
+        "Original_Name_In_Paper": "Sr0.09Ba0.11Yb0.05Co4Sb12",
+        "Property": "ZT",
+        "Value": 1.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2013.09.039"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "n-type Sr0.09Ba0.11Yb0.05Co4Sb12",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.10.114"
+      },
+      {
+        "Original_Name_In_Paper": "Sr0.07Ba0.07Yb0.07Co4Sb12",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2013.03.031"
+      },
+      {
+        "Original_Name_In_Paper": "Sr0.09Ba0.11Yb0.05Co4Sb12",
+        "Property": "ZT",
+        "Value": 1.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc01634a"
+      },
+      {
+        "Original_Name_In_Paper": "Sr0.07Ba0.07Yb0.07Co4Sb12",
+        "Property": "ZT",
+        "Value": 1.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra03942h"
+      },
+      {
+        "Original_Name_In_Paper": "Sr0.07Ba0.07Yb0.07Co4Sb12",
+        "Property": "ZT",
+        "Value": 1.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2018.11.030"
+      },
+      {
+        "Original_Name_In_Paper": "Sr0.07Ba0.07Yb0.07Co4Sb12",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2012.05.011"
+      },
+      {
+        "Original_Name_In_Paper": "Sr0.07Ba0.07Yb0.07Co4Sb12",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2012.05.011"
+      },
+      {
+        "Original_Name_In_Paper": "Sr0.075Ba0.025Yb0.1Co4Sb12",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2013.09.039"
+      },
+      {
+        "Original_Name_In_Paper": "Sr0.07Ba0.07Yb0.07Co4Sb12",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2013.09.039"
+      }
+    ]
+  }
+}

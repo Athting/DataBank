@@ -1,0 +1,124 @@
+{
+  "Material": "Ba8Ga16Sn30",
+  "DOIs_Researched": [
+    "10.1016/j.mser.2016.08.001",
+    "10.1007/s11664-013-2892-5",
+    "10.1016/j.jallcom.2010.07.121",
+    "10.1039/b914382c",
+    "10.1016/j.jcrysgro.2014.06.035",
+    "10.1016/j.nanoen.2012.10.005",
+    "10.1016/j.jallcom.2012.05.049",
+    "10.1039/c5tc01721a",
+    "10.1016/j.physb.2016.08.035"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "n-type Ba8Ga16Sn30",
+        "Property": "ThermCond",
+        "Value": 0.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01721a"
+      },
+      {
+        "Original_Name_In_Paper": "Ba8Ga16Sn30",
+        "Property": "ZT",
+        "Value": 0.09,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/b914382c"
+      },
+      {
+        "Original_Name_In_Paper": "Ba8Ga16Sn30Shukang",
+        "Property": "Conductivity",
+        "Value": 18900.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mser.2016.08.001"
+      },
+      {
+        "Original_Name_In_Paper": "Ba8Ga16Sn30",
+        "Property": "Conductivity",
+        "Value": 30900.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mser.2016.08.001"
+      }
+    ],
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "Ba8Ga16Sn30",
+        "Property": "ZT",
+        "Value": 0.88,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2012.05.049"
+      },
+      {
+        "Original_Name_In_Paper": "Ba8Ga16Sn30",
+        "Property": "ZT",
+        "Value": 0.88,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2012.05.049"
+      }
+    ],
+    "473.0": [
+      {
+        "Original_Name_In_Paper": "undoped Ba8Ga16Sn30",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-013-2892-5"
+      }
+    ],
+    "540.0": [
+      {
+        "Original_Name_In_Paper": "Ba8Ga16Sn30",
+        "Property": "ZT",
+        "Value": 1.35,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2012.10.005"
+      }
+    ],
+    "450.0": [
+      {
+        "Original_Name_In_Paper": "Ba8Ga16Sn30 type",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2016.08.035"
+      },
+      {
+        "Original_Name_In_Paper": "Ba8Ga16Sn30",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.07.121"
+      },
+      {
+        "Original_Name_In_Paper": "Ba8Ga16Sn30",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jcrysgro.2014.06.035"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ba8Ga16Sn30",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/b914382c"
+      }
+    ]
+  }
+}

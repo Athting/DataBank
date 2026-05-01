@@ -1,0 +1,40 @@
+{
+  "Material": "AgPbmSbTem",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2012.09.037",
+    "10.1016/j.jpcs.2008.09.022",
+    "10.1007/s10853-020-04949-0"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "n-type AgPbmSbTem+2",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2012.09.037"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "AgPbmSbTem+2 alloys",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2008.09.022"
+      }
+    ],
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "AgPbmSbTem+2 matrix composite",
+        "Property": "ZT",
+        "Value": 1.54,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      }
+    ]
+  }
+}

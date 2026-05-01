@@ -1,0 +1,48 @@
+{
+  "Material": "Ce0.44Yb0.32Fe3.02Co0.9",
+  "DOIs_Researched": [
+    "10.1016/j.physb.2006.03.068",
+    "10.1016/j.jallcom.2007.12.065",
+    "10.1016/j.actamat.2011.12.022"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Ce0.44Yb0.32Fe3.02Co0.98Sb12",
+        "Property": "ZT",
+        "Value": 0.85,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2011.12.022"
+      }
+    ],
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "Ce0.44Yb0.32Fe3.02Co0.98Sb12",
+        "Property": "ZT",
+        "Value": 0.85,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2007.12.065"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Ce0.44Yb0.32Fe3.02Co0.98Sb12",
+        "Property": "ZT",
+        "Value": 0.9500000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2006.03.068"
+      },
+      {
+        "Original_Name_In_Paper": "Ce0.44Yb0.32Fe3.02Co0.98Sb12",
+        "Property": "ZT",
+        "Value": 0.9500000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2006.03.068"
+      }
+    ]
+  }
+}

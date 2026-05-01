@@ -1,0 +1,34 @@
+{
+  "Material": "LaHoFO_{2.5}SrHoFO_{2",
+  "DOIs_Researched": [
+    "10.1016/S0925-8388(05)00321-X"
+  ],
+  "Data_By_Temperature": {
+    "1273.0": [
+      {
+        "Original_Name_In_Paper": "La 0.8 Sr 0.2H11002x H11623",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(05)00321-X"
+      },
+      {
+        "Original_Name_In_Paper": "La 0.8 Sr 0.2H11002x H11623",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(05)00321-X"
+      },
+      {
+        "Original_Name_In_Paper": "La 0.8 Sr 0.2H11002x H11623",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(05)00321-X"
+      }
+    ]
+  }
+}

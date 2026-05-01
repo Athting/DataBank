@@ -1,0 +1,26 @@
+{
+  "Material": "Rh2TeO6",
+  "DOIs_Researched": [
+    "10.1016/j.materresbull.2011.07.007"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Rh2TeO6",
+        "Property": "Conductivity",
+        "Value": 50000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2011.07.007"
+      },
+      {
+        "Original_Name_In_Paper": "Rh2TeO6",
+        "Property": "Conductivity",
+        "Value": 50000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2011.07.007"
+      }
+    ]
+  }
+}

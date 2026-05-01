@@ -1,0 +1,18 @@
+{
+  "Material": "HfPtSn",
+  "DOIs_Researched": [
+    "10.1557/jmr.2011.82"
+  ],
+  "Data_By_Temperature": {
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "HfPtSn",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": "doping of Ir and Co",
+        "Source_DOI": "10.1557/jmr.2011.82"
+      }
+    ]
+  }
+}

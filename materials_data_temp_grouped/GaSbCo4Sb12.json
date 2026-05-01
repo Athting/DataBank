@@ -1,0 +1,18 @@
+{
+  "Material": "GaSbCo4Sb12",
+  "DOIs_Researched": [
+    "10.1038/asiamat.2010.138"
+  ],
+  "Data_By_Temperature": {
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "(GaSb)0.2\u2013Yb0.26Co4Sb12 nanocomposite",
+        "Property": "ZT",
+        "Value": 1.45,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/asiamat.2010.138"
+      }
+    ]
+  }
+}

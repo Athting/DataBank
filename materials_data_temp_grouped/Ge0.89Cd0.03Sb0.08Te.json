@@ -1,0 +1,62 @@
+{
+  "Material": "Ge0.89Cd0.03Sb0.08Te",
+  "DOIs_Researched": [
+    "10.1039/c9ta10436d"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ge0.89Cd0.03Sb0.08Te",
+        "Property": "ThermCond",
+        "Value": 1.3,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta10436d"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Ge0.89Cd0.03Sb0.08Te",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta10436d"
+      },
+      {
+        "Original_Name_In_Paper": "Ge0.89Cd0.03Sb0.08Te",
+        "Property": "ZT",
+        "Value": 1.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta10436d"
+      },
+      {
+        "Original_Name_In_Paper": "Ge0.89Cd0.03Sb0.08Te",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta10436d"
+      },
+      {
+        "Original_Name_In_Paper": "Ge0.89Cd0.03Sb0.08Te",
+        "Property": "PF",
+        "Value": 3.6e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta10436d"
+      }
+    ],
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "Ge0.89Cd0.03Sb0.08Te",
+        "Property": "PF",
+        "Value": 3.2699999999999995e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta10436d"
+      }
+    ]
+  }
+}

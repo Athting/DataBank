@@ -1,0 +1,98 @@
+{
+  "doi": "10.1039/c9sc00485h",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "pristine AgPbBiSe3",
+        "AgPbBiSe3",
+        "n-type AgPbBiSe3",
+        "halogen doped AgPbBiSe3"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "pristine AgPbBiSe3",
+          "value": -0.00013099999999999999,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "296.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "pristine AgPbBiSe3",
+          "value": 6300,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "AgPbBiSe3",
+          "value": 0.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "290.0 K"
+        },
+        {
+          "material": "n-type AgPbBiSe3",
+          "value": 0.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "290.0 K"
+        },
+        {
+          "material": "halogen doped AgPbBiSe3",
+          "value": 0.6000000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "290.0 K"
+        },
+        {
+          "material": "AgPbBiSe3",
+          "value": 0.23,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "823.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "pristine AgPbBiSe3",
+          "value": 0.00010899999999999999,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "296.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "pristine AgPbBiSe3",
+          "zt_value": 0.43,
+          "temperature": "818.0 K"
+        },
+        {
+          "material": "pristine AgPbBiSe3",
+          "zt_value": 0.43,
+          "temperature": "818.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

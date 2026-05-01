@@ -1,0 +1,26 @@
+{
+  "Material": "MWCNT / ZnO composites",
+  "DOIs_Researched": [
+    "10.1016/j.carbon.2018.12.047"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "MWCNT / ZnO composites",
+        "Property": "ThermCond",
+        "Value": 0.08,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.carbon.2018.12.047"
+      },
+      {
+        "Original_Name_In_Paper": "MWCNT / ZnO composites",
+        "Property": "Conductivity",
+        "Value": 49.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.carbon.2018.12.047"
+      }
+    ]
+  }
+}

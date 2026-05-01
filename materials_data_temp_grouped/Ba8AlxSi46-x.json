@@ -1,0 +1,18 @@
+{
+  "Material": "Ba8AlxSi46-x",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2011.03.038"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "Ba8AlxSi46\u2212x compound",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2011.03.038"
+      }
+    ]
+  }
+}

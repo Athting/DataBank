@@ -1,0 +1,18 @@
+{
+  "Material": "Ca3.91Ce0.09Mn3O10",
+  "DOIs_Researched": [
+    "10.1016/S0025-5408(02)00730-4"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "Ca3.91Ce0.09Mn3O10",
+        "Property": "ZT",
+        "Value": 0.034,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0025-5408(02)00730-4"
+      }
+    ]
+  }
+}

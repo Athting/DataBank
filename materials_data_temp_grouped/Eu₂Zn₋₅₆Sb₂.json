@@ -1,0 +1,60 @@
+{
+  "Material": "Eu\u2082Zn\u208b\u2085\u2086Sb\u2082",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2020.104771"
+  ],
+  "Data_By_Temperature": {
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "Eu2Zn0.95Ag0.06Sb2",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.104771"
+      },
+      {
+        "Original_Name_In_Paper": "Eu2Zn0.95Ag0.06Sb2",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.104771"
+      },
+      {
+        "Original_Name_In_Paper": "Eu2Zn0.95Ag0.06Sb2",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.104771"
+      },
+      {
+        "Original_Name_In_Paper": "Eu2Zn0.95Ag0.06Sb2",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.104771"
+      },
+      {
+        "Original_Name_In_Paper": "Eu2Zn0.95Ag0.06Sb2",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.104771"
+      }
+    ],
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "Eu2Zn0.95Ag0.06Sb2",
+        "Property": "PF",
+        "Value": 0.0006900000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.104771"
+      }
+    ]
+  }
+}

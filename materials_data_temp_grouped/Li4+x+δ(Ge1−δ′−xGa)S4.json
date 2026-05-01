@@ -1,0 +1,18 @@
+{
+  "Material": "Li4+x+\u03b4(Ge1\u2212\u03b4\u2032\u2212xGa)S4",
+  "DOIs_Researched": [
+    "10.1039/b102987h"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Li4+x+\u03b4(Ge1\u2212\u03b4\u2032 \u2212xGax)S4",
+        "Property": "Conductivity",
+        "Value": 0.006500000000000001,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/b102987h"
+      }
+    ]
+  }
+}

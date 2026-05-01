@@ -1,0 +1,43 @@
+{
+  "Material": "Ag2S0.5Se0.5",
+  "DOIs_Researched": [
+    "10.1016/j.cej.2020.124763",
+    "10.1039/c9ee01777a"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ag2S0.5Se0.5",
+        "Property": "ZT",
+        "Value": 0.26,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cej.2020.124763"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2S0.5Se0.5",
+        "Property": "ZT",
+        "Value": 0.26,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ee01777a"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2S0.5Se0.5",
+        "Property": "Seebeck",
+        "Value": -0.00012299999999999998,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ee01777a"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2S0.5Se0.5",
+        "Property": "PF",
+        "Value": 0.00048000000000000007,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ee01777a"
+      }
+    ]
+  }
+}

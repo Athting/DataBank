@@ -1,0 +1,18 @@
+{
+  "Material": "ZnO : AuZn",
+  "DOIs_Researched": [
+    "10.1016/j.physb.2019.03.020"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "ZnO : AuZn",
+        "Property": "Conductivity",
+        "Value": 123600.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2019.03.020"
+      }
+    ]
+  }
+}

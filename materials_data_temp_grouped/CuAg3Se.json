@@ -1,0 +1,52 @@
+{
+  "Material": "CuAg3Se",
+  "DOIs_Researched": [
+    "10.1039/c9ee01609k"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Cu1Ag4Se3 film",
+        "Property": "ThermCond",
+        "Value": 1.32,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ee01609k"
+      },
+      {
+        "Original_Name_In_Paper": "Cu1Ag4Se3 film",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ee01609k"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Cu1Ag4Se3 film",
+        "Property": "Seebeck",
+        "Value": -4.5499999999999995e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ee01609k"
+      },
+      {
+        "Original_Name_In_Paper": "Cu1Ag4Se3 film",
+        "Property": "PF",
+        "Value": 0.0022315,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ee01609k"
+      },
+      {
+        "Original_Name_In_Paper": "Cu1Ag4Se3 film",
+        "Property": "Conductivity",
+        "Value": 1077000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ee01609k"
+      }
+    ]
+  }
+}

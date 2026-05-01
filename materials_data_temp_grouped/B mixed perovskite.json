@@ -1,0 +1,28 @@
+{
+  "Material": "B mixed perovskite",
+  "DOIs_Researched": [
+    "10.1016/S0925-8388(10)02247-4"
+  ],
+  "Data_By_Temperature": {
+    "670.0": [
+      {
+        "Original_Name_In_Paper": "B mixed perovskite",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(10)02247-4"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "B mixed perovskite",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(10)02247-4"
+      }
+    ]
+  }
+}

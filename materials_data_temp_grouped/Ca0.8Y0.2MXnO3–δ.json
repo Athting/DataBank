@@ -1,0 +1,18 @@
+{
+  "Material": "Ca0.8Y0.2MXnO3\u2013\u03b4",
+  "DOIs_Researched": [
+    "10.1016/j.jeurceramsoc.2019.08.021"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Ca0.8Y0.2\u2013xDyxMnO3\u2013\u03b4",
+        "Property": "ThermCond",
+        "Value": 2.09,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2019.08.021"
+      }
+    ]
+  }
+}

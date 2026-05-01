@@ -1,0 +1,26 @@
+{
+  "Material": "Cu2ZnSnSe",
+  "DOIs_Researched": [
+    "10.1039/c4dt03556a"
+  ],
+  "Data_By_Temperature": {
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "Cu2ZnSnSe",
+        "Property": "ThermCond",
+        "Value": 0.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4dt03556a"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2ZnSnSe",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4dt03556a"
+      }
+    ]
+  }
+}

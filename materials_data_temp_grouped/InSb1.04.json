@@ -1,0 +1,26 @@
+{
+  "Material": "InSb1.04",
+  "DOIs_Researched": [
+    "10.1039/c6ta10827j"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "InSb1.04",
+        "Property": "ZT",
+        "Value": 1.28,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta10827j"
+      },
+      {
+        "Original_Name_In_Paper": "InSb1.04",
+        "Property": "PF",
+        "Value": 0.0027129999999999997,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta10827j"
+      }
+    ]
+  }
+}

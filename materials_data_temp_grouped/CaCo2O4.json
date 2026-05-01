@@ -1,0 +1,45 @@
+{
+  "Material": "CaCo2O4",
+  "DOIs_Researched": [
+    "10.1016/j.physc.2009.05.107",
+    "10.1016/j.jssc.2007.07.008"
+  ],
+  "Data_By_Temperature": {
+    "390.0": [
+      {
+        "Original_Name_In_Paper": "CaCo2O4",
+        "Property": "ThermCond",
+        "Value": 6.3,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physc.2009.05.107"
+      },
+      {
+        "Original_Name_In_Paper": "CaCo2O4",
+        "Property": "Seebeck",
+        "Value": 0.00015000000000000001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physc.2009.05.107"
+      }
+    ],
+    "380.0": [
+      {
+        "Original_Name_In_Paper": "CaCo2O4",
+        "Property": "Conductivity",
+        "Value": 333.3333333333,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2007.07.008"
+      },
+      {
+        "Original_Name_In_Paper": "CaCo2O4",
+        "Property": "Seebeck",
+        "Value": 0.000147,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2007.07.008"
+      }
+    ]
+  }
+}

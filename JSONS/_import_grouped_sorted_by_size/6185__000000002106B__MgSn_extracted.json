@@ -1,0 +1,86 @@
+{
+  "doi": "10.1016/j.tsf.2019.137601",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Mg2Sn thin films",
+        "Mg2Sn thin film doped with 1 at. % Ag",
+        "Mg2Sn single crystal",
+        "Mg2Sn alloys",
+        "Ag doped Mg2Sn alloy"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "Mg2Sn thin films",
+          "value": 100000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Mg2Sn single crystal",
+          "value": 1.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "650.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Mg2Sn thin films",
+          "value": 0.005,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Mg2Sn thin films",
+          "value": 0.00502,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Mg2Sn thin film doped with 1 at. % Ag",
+          "value": 0.005,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Mg2Sn alloys",
+          "zt_value": 0.015,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "Ag doped Mg2Sn alloy",
+          "zt_value": 0.30000000000000004,
+          "temperature": "473.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

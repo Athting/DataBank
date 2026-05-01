@@ -1,0 +1,61 @@
+{
+  "Material": "CaCoO2",
+  "DOIs_Researched": [
+    "10.1039/c4dt01674b",
+    "10.1039/c9cc03441b"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ca0.35CoO2-on-sapphire",
+        "Property": "Seebeck",
+        "Value": 7.8e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9cc03441b"
+      },
+      {
+        "Original_Name_In_Paper": "Ca0.35CoO2-on-mica",
+        "Property": "PF",
+        "Value": 5e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9cc03441b"
+      },
+      {
+        "Original_Name_In_Paper": "Ca0.35CoO2-on-sapphire",
+        "Property": "PF",
+        "Value": 0.39,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9cc03441b"
+      },
+      {
+        "Original_Name_In_Paper": "Ca0.35CoO2-on-mica",
+        "Property": "PF",
+        "Value": 5e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9cc03441b"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ca0.33CoO2 crystal",
+        "Property": "Seebeck",
+        "Value": 8.099999999999999e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4dt01674b"
+      },
+      {
+        "Original_Name_In_Paper": "Ca0.33CoO2 thin film",
+        "Property": "PF",
+        "Value": 0.0009000000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9cc03441b"
+      }
+    ]
+  }
+}

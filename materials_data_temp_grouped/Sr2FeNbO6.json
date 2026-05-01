@@ -1,0 +1,18 @@
+{
+  "Material": "Sr2FeNbO6",
+  "DOIs_Researched": [
+    "10.1016/j.progsolidstchem.2014.08.001"
+  ],
+  "Data_By_Temperature": {
+    "1170.0": [
+      {
+        "Original_Name_In_Paper": "Sr2FeNbO6",
+        "Property": "Conductivity",
+        "Value": 200.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.progsolidstchem.2014.08.001"
+      }
+    ]
+  }
+}

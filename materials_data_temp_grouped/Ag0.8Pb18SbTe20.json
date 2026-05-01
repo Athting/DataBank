@@ -1,0 +1,18 @@
+{
+  "Material": "Ag0.8Pb18SbTe20",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2004.08.049"
+  ],
+  "Data_By_Temperature": {
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "Ag0.8Pb18SbTe20",
+        "Property": "PF",
+        "Value": 0.00116,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2004.08.049"
+      }
+    ]
+  }
+}

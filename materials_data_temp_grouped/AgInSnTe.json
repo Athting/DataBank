@@ -1,0 +1,18 @@
+{
+  "Material": "AgInSnTe",
+  "DOIs_Researched": [
+    "10.1039/c9cp03534f"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Ag0.015In0.015Sn0.097Te",
+        "Property": "ZT",
+        "Value": 0.66,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9cp03534f"
+      }
+    ]
+  }
+}

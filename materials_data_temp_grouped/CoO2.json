@@ -1,0 +1,64 @@
+{
+  "Material": "CoO2",
+  "DOIs_Researched": [
+    "10.1016/S0167-2738(03)00164-4",
+    "10.1016/S0167-577X(00)00380-3",
+    "10.1007/s10853-010-5163-3"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "CoO2",
+        "Property": "Conductivity",
+        "Value": 5.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0167-577X(00)00380-3"
+      },
+      {
+        "Original_Name_In_Paper": "CoO2",
+        "Property": "Conductivity",
+        "Value": 5.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0167-2738(03)00164-4"
+      },
+      {
+        "Original_Name_In_Paper": "CoO2",
+        "Property": "Seebeck",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0167-2738(03)00164-4"
+      },
+      {
+        "Original_Name_In_Paper": "CoO2",
+        "Property": "Seebeck",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0167-577X(00)00380-3"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "CoO2",
+        "Property": "Seebeck",
+        "Value": 5.4999999999999995e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-010-5163-3"
+      }
+    ],
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "CoO2",
+        "Property": "Seebeck",
+        "Value": 0.00025,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": "In addition",
+        "Source_DOI": "10.1007/s10853-010-5163-3"
+      }
+    ]
+  }
+}

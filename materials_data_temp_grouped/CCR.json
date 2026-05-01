@@ -1,0 +1,18 @@
+{
+  "Material": "CCR",
+  "DOIs_Researched": [
+    "10.1016/j.jeurceramsoc.2014.07.030"
+  ],
+  "Data_By_Temperature": {
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "CCR",
+        "Property": "Seebeck",
+        "Value": -0.0002,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2014.07.030"
+      }
+    ]
+  }
+}

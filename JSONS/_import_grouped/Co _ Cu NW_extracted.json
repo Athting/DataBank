@@ -1,0 +1,45 @@
+{
+  "doi": "10.1016/B978-0-08-102832-2.00027-X",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Co / Cu NW"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "Co / Cu NW",
+          "value": -0.0000255,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": []
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

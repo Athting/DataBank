@@ -1,0 +1,36 @@
+{
+  "Material": "In0.98Cd0.02Te-7days",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2019.152210"
+  ],
+  "Data_By_Temperature": {
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "In0.98Cd0.02Te-7days",
+        "Property": "ZT",
+        "Value": 0.53,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.152210"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "In0.98Cd0.02Te-7days",
+        "Property": "ZT",
+        "Value": 0.87,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.152210"
+      },
+      {
+        "Original_Name_In_Paper": "In0.98Cd0.02Te-7days",
+        "Property": "ZT",
+        "Value": 0.87,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.152210"
+      }
+    ]
+  }
+}

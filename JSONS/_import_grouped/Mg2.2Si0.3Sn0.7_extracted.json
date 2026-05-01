@@ -1,0 +1,58 @@
+{
+  "doi": "10.1016/j.jssc.2014.08.026",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Mg2.2Si0.3Sn0.7"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Mg2.2Si0.3Sn0.7",
+          "value": 1.6,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "760.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Mg2.2Si0.3Sn0.7",
+          "value": 0.001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "760.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Mg2.2Si0.3Sn0.7",
+          "zt_value": 1.1,
+          "temperature": "760.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

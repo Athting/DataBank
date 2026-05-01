@@ -1,0 +1,29 @@
+{
+  "Material": "CST",
+  "DOIs_Researched": [
+    "10.1039/c4ra05322b",
+    "10.1016/j.scriptamat.2013.10.021"
+  ],
+  "Data_By_Temperature": {
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "CST",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra05322b"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "CST",
+        "Property": "Conductivity",
+        "Value": 114416.4759725401,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": "Yb addition",
+        "Source_DOI": "10.1016/j.scriptamat.2013.10.021"
+      }
+    ]
+  }
+}

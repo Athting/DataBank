@@ -1,0 +1,34 @@
+{
+  "Material": "BaCu2As2",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2012.03.036"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "polycrystalline BaCu2As2",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2012.03.036"
+      },
+      {
+        "Original_Name_In_Paper": "polycrystalline BaCu2As2",
+        "Property": "Seebeck",
+        "Value": 1.4999999999999999e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2012.03.036"
+      },
+      {
+        "Original_Name_In_Paper": "BaCu2As2",
+        "Property": "Seebeck",
+        "Value": 1.4999999999999999e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2012.03.036"
+      }
+    ]
+  }
+}

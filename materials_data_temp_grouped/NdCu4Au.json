@@ -1,0 +1,18 @@
+{
+  "Material": "NdCu4Au",
+  "DOIs_Researched": [
+    "10.1016/j.jmmm.2016.04.049"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "NdCu4Au",
+        "Property": "ZT",
+        "Value": 0.001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmmm.2016.04.049"
+      }
+    ]
+  }
+}

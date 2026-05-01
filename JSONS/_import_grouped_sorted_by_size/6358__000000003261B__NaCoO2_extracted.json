@@ -1,0 +1,130 @@
+{
+  "doi": "10.1039/c5tc04339e",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "NaCoO2 bulk",
+        "Sodium cobaltate NaxCoO2",
+        "NaCoO2",
+        "Na0.7CoO2",
+        "undoped sodium cobaltite",
+        "Na 0.6CoO 2",
+        "layered NaCoO2 single crystals",
+        "p-type polycrystalline NaCoO2",
+        "Ni-substituted NaCoO2",
+        "NaCo0.9Ni0.1O2",
+        "p-type NaCoO2"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "NaCoO2 bulk",
+          "value": 0.000128,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Na0.7CoO2",
+          "value": 0.0001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "undoped sodium cobaltite",
+          "value": 0.000075,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Na 0.6CoO 2",
+          "value": 0.00007000000000000001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "NaCo0.9Ni0.1O2",
+          "value": 0.000116,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "373.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "NaCoO2",
+          "value": 43.97,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Sodium cobaltate NaxCoO2",
+          "value": 0.005,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "layered NaCoO2 single crystals",
+          "value": 0.005,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "p-type polycrystalline NaCoO2",
+          "zt_value": 0.54,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "Ni-substituted NaCoO2",
+          "zt_value": 0.176,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "NaCo0.9Ni0.1O2",
+          "zt_value": 0.176,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "NaCo0.9Ni0.1O2",
+          "zt_value": 0.176,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "NaCo0.9Ni0.1O2",
+          "zt_value": 0.176,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "p-type NaCoO2",
+          "zt_value": 1.2,
+          "temperature": "800.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

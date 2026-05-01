@@ -1,0 +1,67 @@
+{
+  "Material": "AgSnSe",
+  "DOIs_Researched": [
+    "10.1007/s10853-020-04949-0",
+    "10.1039/c9ra00566h",
+    "10.1039/c4ta01643b",
+    "10.1039/c9ta03252e",
+    "10.1038/srep26774",
+    "10.1039/c5ta08847j"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ag0.01Sn0.99Se",
+        "Property": "ThermCond",
+        "Value": 1.1,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ra00566h"
+      },
+      {
+        "Original_Name_In_Paper": "Ag0.07Sn0.93Se",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": "Ag doping",
+        "Source_DOI": "10.1039/c5ta08847j"
+      }
+    ],
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "Ag0.01Sn0.99Se",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta03252e"
+      },
+      {
+        "Original_Name_In_Paper": "Ag0.01Sn0.99Se",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/srep26774"
+      },
+      {
+        "Original_Name_In_Paper": "Ag0.01Sn0.99Se",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta01643b"
+      }
+    ],
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "Ag0.01Sn0.99Se",
+        "Property": "ZT",
+        "Value": 0.74,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      }
+    ]
+  }
+}

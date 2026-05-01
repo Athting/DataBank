@@ -1,0 +1,18 @@
+{
+  "Material": "CeNi1.2Cu0.8Al3",
+  "DOIs_Researched": [
+    "10.1007/s00339-019-3057-z"
+  ],
+  "Data_By_Temperature": {
+    "100.0": [
+      {
+        "Original_Name_In_Paper": "CeNi1.2Cu0.8Al3",
+        "Property": "ZT",
+        "Value": 0.125,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s00339-019-3057-z"
+      }
+    ]
+  }
+}

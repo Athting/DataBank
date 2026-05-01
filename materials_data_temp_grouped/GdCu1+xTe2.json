@@ -1,0 +1,26 @@
+{
+  "Material": "GdCu1+xTe2",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2019.03.009"
+  ],
+  "Data_By_Temperature": {
+    "540.0": [
+      {
+        "Original_Name_In_Paper": "GdCu1+xTe2",
+        "Property": "ZT",
+        "Value": 0.21,
+        "Units": null,
+        "Editing": "Cu doping",
+        "Source_DOI": "10.1016/j.jssc.2019.03.009"
+      },
+      {
+        "Original_Name_In_Paper": "GdCu1+xTe2",
+        "Property": "Conductivity",
+        "Value": 3300.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": "Cu doping",
+        "Source_DOI": "10.1016/j.jssc.2019.03.009"
+      }
+    ]
+  }
+}

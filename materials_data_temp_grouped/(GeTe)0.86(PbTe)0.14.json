@@ -1,0 +1,18 @@
+{
+  "Material": "(GeTe)0.86(PbTe)0.14",
+  "DOIs_Researched": [
+    "10.1016/j.intermet.2014.09.004"
+  ],
+  "Data_By_Temperature": {
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "(GeTe)0.86(PbTe)0.14",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2014.09.004"
+      }
+    ]
+  }
+}

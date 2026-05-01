@@ -1,0 +1,28 @@
+{
+  "Material": "In0.2Ce0.05Yb0.1Co4Sb1",
+  "DOIs_Researched": [
+    "10.1557/jmr.2011.163"
+  ],
+  "Data_By_Temperature": {
+    "625.0": [
+      {
+        "Original_Name_In_Paper": "In0.2Ce0.05Yb0.1Co4Sb12",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1557/jmr.2011.163"
+      }
+    ],
+    "620.0": [
+      {
+        "Original_Name_In_Paper": "In0.2Ce0.05Yb0.1Co4Sb12",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1557/jmr.2011.163"
+      }
+    ]
+  }
+}

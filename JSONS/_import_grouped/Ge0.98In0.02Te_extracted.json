@@ -1,0 +1,51 @@
+{
+  "doi": "10.1016/j.joule.2019.08.017",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Ge0.98In0.02Te"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Ge0.98In0.02Te",
+          "value": 0.0051600000000000005,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "675.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Ge0.98In0.02Te",
+          "zt_value": 1.31,
+          "temperature": "725.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

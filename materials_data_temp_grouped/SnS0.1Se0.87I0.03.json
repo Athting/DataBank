@@ -1,0 +1,18 @@
+{
+  "Material": "SnS0.1Se0.87I0.03",
+  "DOIs_Researched": [
+    "10.1016/j.energy.2016.10.023"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "n-type polycrystalline SnS0.1Se0.87I0.03",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.energy.2016.10.023"
+      }
+    ]
+  }
+}

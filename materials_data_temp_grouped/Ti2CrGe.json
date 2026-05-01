@@ -1,0 +1,28 @@
+{
+  "Material": "Ti2CrGe",
+  "DOIs_Researched": [
+    "10.1016/j.commatsci.2016.08.048"
+  ],
+  "Data_By_Temperature": {
+    "105.17": [
+      {
+        "Original_Name_In_Paper": "Ti2CrGe",
+        "Property": "Seebeck",
+        "Value": 0.00015222,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2016.08.048"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ti2CrGe",
+        "Property": "PF",
+        "Value": 0.1014,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2016.08.048"
+      }
+    ]
+  }
+}

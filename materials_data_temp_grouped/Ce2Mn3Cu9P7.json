@@ -1,0 +1,18 @@
+{
+  "Material": "Ce2Mn3Cu9P7",
+  "DOIs_Researched": [
+    "10.1039/c6qi00221h"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ce2Mn3Cu9P7",
+        "Property": "Conductivity",
+        "Value": 90909.0909090909,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6qi00221h"
+      }
+    ]
+  }
+}

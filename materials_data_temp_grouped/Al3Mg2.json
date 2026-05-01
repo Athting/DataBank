@@ -1,0 +1,62 @@
+{
+  "Material": "Al3Mg2",
+  "DOIs_Researched": [
+    "10.1016/j.intermet.2007.04.010"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "\u03b2-Al3Mg2",
+        "Property": "ThermCond",
+        "Value": 20.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2007.04.010"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Al3Mg2",
+        "Property": "Conductivity",
+        "Value": 2500000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2007.04.010"
+      },
+      {
+        "Original_Name_In_Paper": "\u03b2-Al3Mg2",
+        "Property": "Conductivity",
+        "Value": 37037037.03703703,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2007.04.010"
+      },
+      {
+        "Original_Name_In_Paper": "\u03b2-Al3Mg2",
+        "Property": "Seebeck",
+        "Value": -2.8e-06,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2007.04.010"
+      },
+      {
+        "Original_Name_In_Paper": "\u03b2-Al3Mg2",
+        "Property": "Seebeck",
+        "Value": -2.8e-06,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2007.04.010"
+      }
+    ],
+    "0.0": [
+      {
+        "Original_Name_In_Paper": "\u03b2-Al3Mg2 material",
+        "Property": "Seebeck",
+        "Value": -2.8e-06,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2007.04.010"
+      }
+    ]
+  }
+}

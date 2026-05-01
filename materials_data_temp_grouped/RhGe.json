@@ -1,0 +1,18 @@
+{
+  "Material": "RhGe",
+  "DOIs_Researched": [
+    "10.1557/jmr.2015.137"
+  ],
+  "Data_By_Temperature": {
+    "333.0": [
+      {
+        "Original_Name_In_Paper": "RhGe\u03b3",
+        "Property": "ZT",
+        "Value": 0.28,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1557/jmr.2015.137"
+      }
+    ]
+  }
+}

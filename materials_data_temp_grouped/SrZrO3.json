@@ -1,0 +1,18 @@
+{
+  "Material": "SrZrO3",
+  "DOIs_Researched": [
+    "10.1007/s11581-014-1340-8"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Pt / SrZr0.9Y0.1O3",
+        "Property": "Conductivity",
+        "Value": 1.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11581-014-1340-8"
+      }
+    ]
+  }
+}

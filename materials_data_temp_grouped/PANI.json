@@ -1,0 +1,234 @@
+{
+  "Material": "PANI",
+  "DOIs_Researched": [
+    "10.1016/j.mseb.2010.07.014",
+    "10.1007/s00339-019-2822-3",
+    "10.1016/j.compscitech.2016.01.014",
+    "10.1039/c4ra02136c",
+    "10.1007/s10853-020-04949-0",
+    "10.1016/j.sna.2020.112282",
+    "10.1016/j.cej.2018.09.106",
+    "10.1007/s10904-019-01327-5",
+    "10.1016/j.pmatsci.2017.09.004",
+    "10.1016/j.energy.2019.04.045",
+    "10.1016/j.mee.2015.03.030",
+    "10.1016/j.rser.2013.03.008",
+    "10.1016/j.progpolymsci.2011.11.003",
+    "10.1016/j.scriptamat.2013.02.045",
+    "10.1016/j.progpolymsci.2003.08.001",
+    "10.1016/j.pmatsci.2016.07.002",
+    "10.1016/j.polymer.2012.12.038"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "PANI",
+        "Property": "ThermCond",
+        "Value": 0.06,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2013.02.045"
+      },
+      {
+        "Original_Name_In_Paper": "PANI",
+        "Property": "ZT",
+        "Value": 0.001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rser.2013.03.008"
+      },
+      {
+        "Original_Name_In_Paper": "PANI",
+        "Property": "ZT",
+        "Value": 0.001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rser.2013.03.008"
+      },
+      {
+        "Original_Name_In_Paper": "PANI",
+        "Property": "Seebeck",
+        "Value": -3e-06,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10904-019-01327-5"
+      },
+      {
+        "Original_Name_In_Paper": "PANI",
+        "Property": "Conductivity",
+        "Value": 0.032600000000000004,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mseb.2010.07.014"
+      },
+      {
+        "Original_Name_In_Paper": "PANI",
+        "Property": "Conductivity",
+        "Value": 260.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10904-019-01327-5"
+      },
+      {
+        "Original_Name_In_Paper": "PANI",
+        "Property": "Conductivity",
+        "Value": 2.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.polymer.2012.12.038"
+      }
+    ],
+    "17.0": [
+      {
+        "Original_Name_In_Paper": "PANI",
+        "Property": "ZT",
+        "Value": 2.17,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2017.09.004"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "PANI",
+        "Property": "ZT",
+        "Value": 0.02,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mee.2015.03.030"
+      },
+      {
+        "Original_Name_In_Paper": "PANI",
+        "Property": "PF",
+        "Value": 0.00010499999999999999,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      },
+      {
+        "Original_Name_In_Paper": "PANI",
+        "Property": "Conductivity",
+        "Value": 200.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.progpolymsci.2011.11.003"
+      }
+    ],
+    "453.0": [
+      {
+        "Original_Name_In_Paper": "PANI",
+        "Property": "ZT",
+        "Value": 0.0019500000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.compscitech.2016.01.014"
+      }
+    ],
+    "450.0": [
+      {
+        "Original_Name_In_Paper": "PANI",
+        "Property": "ZT",
+        "Value": 0.078,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cej.2018.09.106"
+      }
+    ],
+    "423.0": [
+      {
+        "Original_Name_In_Paper": "CSA-doped PANI multilayered film",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.progpolymsci.2011.11.003"
+      },
+      {
+        "Original_Name_In_Paper": "pristine PANI",
+        "Property": "Conductivity",
+        "Value": 0.17,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s00339-019-2822-3"
+      }
+    ],
+    "430.0": [
+      {
+        "Original_Name_In_Paper": "HCl-doped PANI",
+        "Property": "ZT",
+        "Value": 0.000267,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2016.07.002"
+      }
+    ],
+    "380.0": [
+      {
+        "Original_Name_In_Paper": "PANI",
+        "Property": "ZT",
+        "Value": 5.73e-05,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra02136c"
+      },
+      {
+        "Original_Name_In_Paper": "PANI",
+        "Property": "Conductivity",
+        "Value": 210.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra02136c"
+      }
+    ],
+    "235.0": [
+      {
+        "Original_Name_In_Paper": "PANI",
+        "Property": "Seebeck",
+        "Value": 1.4999999999999999e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.sna.2020.112282"
+      }
+    ],
+    "413.0": [
+      {
+        "Original_Name_In_Paper": "PANI",
+        "Property": "Conductivity",
+        "Value": 6500.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.progpolymsci.2003.08.001"
+      }
+    ],
+    "493.0": [
+      {
+        "Original_Name_In_Paper": "PANI",
+        "Property": "Conductivity",
+        "Value": 12000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.progpolymsci.2003.08.001"
+      }
+    ],
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "PANI",
+        "Property": "Conductivity",
+        "Value": 258.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2013.02.045"
+      }
+    ],
+    "383.0": [
+      {
+        "Original_Name_In_Paper": "pure PANI",
+        "Property": "Conductivity",
+        "Value": 0.85,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.energy.2019.04.045"
+      }
+    ]
+  }
+}

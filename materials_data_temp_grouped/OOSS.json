@@ -1,0 +1,18 @@
+{
+  "Material": "OOSS",
+  "DOIs_Researched": [
+    "10.1016/j.physb.2009.11.078"
+  ],
+  "Data_By_Temperature": {
+    "180.0": [
+      {
+        "Original_Name_In_Paper": "OOSS",
+        "Property": "ZT",
+        "Value": 0.015,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2009.11.078"
+      }
+    ]
+  }
+}

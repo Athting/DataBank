@@ -1,0 +1,18 @@
+{
+  "Material": "PEDOT : PSS\u2013CNT nanocomposites",
+  "DOIs_Researched": [
+    "10.1039/c3ee24193a"
+  ],
+  "Data_By_Temperature": {
+    "350.0": [
+      {
+        "Original_Name_In_Paper": "PEDOT : PSS\u2013CNT nanocomposites",
+        "Property": "Seebeck",
+        "Value": 2.8599999999999997e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": "In addition",
+        "Source_DOI": "10.1039/c3ee24193a"
+      }
+    ]
+  }
+}

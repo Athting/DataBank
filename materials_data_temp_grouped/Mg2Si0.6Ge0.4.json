@@ -1,0 +1,103 @@
+{
+  "Material": "Mg2Si0.6Ge0.4",
+  "DOIs_Researched": [
+    "10.1007/s11434-014-0237-2",
+    "10.1557/PROC-1044-U06-14",
+    "10.1016/j.scriptamat.2015.12.031",
+    "10.1016/j.intermet.2012.07.027",
+    "10.1016/j.tsf.2007.02.053",
+    "10.1016/j.jallcom.2011.03.081"
+  ],
+  "Data_By_Temperature": {
+    "625.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Si0.6Ge0.4",
+        "Property": "ZT",
+        "Value": 0.36,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2011.03.081"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si0.6Ge0.4",
+        "Property": "ZT",
+        "Value": 0.36,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2011.03.081"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si0.6Ge0.4",
+        "Property": "ZT",
+        "Value": 0.36,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2015.12.031"
+      }
+    ],
+    "629.0": [
+      {
+        "Original_Name_In_Paper": "Ag-doped Mg2Si0.6Ge0.4",
+        "Property": "ZT",
+        "Value": 1.6800000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2011.03.081"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Mg2Si0.6Ge0.4 compounds doped with Ag",
+        "Property": "ZT",
+        "Value": 1.6800000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2012.07.027"
+      }
+    ],
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Si0.6Ge0.4",
+        "Property": "ZT",
+        "Value": 0.67,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2007.02.053"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si0.6Ge0.4",
+        "Property": "ZT",
+        "Value": 0.67,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2007.02.053"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si0.6Ge0.4",
+        "Property": "ZT",
+        "Value": 0.67,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2007.02.053"
+      }
+    ],
+    "663.0": [
+      {
+        "Original_Name_In_Paper": "Sb-doped Mg2Si0.6Ge0.4",
+        "Property": "ZT",
+        "Value": 1.07,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11434-014-0237-2"
+      }
+    ],
+    "844.0": [
+      {
+        "Original_Name_In_Paper": "5 at. % Ag doped Mg2Si0.6Ge0.4",
+        "Property": "ZT",
+        "Value": 0.18,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1557/PROC-1044-U06-14"
+      }
+    ]
+  }
+}

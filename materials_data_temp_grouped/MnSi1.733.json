@@ -1,0 +1,37 @@
+{
+  "Material": "MnSi1.733",
+  "DOIs_Researched": [
+    "10.1016/j.mser.2018.09.001",
+    "10.1016/j.matchemphys.2010.08.017"
+  ],
+  "Data_By_Temperature": {
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "MnSi1.733",
+        "Property": "ThermCond",
+        "Value": 1.6,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mser.2018.09.001"
+      }
+    ],
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "MnSi1.733",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mser.2018.09.001"
+      },
+      {
+        "Original_Name_In_Paper": "polycrystalline MnSi1.733\u20132 % SiGe",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2010.08.017"
+      }
+    ]
+  }
+}

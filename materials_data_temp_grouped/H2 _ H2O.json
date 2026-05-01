@@ -1,0 +1,18 @@
+{
+  "Material": "H2 / H2O",
+  "DOIs_Researched": [
+    "10.1016/S0167-2738(01)00951-1"
+  ],
+  "Data_By_Temperature": {
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "H2 / H2O",
+        "Property": "Conductivity",
+        "Value": 0.5,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0167-2738(01)00951-1"
+      }
+    ]
+  }
+}

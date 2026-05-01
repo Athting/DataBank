@@ -1,0 +1,18 @@
+{
+  "Material": "T = 300 K, n = 1020 cm\u22123, \u03c3 = 1976 \u03a9\u22121 m\u22121",
+  "DOIs_Researched": [
+    "10.1016/j.materresbull.2013.02.004"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "T = 300 K, n = 1020 cm\u22123, \u03c3 = 1976 \u03a9\u22121 m\u22121",
+        "Property": "Conductivity",
+        "Value": 1976.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2013.02.004"
+      }
+    ]
+  }
+}

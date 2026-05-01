@@ -1,0 +1,44 @@
+{
+  "Material": "HfNiSn",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2009.02.026",
+    "10.1039/c6cp01786j",
+    "10.1016/j.jallcom.2018.06.034"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "HfNiSn",
+        "Property": "ThermCond",
+        "Value": 6.7,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.06.034"
+      },
+      {
+        "Original_Name_In_Paper": "HfNiSn",
+        "Property": "ThermCond",
+        "Value": 14.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6cp01786j"
+      },
+      {
+        "Original_Name_In_Paper": "HfNiSn0.98Sb0.02",
+        "Property": "ThermCond",
+        "Value": 8.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2009.02.026"
+      },
+      {
+        "Original_Name_In_Paper": "HfNiSn0.98Sb0.02",
+        "Property": "ThermCond",
+        "Value": 6.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2009.02.026"
+      }
+    ]
+  }
+}

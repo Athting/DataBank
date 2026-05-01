@@ -1,0 +1,38 @@
+{
+  "Material": "CeO2",
+  "DOIs_Researched": [
+    "10.1007/s10854-011-0574-8",
+    "10.1039/c9ee02230a",
+    "10.1016/j.ceramint.2011.08.041"
+  ],
+  "Data_By_Temperature": {
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "2.0 mol % CeO2",
+        "Property": "PF",
+        "Value": 6e-10,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2011.08.041"
+      },
+      {
+        "Original_Name_In_Paper": "2.0 mol % CeO2",
+        "Property": "PF",
+        "Value": 0.0625,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-011-0574-8"
+      }
+    ],
+    "650.0": [
+      {
+        "Original_Name_In_Paper": "Gd2O3-doped CeO2",
+        "Property": "Conductivity",
+        "Value": 0.029,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ee02230a"
+      }
+    ]
+  }
+}

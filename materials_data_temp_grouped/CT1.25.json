@@ -1,0 +1,18 @@
+{
+  "Material": "CT1.25",
+  "DOIs_Researched": [
+    "10.1039/c8dt04351e"
+  ],
+  "Data_By_Temperature": {
+    "327.0": [
+      {
+        "Original_Name_In_Paper": "CT1.25",
+        "Property": "Conductivity",
+        "Value": 1517200.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8dt04351e"
+      }
+    ]
+  }
+}

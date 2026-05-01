@@ -1,0 +1,60 @@
+{
+  "Material": "Nb0.85CoSb",
+  "DOIs_Researched": [
+    "10.1039/c9tc00743a"
+  ],
+  "Data_By_Temperature": {
+    "950.0": [
+      {
+        "Original_Name_In_Paper": "Nb0.85CoSb",
+        "Property": "ThermCond",
+        "Value": 4.75,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc00743a"
+      },
+      {
+        "Original_Name_In_Paper": "Nb0.85CoSb",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc00743a"
+      },
+      {
+        "Original_Name_In_Paper": "Nb0.85CoSb",
+        "Property": "PF",
+        "Value": 0.0027500000000000003,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc00743a"
+      }
+    ],
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "Nb0.85CoSb",
+        "Property": "ThermCond",
+        "Value": 4.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc00743a"
+      },
+      {
+        "Original_Name_In_Paper": "Nb0.85CoSb",
+        "Property": "ZT",
+        "Value": 0.52,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc00743a"
+      },
+      {
+        "Original_Name_In_Paper": "Nb0.85CoSb",
+        "Property": "PF",
+        "Value": 0.0025,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc00743a"
+      }
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "Material": "Bi0.96Pb0.04CuSe0.95Te0",
+  "DOIs_Researched": [
+    "10.1039/c7ee00464h",
+    "10.1039/d0ta00240b",
+    "10.1016/j.mattod.2019.07.003"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.96Pb0.04CuSe0.95Te0.05O",
+        "Property": "ThermCond",
+        "Value": 0.30000000000000004,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ee00464h"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.96Pb0.04CuSe0.95Te0.05O",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ee00464h"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.96Pb0.04CuSe0.95Te0.05O",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ee00464h"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.96Pb0.04CuSe0.95Te0.05O",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta00240b"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.96Pb0.04CuSe0.95Te0.05O",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mattod.2019.07.003"
+      }
+    ]
+  }
+}

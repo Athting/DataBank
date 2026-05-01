@@ -1,0 +1,98 @@
+{
+  "Material": "Sr3SbN",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2018.12.339"
+  ],
+  "Data_By_Temperature": {
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "Sr3SbN",
+        "Property": "ThermCond",
+        "Value": 0.11,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.12.339"
+      },
+      {
+        "Original_Name_In_Paper": "Sr3SbN",
+        "Property": "ThermCond",
+        "Value": 0.11,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.12.339"
+      },
+      {
+        "Original_Name_In_Paper": "Sr3SbN",
+        "Property": "ZT",
+        "Value": 0.71,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.12.339"
+      },
+      {
+        "Original_Name_In_Paper": "Sr3SbN",
+        "Property": "ZT",
+        "Value": 0.71,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.12.339"
+      },
+      {
+        "Original_Name_In_Paper": "Sr3SbN",
+        "Property": "ZT",
+        "Value": 0.71,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.12.339"
+      },
+      {
+        "Original_Name_In_Paper": "Sr3SbN",
+        "Property": "ZT",
+        "Value": 0.71,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.12.339"
+      },
+      {
+        "Original_Name_In_Paper": "Sr3SbN",
+        "Property": "Seebeck",
+        "Value": 0.000257,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.12.339"
+      },
+      {
+        "Original_Name_In_Paper": "Sr3SbN",
+        "Property": "Seebeck",
+        "Value": 0.000257,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.12.339"
+      },
+      {
+        "Original_Name_In_Paper": "Sr3SbN",
+        "Property": "Seebeck",
+        "Value": 0.000257,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.12.339"
+      },
+      {
+        "Original_Name_In_Paper": "Sr3SbN",
+        "Property": "PF",
+        "Value": 0.0016500000000000002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.12.339"
+      },
+      {
+        "Original_Name_In_Paper": "Sr3SbN",
+        "Property": "PF",
+        "Value": 0.0016500000000000002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.12.339"
+      }
+    ]
+  }
+}

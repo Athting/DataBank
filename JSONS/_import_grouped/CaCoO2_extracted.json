@@ -1,0 +1,79 @@
+{
+  "doi": "10.1039/c4dt01674b",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Ca0.35CoO2-on-sapphire",
+        "Ca0.35CoO2-on-mica",
+        "Ca0.33CoO2 crystal",
+        "Ca0.33CoO2 thin film"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "Ca0.35CoO2-on-sapphire",
+          "value": 0.000078,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Ca0.33CoO2 crystal",
+          "value": 0.00008099999999999999,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Ca0.35CoO2-on-mica",
+          "value": 0.00005,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Ca0.35CoO2-on-sapphire",
+          "value": 0.39,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Ca0.35CoO2-on-mica",
+          "value": 0.00005,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Ca0.33CoO2 thin film",
+          "value": 0.0009000000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": []
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

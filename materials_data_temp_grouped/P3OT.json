@@ -1,0 +1,26 @@
+{
+  "Material": "P3OT",
+  "DOIs_Researched": [
+    "10.1016/j.synthmet.2013.08.006"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "P3OT films",
+        "Property": "PF",
+        "Value": 8.33e-06,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.synthmet.2013.08.006"
+      },
+      {
+        "Original_Name_In_Paper": "P3OT",
+        "Property": "Conductivity",
+        "Value": 4610.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.synthmet.2013.08.006"
+      }
+    ]
+  }
+}

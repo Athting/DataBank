@@ -1,0 +1,29 @@
+{
+  "Material": "Zr0.5Hf0.5CoSb0.99Sn0.",
+  "DOIs_Researched": [
+    "10.1016/j.rser.2019.05.051",
+    "10.1016/j.jssc.2010.03.023"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "polycrystalline Zr0.5Hf0.5Co1-xRhxSb0.99Sn0.01",
+        "Property": "ThermCond",
+        "Value": 3.7,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rser.2019.05.051"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Zr0.5Hf0.5Co1\u2212xRhxSb0.99Sn0.01",
+        "Property": "ThermCond",
+        "Value": 6.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2010.03.023"
+      }
+    ]
+  }
+}

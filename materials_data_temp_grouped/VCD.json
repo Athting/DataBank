@@ -1,0 +1,18 @@
+{
+  "Material": "VCD",
+  "DOIs_Researched": [
+    "10.1038/s41598-019-41000-y"
+  ],
+  "Data_By_Temperature": {
+    "293.0": [
+      {
+        "Original_Name_In_Paper": "VCD",
+        "Property": "Seebeck",
+        "Value": 0.00025,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-019-41000-y"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "doi": "10.1016/j.matpr.2015.05.089",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Co 3 O 4 coatings",
+        "Co 4 O 9 materials"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Co 3 O 4 coatings",
+          "zt_value": 2,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Co 4 O 9 materials",
+          "zt_value": 0.87,
+          "temperature": "973.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

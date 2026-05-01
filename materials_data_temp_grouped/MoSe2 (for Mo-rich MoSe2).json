@@ -1,0 +1,43 @@
+{
+  "Material": "MoSe2 (for Mo-rich MoSe2)",
+  "DOIs_Researched": [
+    "10.1039/c9tc05008f",
+    "10.1039/d0ta00240b"
+  ],
+  "Data_By_Temperature": {
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "Mo0.95Ta0.05Se2",
+        "Property": "ZT",
+        "Value": 0.12,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc05008f"
+      },
+      {
+        "Original_Name_In_Paper": "Mo0.95Ta0.05Se2",
+        "Property": "ZT",
+        "Value": 0.14,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc05008f"
+      },
+      {
+        "Original_Name_In_Paper": "Mo0.95Ta0.05Se2",
+        "Property": "ZT",
+        "Value": 0.12,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc05008f"
+      },
+      {
+        "Original_Name_In_Paper": "Mo0.95Ta0.05Se2",
+        "Property": "ZT",
+        "Value": 0.14,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta00240b"
+      }
+    ]
+  }
+}

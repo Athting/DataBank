@@ -1,0 +1,18 @@
+{
+  "Material": "Co3.6Ni0.4Sb11.4Se0.6",
+  "DOIs_Researched": [
+    "10.1016/j.matpr.2020.05.808"
+  ],
+  "Data_By_Temperature": {
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "Co3.6Ni0.4Sb11.4Se0.6",
+        "Property": "ZT",
+        "Value": 0.53,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matpr.2020.05.808"
+      }
+    ]
+  }
+}

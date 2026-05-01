@@ -1,0 +1,28 @@
+{
+  "Material": "Sn0.89Mn0.07Bi0.04Te",
+  "DOIs_Researched": [
+    "10.1016/j.cej.2020.127795"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.89Mn0.07Bi0.04Te",
+        "Property": "ThermCond",
+        "Value": 1.17,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cej.2020.127795"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Sn0.89Mn0.07Bi0.04Te",
+        "Property": "Conductivity",
+        "Value": 150900.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cej.2020.127795"
+      }
+    ]
+  }
+}

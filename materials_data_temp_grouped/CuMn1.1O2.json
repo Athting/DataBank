@@ -1,0 +1,37 @@
+{
+  "Material": "CuMn1.1O2",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2015.10.079",
+    "10.1016/j.ceramint.2015.06.058"
+  ],
+  "Data_By_Temperature": {
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "CuMn1.1O2",
+        "Property": "ThermCond",
+        "Value": 6.79,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2015.06.058"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "CuMn1.1O2",
+        "Property": "ZT",
+        "Value": 1.98e-07,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2015.10.079"
+      },
+      {
+        "Original_Name_In_Paper": "CuMn1.1O2",
+        "Property": "PF",
+        "Value": 6.3e-09,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2015.10.079"
+      }
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "Material": "CuBi2Se3",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2015.03.124",
+    "10.1016/j.nanoen.2015.10.012"
+  ],
+  "Data_By_Temperature": {
+    "290.0": [
+      {
+        "Original_Name_In_Paper": "Cu0.1Bi2Se3 nanoplatelet",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2015.10.012"
+      },
+      {
+        "Original_Name_In_Paper": "Cu0.1Bi2Se3 / PVDF thin film",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": "By introducing",
+        "Source_DOI": "10.1016/j.nanoen.2015.10.012"
+      },
+      {
+        "Original_Name_In_Paper": "Cu0.1Bi2Se3 nanoplatelet",
+        "Property": "PF",
+        "Value": 0.000103,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2015.10.012"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Cu0.1Bi2Se3 / PVDF composite",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2015.10.012"
+      },
+      {
+        "Original_Name_In_Paper": "Cu0.1Bi2Se3",
+        "Property": "PF",
+        "Value": 0.0001032,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2015.10.012"
+      }
+    ],
+    "590.0": [
+      {
+        "Original_Name_In_Paper": "Cu0.01Bi2Se3",
+        "Property": "ZT",
+        "Value": 0.54,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.03.124"
+      },
+      {
+        "Original_Name_In_Paper": "Cu0.01Bi2Se3",
+        "Property": "ZT",
+        "Value": 0.54,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.03.124"
+      },
+      {
+        "Original_Name_In_Paper": "Cu0.01Bi2Se3",
+        "Property": "ZT",
+        "Value": 0.54,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.03.124"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Cu0.02Bi2Se3",
+        "Property": "Conductivity",
+        "Value": 36630.0366300366,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.03.124"
+      }
+    ]
+  }
+}

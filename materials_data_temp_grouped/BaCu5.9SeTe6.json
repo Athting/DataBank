@@ -1,0 +1,46 @@
+{
+  "Material": "BaCu5.9SeTe6",
+  "DOIs_Researched": [
+    "10.1039/c9dt01616c"
+  ],
+  "Data_By_Temperature": {
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "BaCu5.9SeTe6",
+        "Property": "ZT",
+        "Value": 0.81,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9dt01616c"
+      },
+      {
+        "Original_Name_In_Paper": "BaCu5.9SeTe6",
+        "Property": "ZT",
+        "Value": 0.81,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9dt01616c"
+      }
+    ],
+    "580.0": [
+      {
+        "Original_Name_In_Paper": "BaCu5.9SeTe6",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9dt01616c"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "BaCu5.9SeTe6",
+        "Property": "Conductivity",
+        "Value": 24200.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9dt01616c"
+      }
+    ]
+  }
+}

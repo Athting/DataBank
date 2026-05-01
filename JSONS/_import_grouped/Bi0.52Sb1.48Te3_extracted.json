@@ -1,0 +1,142 @@
+{
+  "doi": "10.1039/c3ra23197f",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Bi0.52Sb1.48Te3 bulk material",
+        "p-type Bi0.52Sb1.48Te3 bulk material",
+        "Bi0.52Sb1.48Te3 bulk alloy",
+        "bulk nanostructural p-type Bi0.52Sb1.48Te3",
+        "p-type Bi0.52Sb1.48Te3",
+        "Bi0.52Sb1.48Te3 bulk materials",
+        "nanocrystalline Bi0.52Sb1.48Te3",
+        "Cu doped Bi0.52Sb1.48Te3 alloys",
+        "Pb-doped Bi0.52Sb1.48Te3",
+        "Bi0.52Sb1.48Te3 alloys",
+        "Bi0.52Sb1.48Te3",
+        "bulk nano-structured Bi0.52Sb1.48Te3"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "Cu doped Bi0.52Sb1.48Te3 alloys",
+          "value": 190500,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Bi0.52Sb1.48Te3 bulk material",
+          "zt_value": 1.5,
+          "temperature": "295 K"
+        },
+        {
+          "material": "p-type Bi0.52Sb1.48Te3 bulk material",
+          "zt_value": 1.56,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "p-type Bi0.52Sb1.48Te3 bulk material",
+          "zt_value": 1.56,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "p-type Bi0.52Sb1.48Te3 bulk material",
+          "zt_value": 1.56,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Bi0.52Sb1.48Te3 bulk material",
+          "zt_value": 1.56,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "p-type Bi0.52Sb1.48Te3 bulk material",
+          "zt_value": 1.56,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Bi0.52Sb1.48Te3 bulk alloy",
+          "zt_value": 0.2,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Bi0.52Sb1.48Te3 bulk material",
+          "zt_value": 1.56,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "bulk nanostructural p-type Bi0.52Sb1.48Te3",
+          "zt_value": 1.56,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "p-type Bi0.52Sb1.48Te3",
+          "zt_value": 0.9,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Bi0.52Sb1.48Te3 bulk materials",
+          "zt_value": 1.56,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "p-type Bi0.52Sb1.48Te3 bulk material",
+          "zt_value": 1.56,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "nanocrystalline Bi0.52Sb1.48Te3",
+          "zt_value": 1.56,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Pb-doped Bi0.52Sb1.48Te3",
+          "zt_value": 0.13,
+          "temperature": "350.0 K"
+        },
+        {
+          "material": "Bi0.52Sb1.48Te3 alloys",
+          "zt_value": 1.1400000000000001,
+          "temperature": "350.0 K"
+        },
+        {
+          "material": "Bi0.52Sb1.48Te3",
+          "zt_value": 1.56,
+          "temperature": "303.0 K"
+        },
+        {
+          "material": "bulk nano-structured Bi0.52Sb1.48Te3",
+          "zt_value": 1.56,
+          "temperature": "303.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

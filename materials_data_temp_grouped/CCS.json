@@ -1,0 +1,26 @@
+{
+  "Material": "CCS",
+  "DOIs_Researched": [
+    "10.1016/j.ijhydene.2019.04.048"
+  ],
+  "Data_By_Temperature": {
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "CCS",
+        "Property": "Conductivity",
+        "Value": 11.5,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ijhydene.2019.04.048"
+      },
+      {
+        "Original_Name_In_Paper": "CCS",
+        "Property": "Conductivity",
+        "Value": 11.5,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ijhydene.2019.04.048"
+      }
+    ]
+  }
+}

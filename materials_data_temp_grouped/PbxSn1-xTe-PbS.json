@@ -1,0 +1,18 @@
+{
+  "Material": "PbxSn1-xTe-PbS",
+  "DOIs_Researched": [
+    "10.1039/c5tc01781e"
+  ],
+  "Data_By_Temperature": {
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "PbxSn1\u2212xTe\u2013PbS",
+        "Property": "ThermCond",
+        "Value": 0.30000000000000004,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01781e"
+      }
+    ]
+  }
+}

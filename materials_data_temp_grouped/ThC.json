@@ -1,0 +1,53 @@
+{
+  "Material": "ThC",
+  "DOIs_Researched": [
+    "10.1016/j.jnucmat.2019.06.032",
+    "10.1016/B978-0-08-056033-5.00011-2"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "ThC",
+        "Property": "ThermCond",
+        "Value": 4.61,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jnucmat.2019.06.032"
+      },
+      {
+        "Original_Name_In_Paper": "ThC",
+        "Property": "ThermCond",
+        "Value": 18.42,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jnucmat.2019.06.032"
+      },
+      {
+        "Original_Name_In_Paper": "ThC",
+        "Property": "ThermCond",
+        "Value": 4.61,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jnucmat.2019.06.032"
+      },
+      {
+        "Original_Name_In_Paper": "ThC",
+        "Property": "ThermCond",
+        "Value": 29.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-08-056033-5.00011-2"
+      }
+    ],
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "ThC",
+        "Property": "ThermCond",
+        "Value": 26.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jnucmat.2019.06.032"
+      }
+    ]
+  }
+}

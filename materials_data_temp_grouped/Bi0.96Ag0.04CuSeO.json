@@ -1,0 +1,18 @@
+{
+  "Material": "Bi0.96Ag0.04CuSeO",
+  "DOIs_Researched": [
+    "10.1016/j.jeurceramsoc.2014.09.015"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.96Ag0.04CuSeO",
+        "Property": "PF",
+        "Value": 0.00032,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2014.09.015"
+      }
+    ]
+  }
+}

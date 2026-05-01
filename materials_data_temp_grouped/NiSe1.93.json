@@ -1,0 +1,18 @@
+{
+  "Material": "NiSe1.93",
+  "DOIs_Researched": [
+    "10.1007/s10854-016-4847-0"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "NiSe1.93",
+        "Property": "Conductivity",
+        "Value": 0.30000000000000004,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-016-4847-0"
+      }
+    ]
+  }
+}

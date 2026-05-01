@@ -1,0 +1,18 @@
+{
+  "Material": "IrMn",
+  "DOIs_Researched": [
+    "10.1038/s41467-020-15797-6"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "IrMn",
+        "Property": "Seebeck",
+        "Value": 1e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41467-020-15797-6"
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "Material": "TiOx",
+  "DOIs_Researched": [
+    "10.1039/c5cs00831j",
+    "10.1016/j.pmatsci.2013.06.003",
+    "10.1039/c7cp01736g"
+  ],
+  "Data_By_Temperature": {
+    "350.0": [
+      {
+        "Original_Name_In_Paper": "TiOx",
+        "Property": "Seebeck",
+        "Value": -0.000518,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2013.06.003"
+      },
+      {
+        "Original_Name_In_Paper": "TiOx",
+        "Property": "Conductivity",
+        "Value": 2000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2013.06.003"
+      }
+    ],
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "TiOx",
+        "Property": "Seebeck",
+        "Value": -0.0058000000000000005,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cp01736g"
+      }
+    ],
+    "363.0": [
+      {
+        "Original_Name_In_Paper": "TiOx",
+        "Property": "Conductivity",
+        "Value": 0.0007400000000000001,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5cs00831j"
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "Material": "GeSe, AgBiSe2.",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2017.09.029"
+  ],
+  "Data_By_Temperature": {
+    "748.0": [
+      {
+        "Original_Name_In_Paper": "n-type (GeSe)0.03(AgBiSe2)0.97",
+        "Property": "ThermCond",
+        "Value": 0.30000000000000004,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2017.09.029"
+      },
+      {
+        "Original_Name_In_Paper": "n-type (GeSe)0.03(AgBiSe2)0.97",
+        "Property": "ThermCond",
+        "Value": 0.30000000000000004,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2017.09.029"
+      },
+      {
+        "Original_Name_In_Paper": "n-type (GeSe)0.03(AgBiSe2)0.97",
+        "Property": "ZT",
+        "Value": 1.05,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2017.09.029"
+      },
+      {
+        "Original_Name_In_Paper": "n-type (GeSe)0.03(AgBiSe2)0.97",
+        "Property": "ZT",
+        "Value": 1.05,
+        "Units": null,
+        "Editing": "doping of Ge",
+        "Source_DOI": "10.1016/j.actamat.2017.09.029"
+      }
+    ]
+  }
+}

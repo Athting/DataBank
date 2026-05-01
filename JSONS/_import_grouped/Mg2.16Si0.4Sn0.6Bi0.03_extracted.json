@@ -1,0 +1,63 @@
+{
+  "doi": "10.1007/s11837-016-2060-5",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Mg2.16(Si0.4Sn0.6)0.97Bi0.03"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "Mg2.16(Si0.4Sn0.6)0.97Bi0.03",
+          "value": 200000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Mg2.16(Si0.4Sn0.6)0.97Bi0.03",
+          "value": 0.003,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Mg2.16(Si0.4Sn0.6)0.97Bi0.03",
+          "zt_value": 1.4,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "Mg2.16(Si0.4Sn0.6)0.97Bi0.03",
+          "zt_value": 1.4,
+          "temperature": "800.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

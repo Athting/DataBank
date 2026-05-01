@@ -1,0 +1,18 @@
+{
+  "Material": "CO",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2017.11.059"
+  ],
+  "Data_By_Temperature": {
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "CO gas",
+        "Property": "Seebeck",
+        "Value": 0.00014000000000000001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.11.059"
+      }
+    ]
+  }
+}

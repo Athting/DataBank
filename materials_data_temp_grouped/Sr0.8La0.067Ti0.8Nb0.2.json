@@ -1,0 +1,46 @@
+{
+  "Material": "Sr0.8La0.067Ti0.8Nb0.2",
+  "DOIs_Researched": [
+    "10.1016/j.rser.2018.10.006",
+    "10.1039/c9ta02883h",
+    "10.1016/j.nanoen.2020.105195"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "Sr0.8La0.067Ti0.8Nb0.2O3-\u03b4",
+        "Property": "ThermCond",
+        "Value": 3.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.105195"
+      },
+      {
+        "Original_Name_In_Paper": "Sr0.8La0.067Ti0.8Nb0.2O3\u2212\u03b4",
+        "Property": "ZT",
+        "Value": 0.25,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta02883h"
+      },
+      {
+        "Original_Name_In_Paper": "Sr0.8La0.067Ti0.8Nb0.2O3\u2212\u03b4",
+        "Property": "ZT",
+        "Value": 0.34500000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rser.2018.10.006"
+      }
+    ],
+    "960.0": [
+      {
+        "Original_Name_In_Paper": "polycrystalline Sr0.8La0.067Ti0.8Nb0.2O3\u2212\u03b4",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.105195"
+      }
+    ]
+  }
+}

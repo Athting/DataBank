@@ -1,0 +1,61 @@
+{
+  "doi": "10.1016/j.jssc.2018.12.052",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Mg2(Si0.2Ge0.1Sn0.7)0.99Sb0.01"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Mg2(Si0.2Ge0.1Sn0.7)0.99Sb0.01",
+          "value": 1.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "580.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Mg2(Si0.2Ge0.1Sn0.7)0.99Sb0.01",
+          "zt_value": 1.1,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "Mg2(Si0.2Ge0.1Sn0.7)0.99Sb0.01",
+          "zt_value": 1.1,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "Mg2(Si0.2Ge0.1Sn0.7)0.99Sb0.01",
+          "zt_value": 1.1,
+          "temperature": "700.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

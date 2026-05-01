@@ -1,0 +1,27 @@
+{
+  "Material": "CNTs / BiSbTe nanostructured bulk material",
+  "DOIs_Researched": [
+    "10.1016/S2352-8478(16)30119-8",
+    "10.1016/j.jmat.2016.08.002"
+  ],
+  "Data_By_Temperature": {
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "CNTs / BiSbTe nanostructured bulk material",
+        "Property": "ZT",
+        "Value": 1.42,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2016.08.002"
+      },
+      {
+        "Original_Name_In_Paper": "CNTs / BiSbTe nanostructured bulk material",
+        "Property": "ZT",
+        "Value": 1.42,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S2352-8478(16)30119-8"
+      }
+    ]
+  }
+}

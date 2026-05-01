@@ -1,0 +1,59 @@
+{
+  "Material": "Bi2Te2.3Se0.7",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2016.04.306",
+    "10.1016/j.jallcom.2019.07.261",
+    "10.1007/s13391-018-0021-6",
+    "10.1007/s10853-020-04949-0"
+  ],
+  "Data_By_Temperature": {
+    "423.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Te2.3Se0.7",
+        "Property": "ZT",
+        "Value": 1.13,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.07.261"
+      }
+    ],
+    "380.0": [
+      {
+        "Original_Name_In_Paper": "n-type Bi2Te2.3Se0.7",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.04.306"
+      }
+    ],
+    "445.0": [
+      {
+        "Original_Name_In_Paper": "n-type Bi2Te2.3Se0.7",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s13391-018-0021-6"
+      },
+      {
+        "Original_Name_In_Paper": "n-type polycrystalline Bi2Te2.3Se0.7",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "n-type Bi2Te2.3Se0.7",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": "Cu - doping",
+        "Source_DOI": "10.1007/s13391-018-0021-6"
+      }
+    ]
+  }
+}

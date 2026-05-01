@@ -1,0 +1,18 @@
+{
+  "Material": "Eu5In1.975Zn0.025Sb6",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2017.08.033"
+  ],
+  "Data_By_Temperature": {
+    "660.0": [
+      {
+        "Original_Name_In_Paper": "Eu5In1.975Zn0.025Sb6",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.08.033"
+      }
+    ]
+  }
+}

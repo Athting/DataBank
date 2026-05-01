@@ -1,0 +1,18 @@
+{
+  "Material": "LaFe4Sb12",
+  "DOIs_Researched": [
+    "10.1016/S0168-1273(02)33001-0"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "polycrystalline LaFe4Sb12",
+        "Property": "ThermCond",
+        "Value": 1.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0168-1273(02)33001-0"
+      }
+    ]
+  }
+}

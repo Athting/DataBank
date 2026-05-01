@@ -1,0 +1,56 @@
+{
+  "doi": "10.1039/c2ra22562j",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "nanostructured bulk Bi2Te2.25Se0.75-SPS-470",
+        "Bi2Te2.25Se0.75",
+        "nanostructured bulk Bi2Te2.25Se0.75"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "nanostructured bulk Bi2Te2.25Se0.75-SPS-470",
+          "zt_value": 0.55,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi2Te2.25Se0.75",
+          "zt_value": 0.96,
+          "temperature": "490.0 K"
+        },
+        {
+          "material": "nanostructured bulk Bi2Te2.25Se0.75",
+          "zt_value": 0.96,
+          "temperature": "490.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

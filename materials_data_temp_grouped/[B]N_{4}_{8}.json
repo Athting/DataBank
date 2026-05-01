@@ -1,0 +1,18 @@
+{
+  "Material": "[B]N_{4}_{8}",
+  "DOIs_Researched": [
+    "10.1016/j.rinp.2017.03.032"
+  ],
+  "Data_By_Temperature": {
+    "100.0": [
+      {
+        "Original_Name_In_Paper": "boron nitride quantum dot 4 / 8-BNND",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rinp.2017.03.032"
+      }
+    ]
+  }
+}

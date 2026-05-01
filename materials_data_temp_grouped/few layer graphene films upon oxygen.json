@@ -1,0 +1,26 @@
+{
+  "Material": "few layer graphene films upon oxygen",
+  "DOIs_Researched": [
+    "10.1039/c6cp01012a"
+  ],
+  "Data_By_Temperature": {
+    "575.0": [
+      {
+        "Original_Name_In_Paper": "few layer graphene films upon oxygen",
+        "Property": "Seebeck",
+        "Value": 0.0007,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6cp01012a"
+      },
+      {
+        "Original_Name_In_Paper": "few layer graphene films upon oxygen",
+        "Property": "PF",
+        "Value": 0.0045000000000000005,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6cp01012a"
+      }
+    ]
+  }
+}

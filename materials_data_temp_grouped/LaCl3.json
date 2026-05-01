@@ -1,0 +1,26 @@
+{
+  "Material": "LaCl3",
+  "DOIs_Researched": [
+    "10.1039/c9qi00213h"
+  ],
+  "Data_By_Temperature": {
+    "325.0": [
+      {
+        "Original_Name_In_Paper": "LaCl3",
+        "Property": "Seebeck",
+        "Value": -0.000212,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": "addition of LaCl3",
+        "Source_DOI": "10.1039/c9qi00213h"
+      },
+      {
+        "Original_Name_In_Paper": "LaCl3",
+        "Property": "Seebeck",
+        "Value": -0.000164,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9qi00213h"
+      }
+    ]
+  }
+}

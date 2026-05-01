@@ -1,0 +1,18 @@
+{
+  "Material": "HCl",
+  "DOIs_Researched": [
+    "10.1016/j.rser.2013.03.008"
+  ],
+  "Data_By_Temperature": {
+    "423.0": [
+      {
+        "Original_Name_In_Paper": "hydrochloric acid",
+        "Property": "ZT",
+        "Value": 0.000267,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rser.2013.03.008"
+      }
+    ]
+  }
+}

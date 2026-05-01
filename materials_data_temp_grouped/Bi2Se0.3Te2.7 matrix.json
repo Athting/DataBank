@@ -1,0 +1,28 @@
+{
+  "Material": "Bi2Se0.3Te2.7 matrix",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2011.01.155"
+  ],
+  "Data_By_Temperature": {
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Se0.3Te2.7 matrix",
+        "Property": "Seebeck",
+        "Value": 0.000143,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2011.01.155"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Bi2Se0.3Te2.7 matrix",
+        "Property": "Conductivity",
+        "Value": 200000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2011.01.155"
+      }
+    ]
+  }
+}

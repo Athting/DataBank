@@ -1,0 +1,18 @@
+{
+  "Material": "CuCrS2.10",
+  "DOIs_Researched": [
+    "10.1007/s10853-013-7220-1"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "CuCrS2.10",
+        "Property": "Conductivity",
+        "Value": 1e-05,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-013-7220-1"
+      }
+    ]
+  }
+}

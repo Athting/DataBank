@@ -1,0 +1,18 @@
+{
+  "Material": "3,4- ethylenedioxythiophene",
+  "DOIs_Researched": [
+    "10.1016/j.fueleneab.2016.06.002"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "3,4- ethylenedioxythiophene",
+        "Property": "ZT",
+        "Value": 0.42,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.fueleneab.2016.06.002"
+      }
+    ]
+  }
+}

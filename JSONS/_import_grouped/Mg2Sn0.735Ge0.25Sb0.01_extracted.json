@@ -1,0 +1,45 @@
+{
+  "doi": "10.1016/j.actamat.2015.11.006",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Mg2Sn0.735Ge0.25Sb0.015"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Mg2Sn0.735Ge0.25Sb0.015",
+          "value": 0.0045000000000000005,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": []
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

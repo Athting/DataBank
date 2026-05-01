@@ -1,0 +1,18 @@
+{
+  "Material": "Sr0.9Gd0.1TiO3\u2212\u03b4",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2013.11.116"
+  ],
+  "Data_By_Temperature": {
+    "1006.0": [
+      {
+        "Original_Name_In_Paper": "n-type (Sr0.9Gd0.1)TiO3\u2212\u03b4",
+        "Property": "ZT",
+        "Value": 0.37,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.11.116"
+      }
+    ]
+  }
+}

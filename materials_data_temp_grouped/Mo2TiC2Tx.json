@@ -1,0 +1,48 @@
+{
+  "Material": "Mo2TiC2Tx",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2019.03.020",
+    "10.1016/j.apmt.2018.07.004",
+    "10.1039/c9nr07406f"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Mo2TiC2Tx",
+        "Property": "PF",
+        "Value": 0.00030000000000000003,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apmt.2018.07.004"
+      }
+    ],
+    "803.0": [
+      {
+        "Original_Name_In_Paper": "Mo2TiC2Tx",
+        "Property": "PF",
+        "Value": 0.000309,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2019.03.020"
+      },
+      {
+        "Original_Name_In_Paper": "Mo2TiC2Tx",
+        "Property": "Conductivity",
+        "Value": 138000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2019.03.020"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Mo2TiC2Tx",
+        "Property": "PF",
+        "Value": 0.000309,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9nr07406f"
+      }
+    ]
+  }
+}

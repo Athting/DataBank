@@ -1,0 +1,29 @@
+{
+  "Material": "ZrIrBi",
+  "DOIs_Researched": [
+    "10.1016/j.physleta.2017.09.043",
+    "10.1016/j.jallcom.2017.08.216"
+  ],
+  "Data_By_Temperature": {
+    "1300.0": [
+      {
+        "Original_Name_In_Paper": "ZrIrBi",
+        "Property": "Seebeck",
+        "Value": 0.0002559,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physleta.2017.09.043"
+      }
+    ],
+    "1200.0": [
+      {
+        "Original_Name_In_Paper": "ZrIrBi",
+        "Property": "Conductivity",
+        "Value": 265000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.08.216"
+      }
+    ]
+  }
+}

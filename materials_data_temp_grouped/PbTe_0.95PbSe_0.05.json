@@ -1,0 +1,18 @@
+{
+  "Material": "PbTe_0.95PbSe_0.05",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2020.04.182"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "p-type PbTe-PbSe alloy with 5 mol % PbSe",
+        "Property": "Seebeck",
+        "Value": 5e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2020.04.182"
+      }
+    ]
+  }
+}

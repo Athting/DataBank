@@ -1,0 +1,18 @@
+{
+  "Material": "h-Li(BH4)0.7Br0.2Cl0.1",
+  "DOIs_Researched": [
+    "10.1016/j.ijhydene.2020.08.119"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "h-Li(BH4)0.7Br0.2Cl0.1",
+        "Property": "Conductivity",
+        "Value": 0.001,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ijhydene.2020.08.119"
+      }
+    ]
+  }
+}

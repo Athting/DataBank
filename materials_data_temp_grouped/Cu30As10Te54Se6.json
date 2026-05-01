@@ -1,0 +1,18 @@
+{
+  "Material": "Cu30As10Te54Se6",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2013.04.015"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Cu30As10Te54Se6",
+        "Property": "ZT",
+        "Value": 0.02,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2013.04.015"
+      }
+    ]
+  }
+}

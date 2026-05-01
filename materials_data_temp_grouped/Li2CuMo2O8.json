@@ -1,0 +1,18 @@
+{
+  "Material": "Li2CuMo2O8",
+  "DOIs_Researched": [
+    "10.1016/S0254-0584(02)00485-6"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "quaternary oxide Li2CuMo2O8",
+        "Property": "Conductivity",
+        "Value": 0.9345794393,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0254-0584(02)00485-6"
+      }
+    ]
+  }
+}

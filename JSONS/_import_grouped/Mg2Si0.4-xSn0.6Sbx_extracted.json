@@ -1,0 +1,55 @@
+{
+  "doi": "10.1016/j.rser.2014.05.060",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Mg2Si0.4−xSn0.6Sbx alloys",
+        "Mg2Si0.4−xSn0.6Sbx"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Mg2Si0.4−xSn0.6Sbx alloys",
+          "zt_value": 1.5,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Mg2Si0.4−xSn0.6Sbx",
+          "zt_value": 1.1,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Mg2Si0.4−xSn0.6Sbx",
+          "zt_value": 1.42,
+          "temperature": "723.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "Material": "YbZn2Sb2",
+  "DOIs_Researched": [
+    "10.1016/j.cej.2019.05.206",
+    "10.1016/j.jallcom.2017.01.350",
+    "10.1016/j.actamat.2011.11.056",
+    "10.1016/j.jssc.2018.11.030",
+    "10.1016/j.jallcom.2019.153384",
+    "10.1016/j.physleta.2014.03.030",
+    "10.1016/j.nanoen.2017.11.019"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "YbZn2Sb2",
+        "Property": "ThermCond",
+        "Value": 0.42,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.01.350"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "YbZn2Sb2",
+        "Property": "ThermCond",
+        "Value": 3.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2017.11.019"
+      },
+      {
+        "Original_Name_In_Paper": "YbZn2Sb2",
+        "Property": "Conductivity",
+        "Value": 208000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cej.2019.05.206"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "YbZn2Sb2",
+        "Property": "ThermCond",
+        "Value": 3.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2018.11.030"
+      },
+      {
+        "Original_Name_In_Paper": "YbZn2Sb2",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2017.11.019"
+      },
+      {
+        "Original_Name_In_Paper": "YbZn2Sb2",
+        "Property": "ZT",
+        "Value": 0.34,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2017.11.019"
+      },
+      {
+        "Original_Name_In_Paper": "YbZn2Sb2",
+        "Property": "ZT",
+        "Value": 0.32,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2011.11.056"
+      }
+    ],
+    "775.0": [
+      {
+        "Original_Name_In_Paper": "YbZn2Sb2",
+        "Property": "ZT",
+        "Value": 0.67,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.153384"
+      }
+    ],
+    "690.0": [
+      {
+        "Original_Name_In_Paper": "YbZn2Sb2",
+        "Property": "ZT",
+        "Value": 0.34,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cej.2019.05.206"
+      }
+    ],
+    "726.0": [
+      {
+        "Original_Name_In_Paper": "YbZn2Sb2",
+        "Property": "ZT",
+        "Value": 0.61,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physleta.2014.03.030"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "YbZn2Sb2",
+        "Property": "ZT",
+        "Value": 0.67,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2011.11.056"
+      }
+    ]
+  }
+}

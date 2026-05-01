@@ -1,0 +1,18 @@
+{
+  "Material": "LaNi1-xRhxO3",
+  "DOIs_Researched": [
+    "10.1016/j.materresbull.2009.11.008"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "LaNi1\u2212xRhxO3",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2009.11.008"
+      }
+    ]
+  }
+}

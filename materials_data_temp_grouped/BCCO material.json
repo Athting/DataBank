@@ -1,0 +1,18 @@
+{
+  "Material": "BCCO material",
+  "DOIs_Researched": [
+    "10.1016/j.jeurceramsoc.2018.10.023"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "BCCO material",
+        "Property": "Conductivity",
+        "Value": 1800.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2018.10.023"
+      }
+    ]
+  }
+}

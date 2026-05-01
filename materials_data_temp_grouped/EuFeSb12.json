@@ -1,0 +1,27 @@
+{
+  "Material": "EuFeSb12",
+  "DOIs_Researched": [
+    "10.1007/s12648-016-0896-8",
+    "10.1016/S0304-8853(00)01048-9"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Eu83Fe4Sb12",
+        "Property": "ZT",
+        "Value": 0.05,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0304-8853(00)01048-9"
+      },
+      {
+        "Original_Name_In_Paper": "EuFe4Sb12",
+        "Property": "ZT",
+        "Value": 0.13,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s12648-016-0896-8"
+      }
+    ]
+  }
+}

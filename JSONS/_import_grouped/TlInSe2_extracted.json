@@ -1,0 +1,84 @@
+{
+  "doi": "10.1016/j.mtener.2018.12.005",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "TlInSe2",
+        "p-doped TlInSe2"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "TlInSe2",
+          "value": 0.0002,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "TlInSe2",
+          "value": 0.000107,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "473.0 K"
+        },
+        {
+          "material": "TlInSe2",
+          "value": 0.000106,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "413.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "p-doped TlInSe2",
+          "value": 1061,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "40.0 K"
+        },
+        {
+          "material": "TlInSe2",
+          "value": 0.039,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "TlInSe2",
+          "value": 6.11,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "40.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "TlInSe2",
+          "zt_value": 2,
+          "temperature": "500.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

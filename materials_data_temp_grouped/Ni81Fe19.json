@@ -1,0 +1,37 @@
+{
+  "Material": "Ni81Fe19",
+  "DOIs_Researched": [
+    "10.1016/j.ssc.2009.10.045",
+    "10.1038/nature07321"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ni81Fe19",
+        "Property": "Seebeck",
+        "Value": -2e-09,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/nature07321"
+      },
+      {
+        "Original_Name_In_Paper": "Ni81Fe19 film",
+        "Property": "Seebeck",
+        "Value": -2e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/nature07321"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ni81Fe19",
+        "Property": "Conductivity",
+        "Value": 2900000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2009.10.045"
+      }
+    ]
+  }
+}

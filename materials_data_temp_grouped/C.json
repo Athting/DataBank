@@ -1,0 +1,87 @@
+{
+  "Material": "C",
+  "DOIs_Researched": [
+    "10.1016/j.jeurceramsoc.2017.11.011",
+    "10.1016/B978-0-12-819576-5.00006-2",
+    "10.1016/j.mattod.2019.07.003",
+    "10.1016/j.pmatsci.2019.100623"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "CCO single crystal",
+        "Property": "ThermCond",
+        "Value": 3.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mattod.2019.07.003"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "1.1 % 13 C",
+        "Property": "ThermCond",
+        "Value": 4419.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-12-819576-5.00006-2"
+      }
+    ],
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "CCO98 %",
+        "Property": "ThermCond",
+        "Value": 2.7,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2017.11.011"
+      }
+    ],
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "CCO single crystals",
+        "Property": "ZT",
+        "Value": 0.87,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2017.11.011"
+      },
+      {
+        "Original_Name_In_Paper": "CCO98 %",
+        "Property": "Seebeck",
+        "Value": 0.00016,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2017.11.011"
+      },
+      {
+        "Original_Name_In_Paper": "CCO single crystal",
+        "Property": "Conductivity",
+        "Value": 43000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mattod.2019.07.003"
+      }
+    ],
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "CCO98 %",
+        "Property": "ZT",
+        "Value": 0.11,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2017.11.011"
+      }
+    ],
+    "1473.0": [
+      {
+        "Original_Name_In_Paper": "graphitic free carbon",
+        "Property": "Conductivity",
+        "Value": 100.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2019.100623"
+      }
+    ]
+  }
+}

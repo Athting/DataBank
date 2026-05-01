@@ -1,0 +1,126 @@
+{
+  "doi": "10.1016/j.rser.2014.05.060",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Sb-doped Mg2Si0.5Sn0.5",
+        "porous Sb-doped Mg2Si0.5Sn0.5",
+        "Mg2Si0.5Sn0.5",
+        "Sb doped Mg2Si0.5Sn0.5",
+        "Sb doped Mg2Si0.5Sn0.5 compound"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "porous Sb-doped Mg2Si0.5Sn0.5",
+          "value": -0.000154,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Sb-doped Mg2Si0.5Sn0.5",
+          "value": 10,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Mg2Si0.5Sn0.5",
+          "value": 1.92,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Mg2Si0.5Sn0.5",
+          "value": 1.9,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Sb doped Mg2Si0.5Sn0.5 compound",
+          "value": 0.0032,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "610.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Mg2Si0.5Sn0.5",
+          "zt_value": 0.0132,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Sb-doped Mg2Si0.5Sn0.5",
+          "zt_value": 0.84,
+          "temperature": "663.0 K"
+        },
+        {
+          "material": "Sb doped Mg2Si0.5Sn0.5",
+          "zt_value": 1.3900000000000001,
+          "temperature": "663.0 K"
+        },
+        {
+          "material": "Mg2Si0.5Sn0.5",
+          "zt_value": 0.87,
+          "temperature": "630.0 K"
+        },
+        {
+          "material": "Mg2Si0.5Sn0.5",
+          "zt_value": 0.87,
+          "temperature": "630.0 K"
+        },
+        {
+          "material": "Sb-doped Mg2Si0.5Sn0.5",
+          "zt_value": 0.9,
+          "temperature": "780.0 K"
+        },
+        {
+          "material": "Sb-doped Mg2Si0.5Sn0.5",
+          "zt_value": 0.486,
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "Sb-doped Mg2Si0.5Sn0.5",
+          "zt_value": 1.63,
+          "temperature": "615.0 K"
+        },
+        {
+          "material": "Mg2Si0.5Sn0.5",
+          "zt_value": 0.53,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "Mg2Si0.5Sn0.5",
+          "zt_value": 0.53,
+          "temperature": "800.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

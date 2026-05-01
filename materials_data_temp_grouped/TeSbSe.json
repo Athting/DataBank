@@ -1,0 +1,18 @@
+{
+  "Material": "TeSbSe",
+  "DOIs_Researched": [
+    "10.1039/d0ta04830e"
+  ],
+  "Data_By_Temperature": {
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "p-type Te0.985Sb0.015\u20132 % SmSe2 pellet",
+        "Property": "ZT",
+        "Value": 1.06,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta04830e"
+      }
+    ]
+  }
+}

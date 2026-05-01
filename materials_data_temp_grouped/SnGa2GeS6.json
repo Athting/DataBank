@@ -1,0 +1,28 @@
+{
+  "Material": "SnGa2GeS6",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2017.12.033"
+  ],
+  "Data_By_Temperature": {
+    "0.75": [
+      {
+        "Original_Name_In_Paper": "SnGa2GeS6",
+        "Property": "ZT",
+        "Value": 0.75,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.12.033"
+      }
+    ],
+    "450.0": [
+      {
+        "Original_Name_In_Paper": "SnGa2GeS6",
+        "Property": "ZT",
+        "Value": 2.68,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.12.033"
+      }
+    ]
+  }
+}

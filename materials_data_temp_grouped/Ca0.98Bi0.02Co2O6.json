@@ -1,0 +1,18 @@
+{
+  "Material": "Ca0.98Bi0.02Co2O6",
+  "DOIs_Researched": [
+    "10.1016/j.jpcs.2004.06.087"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "(Ca0.98Bi0.02)3Co2O6",
+        "Property": "Conductivity",
+        "Value": 2631.5789473684,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2004.06.087"
+      }
+    ]
+  }
+}

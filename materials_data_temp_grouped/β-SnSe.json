@@ -1,0 +1,52 @@
+{
+  "Material": "\u03b2-SnSe",
+  "DOIs_Researched": [
+    "10.1039/c7nr04766e"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "\u03b2-SnSe",
+        "Property": "ZT",
+        "Value": 2.06,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7nr04766e"
+      },
+      {
+        "Original_Name_In_Paper": "\u03b2-SnSe",
+        "Property": "ZT",
+        "Value": 2.06,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7nr04766e"
+      },
+      {
+        "Original_Name_In_Paper": "\u03b2-SnSe",
+        "Property": "ZT",
+        "Value": 2.06,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7nr04766e"
+      },
+      {
+        "Original_Name_In_Paper": "\u03b2-SnSe",
+        "Property": "Seebeck",
+        "Value": 0.0004,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7nr04766e"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "\u03b2-SnSe",
+        "Property": "ZT",
+        "Value": 2.66,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7nr04766e"
+      }
+    ]
+  }
+}

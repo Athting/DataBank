@@ -1,0 +1,29 @@
+{
+  "Material": "Ca0.98Dy0.02MnO3-\u03b4",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2011.04.056",
+    "10.1007/s11664-012-2159-6"
+  ],
+  "Data_By_Temperature": {
+    "612.0": [
+      {
+        "Original_Name_In_Paper": "Ca0.98Dy0.02MnO3-\u03b4",
+        "Property": "ZT",
+        "Value": 0.073,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-012-2159-6"
+      }
+    ],
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "Ca0.98Dy0.02MnO3-\u03b4",
+        "Property": "ZT",
+        "Value": 0.02,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2011.04.056"
+      }
+    ]
+  }
+}

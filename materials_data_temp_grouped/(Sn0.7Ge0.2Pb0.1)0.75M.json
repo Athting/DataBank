@@ -1,0 +1,18 @@
+{
+  "Material": "(Sn0.7Ge0.2Pb0.1)0.75M",
+  "DOIs_Researched": [
+    "10.1039/c9ta05698j"
+  ],
+  "Data_By_Temperature": {
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "(Sn0.7Ge0.2Pb0.1)0.75Mn0.275Te",
+        "Property": "ThermCond",
+        "Value": 0.32,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta05698j"
+      }
+    ]
+  }
+}

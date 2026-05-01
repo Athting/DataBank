@@ -1,0 +1,46 @@
+{
+  "Material": "CuAgSe-W-A",
+  "DOIs_Researched": [
+    "10.1007/s10853-018-2676-7"
+  ],
+  "Data_By_Temperature": {
+    "566.0": [
+      {
+        "Original_Name_In_Paper": "CuAgSe-W-A",
+        "Property": "ZT",
+        "Value": 0.68,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-018-2676-7"
+      },
+      {
+        "Original_Name_In_Paper": "CuAgSe-W-A",
+        "Property": "ZT",
+        "Value": 0.68,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-018-2676-7"
+      }
+    ],
+    "320.0": [
+      {
+        "Original_Name_In_Paper": "CuAgSe-W-A",
+        "Property": "ZT",
+        "Value": 0.24,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-018-2676-7"
+      }
+    ],
+    "458.0": [
+      {
+        "Original_Name_In_Paper": "CuAgSe-W-A",
+        "Property": "Seebeck",
+        "Value": -7.23e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-018-2676-7"
+      }
+    ]
+  }
+}

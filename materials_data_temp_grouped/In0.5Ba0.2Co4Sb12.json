@@ -1,0 +1,70 @@
+{
+  "Material": "In0.5Ba0.2Co4Sb12",
+  "DOIs_Researched": [
+    "10.1016/j.ssc.2013.03.021"
+  ],
+  "Data_By_Temperature": {
+    "643.5": [
+      {
+        "Original_Name_In_Paper": "In0.5Ba0.2Co4Sb12",
+        "Property": "ThermCond",
+        "Value": 1.1280000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2013.03.021"
+      },
+      {
+        "Original_Name_In_Paper": "In0.5Ba0.2Co4Sb12",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2013.03.021"
+      },
+      {
+        "Original_Name_In_Paper": "In0.5Ba0.2Co4Sb12",
+        "Property": "PF",
+        "Value": 0.00303,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2013.03.021"
+      },
+      {
+        "Original_Name_In_Paper": "In0.5Ba0.2Co4Sb12",
+        "Property": "PF",
+        "Value": 0.00303,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2013.03.021"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "In0.5Ba0.2Co4Sb12",
+        "Property": "ZT",
+        "Value": 0.23,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2013.03.021"
+      }
+    ],
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "In0.5Ba0.2Co4Sb12",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2013.03.021"
+      },
+      {
+        "Original_Name_In_Paper": "In0.5Ba0.2Co4Sb12",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2013.03.021"
+      }
+    ]
+  }
+}

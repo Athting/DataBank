@@ -1,0 +1,18 @@
+{
+  "Material": "LaFeAsO",
+  "DOIs_Researched": [
+    "10.1016/j.mser.2018.09.001"
+  ],
+  "Data_By_Temperature": {
+    "100.0": [
+      {
+        "Original_Name_In_Paper": "LaFeAsO",
+        "Property": "Seebeck",
+        "Value": -0.00013000000000000002,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mser.2018.09.001"
+      }
+    ]
+  }
+}

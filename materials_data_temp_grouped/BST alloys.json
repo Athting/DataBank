@@ -1,0 +1,18 @@
+{
+  "Material": "BST alloys",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2019.12.001"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "BST alloys",
+        "Property": "Conductivity",
+        "Value": 180000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2019.12.001"
+      }
+    ]
+  }
+}

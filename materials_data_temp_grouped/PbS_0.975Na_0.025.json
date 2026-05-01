@@ -1,0 +1,18 @@
+{
+  "Material": "PbS_0.975Na_0.025",
+  "DOIs_Researched": [
+    "10.1039/c3ee43099e"
+  ],
+  "Data_By_Temperature": {
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "p-type Pb0.975Na0.025S\u20133 % SrS",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ee43099e"
+      }
+    ]
+  }
+}

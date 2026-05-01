@@ -1,0 +1,34 @@
+{
+  "Material": "SnAg0.1Te",
+  "DOIs_Researched": [
+    "10.1039/c9cp03534f"
+  ],
+  "Data_By_Temperature": {
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "SnAg0.1Te",
+        "Property": "ZT",
+        "Value": 1.35,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9cp03534f"
+      },
+      {
+        "Original_Name_In_Paper": "SnAg0.1Te",
+        "Property": "ZT",
+        "Value": 1.35,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9cp03534f"
+      },
+      {
+        "Original_Name_In_Paper": "SnAg0.1Te",
+        "Property": "Seebeck",
+        "Value": 0.000157,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9cp03534f"
+      }
+    ]
+  }
+}

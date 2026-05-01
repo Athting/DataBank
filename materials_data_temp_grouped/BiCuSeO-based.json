@@ -1,0 +1,18 @@
+{
+  "Material": "BiCuSeO-based",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2017.09.143"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "BiCuSeO-based",
+        "Property": "ZT",
+        "Value": 0.76,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2017.09.143"
+      }
+    ]
+  }
+}

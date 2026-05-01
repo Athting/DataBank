@@ -1,0 +1,18 @@
+{
+  "Material": "Cu5FeS4-xSe",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2018.03.408"
+  ],
+  "Data_By_Temperature": {
+    "540.0": [
+      {
+        "Original_Name_In_Paper": "Se-substituted Cu5FeS4-xSex",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.03.408"
+      }
+    ]
+  }
+}

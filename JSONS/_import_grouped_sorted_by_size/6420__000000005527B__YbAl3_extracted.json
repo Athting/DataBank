@@ -1,0 +1,218 @@
+{
+  "doi": "10.1016/j.intermet.2010.08.034",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "YbAl3",
+        "pure YbAl3",
+        "un-doped YbAl3",
+        "YbAl3 bulk materials",
+        "single-crystal YbAl3",
+        "single crystal YbAl3"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "YbAl3",
+          "value": -0.00009,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "YbAl3",
+          "value": -0.00009,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "YbAl3",
+          "value": -0.00008,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "YbAl3",
+          "value": -0.00009,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "pure YbAl3",
+          "value": 0.000039,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "YbAl3",
+          "value": 0.00008,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "240.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "pure YbAl3",
+          "value": 2631578.947368421,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "YbAl3",
+          "value": 1886792.4528301887,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure YbAl3",
+          "value": 833333.3333333334,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "YbAl3",
+          "value": 2222222.222222222,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure YbAl3",
+          "value": 1000000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "YbAl3",
+          "value": 2222222.2222222225,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "YbAl3",
+          "value": 1250000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "600.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "YbAl3",
+          "value": 6,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure YbAl3",
+          "value": 19.6,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure YbAl3",
+          "value": 19.6,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "pure YbAl3",
+          "value": 0.0115,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "YbAl3",
+          "value": 0.015,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "single-crystal YbAl3",
+          "value": 0.034,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "100.0 K"
+        },
+        {
+          "material": "single crystal YbAl3",
+          "value": 0.034,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "100.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "YbAl3",
+          "zt_value": 0.4,
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure YbAl3",
+          "zt_value": 0.17,
+          "temperature": "295 K"
+        },
+        {
+          "material": "YbAl3",
+          "zt_value": 0.4,
+          "temperature": "295 K"
+        },
+        {
+          "material": "YbAl3",
+          "zt_value": 0.4,
+          "temperature": "295 K"
+        },
+        {
+          "material": "YbAl3",
+          "zt_value": 0.4,
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure YbAl3",
+          "zt_value": 0.18,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "pure YbAl3",
+          "zt_value": 0.18,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "un-doped YbAl3",
+          "zt_value": 0.4,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "un-doped YbAl3",
+          "zt_value": 0.4,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "YbAl3 bulk materials",
+          "zt_value": 0.17,
+          "temperature": "773.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

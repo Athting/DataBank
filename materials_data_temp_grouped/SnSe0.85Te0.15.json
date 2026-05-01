@@ -1,0 +1,65 @@
+{
+  "Material": "SnSe0.85Te0.15",
+  "DOIs_Researched": [
+    "10.1039/c9cp02018g",
+    "10.1016/j.cclet.2020.04.046"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "SnSe0.85Te0.15",
+        "Property": "ThermCond",
+        "Value": 0.79,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cclet.2020.04.046"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "SnSe0.85Te0.15",
+        "Property": "ThermCond",
+        "Value": 0.79,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cclet.2020.04.046"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "SnSe0.85Te0.15",
+        "Property": "ZT",
+        "Value": 0.79,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cclet.2020.04.046"
+      },
+      {
+        "Original_Name_In_Paper": "SnSe0.85Te0.15",
+        "Property": "ZT",
+        "Value": 0.79,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cclet.2020.04.046"
+      },
+      {
+        "Original_Name_In_Paper": "SnSe0.85Te0.15",
+        "Property": "ZT",
+        "Value": 0.79,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cclet.2020.04.046"
+      }
+    ],
+    "310.0": [
+      {
+        "Original_Name_In_Paper": "SnSe0.85Te0.15",
+        "Property": "Conductivity",
+        "Value": 8.3333333333,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9cp02018g"
+      }
+    ]
+  }
+}

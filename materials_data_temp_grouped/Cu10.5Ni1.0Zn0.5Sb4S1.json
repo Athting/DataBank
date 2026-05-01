@@ -1,0 +1,46 @@
+{
+  "Material": "Cu10.5Ni1.0Zn0.5Sb4S1",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2015.08.040",
+    "10.1016/j.jallcom.2017.11.199",
+    "10.1039/c6ta05945g"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Cu10.5Ni1.0Zn0.5Sb4S13",
+        "Property": "ThermCond",
+        "Value": 0.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta05945g"
+      },
+      {
+        "Original_Name_In_Paper": "Cu10.5Ni1.0Zn0.5Sb4S13",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta05945g"
+      },
+      {
+        "Original_Name_In_Paper": "Cu10.5Ni1.0Zn0.5Sb4S13",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.11.199"
+      }
+    ],
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "Cu10.5Ni1.0Zn0.5Sb4S13",
+        "Property": "ZT",
+        "Value": 1.03,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2015.08.040"
+      }
+    ]
+  }
+}

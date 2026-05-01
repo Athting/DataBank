@@ -1,0 +1,120 @@
+{
+  "doi": "10.1038/am.2015.36",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "titanium carbide",
+        "TiC0.5O0.5 @ TiOy- 5wt. % TiO2 bulk",
+        "TiC0.1O0.9 @ TiOy-5wt. % TiO2",
+        "TiC0.5O0.5 @ TiOy",
+        "TiC0.5O0.5 @ TiOy-5wt. % TiO2 bulks",
+        "TiC0.1O0.9 @ TiOy-5wt. % TiO2 bulk",
+        "TiC",
+        "TiC / Ti"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "TiC0.5O0.5 @ TiOy",
+          "value": 0.000073,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "973.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "titanium carbide",
+          "value": 10400,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "TiC0.5O0.5 @ TiOy-5wt. % TiO2 bulks",
+          "value": 103400,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "TiC0.1O0.9 @ TiOy-5wt. % TiO2 bulk",
+          "value": 142300,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "TiC0.5O0.5 @ TiOy",
+          "value": 38000,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "TiC0.1O0.9 @ TiOy-5wt. % TiO2",
+          "value": 142300,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "973.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "TiC0.5O0.5 @ TiOy- 5wt. % TiO2 bulk",
+          "zt_value": 0.7000000000000001,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "TiC0.1O0.9 @ TiOy-5wt. % TiO2",
+          "zt_value": 0.84,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "TiC0.1O0.9 @ TiOy-5wt. % TiO2",
+          "zt_value": 0.84,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "TiC",
+          "zt_value": 0.30000000000000004,
+          "temperature": "1050.0 K"
+        },
+        {
+          "material": "TiC",
+          "zt_value": 0.30000000000000004,
+          "temperature": "1050.0 K"
+        },
+        {
+          "material": "TiC / Ti",
+          "zt_value": 2,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "TiC",
+          "zt_value": 0.047,
+          "temperature": "860.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

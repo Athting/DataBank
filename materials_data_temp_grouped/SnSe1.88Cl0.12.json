@@ -1,0 +1,28 @@
+{
+  "Material": "SnSe1.88Cl0.12",
+  "DOIs_Researched": [
+    "10.1016/j.scib.2017.11.015"
+  ],
+  "Data_By_Temperature": {
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "SnSe1.88Cl0.12",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": "Cl doping",
+        "Source_DOI": "10.1016/j.scib.2017.11.015"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "SnSe1.88Cl0.12",
+        "Property": "Conductivity",
+        "Value": 300.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scib.2017.11.015"
+      }
+    ]
+  }
+}

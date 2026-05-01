@@ -1,0 +1,28 @@
+{
+  "Material": "IrP3",
+  "DOIs_Researched": [
+    "10.1039/c9ra03882e"
+  ],
+  "Data_By_Temperature": {
+    "50.0": [
+      {
+        "Original_Name_In_Paper": "IrP3",
+        "Property": "Conductivity",
+        "Value": 15883.6,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ra03882e"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "IrP3",
+        "Property": "Conductivity",
+        "Value": 38848.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ra03882e"
+      }
+    ]
+  }
+}

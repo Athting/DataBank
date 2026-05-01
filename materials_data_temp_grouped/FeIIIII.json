@@ -1,0 +1,18 @@
+{
+  "Material": "FeIIIII",
+  "DOIs_Researched": [
+    "10.1016/j.enchem.2020.100029"
+  ],
+  "Data_By_Temperature": {
+    "298.0": [
+      {
+        "Original_Name_In_Paper": "FeIII",
+        "Property": "Conductivity",
+        "Value": 16.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.enchem.2020.100029"
+      }
+    ]
+  }
+}

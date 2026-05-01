@@ -1,0 +1,55 @@
+{
+  "Material": "CsSnI3",
+  "DOIs_Researched": [
+    "10.1016/j.orgel.2019.105488",
+    "10.1039/c6ra14144g"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "CsSnI3",
+        "Property": "ThermCond",
+        "Value": 0.54,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra14144g"
+      },
+      {
+        "Original_Name_In_Paper": "CsSnI3",
+        "Property": "ThermCond",
+        "Value": 0.54,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra14144g"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "CsSnI3 thin films",
+        "Property": "ZT",
+        "Value": 0.11,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.orgel.2019.105488"
+      },
+      {
+        "Original_Name_In_Paper": "CsSnI3",
+        "Property": "Conductivity",
+        "Value": 9861.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.orgel.2019.105488"
+      }
+    ],
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "CsSnI3",
+        "Property": "ZT",
+        "Value": 0.63,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra14144g"
+      }
+    ]
+  }
+}

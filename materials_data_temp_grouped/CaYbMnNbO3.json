@@ -1,0 +1,28 @@
+{
+  "Material": "CaYbMnNbO3",
+  "DOIs_Researched": [
+    "10.1016/j.materresbull.2015.10.016"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "Ca0.98Yb0.02Mn0.99Nb0.01O3",
+        "Property": "Seebeck",
+        "Value": -0.000117,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2015.10.016"
+      }
+    ],
+    "950.0": [
+      {
+        "Original_Name_In_Paper": "Ca0.98Yb0.2Mn0.98Nb0.02O3",
+        "Property": "PF",
+        "Value": 0.000145,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2015.10.016"
+      }
+    ]
+  }
+}

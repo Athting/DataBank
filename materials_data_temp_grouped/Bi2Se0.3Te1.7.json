@@ -1,0 +1,18 @@
+{
+  "Material": "Bi2Se0.3Te1.7",
+  "DOIs_Researched": [
+    "10.1016/j.spmi.2016.09.034"
+  ],
+  "Data_By_Temperature": {
+    "463.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Se0.3Te1.7",
+        "Property": "PF",
+        "Value": 0.006282917000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.spmi.2016.09.034"
+      }
+    ]
+  }
+}

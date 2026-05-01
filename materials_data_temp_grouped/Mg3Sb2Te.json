@@ -1,0 +1,50 @@
+{
+  "Material": "Mg3Sb2Te",
+  "DOIs_Researched": [
+    "10.1016/j.physb.2020.412173",
+    "10.1007/s10854-020-03308-8",
+    "10.1016/j.matlet.2019.127056"
+  ],
+  "Data_By_Temperature": {
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "Te-doped Mg3Sb2",
+        "Property": "ZT",
+        "Value": 0.78,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-020-03308-8"
+      }
+    ],
+    "768.0": [
+      {
+        "Original_Name_In_Paper": "Te-doped Mg3Sb2",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2020.412173"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Te-doped Mg3Sb2",
+        "Property": "ZT",
+        "Value": 0.78,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2019.127056"
+      }
+    ],
+    "575.0": [
+      {
+        "Original_Name_In_Paper": "Te-doped Mg3Sb2",
+        "Property": "PF",
+        "Value": 0.00142,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2020.412173"
+      }
+    ]
+  }
+}

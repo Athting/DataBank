@@ -1,0 +1,75 @@
+{
+  "doi": "10.1016/j.jssc.2017.06.025",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Ba24Ag6Ge94",
+        "Ag-doped Ba24Ag6Ge94",
+        "doped Ba24Ag6Ge94"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Ba24Ag6Ge94",
+          "value": 0.71,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "doped Ba24Ag6Ge94",
+          "value": 0.0007800000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "873.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Ag-doped Ba24Ag6Ge94",
+          "zt_value": 0.31,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Ag-doped Ba24Ag6Ge94",
+          "zt_value": 0.31,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Ba24Ag6Ge94",
+          "zt_value": 0.31,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Ba24Ag6Ge94",
+          "zt_value": 0.31,
+          "temperature": "850.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

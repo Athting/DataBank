@@ -1,0 +1,130 @@
+{
+  "doi": "10.1016/j.rser.2014.05.060",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "GaSb",
+        "GaSb compound",
+        "Zn-doped GaSb",
+        "GaSb bulk crystals"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "GaSb",
+          "value": 0.000596,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "450.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "GaSb",
+          "value": 4.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "GaSb",
+          "value": 32,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "GaSb",
+          "value": 17,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "GaSb",
+          "value": 24.3,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "770.0 K"
+        },
+        {
+          "material": "GaSb",
+          "value": 34.95,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "200.0 K"
+        },
+        {
+          "material": "GaSb",
+          "value": 21.53,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1200.0 K"
+        },
+        {
+          "material": "GaSb",
+          "value": 34,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "GaSb",
+          "value": 34,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "GaSb bulk crystals",
+          "value": 0.00000882,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "322.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "GaSb compound",
+          "zt_value": 0.72,
+          "temperature": "1200.0 K"
+        },
+        {
+          "material": "GaSb",
+          "zt_value": 0.29,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Zn-doped GaSb",
+          "zt_value": 0.23,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "GaSb",
+          "zt_value": 0.01,
+          "temperature": "550.0 K"
+        },
+        {
+          "material": "GaSb",
+          "zt_value": 0.47000000000000003,
+          "temperature": "660.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

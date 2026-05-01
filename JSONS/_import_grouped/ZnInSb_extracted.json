@@ -1,0 +1,58 @@
+{
+  "doi": "10.1016/j.nanoen.2017.11.019",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Yb1+13 % Zn1.90In0.10Sb2",
+        "Yb1+7 % Zn1.90In0.10Sb2"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Yb1+13 % Zn1.90In0.10Sb2",
+          "value": 2.3,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Yb1+7 % Zn1.90In0.10Sb2",
+          "value": 0.7000000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "723.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Yb1+13 % Zn1.90In0.10Sb2",
+          "zt_value": 0.6000000000000001,
+          "temperature": "700.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

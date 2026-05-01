@@ -1,0 +1,18 @@
+{
+  "Material": "BST / PLA composite",
+  "DOIs_Researched": [
+    "10.1016/j.vacuum.2020.109384"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "BST / PLA composite",
+        "Property": "ZT",
+        "Value": 0.006,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.vacuum.2020.109384"
+      }
+    ]
+  }
+}

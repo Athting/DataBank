@@ -1,0 +1,27 @@
+{
+  "Material": "Bi2Se2.4Se0.6",
+  "DOIs_Researched": [
+    "10.1039/c5ta00470e",
+    "10.1007/s10853-020-04949-0"
+  ],
+  "Data_By_Temperature": {
+    "423.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Se2.4Se0.6",
+        "Property": "ZT",
+        "Value": 0.9500000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta00470e"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Se2.4Se0.6",
+        "Property": "ZT",
+        "Value": 0.9500000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      }
+    ]
+  }
+}

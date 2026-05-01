@@ -1,0 +1,26 @@
+{
+  "Material": "Pr0.5Ca0.5MnO3",
+  "DOIs_Researched": [
+    "10.1016/S0038-1098(01)00513-0"
+  ],
+  "Data_By_Temperature": {
+    "250.0": [
+      {
+        "Original_Name_In_Paper": "Pr0.5Ca0.5 MnO3",
+        "Property": "Conductivity",
+        "Value": 0.9523809524,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0038-1098(01)00513-0"
+      },
+      {
+        "Original_Name_In_Paper": "Pr0.5Ca0.5 MnO3",
+        "Property": "Seebeck",
+        "Value": -0.00018,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0038-1098(01)00513-0"
+      }
+    ]
+  }
+}

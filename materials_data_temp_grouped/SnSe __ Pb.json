@@ -1,0 +1,18 @@
+{
+  "Material": "SnSe \\* Pb",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2018.09.025"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Pb doped Sn0.99Pb0.01Se",
+        "Property": "PF",
+        "Value": 0.000424,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2018.09.025"
+      }
+    ]
+  }
+}

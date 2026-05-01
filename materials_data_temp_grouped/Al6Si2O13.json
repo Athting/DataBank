@@ -1,0 +1,18 @@
+{
+  "Material": "Al6Si2O13",
+  "DOIs_Researched": [
+    "10.1016/j.snb.2015.02.083"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Al6Si2O13",
+        "Property": "ThermCond",
+        "Value": 4.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.snb.2015.02.083"
+      }
+    ]
+  }
+}

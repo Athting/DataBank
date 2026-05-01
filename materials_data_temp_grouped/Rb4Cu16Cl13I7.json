@@ -1,0 +1,18 @@
+{
+  "Material": "Rb4Cu16Cl13I7",
+  "DOIs_Researched": [
+    "10.1016/B0-08-043152-6-00269-2"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Rb4Cu16Cl13I7",
+        "Property": "Conductivity",
+        "Value": 47.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B0-08-043152-6-00269-2"
+      }
+    ]
+  }
+}

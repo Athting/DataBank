@@ -1,0 +1,18 @@
+{
+  "Material": "InPd",
+  "DOIs_Researched": [
+    "10.1016/j.intermet.2014.07.007"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "InPd",
+        "Property": "Conductivity",
+        "Value": 5555555.555555556,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2014.07.007"
+      }
+    ]
+  }
+}

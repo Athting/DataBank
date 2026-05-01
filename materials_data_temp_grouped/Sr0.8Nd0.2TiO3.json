@@ -1,0 +1,18 @@
+{
+  "Material": "Sr0.8Nd0.2TiO3",
+  "DOIs_Researched": [
+    "10.1016/j.materresbull.2019.110650"
+  ],
+  "Data_By_Temperature": {
+    "423.0": [
+      {
+        "Original_Name_In_Paper": "Sr0.8Nd0.2TiO3",
+        "Property": "Conductivity",
+        "Value": 143500.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2019.110650"
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "Material": "S = + 335",
+  "DOIs_Researched": [
+    "10.1016/j.mechmat.2015.03.009",
+    "10.1016/bs.semsem.2016.03.002"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "S = + 335",
+        "Property": "Seebeck",
+        "Value": 0.000335,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mechmat.2015.03.009"
+      },
+      {
+        "Original_Name_In_Paper": "S = + 335",
+        "Property": "Seebeck",
+        "Value": 0.000335,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/bs.semsem.2016.03.002"
+      }
+    ]
+  }
+}

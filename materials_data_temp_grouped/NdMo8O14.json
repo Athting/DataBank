@@ -1,0 +1,80 @@
+{
+  "Material": "NdMo8O14",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2015.12.231",
+    "10.1016/j.jallcom.2009.09.136",
+    "10.1016/j.jallcom.2010.03.201"
+  ],
+  "Data_By_Temperature": {
+    "322.0": [
+      {
+        "Original_Name_In_Paper": "NdMo8O14",
+        "Property": "ThermCond",
+        "Value": 3.19,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.03.201"
+      }
+    ],
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "NdMo8O14",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.12.231"
+      },
+      {
+        "Original_Name_In_Paper": "NdMo8O14",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.03.201"
+      },
+      {
+        "Original_Name_In_Paper": "NdMo8O14",
+        "Property": "Seebeck",
+        "Value": -6.2e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.03.201"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "NdMo8O14",
+        "Property": "Seebeck",
+        "Value": -1.8e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.03.201"
+      },
+      {
+        "Original_Name_In_Paper": "NdMo8O14",
+        "Property": "Seebeck",
+        "Value": -2.8e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.09.136"
+      },
+      {
+        "Original_Name_In_Paper": "NdMo8O14",
+        "Property": "Conductivity",
+        "Value": 30300.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.03.201"
+      },
+      {
+        "Original_Name_In_Paper": "NdMo8O14",
+        "Property": "Conductivity",
+        "Value": 2920.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.09.136"
+      }
+    ]
+  }
+}

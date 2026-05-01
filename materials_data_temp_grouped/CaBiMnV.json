@@ -1,0 +1,18 @@
+{
+  "Material": "CaBiMnV",
+  "DOIs_Researched": [
+    "10.1016/j.ssc.2007.10.012"
+  ],
+  "Data_By_Temperature": {
+    "1050.0": [
+      {
+        "Original_Name_In_Paper": "electron-doped Ca0.96Bi0.04Mn0.96V",
+        "Property": "ZT",
+        "Value": 0.21,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2007.10.012"
+      }
+    ]
+  }
+}

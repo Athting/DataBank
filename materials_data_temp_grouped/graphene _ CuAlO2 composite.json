@@ -1,0 +1,26 @@
+{
+  "Material": "graphene / CuAlO2 composite",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2018.04.276"
+  ],
+  "Data_By_Temperature": {
+    "575.0": [
+      {
+        "Original_Name_In_Paper": "graphene / CuAlO2 composite",
+        "Property": "ZT",
+        "Value": 0.0045000000000000005,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.04.276"
+      },
+      {
+        "Original_Name_In_Paper": "graphene / CuAlO2 composite",
+        "Property": "ZT",
+        "Value": 0.0045000000000000005,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.04.276"
+      }
+    ]
+  }
+}

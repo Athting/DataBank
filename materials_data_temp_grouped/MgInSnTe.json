@@ -1,0 +1,62 @@
+{
+  "Material": "MgInSnTe",
+  "DOIs_Researched": [
+    "10.1039/c7ta09117f"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Mg0.015In0.015Sn0.97Te",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ta09117f"
+      },
+      {
+        "Original_Name_In_Paper": "Mg0.015In0.015Sn0.97Te",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ta09117f"
+      },
+      {
+        "Original_Name_In_Paper": "Mg0.015In0.015Sn0.97Te",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ta09117f"
+      },
+      {
+        "Original_Name_In_Paper": "Mg0.015In0.015Sn0.97Te",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ta09117f"
+      }
+    ],
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "Mg0.015In0.015Sn0.97Te",
+        "Property": "ZT",
+        "Value": 0.51,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ta09117f"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Mg0.015In0.015Sn0.97Te",
+        "Property": "Conductivity",
+        "Value": 132000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ta09117f"
+      }
+    ]
+  }
+}

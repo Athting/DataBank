@@ -1,0 +1,94 @@
+{
+  "Material": "CoSb12",
+  "DOIs_Researched": [
+    "10.1039/c7cp04634k",
+    "10.1016/j.jssc.2012.03.041",
+    "10.1007/s11661-017-4058-1",
+    "10.1038/srep14641",
+    "10.1016/j.jpcs.2020.109545",
+    "10.1016/j.actamat.2013.07.032",
+    "10.1016/j.jssc.2012.03.027"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Co4Sb12",
+        "Property": "ThermCond",
+        "Value": 9.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cp04634k"
+      },
+      {
+        "Original_Name_In_Paper": "Co4Sb12",
+        "Property": "ThermCond",
+        "Value": 4.3,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/srep14641"
+      },
+      {
+        "Original_Name_In_Paper": "Co4Sb12",
+        "Property": "ZT",
+        "Value": 0.15,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2013.07.032"
+      },
+      {
+        "Original_Name_In_Paper": "Co4Sb12",
+        "Property": "Conductivity",
+        "Value": 12000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cp04634k"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Co4Sb12",
+        "Property": "ThermCond",
+        "Value": 8.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11661-017-4058-1"
+      },
+      {
+        "Original_Name_In_Paper": "Co4Sb12",
+        "Property": "ThermCond",
+        "Value": 10.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/srep14641"
+      },
+      {
+        "Original_Name_In_Paper": "Co4Sb12",
+        "Property": "ThermCond",
+        "Value": 11.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2020.109545"
+      }
+    ],
+    "350.0": [
+      {
+        "Original_Name_In_Paper": "Co4Sb12",
+        "Property": "ThermCond",
+        "Value": 9.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2012.03.041"
+      }
+    ],
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "Te-substituted Co4Sb12\u2212xTex skutterudite compounds",
+        "Property": "ZT",
+        "Value": 0.72,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2012.03.027"
+      }
+    ]
+  }
+}

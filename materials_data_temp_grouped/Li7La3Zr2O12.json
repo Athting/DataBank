@@ -1,0 +1,27 @@
+{
+  "Material": "Li7La3Zr2O12",
+  "DOIs_Researched": [
+    "10.1039/c8ee01053f",
+    "10.1039/c6ta05439k"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "cubic Li7La3Zr2O12",
+        "Property": "Conductivity",
+        "Value": 0.01,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee01053f"
+      },
+      {
+        "Original_Name_In_Paper": "Li7La3Zr2O12",
+        "Property": "Conductivity",
+        "Value": 0.037,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta05439k"
+      }
+    ]
+  }
+}

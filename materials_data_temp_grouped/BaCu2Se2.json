@@ -1,0 +1,133 @@
+{
+  "Material": "BaCu2Se2",
+  "DOIs_Researched": [
+    "10.1039/c6ra10266b",
+    "10.1039/c4dt03556a",
+    "10.1016/j.jallcom.2016.11.368",
+    "10.1016/j.matlet.2015.03.098"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "pure BaCu2Se2",
+        "Property": "ThermCond",
+        "Value": 0.8300000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.11.368"
+      },
+      {
+        "Original_Name_In_Paper": "Na-doped BaCu2Se2",
+        "Property": "ThermCond",
+        "Value": 0.38,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.11.368"
+      },
+      {
+        "Original_Name_In_Paper": "doped BaCu2Se2",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4dt03556a"
+      },
+      {
+        "Original_Name_In_Paper": "\u03b1-BaCu2Se2",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": "introducing Na",
+        "Source_DOI": "10.1039/c6ra10266b"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "BaCu2Se2",
+        "Property": "ThermCond",
+        "Value": 0.68,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4dt03556a"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "BaCu2Se2",
+        "Property": "ZT",
+        "Value": 0.32,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra10266b"
+      },
+      {
+        "Original_Name_In_Paper": "doped BaCu2Se2",
+        "Property": "ZT",
+        "Value": 0.32,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2015.03.098"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "BaCu2Se2",
+        "Property": "ZT",
+        "Value": 0.02,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2015.03.098"
+      },
+      {
+        "Original_Name_In_Paper": "BaCu2Se2",
+        "Property": "Seebeck",
+        "Value": 0.00039000000000000005,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2015.03.098"
+      },
+      {
+        "Original_Name_In_Paper": "p-type \u03b2-BaCu2Se2",
+        "Property": "Seebeck",
+        "Value": 0.0001567,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra10266b"
+      },
+      {
+        "Original_Name_In_Paper": "BaCu2Se2",
+        "Property": "Conductivity",
+        "Value": 310.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.11.368"
+      },
+      {
+        "Original_Name_In_Paper": "undoped BaCu2Se2",
+        "Property": "Conductivity",
+        "Value": 310.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4dt03556a"
+      },
+      {
+        "Original_Name_In_Paper": "BaCu2Se2",
+        "Property": "Conductivity",
+        "Value": 310.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4dt03556a"
+      }
+    ],
+    "20.0": [
+      {
+        "Original_Name_In_Paper": "undoped BaCu2Se2",
+        "Property": "Seebeck",
+        "Value": 2e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4dt03556a"
+      }
+    ]
+  }
+}

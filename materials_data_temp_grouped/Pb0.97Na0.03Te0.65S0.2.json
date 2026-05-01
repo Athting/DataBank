@@ -1,0 +1,18 @@
+{
+  "Material": "Pb0.97Na0.03Te0.65S0.2",
+  "DOIs_Researched": [
+    "10.1016/j.mtphys.2020.100190"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Pb0.97Na0.03Te0.65S0.25Se0.1",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2020.100190"
+      }
+    ]
+  }
+}

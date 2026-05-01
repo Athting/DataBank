@@ -1,0 +1,18 @@
+{
+  "Material": "Cu10Mn2.0Sb4S13",
+  "DOIs_Researched": [
+    "10.1039/c4cp04039b"
+  ],
+  "Data_By_Temperature": {
+    "475.0": [
+      {
+        "Original_Name_In_Paper": "Cu10Mn2.0Sb4S13",
+        "Property": "ThermCond",
+        "Value": 0.18,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4cp04039b"
+      }
+    ]
+  }
+}

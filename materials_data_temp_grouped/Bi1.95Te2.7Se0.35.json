@@ -1,0 +1,18 @@
+{
+  "Material": "Bi1.95Te2.7Se0.35",
+  "DOIs_Researched": [
+    "10.1016/j.spmi.2009.09.010"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Bi1.95Te2.7Se0.35",
+        "Property": "Seebeck",
+        "Value": -0.000125,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.spmi.2009.09.010"
+      }
+    ]
+  }
+}

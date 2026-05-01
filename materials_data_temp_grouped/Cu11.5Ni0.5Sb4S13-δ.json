@@ -1,0 +1,18 @@
+{
+  "Material": "Cu11.5Ni0.5Sb4S13-\u03b4",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2018.12.090"
+  ],
+  "Data_By_Temperature": {
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "Cu11.5Ni0.5Sb4S13-\u03b4",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2018.12.090"
+      }
+    ]
+  }
+}

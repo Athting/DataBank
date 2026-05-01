@@ -1,0 +1,44 @@
+{
+  "Material": "YbB6",
+  "DOIs_Researched": [
+    "10.1016/j.mtla.2018.06.003"
+  ],
+  "Data_By_Temperature": {
+    "563.0": [
+      {
+        "Original_Name_In_Paper": "YbB6 films",
+        "Property": "ZT",
+        "Value": 0.04,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtla.2018.06.003"
+      },
+      {
+        "Original_Name_In_Paper": "YbB6 thin film",
+        "Property": "PF",
+        "Value": 0.0002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtla.2018.06.003"
+      },
+      {
+        "Original_Name_In_Paper": "YbB6 films",
+        "Property": "PF",
+        "Value": 0.0002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtla.2018.06.003"
+      }
+    ],
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "bulk YbB6",
+        "Property": "PF",
+        "Value": 0.001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtla.2018.06.003"
+      }
+    ]
+  }
+}

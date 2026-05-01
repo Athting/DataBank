@@ -1,0 +1,49 @@
+{
+  "Material": "Ca5Ga2As6",
+  "DOIs_Researched": [
+    "10.1039/c2jm32945j",
+    "10.1016/j.jallcom.2019.152384",
+    "10.1039/c7ra00718c",
+    "10.1039/c4ta02452d"
+  ],
+  "Data_By_Temperature": {
+    "930.0": [
+      {
+        "Original_Name_In_Paper": "pure Ca5Ga2As6",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2jm32945j"
+      },
+      {
+        "Original_Name_In_Paper": "Ca5Ga2As6",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.152384"
+      }
+    ],
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "Ca5Ga2As6",
+        "Property": "Seebeck",
+        "Value": 0.00020099999999999998,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ra00718c"
+      }
+    ],
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "Ca5Ga2As6",
+        "Property": "Seebeck",
+        "Value": 0.0002,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta02452d"
+      }
+    ]
+  }
+}

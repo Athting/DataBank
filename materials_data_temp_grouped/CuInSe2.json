@@ -1,0 +1,139 @@
+{
+  "Material": "CuInSe2",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2010.03.215",
+    "10.1016/j.matchemphys.2014.03.034",
+    "10.1016/j.jtice.2012.12.008",
+    "10.1016/j.scriptamat.2018.02.023",
+    "10.1016/B978-0-12-373697-0.00006-7",
+    "10.1016/j.jallcom.2020.156410"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "CuIn0.98Zn0.02Se2.02",
+        "Property": "ZT",
+        "Value": 0.18,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.156410"
+      },
+      {
+        "Original_Name_In_Paper": "CuIn0.98Zn0.02Se2.02",
+        "Property": "ZT",
+        "Value": 0.18,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.156410"
+      },
+      {
+        "Original_Name_In_Paper": "CuIn0.98Zn0.02Se2.02",
+        "Property": "ZT",
+        "Value": 0.18,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.156410"
+      },
+      {
+        "Original_Name_In_Paper": "Cu0.99InSe2.05 bulk",
+        "Property": "ZT",
+        "Value": 0.31,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2018.02.023"
+      },
+      {
+        "Original_Name_In_Paper": "Cu0.99InSe2.05 bulk",
+        "Property": "ZT",
+        "Value": 0.31,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2018.02.023"
+      },
+      {
+        "Original_Name_In_Paper": "Cu0.99InSe2.05 bulk",
+        "Property": "ZT",
+        "Value": 0.31,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2018.02.023"
+      },
+      {
+        "Original_Name_In_Paper": "Cu0.99InSe2.05 bulk",
+        "Property": "ZT",
+        "Value": 0.31,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2018.02.023"
+      }
+    ],
+    "560.0": [
+      {
+        "Original_Name_In_Paper": "Mn-substituted CuInSe2",
+        "Property": "ZT",
+        "Value": 0.016,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2018.02.023"
+      },
+      {
+        "Original_Name_In_Paper": "Mn-substituted CuInSe2",
+        "Property": "Conductivity",
+        "Value": 9.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2014.03.034"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "CuInSe2 thin film",
+        "Property": "Conductivity",
+        "Value": 0.9803921569,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.03.215"
+      }
+    ],
+    "390.0": [
+      {
+        "Original_Name_In_Paper": "p-type amorphous CuInSe2 thin films",
+        "Property": "Seebeck",
+        "Value": 2e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-12-373697-0.00006-7"
+      }
+    ],
+    "620.0": [
+      {
+        "Original_Name_In_Paper": "Cu0.99InSe2.05",
+        "Property": "Seebeck",
+        "Value": 0.68,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2018.02.023"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "p-type CuInSe2 compound",
+        "Property": "Seebeck",
+        "Value": 0.00015000000000000001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jtice.2012.12.008"
+      }
+    ],
+    "430.0": [
+      {
+        "Original_Name_In_Paper": "CuIn0.98Zn0.02Se2.02",
+        "Property": "PF",
+        "Value": 0.00021,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.156410"
+      }
+    ]
+  }
+}

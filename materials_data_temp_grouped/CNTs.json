@@ -1,0 +1,171 @@
+{
+  "Material": "CNTs",
+  "DOIs_Researched": [
+    "10.1039/c7ee01737e",
+    "10.1016/j.cej.2018.09.013",
+    "10.1016/j.nanoen.2020.105195",
+    "10.1038/nmat2714",
+    "10.1039/c5ra23634g",
+    "10.1016/j.jallcom.2018.01.178",
+    "10.1039/c9nr07008g",
+    "10.1007/s10854-019-00816-0",
+    "10.1016/j.carbon.2019.03.088",
+    "10.1016/j.ceramint.2019.05.341",
+    "10.1039/c9ta13152c",
+    "10.1039/c5ra12225b"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "CNTs",
+        "Property": "ThermCond",
+        "Value": 3000.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cej.2018.09.013"
+      },
+      {
+        "Original_Name_In_Paper": "CNTs",
+        "Property": "ThermCond",
+        "Value": 3000.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-019-00816-0"
+      },
+      {
+        "Original_Name_In_Paper": "CNTs",
+        "Property": "Seebeck",
+        "Value": 0.0002,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra23634g"
+      },
+      {
+        "Original_Name_In_Paper": "CNTs",
+        "Property": "PF",
+        "Value": 0.000157,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.carbon.2019.03.088"
+      }
+    ],
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "CNTs",
+        "Property": "ThermCond",
+        "Value": 0.39,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2019.05.341"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "CNTs",
+        "Property": "ZT",
+        "Value": 0.55,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra12225b"
+      },
+      {
+        "Original_Name_In_Paper": "CNTs",
+        "Property": "ZT",
+        "Value": 0.96,
+        "Units": null,
+        "Editing": "Na doping",
+        "Source_DOI": "10.1016/j.jallcom.2018.01.178"
+      },
+      {
+        "Original_Name_In_Paper": "CNTs",
+        "Property": "PF",
+        "Value": 0.0019,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra12225b"
+      },
+      {
+        "Original_Name_In_Paper": "CNTs",
+        "Property": "PF",
+        "Value": 0.00055,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.01.178"
+      }
+    ],
+    "350.0": [
+      {
+        "Original_Name_In_Paper": "CNTs",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra12225b"
+      }
+    ],
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "CNTs",
+        "Property": "ZT",
+        "Value": 2.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9nr07008g"
+      },
+      {
+        "Original_Name_In_Paper": "CNTs",
+        "Property": "ZT",
+        "Value": 2.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ee01737e"
+      },
+      {
+        "Original_Name_In_Paper": "CNTs",
+        "Property": "ZT",
+        "Value": 2.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ee01737e"
+      },
+      {
+        "Original_Name_In_Paper": "CNTs",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.105195"
+      }
+    ],
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "CNTs",
+        "Property": "ZT",
+        "Value": 0.96,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.01.178"
+      }
+    ],
+    "930.0": [
+      {
+        "Original_Name_In_Paper": "CNTs",
+        "Property": "Seebeck",
+        "Value": 8e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/nmat2714"
+      }
+    ],
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "CNTs",
+        "Property": "PF",
+        "Value": 0.00030000000000000003,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta13152c"
+      }
+    ]
+  }
+}

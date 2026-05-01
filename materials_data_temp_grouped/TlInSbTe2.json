@@ -1,0 +1,46 @@
+{
+  "Material": "TlInSbTe2",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2019.04.294"
+  ],
+  "Data_By_Temperature": {
+    "371.0": [
+      {
+        "Original_Name_In_Paper": "Tl0.98In0.02SbTe2",
+        "Property": "ThermCond",
+        "Value": 1.03,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.04.294"
+      }
+    ],
+    "480.0": [
+      {
+        "Original_Name_In_Paper": "Tl0.98In0.02SbTe2",
+        "Property": "ZT",
+        "Value": 0.61,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.04.294"
+      }
+    ],
+    "372.0": [
+      {
+        "Original_Name_In_Paper": "Tl0.98In0.02SbTe2",
+        "Property": "Conductivity",
+        "Value": 49000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.04.294"
+      },
+      {
+        "Original_Name_In_Paper": "Tl0.98In0.02SbTe2",
+        "Property": "Conductivity",
+        "Value": 11800.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.04.294"
+      }
+    ]
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "doi": "10.1007/s10853-014-8607-3",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Ba1-xLaxSnO3 materials",
+        "pure BaSnO3",
+        "n-type doped BaSnO3",
+        "BaSnO3",
+        "(Ba0.99La0.01)SnO3"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "BaSnO3",
+          "value": 0.000106,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "250.0 K"
+        },
+        {
+          "material": "BaSnO3",
+          "value": 0.000206,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "BaSnO3",
+          "value": -0.00030000000000000003,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "900.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Ba1-xLaxSnO3 materials",
+          "value": 9.6,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure BaSnO3",
+          "value": 9.68,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "(Ba0.99La0.01)SnO3",
+          "value": 28000,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "BaSnO3",
+          "value": 0.0015,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1200.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Ba1-xLaxSnO3 materials",
+          "zt_value": 0.1,
+          "temperature": "295 K"
+        },
+        {
+          "material": "n-type doped BaSnO3",
+          "zt_value": 0.33,
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

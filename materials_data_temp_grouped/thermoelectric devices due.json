@@ -1,0 +1,18 @@
+{
+  "Material": "thermoelectric devices due",
+  "DOIs_Researched": [
+    "10.1007/s40820-020-0374-x"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "thermoelectric devices due",
+        "Property": "Seebeck",
+        "Value": 0.000335,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s40820-020-0374-x"
+      }
+    ]
+  }
+}

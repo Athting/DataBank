@@ -1,0 +1,27 @@
+{
+  "Material": "Cu2.1Cd0.9SnSe4",
+  "DOIs_Researched": [
+    "10.1038/srep05774",
+    "10.1016/j.intermet.2016.01.004"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Cu2.1Cd0.9SnSe4",
+        "Property": "ZT",
+        "Value": 0.91,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/srep05774"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2.1Cd0.9SnSe4",
+        "Property": "ZT",
+        "Value": 0.65,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2016.01.004"
+      }
+    ]
+  }
+}

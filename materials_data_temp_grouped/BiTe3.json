@@ -1,0 +1,18 @@
+{
+  "Material": "BiTe3",
+  "DOIs_Researched": [
+    "10.1016/j.ijsbe.2012.07.003"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "BiTe3",
+        "Property": "ZT",
+        "Value": 2.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ijsbe.2012.07.003"
+      }
+    ]
+  }
+}

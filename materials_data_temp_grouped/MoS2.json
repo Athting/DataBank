@@ -1,0 +1,1207 @@
+{
+  "Material": "MoS2",
+  "DOIs_Researched": [
+    "10.1039/c9tc06012j",
+    "10.1016/j.mtphys.2020.100277",
+    "10.1007/s10853-018-2837-8",
+    "10.1038/s41598-019-41696-y",
+    "10.1016/j.jallcom.2016.01.114",
+    "10.1039/c9cp03639c",
+    "10.1038/s41598-019-40882-2",
+    "10.1016/j.jallcom.2014.10.191",
+    "10.1039/c9ra00586b",
+    "10.1007/s10825-020-01524-3",
+    "10.1039/c9ra06873b",
+    "10.1016/j.mechmat.2015.03.009",
+    "10.1016/j.matlet.2017.01.079",
+    "10.1038/srep15070",
+    "10.1007/s10825-019-01406-3",
+    "10.1038/srep08501",
+    "10.1016/j.physe.2018.11.011",
+    "10.1039/c7nr07522g",
+    "10.1038/s41598-018-32850-z",
+    "10.1016/j.jmat.2020.04.005",
+    "10.1016/j.physe.2019.01.029",
+    "10.1039/c6ta10219k",
+    "10.1016/j.carbpol.2016.11.065",
+    "10.1016/j.nanoen.2016.05.022",
+    "10.1016/j.jallcom.2018.11.073",
+    "10.1007/s00339-018-1640-3",
+    "10.1039/c7tc01088e",
+    "10.1186/s11671-019-3113-9",
+    "10.1039/c9ra04470a",
+    "10.1016/j.apsusc.2017.11.262",
+    "10.1016/j.apmt.2017.02.005",
+    "10.1038/srep13706",
+    "10.1039/c7tc01099k",
+    "10.1016/j.apsusc.2019.144066",
+    "10.1016/j.physe.2019.113683",
+    "10.1016/j.jallcom.2020.154875",
+    "10.1038/s41598-018-20918-9",
+    "10.1039/c6tc03074b",
+    "10.1039/c9ce01156k",
+    "10.1039/c9nr07586k",
+    "10.1039/d0ta00240b",
+    "10.1016/j.ceramint.2016.07.083",
+    "10.1039/c6cp05952j",
+    "10.1016/B978-0-08-102687-8.00008-7",
+    "10.1016/j.jallcom.2020.155673",
+    "10.1038/s41598-020-57991-y",
+    "10.1039/c5ra19747c",
+    "10.1016/j.physe.2018.02.012",
+    "10.1039/d0ra02585b",
+    "10.1016/j.apmt.2018.07.004",
+    "10.1038/srep21639",
+    "10.1016/j.commatsci.2017.12.005",
+    "10.1039/d0ta02629h",
+    "10.1038/srep02209",
+    "10.1016/j.physe.2016.01.013",
+    "10.1016/B978-0-08-102687-8.00002-6",
+    "10.1039/c9nr07406f",
+    "10.1007/s00894-020-4306-y"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "MoS2",
+        "Property": "ThermCond",
+        "Value": 40.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta00240b"
+      },
+      {
+        "Original_Name_In_Paper": "monolayer MoS2",
+        "Property": "ThermCond",
+        "Value": 1.35,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physe.2016.01.013"
+      },
+      {
+        "Original_Name_In_Paper": "monolayer MoS2",
+        "Property": "ThermCond",
+        "Value": 34.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physe.2016.01.013"
+      },
+      {
+        "Original_Name_In_Paper": "monolayer MoS2",
+        "Property": "ThermCond",
+        "Value": 34.06,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physe.2016.01.013"
+      },
+      {
+        "Original_Name_In_Paper": "pristine MoS2",
+        "Property": "ThermCond",
+        "Value": 37.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apmt.2017.02.005"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2",
+        "Property": "ThermCond",
+        "Value": 23.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-019-41696-y"
+      },
+      {
+        "Original_Name_In_Paper": "monolayer MoS2",
+        "Property": "ThermCond",
+        "Value": 250.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physe.2018.02.012"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2",
+        "Property": "ThermCond",
+        "Value": 83.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/srep15070"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2",
+        "Property": "ThermCond",
+        "Value": 23.3,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/srep15070"
+      },
+      {
+        "Original_Name_In_Paper": "few-layer MoS2",
+        "Property": "ThermCond",
+        "Value": 34.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/srep15070"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2",
+        "Property": "ThermCond",
+        "Value": 52.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6cp05952j"
+      },
+      {
+        "Original_Name_In_Paper": "few layers MoS2",
+        "Property": "ThermCond",
+        "Value": 52.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.11.073"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2",
+        "Property": "ThermCond",
+        "Value": 77.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.11.073"
+      },
+      {
+        "Original_Name_In_Paper": "monolayer MoS2",
+        "Property": "ThermCond",
+        "Value": 1.35,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154875"
+      },
+      {
+        "Original_Name_In_Paper": "single-layer MoS2",
+        "Property": "ThermCond",
+        "Value": 23.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154875"
+      },
+      {
+        "Original_Name_In_Paper": "pristine single-layer MoS2",
+        "Property": "ThermCond",
+        "Value": 42.18,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154875"
+      },
+      {
+        "Original_Name_In_Paper": "monolayer MoS2",
+        "Property": "ThermCond",
+        "Value": 34.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154875"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2",
+        "Property": "ThermCond",
+        "Value": 52.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2020.04.005"
+      },
+      {
+        "Original_Name_In_Paper": "monolayer MoS2",
+        "Property": "ThermCond",
+        "Value": 85.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2020.04.005"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2 nanotubes",
+        "Property": "ThermCond",
+        "Value": 11.1,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s00339-018-1640-3"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2 nanoribbons",
+        "Property": "ThermCond",
+        "Value": 5.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ra02585b"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2",
+        "Property": "ThermCond",
+        "Value": 34.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physe.2019.113683"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2 nanotube",
+        "Property": "ThermCond",
+        "Value": 16.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-08-102687-8.00008-7"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2 nanotubes",
+        "Property": "ThermCond",
+        "Value": 11.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-08-102687-8.00008-7"
+      },
+      {
+        "Original_Name_In_Paper": "monolayer MoS2",
+        "Property": "ThermCond",
+        "Value": 34.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-08-102687-8.00008-7"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2",
+        "Property": "ThermCond",
+        "Value": 30.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-08-102687-8.00008-7"
+      },
+      {
+        "Original_Name_In_Paper": "monolayer MoS2",
+        "Property": "ThermCond",
+        "Value": 34.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-08-102687-8.00008-7"
+      },
+      {
+        "Original_Name_In_Paper": "single-layer MoS2",
+        "Property": "ThermCond",
+        "Value": 108.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-08-102687-8.00008-7"
+      },
+      {
+        "Original_Name_In_Paper": "monolayer MoS2",
+        "Property": "ThermCond",
+        "Value": 84.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-08-102687-8.00008-7"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2",
+        "Property": "ThermCond",
+        "Value": 142.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-08-102687-8.00008-7"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2",
+        "Property": "ThermCond",
+        "Value": 103.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra19747c"
+      },
+      {
+        "Original_Name_In_Paper": "monolayer MoS2",
+        "Property": "ThermCond",
+        "Value": 34.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra19747c"
+      },
+      {
+        "Original_Name_In_Paper": "monolayer MoS2",
+        "Property": "ThermCond",
+        "Value": 34.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s00894-020-4306-y"
+      },
+      {
+        "Original_Name_In_Paper": "monolayer MoS2",
+        "Property": "ThermCond",
+        "Value": 26.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6tc03074b"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2",
+        "Property": "ThermCond",
+        "Value": 34.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9nr07586k"
+      },
+      {
+        "Original_Name_In_Paper": "monolayer MoS2",
+        "Property": "ThermCond",
+        "Value": 23.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7tc01088e"
+      },
+      {
+        "Original_Name_In_Paper": "monolayer MoS2",
+        "Property": "ThermCond",
+        "Value": 34.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7tc01088e"
+      },
+      {
+        "Original_Name_In_Paper": "monolayer MoS2",
+        "Property": "ThermCond",
+        "Value": 62.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7tc01088e"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2",
+        "Property": "ThermCond",
+        "Value": 142.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-019-40882-2"
+      },
+      {
+        "Original_Name_In_Paper": "monolayer MoS2",
+        "Property": "ThermCond",
+        "Value": 23.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-019-40882-2"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2",
+        "Property": "ThermCond",
+        "Value": 68.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2020.100277"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2",
+        "Property": "ThermCond",
+        "Value": 65.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2020.100277"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2",
+        "Property": "ThermCond",
+        "Value": 62.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2020.100277"
+      },
+      {
+        "Original_Name_In_Paper": "monolayer MoS2",
+        "Property": "ThermCond",
+        "Value": 29.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.10.191"
+      },
+      {
+        "Original_Name_In_Paper": "monolayer MoS2",
+        "Property": "ThermCond",
+        "Value": 34.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.10.191"
+      },
+      {
+        "Original_Name_In_Paper": "monolayer MoS2",
+        "Property": "ThermCond",
+        "Value": 1.35,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.10.191"
+      },
+      {
+        "Original_Name_In_Paper": "monolayer MoS2",
+        "Property": "ThermCond",
+        "Value": 29.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.10.191"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2 nanoribbon",
+        "Property": "ThermCond",
+        "Value": 673.6,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/srep02209"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2 nanoribbon",
+        "Property": "ThermCond",
+        "Value": 117.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10825-020-01524-3"
+      },
+      {
+        "Original_Name_In_Paper": "monolayer MoS2",
+        "Property": "ThermCond",
+        "Value": 131.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10825-020-01524-3"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2 nanoribbons",
+        "Property": "ThermCond",
+        "Value": 673.6,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10825-020-01524-3"
+      },
+      {
+        "Original_Name_In_Paper": "single-layer MoS2 nanoribbon",
+        "Property": "ThermCond",
+        "Value": 117.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10825-020-01524-3"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2 nanoribbon",
+        "Property": "ThermCond",
+        "Value": 84.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10825-020-01524-3"
+      },
+      {
+        "Original_Name_In_Paper": "single-layer MoS2",
+        "Property": "ThermCond",
+        "Value": 83.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10825-020-01524-3"
+      },
+      {
+        "Original_Name_In_Paper": "bilayer MoS2",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10825-019-01406-3"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2",
+        "Property": "ZT",
+        "Value": 2.7,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10825-019-01406-3"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2 nanoribbon",
+        "Property": "ZT",
+        "Value": 2.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mechmat.2015.03.009"
+      },
+      {
+        "Original_Name_In_Paper": "single-layer MoS2",
+        "Property": "ZT",
+        "Value": 0.58,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1186/s11671-019-3113-9"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2 films",
+        "Property": "ZT",
+        "Value": 1.98,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-020-57991-y"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7tc01088e"
+      },
+      {
+        "Original_Name_In_Paper": "monolayer MoS2",
+        "Property": "ZT",
+        "Value": 0.02,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physe.2018.11.011"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2 with S and MoS2-type",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physe.2018.11.011"
+      },
+      {
+        "Original_Name_In_Paper": "monolayer MoS2",
+        "Property": "ZT",
+        "Value": 0.58,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/srep13706"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2 film",
+        "Property": "Seebeck",
+        "Value": 0.0001594,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc06012j"
+      },
+      {
+        "Original_Name_In_Paper": "bulk MoS2",
+        "Property": "Seebeck",
+        "Value": 0.0006000000000000001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2017.12.005"
+      },
+      {
+        "Original_Name_In_Paper": "bulk MoS2",
+        "Property": "Seebeck",
+        "Value": 0.0006000000000000001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-018-2837-8"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2 with 7.5 wt % Cu",
+        "Property": "Seebeck",
+        "Value": 0.0002028,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2019.144066"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2 powder",
+        "Property": "Seebeck",
+        "Value": -0.000335,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9nr07406f"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2",
+        "Property": "Seebeck",
+        "Value": 1e-07,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.carbpol.2016.11.065"
+      },
+      {
+        "Original_Name_In_Paper": "bilayer MoS2",
+        "Property": "PF",
+        "Value": 0.0085,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7tc01088e"
+      },
+      {
+        "Original_Name_In_Paper": "few layer MoS2",
+        "Property": "PF",
+        "Value": 0.0085,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ra04470a"
+      },
+      {
+        "Original_Name_In_Paper": "monolayer MoS2",
+        "Property": "PF",
+        "Value": 28000.0,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154875"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2 films",
+        "Property": "PF",
+        "Value": 7.31e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apmt.2018.07.004"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2",
+        "Property": "PF",
+        "Value": 7.31e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2016.05.022"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2 nanosheets",
+        "Property": "PF",
+        "Value": 7.000000000000001e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2016.05.022"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2",
+        "Property": "PF",
+        "Value": 7.31e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2016.05.022"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2 monolayer",
+        "Property": "PF",
+        "Value": 0.0085,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-018-32850-z"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2 powder",
+        "Property": "PF",
+        "Value": 0.000434,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9nr07406f"
+      },
+      {
+        "Original_Name_In_Paper": "bulk MoS2",
+        "Property": "PF",
+        "Value": 1.1000000000000001e-09,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7tc01099k"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2",
+        "Property": "Conductivity",
+        "Value": 1.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta00240b"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2 thin film",
+        "Property": "Conductivity",
+        "Value": 785.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta02629h"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2 powder",
+        "Property": "Conductivity",
+        "Value": 36500.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9nr07406f"
+      }
+    ],
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "MoS2",
+        "Property": "ThermCond",
+        "Value": 0.8200000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.01.114"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2-RGO nanocomposite",
+        "Property": "ThermCond",
+        "Value": 0.22,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.155673"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2",
+        "Property": "ThermCond",
+        "Value": 0.5700000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.155673"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2-RGO nanocomposite",
+        "Property": "ThermCond",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.155673"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2",
+        "Property": "ThermCond",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.155673"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2-RGO nanocomposite",
+        "Property": "ThermCond",
+        "Value": 0.22,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.155673"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2",
+        "Property": "ThermCond",
+        "Value": 0.5700000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.155673"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2-RGO nanocomposites",
+        "Property": "ZT",
+        "Value": 0.23,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.155673"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2",
+        "Property": "ZT",
+        "Value": 0.38,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.155673"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2-RGO nanocomposite",
+        "Property": "Seebeck",
+        "Value": -9.143e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.155673"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2",
+        "Property": "Seebeck",
+        "Value": -3.019e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.155673"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2",
+        "Property": "Conductivity",
+        "Value": 104.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2016.05.022"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2-RGO",
+        "Property": "Conductivity",
+        "Value": 19.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.155673"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2",
+        "Property": "Conductivity",
+        "Value": 7.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.155673"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "monolayer MoS2",
+        "Property": "ThermCond",
+        "Value": 47.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physe.2019.01.029"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2",
+        "Property": "ThermCond",
+        "Value": 54.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-08-102687-8.00008-7"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2",
+        "Property": "ThermCond",
+        "Value": 0.8300000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-08-102687-8.00008-7"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2",
+        "Property": "ThermCond",
+        "Value": 108.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/srep08501"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2-B",
+        "Property": "ThermCond",
+        "Value": 1.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7nr07522g"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2",
+        "Property": "ThermCond",
+        "Value": 112.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2020.100277"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2 films",
+        "Property": "ThermCond",
+        "Value": 0.07,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-020-57991-y"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10825-019-01406-3"
+      },
+      {
+        "Original_Name_In_Paper": "crystalline MoS2 films",
+        "Property": "ZT",
+        "Value": 0.27,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-020-57991-y"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2 films",
+        "Property": "ZT",
+        "Value": 1.98,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-020-57991-y"
+      },
+      {
+        "Original_Name_In_Paper": "pristine MoS2",
+        "Property": "ZT",
+        "Value": 0.21,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physe.2018.11.011"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2",
+        "Property": "ZT",
+        "Value": 2.34,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/srep21639"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2 films",
+        "Property": "Seebeck",
+        "Value": 0.000446342,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-020-57991-y"
+      },
+      {
+        "Original_Name_In_Paper": "monolayer MoS2",
+        "Property": "PF",
+        "Value": 0.028,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7tc01088e"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2 films",
+        "Property": "PF",
+        "Value": 0.0,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta02629h"
+      },
+      {
+        "Original_Name_In_Paper": "monolayer MoS2",
+        "Property": "PF",
+        "Value": 0.028,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9cp03639c"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2 film",
+        "Property": "Conductivity",
+        "Value": 0.0001,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta02629h"
+      },
+      {
+        "Original_Name_In_Paper": "layered MoS2",
+        "Property": "Conductivity",
+        "Value": 4440.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2017.01.079"
+      }
+    ],
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "MoS2",
+        "Property": "ThermCond",
+        "Value": 13.1,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-019-40882-2"
+      },
+      {
+        "Original_Name_In_Paper": "single layer MoS2",
+        "Property": "ZT",
+        "Value": 0.11,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-08-102687-8.00002-6"
+      },
+      {
+        "Original_Name_In_Paper": "single layer MoS2",
+        "Property": "ZT",
+        "Value": 0.26,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physe.2019.01.029"
+      },
+      {
+        "Original_Name_In_Paper": "single layer MoS2",
+        "Property": "ZT",
+        "Value": 0.11,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ra02585b"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ra00586b"
+      }
+    ],
+    "200.0": [
+      {
+        "Original_Name_In_Paper": "bulk 2H\u2013MoS2",
+        "Property": "ZT",
+        "Value": 0.65,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10825-019-01406-3"
+      }
+    ],
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "3 wt % MoS2 nanosheets",
+        "Property": "ZT",
+        "Value": 0.53,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2017.11.262"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2 nanosheets",
+        "Property": "ZT",
+        "Value": 0.53,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ra06873b"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2",
+        "Property": "ZT",
+        "Value": 2.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/srep21639"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2 nanoribbons",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/srep21639"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2",
+        "Property": "PF",
+        "Value": 0.000732,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2017.11.262"
+      }
+    ],
+    "760.0": [
+      {
+        "Original_Name_In_Paper": "oxygen-doped MoS2",
+        "Property": "ZT",
+        "Value": 0.14,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta10219k"
+      },
+      {
+        "Original_Name_In_Paper": "MoO2 incorporated MoS2",
+        "Property": "ZT",
+        "Value": 0.14,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta00240b"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "bulk MoS2",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/srep13706"
+      }
+    ],
+    "1200.0": [
+      {
+        "Original_Name_In_Paper": "MoS2",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-018-20918-9"
+      }
+    ],
+    "610.0": [
+      {
+        "Original_Name_In_Paper": "pristine MoS2",
+        "Property": "Seebeck",
+        "Value": 1e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta10219k"
+      },
+      {
+        "Original_Name_In_Paper": "pristine MoS2",
+        "Property": "PF",
+        "Value": 3.0000000000000004e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta10219k"
+      }
+    ],
+    "319.0": [
+      {
+        "Original_Name_In_Paper": "6 wt % MoS2 nanosheets",
+        "Property": "PF",
+        "Value": 0.0018300000000000002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2016.07.083"
+      }
+    ],
+    "420.0": [
+      {
+        "Original_Name_In_Paper": "7.5 wt % Cu doped MoS2",
+        "Property": "PF",
+        "Value": 3.13e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2019.144066"
+      },
+      {
+        "Original_Name_In_Paper": "7.5 wt % Cu-doped MoS2",
+        "Property": "PF",
+        "Value": 3.13e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2019.144066"
+      },
+      {
+        "Original_Name_In_Paper": "7.5 wt % Cu-doped MoS2",
+        "Property": "Conductivity",
+        "Value": 14.2,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2019.144066"
+      }
+    ],
+    "1458.0": [
+      {
+        "Original_Name_In_Paper": "MoS2 nanosheets",
+        "Property": "Conductivity",
+        "Value": 0.01,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2016.07.083"
+      }
+    ],
+    "298.0": [
+      {
+        "Original_Name_In_Paper": "MoS2 nanomaterials",
+        "Property": "Conductivity",
+        "Value": 511.956,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ce01156k"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2 nanomaterials",
+        "Property": "Conductivity",
+        "Value": 511.956,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ce01156k"
+      }
+    ],
+    "327.0": [
+      {
+        "Original_Name_In_Paper": "pristine MoS2",
+        "Property": "Conductivity",
+        "Value": 1.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta10219k"
+      }
+    ]
+  }
+}

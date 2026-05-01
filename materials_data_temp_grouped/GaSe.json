@@ -1,0 +1,28 @@
+{
+  "Material": "GaSe",
+  "DOIs_Researched": [
+    "10.1039/c8cp04723e"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "GaSe",
+        "Property": "ZT",
+        "Value": 2.01,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8cp04723e"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "GaSe monolayers",
+        "Property": "Seebeck",
+        "Value": 0.0002561,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8cp04723e"
+      }
+    ]
+  }
+}

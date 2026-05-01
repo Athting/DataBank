@@ -1,0 +1,18 @@
+{
+  "Material": "La0.1Sr0.9TiO3",
+  "DOIs_Researched": [
+    "10.1016/j.materresbull.2010.03.018"
+  ],
+  "Data_By_Temperature": {
+    "860.0": [
+      {
+        "Original_Name_In_Paper": "La0.1Sr0.9TiO3",
+        "Property": "ZT",
+        "Value": 0.18,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2010.03.018"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "CNTs with PANI",
+  "DOIs_Researched": [
+    "10.1016/j.rser.2013.03.008"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "CNTs with PANI",
+        "Property": "ZT",
+        "Value": 0.001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rser.2013.03.008"
+      }
+    ]
+  }
+}

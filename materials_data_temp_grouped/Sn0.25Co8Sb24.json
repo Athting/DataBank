@@ -1,0 +1,18 @@
+{
+  "Material": "Sn0.25Co8Sb24",
+  "DOIs_Researched": [
+    "10.1016/j.ssc.2006.10.025"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.25Co8Sb24",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2006.10.025"
+      }
+    ]
+  }
+}

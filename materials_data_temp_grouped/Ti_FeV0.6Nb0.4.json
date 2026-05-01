@@ -1,0 +1,18 @@
+{
+  "Material": "Ti:FeV0.6Nb0.4",
+  "DOIs_Researched": [
+    "10.1039/c5ra23091h"
+  ],
+  "Data_By_Temperature": {
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "p-type Ti doped FeV0.6Nb0.4Sb",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra23091h"
+      }
+    ]
+  }
+}

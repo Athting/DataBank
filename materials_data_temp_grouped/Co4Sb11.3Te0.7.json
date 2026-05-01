@@ -1,0 +1,47 @@
+{
+  "Material": "Co4Sb11.3Te0.7",
+  "DOIs_Researched": [
+    "10.1016/j.materresbull.2012.03.059",
+    "10.1007/s10854-012-0668-y"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Co4Sb11.3Te0.7",
+        "Property": "ThermCond",
+        "Value": 3.87,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-012-0668-y"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Co4Sb11.3Te0.7",
+        "Property": "ThermCond",
+        "Value": 3.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2012.03.059"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Co4Sb11.3Te0.7",
+        "Property": "Conductivity",
+        "Value": 0.001629,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-012-0668-y"
+      },
+      {
+        "Original_Name_In_Paper": "Co4Sb11.3Te0.7",
+        "Property": "Conductivity",
+        "Value": 0.001629,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-012-0668-y"
+      }
+    ]
+  }
+}

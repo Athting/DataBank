@@ -1,0 +1,26 @@
+{
+  "Material": "PbTe\u2013CdTe products",
+  "DOIs_Researched": [
+    "10.1039/c2jm33899h"
+  ],
+  "Data_By_Temperature": {
+    "720.0": [
+      {
+        "Original_Name_In_Paper": "PbTe\u2013CdTe products",
+        "Property": "ThermCond",
+        "Value": 0.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2jm33899h"
+      },
+      {
+        "Original_Name_In_Paper": "PbTe\u2013CdTe products",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2jm33899h"
+      }
+    ]
+  }
+}

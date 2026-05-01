@@ -1,0 +1,55 @@
+{
+  "Material": "SiGe thin films",
+  "DOIs_Researched": [
+    "10.1039/c5nr00181a",
+    "10.1016/j.nanoen.2018.03.054",
+    "10.1016/j.jallcom.2019.153182",
+    "10.1016/j.ijheatmasstransfer.2017.10.023"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "SiGe thin films",
+        "Property": "ZT",
+        "Value": 0.63,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.153182"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "SiGe thin films",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5nr00181a"
+      },
+      {
+        "Original_Name_In_Paper": "SiGe thin films",
+        "Property": "ZT",
+        "Value": 0.04,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ijheatmasstransfer.2017.10.023"
+      },
+      {
+        "Original_Name_In_Paper": "SiGe thin films",
+        "Property": "ZT",
+        "Value": 0.13,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2018.03.054"
+      },
+      {
+        "Original_Name_In_Paper": "SiGe thin films",
+        "Property": "ZT",
+        "Value": 0.02,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2018.03.054"
+      }
+    ]
+  }
+}

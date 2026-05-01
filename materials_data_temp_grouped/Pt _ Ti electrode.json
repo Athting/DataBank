@@ -1,0 +1,18 @@
+{
+  "Material": "Pt / Ti electrode",
+  "DOIs_Researched": [
+    "10.1016/j.measurement.2014.02.032"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Pt / Ti electrode",
+        "Property": "Seebeck",
+        "Value": -1.8e-06,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.measurement.2014.02.032"
+      }
+    ]
+  }
+}

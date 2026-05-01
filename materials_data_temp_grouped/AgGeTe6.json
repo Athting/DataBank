@@ -1,0 +1,43 @@
+{
+  "Material": "AgGeTe6",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2013.02.149",
+    "10.1016/j.jallcom.2004.12.038"
+  ],
+  "Data_By_Temperature": {
+    "770.0": [
+      {
+        "Original_Name_In_Paper": "Ag8GeTe6",
+        "Property": "ThermCond",
+        "Value": 0.30000000000000004,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.02.149"
+      },
+      {
+        "Original_Name_In_Paper": "Ag8GeTe6",
+        "Property": "ThermCond",
+        "Value": 0.30000000000000004,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.02.149"
+      },
+      {
+        "Original_Name_In_Paper": "Ag8GeTe6",
+        "Property": "ThermCond",
+        "Value": 0.30000000000000004,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2004.12.038"
+      },
+      {
+        "Original_Name_In_Paper": "Ag8GeTe6",
+        "Property": "ThermCond",
+        "Value": 0.30000000000000004,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2004.12.038"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "(GeTe)80(AgSb2\u2212yTe3\u2212y)20",
+  "DOIs_Researched": [
+    "10.1039/c6tc02501c"
+  ],
+  "Data_By_Temperature": {
+    "730.0": [
+      {
+        "Original_Name_In_Paper": "(GeTe)80(AgySb2\u2212yTe3\u2212y)20",
+        "Property": "ZT",
+        "Value": 1.51,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6tc02501c"
+      }
+    ]
+  }
+}

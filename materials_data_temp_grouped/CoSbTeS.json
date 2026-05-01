@@ -1,0 +1,76 @@
+{
+  "Material": "CoSbTeS",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2018.02.015"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "CoSb0.93Te0.07S",
+        "Property": "ThermCond",
+        "Value": 7.45,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2018.02.015"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb0.93Te0.07S",
+        "Property": "ThermCond",
+        "Value": 7.34,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2018.02.015"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb0.93Te0.07S",
+        "Property": "ThermCond",
+        "Value": 2.23,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2018.02.015"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb0.93Te0.07S",
+        "Property": "PF",
+        "Value": 0.0014069999999999998,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2018.02.015"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb0.995Te0.005S",
+        "Property": "Conductivity",
+        "Value": 196.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2018.02.015"
+      }
+    ],
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "CoSb0.93Te0.07S",
+        "Property": "ZT",
+        "Value": 0.43,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2018.02.015"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb0.93Te0.07S",
+        "Property": "ZT",
+        "Value": 0.43,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2018.02.015"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb0.93Te0.07S",
+        "Property": "PF",
+        "Value": 0.0014069999999999998,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2018.02.015"
+      }
+    ]
+  }
+}

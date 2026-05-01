@@ -1,0 +1,18 @@
+{
+  "Material": "Bi85Sb14.5Pb0.5 alloy",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2011.08.076"
+  ],
+  "Data_By_Temperature": {
+    "210.0": [
+      {
+        "Original_Name_In_Paper": "Bi85Sb14.5Pb0.5 alloy",
+        "Property": "Seebeck",
+        "Value": 0.000101,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2011.08.076"
+      }
+    ]
+  }
+}

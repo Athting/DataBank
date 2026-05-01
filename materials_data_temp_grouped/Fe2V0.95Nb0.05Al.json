@@ -1,0 +1,36 @@
+{
+  "Material": "Fe2V0.95Nb0.05Al",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2009.06.202"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Fe2V0.95Nb0.05Al",
+        "Property": "ThermCond",
+        "Value": 12.6,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.06.202"
+      },
+      {
+        "Original_Name_In_Paper": "Fe2V0.95Nb0.05Al",
+        "Property": "PF",
+        "Value": 0.001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.06.202"
+      }
+    ],
+    "370.0": [
+      {
+        "Original_Name_In_Paper": "Fe2V0.95Nb0.05Al",
+        "Property": "ZT",
+        "Value": 0.04,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.06.202"
+      }
+    ]
+  }
+}

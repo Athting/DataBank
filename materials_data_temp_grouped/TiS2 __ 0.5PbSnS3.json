@@ -1,0 +1,18 @@
+{
+  "Material": "TiS2 \\* 0.5PbSnS3",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2016.12.088"
+  ],
+  "Data_By_Temperature": {
+    "650.0": [
+      {
+        "Original_Name_In_Paper": "TiS2-0.5mol % PbSnS3",
+        "Property": "ZT",
+        "Value": 0.44,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.12.088"
+      }
+    ]
+  }
+}

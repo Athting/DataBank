@@ -1,0 +1,18 @@
+{
+  "Material": "Tin sulfide: SnS",
+  "DOIs_Researched": [
+    "10.1016/j.cej.2018.09.106"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "tin sulfide",
+        "Property": "Seebeck",
+        "Value": 0.00045000000000000004,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cej.2018.09.106"
+      }
+    ]
+  }
+}

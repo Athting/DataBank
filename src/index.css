@@ -1,3 +1,88 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+	html,
+	body,
+	#root {
+		min-height: 100%;
+	}
+
+	body {
+		background: radial-gradient(circle at top right, #dbeafe 0%, #eef2ff 35%, #f8fafc 100%);
+		color: #0f172a;
+	}
+}
+
+@layer utilities {
+	/* Bright, glassy cards instead of dark panels */
+	.bg-gray-950 {
+		background-color: transparent !important;
+	}
+
+	.bg-gray-900 {
+		background-color: rgba(255, 255, 255, 0.86) !important;
+		backdrop-filter: blur(6px);
+	}
+
+	.bg-gray-800,
+	.bg-gray-800\/60,
+	.bg-gray-900\/60,
+	.bg-gray-900\/70,
+	.bg-gray-900\/80 {
+		background-color: rgba(255, 255, 255, 0.75) !important;
+	}
+
+	.border-gray-800,
+	.border-gray-700,
+	.border-gray-600 {
+		border-color: #bfdbfe !important;
+	}
+
+	.text-white {
+		color: #0f172a !important;
+	}
+
+	.text-gray-700,
+	.text-gray-600,
+	.text-gray-500,
+	.text-gray-400,
+	.text-gray-300,
+	.text-gray-200 {
+		color: #334155 !important;
+	}
+
+	.text-cyan-400,
+	.text-cyan-300 {
+		color: #0284c7 !important;
+	}
+
+	.text-emerald-400 {
+		color: #059669 !important;
+	}
+
+	.hover\:bg-gray-800\/40:hover,
+	.hover\:bg-gray-800:hover,
+	.hover\:bg-gray-700:hover {
+		background-color: #e0f2fe !important;
+	}
+
+	.bg-cyan-500,
+	.bg-cyan-600,
+	.bg-blue-600 {
+		box-shadow: 0 8px 24px rgba(14, 116, 144, 0.25);
+	}
+
+	.bg-cyan-500.text-gray-950,
+	.bg-cyan-600.text-white,
+	.bg-blue-600.text-white,
+	.bg-cyan-500.text-white {
+		color: #ffffff !important;
+	}
+
+	.rounded-xl,
+	.rounded-2xl {
+		box-shadow: 0 10px 30px rgba(59, 130, 246, 0.12);
+	}
+}

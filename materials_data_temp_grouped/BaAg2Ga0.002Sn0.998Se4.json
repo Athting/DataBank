@@ -1,0 +1,34 @@
+{
+  "Material": "BaAg2Ga0.002Sn0.998Se4",
+  "DOIs_Researched": [
+    "10.1016/j.mtphys.2019.100098"
+  ],
+  "Data_By_Temperature": {
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "BaAg2Ga0.002Sn0.998Se4",
+        "Property": "ZT",
+        "Value": 0.25,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2019.100098"
+      },
+      {
+        "Original_Name_In_Paper": "BaAg2Ga0.002Sn0.998Se4",
+        "Property": "ZT",
+        "Value": 0.25,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2019.100098"
+      },
+      {
+        "Original_Name_In_Paper": "BaAg2Ga0.002Sn0.998Se4",
+        "Property": "ZT",
+        "Value": 0.25,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2019.100098"
+      }
+    ]
+  }
+}

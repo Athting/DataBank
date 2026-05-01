@@ -1,0 +1,122 @@
+{
+  "doi": "10.1016/j.jallcom.2004.07.074",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "TiCoSb",
+        "TiCoSb alloy",
+        "n-type TiCoSb",
+        "p-type TiCoSb",
+        "TiCoSb compound",
+        "un-doped TiCoSb compound"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "TiCoSb",
+          "value": -0.00004,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "TiCoSb compound",
+          "value": 0.00000775,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "80.0 K"
+        },
+        {
+          "material": "TiCoSb",
+          "value": 0.000222,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "840.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "TiCoSb",
+          "value": 4000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "un-doped TiCoSb compound",
+          "value": 103,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "600.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "TiCoSb",
+          "value": 24,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "TiCoSb",
+          "value": 19,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "TiCoSb alloy",
+          "value": 2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "400.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "TiCoSb",
+          "value": 0.00055,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "550.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "TiCoSb",
+          "zt_value": 0.16,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "n-type TiCoSb",
+          "zt_value": 0.7000000000000001,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "TiCoSb",
+          "zt_value": 0.30000000000000004,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "p-type TiCoSb",
+          "zt_value": 0.9,
+          "temperature": "973.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

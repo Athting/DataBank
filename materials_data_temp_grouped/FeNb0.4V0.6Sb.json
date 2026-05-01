@@ -1,0 +1,18 @@
+{
+  "Material": "FeNb0.4V0.6Sb",
+  "DOIs_Researched": [
+    "10.1039/c8cp02071j"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "FeNb0.4V0.6Sb",
+        "Property": "ThermCond",
+        "Value": 5.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8cp02071j"
+      }
+    ]
+  }
+}

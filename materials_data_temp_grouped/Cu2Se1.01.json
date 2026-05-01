@@ -1,0 +1,28 @@
+{
+  "Material": "Cu2Se1.01",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2012.02.010"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "Cu2Se1.01",
+        "Property": "ZT",
+        "Value": 1.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2012.02.010"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Cu2Se1.01",
+        "Property": "Conductivity",
+        "Value": 166666.6666666667,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2012.02.010"
+      }
+    ]
+  }
+}

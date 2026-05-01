@@ -1,0 +1,18 @@
+{
+  "Material": "Ti5O9",
+  "DOIs_Researched": [
+    "10.1016/j.scriptamat.2017.11.044"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "pure Ti5O9",
+        "Property": "ZT",
+        "Value": 0.092,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2017.11.044"
+      }
+    ]
+  }
+}

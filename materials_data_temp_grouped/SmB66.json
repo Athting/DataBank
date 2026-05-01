@@ -1,0 +1,37 @@
+{
+  "Material": "SmB66",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2019.152182",
+    "10.1016/bs.hpcre.2020.10.002"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "SmB66",
+        "Property": "ThermCond",
+        "Value": 2.6,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.152182"
+      },
+      {
+        "Original_Name_In_Paper": "SmB66",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/bs.hpcre.2020.10.002"
+      }
+    ],
+    "1500.0": [
+      {
+        "Original_Name_In_Paper": "SmB66",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/bs.hpcre.2020.10.002"
+      }
+    ]
+  }
+}

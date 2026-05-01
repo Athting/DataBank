@@ -1,0 +1,90 @@
+{
+  "Material": "Te",
+  "DOIs_Researched": [
+    "10.1016/j.proeng.2011.12.435",
+    "10.1039/d0ma00220h",
+    "10.1039/d0ta04830e",
+    "10.1039/c8ce01790e",
+    "10.1016/j.synthmet.2015.08.034",
+    "10.1007/s11051-012-0848-y",
+    "10.1039/c6qm00188b"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "PEDOT : PSS functionalized Te nanorods",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.synthmet.2015.08.034"
+      },
+      {
+        "Original_Name_In_Paper": "PEDOT : PSS functionalized Te nanorods",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11051-012-0848-y"
+      },
+      {
+        "Original_Name_In_Paper": "Pristine tellurium",
+        "Property": "Seebeck",
+        "Value": 0.0004,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ce01790e"
+      }
+    ],
+    "298.0": [
+      {
+        "Original_Name_In_Paper": "Te 3 + 3 % Te ingot",
+        "Property": "ZT",
+        "Value": 1.12,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.proeng.2011.12.435"
+      }
+    ],
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "SmSe2-free Te",
+        "Property": "Seebeck",
+        "Value": 0.000247,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta04830e"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "PEDOT / graphene / Te",
+        "Property": "PF",
+        "Value": 0.000143,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6qm00188b"
+      }
+    ],
+    "393.0": [
+      {
+        "Original_Name_In_Paper": "N2H4\u00b7H2O-synthesized Te NWs",
+        "Property": "Conductivity",
+        "Value": 42.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ma00220h"
+      }
+    ],
+    "623.0": [
+      {
+        "Original_Name_In_Paper": "N2H4\u00b7H2O-synthesized Te NWs",
+        "Property": "Conductivity",
+        "Value": 744.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ma00220h"
+      }
+    ]
+  }
+}

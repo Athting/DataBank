@@ -1,0 +1,18 @@
+{
+  "Material": "SrTiO3.998Cr0.002",
+  "DOIs_Researched": [
+    "10.1007/s10853-020-04949-0"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "SrTi0.998Cr0.002O3",
+        "Property": "ZT",
+        "Value": 0.168,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      }
+    ]
+  }
+}

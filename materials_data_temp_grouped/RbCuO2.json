@@ -1,0 +1,28 @@
+{
+  "Material": "RbCuO2",
+  "DOIs_Researched": [
+    "10.1140/epjb-e2020-100614-2"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "p-type RbCuO2",
+        "Property": "ZT",
+        "Value": 0.15,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1140/epjb-e2020-100614-2"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "p-doped RbCuO2",
+        "Property": "Seebeck",
+        "Value": 0.000248,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1140/epjb-e2020-100614-2"
+      }
+    ]
+  }
+}

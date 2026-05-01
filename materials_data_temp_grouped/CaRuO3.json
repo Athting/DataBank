@@ -1,0 +1,28 @@
+{
+  "Material": "CaRuO3",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2012.01.150"
+  ],
+  "Data_By_Temperature": {
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "CaRuO3",
+        "Property": "ZT",
+        "Value": 0.025,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2012.01.150"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "CaRuO3 single crystals",
+        "Property": "Conductivity",
+        "Value": 400000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2012.01.150"
+      }
+    ]
+  }
+}

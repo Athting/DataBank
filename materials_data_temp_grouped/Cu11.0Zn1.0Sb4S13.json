@@ -1,0 +1,18 @@
+{
+  "Material": "Cu11.0Zn1.0Sb4S13",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2015.08.040"
+  ],
+  "Data_By_Temperature": {
+    "720.0": [
+      {
+        "Original_Name_In_Paper": "Cu11.0Zn1.0Sb4S13",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2015.08.040"
+      }
+    ]
+  }
+}

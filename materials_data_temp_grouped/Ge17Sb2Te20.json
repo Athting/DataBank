@@ -1,0 +1,18 @@
+{
+  "Material": "Ge17Sb2Te20",
+  "DOIs_Researched": [
+    "10.1039/c6tc03789e"
+  ],
+  "Data_By_Temperature": {
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "Ge17Sb2Te20",
+        "Property": "ZT",
+        "Value": 1.75,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6tc03789e"
+      }
+    ]
+  }
+}

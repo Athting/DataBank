@@ -1,0 +1,59 @@
+{
+  "Material": "SrBaNb2O6",
+  "DOIs_Researched": [
+    "10.1007/s10854-018-8941-3",
+    "10.1016/j.scriptamat.2015.07.025"
+  ],
+  "Data_By_Temperature": {
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "Sr0.70Ba0.30Nb2O6",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2015.07.025"
+      },
+      {
+        "Original_Name_In_Paper": "Sr0.70Ba0.30Nb2O6",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2015.07.025"
+      },
+      {
+        "Original_Name_In_Paper": "Sr0.70Ba0.30Nb2O6",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2015.07.025"
+      },
+      {
+        "Original_Name_In_Paper": "Sr0.7Ba0.3K0.1Nb2O6-\u03b4",
+        "Property": "ZT",
+        "Value": 0.23,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-018-8941-3"
+      },
+      {
+        "Original_Name_In_Paper": "Sr0.7Ba0.3K0.1Nb2O6-\u03b4",
+        "Property": "ZT",
+        "Value": 0.23,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-018-8941-3"
+      },
+      {
+        "Original_Name_In_Paper": "Sr0.7Ba0.3K0.1Nb2O6-\u03b4",
+        "Property": "ZT",
+        "Value": 0.23,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-018-8941-3"
+      }
+    ]
+  }
+}

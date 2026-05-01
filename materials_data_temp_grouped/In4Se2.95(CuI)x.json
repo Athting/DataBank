@@ -1,0 +1,18 @@
+{
+  "Material": "In4Se2.95(CuI)x",
+  "DOIs_Researched": [
+    "10.1039/c6qi00340k"
+  ],
+  "Data_By_Temperature": {
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "In4Se2.95(CuI)x",
+        "Property": "ThermCond",
+        "Value": 0.24,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6qi00340k"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "RhSi3P3",
+  "DOIs_Researched": [
+    "10.1039/c7ra08118a"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "RhSi3P3",
+        "Property": "Conductivity",
+        "Value": 666.6666666667,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ra08118a"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Ca3(Co0.98Cu0.02)2O6",
+  "DOIs_Researched": [
+    "10.1016/j.jpcs.2004.06.087"
+  ],
+  "Data_By_Temperature": {
+    "1170.0": [
+      {
+        "Original_Name_In_Paper": "Ca3(Co0.98Cu0.02)2O6",
+        "Property": "Conductivity",
+        "Value": 1754.3859649123,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2004.06.087"
+      }
+    ]
+  }
+}

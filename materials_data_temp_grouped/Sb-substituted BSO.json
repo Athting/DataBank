@@ -1,0 +1,116 @@
+{
+  "Material": "Sb-substituted BSO",
+  "DOIs_Researched": [
+    "10.1016/j.physb.2020.412387"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Sb-substituted BSO",
+        "Property": "ThermCond",
+        "Value": 1.04,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2020.412387"
+      }
+    ],
+    "820.0": [
+      {
+        "Original_Name_In_Paper": "Sb-substituted BSO",
+        "Property": "ZT",
+        "Value": 0.0028,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2020.412387"
+      },
+      {
+        "Original_Name_In_Paper": "Sb-substituted BSO",
+        "Property": "ZT",
+        "Value": 0.0028,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2020.412387"
+      },
+      {
+        "Original_Name_In_Paper": "Sb-substituted BSO",
+        "Property": "ZT",
+        "Value": 0.0028,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2020.412387"
+      },
+      {
+        "Original_Name_In_Paper": "Sb-substituted BSO",
+        "Property": "Seebeck",
+        "Value": 5.8899999999999995e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2020.412387"
+      },
+      {
+        "Original_Name_In_Paper": "Sb-substituted BSO",
+        "Property": "Seebeck",
+        "Value": 5.8899999999999995e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2020.412387"
+      },
+      {
+        "Original_Name_In_Paper": "Sb-substituted BSO",
+        "Property": "Seebeck",
+        "Value": 5.8899999999999995e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2020.412387"
+      },
+      {
+        "Original_Name_In_Paper": "Sb-substituted BSO",
+        "Property": "PF",
+        "Value": 2.1e-06,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2020.412387"
+      },
+      {
+        "Original_Name_In_Paper": "Sb-substituted BSO",
+        "Property": "PF",
+        "Value": 2.1e-06,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2020.412387"
+      },
+      {
+        "Original_Name_In_Paper": "Sb-substituted BSO",
+        "Property": "PF",
+        "Value": 8e-07,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2020.412387"
+      },
+      {
+        "Original_Name_In_Paper": "Sb-substituted BSO",
+        "Property": "PF",
+        "Value": 2.1e-06,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2020.412387"
+      },
+      {
+        "Original_Name_In_Paper": "Sb-substituted BSO",
+        "Property": "Conductivity",
+        "Value": 630.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2020.412387"
+      },
+      {
+        "Original_Name_In_Paper": "Sb-substituted BSO",
+        "Property": "Conductivity",
+        "Value": 270.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2020.412387"
+      }
+    ]
+  }
+}

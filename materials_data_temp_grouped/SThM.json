@@ -1,0 +1,18 @@
+{
+  "Material": "SThM",
+  "DOIs_Researched": [
+    "10.1016/j.carbon.2014.04.051"
+  ],
+  "Data_By_Temperature": {
+    "366.0": [
+      {
+        "Original_Name_In_Paper": "SThM",
+        "Property": "ThermCond",
+        "Value": 2430.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.carbon.2014.04.051"
+      }
+    ]
+  }
+}

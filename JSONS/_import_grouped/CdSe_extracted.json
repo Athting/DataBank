@@ -1,0 +1,104 @@
+{
+  "doi": "10.1016/j.intermet.2016.01.004",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "CdSe thin films",
+        "Fe doped CdSe thin films",
+        "nanocrystalline CdSe thin films",
+        "cubic CdSe thin films",
+        "CdSe",
+        "CdSe single crystals"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "CdSe thin films",
+          "value": 0.0854700855,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CdSe thin films",
+          "value": 0.9433962264,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Fe doped CdSe thin films",
+          "value": 0.0002717391,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "nanocrystalline CdSe thin films",
+          "value": 0.9433962264,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "cubic CdSe thin films",
+          "value": 0.9433962264,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CdSe",
+          "value": 20,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CdSe single crystals",
+          "value": 0.0096153846,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "CdSe",
+          "value": 3.85,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "CdSe",
+          "zt_value": 1.8,
+          "temperature": "1200.0 K"
+        },
+        {
+          "material": "CdSe",
+          "zt_value": 1.1,
+          "temperature": "850.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

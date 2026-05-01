@@ -1,0 +1,29 @@
+{
+  "Material": "PbTe / Bi2Te3",
+  "DOIs_Researched": [
+    "10.1039/c4cc07515c",
+    "10.1039/c9ce00441f"
+  ],
+  "Data_By_Temperature": {
+    "570.0": [
+      {
+        "Original_Name_In_Paper": "PbTe / Bi2Te3",
+        "Property": "ZT",
+        "Value": 0.72,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4cc07515c"
+      }
+    ],
+    "620.0": [
+      {
+        "Original_Name_In_Paper": "PbTe / Bi2Te3",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ce00441f"
+      }
+    ]
+  }
+}

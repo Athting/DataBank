@@ -1,0 +1,18 @@
+{
+  "Material": "LaOBiSSe",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2018.09.248"
+  ],
+  "Data_By_Temperature": {
+    "650.0": [
+      {
+        "Original_Name_In_Paper": "LaOBiSSe",
+        "Property": "ZT",
+        "Value": 0.36,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.09.248"
+      }
+    ]
+  }
+}

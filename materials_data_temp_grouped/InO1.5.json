@@ -1,0 +1,26 @@
+{
+  "Material": "InO1.5",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2013.10.027"
+  ],
+  "Data_By_Temperature": {
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "InO1.5",
+        "Property": "ThermCond",
+        "Value": 0.08,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2013.10.027"
+      },
+      {
+        "Original_Name_In_Paper": "InO1.5",
+        "Property": "Conductivity",
+        "Value": 4000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2013.10.027"
+      }
+    ]
+  }
+}

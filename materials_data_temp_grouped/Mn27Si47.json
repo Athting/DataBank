@@ -1,0 +1,18 @@
+{
+  "Material": "Mn27Si47",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2019.06.104"
+  ],
+  "Data_By_Temperature": {
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "p-type Mn27Si47",
+        "Property": "ZT",
+        "Value": 0.41000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2019.06.104"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Bi2O2Sex",
+  "DOIs_Researched": [
+    "10.1016/j.jeurceramsoc.2020.07.047"
+  ],
+  "Data_By_Temperature": {
+    "793.0": [
+      {
+        "Original_Name_In_Paper": "Bi2O2-xSxSe",
+        "Property": "ZT",
+        "Value": 0.28,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2020.07.047"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "(Na0.15Ca0.85)3Co4O9",
+  "DOIs_Researched": [
+    "10.1016/S0955-2219(02)00202-9"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "(Na0.15Ca0.85)3Co4O9",
+        "Property": "ThermCond",
+        "Value": 1.73,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0955-2219(02)00202-9"
+      }
+    ]
+  }
+}

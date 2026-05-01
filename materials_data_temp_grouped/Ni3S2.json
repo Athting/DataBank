@@ -1,0 +1,18 @@
+{
+  "Material": "Ni3S2",
+  "DOIs_Researched": [
+    "10.1039/c1jm13879k"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Single crystalline Ni3S2",
+        "Property": "Conductivity",
+        "Value": 5555555.555555556,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c1jm13879k"
+      }
+    ]
+  }
+}

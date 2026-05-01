@@ -1,0 +1,150 @@
+{
+  "doi": "10.1016/j.jeurceramsoc.2015.10.042",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Ca3Co4O9 thin film",
+        "Ca3Co4O9 thin films",
+        "Ca3Co4O9 film",
+        "Ca3Co4O9 based TE oxide material",
+        "Ca3Co4O9 single crystal",
+        "Ca3Co4O9 single crystals",
+        "Ca3Co4O9 nanocomposites"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "Ca3Co4O9 thin films",
+          "value": 0.00011,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Ca3Co4O9 film",
+          "value": 0.00012000000000000002,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Ca3Co4O9 thin film",
+          "value": 0.00024000000000000003,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Ca3Co4O9 based TE oxide material",
+          "value": 0.00017199999999999998,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Ca3Co4O9 film",
+          "value": 0.0001193,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "120.0 K"
+        },
+        {
+          "material": "Ca3Co4O9 film",
+          "value": 0.0001193,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "Ca3Co4O9 thin film",
+          "value": 100000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Ca3Co4O9 single crystal",
+          "value": 62500,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "318.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Ca3Co4O9 based TE oxide material",
+          "value": 1.4100000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "973.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Ca3Co4O9 thin films",
+          "value": 0.000514,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Ca3Co4O9 thin films",
+          "value": 0.000118,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "573.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Ca3Co4O9 single crystal",
+          "zt_value": 0.87,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Ca3Co4O9 single crystal",
+          "zt_value": 0.87,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Ca3Co4O9 single crystals",
+          "zt_value": 1,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Ca3Co4O9 single crystal",
+          "zt_value": 0.8300000000000001,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Ca3Co4O9 single crystal",
+          "zt_value": 0.5,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Ca3Co4O9 nanocomposites",
+          "zt_value": 0.1,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "Ca3Co4O9 single crystals",
+          "zt_value": 1,
+          "temperature": "800.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Material": "La3Cu3P4",
+  "DOIs_Researched": [
+    "10.1038/s41598-017-14658-5"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "p-type La3Cu3P4",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-017-14658-5"
+      },
+      {
+        "Original_Name_In_Paper": "p-type doped La3Cu3P4",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-017-14658-5"
+      }
+    ]
+  }
+}

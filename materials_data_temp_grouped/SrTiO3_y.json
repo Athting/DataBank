@@ -1,0 +1,18 @@
+{
+  "Material": "SrTiO3:y",
+  "DOIs_Researched": [
+    "10.1016/j.pecs.2015.10.004"
+  ],
+  "Data_By_Temperature": {
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "yttrium-doped strontium titanate",
+        "Property": "Conductivity",
+        "Value": 8200.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pecs.2015.10.004"
+      }
+    ]
+  }
+}

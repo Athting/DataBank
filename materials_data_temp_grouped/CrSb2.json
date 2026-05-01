@@ -1,0 +1,29 @@
+{
+  "Material": "CrSb2",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2007.11.086",
+    "10.1016/j.jallcom.2010.12.159"
+  ],
+  "Data_By_Temperature": {
+    "50.0": [
+      {
+        "Original_Name_In_Paper": "CrSb2",
+        "Property": "ThermCond",
+        "Value": 30.3,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.12.159"
+      }
+    ],
+    "60.0": [
+      {
+        "Original_Name_In_Paper": "CrSb2",
+        "Property": "Seebeck",
+        "Value": -0.00043099999999999996,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2007.11.086"
+      }
+    ]
+  }
+}

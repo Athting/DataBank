@@ -1,0 +1,29 @@
+{
+  "Material": "BiCuSe",
+  "DOIs_Researched": [
+    "10.1039/c6ta04310k",
+    "10.1016/j.jmat.2016.04.002"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "S-doped BiOCuSe",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta04310k"
+      }
+    ],
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "BiOCu0.975Se",
+        "Property": "ZT",
+        "Value": 0.81,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2016.04.002"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "YFeCoSb12",
+  "DOIs_Researched": [
+    "10.1007/BF02841207"
+  ],
+  "Data_By_Temperature": {
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "Y0.08Fe0.7Co3.3Sb12",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/BF02841207"
+      }
+    ]
+  }
+}

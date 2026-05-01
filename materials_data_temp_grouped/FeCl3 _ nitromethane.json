@@ -1,0 +1,18 @@
+{
+  "Material": "FeCl3 / nitromethane",
+  "DOIs_Researched": [
+    "10.1038/srep44704"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "FeCl3 / nitromethane",
+        "Property": "PF",
+        "Value": 4.6e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/srep44704"
+      }
+    ]
+  }
+}

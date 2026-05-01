@@ -1,0 +1,36 @@
+{
+  "Material": "As2S3",
+  "DOIs_Researched": [
+    "10.1016/j.commatsci.2020.109913"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "monolayer As2S3",
+        "Property": "ZT",
+        "Value": 1.8399999999999999,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2020.109913"
+      },
+      {
+        "Original_Name_In_Paper": "As2S3",
+        "Property": "Seebeck",
+        "Value": 0.000298,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2020.109913"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "bulk As2S3",
+        "Property": "Seebeck",
+        "Value": 0.00018892,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2020.109913"
+      }
+    ]
+  }
+}

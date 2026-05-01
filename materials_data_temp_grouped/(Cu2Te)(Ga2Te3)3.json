@@ -1,0 +1,18 @@
+{
+  "Material": "(Cu2Te)(Ga2Te3)3",
+  "DOIs_Researched": [
+    "10.1016/j.matdes.2016.11.024"
+  ],
+  "Data_By_Temperature": {
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "(Cu2Te)(Ga2Te3)3",
+        "Property": "ZT",
+        "Value": 0.58,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matdes.2016.11.024"
+      }
+    ]
+  }
+}

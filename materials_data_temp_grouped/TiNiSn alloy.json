@@ -1,0 +1,18 @@
+{
+  "Material": "TiNiSn alloy",
+  "DOIs_Researched": [
+    "10.1016/j.rser.2019.05.051"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "TiNiSn alloy",
+        "Property": "ZT",
+        "Value": 0.44,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rser.2019.05.051"
+      }
+    ]
+  }
+}

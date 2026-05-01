@@ -1,0 +1,42 @@
+{
+  "Material": "La2TiO2.87",
+  "DOIs_Researched": [
+    "10.1039/c4ra13945c"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "La2 / 3TiO2.87",
+        "Property": "ThermCond",
+        "Value": 2.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra13945c"
+      },
+      {
+        "Original_Name_In_Paper": "La2 / 3TiO2.87",
+        "Property": "ZT",
+        "Value": 0.18,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra13945c"
+      },
+      {
+        "Original_Name_In_Paper": "La2 / 3TiO2.87",
+        "Property": "Conductivity",
+        "Value": 10989.010989011,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra13945c"
+      },
+      {
+        "Original_Name_In_Paper": "La2 / 3TiO2.87",
+        "Property": "Seebeck",
+        "Value": -0.000192,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra13945c"
+      }
+    ]
+  }
+}

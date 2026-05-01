@@ -1,0 +1,37 @@
+{
+  "Material": "Mn0.7Zn0.3Fe2O4",
+  "DOIs_Researched": [
+    "10.1016/j.solidstatesciences.2017.08.021",
+    "10.1016/j.ceramint.2017.03.183"
+  ],
+  "Data_By_Temperature": {
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "1 wt % MWNTs / Mn0.7Zn0.3Fe2O4",
+        "Property": "Seebeck",
+        "Value": -0.000173,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2017.08.021"
+      }
+    ],
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "1 wt % MWNTs / Mn0.7Zn0.3Fe2O4 composites",
+        "Property": "PF",
+        "Value": 4.06e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2017.08.021"
+      },
+      {
+        "Original_Name_In_Paper": "2 wt % Graphene / Mn0.7Zn0.3Fe2O4 composites",
+        "Property": "PF",
+        "Value": 5.02e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2017.03.183"
+      }
+    ]
+  }
+}

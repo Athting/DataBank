@@ -1,0 +1,26 @@
+{
+  "Material": "Al)O thin films",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2016.02.028"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Al)O thin films",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2016.02.028"
+      },
+      {
+        "Original_Name_In_Paper": "Al)O thin films",
+        "Property": "PF",
+        "Value": 4e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2016.02.028"
+      }
+    ]
+  }
+}

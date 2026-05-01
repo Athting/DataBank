@@ -1,0 +1,18 @@
+{
+  "Material": "SiC matrix",
+  "DOIs_Researched": [
+    "10.1016/j.jeurceramsoc.2017.04.004"
+  ],
+  "Data_By_Temperature": {
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "SiC matrix",
+        "Property": "Conductivity",
+        "Value": 2.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": "addition of 10 vol. % TiCN",
+        "Source_DOI": "10.1016/j.jeurceramsoc.2017.04.004"
+      }
+    ]
+  }
+}

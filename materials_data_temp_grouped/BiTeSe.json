@@ -1,0 +1,37 @@
+{
+  "Material": "BiTeSe",
+  "DOIs_Researched": [
+    "10.1016/j.solidstatesciences.2020.106191",
+    "10.1016/j.nanoen.2016.11.034"
+  ],
+  "Data_By_Temperature": {
+    "423.0": [
+      {
+        "Original_Name_In_Paper": "BiTeSe alloy doped with 0.064 wt % BiCl3",
+        "Property": "ZT",
+        "Value": 0.68,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2020.106191"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "n-type BiTeSe",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2016.11.034"
+      },
+      {
+        "Original_Name_In_Paper": "BiTeSe film",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2016.11.034"
+      }
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "doi": "10.1039/c7sc05190e",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "SnS0.1Se0.9-1",
+        "SnS0.1Se0.9-2",
+        "SnS0.1Se0.9"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "SnS0.1Se0.9-1",
+          "value": 0.00031,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "SnS0.1Se0.9-1",
+          "value": 1940,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SnS0.1Se0.9",
+          "value": 3030,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "323.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "SnS0.1Se0.9-1",
+          "value": 1.148,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SnS0.1Se0.9-1",
+          "value": 0.427,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "SnS0.1Se0.9-1",
+          "value": 0.00024000000000000003,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "SnS0.1Se0.9-1",
+          "value": 0.0005,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "473.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "SnS0.1Se0.9-2",
+          "zt_value": 0.05,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SnS0.1Se0.9",
+          "zt_value": 1.16,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnS0.1Se0.9",
+          "zt_value": 0.09,
+          "temperature": "323.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

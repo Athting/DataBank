@@ -1,0 +1,18 @@
+{
+  "Material": "NaTi2O4",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2006.12.023"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "NaTi2O4",
+        "Property": "Conductivity",
+        "Value": 83.3333333333,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2006.12.023"
+      }
+    ]
+  }
+}

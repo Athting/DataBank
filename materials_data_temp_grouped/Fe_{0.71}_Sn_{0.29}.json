@@ -1,0 +1,18 @@
+{
+  "Material": "Fe_{0.71}_Sn_{0.29}",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2004.10.021"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "(Fe71Sn29)0.35(SiO2)0.65 film",
+        "Property": "Conductivity",
+        "Value": 1333333.3333333333,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2004.10.021"
+      }
+    ]
+  }
+}

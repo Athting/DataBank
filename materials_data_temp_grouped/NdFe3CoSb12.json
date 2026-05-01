@@ -1,0 +1,29 @@
+{
+  "Material": "NdFe3CoSb12",
+  "DOIs_Researched": [
+    "10.1016/j.scriptamat.2016.01.035",
+    "10.1016/j.ceramint.2017.03.011"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Nd filled p-type Nd0.9Fe3CoSb12",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2017.03.011"
+      }
+    ],
+    "770.0": [
+      {
+        "Original_Name_In_Paper": "Nd0.9Fe3CoSb12 compound",
+        "Property": "ZT",
+        "Value": 0.99,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2016.01.035"
+      }
+    ]
+  }
+}

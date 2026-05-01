@@ -1,0 +1,18 @@
+{
+  "Material": "PEDOT: PF6 / a-SWCNTs",
+  "DOIs_Researched": [
+    "10.1039/c9ta03153g"
+  ],
+  "Data_By_Temperature": {
+    "412.0": [
+      {
+        "Original_Name_In_Paper": "PEDOT : PF6 / a-SWCNTs ( 80 wt % )",
+        "Property": "PF",
+        "Value": 0.0005101999999999999,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta03153g"
+      }
+    ]
+  }
+}

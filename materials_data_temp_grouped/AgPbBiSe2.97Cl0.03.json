@@ -1,0 +1,18 @@
+{
+  "Material": "AgPbBiSe2.97Cl0.03",
+  "DOIs_Researched": [
+    "10.1039/c9sc00485h"
+  ],
+  "Data_By_Temperature": {
+    "813.0": [
+      {
+        "Original_Name_In_Paper": "Cl doped AgPbBiSe2.97Cl0.03",
+        "Property": "PF",
+        "Value": 0.0005149999999999999,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9sc00485h"
+      }
+    ]
+  }
+}

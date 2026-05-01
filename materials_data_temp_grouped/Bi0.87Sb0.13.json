@@ -1,0 +1,18 @@
+{
+  "Material": "Bi0.87Sb0.13",
+  "DOIs_Researched": [
+    "10.1016/j.mser.2015.08.001"
+  ],
+  "Data_By_Temperature": {
+    "77.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.87Sb0.13 nanowires",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mser.2015.08.001"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Material": "SnGe0.03Se",
+  "DOIs_Researched": [
+    "10.1016/j.pmatsci.2018.04.005"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.97Ge0.03Se",
+        "Property": "ThermCond",
+        "Value": 0.25,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2018.04.005"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.97Ge0.03Se",
+        "Property": "ZT",
+        "Value": 0.15,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2018.04.005"
+      }
+    ]
+  }
+}

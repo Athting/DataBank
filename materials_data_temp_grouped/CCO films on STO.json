@@ -1,0 +1,18 @@
+{
+  "Material": "CCO films on STO",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2010.04.021"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "CCO films on STO",
+        "Property": "Seebeck",
+        "Value": 9.499999999999999e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2010.04.021"
+      }
+    ]
+  }
+}

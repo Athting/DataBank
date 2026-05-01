@@ -1,0 +1,99 @@
+{
+  "doi": "10.1016/j.jpowsour.2016.11.019",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "SOFC"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "SOFC",
+          "value": 10,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "SOFC",
+          "value": 10,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "1273.0 K"
+        },
+        {
+          "material": "SOFC",
+          "value": 10000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "SOFC",
+          "value": 110,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "SOFC",
+          "value": 2300,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "SOFC",
+          "value": 1,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "SOFC",
+          "value": 2200,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "1023.0 K"
+        },
+        {
+          "material": "SOFC",
+          "value": 402,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "1123.0 K"
+        },
+        {
+          "material": "SOFC",
+          "value": 28000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "SOFC",
+          "value": 30000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "1173.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": []
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

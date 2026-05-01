@@ -1,0 +1,18 @@
+{
+  "Material": "EuZnSb",
+  "DOIs_Researched": [
+    "10.1016/S1002-0721(12)60398-6"
+  ],
+  "Data_By_Temperature": {
+    "713.0": [
+      {
+        "Original_Name_In_Paper": "EuZn 2 Sb",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S1002-0721(12)60398-6"
+      }
+    ]
+  }
+}

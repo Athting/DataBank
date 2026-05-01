@@ -1,0 +1,18 @@
+{
+  "Material": "Cu2Se0.8Te0.2",
+  "DOIs_Researched": [
+    "10.1039/c8ta01313f"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "Cu2Se0.8Te0.2",
+        "Property": "PF",
+        "Value": 0.0014500000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta01313f"
+      }
+    ]
+  }
+}

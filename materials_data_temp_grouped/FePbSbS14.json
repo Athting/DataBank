@@ -1,0 +1,37 @@
+{
+  "Material": "FePbSbS14",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2010.04.035",
+    "10.1016/j.jallcom.2004.08.041"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "FePb4Sb6S14",
+        "Property": "Conductivity",
+        "Value": 0.8264462810000001,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2004.08.041"
+      },
+      {
+        "Original_Name_In_Paper": "FePb4Sb6S14",
+        "Property": "Seebeck",
+        "Value": 0.0002,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2004.08.041"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "FePb4Sb6S14",
+        "Property": "Seebeck",
+        "Value": -0.0002,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2010.04.035"
+      }
+    ]
+  }
+}

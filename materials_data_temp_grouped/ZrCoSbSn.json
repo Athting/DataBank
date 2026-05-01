@@ -1,0 +1,29 @@
+{
+  "Material": "ZrCoSbSn",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2019.153413",
+    "10.1039/c6tc01115b"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "p-type ZrCo1.03Sb0.8Sn0.2",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.153413"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "composite ZrCo1.05Sb0.9Sn0.1",
+        "Property": "ZT",
+        "Value": 0.56,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6tc01115b"
+      }
+    ]
+  }
+}

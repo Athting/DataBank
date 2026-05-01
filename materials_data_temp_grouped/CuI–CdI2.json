@@ -1,0 +1,18 @@
+{
+  "Material": "CuI\u2013CdI2",
+  "DOIs_Researched": [
+    "10.1016/j.tca.2011.01.018"
+  ],
+  "Data_By_Temperature": {
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "CuI\u2013CdI2",
+        "Property": "Conductivity",
+        "Value": 0.001,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tca.2011.01.018"
+      }
+    ]
+  }
+}

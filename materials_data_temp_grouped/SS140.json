@@ -1,0 +1,38 @@
+{
+  "Material": "SS140",
+  "DOIs_Researched": [
+    "10.1039/c5tc04202j"
+  ],
+  "Data_By_Temperature": {
+    "521.0": [
+      {
+        "Original_Name_In_Paper": "SS140",
+        "Property": "PF",
+        "Value": 0.000507,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc04202j"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "SS140",
+        "Property": "Conductivity",
+        "Value": 2010.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc04202j"
+      }
+    ],
+    "470.0": [
+      {
+        "Original_Name_In_Paper": "SS140",
+        "Property": "Conductivity",
+        "Value": 5800.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc04202j"
+      }
+    ]
+  }
+}

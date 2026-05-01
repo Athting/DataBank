@@ -1,0 +1,28 @@
+{
+  "Material": "BaSrDDYbFeNiSb12",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2013.03.031"
+  ],
+  "Data_By_Temperature": {
+    "623.0": [
+      {
+        "Original_Name_In_Paper": "Ba0.09Sr0.02DD0.22Yb0.02Fe2.4Ni1.6Sb12",
+        "Property": "ZT",
+        "Value": 1.02,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2013.03.031"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ba0.09Sr0.02DD0.22Yb0.02Fe2.4Ni1.6Sb12",
+        "Property": "Conductivity",
+        "Value": 133333.3333333333,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2013.03.031"
+      }
+    ]
+  }
+}

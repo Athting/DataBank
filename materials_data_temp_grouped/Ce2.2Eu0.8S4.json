@@ -1,0 +1,26 @@
+{
+  "Material": "Ce2.2Eu0.8S4",
+  "DOIs_Researched": [
+    "10.1016/S1002-0721(09)60013-2"
+  ],
+  "Data_By_Temperature": {
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "Ce2.2Eu0.8S4",
+        "Property": "PF",
+        "Value": 1.411,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S1002-0721(09)60013-2"
+      },
+      {
+        "Original_Name_In_Paper": "Ce2.2Eu0.8S4",
+        "Property": "PF",
+        "Value": 0.00014099999999999998,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S1002-0721(09)60013-2"
+      }
+    ]
+  }
+}

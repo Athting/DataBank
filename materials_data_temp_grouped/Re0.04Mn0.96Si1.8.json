@@ -1,0 +1,18 @@
+{
+  "Material": "Re0.04Mn0.96Si1.8",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2019.07.147"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Re0.04Mn0.96Si1.8",
+        "Property": "ZT",
+        "Value": 0.5700000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.07.147"
+      }
+    ]
+  }
+}

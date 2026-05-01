@@ -1,0 +1,54 @@
+{
+  "Material": "Sn0.95Ag0.05CCO3",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2016.07.093"
+  ],
+  "Data_By_Temperature": {
+    "235.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.95Ag0.05CCo3",
+        "Property": "ZT",
+        "Value": 0.045,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.07.093"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.95Ag0.05CCo3",
+        "Property": "ZT",
+        "Value": 0.045,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.07.093"
+      }
+    ],
+    "180.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.95Ag0.05CCo3",
+        "Property": "ZT",
+        "Value": 0.04,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.07.093"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.95Ag0.05CCo3",
+        "Property": "ZT",
+        "Value": 0.04,
+        "Units": null,
+        "Editing": "In addition",
+        "Source_DOI": "10.1016/j.jallcom.2016.07.093"
+      }
+    ],
+    "193.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.95Ag0.05CCo3",
+        "Property": "Seebeck",
+        "Value": 6.000000000000001e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.07.093"
+      }
+    ]
+  }
+}

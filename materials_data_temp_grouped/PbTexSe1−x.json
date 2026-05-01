@@ -1,0 +1,18 @@
+{
+  "Material": "PbTexSe1\u2212x",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2011.01.033"
+  ],
+  "Data_By_Temperature": {
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "PbTexSe1\u2212x",
+        "Property": "ZT",
+        "Value": 1.15,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2011.01.033"
+      }
+    ]
+  }
+}

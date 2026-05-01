@@ -1,0 +1,40 @@
+{
+  "Material": "LaCrO3",
+  "DOIs_Researched": [
+    "10.1039/b102987h",
+    "10.1007/s10854-017-6445-1",
+    "10.1016/j.pmatsci.2015.01.001"
+  ],
+  "Data_By_Temperature": {
+    "756.0": [
+      {
+        "Original_Name_In_Paper": "LaCrO3",
+        "Property": "Conductivity",
+        "Value": 33.00330033,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-017-6445-1"
+      }
+    ],
+    "1773.0": [
+      {
+        "Original_Name_In_Paper": "(La0.9Sr0.1)CrO3",
+        "Property": "Conductivity",
+        "Value": 1500.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/b102987h"
+      }
+    ],
+    "1273.0": [
+      {
+        "Original_Name_In_Paper": "LaCrO3",
+        "Property": "Conductivity",
+        "Value": 100.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2015.01.001"
+      }
+    ]
+  }
+}

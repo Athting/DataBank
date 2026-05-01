@@ -1,0 +1,28 @@
+{
+  "Material": "PbBiTe\u20135%AgSbSe2",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2020.154377"
+  ],
+  "Data_By_Temperature": {
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "Pb0.99Bi0.01Te\u20135 % AgSbSe2",
+        "Property": "ThermCond",
+        "Value": 0.55,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154377"
+      }
+    ],
+    "473.0": [
+      {
+        "Original_Name_In_Paper": "Pb0.99Bi0.01Te\u20135 % AgSbSe2",
+        "Property": "PF",
+        "Value": 1.0399999999999999e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154377"
+      }
+    ]
+  }
+}

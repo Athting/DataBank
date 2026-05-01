@@ -1,0 +1,142 @@
+{
+  "Material": "CuCrS2",
+  "DOIs_Researched": [
+    "10.1007/s10853-013-7220-1",
+    "10.1016/j.matchemphys.2014.01.053",
+    "10.1007/s00339-020-03715-y",
+    "10.1016/j.jssc.2011.11.040",
+    "10.1016/B978-0-08-102687-8.00002-6"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "CuCrS2",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2014.01.053"
+      },
+      {
+        "Original_Name_In_Paper": "CuCrS2",
+        "Property": "Seebeck",
+        "Value": 0.000445,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2011.11.040"
+      },
+      {
+        "Original_Name_In_Paper": "CuCrS2",
+        "Property": "Conductivity",
+        "Value": 167000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2011.11.040"
+      },
+      {
+        "Original_Name_In_Paper": "textured CuCrS2 bulk",
+        "Property": "Conductivity",
+        "Value": 16700.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-013-7220-1"
+      },
+      {
+        "Original_Name_In_Paper": "CuCrS2.00",
+        "Property": "Conductivity",
+        "Value": 1070.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-013-7220-1"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "CuCrS2",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-08-102687-8.00002-6"
+      },
+      {
+        "Original_Name_In_Paper": "textured CuCrS2 polycrystalline",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-013-7220-1"
+      },
+      {
+        "Original_Name_In_Paper": "CuCrS2",
+        "Property": "Conductivity",
+        "Value": 0.01,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2011.11.040"
+      }
+    ],
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "CuCrS2.00",
+        "Property": "ZT",
+        "Value": 0.11,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-013-7220-1"
+      },
+      {
+        "Original_Name_In_Paper": "CuCrS2 bulk",
+        "Property": "ZT",
+        "Value": 0.11,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-013-7220-1"
+      },
+      {
+        "Original_Name_In_Paper": "CuCr1-xVxS2",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-013-7220-1"
+      },
+      {
+        "Original_Name_In_Paper": "CuCrS2.00",
+        "Property": "ZT",
+        "Value": 0.11,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-013-7220-1"
+      },
+      {
+        "Original_Name_In_Paper": "CuCrS2.00",
+        "Property": "Conductivity",
+        "Value": 1017.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-013-7220-1"
+      }
+    ],
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "CuCr0.99La0.01S2",
+        "Property": "Seebeck",
+        "Value": 0.00032,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s00339-020-03715-y"
+      }
+    ],
+    "60.0": [
+      {
+        "Original_Name_In_Paper": "single-crystal CuCrS2",
+        "Property": "Conductivity",
+        "Value": 2520.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-013-7220-1"
+      }
+    ]
+  }
+}

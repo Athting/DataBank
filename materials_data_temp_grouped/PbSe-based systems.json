@@ -1,0 +1,18 @@
+{
+  "Material": "PbSe-based systems",
+  "DOIs_Researched": [
+    "10.1038/ncomms4640"
+  ],
+  "Data_By_Temperature": {
+    "830.0": [
+      {
+        "Original_Name_In_Paper": "PbSe-based systems",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/ncomms4640"
+      }
+    ]
+  }
+}

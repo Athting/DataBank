@@ -1,0 +1,18 @@
+{
+  "Material": "Sc-doped NaSICON",
+  "DOIs_Researched": [
+    "10.1039/c8ee01053f"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Sc-doped NaSICON",
+        "Property": "Conductivity",
+        "Value": 0.4,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee01053f"
+      }
+    ]
+  }
+}

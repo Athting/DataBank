@@ -1,0 +1,44 @@
+{
+  "Material": "Bi0.32Sb1.68Te3",
+  "DOIs_Researched": [
+    "10.1007/s13391-018-0094-2"
+  ],
+  "Data_By_Temperature": {
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.32Sb1.68Te3",
+        "Property": "ZT",
+        "Value": 1.23,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s13391-018-0094-2"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.32Sb1.68Te3",
+        "Property": "ZT",
+        "Value": 1.23,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s13391-018-0094-2"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.32Sb1.68Te3",
+        "Property": "ZT",
+        "Value": 1.23,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s13391-018-0094-2"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Bi0.32Sb1.68Te3",
+        "Property": "PF",
+        "Value": 482000.0,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s13391-018-0094-2"
+      }
+    ]
+  }
+}

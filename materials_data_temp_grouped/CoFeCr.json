@@ -1,0 +1,18 @@
+{
+  "Material": "CoFeCr",
+  "DOIs_Researched": [
+    "10.1016/j.jpcs.2017.09.023"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "CoFeCrZ",
+        "Property": "ThermCond",
+        "Value": 7.3,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2017.09.023"
+      }
+    ]
+  }
+}

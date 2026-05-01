@@ -1,0 +1,18 @@
+{
+  "Material": "high-Tc copper oxides",
+  "DOIs_Researched": [
+    "10.1016/j.ssc.2012.03.013"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "high-Tc copper oxides",
+        "Property": "Seebeck",
+        "Value": 0.015,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2012.03.013"
+      }
+    ]
+  }
+}

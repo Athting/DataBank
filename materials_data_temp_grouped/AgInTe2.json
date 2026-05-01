@@ -1,0 +1,94 @@
+{
+  "Material": "AgInTe2",
+  "DOIs_Researched": [
+    "10.1038/s41427-020-00247-y",
+    "10.1016/j.jssc.2013.07.027",
+    "10.1039/c4ta00072b",
+    "10.1016/j.jallcom.2019.153610",
+    "10.1038/s41598-019-55458-3"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "AgInTe2",
+        "Property": "ThermCond",
+        "Value": 2.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2013.07.027"
+      }
+    ],
+    "814.0": [
+      {
+        "Original_Name_In_Paper": "Ag1-xInTe2 compounds",
+        "Property": "ThermCond",
+        "Value": 0.1,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-019-55458-3"
+      },
+      {
+        "Original_Name_In_Paper": "pristine AgInTe2",
+        "Property": "ZT",
+        "Value": 0.62,
+        "Units": null,
+        "Editing": "In addition",
+        "Source_DOI": "10.1038/s41598-019-55458-3"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "AgInTe2",
+        "Property": "ThermCond",
+        "Value": 2.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.153610"
+      },
+      {
+        "Original_Name_In_Paper": "AgInTe2",
+        "Property": "ThermCond",
+        "Value": 2.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta00072b"
+      },
+      {
+        "Original_Name_In_Paper": "AgInTe2",
+        "Property": "Seebeck",
+        "Value": 3.6599999999999995e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": "AgInTe2 alloying",
+        "Source_DOI": "10.1038/s41427-020-00247-y"
+      }
+    ],
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "AgInTe2",
+        "Property": "ZT",
+        "Value": 0.75,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta00072b"
+      }
+    ],
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "AgInTe2",
+        "Property": "ZT",
+        "Value": 0.07,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-019-55458-3"
+      },
+      {
+        "Original_Name_In_Paper": "AgInTe2",
+        "Property": "ZT",
+        "Value": 0.06,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2013.07.027"
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "Material": "NbO2",
+  "DOIs_Researched": [
+    "10.1016/j.jeurceramsoc.2017.03.049",
+    "10.1557/jmr.2017.18",
+    "10.1016/j.physb.2015.10.001"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "NbO2",
+        "Property": "ThermCond",
+        "Value": 3.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2017.03.049"
+      },
+      {
+        "Original_Name_In_Paper": "NbO2",
+        "Property": "Conductivity",
+        "Value": 25000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1557/jmr.2017.18"
+      }
+    ],
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "amorphous NbO2",
+        "Property": "Seebeck",
+        "Value": -0.000173,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2015.10.001"
+      }
+    ],
+    "650.0": [
+      {
+        "Original_Name_In_Paper": "NbO2",
+        "Property": "Conductivity",
+        "Value": 4000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1557/jmr.2017.18"
+      }
+    ]
+  }
+}

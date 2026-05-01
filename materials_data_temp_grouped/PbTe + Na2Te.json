@@ -1,0 +1,34 @@
+{
+  "Material": "PbTe + Na2Te",
+  "DOIs_Researched": [
+    "10.1016/j.intermet.2017.09.018"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "n-type PbTe doped with 1 mol % Na2Te",
+        "Property": "ZT",
+        "Value": 0.81,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2017.09.018"
+      },
+      {
+        "Original_Name_In_Paper": "PbTe doped with 1 mol % Na2Te",
+        "Property": "ZT",
+        "Value": 0.81,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2017.09.018"
+      },
+      {
+        "Original_Name_In_Paper": "n-type PbTe doped with 1 mol % Na2Te",
+        "Property": "ZT",
+        "Value": 0.81,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2017.09.018"
+      }
+    ]
+  }
+}

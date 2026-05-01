@@ -1,0 +1,37 @@
+{
+  "Material": "Ce0.6Yb0.4Fe3CoSb12",
+  "DOIs_Researched": [
+    "10.3938/jkps.77.667",
+    "10.1016/j.scriptamat.2016.01.035"
+  ],
+  "Data_By_Temperature": {
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "Ce0.6Yb0.4Fe3CoSb12",
+        "Property": "ThermCond",
+        "Value": 2.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.3938/jkps.77.667"
+      },
+      {
+        "Original_Name_In_Paper": "Ce0.6Yb0.4Fe3CoSb12",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.3938/jkps.77.667"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Ce0.6Yb0.4Fe3CoSb12",
+        "Property": "ZT",
+        "Value": 1.02,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2016.01.035"
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "Material": "Mg2(Si0.2Ge0.1Sn0.7)Sb0",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2018.12.052"
+  ],
+  "Data_By_Temperature": {
+    "580.0": [
+      {
+        "Original_Name_In_Paper": "Mg2(Si0.2Ge0.1Sn0.7)0.99Sb0.01",
+        "Property": "ThermCond",
+        "Value": 1.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2018.12.052"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Mg2(Si0.2Ge0.1Sn0.7)0.99Sb0.01",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": "point defect",
+        "Source_DOI": "10.1016/j.jssc.2018.12.052"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2(Si0.2Ge0.1Sn0.7)0.99Sb0.01",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2018.12.052"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2(Si0.2Ge0.1Sn0.7)0.99Sb0.01",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2018.12.052"
+      }
+    ]
+  }
+}

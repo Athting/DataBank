@@ -1,0 +1,18 @@
+{
+  "Material": "PbSe-Al",
+  "DOIs_Researched": [
+    "10.1038/ncomms4640"
+  ],
+  "Data_By_Temperature": {
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "PbSe-Al",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/ncomms4640"
+      }
+    ]
+  }
+}

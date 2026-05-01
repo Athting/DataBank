@@ -1,0 +1,18 @@
+{
+  "Material": "I. C. H. (C2H5N) (I) + AgI",
+  "DOIs_Researched": [
+    "10.1016/S0921-4526(02)01082-7"
+  ],
+  "Data_By_Temperature": {
+    "295.0": [
+      {
+        "Original_Name_In_Paper": "Dimethylpyrrolidinim iodide+n AgI",
+        "Property": "Conductivity",
+        "Value": 6.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0921-4526(02)01082-7"
+      }
+    ]
+  }
+}

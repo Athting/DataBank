@@ -1,0 +1,18 @@
+{
+  "Material": "Sn0.954In0.027I0.06Te",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2017.10.021"
+  ],
+  "Data_By_Temperature": {
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.954In0.027I0.06Te",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2017.10.021"
+      }
+    ]
+  }
+}

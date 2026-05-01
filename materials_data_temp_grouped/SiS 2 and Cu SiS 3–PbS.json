@@ -1,0 +1,18 @@
+{
+  "Material": "SiS 2 and Cu SiS 3\u2013PbS",
+  "DOIs_Researched": [
+    "10.1016/S0925-8388(05)01104-7"
+  ],
+  "Data_By_Temperature": {
+    "753.0": [
+      {
+        "Original_Name_In_Paper": "SiS 2 and Cu 2 SiS 3\u2013PbS",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(05)01104-7"
+      }
+    ]
+  }
+}

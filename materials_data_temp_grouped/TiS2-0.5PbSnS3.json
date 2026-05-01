@@ -1,0 +1,28 @@
+{
+  "Material": "TiS2-0.5PbSnS3",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2016.12.088"
+  ],
+  "Data_By_Temperature": {
+    "350.0": [
+      {
+        "Original_Name_In_Paper": "TiS2-0.5PbSnS3",
+        "Property": "ThermCond",
+        "Value": 2.64,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.12.088"
+      }
+    ],
+    "650.0": [
+      {
+        "Original_Name_In_Paper": "TiS2-0.5PbSnS3",
+        "Property": "ZT",
+        "Value": 0.44,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.12.088"
+      }
+    ]
+  }
+}

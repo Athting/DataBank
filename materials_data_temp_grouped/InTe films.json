@@ -1,0 +1,18 @@
+{
+  "Material": "InTe films",
+  "DOIs_Researched": [
+    "10.1016/j.spmi.2019.03.007"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "InTe films",
+        "Property": "Conductivity",
+        "Value": 1561.2,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.spmi.2019.03.007"
+      }
+    ]
+  }
+}

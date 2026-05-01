@@ -1,0 +1,60 @@
+{
+  "Material": "Bi0.7Yb0.3CuSeO",
+  "DOIs_Researched": [
+    "10.1039/c8tc02700e"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.7Yb0.3CuSeO",
+        "Property": "ThermCond",
+        "Value": 0.31,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8tc02700e"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.7Yb0.3CuSeO",
+        "Property": "ZT",
+        "Value": 0.62,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8tc02700e"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.7Yb0.3CuSeO",
+        "Property": "ZT",
+        "Value": 0.62,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8tc02700e"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.7Yb0.3CuSeO",
+        "Property": "PF",
+        "Value": 0.00028000000000000003,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8tc02700e"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.7Yb0.3CuSeO",
+        "Property": "Conductivity",
+        "Value": 5700.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": "Yb doping",
+        "Source_DOI": "10.1039/c8tc02700e"
+      }
+    ],
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.7Yb0.3CuSeO",
+        "Property": "ZT",
+        "Value": 0.62,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8tc02700e"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Cu2CdSnTe4",
+  "DOIs_Researched": [
+    "10.1016/j.materresbull.2016.03.001"
+  ],
+  "Data_By_Temperature": {
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "Cu2CdSnTe4",
+        "Property": "Seebeck",
+        "Value": 0.000251,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2016.03.001"
+      }
+    ]
+  }
+}

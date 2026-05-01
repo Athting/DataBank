@@ -1,0 +1,35 @@
+{
+  "Material": "Bi/Te",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2017.10.062",
+    "10.1016/j.nanoen.2017.01.017"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Bi / Te",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2017.10.062"
+      },
+      {
+        "Original_Name_In_Paper": "Bi / Te",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2017.01.017"
+      },
+      {
+        "Original_Name_In_Paper": "Bi / Te",
+        "Property": "PF",
+        "Value": 0.004216,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2017.10.062"
+      }
+    ]
+  }
+}

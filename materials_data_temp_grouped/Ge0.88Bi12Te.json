@@ -1,0 +1,18 @@
+{
+  "Material": "Ge0.88Bi12Te",
+  "DOIs_Researched": [
+    "10.1038/s41598-019-45071-9"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ge0.88Bi0.12Te",
+        "Property": "ThermCond",
+        "Value": 1.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-019-45071-9"
+      }
+    ]
+  }
+}

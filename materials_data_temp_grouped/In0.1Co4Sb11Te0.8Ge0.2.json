@@ -1,0 +1,18 @@
+{
+  "Material": "In0.1Co4Sb11Te0.8Ge0.2",
+  "DOIs_Researched": [
+    "10.1016/j.scriptamat.2015.04.023"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "In0.1Co4sb11Te0.8Ge0.2",
+        "Property": "ZT",
+        "Value": 1.12,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2015.04.023"
+      }
+    ]
+  }
+}

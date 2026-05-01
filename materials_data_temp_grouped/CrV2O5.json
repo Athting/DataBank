@@ -1,0 +1,18 @@
+{
+  "Material": "CrV2O5",
+  "DOIs_Researched": [
+    "10.1039/c3ta15168a"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "CrV2O5 thin films",
+        "Property": "ZT",
+        "Value": 0.16,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta15168a"
+      }
+    ]
+  }
+}

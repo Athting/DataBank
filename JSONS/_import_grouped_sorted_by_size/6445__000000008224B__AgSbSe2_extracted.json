@@ -1,0 +1,304 @@
+{
+  "doi": "10.1039/c6tc00893c",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "AgSbSe2",
+        "AgSbSe2–ZnSe ( 2 % )",
+        "AgSb0.9925Se2",
+        "pristine AgSbSe2",
+        "Pb-doped AgSbSe2",
+        "AgSb1−xSe2",
+        "Sb deficient AgSb0.9925Se2",
+        "AgSb0.99Sn0.01Se2",
+        "Cd-doped AgSbSe2",
+        "AgSb0.98Bi0.02Se2 nanomaterials",
+        "Bi-doped AgSbSe2 nanocrystals",
+        "Pristine AgSbSe2",
+        "p-type AgSbSe2"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "pristine AgSbSe2",
+          "value": 0.00031,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "AgSbSe2",
+          "value": 0.00075,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine AgSbSe2",
+          "value": 0.00031,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine AgSbSe2",
+          "value": 0.00031,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine AgSbSe2",
+          "value": 0.000164,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "AgSbSe2",
+          "value": 0.000355,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "323.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "AgSbSe2",
+          "value": 12658.2278481013,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "AgSb0.9925Se2",
+          "value": 8600,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine AgSbSe2",
+          "value": 2600,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "AgSbSe2",
+          "value": 1380,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "AgSbSe2",
+          "value": 0.30000000000000004,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "AgSbSe2",
+          "value": 0.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "AgSbSe2–ZnSe ( 2 % )",
+          "value": 0.34,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "AgSb0.9925Se2",
+          "value": 0.44,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "AgSb0.9925Se2",
+          "value": 0.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "AgSbSe2",
+          "value": 0.75,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine AgSbSe2",
+          "value": 0.36,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "AgSbSe2–ZnSe ( 2 % )",
+          "value": 0.30000000000000004,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Pb-doped AgSbSe2",
+          "value": 0.35000000000000003,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "AgSbSe2",
+          "value": 0.48,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "AgSbSe2",
+          "value": 0.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "AgSb0.9925Se2",
+          "value": 0.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "610.0 K"
+        },
+        {
+          "material": "AgSb0.99Sn0.01Se2",
+          "value": 0.29,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "673.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "AgSb0.9925Se2",
+          "value": 0.00047000000000000004,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "AgSb1−xSe2",
+          "value": 0.6940000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "610.0 K"
+        },
+        {
+          "material": "AgSb1−xSe2",
+          "value": 0.000694,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "610.0 K"
+        },
+        {
+          "material": "AgSbSe2",
+          "value": 0.000437,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "590.0 K"
+        },
+        {
+          "material": "AgSbSe2",
+          "value": 0.0007400000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "580.0 K"
+        },
+        {
+          "material": "pristine AgSbSe2",
+          "value": 0.00025,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "608.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "AgSb1−xSe2",
+          "zt_value": 1,
+          "temperature": "610.0 K"
+        },
+        {
+          "material": "AgSb0.9925Se2",
+          "zt_value": 1,
+          "temperature": "610.0 K"
+        },
+        {
+          "material": "AgSb0.9925Se2",
+          "zt_value": 1,
+          "temperature": "610.0 K"
+        },
+        {
+          "material": "AgSb0.9925Se2",
+          "zt_value": 1,
+          "temperature": "610.0 K"
+        },
+        {
+          "material": "Sb deficient AgSb0.9925Se2",
+          "zt_value": 1,
+          "temperature": "610.0 K"
+        },
+        {
+          "material": "AgSbSe2",
+          "zt_value": 0.21,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "Cd-doped AgSbSe2",
+          "zt_value": 1,
+          "temperature": "640.0 K"
+        },
+        {
+          "material": "AgSb0.98Bi0.02Se2 nanomaterials",
+          "zt_value": 1.1,
+          "temperature": "640.0 K"
+        },
+        {
+          "material": "Bi-doped AgSbSe2 nanocrystals",
+          "zt_value": 1.1,
+          "temperature": "640.0 K"
+        },
+        {
+          "material": "AgSb0.99Sn0.01Se2",
+          "zt_value": 1.21,
+          "temperature": "660.0 K"
+        },
+        {
+          "material": "AgSbSe2",
+          "zt_value": 1.21,
+          "temperature": "660.0 K"
+        },
+        {
+          "material": "AgSb0.99Sn0.01Se2",
+          "zt_value": 1.21,
+          "temperature": "660.0 K"
+        },
+        {
+          "material": "Pristine AgSbSe2",
+          "zt_value": 0.6000000000000001,
+          "temperature": "623.0 K"
+        },
+        {
+          "material": "AgSbSe2–ZnSe ( 2 % )",
+          "zt_value": 1.1,
+          "temperature": "635.0 K"
+        },
+        {
+          "material": "p-type AgSbSe2",
+          "zt_value": 1.15,
+          "temperature": "680.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

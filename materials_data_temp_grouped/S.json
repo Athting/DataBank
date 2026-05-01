@@ -1,0 +1,18 @@
+{
+  "Material": "S",
+  "DOIs_Researched": [
+    "10.1557/jmr.2011.91"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "14\u00b710^4 S",
+        "Property": "ZT",
+        "Value": 1.35,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1557/jmr.2011.91"
+      }
+    ]
+  }
+}

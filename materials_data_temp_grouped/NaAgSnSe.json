@@ -1,0 +1,60 @@
+{
+  "Material": "NaAgSnSe",
+  "DOIs_Researched": [
+    "10.1039/c9ra00566h"
+  ],
+  "Data_By_Temperature": {
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "Na0.005Ag0.015Sn0.98Se",
+        "Property": "ThermCond",
+        "Value": 0.48,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ra00566h"
+      },
+      {
+        "Original_Name_In_Paper": "Na0.005Ag0.015Sn0.98Se",
+        "Property": "ZT",
+        "Value": 0.81,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ra00566h"
+      },
+      {
+        "Original_Name_In_Paper": "Na0.005Ag0.015Sn0.98Se",
+        "Property": "Seebeck",
+        "Value": 0.000335,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ra00566h"
+      },
+      {
+        "Original_Name_In_Paper": "Na0.005Ag0.015Sn0.98Se",
+        "Property": "PF",
+        "Value": 0.05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ra00566h"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Na0.005Ag0.015Sn0.98Se",
+        "Property": "ZT",
+        "Value": 0.81,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ra00566h"
+      },
+      {
+        "Original_Name_In_Paper": "Na0.005Ag0.015Sn0.98Se",
+        "Property": "PF",
+        "Value": 0.05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ra00566h"
+      }
+    ]
+  }
+}

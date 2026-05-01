@@ -1,0 +1,141 @@
+{
+  "Material": "Tl9LaTe6",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2015.01.025",
+    "10.1039/c0dt01151g"
+  ],
+  "Data_By_Temperature": {
+    "325.0": [
+      {
+        "Original_Name_In_Paper": "Tl9LaTe6",
+        "Property": "ThermCond",
+        "Value": 0.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.01.025"
+      }
+    ],
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "Tl9LaTe6",
+        "Property": "ThermCond",
+        "Value": 0.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.01.025"
+      },
+      {
+        "Original_Name_In_Paper": "Tl9LaTe6",
+        "Property": "ZT",
+        "Value": 0.5700000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.01.025"
+      },
+      {
+        "Original_Name_In_Paper": "Tl9LaTe6",
+        "Property": "ZT",
+        "Value": 0.5700000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.01.025"
+      },
+      {
+        "Original_Name_In_Paper": "Tl9LaTe6",
+        "Property": "ZT",
+        "Value": 0.5700000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.01.025"
+      }
+    ],
+    "550.0": [
+      {
+        "Original_Name_In_Paper": "Tl9LaTe6",
+        "Property": "ThermCond",
+        "Value": 0.33,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.01.025"
+      },
+      {
+        "Original_Name_In_Paper": "Tl9LaTe6",
+        "Property": "ZT",
+        "Value": 0.22,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.01.025"
+      },
+      {
+        "Original_Name_In_Paper": "Tl9LaTe6",
+        "Property": "ZT",
+        "Value": 0.51,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.01.025"
+      },
+      {
+        "Original_Name_In_Paper": "Tl9LaTe6",
+        "Property": "PF",
+        "Value": 0.00031,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.01.025"
+      }
+    ],
+    "580.0": [
+      {
+        "Original_Name_In_Paper": "Tl9LaTe6",
+        "Property": "ZT",
+        "Value": 0.21,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c0dt01151g"
+      },
+      {
+        "Original_Name_In_Paper": "Tl9LaTe6",
+        "Property": "ZT",
+        "Value": 0.21,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c0dt01151g"
+      }
+    ],
+    "315.0": [
+      {
+        "Original_Name_In_Paper": "Tl9LaTe6",
+        "Property": "Seebeck",
+        "Value": 0.000125,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.01.025"
+      },
+      {
+        "Original_Name_In_Paper": "Tl9LaTe6",
+        "Property": "Conductivity",
+        "Value": 19000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.01.025"
+      },
+      {
+        "Original_Name_In_Paper": "Tl9LaTe6",
+        "Property": "Conductivity",
+        "Value": 19500.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.01.025"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Tl9LaTe6",
+        "Property": "Conductivity",
+        "Value": 29000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c0dt01151g"
+      }
+    ]
+  }
+}

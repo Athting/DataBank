@@ -1,0 +1,26 @@
+{
+  "Material": "Sn0.882Cu0.118Se",
+  "DOIs_Researched": [
+    "10.1039/c8sc02397b"
+  ],
+  "Data_By_Temperature": {
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.882Cu0.118Se pellet",
+        "Property": "ThermCond",
+        "Value": 0.32,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8sc02397b"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.882Cu0.118Se pellet",
+        "Property": "PF",
+        "Value": 0.000557,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8sc02397b"
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "doi": "10.1007/s11434-014-0237-2",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Mg2Si0.6Ge0.4",
+        "Ag-doped Mg2Si0.6Ge0.4",
+        "p-type Mg2Si0.6Ge0.4 compounds doped with Ag",
+        "Sb-doped Mg2Si0.6Ge0.4",
+        "5 at. % Ag doped Mg2Si0.6Ge0.4"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Mg2Si0.6Ge0.4",
+          "zt_value": 0.36,
+          "temperature": "625.0 K"
+        },
+        {
+          "material": "Mg2Si0.6Ge0.4",
+          "zt_value": 0.36,
+          "temperature": "625.0 K"
+        },
+        {
+          "material": "Mg2Si0.6Ge0.4",
+          "zt_value": 0.36,
+          "temperature": "625.0 K"
+        },
+        {
+          "material": "Ag-doped Mg2Si0.6Ge0.4",
+          "zt_value": 1.6800000000000002,
+          "temperature": "629.0 K"
+        },
+        {
+          "material": "p-type Mg2Si0.6Ge0.4 compounds doped with Ag",
+          "zt_value": 1.6800000000000002,
+          "temperature": "629.0 K"
+        },
+        {
+          "material": "Mg2Si0.6Ge0.4",
+          "zt_value": 0.67,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "Mg2Si0.6Ge0.4",
+          "zt_value": 0.67,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "Mg2Si0.6Ge0.4",
+          "zt_value": 0.67,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "Sb-doped Mg2Si0.6Ge0.4",
+          "zt_value": 1.07,
+          "temperature": "663.0 K"
+        },
+        {
+          "material": "5 at. % Ag doped Mg2Si0.6Ge0.4",
+          "zt_value": 0.18,
+          "temperature": "844.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

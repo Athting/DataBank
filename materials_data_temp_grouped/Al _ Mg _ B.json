@@ -1,0 +1,18 @@
+{
+  "Material": "Al : Mg : B",
+  "DOIs_Researched": [
+    "10.1016/j.jpcs.2014.04.009"
+  ],
+  "Data_By_Temperature": {
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "Al : Mg : B",
+        "Property": "Seebeck",
+        "Value": -0.0005200000000000001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2014.04.009"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "p-type nanostructured PbTe based",
+  "DOIs_Researched": [
+    "10.1038/s41598-017-16372-8"
+  ],
+  "Data_By_Temperature": {
+    "810.0": [
+      {
+        "Original_Name_In_Paper": "p-type nanostructured PbTe based",
+        "Property": "ZT",
+        "Value": 1.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-017-16372-8"
+      }
+    ]
+  }
+}

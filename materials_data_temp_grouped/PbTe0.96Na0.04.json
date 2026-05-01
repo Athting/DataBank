@@ -1,0 +1,56 @@
+{
+  "Material": "PbTe0.96Na0.04",
+  "DOIs_Researched": [
+    "10.1016/j.joule.2018.04.025"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Pb0.960Na0.040Te",
+        "Property": "ThermCond",
+        "Value": 4.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2018.04.025"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.960Na0.040Te",
+        "Property": "Seebeck",
+        "Value": 7.000000000000001e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2018.04.025"
+      }
+    ],
+    "810.0": [
+      {
+        "Original_Name_In_Paper": "Pb0.960Na0.040Te",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2018.04.025"
+      }
+    ],
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "Pb0.960Na0.040Te",
+        "Property": "Conductivity",
+        "Value": 41666.6666666667,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2018.04.025"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Pb0.960Na0.040Te",
+        "Property": "PF",
+        "Value": 0.003,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2018.04.025"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "(Zr0.7Hf0.3)0.7Ti0.3",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2004.03.128"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "(Zr0.7Hf0.3)0.7Ti0.3NiSn",
+        "Property": "ZT",
+        "Value": 0.32,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2004.03.128"
+      }
+    ]
+  }
+}

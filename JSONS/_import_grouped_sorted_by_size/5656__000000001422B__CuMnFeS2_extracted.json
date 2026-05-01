@@ -1,0 +1,64 @@
+{
+  "doi": "10.1039/c6ra10046e",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Cu0.97Mn0.03FeS2",
+        "Cu0.96Mn0.04FeS2",
+        "Cu0.95Mn0.05FeS2"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Cu0.97Mn0.03FeS2",
+          "value": 2.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "623.0 K"
+        },
+        {
+          "material": "Cu0.95Mn0.05FeS2",
+          "value": 1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "673.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Cu0.97Mn0.03FeS2",
+          "zt_value": 0.2,
+          "temperature": "623.0 K"
+        },
+        {
+          "material": "Cu0.96Mn0.04FeS2",
+          "zt_value": 0.17,
+          "temperature": "623.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

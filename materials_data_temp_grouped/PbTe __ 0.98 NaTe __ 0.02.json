@@ -1,0 +1,18 @@
+{
+  "Material": "PbTe \\* 0.98 NaTe \\* 0.02",
+  "DOIs_Researched": [
+    "10.1038/ncomms12167"
+  ],
+  "Data_By_Temperature": {
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "Pb0.98Na0.02Te\u2013x % SrTe",
+        "Property": "ZT",
+        "Value": 2.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/ncomms12167"
+      }
+    ]
+  }
+}

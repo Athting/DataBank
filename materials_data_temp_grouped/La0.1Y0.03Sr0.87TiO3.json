@@ -1,0 +1,18 @@
+{
+  "Material": "La0.1Y0.03Sr0.87TiO3",
+  "DOIs_Researched": [
+    "10.1007/s10853-011-5466-z"
+  ],
+  "Data_By_Temperature": {
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "La0.1Y0.03Sr0.87TiO3",
+        "Property": "PF",
+        "Value": 0.0011,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-011-5466-z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "doi": "10.1039/c4dt03556a",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "CuAgSe",
+        "(Cu0.99Ag0.01)2Se",
+        "(Cu0.93Ag0.07)2Se",
+        "α-CuAgSe",
+        "CuAgSe-W",
+        "pure CuAgSe",
+        "β-CuAgSe",
+        "pristine CuAgSe"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "CuAgSe-W",
+          "value": -0.0000987,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "321.0 K"
+        },
+        {
+          "material": "β-CuAgSe",
+          "value": -0.00005,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "pristine CuAgSe",
+          "value": -0.000096,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "CuAgSe",
+          "value": -0.0001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "470.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "CuAgSe",
+          "value": 71500,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "(Cu0.99Ag0.01)2Se",
+          "value": 13300,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "(Cu0.93Ag0.07)2Se",
+          "value": 9100,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "CuAgSe",
+          "value": 175438.596491228,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "CuAgSe-W",
+          "value": 0.0000106,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "320.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "(Cu0.99Ag0.01)2Se",
+          "value": 0.42,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "(Cu0.93Ag0.07)2Se",
+          "value": 0.23,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "CuAgSe",
+          "value": 0.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "500.0 K"
+        },
+        {
+          "material": "CuAgSe",
+          "value": 0.47000000000000003,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "923.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "CuAgSe",
+          "zt_value": 0.9500000000000001,
+          "temperature": "295 K"
+        },
+        {
+          "material": "(Cu0.99Ag0.01)2Se",
+          "zt_value": 0.9,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "CuAgSe",
+          "zt_value": 0.47000000000000003,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "CuAgSe",
+          "zt_value": 1,
+          "temperature": "623.0 K"
+        },
+        {
+          "material": "α-CuAgSe",
+          "zt_value": 0.8,
+          "temperature": "623.0 K"
+        },
+        {
+          "material": "CuAgSe",
+          "zt_value": 0.55,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "CuAgSe-W",
+          "zt_value": 0.31,
+          "temperature": "321.0 K"
+        },
+        {
+          "material": "CuAgSe-W",
+          "zt_value": 0.68,
+          "temperature": "566.0 K"
+        },
+        {
+          "material": "CuAgSe",
+          "zt_value": 0.9,
+          "temperature": "625.0 K"
+        },
+        {
+          "material": "CuAgSe",
+          "zt_value": 0.6000000000000001,
+          "temperature": "450.0 K"
+        },
+        {
+          "material": "pure CuAgSe",
+          "zt_value": 0.6000000000000001,
+          "temperature": "450.0 K"
+        },
+        {
+          "material": "CuAgSe",
+          "zt_value": 0.6000000000000001,
+          "temperature": "450.0 K"
+        },
+        {
+          "material": "CuAgSe",
+          "zt_value": 0.15,
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

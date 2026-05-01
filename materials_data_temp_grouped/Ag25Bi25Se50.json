@@ -1,0 +1,60 @@
+{
+  "Material": "Ag25Bi25Se50",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2017.09.029"
+  ],
+  "Data_By_Temperature": {
+    "748.0": [
+      {
+        "Original_Name_In_Paper": "Ag25Bi25Se50",
+        "Property": "ThermCond",
+        "Value": 0.7000000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2017.09.029"
+      },
+      {
+        "Original_Name_In_Paper": "Ag25Bi25Se50",
+        "Property": "ZT",
+        "Value": 0.75,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2017.09.029"
+      },
+      {
+        "Original_Name_In_Paper": "Ag25Bi25Se50",
+        "Property": "ZT",
+        "Value": 0.75,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2017.09.029"
+      },
+      {
+        "Original_Name_In_Paper": "Ag25Bi25Se50",
+        "Property": "ZT",
+        "Value": 0.75,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2017.09.029"
+      },
+      {
+        "Original_Name_In_Paper": "Ag25Bi25Se50",
+        "Property": "ZT",
+        "Value": 0.75,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2017.09.029"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ag25Bi25Se50",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2017.09.029"
+      }
+    ]
+  }
+}

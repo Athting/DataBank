@@ -1,0 +1,61 @@
+{
+  "Material": "(GeTe)0.82(PbTe)0.18",
+  "DOIs_Researched": [
+    "10.1039/c6tc02501c",
+    "10.1016/j.solidstatesciences.2010.11.045"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "(GeTe)0.82(PbTe)0.18",
+        "Property": "ThermCond",
+        "Value": 2.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2010.11.045"
+      }
+    ],
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "(GeTe)0.82(PbTe)0.18",
+        "Property": "ZT",
+        "Value": 0.81,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6tc02501c"
+      },
+      {
+        "Original_Name_In_Paper": "(GeTe)0.82(PbTe)0.18",
+        "Property": "ZT",
+        "Value": 0.81,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6tc02501c"
+      },
+      {
+        "Original_Name_In_Paper": "(GeTe)0.82(PbTe)0.18",
+        "Property": "ZT",
+        "Value": 0.81,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2010.11.045"
+      },
+      {
+        "Original_Name_In_Paper": "(GeTe)0.82(PbTe)0.18",
+        "Property": "ZT",
+        "Value": 0.81,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2010.11.045"
+      },
+      {
+        "Original_Name_In_Paper": "(GeTe)0.82(PbTe)0.18",
+        "Property": "ZT",
+        "Value": 0.81,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2010.11.045"
+      }
+    ]
+  }
+}

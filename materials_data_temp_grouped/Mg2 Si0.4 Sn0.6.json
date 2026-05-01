@@ -1,0 +1,28 @@
+{
+  "Material": "Mg2 Si0.4 Sn0.6",
+  "DOIs_Researched": [
+    "10.1016/j.mtener.2017.04.002"
+  ],
+  "Data_By_Temperature": {
+    "690.0": [
+      {
+        "Original_Name_In_Paper": "Mg2 Si0.4Sn0.6",
+        "Property": "ZT",
+        "Value": 0.45,
+        "Units": null,
+        "Editing": "5 % Ag doping",
+        "Source_DOI": "10.1016/j.mtener.2017.04.002"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Mg2 Si0.4Sn0.6",
+        "Property": "PF",
+        "Value": 0.002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": "5 % Ag doping",
+        "Source_DOI": "10.1016/j.mtener.2017.04.002"
+      }
+    ]
+  }
+}

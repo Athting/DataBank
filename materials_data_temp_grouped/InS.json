@@ -1,0 +1,18 @@
+{
+  "Material": "InS",
+  "DOIs_Researched": [
+    "10.1038/s41598-020-57644-0"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "InS",
+        "Property": "ThermCond",
+        "Value": 57.09,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-020-57644-0"
+      }
+    ]
+  }
+}

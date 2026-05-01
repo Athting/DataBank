@@ -1,0 +1,26 @@
+{
+  "Material": "Mg2Si0.7Ge0.3Bi0.02",
+  "DOIs_Researched": [
+    "10.3938/jkps.65.57"
+  ],
+  "Data_By_Temperature": {
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Si0.7Ge0.3Bi0.02",
+        "Property": "ThermCond",
+        "Value": 2.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.3938/jkps.65.57"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si0.7Ge0.3Bi0.02",
+        "Property": "ZT",
+        "Value": 0.79,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.3938/jkps.65.57"
+      }
+    ]
+  }
+}

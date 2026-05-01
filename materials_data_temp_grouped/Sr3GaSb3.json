@@ -1,0 +1,18 @@
+{
+  "Material": "Sr3GaSb3",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2018.11.030"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "Zn-doped Sr3GaSb3",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2018.11.030"
+      }
+    ]
+  }
+}

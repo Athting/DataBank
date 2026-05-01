@@ -1,0 +1,18 @@
+{
+  "Material": "doped CBTS",
+  "DOIs_Researched": [
+    "10.1016/j.physb.2017.05.007"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "doped CBTS",
+        "Property": "PF",
+        "Value": 0.0034600000000000004,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2017.05.007"
+      }
+    ]
+  }
+}

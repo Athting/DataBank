@@ -1,0 +1,18 @@
+{
+  "Material": "Bi0.9Ag0.1CuSeO",
+  "DOIs_Researched": [
+    "10.1016/j.jeurceramsoc.2014.09.015"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.9Ag0.1CuSeO",
+        "Property": "Seebeck",
+        "Value": 0.000153,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": "Ag doping",
+        "Source_DOI": "10.1016/j.jeurceramsoc.2014.09.015"
+      }
+    ]
+  }
+}

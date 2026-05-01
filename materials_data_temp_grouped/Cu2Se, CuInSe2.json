@@ -1,0 +1,36 @@
+{
+  "Material": "Cu2Se, CuInSe2",
+  "DOIs_Researched": [
+    "10.1016/j.jmat.2018.07.001",
+    "10.1016/j.mser.2018.09.001",
+    "10.1039/c7ee01193h"
+  ],
+  "Data_By_Temperature": {
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "Cu2Se / CuInSe2 nanocomposites",
+        "Property": "ZT",
+        "Value": 2.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mser.2018.09.001"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2Se / CuInSe2 nanocomposites",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ee01193h"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2Se / CuInSe2 composites",
+        "Property": "ZT",
+        "Value": 2.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2018.07.001"
+      }
+    ]
+  }
+}

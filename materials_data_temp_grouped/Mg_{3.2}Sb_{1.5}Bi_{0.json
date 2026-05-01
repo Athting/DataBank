@@ -1,0 +1,38 @@
+{
+  "Material": "Mg_{3.2}Sb_{1.5}Bi_{0",
+  "DOIs_Researched": [
+    "10.1039/c8ta07285j",
+    "10.1016/j.mtphys.2018.11.004",
+    "10.1016/j.mtphys.2018.12.004"
+  ],
+  "Data_By_Temperature": {
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "n-type Mg3.2Sb1.5Bi0.49Te0.01",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2018.12.004"
+      }
+    ],
+    "716.0": [
+      {
+        "Original_Name_In_Paper": "n-type Mg3.2Sb1.5Bi0.49Te0.01",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2018.11.004"
+      },
+      {
+        "Original_Name_In_Paper": "n-type Mg3.2Sb1.5Bi0.49Te0.01",
+        "Property": "ZT",
+        "Value": 1.51,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta07285j"
+      }
+    ]
+  }
+}

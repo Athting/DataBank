@@ -1,0 +1,18 @@
+{
+  "Material": "nanostructured PbTe-based system",
+  "DOIs_Researched": [
+    "10.1038/s41598-018-30450-5"
+  ],
+  "Data_By_Temperature": {
+    "915.0": [
+      {
+        "Original_Name_In_Paper": "nanostructured PbTe-based system",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-018-30450-5"
+      }
+    ]
+  }
+}

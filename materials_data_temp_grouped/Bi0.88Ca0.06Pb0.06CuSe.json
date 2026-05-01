@@ -1,0 +1,54 @@
+{
+  "Material": "Bi0.88Ca0.06Pb0.06CuSe",
+  "DOIs_Researched": [
+    "10.1016/j.mssp.2020.105292",
+    "10.1007/s10854-020-04675-y",
+    "10.1016/j.ceramint.2019.02.003",
+    "10.1186/s11671-018-2752-6",
+    "10.1016/j.apsusc.2016.10.209"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.88Ca0.06Pb0.06CuSeO",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-020-04675-y"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.88Ca0.06Pb0.06CuSeO",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2019.02.003"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.88Ca0.06Pb0.06CuSe",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1186/s11671-018-2752-6"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.88Ca0.06Pb0.06CuSeO",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2020.105292"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.88Ca0.06Pb0.06CuSeO",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2016.10.209"
+      }
+    ]
+  }
+}

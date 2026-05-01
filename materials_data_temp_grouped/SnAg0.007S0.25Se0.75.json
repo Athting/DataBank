@@ -1,0 +1,52 @@
+{
+  "Material": "SnAg0.007S0.25Se0.75",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2019.104393"
+  ],
+  "Data_By_Temperature": {
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.978Ag0.007S0.25Se0.75",
+        "Property": "ThermCond",
+        "Value": 0.25,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2019.104393"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.978Ag0.007S0.25Se0.75",
+        "Property": "ZT",
+        "Value": 1.75,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2019.104393"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.978Ag0.007S0.25Se0.75",
+        "Property": "ZT",
+        "Value": 1.75,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2019.104393"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.978Ag0.007S0.25Se0.75",
+        "Property": "ZT",
+        "Value": 1.63,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2019.104393"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Sn0.978Ag0.007S0.25Se0.75",
+        "Property": "Conductivity",
+        "Value": 22.7,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2019.104393"
+      }
+    ]
+  }
+}

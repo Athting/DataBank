@@ -1,0 +1,18 @@
+{
+  "Material": "Bi2.2Te3",
+  "DOIs_Researched": [
+    "10.1016/j.materresbull.2014.04.046"
+  ],
+  "Data_By_Temperature": {
+    "348.0": [
+      {
+        "Original_Name_In_Paper": "(Bi0.2Sb0.8)2Te3 nanocomposite",
+        "Property": "ZT",
+        "Value": 1.47,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2014.04.046"
+      }
+    ]
+  }
+}

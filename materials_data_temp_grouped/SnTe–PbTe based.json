@@ -1,0 +1,18 @@
+{
+  "Material": "SnTe\u2013PbTe based",
+  "DOIs_Researched": [
+    "10.1016/j.jpowsour.2020.227983"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "SnTe\u2013PbTe based",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpowsour.2020.227983"
+      }
+    ]
+  }
+}

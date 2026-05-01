@@ -1,0 +1,37 @@
+{
+  "Material": "Iron(III) oxide: Fe2O3",
+  "DOIs_Researched": [
+    "10.1016/j.materresbull.2013.10.042",
+    "10.1007/s11664-017-5366-3"
+  ],
+  "Data_By_Temperature": {
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "iron oxide",
+        "Property": "ZT",
+        "Value": 0.024,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-017-5366-3"
+      },
+      {
+        "Original_Name_In_Paper": "iron oxide",
+        "Property": "PF",
+        "Value": 2e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-017-5366-3"
+      }
+    ],
+    "290.0": [
+      {
+        "Original_Name_In_Paper": "iron oxide films",
+        "Property": "Seebeck",
+        "Value": 0.008700000000000001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2013.10.042"
+      }
+    ]
+  }
+}

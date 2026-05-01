@@ -1,0 +1,18 @@
+{
+  "Material": "GaAs.005Ge.995",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2019.05.016"
+  ],
+  "Data_By_Temperature": {
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "Ga0.005Ge0.995As",
+        "Property": "ZT",
+        "Value": 0.21,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2019.05.016"
+      }
+    ]
+  }
+}

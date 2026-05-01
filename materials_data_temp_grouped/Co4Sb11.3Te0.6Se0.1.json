@@ -1,0 +1,37 @@
+{
+  "Material": "Co4Sb11.3Te0.6Se0.1",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2012.03.027",
+    "10.1016/j.jallcom.2014.07.173"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Co4Sb11.3Te0.6Se0.1",
+        "Property": "ThermCond",
+        "Value": 1.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.07.173"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Co4Sb11.3Te0.6Se0.1 compound",
+        "Property": "ZT",
+        "Value": 1.09,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2012.03.027"
+      },
+      {
+        "Original_Name_In_Paper": "Co4Sb11.3Te0.6Se0.1 compound",
+        "Property": "ZT",
+        "Value": 1.09,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2012.03.027"
+      }
+    ]
+  }
+}

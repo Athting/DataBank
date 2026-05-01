@@ -1,0 +1,26 @@
+{
+  "Material": "Na0.85Ti0.51Ga4.37O8",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2015.06.005"
+  ],
+  "Data_By_Temperature": {
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "Na0.85Ti0.51Ga4.37O8",
+        "Property": "Conductivity",
+        "Value": 0.013000000000000001,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2015.06.005"
+      },
+      {
+        "Original_Name_In_Paper": "Na0.85Ti0.51Ga4.37O8",
+        "Property": "Conductivity",
+        "Value": 0.013000000000000001,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2015.06.005"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "MgNbO5",
+  "DOIs_Researched": [
+    "10.1016/j.jcis.2005.02.080"
+  ],
+  "Data_By_Temperature": {
+    "298.0": [
+      {
+        "Original_Name_In_Paper": "Mg0.04Nb1.66O5 nanocomposite",
+        "Property": "Conductivity",
+        "Value": 0.00022799999999999999,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jcis.2005.02.080"
+      }
+    ]
+  }
+}

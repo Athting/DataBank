@@ -1,0 +1,74 @@
+{
+  "Material": "SnAgSe",
+  "DOIs_Researched": [
+    "10.1039/c7ta09941j",
+    "10.1038/am.2017.147",
+    "10.1007/s10853-020-04949-0"
+  ],
+  "Data_By_Temperature": {
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.99Ag0.01Se",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ta09941j"
+      }
+    ],
+    "793.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.99Ag0.02Se",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ta09941j"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.99Ag0.02Se",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2017.147"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.99Ag0.02Se",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2017.147"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.99Ag0.02Se",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.99Ag0.02Se",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2017.147"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Sn0.99Ag0.02Se",
+        "Property": "Conductivity",
+        "Value": 4000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2017.147"
+      }
+    ]
+  }
+}

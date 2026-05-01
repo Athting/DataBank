@@ -1,0 +1,28 @@
+{
+  "Material": "Bi\u2082\u2080Sb\u2081\u2082Te\u2086\u2089",
+  "DOIs_Researched": [
+    "10.1007/s10853-016-0008-3"
+  ],
+  "Data_By_Temperature": {
+    "327.0": [
+      {
+        "Original_Name_In_Paper": "Bi20Sb12Te69",
+        "Property": "Seebeck",
+        "Value": -0.00015099999999999998,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-016-0008-3"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Bi20Sb12Te69",
+        "Property": "Conductivity",
+        "Value": 0.09,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-016-0008-3"
+      }
+    ]
+  }
+}

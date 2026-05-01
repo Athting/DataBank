@@ -1,0 +1,18 @@
+{
+  "Material": "Bi0.44Sb1.36Te3",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2015.10.030"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Bi0.44Sb1.36Te3 bulks",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2015.10.030"
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "Material": "VCoSb",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2015.09.082",
+    "10.1039/c9tc00743a",
+    "10.1016/j.materresbull.2015.11.032"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "n-type VCoSb",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2015.11.032"
+      },
+      {
+        "Original_Name_In_Paper": "VCoSb",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc00743a"
+      }
+    ],
+    "950.0": [
+      {
+        "Original_Name_In_Paper": "V0.87CoSb",
+        "Property": "ZT",
+        "Value": 0.58,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc00743a"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "VCoSb",
+        "Property": "Conductivity",
+        "Value": 130000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.09.082"
+      }
+    ]
+  }
+}

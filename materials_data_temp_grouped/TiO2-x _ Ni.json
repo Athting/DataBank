@@ -1,0 +1,18 @@
+{
+  "Material": "TiO2-x / Ni",
+  "DOIs_Researched": [
+    "10.1016/j.apenergy.2017.02.001"
+  ],
+  "Data_By_Temperature": {
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "TiO2\u2212x / Ni",
+        "Property": "ZT",
+        "Value": 0.057,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apenergy.2017.02.001"
+      }
+    ]
+  }
+}

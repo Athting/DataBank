@@ -1,0 +1,36 @@
+{
+  "Material": "NaCuMnSe2",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2014.01.016"
+  ],
+  "Data_By_Temperature": {
+    "540.0": [
+      {
+        "Original_Name_In_Paper": "NaCu1.05Mn0.95Se2",
+        "Property": "Conductivity",
+        "Value": 2000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2014.01.016"
+      },
+      {
+        "Original_Name_In_Paper": "NaCu1.05Mn0.95Se2",
+        "Property": "PF",
+        "Value": 6.4e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2014.01.016"
+      }
+    ],
+    "675.0": [
+      {
+        "Original_Name_In_Paper": "NaCuMnSe2",
+        "Property": "Seebeck",
+        "Value": 0.000297,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2014.01.016"
+      }
+    ]
+  }
+}

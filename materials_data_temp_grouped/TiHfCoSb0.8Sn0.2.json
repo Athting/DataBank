@@ -1,0 +1,18 @@
+{
+  "Material": "TiHfCoSb0.8Sn0.2",
+  "DOIs_Researched": [
+    "10.1039/c5tc01196e"
+  ],
+  "Data_By_Temperature": {
+    "983.0": [
+      {
+        "Original_Name_In_Paper": "Ti0.5Hf0.5CoSb0.8Sn0.2",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01196e"
+      }
+    ]
+  }
+}

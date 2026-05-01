@@ -1,0 +1,18 @@
+{
+  "Material": "Bi2Te3 / Sb2Te3superlattices",
+  "DOIs_Researched": [
+    "10.1016/j.tsf.2020.137834"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Te3 / Sb2Te3superlattices",
+        "Property": "ZT",
+        "Value": 2.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2020.137834"
+      }
+    ]
+  }
+}

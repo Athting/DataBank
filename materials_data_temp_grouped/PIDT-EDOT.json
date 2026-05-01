@@ -1,0 +1,44 @@
+{
+  "Material": "PIDT-EDOT",
+  "DOIs_Researched": [
+    "10.1016/j.reactfunctpolym.2019.05.015"
+  ],
+  "Data_By_Temperature": {
+    "453.0": [
+      {
+        "Original_Name_In_Paper": "PIDT-EDOT",
+        "Property": "PF",
+        "Value": 8.67e-07,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.reactfunctpolym.2019.05.015"
+      },
+      {
+        "Original_Name_In_Paper": "PIDT-EDOT",
+        "Property": "PF",
+        "Value": 3.5e-08,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.reactfunctpolym.2019.05.015"
+      },
+      {
+        "Original_Name_In_Paper": "PIDT-EDOT",
+        "Property": "PF",
+        "Value": 8.67e-07,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.reactfunctpolym.2019.05.015"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "PIDT-EDOT",
+        "Property": "Conductivity",
+        "Value": 2.7,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.reactfunctpolym.2019.05.015"
+      }
+    ]
+  }
+}

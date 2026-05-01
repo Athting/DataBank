@@ -1,0 +1,18 @@
+{
+  "Material": "CuTCNQ\u2013F4TCNQ",
+  "DOIs_Researched": [
+    "10.1039/c4ta06475e"
+  ],
+  "Data_By_Temperature": {
+    "370.0": [
+      {
+        "Original_Name_In_Paper": "CuTCNQ\u2013F4TCNQ",
+        "Property": "PF",
+        "Value": 2.4999999999999998e-06,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta06475e"
+      }
+    ]
+  }
+}

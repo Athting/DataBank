@@ -1,0 +1,18 @@
+{
+  "Material": "CuGa0.54Fe0.39O2",
+  "DOIs_Researched": [
+    "10.1016/j.tsf.2005.08.316"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "CuGa0.54Fe0.39O2",
+        "Property": "Conductivity",
+        "Value": 100.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2005.08.316"
+      }
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "Material": "BaNiZnGeSn",
+  "DOIs_Researched": [
+    "10.1016/j.pmatsci.2016.07.002",
+    "10.1016/j.jallcom.2013.03.074"
+  ],
+  "Data_By_Temperature": {
+    "830.0": [
+      {
+        "Original_Name_In_Paper": "Ba8Ni0.22Zn7.22Ge37.12Sn1.44",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.03.074"
+      },
+      {
+        "Original_Name_In_Paper": "Ba8Ni0.22Zn7.22Ge37.12Sn1.44",
+        "Property": "ZT",
+        "Value": 0.87,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.03.074"
+      },
+      {
+        "Original_Name_In_Paper": "Ba8Ni0.22Zn7.22Ge37.12Sn1.44",
+        "Property": "ZT",
+        "Value": 0.87,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2016.07.002"
+      }
+    ]
+  }
+}

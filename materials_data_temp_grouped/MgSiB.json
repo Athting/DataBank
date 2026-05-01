@@ -1,0 +1,18 @@
+{
+  "Material": "MgSiB",
+  "DOIs_Researched": [
+    "10.1007/s13391-014-4148-9"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Mg2.04SiBi0.02",
+        "Property": "ZT",
+        "Value": 0.61,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s13391-014-4148-9"
+      }
+    ]
+  }
+}

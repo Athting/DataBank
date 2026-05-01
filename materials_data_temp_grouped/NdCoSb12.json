@@ -1,0 +1,18 @@
+{
+  "Material": "NdCoSb12",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2013.03.206"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Nd0.1Co4Sb12",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.03.206"
+      }
+    ]
+  }
+}

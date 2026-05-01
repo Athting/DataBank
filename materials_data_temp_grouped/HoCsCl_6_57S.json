@@ -1,0 +1,18 @@
+{
+  "Material": "HoCsCl_6_57S",
+  "DOIs_Researched": [
+    "10.1016/S0925-8388(05)01104-7"
+  ],
+  "Data_By_Temperature": {
+    "753.0": [
+      {
+        "Original_Name_In_Paper": "Ho 3H11001 : Cs 2 NaGdCl 6 57 Sulfides",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(05)01104-7"
+      }
+    ]
+  }
+}

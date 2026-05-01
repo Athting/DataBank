@@ -1,0 +1,18 @@
+{
+  "Material": "Mo2.5Ru0.5Sb6.5Te0.5",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2014.04.006"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Mo2.5Ru0.5Sb6.5Te0.5",
+        "Property": "ZT",
+        "Value": 0.45,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2014.04.006"
+      }
+    ]
+  }
+}

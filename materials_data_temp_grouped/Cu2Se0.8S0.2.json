@@ -1,0 +1,65 @@
+{
+  "Material": "Cu2Se0.8S0.2",
+  "DOIs_Researched": [
+    "10.1039/c7ta05788a",
+    "10.1016/j.jallcom.2020.155188"
+  ],
+  "Data_By_Temperature": {
+    "950.0": [
+      {
+        "Original_Name_In_Paper": "Cu2Se0.8S0.2",
+        "Property": "ZT",
+        "Value": 1.65,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ta05788a"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2Se0.8S0.2",
+        "Property": "ZT",
+        "Value": 1.65,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ta05788a"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2Se0.8S0.2",
+        "Property": "ZT",
+        "Value": 1.65,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ta05788a"
+      }
+    ],
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "Cu2Se0\u00b78S0.2",
+        "Property": "ZT",
+        "Value": 2.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.155188"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Cu2Se0.8S0.2",
+        "Property": "Seebeck",
+        "Value": 0.00054,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ta05788a"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Cu2Se0.8S0.2",
+        "Property": "PF",
+        "Value": 0.00084,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ta05788a"
+      }
+    ]
+  }
+}

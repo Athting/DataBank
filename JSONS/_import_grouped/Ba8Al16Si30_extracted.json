@@ -1,0 +1,58 @@
+{
+  "doi": "10.1016/j.jssc.2015.11.017",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Ba8Al16Si30"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "Ba8Al16Si30",
+          "value": -0.000036,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "670.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "Ba8Al16Si30",
+          "value": 92506.9380203515,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "320.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Ba8Al16Si30",
+          "zt_value": 0.34,
+          "temperature": "1150.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

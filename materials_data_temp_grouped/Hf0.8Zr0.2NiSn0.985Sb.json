@@ -1,0 +1,18 @@
+{
+  "Material": "Hf0.8Zr0.2NiSn0.985Sb",
+  "DOIs_Researched": [
+    "10.1039/c5ta04418a"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "Hf0.8Zr0.2NiSn0.985Sb0.015",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta04418a"
+      }
+    ]
+  }
+}

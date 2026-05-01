@@ -1,0 +1,18 @@
+{
+  "Material": "SrMo",
+  "DOIs_Researched": [
+    "10.1039/c5tc02318a"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Sr\u2013Mo",
+        "Property": "Conductivity",
+        "Value": 2631.5789473684,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc02318a"
+      }
+    ]
+  }
+}

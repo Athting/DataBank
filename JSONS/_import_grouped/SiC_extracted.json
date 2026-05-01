@@ -1,0 +1,397 @@
+{
+  "doi": "10.1016/j.diamond.2014.01.010",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "B-doped SiC",
+        "SiC",
+        "monolayer SiC",
+        "SiC nano-composite",
+        "nano-size SiC",
+        "SiC / C composite",
+        "single-crystalline β-SiC",
+        "pristine SiC",
+        "SiC / SnSe composite",
+        "SiC(1) / SnSe composite",
+        "1.0 vol % SiC nanoparticle",
+        "SiC nanoparticles",
+        "SiC–30wt. % B4C composite",
+        "pure SiC",
+        "SiC nano-phase",
+        "Pt : SiC",
+        "SiC–70wt. % B4C"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "SiC",
+          "value": 0.000225,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SiC–30wt. % B4C composite",
+          "value": 0.0007,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "SiC",
+          "value": 0.000111,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "SiC",
+          "value": 0.000117,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "pure SiC",
+          "value": 0.00067,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "Pt : SiC",
+          "value": 0.0002,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "993.0 K"
+        },
+        {
+          "material": "SiC",
+          "value": 0.000148,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "783.0 K"
+        },
+        {
+          "material": "SiC",
+          "value": 0.000207,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "783.0 K"
+        },
+        {
+          "material": "SiC",
+          "value": 0.000251,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "803.0 K"
+        },
+        {
+          "material": "SiC",
+          "value": 0.00035000000000000005,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "400.0 K"
+        },
+        {
+          "material": "SiC–70wt. % B4C",
+          "value": 0.00075,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "1073.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "SiC",
+          "value": 370.3703703704,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SiC",
+          "value": 833.3333333333,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SiC",
+          "value": 1250,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SiC / C composite",
+          "value": 33.3333333333,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SiC",
+          "value": 9610,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SiC",
+          "value": 98500,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "B-doped SiC",
+          "value": 0.001,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "single-crystalline β-SiC",
+          "value": 2000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SiC nanoparticles",
+          "value": 43100,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "SiC",
+          "value": 100,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "353.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "B-doped SiC",
+          "value": 185,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "B-doped SiC",
+          "value": 176,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SiC",
+          "value": 185,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "B-doped SiC",
+          "value": 185,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "B-doped SiC",
+          "value": 185,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "monolayer SiC",
+          "value": 16.76,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SiC",
+          "value": 27.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SiC",
+          "value": 0.8300000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SiC",
+          "value": 1.3,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SiC",
+          "value": 0.88,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "375.0 K"
+        },
+        {
+          "material": "pristine SiC",
+          "value": 70,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "SiC",
+          "value": 50,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "1.0 vol % SiC nanoparticle",
+          "value": 2.37,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "SiC",
+          "value": 1.8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "2073.0 K"
+        },
+        {
+          "material": "SiC nanoparticles",
+          "value": 1.9,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "SiC",
+          "value": 3.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "323.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "SiC",
+          "value": 0.000971,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "SiC nano-composite",
+          "zt_value": 2,
+          "temperature": "295 K"
+        },
+        {
+          "material": "nano-size SiC",
+          "zt_value": 0.8,
+          "temperature": "295 K"
+        },
+        {
+          "material": "nano-size SiC",
+          "zt_value": 1.6,
+          "temperature": "295 K"
+        },
+        {
+          "material": "SiC",
+          "zt_value": 2,
+          "temperature": "295 K"
+        },
+        {
+          "material": "SiC / SnSe composite",
+          "zt_value": 0.125,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SiC(1) / SnSe composite",
+          "zt_value": 0.125,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SiC(1) / SnSe composite",
+          "zt_value": 0.125,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SiC nanoparticles",
+          "zt_value": 0.23,
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "SiC nanoparticles",
+          "zt_value": 1.7000000000000002,
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "SiC",
+          "zt_value": 0.88,
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "SiC",
+          "zt_value": 0.49,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "SiC",
+          "zt_value": 1.04,
+          "temperature": "423.0 K"
+        },
+        {
+          "material": "SiC nanoparticles",
+          "zt_value": 1.33,
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "SiC nano-phase",
+          "zt_value": 1.2,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "SiC",
+          "zt_value": 1.73,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "SiC",
+          "zt_value": 0.0001338,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "SiC",
+          "zt_value": 0.0001338,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "SiC",
+          "zt_value": 0.0001338,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "SiC",
+          "zt_value": 0.56,
+          "temperature": "623.0 K"
+        },
+        {
+          "material": "SiC",
+          "zt_value": 1,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "SiC / C composite",
+          "zt_value": 3.3800000000000004e-7,
+          "temperature": "473.0 K"
+        },
+        {
+          "material": "SiC",
+          "zt_value": 0.435,
+          "temperature": "1000.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

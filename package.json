@@ -9,7 +9,9 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "import:mongo": "node scripts/import-extracted-json-mongo.mjs"
+    "import:mongo": "node scripts/import-extracted-json-mongo.mjs",
+    "convert:grouped": "node scripts/convert-grouped-to-extracted.mjs",
+    "sort:grouped:size": "node scripts/sort-json-by-size.mjs"
   },
   "dependencies": {
     "chart.js": "^4.5.1",

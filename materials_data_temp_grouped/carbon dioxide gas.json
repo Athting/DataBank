@@ -1,0 +1,18 @@
+{
+  "Material": "carbon dioxide gas",
+  "DOIs_Researched": [
+    "10.1016/S0925-8388(09)01720-4"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "carbon dioxide gas",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(09)01720-4"
+      }
+    ]
+  }
+}

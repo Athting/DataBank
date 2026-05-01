@@ -1,0 +1,333 @@
+{
+  "doi": "10.1186/s11671-015-0776-8",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "CrSi2",
+        "pristine CrSi2",
+        "bulk CrSi2",
+        "( 90 wt. % CrSi2",
+        "polycrystalline CrSi2",
+        "Nb-free CrSi2",
+        "CrSi2was",
+        "CrSi2 single crystals",
+        "CrSi2 / Si"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "( 90 wt. % CrSi2",
+          "value": 0.00010499999999999999,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CrSi2",
+          "value": 0.00011,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "polycrystalline CrSi2",
+          "value": 0.0001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CrSi2",
+          "value": 0.0001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "CrSi2",
+          "value": 0.00017,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "CrSi2",
+          "value": 0.0001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "CrSi2",
+          "value": 0.000196,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "575.0 K"
+        },
+        {
+          "material": "pristine CrSi2",
+          "value": 0.000179,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "CrSi2",
+          "value": 0.00016199999999999998,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "pristine CrSi2",
+          "value": 0.000196,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "CrSi2",
+          "value": 0.000125,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "550.0 K"
+        },
+        {
+          "material": "CrSi2 single crystals",
+          "value": 0.0002,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "550.0 K"
+        },
+        {
+          "material": "CrSi2 / Si",
+          "value": -0.00030000000000000003,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "10.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "polycrystalline CrSi2",
+          "value": 100000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "( 90 wt. % CrSi2",
+          "value": 290,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CrSi2",
+          "value": 105,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Nb-free CrSi2",
+          "value": 63000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "CrSi2",
+          "value": 105,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "pristine CrSi2",
+          "value": 70000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "873.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "CrSi2",
+          "value": 10,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CrSi2",
+          "value": 24,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine CrSi2",
+          "value": 9.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CrSi2",
+          "value": 5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "pristine CrSi2",
+          "value": 9.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "CrSi2",
+          "value": 4.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "CrSi2",
+          "value": 0.44,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "bulk CrSi2",
+          "value": 9,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "bulk CrSi2",
+          "zt_value": 0.08,
+          "temperature": "295 K"
+        },
+        {
+          "material": "CrSi2",
+          "zt_value": 0.25,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "CrSi2",
+          "zt_value": 0.23,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "CrSi2",
+          "zt_value": 0.23,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "CrSi2",
+          "zt_value": 0.02,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "CrSi2",
+          "zt_value": 0.35000000000000003,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "CrSi2",
+          "zt_value": 0.32,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "CrSi2",
+          "zt_value": 0.32,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "CrSi2",
+          "zt_value": 0.32,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "CrSi2",
+          "zt_value": 0.19,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "CrSi2was",
+          "zt_value": 0.19,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "CrSi2",
+          "zt_value": 0.19,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "CrSi2",
+          "zt_value": 0.19,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "CrSi2",
+          "zt_value": 0.29,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "CrSi2",
+          "zt_value": 0.29,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "CrSi2",
+          "zt_value": 0.29,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "CrSi2",
+          "zt_value": 0.29,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "CrSi2",
+          "zt_value": 0.29,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "CrSi2",
+          "zt_value": 0.30000000000000004,
+          "temperature": "450.0 K"
+        },
+        {
+          "material": "CrSi2",
+          "zt_value": 0.2,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "CrSi2",
+          "zt_value": 0.2,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "CrSi2",
+          "zt_value": 0.29,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "CrSi2",
+          "zt_value": 0.29,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "pristine CrSi2",
+          "zt_value": 0.12,
+          "temperature": "623.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

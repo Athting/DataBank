@@ -1,0 +1,18 @@
+{
+  "Material": "CuIn1-xNxSe2.02",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2020.156410"
+  ],
+  "Data_By_Temperature": {
+    "430.0": [
+      {
+        "Original_Name_In_Paper": "CuIn1\u2212xZnxSe2.02",
+        "Property": "PF",
+        "Value": 0.00021,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.156410"
+      }
+    ]
+  }
+}

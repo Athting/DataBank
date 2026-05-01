@@ -1,0 +1,18 @@
+{
+  "Material": "H2SO4 treated PEDOT-Tos-PPP film",
+  "DOIs_Researched": [
+    "10.1016/j.orgel.2014.09.012"
+  ],
+  "Data_By_Temperature": {
+    "295.0": [
+      {
+        "Original_Name_In_Paper": "H2SO4 treated PEDOT-Tos-PPP film",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.orgel.2014.09.012"
+      }
+    ]
+  }
+}

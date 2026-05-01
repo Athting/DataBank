@@ -1,0 +1,120 @@
+{
+  "Material": "Mg2Si0.4Sn0.6",
+  "DOIs_Researched": [
+    "10.1016/j.rser.2014.05.060",
+    "10.1007/s11434-014-0237-2",
+    "10.1016/j.apsusc.2017.01.299",
+    "10.1016/B978-0-12-815751-0.00009-2",
+    "10.1007/s11837-013-0609-0",
+    "10.1016/j.intermet.2017.02.020",
+    "10.1016/j.mseb.2006.09.011",
+    "10.1016/j.matpr.2020.04.668",
+    "10.1016/j.scriptamat.2013.07.008"
+  ],
+  "Data_By_Temperature": {
+    "662.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Si0.4Sn0.6",
+        "Property": "ThermCond",
+        "Value": 2.1,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mseb.2006.09.011"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "polycrystalline Mg2Si0.4Sn0.6",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11837-013-0609-0"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si0.4Sn0.6",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rser.2014.05.060"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si0.4Sn0.6",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2013.07.008"
+      }
+    ],
+    "653.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Si0.4Sn0.6",
+        "Property": "ZT",
+        "Value": 0.13,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mseb.2006.09.011"
+      }
+    ],
+    "780.0": [
+      {
+        "Original_Name_In_Paper": "doped Mg2Si0.4Sn0.6 with Sb",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11434-014-0237-2"
+      },
+      {
+        "Original_Name_In_Paper": "doped Mg2Si0.4Sn0.6 with Sb",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-12-815751-0.00009-2"
+      }
+    ],
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "bulk Mg2Si0.4Sn0.6",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2017.01.299"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Si0.4Sn0.6",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2017.02.020"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Pristine Mg2Si0.4Sn0.6",
+        "Property": "Seebeck",
+        "Value": -0.000375,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matpr.2020.04.668"
+      }
+    ],
+    "435.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Si0.4Sn0.6",
+        "Property": "Seebeck",
+        "Value": -0.0004617,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rser.2014.05.060"
+      }
+    ]
+  }
+}

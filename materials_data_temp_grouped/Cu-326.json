@@ -1,0 +1,18 @@
+{
+  "Material": "Cu-326",
+  "DOIs_Researched": [
+    "10.1016/j.jpcs.2004.06.087"
+  ],
+  "Data_By_Temperature": {
+    "350.0": [
+      {
+        "Original_Name_In_Paper": "Cu-326",
+        "Property": "Seebeck",
+        "Value": 0.00014000000000000001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2004.06.087"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Ca2Sb2",
+  "DOIs_Researched": [
+    "10.1039/b914305j"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ca2CdSb2",
+        "Property": "Conductivity",
+        "Value": 33.3333333333,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/b914305j"
+      }
+    ]
+  }
+}

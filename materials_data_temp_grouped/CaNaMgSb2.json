@@ -1,0 +1,18 @@
+{
+  "Material": "CaNaMgSb2",
+  "DOIs_Researched": [
+    "10.1039/c8ta02250j"
+  ],
+  "Data_By_Temperature": {
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "Ca.99Na.01MgZnSb2",
+        "Property": "ZT",
+        "Value": 0.87,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta02250j"
+      }
+    ]
+  }
+}

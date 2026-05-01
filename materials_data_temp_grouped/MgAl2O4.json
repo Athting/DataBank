@@ -1,0 +1,29 @@
+{
+  "Material": "MgAl2O4",
+  "DOIs_Researched": [
+    "10.1016/j.snb.2015.02.083",
+    "10.1016/S0925-8388(10)00044-7"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "MgAl2O4",
+        "Property": "ThermCond",
+        "Value": 8.1,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.snb.2015.02.083"
+      }
+    ],
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "MgAl 2 O 4 nanoparticle",
+        "Property": "ZT",
+        "Value": 0.75,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(10)00044-7"
+      }
+    ]
+  }
+}

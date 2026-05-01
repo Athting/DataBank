@@ -1,0 +1,195 @@
+{
+  "doi": "10.1039/c5tc01560j",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "CoSbS",
+        "Te-doped CoSbS",
+        "Ni doped CoSbS",
+        "nanostructured CoSbS",
+        "Ni doped Co1-xNixSbS",
+        "un-doped CoSbS",
+        "undoped CoSbS"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "CoSbS",
+          "value": 0.0002,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CoSbS",
+          "value": 0.000155,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "CoSbS",
+          "value": -0.000565,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "CoSbS",
+          "value": 0.002,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CoSbS",
+          "value": 44.8,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "CoSbS",
+          "value": 5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CoSbS",
+          "value": 9.6,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CoSbS",
+          "value": 9.59,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CoSbS",
+          "value": 8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "330.0 K"
+        },
+        {
+          "material": "Ni doped CoSbS",
+          "value": 3.8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "nanostructured CoSbS",
+          "value": 7.86,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Te-doped CoSbS",
+          "value": 0.0005,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Ni doped CoSbS",
+          "value": 0.0015,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Ni doped CoSbS",
+          "value": 0.002,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Ni doped CoSbS",
+          "value": 0.002,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Ni doped Co1-xNixSbS",
+          "value": 0.002,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "un-doped CoSbS",
+          "value": 0.00067,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "un-doped CoSbS",
+          "value": 0.00067,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "undoped CoSbS",
+          "value": 0.00067,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "CoSbS",
+          "value": 0.0016,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "Ni doped CoSbS",
+          "value": 0.0027,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "543.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "CoSbS",
+          "zt_value": 0.5,
+          "temperature": "873 K"
+        },
+        {
+          "material": "Ni doped CoSbS",
+          "zt_value": 0.5,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Ni doped CoSbS",
+          "zt_value": 0.5,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "CoSbS",
+          "zt_value": 0.58,
+          "temperature": "900.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

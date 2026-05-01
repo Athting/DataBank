@@ -1,0 +1,149 @@
+{
+  "doi": "10.1016/j.tsf.2018.01.053",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "V 2 O 5 652",
+        "bulk amorphous V2O5",
+        "V2O5",
+        "V2O5 thin films",
+        "Vanadium pentoxide",
+        "V2O5 film",
+        "V2O5 thin film",
+        "crystalline V2O5 films"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "V2O5",
+          "value": -0.00099,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "323.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "bulk amorphous V2O5",
+          "value": 0.0006500000000000001,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "V2O5",
+          "value": 0.048,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "V2O5",
+          "value": 0.01,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "V2O5 thin films",
+          "value": 0.00001,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "V2O5",
+          "value": 50,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "V2O5",
+          "value": 50,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Vanadium pentoxide",
+          "value": 50,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "V2O5 film",
+          "value": 0.0001593372,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "V2O5 thin film",
+          "value": 17.9856115108,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "V2O5",
+          "value": 0.01,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "V2O5",
+          "value": 1.4,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "V2O5",
+          "value": 0.0013000000000000002,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "405.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "crystalline V2O5 films",
+          "value": 5.8e-9,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "410.0 K"
+        },
+        {
+          "material": "crystalline V2O5 films",
+          "value": 5.8e-9,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "410.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "V 2 O 5 652",
+          "zt_value": 0.9,
+          "temperature": "295 K"
+        },
+        {
+          "material": "V2O5",
+          "zt_value": 0.45,
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

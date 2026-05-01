@@ -1,0 +1,77 @@
+{
+  "Material": "Cr2O3",
+  "DOIs_Researched": [
+    "10.1016/j.vacuum.2016.09.003",
+    "10.1016/j.ssi.2014.11.027",
+    "10.1016/j.pmatsci.2013.06.003",
+    "10.1016/j.ssi.2018.09.018"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "bulk Cr2O3",
+        "Property": "Seebeck",
+        "Value": 0.0035,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.vacuum.2016.09.003"
+      },
+      {
+        "Original_Name_In_Paper": "Cr2O3 thin films",
+        "Property": "Seebeck",
+        "Value": 0.0035,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2013.06.003"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Cr2O3 / Cr thin films",
+        "Property": "Seebeck",
+        "Value": -8.623e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.vacuum.2016.09.003"
+      },
+      {
+        "Original_Name_In_Paper": "Cr2O3 / Cr thin films",
+        "Property": "PF",
+        "Value": 4.4e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.vacuum.2016.09.003"
+      }
+    ],
+    "1300.0": [
+      {
+        "Original_Name_In_Paper": "p-type Cr2O3",
+        "Property": "Seebeck",
+        "Value": 0.00075,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssi.2014.11.027"
+      }
+    ],
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "Cr2O3 / Cr",
+        "Property": "PF",
+        "Value": 4.4e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.vacuum.2016.09.003"
+      }
+    ],
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "Cr2O3",
+        "Property": "Conductivity",
+        "Value": 10.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssi.2018.09.018"
+      }
+    ]
+  }
+}

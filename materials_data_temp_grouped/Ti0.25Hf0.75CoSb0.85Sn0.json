@@ -1,0 +1,37 @@
+{
+  "Material": "Ti0.25Hf0.75CoSb0.85Sn0",
+  "DOIs_Researched": [
+    "10.1039/c5tc01196e",
+    "10.1016/j.rser.2019.05.051"
+  ],
+  "Data_By_Temperature": {
+    "710.0": [
+      {
+        "Original_Name_In_Paper": "Ti0.25Hf0.75CoSb0.85Sn0.15 alloy",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rser.2019.05.051"
+      }
+    ],
+    "983.0": [
+      {
+        "Original_Name_In_Paper": "Ti0.25Hf0.75CoSb0.85Sn0.15",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01196e"
+      },
+      {
+        "Original_Name_In_Paper": "Ti0.25Hf0.75CoSb0.85Sn0.15",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01196e"
+      }
+    ]
+  }
+}

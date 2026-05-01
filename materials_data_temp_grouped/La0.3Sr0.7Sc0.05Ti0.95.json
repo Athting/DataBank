@@ -1,0 +1,18 @@
+{
+  "Material": "La0.3Sr0.7Sc0.05Ti0.95",
+  "DOIs_Researched": [
+    "10.1016/j.ijhydene.2018.05.171"
+  ],
+  "Data_By_Temperature": {
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "La0.3Sr0.7Sc0.05Ti0.95O3\u2212\u03b4",
+        "Property": "Conductivity",
+        "Value": 11800.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ijhydene.2018.05.171"
+      }
+    ]
+  }
+}

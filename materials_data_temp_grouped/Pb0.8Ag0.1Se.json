@@ -1,0 +1,18 @@
+{
+  "Material": "Pb0.8Ag0.1Se",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2020.105232"
+  ],
+  "Data_By_Temperature": {
+    "858.0": [
+      {
+        "Original_Name_In_Paper": "Pb0.8Ag0.1-ySb0.1+ySe",
+        "Property": "ZT",
+        "Value": 1.65,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.105232"
+      }
+    ]
+  }
+}

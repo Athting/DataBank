@@ -1,0 +1,18 @@
+{
+  "Material": "In10Bi90",
+  "DOIs_Researched": [
+    "10.1016/j.matchemphys.2012.01.096"
+  ],
+  "Data_By_Temperature": {
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "In10Bi90",
+        "Property": "Conductivity",
+        "Value": 7914648.43131668,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2012.01.096"
+      }
+    ]
+  }
+}

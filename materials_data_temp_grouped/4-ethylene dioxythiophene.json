@@ -1,0 +1,29 @@
+{
+  "Material": "4-ethylene dioxythiophene",
+  "DOIs_Researched": [
+    "10.1016/B978-0-12-816865-3.00013-5",
+    "10.1016/B978-1-927885-67-3.50012-2"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "4-ethylene dioxythiophene",
+        "Property": "ZT",
+        "Value": 0.42,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-12-816865-3.00013-5"
+      }
+    ],
+    "473.0": [
+      {
+        "Original_Name_In_Paper": "4-ethylene dioxythiophene",
+        "Property": "Conductivity",
+        "Value": 30000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-1-927885-67-3.50012-2"
+      }
+    ]
+  }
+}

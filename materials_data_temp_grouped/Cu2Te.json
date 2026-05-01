@@ -1,0 +1,446 @@
+{
+  "Material": "Cu2Te",
+  "DOIs_Researched": [
+    "10.1039/c7ra02145c",
+    "10.1016/j.jallcom.2019.152729",
+    "10.1038/am.2015.91",
+    "10.1016/j.nanoen.2020.104832",
+    "10.1039/c7qi00146k",
+    "10.1016/j.scriptamat.2019.01.046",
+    "10.1038/s41598-018-35713-9",
+    "10.1016/j.optmat.2020.110308",
+    "10.1039/c8ce01790e",
+    "10.1038/s41598-019-43911-2",
+    "10.1016/j.jallcom.2020.156540",
+    "10.1016/j.jallcom.2020.155276",
+    "10.1016/j.apsusc.2017.11.198",
+    "10.1039/c7ce00192d",
+    "10.1039/c8nr05558k",
+    "10.1039/c3ta12877f",
+    "10.1039/c8ta04993a"
+  ],
+  "Data_By_Temperature": {
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "Cu2Te nanostructures",
+        "Property": "ThermCond",
+        "Value": 0.75,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.104832"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Cu2Te",
+        "Property": "ThermCond",
+        "Value": 2.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2015.91"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2Te",
+        "Property": "ThermCond",
+        "Value": 2.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2015.91"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2Te",
+        "Property": "ThermCond",
+        "Value": 6.1,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta04993a"
+      },
+      {
+        "Original_Name_In_Paper": "Sn-doped Cu2Te",
+        "Property": "ThermCond",
+        "Value": 1.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta04993a"
+      },
+      {
+        "Original_Name_In_Paper": "pristine Cu2Te",
+        "Property": "Conductivity",
+        "Value": 478468.8995215311,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta04993a"
+      },
+      {
+        "Original_Name_In_Paper": "pristine Cu2Te",
+        "Property": "Conductivity",
+        "Value": 100908.1735620585,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta04993a"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2Te / Te nanorod composites",
+        "Property": "Seebeck",
+        "Value": 0.00043058,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ce01790e"
+      },
+      {
+        "Original_Name_In_Paper": "pristine Cu2Te",
+        "Property": "Seebeck",
+        "Value": 3.7e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta04993a"
+      },
+      {
+        "Original_Name_In_Paper": "pristine Cu2Te",
+        "Property": "Seebeck",
+        "Value": 0.000133,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta04993a"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2Te",
+        "Property": "PF",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta04993a"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2Te",
+        "Property": "Conductivity",
+        "Value": 191000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2019.01.046"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2Te",
+        "Property": "Conductivity",
+        "Value": 105.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ce01790e"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2Te thin film",
+        "Property": "Conductivity",
+        "Value": 1250.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.optmat.2020.110308"
+      }
+    ],
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "Cu2Te",
+        "Property": "ThermCond",
+        "Value": 2.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta04993a"
+      },
+      {
+        "Original_Name_In_Paper": "copper telluride ( Cu2Te )",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-019-43911-2"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2Te",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.155276"
+      },
+      {
+        "Original_Name_In_Paper": "undoped Cu2Te",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta04993a"
+      },
+      {
+        "Original_Name_In_Paper": "Ag-doped Cu2Te ( Cu1\u00b798Ag0\u00b72Te )",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.152729"
+      },
+      {
+        "Original_Name_In_Paper": "pristine Cu2Te",
+        "Property": "Conductivity",
+        "Value": 1000000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta04993a"
+      }
+    ],
+    "588.0": [
+      {
+        "Original_Name_In_Paper": "Cu2Te",
+        "Property": "ThermCond",
+        "Value": 3.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.156540"
+      },
+      {
+        "Original_Name_In_Paper": "pristine Cu2Te",
+        "Property": "PF",
+        "Value": 0.00018,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.156540"
+      }
+    ],
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "Cu2Te pellets",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-019-43911-2"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2Te+50 % Ag2Te",
+        "Property": "ZT",
+        "Value": 1.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.156540"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2Te",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta04993a"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2Te",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2017.11.198"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2Te",
+        "Property": "ZT",
+        "Value": 0.55,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ra02145c"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2Te",
+        "Property": "ZT",
+        "Value": 0.55,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8nr05558k"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2Te",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ce00192d"
+      }
+    ],
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "Cu2Te",
+        "Property": "ZT",
+        "Value": 0.15,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-019-43911-2"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2Te",
+        "Property": "Seebeck",
+        "Value": 2e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2017.11.198"
+      },
+      {
+        "Original_Name_In_Paper": "pristine Cu2Te",
+        "Property": "Seebeck",
+        "Value": 3.0000000000000004e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2017.11.198"
+      },
+      {
+        "Original_Name_In_Paper": "pristine Cu2Te",
+        "Property": "Seebeck",
+        "Value": 4.4999999999999996e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-019-43911-2"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2Te + 50 % Ag2Te",
+        "Property": "PF",
+        "Value": 0.0009000000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.156540"
+      }
+    ],
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "Cu2Te",
+        "Property": "ZT",
+        "Value": 0.035,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.155276"
+      }
+    ],
+    "634.0": [
+      {
+        "Original_Name_In_Paper": "Cu2Te",
+        "Property": "ZT",
+        "Value": 0.03,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta04993a"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2Te",
+        "Property": "ZT",
+        "Value": 0.03,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ra02145c"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2Te",
+        "Property": "ZT",
+        "Value": 0.03,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8nr05558k"
+      }
+    ],
+    "592.0": [
+      {
+        "Original_Name_In_Paper": "Tl-doped Cu2Te",
+        "Property": "ZT",
+        "Value": 0.38,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta04993a"
+      }
+    ],
+    "745.0": [
+      {
+        "Original_Name_In_Paper": "Cu2Te",
+        "Property": "ZT",
+        "Value": 0.09,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7qi00146k"
+      },
+      {
+        "Original_Name_In_Paper": "pristine Cu2Te",
+        "Property": "Seebeck",
+        "Value": 5e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-019-43911-2"
+      }
+    ],
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "Sn-doped Cu2Te",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.152729"
+      }
+    ],
+    "325.0": [
+      {
+        "Original_Name_In_Paper": "bulk Cu2Te",
+        "Property": "Conductivity",
+        "Value": 500000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta12877f"
+      }
+    ],
+    "650.0": [
+      {
+        "Original_Name_In_Paper": "bulk Cu2Te",
+        "Property": "PF",
+        "Value": 0.00014000000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta12877f"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Cu2Te pellets",
+        "Property": "PF",
+        "Value": 0.00015000000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-019-43911-2"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2Te",
+        "Property": "PF",
+        "Value": 0.0002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.152729"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2Te",
+        "Property": "Conductivity",
+        "Value": 500000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.152729"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2Te",
+        "Property": "Conductivity",
+        "Value": 40000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-018-35713-9"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Sn doped Cu2Te",
+        "Property": "PF",
+        "Value": 0.0012000000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.152729"
+      }
+    ]
+  }
+}

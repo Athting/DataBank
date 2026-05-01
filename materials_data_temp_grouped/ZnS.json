@@ -1,0 +1,29 @@
+{
+  "Material": "ZnS",
+  "DOIs_Researched": [
+    "10.1039/c2nr31193c",
+    "10.1016/j.mattod.2015.10.004"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "ZnS",
+        "Property": "ThermCond",
+        "Value": 130.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2nr31193c"
+      }
+    ],
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "3.0 % ZnS",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mattod.2015.10.004"
+      }
+    ]
+  }
+}

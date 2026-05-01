@@ -1,0 +1,18 @@
+{
+  "Material": "S =",
+  "DOIs_Researched": [
+    "10.1016/j.ssnmr.2016.07.003"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "S =",
+        "Property": "Seebeck",
+        "Value": 3.4e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssnmr.2016.07.003"
+      }
+    ]
+  }
+}

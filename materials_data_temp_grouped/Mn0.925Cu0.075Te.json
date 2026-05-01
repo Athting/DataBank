@@ -1,0 +1,78 @@
+{
+  "Material": "Mn0.925Cu0.075Te",
+  "DOIs_Researched": [
+    "10.1016/j.jmat.2016.05.008",
+    "10.1016/S2352-8478(16)30055-7",
+    "10.1016/j.jmat.2016.05.002"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Mn0.925Cu0.075Te",
+        "Property": "ZT",
+        "Value": 0.55,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S2352-8478(16)30055-7"
+      },
+      {
+        "Original_Name_In_Paper": "Mn0.925Cu0.075Te",
+        "Property": "ZT",
+        "Value": 0.55,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2016.05.008"
+      },
+      {
+        "Original_Name_In_Paper": "Mn0.925Cu0.075Te",
+        "Property": "ZT",
+        "Value": 0.55,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2016.05.008"
+      },
+      {
+        "Original_Name_In_Paper": "Mn0.925Cu0.075Te",
+        "Property": "ZT",
+        "Value": 0.55,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2016.05.008"
+      },
+      {
+        "Original_Name_In_Paper": "Mn0.925Cu0.075Te",
+        "Property": "ZT",
+        "Value": 0.55,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2016.05.008"
+      },
+      {
+        "Original_Name_In_Paper": "Mn0.925Cu0.075Te",
+        "Property": "ZT",
+        "Value": 0.55,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2016.05.002"
+      },
+      {
+        "Original_Name_In_Paper": "Mn0.925Cu0.075Te",
+        "Property": "PF",
+        "Value": 0.0005842,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2016.05.008"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Mn0.925Cu0.075Te",
+        "Property": "PF",
+        "Value": 1.84e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2016.05.008"
+      }
+    ]
+  }
+}

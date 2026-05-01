@@ -1,0 +1,18 @@
+{
+  "Material": "GdNiSb",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2016.04.029"
+  ],
+  "Data_By_Temperature": {
+    "80.0": [
+      {
+        "Original_Name_In_Paper": "GdNiSb compound",
+        "Property": "Conductivity",
+        "Value": 125000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2016.04.029"
+      }
+    ]
+  }
+}

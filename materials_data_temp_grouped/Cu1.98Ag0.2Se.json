@@ -1,0 +1,26 @@
+{
+  "Material": "Cu1.98Ag0.2Se",
+  "DOIs_Researched": [
+    "10.1007/s40243-014-0026-5"
+  ],
+  "Data_By_Temperature": {
+    "650.0": [
+      {
+        "Original_Name_In_Paper": "Cu1.98Ag0.2Se",
+        "Property": "ZT",
+        "Value": 0.52,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s40243-014-0026-5"
+      },
+      {
+        "Original_Name_In_Paper": "Cu1.98Ag0.2Se",
+        "Property": "ZT",
+        "Value": 0.52,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s40243-014-0026-5"
+      }
+    ]
+  }
+}

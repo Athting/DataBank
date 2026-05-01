@@ -1,0 +1,29 @@
+{
+  "Material": "PbTe, SrTe",
+  "DOIs_Researched": [
+    "10.1016/j.ccr.2020.213437",
+    "10.1016/j.jmat.2015.01.001"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Pb0.98Sr0.02Te\u22121 % Na2Te",
+        "Property": "ThermCond",
+        "Value": 1.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ccr.2020.213437"
+      }
+    ],
+    "915.0": [
+      {
+        "Original_Name_In_Paper": "PbTe+2 % Na+4 % SrTe",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2015.01.001"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "(HfZr)0.5(TiNiSn)0.5S",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2018.09.268"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "(Hf0.5Zr0.5)0.5Ti0.5NiSn0.998Sb0.002",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.09.268"
+      }
+    ]
+  }
+}

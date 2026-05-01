@@ -1,0 +1,61 @@
+{
+  "Material": "Fe3O4",
+  "DOIs_Researched": [
+    "10.1016/j.snb.2014.08.005",
+    "10.1016/j.physb.2017.05.025"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Fe3O4 films grown onto a SiO2",
+        "Property": "Conductivity",
+        "Value": 5555.5555555556,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.snb.2014.08.005"
+      },
+      {
+        "Original_Name_In_Paper": "Fe3O4",
+        "Property": "Seebeck",
+        "Value": 0.0009000000000000001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2017.05.025"
+      },
+      {
+        "Original_Name_In_Paper": "Fe3O4 films",
+        "Property": "Seebeck",
+        "Value": -6.5e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.snb.2014.08.005"
+      },
+      {
+        "Original_Name_In_Paper": "Fe3O4 films grown onto a SiO2",
+        "Property": "Seebeck",
+        "Value": 0.00041000000000000005,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.snb.2014.08.005"
+      },
+      {
+        "Original_Name_In_Paper": "Fe3O4 films grown onto a SiO2",
+        "Property": "PF",
+        "Value": 0.001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.snb.2014.08.005"
+      }
+    ],
+    "480.0": [
+      {
+        "Original_Name_In_Paper": "Fe3O4 films",
+        "Property": "Seebeck",
+        "Value": 0.00013000000000000002,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.snb.2014.08.005"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "SBS / rGO_V nanocomposites",
+  "DOIs_Researched": [
+    "10.1016/j.matchemphys.2019.03.002"
+  ],
+  "Data_By_Temperature": {
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "SBS / rGO_V nanocomposites",
+        "Property": "Conductivity",
+        "Value": 16.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2019.03.002"
+      }
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "doi": "10.1016/j.solidstatesciences.2009.06.007",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "ZrO2",
+        "1 vol % of ZrO2 nanoinclusions",
+        "1 vol. % of ZrO2 nanoinclusions"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "ZrO2",
+          "value": 0.00017735,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "553.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "ZrO2",
+          "value": 6,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "1073.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "ZrO2",
+          "value": 1.7000000000000002,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "1 vol % of ZrO2 nanoinclusions",
+          "zt_value": 1,
+          "temperature": "970.0 K"
+        },
+        {
+          "material": "1 vol. % of ZrO2 nanoinclusions",
+          "zt_value": 1,
+          "temperature": "970.0 K"
+        },
+        {
+          "material": "ZrO2",
+          "zt_value": 0.37,
+          "temperature": "1015.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

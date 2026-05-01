@@ -1,0 +1,18 @@
+{
+  "Material": "In4Se3-x",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2017.04.261"
+  ],
+  "Data_By_Temperature": {
+    "705.0": [
+      {
+        "Original_Name_In_Paper": "single crystalline In4Se3-x",
+        "Property": "ZT",
+        "Value": 1.48,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.04.261"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "In-doped Cu0.008BTS",
+  "DOIs_Researched": [
+    "10.1016/j.cap.2014.12.006"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "In-doped Cu0.008BTS",
+        "Property": "PF",
+        "Value": 0.0030700000000000002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2014.12.006"
+      }
+    ]
+  }
+}

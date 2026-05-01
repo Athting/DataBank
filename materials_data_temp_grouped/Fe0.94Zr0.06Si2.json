@@ -1,0 +1,54 @@
+{
+  "Material": "Fe0.94Zr0.06Si2",
+  "DOIs_Researched": [
+    "10.1016/S0925-8388(00)01285-8"
+  ],
+  "Data_By_Temperature": {
+    "1064.0": [
+      {
+        "Original_Name_In_Paper": "Fe0.94Zr0.06Si2",
+        "Property": "ZT",
+        "Value": 6.699999999999999e-06,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(00)01285-8"
+      },
+      {
+        "Original_Name_In_Paper": "Fe0.94Zr0.06Si2",
+        "Property": "ZT",
+        "Value": 6.699999999999999e-06,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(00)01285-8"
+      },
+      {
+        "Original_Name_In_Paper": "Fe0.94Zr0.06Si2",
+        "Property": "ZT",
+        "Value": 6.699999999999999e-06,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(00)01285-8"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Fe0.94Zr0.06Si2",
+        "Property": "Conductivity",
+        "Value": 43478.2608695652,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(00)01285-8"
+      }
+    ],
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "Fe0.94Zr0.06Si2",
+        "Property": "Seebeck",
+        "Value": 2e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(00)01285-8"
+      }
+    ]
+  }
+}

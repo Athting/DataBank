@@ -1,0 +1,176 @@
+{
+  "doi": "10.1016/j.ssc.2009.07.031",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "La0.95Sr0.05CoO3",
+        "La0.95Sr0.05Co0.9Rh0.1O3",
+        "polycrystalline La0.95Sr0.05CoO3",
+        "La0.95Sr0.05CoO3 pellet",
+        "La0.95Sr0.05CoO3 compound"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "La0.95Sr0.05CoO3",
+          "value": 0.000252,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "La0.95Sr0.05CoO3",
+          "value": 0.000252,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "La0.95Sr0.05CoO3",
+          "value": 0.0007,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "La0.95Sr0.05CoO3",
+          "value": 3.75,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "La0.95Sr0.05CoO3",
+          "value": 0.0004,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "La0.95Sr0.05CoO3",
+          "zt_value": 0.18,
+          "temperature": "295 K"
+        },
+        {
+          "material": "La0.95Sr0.05CoO3",
+          "zt_value": 0.18,
+          "temperature": "295 K"
+        },
+        {
+          "material": "La0.95Sr0.05Co0.9Rh0.1O3",
+          "zt_value": 0.03,
+          "temperature": "295 K"
+        },
+        {
+          "material": "La0.95Sr0.05CoO3",
+          "zt_value": 0.18,
+          "temperature": "295 K"
+        },
+        {
+          "material": "La0.95Sr0.05CoO3",
+          "zt_value": 0.2,
+          "temperature": "295 K"
+        },
+        {
+          "material": "La0.95Sr0.05CoO3",
+          "zt_value": 0.18,
+          "temperature": "295 K"
+        },
+        {
+          "material": "La0.95Sr0.05CoO3",
+          "zt_value": 0.033,
+          "temperature": "295 K"
+        },
+        {
+          "material": "La0.95Sr0.05CoO3",
+          "zt_value": 0.033,
+          "temperature": "295 K"
+        },
+        {
+          "material": "La0.95Sr0.05CoO3",
+          "zt_value": 0.18,
+          "temperature": "295 K"
+        },
+        {
+          "material": "polycrystalline La0.95Sr0.05CoO3",
+          "zt_value": 0.18,
+          "temperature": "295 K"
+        },
+        {
+          "material": "La0.95Sr0.05CoO3",
+          "zt_value": 0.18,
+          "temperature": "295 K"
+        },
+        {
+          "material": "La0.95Sr0.05CoO3",
+          "zt_value": 0.18,
+          "temperature": "295 K"
+        },
+        {
+          "material": "La0.95Sr0.05CoO3",
+          "zt_value": 0.18,
+          "temperature": "295 K"
+        },
+        {
+          "material": "polycrystalline La0.95Sr0.05CoO3",
+          "zt_value": 0.0006000000000000001,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "La0.95Sr0.05CoO3",
+          "zt_value": 0.082,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "La0.95Sr0.05CoO3 pellet",
+          "zt_value": 0.033,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "La0.95Sr0.05CoO3",
+          "zt_value": 0.18,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "La0.95Sr0.05CoO3 compound",
+          "zt_value": 0.04,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "La0.95Sr0.05CoO3 compound",
+          "zt_value": 0.04,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "La0.95Sr0.05Co0.9Rh0.1O3",
+          "zt_value": 0.045,
+          "temperature": "425.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

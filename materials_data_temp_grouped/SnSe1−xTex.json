@@ -1,0 +1,18 @@
+{
+  "Material": "SnSe1\u2212xTex",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2017.11.073"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Na-doped SnSe1\u2212xTex compound",
+        "Property": "ZT",
+        "Value": 0.72,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2017.11.073"
+      }
+    ]
+  }
+}

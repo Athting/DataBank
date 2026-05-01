@@ -1,0 +1,59 @@
+{
+  "Material": "Bi0.48Sb1.52Te3",
+  "DOIs_Researched": [
+    "10.1016/j.mtphys.2018.07.002",
+    "10.1016/B978-0-08-102687-8.00002-6",
+    "10.1007/s10853-012-6895-z",
+    "10.1016/j.nanoen.2019.104283"
+  ],
+  "Data_By_Temperature": {
+    "390.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.48Sb1.52Te3",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-012-6895-z"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "p-type Bi0.48Sb1.52Te3",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-08-102687-8.00002-6"
+      }
+    ],
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.48Sb1.52Te3",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2018.07.002"
+      }
+    ],
+    "475.0": [
+      {
+        "Original_Name_In_Paper": "p-type nanocomposites Bi0.48Sb1.52Te3",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2019.104283"
+      },
+      {
+        "Original_Name_In_Paper": "p-type nanocomposites Bi0.48Sb1.52Te3",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2019.104283"
+      }
+    ]
+  }
+}

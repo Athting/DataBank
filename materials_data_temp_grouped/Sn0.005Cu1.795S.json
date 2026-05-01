@@ -1,0 +1,18 @@
+{
+  "Material": "Sn0.005Cu1.795S",
+  "DOIs_Researched": [
+    "10.1557/jmr.2017.288"
+  ],
+  "Data_By_Temperature": {
+    "423.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.005Cu1.795S",
+        "Property": "Seebeck",
+        "Value": 0.000243,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1557/jmr.2017.288"
+      }
+    ]
+  }
+}

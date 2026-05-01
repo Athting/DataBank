@@ -1,0 +1,18 @@
+{
+  "Material": "I. Sb2Te3 II. Bi2Te3",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2018.10.408"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Bismuth antimony telluride alloys",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.10.408"
+      }
+    ]
+  }
+}

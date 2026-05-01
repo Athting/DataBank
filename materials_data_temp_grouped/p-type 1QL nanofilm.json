@@ -1,0 +1,18 @@
+{
+  "Material": "p-type 1QL nanofilm",
+  "DOIs_Researched": [
+    "10.1038/srep08099"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "p-type 1QL nanofilm",
+        "Property": "ZT",
+        "Value": 2.65,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/srep08099"
+      }
+    ]
+  }
+}

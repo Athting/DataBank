@@ -1,0 +1,27 @@
+{
+  "Material": "Cu3Sb0.97Ge0.03Se2.8S1.",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2014.11.031",
+    "10.1016/j.jallcom.2018.03.310"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Cu3Sb0.97Ge0.03Se2.8S1.2",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.11.031"
+      },
+      {
+        "Original_Name_In_Paper": "Cu3Sb0.97Ge0.03Se2.8S1.2",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.03.310"
+      }
+    ]
+  }
+}

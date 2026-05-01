@@ -1,0 +1,18 @@
+{
+  "Material": "PbTe / PbSe",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2019.01.105"
+  ],
+  "Data_By_Temperature": {
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "PbTe / PbSe",
+        "Property": "Conductivity",
+        "Value": 38400.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.01.105"
+      }
+    ]
+  }
+}

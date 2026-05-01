@@ -1,0 +1,18 @@
+{
+  "Material": "Ca2.95Bi0.05Co4xFexO9+\u03b4",
+  "DOIs_Researched": [
+    "10.1007/s10854-013-1645-9"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ca2.95Bi0.05Co4-xFexO9+\u03b4",
+        "Property": "Conductivity",
+        "Value": 10000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-013-1645-9"
+      }
+    ]
+  }
+}

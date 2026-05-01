@@ -1,0 +1,45 @@
+{
+  "Material": "SnGe",
+  "DOIs_Researched": [
+    "10.1039/c9ra04748d",
+    "10.1016/j.apsusc.2020.147387"
+  ],
+  "Data_By_Temperature": {
+    "450.0": [
+      {
+        "Original_Name_In_Paper": "2D SnGe",
+        "Property": "ThermCond",
+        "Value": 5.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2020.147387"
+      },
+      {
+        "Original_Name_In_Paper": "2D SnGe",
+        "Property": "ZT",
+        "Value": 1.6400000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2020.147387"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "SnGe",
+        "Property": "ThermCond",
+        "Value": 4.7,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ra04748d"
+      },
+      {
+        "Original_Name_In_Paper": "SnGe",
+        "Property": "ZT",
+        "Value": 1.6400000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ra04748d"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "Material": "Na0.2Cu1.8S",
+  "DOIs_Researched": [
+    "10.1007/s11581-017-2299-z"
+  ],
+  "Data_By_Temperature": {
+    "423.0": [
+      {
+        "Original_Name_In_Paper": "Na0.2Cu1.8S",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11581-017-2299-z"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Na0.2Cu1.8S compound",
+        "Property": "Conductivity",
+        "Value": 80000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11581-017-2299-z"
+      }
+    ]
+  }
+}

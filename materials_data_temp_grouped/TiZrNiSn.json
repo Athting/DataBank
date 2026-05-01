@@ -1,0 +1,57 @@
+{
+  "Material": "TiZrNiSn",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2018.12.042",
+    "10.1039/c5ta01794g"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ti0.1Zr0.9NiSn",
+        "Property": "ThermCond",
+        "Value": 12.6,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta01794g"
+      },
+      {
+        "Original_Name_In_Paper": "Ti0.1Zr0.9NiSn",
+        "Property": "ThermCond",
+        "Value": 5.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": "substitution of Sn",
+        "Source_DOI": "10.1039/c5ta01794g"
+      }
+    ],
+    "775.0": [
+      {
+        "Original_Name_In_Paper": "Ti0.1Zr0.9NiSn",
+        "Property": "ThermCond",
+        "Value": 6.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta01794g"
+      }
+    ],
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "Ti0.5Zr0.5NiSn",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2018.12.042"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ti0.5Zr0.5NiSn",
+        "Property": "ZT",
+        "Value": 0.15,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2018.12.042"
+      }
+    ]
+  }
+}

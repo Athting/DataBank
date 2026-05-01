@@ -1,0 +1,265 @@
+{
+  "doi": "10.1016/j.intermet.2012.12.010",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Ba8Ga16Ge30",
+        "p-type Ba8Ga16Ge30",
+        "n-type Ba8Ga16Ge30",
+        "Ba8Ga16Ge30 alloy",
+        "Ba8Ga16Ge30 compound"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "p-type Ba8Ga16Ge30",
+          "value": 0.000193,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Ba8Ga16Ge30",
+          "value": 0.00030000000000000003,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "Ba8Ga16Ge30 alloy",
+          "value": 0.000044999999999999996,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "p-type Ba8Ga16Ge30",
+          "value": 0.00021,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "773.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "p-type Ba8Ga16Ge30",
+          "value": 56000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Ba8Ga16Ge30",
+          "value": 50000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "800.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Ba8Ga16Ge30",
+          "value": 2.25,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "p-type Ba8Ga16Ge30",
+          "value": 1.55,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Ba8Ga16Ge30",
+          "value": 1.3,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Ba8Ga16Ge30",
+          "value": 3.65,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "27.0 K"
+        },
+        {
+          "material": "Ba8Ga16Ge30",
+          "value": 0.65,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "812.0 K"
+        },
+        {
+          "material": "Ba8Ga16Ge30",
+          "value": 2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "800.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Ba8Ga16Ge30",
+          "value": 0.0007300000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "738.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "p-type Ba8Ga16Ge30",
+          "zt_value": 0.5720000000000001,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Ba8Ga16Ge30",
+          "zt_value": 0.8,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Ba8Ga16Ge30",
+          "zt_value": 0.43,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "Ba8Ga16Ge30",
+          "zt_value": 0.93,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "Ba8Ga16Ge30",
+          "zt_value": 0.8,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "n-type Ba8Ga16Ge30",
+          "zt_value": 0.8,
+          "temperature": "953.0 K"
+        },
+        {
+          "material": "Ba8Ga16Ge30",
+          "zt_value": 1.35,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "Ba8Ga16Ge30",
+          "zt_value": 1.35,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "Ba8Ga16Ge30",
+          "zt_value": 1.35,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "n-type Ba8Ga16Ge30",
+          "zt_value": 1.35,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "Ba8Ga16Ge30",
+          "zt_value": 1.35,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "Ba8Ga16Ge30 alloy",
+          "zt_value": 1.35,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "Ba8Ga16Ge30",
+          "zt_value": 1.35,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "Ba8Ga16Ge30",
+          "zt_value": 1.35,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "n-type Ba8Ga16Ge30",
+          "zt_value": 1.35,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "Ba8Ga16Ge30",
+          "zt_value": 1.35,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "Ba8Ga16Ge30 compound",
+          "zt_value": 1.35,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "Ba8Ga16Ge30",
+          "zt_value": 1.35,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "Ba8Ga16Ge30",
+          "zt_value": 0.7000000000000001,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "Ba8Ga16Ge30",
+          "zt_value": 1,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Ba8Ga16Ge30",
+          "zt_value": 0.8,
+          "temperature": "680.0 K"
+        },
+        {
+          "material": "Ba8Ga16Ge30",
+          "zt_value": 0.14,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Ba8Ga16Ge30",
+          "zt_value": 0.8,
+          "temperature": "1050.0 K"
+        },
+        {
+          "material": "Ba8Ga16Ge30",
+          "zt_value": 0.8,
+          "temperature": "1050.0 K"
+        },
+        {
+          "material": "Ba8Ga16Ge30",
+          "zt_value": 0.53,
+          "temperature": "738.0 K"
+        },
+        {
+          "material": "Ba8Ga16Ge30",
+          "zt_value": 1.1,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "n-type Ba8Ga16Ge30",
+          "zt_value": 1.1,
+          "temperature": "100.0 K"
+        },
+        {
+          "material": "Ba8Ga16Ge30",
+          "zt_value": 1.4,
+          "temperature": "873.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "Material": "SOFC",
+  "DOIs_Researched": [
+    "10.1016/j.jpowsour.2016.11.019",
+    "10.1007/s11581-015-1389-z",
+    "10.1016/j.jpowsour.2007.05.085",
+    "10.1016/j.ijhydene.2018.05.171",
+    "10.1016/j.ijhydene.2017.12.134",
+    "10.1039/c0ee00717j",
+    "10.1039/c6ra03099h"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "SOFC",
+        "Property": "Conductivity",
+        "Value": 10.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpowsour.2007.05.085"
+      }
+    ],
+    "1273.0": [
+      {
+        "Original_Name_In_Paper": "SOFC",
+        "Property": "Conductivity",
+        "Value": 10.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpowsour.2016.11.019"
+      }
+    ],
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "SOFC",
+        "Property": "Conductivity",
+        "Value": 10000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ijhydene.2018.05.171"
+      }
+    ],
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "SOFC",
+        "Property": "Conductivity",
+        "Value": 110.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ijhydene.2018.05.171"
+      },
+      {
+        "Original_Name_In_Paper": "SOFC",
+        "Property": "Conductivity",
+        "Value": 2300.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ijhydene.2017.12.134"
+      }
+    ],
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "SOFC",
+        "Property": "Conductivity",
+        "Value": 1.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c0ee00717j"
+      }
+    ],
+    "1023.0": [
+      {
+        "Original_Name_In_Paper": "SOFC",
+        "Property": "Conductivity",
+        "Value": 2200.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ijhydene.2017.12.134"
+      }
+    ],
+    "1123.0": [
+      {
+        "Original_Name_In_Paper": "SOFC",
+        "Property": "Conductivity",
+        "Value": 402.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11581-015-1389-z"
+      }
+    ],
+    "1173.0": [
+      {
+        "Original_Name_In_Paper": "SOFC",
+        "Property": "Conductivity",
+        "Value": 28000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra03099h"
+      },
+      {
+        "Original_Name_In_Paper": "SOFC",
+        "Property": "Conductivity",
+        "Value": 30000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra03099h"
+      }
+    ]
+  }
+}

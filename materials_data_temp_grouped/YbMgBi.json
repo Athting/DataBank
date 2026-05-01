@@ -1,0 +1,26 @@
+{
+  "Material": "YbMgBi",
+  "DOIs_Researched": [
+    "10.1039/c8tc05424j"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Yb0.9Mg0.1Mg2Bi1.96",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8tc05424j"
+      },
+      {
+        "Original_Name_In_Paper": "Yb0.9Mg0.1Mg2Bi1.96",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8tc05424j"
+      }
+    ]
+  }
+}

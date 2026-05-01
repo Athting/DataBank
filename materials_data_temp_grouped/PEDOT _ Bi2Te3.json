@@ -1,0 +1,35 @@
+{
+  "Material": "PEDOT / Bi2Te3",
+  "DOIs_Researched": [
+    "10.1039/c8ta11008e",
+    "10.1038/s41467-018-06251-9"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "PEDOT / Bi2Te3",
+        "Property": "ZT",
+        "Value": 0.58,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta11008e"
+      },
+      {
+        "Original_Name_In_Paper": "PEDOT / Bi2Te3",
+        "Property": "ZT",
+        "Value": 0.58,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41467-018-06251-9"
+      },
+      {
+        "Original_Name_In_Paper": "PEDOT / Bi2Te3",
+        "Property": "ZT",
+        "Value": 0.58,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41467-018-06251-9"
+      }
+    ]
+  }
+}

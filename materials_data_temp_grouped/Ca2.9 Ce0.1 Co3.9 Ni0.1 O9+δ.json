@@ -1,0 +1,26 @@
+{
+  "Material": "Ca2.9 Ce0.1 Co3.9 Ni0.1 O9+\u03b4",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2015.02.021"
+  ],
+  "Data_By_Temperature": {
+    "350.0": [
+      {
+        "Original_Name_In_Paper": "Ca2.9Ce0.1Co3.9Ni0.1O9+\u03b4",
+        "Property": "ZT",
+        "Value": 0.022,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2015.02.021"
+      },
+      {
+        "Original_Name_In_Paper": "Ca2.9Ce0.1Co3.9Ni0.1O9+\u03b4",
+        "Property": "ZT",
+        "Value": 0.022,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2015.02.021"
+      }
+    ]
+  }
+}

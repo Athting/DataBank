@@ -1,0 +1,40 @@
+{
+  "Material": "Ti(Zr,Hf)NiSn",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2004.05.078",
+    "10.1016/j.pmatsci.2016.07.002",
+    "10.1557/jmr.2011.107"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Ti0.5(Zr0.5Hf0.5)0.5NiSn1\u2212YSbY alloy",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2016.07.002"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Ti0.5(Zr0.5Hf0.5)0.5 NiSn0.998Sb0.002 compound",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1557/jmr.2011.107"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ti0.5(Zr0.5Hf0.5)0.5 NiSn",
+        "Property": "ZT",
+        "Value": 0.17,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2004.05.078"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "CuCoO2",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2009.09.124"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "polycrystalline CuCoO2",
+        "Property": "Seebeck",
+        "Value": -0.000175,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.09.124"
+      }
+    ]
+  }
+}

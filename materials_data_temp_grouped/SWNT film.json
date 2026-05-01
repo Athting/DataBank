@@ -1,0 +1,26 @@
+{
+  "Material": "SWNT film",
+  "DOIs_Researched": [
+    "10.1038/srep07951"
+  ],
+  "Data_By_Temperature": {
+    "320.0": [
+      {
+        "Original_Name_In_Paper": "SWNT film",
+        "Property": "ZT",
+        "Value": 0.025,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/srep07951"
+      },
+      {
+        "Original_Name_In_Paper": "SWNT film",
+        "Property": "Seebeck",
+        "Value": 4.5299999999999997e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/srep07951"
+      }
+    ]
+  }
+}

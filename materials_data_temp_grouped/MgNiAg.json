@@ -1,0 +1,28 @@
+{
+  "Material": "MgNiAg",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2014.04.012"
+  ],
+  "Data_By_Temperature": {
+    "325.0": [
+      {
+        "Original_Name_In_Paper": "MgAg0.965Ni0.005Ag0.99",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2014.04.012"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "MgAg0.965Ni0.005Ag0.99",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2014.04.012"
+      }
+    ]
+  }
+}

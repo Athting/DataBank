@@ -1,0 +1,54 @@
+{
+  "Material": "Tl4.05Ag18Te11",
+  "DOIs_Researched": [
+    "10.1039/c9tc02029b"
+  ],
+  "Data_By_Temperature": {
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "Tl4.05Ag18Te11",
+        "Property": "ThermCond",
+        "Value": 0.19,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc02029b"
+      },
+      {
+        "Original_Name_In_Paper": "Tl4.05Ag18Te11",
+        "Property": "ThermCond",
+        "Value": 0.27,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc02029b"
+      },
+      {
+        "Original_Name_In_Paper": "Tl4.05Ag18Te11",
+        "Property": "ThermCond",
+        "Value": 0.19,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc02029b"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Tl4.05Ag18Te11",
+        "Property": "Seebeck",
+        "Value": -0.00024000000000000003,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc02029b"
+      }
+    ],
+    "435.0": [
+      {
+        "Original_Name_In_Paper": "Tl4.05Ag18Te11",
+        "Property": "Conductivity",
+        "Value": 1300.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc02029b"
+      }
+    ]
+  }
+}

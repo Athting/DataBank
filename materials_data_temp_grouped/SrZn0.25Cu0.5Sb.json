@@ -1,0 +1,26 @@
+{
+  "Material": "SrZn0.25Cu0.5Sb",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2019.152508"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "SrZn0.25Cu0.5Sb",
+        "Property": "ThermCond",
+        "Value": 0.99,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.152508"
+      },
+      {
+        "Original_Name_In_Paper": "SrZn0.25Cu0.5Sb",
+        "Property": "ZT",
+        "Value": 0.34,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.152508"
+      }
+    ]
+  }
+}

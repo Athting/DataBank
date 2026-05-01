@@ -1,0 +1,69 @@
+{
+  "doi": "10.1039/c3dt53487a",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "undoped Sr5Al2Sb6",
+        "p-type Sr5Al2Sb6",
+        "Sr5Al2Sb6"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "Sr5Al2Sb6",
+          "value": 943,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "Sr5Al2Sb6",
+          "value": 55.5555555556,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "undoped Sr5Al2Sb6",
+          "zt_value": 0.05,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "undoped Sr5Al2Sb6",
+          "zt_value": 0.05,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "p-type Sr5Al2Sb6",
+          "zt_value": 1.01,
+          "temperature": "800.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

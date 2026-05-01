@@ -1,0 +1,18 @@
+{
+  "Material": "Ca0.75Ce0.25Fe4Sb12",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2014.06.042"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Ca0.75Ce0.25Fe4Sb12",
+        "Property": "PF",
+        "Value": 0.0027500000000000003,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2014.06.042"
+      }
+    ]
+  }
+}

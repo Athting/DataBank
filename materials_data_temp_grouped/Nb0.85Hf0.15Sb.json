@@ -1,0 +1,18 @@
+{
+  "Material": "Nb0.85Hf0.15Sb",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2020.07.028"
+  ],
+  "Data_By_Temperature": {
+    "820.0": [
+      {
+        "Original_Name_In_Paper": "Nb0.85Hf0.15FeSb",
+        "Property": "ZT",
+        "Value": 0.8200000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2020.07.028"
+      }
+    ]
+  }
+}

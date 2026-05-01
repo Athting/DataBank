@@ -1,0 +1,18 @@
+{
+  "Material": "Cr3Si",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2018.07.253"
+  ],
+  "Data_By_Temperature": {
+    "1100.0": [
+      {
+        "Original_Name_In_Paper": "pure Cr3Si",
+        "Property": "Conductivity",
+        "Value": 590000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.07.253"
+      }
+    ]
+  }
+}

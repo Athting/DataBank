@@ -1,0 +1,18 @@
+{
+  "Material": "Cu1.96Sn0.02Se",
+  "DOIs_Researched": [
+    "10.1039/c6ta06445k"
+  ],
+  "Data_By_Temperature": {
+    "473.0": [
+      {
+        "Original_Name_In_Paper": "Cu1.96Sn0.02Se",
+        "Property": "ThermCond",
+        "Value": 0.6900000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta06445k"
+      }
+    ]
+  }
+}

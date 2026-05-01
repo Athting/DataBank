@@ -1,0 +1,1518 @@
+{
+  "Material": "Sb2Te3",
+  "DOIs_Researched": [
+    "10.1016/j.matpr.2020.01.514",
+    "10.1039/c9qi01188a",
+    "10.1016/j.enconman.2015.10.052",
+    "10.1016/j.nanoen.2020.105195",
+    "10.1016/j.cap.2019.01.019",
+    "10.1039/c2jm33899h",
+    "10.1016/j.ceramint.2019.05.119",
+    "10.1016/j.cap.2013.01.019",
+    "10.1016/j.pnsc.2013.06.007",
+    "10.1039/c2ce26136g",
+    "10.1016/j.spmi.2015.11.022",
+    "10.1016/j.pmatsci.2017.09.004",
+    "10.1039/c5tc01623a",
+    "10.1007/s11051-012-1204-y",
+    "10.1016/j.mssp.2019.104909",
+    "10.1016/j.physb.2010.04.003",
+    "10.1016/j.actamat.2010.04.007",
+    "10.1016/j.cap.2009.01.016",
+    "10.1039/c8ta08830f",
+    "10.1016/j.nanoen.2020.105228",
+    "10.1016/j.jallcom.2013.08.164",
+    "10.1016/j.jssc.2012.04.049",
+    "10.1039/c1ce05591g",
+    "10.1007/s11669-016-0462-2",
+    "10.1016/S0040-6090(02)00077-9",
+    "10.1016/j.solener.2005.04.022",
+    "10.1016/j.physb.2019.411795",
+    "10.1016/j.jallcom.2012.09.061",
+    "10.1039/c6dt04323b",
+    "10.1016/j.pnsc.2017.02.009",
+    "10.1038/s41598-017-14068-7",
+    "10.1186/s40580-018-0154-1",
+    "10.1038/s41598-020-63062-z",
+    "10.1016/j.jcrysgro.2014.12.031",
+    "10.1016/j.cplett.2013.08.084",
+    "10.1038/s41598-019-44225-z",
+    "10.1016/j.tsf.2017.01.002",
+    "10.1016/j.jallcom.2013.01.017",
+    "10.1016/j.ceramint.2018.08.201",
+    "10.1038/srep23143",
+    "10.1016/j.materresbull.2012.04.140",
+    "10.1016/j.jssc.2014.04.005",
+    "10.1016/j.spmi.2019.05.036",
+    "10.1016/j.tsf.2011.01.395",
+    "10.1016/j.nanoen.2015.05.022",
+    "10.1016/j.jallcom.2018.09.324",
+    "10.1007/s10854-014-2585-8",
+    "10.1016/bs.aiht.2019.08.001",
+    "10.1016/j.mtener.2020.100526",
+    "10.1016/j.jssc.2013.04.029",
+    "10.1039/c4ee03297g",
+    "10.1038/nmat3213",
+    "10.1016/j.vacuum.2017.07.030",
+    "10.1016/j.nanoen.2020.104613",
+    "10.1016/j.tsf.2010.03.052",
+    "10.1038/nmat943",
+    "10.1016/j.apsusc.2017.04.074",
+    "10.1039/c3ra44172e",
+    "10.1016/j.mtphys.2018.07.002",
+    "10.1016/j.nanoen.2017.11.043",
+    "10.1039/d0ta00240b",
+    "10.1039/c6dt02361d",
+    "10.1039/c5tc90161h",
+    "10.1039/b915107a",
+    "10.1016/j.jssc.2012.03.042",
+    "10.1007/s11664-011-1629-6",
+    "10.1039/c9ra09801a",
+    "10.1016/j.scriptamat.2019.03.013",
+    "10.1016/j.carbon.2012.10.060",
+    "10.1038/s41598-019-45697-9",
+    "10.1016/j.sna.2011.09.020",
+    "10.1016/j.nanoen.2020.105186",
+    "10.1016/j.jssc.2019.04.005",
+    "10.1039/c6dt00974c",
+    "10.1039/c5ra17284e",
+    "10.1016/j.actamat.2019.07.031",
+    "10.1016/j.applthermaleng.2018.08.056",
+    "10.1016/j.jssc.2014.07.014",
+    "10.1016/j.jssc.2012.03.061",
+    "10.1007/s11664-011-1870-z",
+    "10.1007/s11664-011-1896-2",
+    "10.1016/j.surfcoat.2020.125510",
+    "10.1007/s00339-014-8871-8",
+    "10.1007/s10853-019-03596-4",
+    "10.1016/j.apsusc.2017.11.198"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Sb2Te3",
+        "Property": "ThermCond",
+        "Value": 1.15,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta00240b"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3",
+        "Property": "ThermCond",
+        "Value": 0.9400000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11051-012-1204-y"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3 film",
+        "Property": "ThermCond",
+        "Value": 0.9400000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11051-012-1204-y"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3",
+        "Property": "ThermCond",
+        "Value": 0.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2010.04.007"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3 nanoplate",
+        "Property": "ThermCond",
+        "Value": 1.6,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2019.104909"
+      },
+      {
+        "Original_Name_In_Paper": "bulk Sb2Te3",
+        "Property": "ThermCond",
+        "Value": 1.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s00339-014-8871-8"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3\u03ba0",
+        "Property": "ThermCond",
+        "Value": 1.78,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2012.04.049"
+      },
+      {
+        "Original_Name_In_Paper": "pure Sb2Te3 film",
+        "Property": "ThermCond",
+        "Value": 1.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.spmi.2015.11.022"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3",
+        "Property": "ThermCond",
+        "Value": 0.24,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-017-14068-7"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3 / Ag multilayer thin film",
+        "Property": "ThermCond",
+        "Value": 0.61,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1186/s40580-018-0154-1"
+      },
+      {
+        "Original_Name_In_Paper": "bulk p-type Sb2Te3 material",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jcrysgro.2014.12.031"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2017.11.043"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3 nanofilms",
+        "Property": "ZT",
+        "Value": 2.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2017.11.043"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3 / CH3NH3I",
+        "Property": "ZT",
+        "Value": 0.56,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9qi01188a"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3 / CH3NH3I",
+        "Property": "ZT",
+        "Value": 0.56,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9qi01188a"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3 / CH3NH3I",
+        "Property": "ZT",
+        "Value": 0.56,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9qi01188a"
+      },
+      {
+        "Original_Name_In_Paper": "layered Sb2Te3 film",
+        "Property": "ZT",
+        "Value": 1.22,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cplett.2013.08.084"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3",
+        "Property": "ZT",
+        "Value": 2.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.applthermaleng.2018.08.056"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3 film",
+        "Property": "ZT",
+        "Value": 0.0010400000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0040-6090(02)00077-9"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3",
+        "Property": "ZT",
+        "Value": 0.0032,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6dt02361d"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.carbon.2012.10.060"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3 film",
+        "Property": "ZT",
+        "Value": 1.75,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-020-63062-z"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3 film",
+        "Property": "ZT",
+        "Value": 1.75,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-020-63062-z"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3 film",
+        "Property": "ZT",
+        "Value": 1.75,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-020-63062-z"
+      },
+      {
+        "Original_Name_In_Paper": "pristine Sb2Te3",
+        "Property": "ZT",
+        "Value": 0.75,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2017.11.198"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2013.01.019"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3 film",
+        "Property": "ZT",
+        "Value": 0.88,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11051-012-1204-y"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3",
+        "Property": "ZT",
+        "Value": 2.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solener.2005.04.022"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3 thin film",
+        "Property": "ZT",
+        "Value": 0.88,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.enconman.2015.10.052"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3 thin film",
+        "Property": "ZT",
+        "Value": 0.42,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2017.04.074"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3",
+        "Property": "ZT",
+        "Value": 1.28,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2014.04.005"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Sb2Te3",
+        "Property": "ZT",
+        "Value": 0.75,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/nmat3213"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3 films",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.08.164"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3",
+        "Property": "Conductivity",
+        "Value": 125000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2011.01.395"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3",
+        "Property": "Seebeck",
+        "Value": 7.5e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2019.05.119"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3nanowires",
+        "Property": "Seebeck",
+        "Value": 0.00011,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2jm33899h"
+      },
+      {
+        "Original_Name_In_Paper": "bulk Sb2Te3",
+        "Property": "Seebeck",
+        "Value": 9e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2jm33899h"
+      },
+      {
+        "Original_Name_In_Paper": "Sb-rich Sb2Te3 thin film",
+        "Property": "Seebeck",
+        "Value": 0.000536,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-014-2585-8"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3 thin film",
+        "Property": "Seebeck",
+        "Value": 9e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-014-2585-8"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3 thin film",
+        "Property": "Seebeck",
+        "Value": 9e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-014-2585-8"
+      },
+      {
+        "Original_Name_In_Paper": "Sb-rich Sb2Te3 film",
+        "Property": "Seebeck",
+        "Value": 0.000536,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-014-2585-8"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3",
+        "Property": "Seebeck",
+        "Value": 0.00017,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/bs.aiht.2019.08.001"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3",
+        "Property": "Seebeck",
+        "Value": 0.00019,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2011.01.395"
+      },
+      {
+        "Original_Name_In_Paper": "bulk Sb2Te3",
+        "Property": "Seebeck",
+        "Value": 8e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtener.2020.100526"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3 crystals",
+        "Property": "Seebeck",
+        "Value": 7.000000000000001e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtener.2020.100526"
+      },
+      {
+        "Original_Name_In_Paper": "nanostructured Sb2Te3 thin films",
+        "Property": "Seebeck",
+        "Value": 7.5e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtener.2020.100526"
+      },
+      {
+        "Original_Name_In_Paper": "Sb)2Te3",
+        "Property": "Seebeck",
+        "Value": 0.0002,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/nmat943"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3 films",
+        "Property": "Seebeck",
+        "Value": 0.00013000000000000002,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-011-1870-z"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3 nanoplates",
+        "Property": "Seebeck",
+        "Value": 0.000112,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ra44172e"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3",
+        "Property": "Seebeck",
+        "Value": 0.000112,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ra44172e"
+      },
+      {
+        "Original_Name_In_Paper": "single crystalline Sb2Te3 ingots",
+        "Property": "Seebeck",
+        "Value": 8.3e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6dt00974c"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3",
+        "Property": "Seebeck",
+        "Value": 0.000164,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.sna.2011.09.020"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3 nanoplates",
+        "Property": "Seebeck",
+        "Value": 0.000125,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/b915107a"
+      },
+      {
+        "Original_Name_In_Paper": "undoped Sb2Te3 single crystal",
+        "Property": "Seebeck",
+        "Value": 8.3e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/b915107a"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3 thin film",
+        "Property": "Seebeck",
+        "Value": 0.000118,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-011-1629-6"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3 thin film",
+        "Property": "Seebeck",
+        "Value": 0.00019,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-011-1896-2"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3 thin film",
+        "Property": "Seebeck",
+        "Value": 0.000118,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2012.04.140"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3 films",
+        "Property": "PF",
+        "Value": 0.0029000000000000002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-011-1870-z"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3 thin film",
+        "Property": "PF",
+        "Value": 0.00035000000000000005,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2017.04.074"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3",
+        "Property": "PF",
+        "Value": 0.0005,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.09.324"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Sb2Te3",
+        "Property": "PF",
+        "Value": 0.001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.09.324"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3",
+        "Property": "Conductivity",
+        "Value": 2437.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2019.411795"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3 nanoplates",
+        "Property": "Conductivity",
+        "Value": 10000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ra44172e"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "pure Sb2Te3 compounds",
+        "Property": "ThermCond",
+        "Value": 0.148,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ee03297g"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3 bulk crystals",
+        "Property": "ThermCond",
+        "Value": 1.6,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2012.09.061"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3 single crystal",
+        "Property": "ThermCond",
+        "Value": 1.6,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra17284e"
+      },
+      {
+        "Original_Name_In_Paper": "bulk Sb2Te3",
+        "Property": "ThermCond",
+        "Value": 4.7,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2010.04.003"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3nanosheet",
+        "Property": "ThermCond",
+        "Value": 1.02,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/b915107a"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3",
+        "Property": "ThermCond",
+        "Value": 0.65,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2019.07.031"
+      },
+      {
+        "Original_Name_In_Paper": "crystalline Sb2Te3 thin films",
+        "Property": "ThermCond",
+        "Value": 0.35000000000000003,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-017-14068-7"
+      },
+      {
+        "Original_Name_In_Paper": "crystalline Sb2Te3 thin films",
+        "Property": "ThermCond",
+        "Value": 0.22,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-017-14068-7"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3",
+        "Property": "ThermCond",
+        "Value": 1.15,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2019.04.005"
+      },
+      {
+        "Original_Name_In_Paper": "Sb)2Te3",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2013.04.029"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3nanosheet",
+        "Property": "ZT",
+        "Value": 2.33,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/b915107a"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3nanosheet",
+        "Property": "ZT",
+        "Value": 0.15,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/b915107a"
+      },
+      {
+        "Original_Name_In_Paper": "undoped Sb2Te3 single crystals",
+        "Property": "ZT",
+        "Value": 0.48,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/b915107a"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3 film",
+        "Property": "ZT",
+        "Value": 0.46,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s00339-014-8871-8"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3 film",
+        "Property": "ZT",
+        "Value": 1.75,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-020-63062-z"
+      },
+      {
+        "Original_Name_In_Paper": "Cr-doped Sb2Te3",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2012.03.042"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3",
+        "Property": "Seebeck",
+        "Value": 0.00012000000000000002,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta00240b"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3 single crystal",
+        "Property": "Seebeck",
+        "Value": 8.3e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra17284e"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3",
+        "Property": "Seebeck",
+        "Value": 0.00014099999999999998,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2ce26136g"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3 nanoplatelets",
+        "Property": "Seebeck",
+        "Value": 0.00030000000000000003,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2019.411795"
+      },
+      {
+        "Original_Name_In_Paper": "pristine Sb2Te3",
+        "Property": "Seebeck",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2017.11.198"
+      },
+      {
+        "Original_Name_In_Paper": "pristine Sb2Te3",
+        "Property": "Seebeck",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2017.11.198"
+      },
+      {
+        "Original_Name_In_Paper": "undoped Sb2Te3 single crystal",
+        "Property": "Seebeck",
+        "Value": 8.3e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/b915107a"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3nanosheet",
+        "Property": "Seebeck",
+        "Value": 0.000147,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/b915107a"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3",
+        "Property": "Seebeck",
+        "Value": 3.2999999999999996e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2017.01.002"
+      },
+      {
+        "Original_Name_In_Paper": "single crystalline Sb2Te3 compound",
+        "Property": "Seebeck",
+        "Value": 8.3e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01623a"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3 pellet",
+        "Property": "Seebeck",
+        "Value": 9.099999999999999e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2015.05.022"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3",
+        "Property": "Seebeck",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2019.04.005"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3 nanosheets",
+        "Property": "PF",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2012.09.061"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3 nanobelts",
+        "Property": "PF",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2012.09.061"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3nanosheet",
+        "Property": "Conductivity",
+        "Value": 104.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/b915107a"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3 bulk single crystal",
+        "Property": "Conductivity",
+        "Value": 105.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c1ce05591g"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3 bulk crystals",
+        "Property": "Conductivity",
+        "Value": 105.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2012.09.061"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3 single crystal",
+        "Property": "Conductivity",
+        "Value": 105.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra17284e"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3 nanoplatelets",
+        "Property": "Conductivity",
+        "Value": 80.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2019.411795"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3 / CNT-10",
+        "Property": "Conductivity",
+        "Value": 2350.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.104613"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3",
+        "Property": "Conductivity",
+        "Value": 2150.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.104613"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3",
+        "Property": "Conductivity",
+        "Value": 200000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11669-016-0462-2"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3 bulk",
+        "Property": "Conductivity",
+        "Value": 23000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01623a"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3",
+        "Property": "Conductivity",
+        "Value": 270000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01623a"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3 pellet",
+        "Property": "Conductivity",
+        "Value": 150000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2015.05.022"
+      }
+    ],
+    "420.0": [
+      {
+        "Original_Name_In_Paper": "Sb2Te3",
+        "Property": "ThermCond",
+        "Value": 0.76,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra17284e"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3",
+        "Property": "ZT",
+        "Value": 0.58,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/b915107a"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3nanosheet",
+        "Property": "ZT",
+        "Value": 0.58,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/b915107a"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3",
+        "Property": "ZT",
+        "Value": 0.58,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra17284e"
+      },
+      {
+        "Original_Name_In_Paper": "hexagonal Sb2Te3 nanosheets",
+        "Property": "Seebeck",
+        "Value": 0.00021,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra17284e"
+      },
+      {
+        "Original_Name_In_Paper": "hexagonal Sb2Te3 nanosheets",
+        "Property": "Conductivity",
+        "Value": 24900.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra17284e"
+      }
+    ],
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "pristine Sb2Te3",
+        "Property": "ThermCond",
+        "Value": 0.8300000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6dt00974c"
+      },
+      {
+        "Original_Name_In_Paper": "pristine Sb2Te3",
+        "Property": "Conductivity",
+        "Value": 97087.3786407767,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6dt00974c"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3",
+        "Property": "Seebeck",
+        "Value": 0.000214,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2019.411795"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3",
+        "Property": "Seebeck",
+        "Value": 0.00012000000000000002,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6dt00974c"
+      },
+      {
+        "Original_Name_In_Paper": "pristine Sb2Te3",
+        "Property": "PF",
+        "Value": 0.0015300000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6dt00974c"
+      }
+    ],
+    "450.0": [
+      {
+        "Original_Name_In_Paper": "amorphous Sb2Te3 thin films",
+        "Property": "ThermCond",
+        "Value": 0.23,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-017-14068-7"
+      },
+      {
+        "Original_Name_In_Paper": "amorphous Sb2Te3 thin films",
+        "Property": "ThermCond",
+        "Value": 0.23,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-017-14068-7"
+      },
+      {
+        "Original_Name_In_Paper": "amorphous Sb2Te3 thin films",
+        "Property": "ThermCond",
+        "Value": 0.23,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-017-14068-7"
+      }
+    ],
+    "710.0": [
+      {
+        "Original_Name_In_Paper": "Sb2Te3",
+        "Property": "ZT",
+        "Value": 0.92,
+        "Units": null,
+        "Editing": "co-doping with Ag",
+        "Source_DOI": "10.1016/j.jssc.2019.04.005"
+      },
+      {
+        "Original_Name_In_Paper": "co-doped Sb2Te3 based alloys",
+        "Property": "ZT",
+        "Value": 0.92,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.08.201"
+      }
+    ],
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "Sb2Te3",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": "Ag co-alloying",
+        "Source_DOI": "10.1016/j.nanoen.2020.105228"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3 nanoparticles",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6dt04323b"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3",
+        "Property": "Seebeck",
+        "Value": 0.000138,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.vacuum.2017.07.030"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3",
+        "Property": "Conductivity",
+        "Value": 67200.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.vacuum.2017.07.030"
+      }
+    ],
+    "380.0": [
+      {
+        "Original_Name_In_Paper": "Sb2Te3 / CH3NH3I",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-019-03596-4"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3 films",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-019-03596-4"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3 / CH3NH3I",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-019-03596-4"
+      }
+    ],
+    "390.0": [
+      {
+        "Original_Name_In_Paper": "Sb)2Te3",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pnsc.2017.02.009"
+      },
+      {
+        "Original_Name_In_Paper": "Sb)2Te3",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pnsc.2013.06.007"
+      }
+    ],
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "Sb2Te3 nanomaterial",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc90161h"
+      }
+    ],
+    "523.0": [
+      {
+        "Original_Name_In_Paper": "pristine Sb2Te3",
+        "Property": "ZT",
+        "Value": 1.18,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2017.09.004"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3",
+        "Property": "ZT",
+        "Value": 0.857,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.105186"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3",
+        "Property": "ZT",
+        "Value": 1.17,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.08.201"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Sb2Te3",
+        "Property": "PF",
+        "Value": 0.000215,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ra09801a"
+      }
+    ],
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "Sb2Te3-based",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6dt04323b"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3 with sulphur",
+        "Property": "ZT",
+        "Value": 0.92,
+        "Units": null,
+        "Editing": "By co-doping",
+        "Source_DOI": "10.1039/c6dt04323b"
+      }
+    ],
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "Sb2Te3",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": "In co-alloying",
+        "Source_DOI": "10.1016/j.mtphys.2018.07.002"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3 thin films",
+        "Property": "Seebeck",
+        "Value": 6.3e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.vacuum.2017.07.030"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Sb2Te3 / Ag2Te composites",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-019-45697-9"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3-Ag2Te bulk composite",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2017.11.198"
+      }
+    ],
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "Sb2Te3",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": "addition of Cu2Te",
+        "Source_DOI": "10.1016/j.apsusc.2017.11.198"
+      },
+      {
+        "Original_Name_In_Paper": "In-doped Sb2Te3 alloys",
+        "Property": "ZT",
+        "Value": 0.73,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/srep23143"
+      }
+    ],
+    "492.0": [
+      {
+        "Original_Name_In_Paper": "Sb2Te3",
+        "Property": "ZT",
+        "Value": 0.74,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2009.01.016"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3",
+        "Property": "Seebeck",
+        "Value": 0.000135,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2009.01.016"
+      }
+    ],
+    "150.0": [
+      {
+        "Original_Name_In_Paper": "Sb2Te3",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": "Cr - doping",
+        "Source_DOI": "10.1016/j.jssc.2012.03.042"
+      }
+    ],
+    "623.0": [
+      {
+        "Original_Name_In_Paper": "p-type Sb2Te3",
+        "Property": "ZT",
+        "Value": 0.41000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-019-44225-z"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3",
+        "Property": "PF",
+        "Value": 0.0017000000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.surfcoat.2020.125510"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Sb2Te3 films",
+        "Property": "ZT",
+        "Value": 0.32,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-019-44225-z"
+      }
+    ],
+    "290.0": [
+      {
+        "Original_Name_In_Paper": "Sb2Te3",
+        "Property": "ZT",
+        "Value": 0.21,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2012.03.061"
+      }
+    ],
+    "330.0": [
+      {
+        "Original_Name_In_Paper": "pure Sb2Te3",
+        "Property": "ZT",
+        "Value": 0.22,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matpr.2020.01.514"
+      }
+    ],
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "Sb2Te3",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.105195"
+      }
+    ],
+    "463.0": [
+      {
+        "Original_Name_In_Paper": "p-type Sb2Te3",
+        "Property": "Conductivity",
+        "Value": 32051.282051282,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0040-6090(02)00077-9"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Sb2Te3",
+        "Property": "Seebeck",
+        "Value": 0.00016,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0040-6090(02)00077-9"
+      }
+    ],
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "Sb2Te3",
+        "Property": "Seebeck",
+        "Value": 8e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2014.07.014"
+      }
+    ],
+    "367.0": [
+      {
+        "Original_Name_In_Paper": "Sb2Te3 film",
+        "Property": "Seebeck",
+        "Value": 7.8e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2010.03.052"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3 film",
+        "Property": "Seebeck",
+        "Value": 7.8e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2010.03.052"
+      }
+    ],
+    "497.0": [
+      {
+        "Original_Name_In_Paper": "hexagonal Sb2Te3 nanoplates",
+        "Property": "Seebeck",
+        "Value": 0.0001199,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.01.017"
+      }
+    ],
+    "298.0": [
+      {
+        "Original_Name_In_Paper": "Sb2Te3 nanorod",
+        "Property": "Seebeck",
+        "Value": 4.2999999999999995e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2017.01.002"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3 nanorod",
+        "Property": "Seebeck",
+        "Value": 4.2999999999999995e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2017.01.002"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3",
+        "Property": "PF",
+        "Value": 0.0012000000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.09.324"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3 nanorod",
+        "Property": "Conductivity",
+        "Value": 19000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2017.01.002"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3 nanorod",
+        "Property": "Conductivity",
+        "Value": 19000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2017.01.002"
+      }
+    ],
+    "473.0": [
+      {
+        "Original_Name_In_Paper": "Sb2Te3 / CH3NH3I",
+        "Property": "Seebeck",
+        "Value": 0.0004326,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": "incorporation of CH3NH3I",
+        "Source_DOI": "10.1039/c9qi01188a"
+      }
+    ],
+    "423.0": [
+      {
+        "Original_Name_In_Paper": "Sb2Te3",
+        "Property": "PF",
+        "Value": 0.000118,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.spmi.2019.05.036"
+      }
+    ],
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "at % Sb2Te3",
+        "Property": "PF",
+        "Value": 0.001469,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta08830f"
+      }
+    ],
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "Sb2Te3",
+        "Property": "PF",
+        "Value": 0.0023,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.09.324"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3",
+        "Property": "PF",
+        "Value": 0.0023,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.09.324"
+      }
+    ],
+    "310.0": [
+      {
+        "Original_Name_In_Paper": "Sb2Te3",
+        "Property": "Conductivity",
+        "Value": 150000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2019.03.013"
+      },
+      {
+        "Original_Name_In_Paper": "undoped Sb2Te3",
+        "Property": "Conductivity",
+        "Value": 110000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2019.03.013"
+      }
+    ],
+    "413.0": [
+      {
+        "Original_Name_In_Paper": "Sb2Te3 / CH3NH3I composites",
+        "Property": "Conductivity",
+        "Value": 29900.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2019.01.019"
+      }
+    ]
+  }
+}

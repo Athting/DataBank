@@ -1,0 +1,18 @@
+{
+  "Material": "BaFeO3",
+  "DOIs_Researched": [
+    "10.1016/j.ssi.2014.01.007"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "BaFeO3",
+        "Property": "Conductivity",
+        "Value": 500.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssi.2014.01.007"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Cu10.5Zn1.5Sb4S13",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2016.01.094"
+  ],
+  "Data_By_Temperature": {
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "Cu10.5Zn1.5Sb4S13",
+        "Property": "ZT",
+        "Value": 0.038,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.01.094"
+      }
+    ]
+  }
+}

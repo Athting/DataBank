@@ -1,0 +1,18 @@
+{
+  "Material": "Sn0.4Ba0.4Co4Sb12",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2016.11.024"
+  ],
+  "Data_By_Temperature": {
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.4Ba0.4Co4Sb12",
+        "Property": "ZT",
+        "Value": 0.92,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.11.024"
+      }
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "Material": "ZrCoBi",
+  "DOIs_Researched": [
+    "10.1016/j.mtphys.2020.100250",
+    "10.1016/j.jallcom.2019.152596",
+    "10.1038/s41467-018-04958-3"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "ZrCoBi",
+        "Property": "ThermCond",
+        "Value": 9.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.152596"
+      },
+      {
+        "Original_Name_In_Paper": "ZrCoBi",
+        "Property": "ThermCond",
+        "Value": 9.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41467-018-04958-3"
+      },
+      {
+        "Original_Name_In_Paper": "ZrCoBi",
+        "Property": "ThermCond",
+        "Value": 9.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41467-018-04958-3"
+      },
+      {
+        "Original_Name_In_Paper": "Sn-doped ZrCoBi",
+        "Property": "ZT",
+        "Value": 1.42,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2020.100250"
+      },
+      {
+        "Original_Name_In_Paper": "Sn-doped ZrCoBi",
+        "Property": "PF",
+        "Value": 0.01,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2020.100250"
+      },
+      {
+        "Original_Name_In_Paper": "ZrCoBi",
+        "Property": "Conductivity",
+        "Value": 0.0011400000000000002,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41467-018-04958-3"
+      }
+    ]
+  }
+}

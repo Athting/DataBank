@@ -1,0 +1,18 @@
+{
+  "Material": "BaBcSeO",
+  "DOIs_Researched": [
+    "10.1016/j.apsusc.2016.10.209"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Ba doped Bi0.875Ba0.125CuSeO",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2016.10.209"
+      }
+    ]
+  }
+}

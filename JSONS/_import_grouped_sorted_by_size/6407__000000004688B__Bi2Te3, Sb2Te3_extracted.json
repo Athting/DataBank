@@ -1,0 +1,186 @@
+{
+  "doi": "10.1016/j.enconman.2015.07.015",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Bi2Te3 / Sb2Te3",
+        "p-type Bi2Te3 / Sb2Te3",
+        "Bi2Te3 / Sb2Te3 nanolayer superlattices films",
+        "Bi2Te3 / Sb2Te3-based",
+        "p-type (Bi2Te3)0.25(Sb2Te3)0.75 compounds",
+        "p type Bi2Te3 / Sb2Te3",
+        "superlattice Bi2Te3–Sb2Te3 film",
+        "Bi2Te3 / Sb2Te3 multilayers",
+        "nano-scale Bi2Te3 / Sb2Te3",
+        "Bi2Te3 / Sb2Te3 powder",
+        "Bi2Te3 / Sb2Te3 film"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Bi2Te3 / Sb2Te3",
+          "value": 0.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Bi2Te3 / Sb2Te3",
+          "zt_value": 2.4,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi2Te3 / Sb2Te3",
+          "zt_value": 1,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi2Te3 / Sb2Te3",
+          "zt_value": 2.4,
+          "temperature": "295 K"
+        },
+        {
+          "material": "p-type Bi2Te3 / Sb2Te3",
+          "zt_value": 2.4,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi2Te3 / Sb2Te3",
+          "zt_value": 2.4,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi2Te3 / Sb2Te3",
+          "zt_value": 1,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi2Te3 / Sb2Te3",
+          "zt_value": 2.4,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi2Te3 / Sb2Te3 nanolayer superlattices films",
+          "zt_value": 1.47,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi2Te3 / Sb2Te3-based",
+          "zt_value": 2.4,
+          "temperature": "295 K"
+        },
+        {
+          "material": "p-type Bi2Te3 / Sb2Te3",
+          "zt_value": 2.4,
+          "temperature": "295 K"
+        },
+        {
+          "material": "p-type (Bi2Te3)0.25(Sb2Te3)0.75 compounds",
+          "zt_value": 0.00284,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi2Te3 / Sb2Te3",
+          "zt_value": 2.4,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi2Te3 / Sb2Te3",
+          "zt_value": 2.4,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi2Te3 / Sb2Te3",
+          "zt_value": 2.4,
+          "temperature": "295 K"
+        },
+        {
+          "material": "p type Bi2Te3 / Sb2Te3",
+          "zt_value": 2.4,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "p-type Bi2Te3 / Sb2Te3",
+          "zt_value": 2.4,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Bi2Te3 / Sb2Te3",
+          "zt_value": 1,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Bi2Te3 / Sb2Te3",
+          "zt_value": 1.5,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Bi2Te3 / Sb2Te3",
+          "zt_value": 2.4,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "p-type Bi2Te3 / Sb2Te3",
+          "zt_value": 2.4,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Bi2Te3 / Sb2Te3",
+          "zt_value": 2.4,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "superlattice Bi2Te3–Sb2Te3 film",
+          "zt_value": 2.4,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Bi2Te3 / Sb2Te3 multilayers",
+          "zt_value": 2,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "nano-scale Bi2Te3 / Sb2Te3",
+          "zt_value": 1.47,
+          "temperature": "420.0 K"
+        },
+        {
+          "material": "Bi2Te3 / Sb2Te3 powder",
+          "zt_value": 1.47,
+          "temperature": "453.0 K"
+        },
+        {
+          "material": "Bi2Te3 / Sb2Te3 film",
+          "zt_value": 2.4,
+          "temperature": "373.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Ca2.9Yb0.1Co3.9O9+\u03b4",
+  "DOIs_Researched": [
+    "10.1007/s10854-015-3401-9"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Ca2.9Yb0.1Co3.9Ag0.1O9+\u03b4",
+        "Property": "PF",
+        "Value": 0.000175,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-015-3401-9"
+      }
+    ]
+  }
+}

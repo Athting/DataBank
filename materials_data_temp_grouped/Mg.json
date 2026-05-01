@@ -1,0 +1,29 @@
+{
+  "Material": "Mg",
+  "DOIs_Researched": [
+    "10.1016/S0925-8388(05)01104-7",
+    "10.1016/S0925-8388(07)00600-7"
+  ],
+  "Data_By_Temperature": {
+    "753.0": [
+      {
+        "Original_Name_In_Paper": "Mg 270 Hyperfine",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(05)01104-7"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Mg-rich Mg",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(07)00600-7"
+      }
+    ]
+  }
+}

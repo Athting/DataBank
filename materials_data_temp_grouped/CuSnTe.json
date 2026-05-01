@@ -1,0 +1,34 @@
+{
+  "Material": "CuSnTe",
+  "DOIs_Researched": [
+    "10.1039/c8ta04993a"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "p-type Cu1.90Sn0.10Te",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta04993a"
+      },
+      {
+        "Original_Name_In_Paper": "Cu1.90Sn0.10Te",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta04993a"
+      },
+      {
+        "Original_Name_In_Paper": "Cu1.90Sn0.10Te",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta04993a"
+      }
+    ]
+  }
+}

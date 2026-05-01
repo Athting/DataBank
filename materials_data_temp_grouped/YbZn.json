@@ -1,0 +1,28 @@
+{
+  "Material": "YbZn",
+  "DOIs_Researched": [
+    "10.1016/S1002-0721(12)60398-6"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "YbZn",
+        "Property": "ZT",
+        "Value": 1.26,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S1002-0721(12)60398-6"
+      }
+    ],
+    "726.0": [
+      {
+        "Original_Name_In_Paper": "polycrystalline YbZn",
+        "Property": "ZT",
+        "Value": 0.65,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S1002-0721(12)60398-6"
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "Material": "Bi2Te3-xSe",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2020.156523",
+    "10.1016/j.mser.2018.09.001"
+  ],
+  "Data_By_Temperature": {
+    "550.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Te3-xSex",
+        "Property": "ZT",
+        "Value": 0.34,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.156523"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Te3-xSex",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mser.2018.09.001"
+      }
+    ]
+  }
+}

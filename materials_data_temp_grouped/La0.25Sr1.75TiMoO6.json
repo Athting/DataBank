@@ -1,0 +1,27 @@
+{
+  "Material": "La0.25Sr1.75TiMoO6",
+  "DOIs_Researched": [
+    "10.1039/c7dt00848a",
+    "10.1557/jmr.2018.376"
+  ],
+  "Data_By_Temperature": {
+    "517.0": [
+      {
+        "Original_Name_In_Paper": "La0.25Sr1.75TiMoO6",
+        "Property": "Conductivity",
+        "Value": 164000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7dt00848a"
+      },
+      {
+        "Original_Name_In_Paper": "La0.25Sr1.75TiMoO6",
+        "Property": "Conductivity",
+        "Value": 1.64e-05,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1557/jmr.2018.376"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Fe0.3Co0.7Si",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2017.01.217"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Fe0.3Co0.7Si",
+        "Property": "ZT",
+        "Value": 0.004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.01.217"
+      }
+    ]
+  }
+}

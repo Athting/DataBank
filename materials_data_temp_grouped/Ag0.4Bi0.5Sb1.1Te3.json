@@ -1,0 +1,26 @@
+{
+  "Material": "Ag0.4Bi0.5Sb1.1Te3",
+  "DOIs_Researched": [
+    "10.1016/j.matlet.2006.03.080"
+  ],
+  "Data_By_Temperature": {
+    "558.0": [
+      {
+        "Original_Name_In_Paper": "Ag0.4Bi0.5Sb1.1Te3",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2006.03.080"
+      },
+      {
+        "Original_Name_In_Paper": "Ag0.4Bi0.5Sb1.1Te3",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2006.03.080"
+      }
+    ]
+  }
+}

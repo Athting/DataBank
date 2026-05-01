@@ -1,0 +1,77 @@
+{
+  "Material": "Ni0.06Mo3Sb5.4Te1.6",
+  "DOIs_Researched": [
+    "10.1007/s11837-016-2060-5",
+    "10.1016/j.jssc.2014.04.006",
+    "10.1016/j.jallcom.2010.05.124",
+    "10.1016/j.jssc.2015.02.016"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ni0.06Mo3Sb5.4Te1.6",
+        "Property": "ThermCond",
+        "Value": 5.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2015.02.016"
+      }
+    ],
+    "1050.0": [
+      {
+        "Original_Name_In_Paper": "Ni0.06Mo3Sb5.4Te1.6",
+        "Property": "ZT",
+        "Value": 0.93,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2014.04.006"
+      },
+      {
+        "Original_Name_In_Paper": "Ni0.06Mo3Sb5.4Te1.6",
+        "Property": "ZT",
+        "Value": 0.93,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11837-016-2060-5"
+      }
+    ],
+    "1023.0": [
+      {
+        "Original_Name_In_Paper": "Ni0.06Mo3Sb5.4Te1.6",
+        "Property": "ZT",
+        "Value": 0.93,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.05.124"
+      },
+      {
+        "Original_Name_In_Paper": "Ni0.06Mo3Sb5.4Te1.6",
+        "Property": "ZT",
+        "Value": 0.93,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.05.124"
+      }
+    ],
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "Ni0.06Mo3Sb5.4Te1.6",
+        "Property": "ZT",
+        "Value": 0.34,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.05.124"
+      }
+    ],
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "Ni0.06Mo3Sb5.4Te1.6",
+        "Property": "PF",
+        "Value": 0.00252,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2014.04.006"
+      }
+    ]
+  }
+}

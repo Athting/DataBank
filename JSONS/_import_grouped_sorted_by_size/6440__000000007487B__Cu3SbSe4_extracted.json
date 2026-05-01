@@ -1,0 +1,285 @@
+{
+  "doi": "10.1038/am.2013.15",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Cu3SbSe4",
+        "un-doped Cu3SbSe4 HP-350-1h",
+        "Ti-doped Cu3SbSe4",
+        "Cu3Sb1-xTixSe4 pellets",
+        "Sn doped Cu3SbSe4",
+        "Sn-doped Cu3SbSe4",
+        "pristine Cu3SbSe4",
+        "polycrystalline Cu3SbSe4",
+        "Bi-doped Cu3SbSe4",
+        "15 vol. % of Cu3SbSe4",
+        "nanophase Cu3SbSe4",
+        "Cu3Sb0.98Sn0.02Se4 bulk materials",
+        "1 vol % of Cu3SbSe4",
+        "( 1 vol % ) of Cu3SbSe4 nanoparticles",
+        "bismuth doped Cu3SbSe4",
+        "pure Cu3SbSe4",
+        "pure Cu3SbSe4 film"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "Cu3SbSe4",
+          "value": 0.0005,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Cu3SbSe4",
+          "value": 0.0004,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "Cu3SbSe4",
+          "value": 1250,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Cu3SbSe4",
+          "value": 0.91,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "425.0 K"
+        },
+        {
+          "material": "Cu3SbSe4",
+          "value": 0.28,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Cu3SbSe4",
+          "value": 1.34,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "un-doped Cu3SbSe4 HP-350-1h",
+          "value": 1.1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Ti-doped Cu3SbSe4",
+          "value": 0.38,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "623.0 K"
+        },
+        {
+          "material": "Cu3SbSe4",
+          "value": 0.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "Cu3SbSe4",
+          "value": 0.47000000000000003,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "275.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Cu3SbSe4",
+          "value": 0.00075,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Cu3SbSe4",
+          "value": 41800,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "Cu3SbSe4",
+          "value": 42000,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "( 1 vol % ) of Cu3SbSe4 nanoparticles",
+          "value": 0.0037,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "467.0 K"
+        },
+        {
+          "material": "Cu3SbSe4",
+          "value": 0.0010500000000000002,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "pure Cu3SbSe4 film",
+          "value": 0.001992,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "400.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Cu3SbSe4",
+          "zt_value": 0.09,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Cu3SbSe4",
+          "zt_value": 0.07,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Cu3SbSe4",
+          "zt_value": 0.22,
+          "temperature": "623.0 K"
+        },
+        {
+          "material": "Cu3Sb1-xTixSe4 pellets",
+          "zt_value": 0.59,
+          "temperature": "623.0 K"
+        },
+        {
+          "material": "Sn doped Cu3SbSe4",
+          "zt_value": 1,
+          "temperature": "623.0 K"
+        },
+        {
+          "material": "Sn-doped Cu3SbSe4",
+          "zt_value": 1,
+          "temperature": "623.0 K"
+        },
+        {
+          "material": "Cu3SbSe4",
+          "zt_value": 1,
+          "temperature": "623.0 K"
+        },
+        {
+          "material": "Cu3SbSe4",
+          "zt_value": 0.5,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "pristine Cu3SbSe4",
+          "zt_value": 0.41000000000000003,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "pristine Cu3SbSe4",
+          "zt_value": 0.42,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "polycrystalline Cu3SbSe4",
+          "zt_value": 0.4,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "Bi-doped Cu3SbSe4",
+          "zt_value": 1.26,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "15 vol. % of Cu3SbSe4",
+          "zt_value": 1.23,
+          "temperature": "648.0 K"
+        },
+        {
+          "material": "nanophase Cu3SbSe4",
+          "zt_value": 1.23,
+          "temperature": "648.0 K"
+        },
+        {
+          "material": "Cu3SbSe4",
+          "zt_value": 1.4,
+          "temperature": "648.0 K"
+        },
+        {
+          "material": "Cu3SbSe4",
+          "zt_value": 0.5,
+          "temperature": "648.0 K"
+        },
+        {
+          "material": "Cu3Sb0.98Sn0.02Se4 bulk materials",
+          "zt_value": 0.5,
+          "temperature": "575.0 K"
+        },
+        {
+          "material": "Cu3Sb0.98Sn0.02Se4 bulk materials",
+          "zt_value": 0.5,
+          "temperature": "575.0 K"
+        },
+        {
+          "material": "Cu3Sb0.98Sn0.02Se4 bulk materials",
+          "zt_value": 0.5,
+          "temperature": "575.0 K"
+        },
+        {
+          "material": "Cu3SbSe4",
+          "zt_value": 1.6,
+          "temperature": "467.0 K"
+        },
+        {
+          "material": "1 vol % of Cu3SbSe4",
+          "zt_value": 1.6,
+          "temperature": "467.0 K"
+        },
+        {
+          "material": "Sn-doped Cu3SbSe4",
+          "zt_value": 0.5,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "bismuth doped Cu3SbSe4",
+          "zt_value": 0.7000000000000001,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "pristine Cu3SbSe4",
+          "zt_value": 0.41000000000000003,
+          "temperature": "523.0 K"
+        },
+        {
+          "material": "Cu3SbSe4",
+          "zt_value": 0.115,
+          "temperature": "374.0 K"
+        },
+        {
+          "material": "pure Cu3SbSe4",
+          "zt_value": 0.17,
+          "temperature": "650.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

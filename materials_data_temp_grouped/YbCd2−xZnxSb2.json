@@ -1,0 +1,18 @@
+{
+  "Material": "YbCd2\u2212xZnxSb2",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2015.08.039"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "YbCd2\u2212xZnxSb2",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2015.08.039"
+      }
+    ]
+  }
+}

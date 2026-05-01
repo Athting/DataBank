@@ -1,0 +1,82 @@
+{
+  "Material": "MgSb2",
+  "DOIs_Researched": [
+    "10.1039/c9ta06889a",
+    "10.1016/j.mtphys.2017.06.003",
+    "10.1007/s10853-018-2127-5",
+    "10.1039/c4ra04889j",
+    "10.1039/c9nr04726c",
+    "10.1007/s10854-019-01893-x",
+    "10.1039/c9ta00288j"
+  ],
+  "Data_By_Temperature": {
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "Mg3Sb2 monolayer",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9nr04726c"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Mg3Sb2-based",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra04889j"
+      }
+    ],
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "n-type Mg3Sb2-based compounds",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2017.06.003"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Mg3Sb2 materials",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta00288j"
+      }
+    ],
+    "725.0": [
+      {
+        "Original_Name_In_Paper": "n-type Mg3Sb2-based compounds",
+        "Property": "ZT",
+        "Value": 1.65,
+        "Units": null,
+        "Editing": "Mg and Te doping",
+        "Source_DOI": "10.1007/s10854-019-01893-x"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Mg3Sb2 compounds",
+        "Property": "ZT",
+        "Value": 0.18,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-018-2127-5"
+      }
+    ],
+    "716.0": [
+      {
+        "Original_Name_In_Paper": "n-type Mg3Sb2-based compound",
+        "Property": "ZT",
+        "Value": 1.51,
+        "Units": null,
+        "Editing": "Mg and Te doping",
+        "Source_DOI": "10.1039/c9ta06889a"
+      }
+    ]
+  }
+}

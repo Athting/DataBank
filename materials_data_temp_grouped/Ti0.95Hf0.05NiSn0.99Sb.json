@@ -1,0 +1,61 @@
+{
+  "Material": "Ti0.95Hf0.05NiSn0.99Sb",
+  "DOIs_Researched": [
+    "10.1016/B978-008044964-7-50013-3",
+    "10.1016/j.intermet.2006.08.008"
+  ],
+  "Data_By_Temperature": {
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "(Ti0.95Hf0.05)Ni(Sn0.99Sb0.01) compound",
+        "Property": "ThermCond",
+        "Value": 3.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": "Sb doping",
+        "Source_DOI": "10.1016/j.intermet.2006.08.008"
+      },
+      {
+        "Original_Name_In_Paper": "(Ti0.95Hf0.05)Ni(Sn0.99Sb0.01) compound",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2006.08.008"
+      }
+    ],
+    "770.0": [
+      {
+        "Original_Name_In_Paper": "(Ti0.95Hf0.05)Ni(Sn0.99Sb0.01)",
+        "Property": "ZT",
+        "Value": 0.78,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2006.08.008"
+      },
+      {
+        "Original_Name_In_Paper": "(Ti0.95Hf0.05)Ni(Sn0.99Sb0.01) compound",
+        "Property": "ZT",
+        "Value": 0.78,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2006.08.008"
+      },
+      {
+        "Original_Name_In_Paper": "(Ti0.95Hf0.05)Ni(Sn0.99Sb0.01) compound",
+        "Property": "ZT",
+        "Value": 0.78,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2006.08.008"
+      },
+      {
+        "Original_Name_In_Paper": "Ti0.95Hf0.05NiSn0.99Sb0.01 compounds",
+        "Property": "ZT",
+        "Value": 0.78,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-008044964-7-50013-3"
+      }
+    ]
+  }
+}

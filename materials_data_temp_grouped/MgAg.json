@@ -1,0 +1,110 @@
+{
+  "Material": "MgAg",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2014.04.012",
+    "10.1038/s41467-020-14772-5",
+    "10.1016/j.jallcom.2018.05.054",
+    "10.1016/j.nanoen.2014.11.027",
+    "10.1016/j.actamat.2015.09.033"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "MgAg0.97Sb0.99",
+        "Property": "ThermCond",
+        "Value": 0.6000000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41467-020-14772-5"
+      },
+      {
+        "Original_Name_In_Paper": "MgAg0.97Sb0.99",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2014.11.027"
+      },
+      {
+        "Original_Name_In_Paper": "MgAg0.97Sb0.99",
+        "Property": "Conductivity",
+        "Value": 28089.8876404494,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2015.09.033"
+      },
+      {
+        "Original_Name_In_Paper": "MgAg0.97Sb0.995",
+        "Property": "Conductivity",
+        "Value": 48076.9230769231,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2015.09.033"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "MgAg0.97Sb0.99",
+        "Property": "ThermCond",
+        "Value": 0.6000000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2014.04.012"
+      },
+      {
+        "Original_Name_In_Paper": "MgAg0.97Sb0.99",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2014.04.012"
+      },
+      {
+        "Original_Name_In_Paper": "MgAg0.97Sb0.99",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2014.04.012"
+      },
+      {
+        "Original_Name_In_Paper": "MgAg0.97Sb0.995",
+        "Property": "PF",
+        "Value": 0.00222,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2015.09.033"
+      }
+    ],
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "MgAg0.97Sb0.99",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2014.11.027"
+      }
+    ],
+    "523.0": [
+      {
+        "Original_Name_In_Paper": "MgAg0.97Sb0.99",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2014.11.027"
+      }
+    ],
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "Mg(0.3Ag) alloy",
+        "Property": "ZT",
+        "Value": 0.02,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.05.054"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "% Bi2Te3 powder",
+  "DOIs_Researched": [
+    "10.1016/j.eurpolymj.2020.109726"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "% Bi2Te3 powder",
+        "Property": "ZT",
+        "Value": 0.04,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.eurpolymj.2020.109726"
+      }
+    ]
+  }
+}

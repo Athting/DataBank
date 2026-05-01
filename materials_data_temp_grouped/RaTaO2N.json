@@ -1,0 +1,18 @@
+{
+  "Material": "RaTaO2N",
+  "DOIs_Researched": [
+    "10.1016/j.mssp.2019.104800"
+  ],
+  "Data_By_Temperature": {
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "RaTaO2N",
+        "Property": "ZT",
+        "Value": 0.009000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2019.104800"
+      }
+    ]
+  }
+}

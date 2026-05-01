@@ -1,0 +1,68 @@
+{
+  "doi": "10.1016/j.actamat.2017.06.036",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Bi0.4Sb1.6Te3.4"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Bi0.4Sb1.6Te3.4",
+          "value": 0.42,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "417.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Bi0.4Sb1.6Te3.4",
+          "value": 0.0026300000000000004,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "417.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Bi0.4Sb1.6Te3.4",
+          "zt_value": 1.4100000000000001,
+          "temperature": "417.0 K"
+        },
+        {
+          "material": "Bi0.4Sb1.6Te3.4",
+          "zt_value": 1.4100000000000001,
+          "temperature": "417.0 K"
+        },
+        {
+          "material": "Bi0.4Sb1.6Te3.4",
+          "zt_value": 1.4100000000000001,
+          "temperature": "417.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

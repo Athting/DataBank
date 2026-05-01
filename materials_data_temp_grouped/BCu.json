@@ -1,0 +1,18 @@
+{
+  "Material": "BCu",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2012.05.001"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "BCu",
+        "Property": "Seebeck",
+        "Value": 3.0000000000000004e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": "BCu addition",
+        "Source_DOI": "10.1016/j.jallcom.2012.05.001"
+      }
+    ]
+  }
+}

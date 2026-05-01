@@ -1,0 +1,97 @@
+{
+  "Material": "AgTe",
+  "DOIs_Researched": [
+    "10.1016/j.cej.2020.124763",
+    "10.1016/S0042-207X(02)00274-9",
+    "10.1038/s41467-019-08835-5",
+    "10.1039/c8ce01863d",
+    "10.1007/s11051-019-4536-z",
+    "10.1016/j.actamat.2012.09.037",
+    "10.1557/PROC-0886-F09-05",
+    "10.1016/j.ccr.2015.03.023"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "silver thallium tellurides",
+        "Property": "ThermCond",
+        "Value": 0.25,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1557/PROC-0886-F09-05"
+      },
+      {
+        "Original_Name_In_Paper": "silver telluride thin films",
+        "Property": "Seebeck",
+        "Value": -49.0,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0042-207X(02)00274-9"
+      },
+      {
+        "Original_Name_In_Paper": "n-type Ag2Te films",
+        "Property": "PF",
+        "Value": 8.499999999999999e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41467-019-08835-5"
+      },
+      {
+        "Original_Name_In_Paper": "silver telluride NWs",
+        "Property": "PF",
+        "Value": 9e-07,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11051-019-4536-z"
+      }
+    ],
+    "633.0": [
+      {
+        "Original_Name_In_Paper": "p-type Ag2Te",
+        "Property": "ZT",
+        "Value": 0.61,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cej.2020.124763"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "p-type Ag2Te",
+        "Property": "ZT",
+        "Value": 0.41000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ccr.2015.03.023"
+      },
+      {
+        "Original_Name_In_Paper": "bulk silver telluride",
+        "Property": "Seebeck",
+        "Value": -6.5e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0042-207X(02)00274-9"
+      }
+    ],
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "silver telluride nanowires",
+        "Property": "PF",
+        "Value": 0.00117,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ce01863d"
+      }
+    ],
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "doped Ag2Te",
+        "Property": "PF",
+        "Value": 0.00111,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2012.09.037"
+      }
+    ]
+  }
+}

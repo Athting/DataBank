@@ -1,0 +1,18 @@
+{
+  "Material": "ETMnCN4H2O",
+  "DOIs_Researched": [
+    "10.1039/a908670f"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "(ET)4M(CN)4(H2O)",
+        "Property": "Conductivity",
+        "Value": 10000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/a908670f"
+      }
+    ]
+  }
+}

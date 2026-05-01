@@ -1,0 +1,76 @@
+{
+  "Material": "HfZrNiPdSnSb",
+  "DOIs_Researched": [
+    "10.1007/s10853-020-04949-0",
+    "10.1016/j.nanoen.2012.10.005",
+    "10.1016/j.rser.2013.03.008",
+    "10.1038/asiamat.2010.138",
+    "10.1016/j.energy.2019.04.088"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Hf0.5Zr0.5Ni0.8Pd0.2Sn0.99Sb0.01 compound",
+        "Property": "ThermCond",
+        "Value": 0.00221,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      },
+      {
+        "Original_Name_In_Paper": "Hf0.5Zr0.5Ni0.8Pd0.2Sn0.99Sb0.01 compound",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Hf0.5Zr0.5Ni0.8Pd0.2Sn0.99Sb0.01 compound",
+        "Property": "ThermCond",
+        "Value": 4.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2012.10.005"
+      },
+      {
+        "Original_Name_In_Paper": "Hf0.5Zr0.5Ni0.8Pd0.2Sn0.99Sb0.01 compound",
+        "Property": "PF",
+        "Value": 0.00221,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2012.10.005"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Hf0.5Zr0.5Ni0.8Pd0.2Sn0.99Sb0.01",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": "Partial substitution",
+        "Source_DOI": "10.1016/j.energy.2019.04.088"
+      },
+      {
+        "Original_Name_In_Paper": "Hf0.75Zr0.25Ni0.9Pd0.1Sn0.975Sb0.0025",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/asiamat.2010.138"
+      }
+    ],
+    "803.0": [
+      {
+        "Original_Name_In_Paper": "Hf0.75Zr0.25Ni0.9Pd0.1Sn0.975Sb0.0025",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rser.2013.03.008"
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "Material": "Ca2CoO3 \\* 0.7 CoO2",
+  "DOIs_Researched": [
+    "10.1016/j.ssc.2003.11.045",
+    "10.1039/c2ee22777k",
+    "10.1016/j.jallcom.2003.12.018"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "(Ca2CoO3)0.7CoO2",
+        "Property": "ZT",
+        "Value": 0.8300000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2003.12.018"
+      },
+      {
+        "Original_Name_In_Paper": "(Ca2CoO3)0.7CoO2",
+        "Property": "ZT",
+        "Value": 0.8300000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2003.11.045"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "(Ca2CoO3)0.7CoO2",
+        "Property": "ZT",
+        "Value": 0.62,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2ee22777k"
+      }
+    ]
+  }
+}

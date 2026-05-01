@@ -1,0 +1,29 @@
+{
+  "Material": "Tin Selenide (SnSe)",
+  "DOIs_Researched": [
+    "10.1039/c6qi00263c",
+    "10.1016/j.jallcom.2020.154304"
+  ],
+  "Data_By_Temperature": {
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "single-crystalline tin selenide",
+        "Property": "ZT",
+        "Value": 2.62,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6qi00263c"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "pristine tin selenide",
+        "Property": "Conductivity",
+        "Value": 0.00046,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154304"
+      }
+    ]
+  }
+}

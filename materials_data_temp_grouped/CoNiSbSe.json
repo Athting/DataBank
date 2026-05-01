@@ -1,0 +1,18 @@
+{
+  "Material": "CoNiSbSe",
+  "DOIs_Researched": [
+    "10.1039/c8ta05572f"
+  ],
+  "Data_By_Temperature": {
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "Co0.93Ni0.07SbS0.93Se0.07 producing",
+        "Property": "ThermCond",
+        "Value": 2.3,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta05572f"
+      }
+    ]
+  }
+}

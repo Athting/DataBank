@@ -1,0 +1,38 @@
+{
+  "Material": "Sb1.65Bi0.35Te3",
+  "DOIs_Researched": [
+    "10.1016/j.jpcs.2019.109262"
+  ],
+  "Data_By_Temperature": {
+    "425.0": [
+      {
+        "Original_Name_In_Paper": "Sb1.65Bi0.35Te3",
+        "Property": "ZT",
+        "Value": 1.1400000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2019.109262"
+      }
+    ],
+    "420.0": [
+      {
+        "Original_Name_In_Paper": "Sb1.65Bi0.35Te3",
+        "Property": "ZT",
+        "Value": 1.1400000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2019.109262"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Sb1.65Bi0.35Te3",
+        "Property": "Seebeck",
+        "Value": 0.0002,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2019.109262"
+      }
+    ]
+  }
+}

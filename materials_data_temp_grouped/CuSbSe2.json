@@ -1,0 +1,86 @@
+{
+  "Material": "CuSbSe2",
+  "DOIs_Researched": [
+    "10.1039/c4ra07609e",
+    "10.1039/c9dt02225b",
+    "10.1016/j.mattod.2019.07.003",
+    "10.1016/j.jallcom.2016.07.093",
+    "10.1039/c6ta00039h"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "CuSbSe2",
+        "Property": "ThermCond",
+        "Value": 0.49,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mattod.2019.07.003"
+      },
+      {
+        "Original_Name_In_Paper": "CuSbSe2 thin film",
+        "Property": "Seebeck",
+        "Value": 3.4e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra07609e"
+      }
+    ],
+    "623.0": [
+      {
+        "Original_Name_In_Paper": "pure CuSbSe2",
+        "Property": "ZT",
+        "Value": 0.25,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta00039h"
+      },
+      {
+        "Original_Name_In_Paper": "pure CuSbSe2",
+        "Property": "Conductivity",
+        "Value": 487.6145894285,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta00039h"
+      }
+    ],
+    "150.0": [
+      {
+        "Original_Name_In_Paper": "CuSbSe2",
+        "Property": "ZT",
+        "Value": 0.0024000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.07.093"
+      }
+    ],
+    "650.0": [
+      {
+        "Original_Name_In_Paper": "Ti doped CuSbSe2",
+        "Property": "ZT",
+        "Value": 0.0041,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra07609e"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "CuSbSe2 / MWCNT / PANI",
+        "Property": "PF",
+        "Value": 1.1600000000000001e-06,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9dt02225b"
+      },
+      {
+        "Original_Name_In_Paper": "CuSbSe2 thin film",
+        "Property": "Conductivity",
+        "Value": 31360.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra07609e"
+      }
+    ]
+  }
+}

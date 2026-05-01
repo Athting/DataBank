@@ -1,0 +1,26 @@
+{
+  "Material": "La0.1Sr0.89TiO3",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2012.07.009"
+  ],
+  "Data_By_Temperature": {
+    "963.0": [
+      {
+        "Original_Name_In_Paper": "La0.1Sr0.89Yb0.01TiO3",
+        "Property": "ThermCond",
+        "Value": 3.9,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2012.07.009"
+      },
+      {
+        "Original_Name_In_Paper": "La0.1Sr0.89Yb0.01TiO3",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2012.07.009"
+      }
+    ]
+  }
+}

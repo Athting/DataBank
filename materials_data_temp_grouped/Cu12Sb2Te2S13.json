@@ -1,0 +1,26 @@
+{
+  "Material": "Cu12Sb2Te2S13",
+  "DOIs_Researched": [
+    "10.1039/c5cp02900g"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Cu12Sb2Te2S13",
+        "Property": "ThermCond",
+        "Value": 0.55,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5cp02900g"
+      },
+      {
+        "Original_Name_In_Paper": "Cu12Sb2Te2S13",
+        "Property": "ThermCond",
+        "Value": 0.7000000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5cp02900g"
+      }
+    ]
+  }
+}

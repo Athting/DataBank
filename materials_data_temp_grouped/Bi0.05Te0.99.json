@@ -1,0 +1,34 @@
+{
+  "Material": "Bi0.05Te0.99",
+  "DOIs_Researched": [
+    "10.1039/c9ee00317g"
+  ],
+  "Data_By_Temperature": {
+    "650.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.05Ge0.99Te",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ee00317g"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.05Ge0.99Te",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ee00317g"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.05Ge0.99Te",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ee00317g"
+      }
+    ]
+  }
+}

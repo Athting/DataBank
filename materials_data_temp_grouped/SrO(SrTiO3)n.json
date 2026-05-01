@@ -1,0 +1,36 @@
+{
+  "Material": "SrO(SrTiO3)n",
+  "DOIs_Researched": [
+    "10.1016/j.rser.2018.10.006",
+    "10.1016/j.ssc.2014.09.011",
+    "10.1016/j.ceramint.2016.04.014"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Nb-doped SrO(SrTiO3)n",
+        "Property": "ThermCond",
+        "Value": 4.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rser.2018.10.006"
+      },
+      {
+        "Original_Name_In_Paper": "SrO(SrTiO3)n",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2014.09.011"
+      },
+      {
+        "Original_Name_In_Paper": "SrO(SrTiO3)n",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2016.04.014"
+      }
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "Material": "TiO1.76",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2018.07.246",
+    "10.1016/j.jmat.2017.06.002"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "TiO1.76",
+        "Property": "ThermCond",
+        "Value": 1.6,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2017.06.002"
+      },
+      {
+        "Original_Name_In_Paper": "TiO1.76",
+        "Property": "ZT",
+        "Value": 0.35000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.07.246"
+      },
+      {
+        "Original_Name_In_Paper": "TiO1.76",
+        "Property": "ZT",
+        "Value": 0.33,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2017.06.002"
+      },
+      {
+        "Original_Name_In_Paper": "TiO1.76",
+        "Property": "ZT",
+        "Value": 0.33,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2017.06.002"
+      },
+      {
+        "Original_Name_In_Paper": "TiO1.76",
+        "Property": "PF",
+        "Value": 0.0007549999999999999,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.07.246"
+      },
+      {
+        "Original_Name_In_Paper": "TiO1.76",
+        "Property": "PF",
+        "Value": 0.000543,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2017.06.002"
+      },
+      {
+        "Original_Name_In_Paper": "TiO1.76",
+        "Property": "PF",
+        "Value": 0.000543,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2017.06.002"
+      }
+    ],
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "TiO1.76",
+        "Property": "Conductivity",
+        "Value": 12500.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2017.06.002"
+      }
+    ]
+  }
+}

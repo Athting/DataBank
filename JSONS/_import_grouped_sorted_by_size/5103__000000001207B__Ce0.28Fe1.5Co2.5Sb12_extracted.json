@@ -1,0 +1,55 @@
+{
+  "doi": "10.1016/j.rser.2013.03.008",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "bulk Ce0.28Fe1.5Co2.5Sb12",
+        "p-type Ce0.28Fe1.5Co2.5Sb12"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "bulk Ce0.28Fe1.5Co2.5Sb12",
+          "zt_value": 1.1,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "p-type Ce0.28Fe1.5Co2.5Sb12",
+          "zt_value": 1.1,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "p-type Ce0.28Fe1.5Co2.5Sb12",
+          "zt_value": 1.1,
+          "temperature": "753.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

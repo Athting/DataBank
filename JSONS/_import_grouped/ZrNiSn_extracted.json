@@ -1,0 +1,277 @@
+{
+  "doi": "10.1016/j.jallcom.2017.12.205",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "ZrNiSn",
+        "Zr0.8)Ni1.1Sn",
+        "pure ZrNiSn",
+        "pristine ZrNiSn",
+        "n-type ZrNiSn ( with Hf",
+        "Sb doped ZrNiSn compounds",
+        "pure ZrNiSn compound",
+        "nondoped ZrNiSn",
+        "Pd-substituted ZrNiSn",
+        "ZrNi0.98Cu0.02Sn",
+        "undoped ZrNiSn"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "Zr0.8)Ni1.1Sn",
+          "value": -0.00022899999999999998,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure ZrNiSn",
+          "value": -0.00050547,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "ZrNiSn",
+          "value": -0.000175,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "ZrNiSn",
+          "value": 213,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "ZrNiSn",
+          "value": 0.000252,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "800.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "ZrNiSn",
+          "value": 23809.5238095238,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure ZrNiSn",
+          "value": 0.000585,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "ZrNiSn",
+          "value": 0.00059,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "800.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "ZrNiSn",
+          "value": 6.3,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Zr0.8)Ni1.1Sn",
+          "value": 4.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "ZrNiSn",
+          "value": 8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "ZrNiSn",
+          "value": 6.3,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "ZrNiSn",
+          "value": 14.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "ZrNiSn",
+          "value": 4.3,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "ZrNiSn",
+          "value": 11.1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "ZrNiSn",
+          "value": 12.39,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "ZrNiSn",
+          "value": 10.9,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "pristine ZrNiSn",
+          "value": 4.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "ZrNiSn",
+          "value": 6.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "nondoped ZrNiSn",
+          "value": 2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1000.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Zr0.8)Ni1.1Sn",
+          "value": 0.0038,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "ZrNiSn",
+          "value": 0.0014500000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "ZrNiSn",
+          "value": 0.00561,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "ZrNiSn",
+          "value": 0.0034000000000000002,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "800.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "ZrNiSn",
+          "zt_value": 0.39,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "ZrNiSn",
+          "zt_value": 0.39,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "n-type ZrNiSn ( with Hf",
+          "zt_value": 1.2,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Sb doped ZrNiSn compounds",
+          "zt_value": 0.8,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "pure ZrNiSn compound",
+          "zt_value": 0.30000000000000004,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "pure ZrNiSn compound",
+          "zt_value": 0.30000000000000004,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "ZrNiSn",
+          "zt_value": 0.24,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "ZrNiSn",
+          "zt_value": 0.7000000000000001,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "Pd-substituted ZrNiSn",
+          "zt_value": 0.7000000000000001,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "pure ZrNiSn",
+          "zt_value": 0.000585,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "ZrNiSn",
+          "zt_value": 0.54,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "ZrNiSn",
+          "zt_value": 0.6000000000000001,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "ZrNi0.98Cu0.02Sn",
+          "zt_value": 0.22,
+          "temperature": "570.0 K"
+        },
+        {
+          "material": "ZrNiSn",
+          "zt_value": 0.26,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "ZrNiSn",
+          "zt_value": 1.1,
+          "temperature": "1100.0 K"
+        },
+        {
+          "material": "undoped ZrNiSn",
+          "zt_value": 0.5,
+          "temperature": "870.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

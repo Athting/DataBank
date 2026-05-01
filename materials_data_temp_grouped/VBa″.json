@@ -1,0 +1,18 @@
+{
+  "Material": "VBa\u2033",
+  "DOIs_Researched": [
+    "10.1007/s10853-020-05175-4"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "VBa\u2033",
+        "Property": "Conductivity",
+        "Value": 5.26e-05,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-05175-4"
+      }
+    ]
+  }
+}

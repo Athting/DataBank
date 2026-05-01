@@ -1,0 +1,18 @@
+{
+  "Material": "PANI\u2013graphene nanoplates",
+  "DOIs_Researched": [
+    "10.1039/c5ra01794g"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "PANI\u2013graphene nanoplates",
+        "Property": "ZT",
+        "Value": 0.00015099999999999998,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra01794g"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "cuprous chalcogenides",
+  "DOIs_Researched": [
+    "10.1039/c4ta07100j"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "cuprous chalcogenides",
+        "Property": "ZT",
+        "Value": 0.02,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta07100j"
+      }
+    ]
+  }
+}

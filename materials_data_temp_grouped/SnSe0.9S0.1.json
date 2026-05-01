@@ -1,0 +1,18 @@
+{
+  "Material": "SnSe0.9S0.1",
+  "DOIs_Researched": [
+    "10.1016/j.mattod.2017.11.005"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "SnSe0.9S0.1",
+        "Property": "Conductivity",
+        "Value": 1600.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mattod.2017.11.005"
+      }
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "Material": "Na0.4Ni0.2Ti0.8O2",
+  "DOIs_Researched": [
+    "10.1016/S0272-8842(02)00050-0"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "Na0.4Ni0.2Ti0.8O2",
+        "Property": "ThermCond",
+        "Value": 1.3,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0272-8842(02)00050-0"
+      },
+      {
+        "Original_Name_In_Paper": "polycrystalline Na0.4Ni0.2Ti0.8O2",
+        "Property": "Seebeck",
+        "Value": -0.000193,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0272-8842(02)00050-0"
+      },
+      {
+        "Original_Name_In_Paper": "polycrystalline Na0.4Ni0.2Ti0.8O2",
+        "Property": "Conductivity",
+        "Value": 7000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0272-8842(02)00050-0"
+      }
+    ],
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Na0.4Ni0.2Ti0.8O2",
+        "Property": "ZT",
+        "Value": 0.19,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0272-8842(02)00050-0"
+      }
+    ],
+    "1053.0": [
+      {
+        "Original_Name_In_Paper": "Na0.4Ni0.2Ti0.8O2",
+        "Property": "PF",
+        "Value": 0.00014000000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0272-8842(02)00050-0"
+      }
+    ]
+  }
+}

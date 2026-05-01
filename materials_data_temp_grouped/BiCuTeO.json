@@ -1,0 +1,100 @@
+{
+  "Material": "BiCuTeO",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2019.02.003",
+    "10.1016/j.jallcom.2020.154161",
+    "10.1039/c2ta00818a",
+    "10.1016/j.mtphys.2020.100248",
+    "10.1039/d0ta00240b"
+  ],
+  "Data_By_Temperature": {
+    "650.0": [
+      {
+        "Original_Name_In_Paper": "BiCuTeO",
+        "Property": "ZT",
+        "Value": 0.65,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2019.02.003"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuTeO",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154161"
+      }
+    ],
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "BiCuTeO",
+        "Property": "ZT",
+        "Value": 0.63,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2019.02.003"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuTeO",
+        "Property": "ZT",
+        "Value": 0.6900000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2019.02.003"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuTeO1.00",
+        "Property": "ZT",
+        "Value": 0.71,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2020.100248"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuTeO",
+        "Property": "PF",
+        "Value": 0.0005369999999999999,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2019.02.003"
+      }
+    ],
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "BiCuTeO0.88",
+        "Property": "ZT",
+        "Value": 1.06,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2020.100248"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuTeO0.88",
+        "Property": "ZT",
+        "Value": 1.06,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2020.100248"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuTeO",
+        "Property": "ZT",
+        "Value": 0.66,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta00240b"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "BiCuTeO",
+        "Property": "Seebeck",
+        "Value": 0.000166,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2ta00818a"
+      }
+    ]
+  }
+}

@@ -1,0 +1,336 @@
+{
+  "doi": "10.1016/j.jallcom.2018.06.116",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "δ-Cu2S monolayer",
+        "Cu2S thin films",
+        "CuS",
+        "CuS nanoparticles",
+        "pure CuS",
+        "Cu1.80S",
+        "Cu1.8S sample with 1.0 wt % SiC",
+        "Cu1.8S bulk",
+        "In-doped Cu1.8S bulk",
+        "Cu1.96S bulk",
+        "bulk Cu1.96S",
+        "Cu1.97S bulks",
+        "Cu1.8S sample with 2 wt % PbS",
+        "Cu1.8S+2 wt % PbS",
+        "Cu1.8S bulk sample with 2 wt % PbS",
+        "10 wt % of Cu2S",
+        "Cu1.8S bulk material",
+        "Cu deficient copper(I) sulphide",
+        "CuS1",
+        "Cu–sulfide",
+        "bulk Cu1.97S",
+        "p-type Cu2S",
+        "Cu1.8S bulk sample with 3 wt % Bi2S3 @ Bi",
+        "Cu1.8S bulk sample with 3 wt % Bi2S3",
+        "Cu1.8S samples with 3 wt % Bi2S3 @ Bi"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "CuS",
+          "value": 0.000012,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Cu1.80S",
+          "value": 0.000027,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "CuS",
+          "value": 0.000003,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "55.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "Cu2S thin films",
+          "value": 259740.2597402597,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CuS nanoparticles",
+          "value": 6.25,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Cu1.80S",
+          "value": 100000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Cu1.97S bulks",
+          "value": 3000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "CuS",
+          "value": 94.3396226415,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "Cu1.97S bulks",
+          "value": 18500,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "Cu1.8S bulk",
+          "value": 320000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "423.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "δ-Cu2S monolayer",
+          "value": 0.27,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "δ-Cu2S monolayer",
+          "value": 0.1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "δ-Cu2S monolayer",
+          "value": 0.1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "δ-Cu2S monolayer",
+          "value": 0.1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "pure CuS",
+          "value": 1.8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "362.0 K"
+        },
+        {
+          "material": "Cu1.80S",
+          "value": 1.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Cu1.8S bulk",
+          "value": 0.001552,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Cu1.8S bulk material",
+          "value": 0.001552,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Cu1.80S",
+          "value": 0.0009100000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "750.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "δ-Cu2S monolayer",
+          "zt_value": 1.33,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "pure CuS",
+          "zt_value": 0.005450000000000001,
+          "temperature": "362.0 K"
+        },
+        {
+          "material": "Cu1.8S sample with 1.0 wt % SiC",
+          "zt_value": 0.87,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Cu1.8S bulk",
+          "zt_value": 1.4,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "In-doped Cu1.8S bulk",
+          "zt_value": 1.4,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Cu1.96S bulk",
+          "zt_value": 1.01,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Cu1.96S bulk",
+          "zt_value": 1.01,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "bulk Cu1.96S",
+          "zt_value": 1.01,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Cu1.96S bulk",
+          "zt_value": 1.01,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Cu1.96S bulk",
+          "zt_value": 0.6900000000000001,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Cu1.96S bulk",
+          "zt_value": 1.01,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Cu1.8S bulk",
+          "zt_value": 0.78,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Cu1.97S bulks",
+          "zt_value": 1.34,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Cu1.8S sample with 2 wt % PbS",
+          "zt_value": 1.1,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Cu1.8S+2 wt % PbS",
+          "zt_value": 1.1,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Cu1.8S bulk sample with 2 wt % PbS",
+          "zt_value": 1.1,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "10 wt % of Cu2S",
+          "zt_value": 0.9,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "10 wt % of Cu2S",
+          "zt_value": 0.9,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Cu deficient copper(I) sulphide",
+          "zt_value": 1.7000000000000002,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "CuS1",
+          "zt_value": 2,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Cu–sulfide",
+          "zt_value": 0.35000000000000003,
+          "temperature": "650.0 K"
+        },
+        {
+          "material": "Cu1.97S bulks",
+          "zt_value": 1.9,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Cu1.97S bulks",
+          "zt_value": 1.9,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "bulk Cu1.97S",
+          "zt_value": 1.9,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Cu1.97S bulks",
+          "zt_value": 1.9,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "p-type Cu2S",
+          "zt_value": 1.2,
+          "temperature": "500.0 K"
+        },
+        {
+          "material": "CuS",
+          "zt_value": 0.6000000000000001,
+          "temperature": "370.0 K"
+        },
+        {
+          "material": "Cu1.8S bulk sample with 3 wt % Bi2S3 @ Bi",
+          "zt_value": 0.77,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "Cu1.8S bulk sample with 3 wt % Bi2S3",
+          "zt_value": 0.62,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "Cu1.8S bulk",
+          "zt_value": 0.77,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "Cu1.8S samples with 3 wt % Bi2S3 @ Bi",
+          "zt_value": 0.77,
+          "temperature": "723.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

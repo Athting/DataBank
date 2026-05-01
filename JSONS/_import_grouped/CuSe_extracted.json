@@ -1,0 +1,420 @@
+{
+  "doi": "10.1016/j.actamat.2015.08.022",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Cu1.8Se",
+        "Cu2.075Se",
+        "monoclinic Cu2.075Se",
+        "Cu1.75Se",
+        "Cu1.95Se",
+        "Cu1.97Se",
+        "Cu1.99Se",
+        "bulk copper selenide materials",
+        "Porous Cu1.7Se pellet",
+        "porous Cu1.7Se pellet",
+        "Cu1.7Se pellet",
+        "Cu1.97K0.03Se",
+        "Cu1.90Se",
+        "Cu2.0Se",
+        "Cu1.985Se",
+        "bulk Cu1.98Se",
+        "Al-doped Cu1.94Al0.02Se",
+        "copper selenide",
+        "Al-doped Cu1.94Al0.02Se compound",
+        "Cu1.98Se",
+        "Cu1.98Li0.02Se",
+        "Nanostructured Cu1.98Se",
+        "nanostructured Cu1.98Se",
+        "Cu1.96Se",
+        "P-doped Cu2Se"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "Cu1.8Se",
+          "value": 0.000008,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Cu1.97Se",
+          "value": 8e-7,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "800.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "Cu1.75Se",
+          "value": 3,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Cu1.95Se",
+          "value": 120000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Cu1.97Se",
+          "value": 200000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Cu1.99Se",
+          "value": 75000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Cu1.8Se",
+          "value": 700000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "porous Cu1.7Se pellet",
+          "value": 53200,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Cu1.75Se",
+          "value": 1140000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Cu1.8Se",
+          "value": 5.7,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "bulk copper selenide materials",
+          "value": 1.79,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "Porous Cu1.7Se pellet",
+          "value": 0.24,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "porous Cu1.7Se pellet",
+          "value": 0.24,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "porous Cu1.7Se pellet",
+          "value": 0.24,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Cu1.7Se pellet",
+          "value": 0.24,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Cu1.95Se",
+          "value": 2.16,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Cu1.75Se",
+          "value": 7.12,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Cu1.90Se",
+          "value": 1.45,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "843.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "porous Cu1.7Se pellet",
+          "value": 0.0009000000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Cu1.75Se",
+          "value": 0.00030000000000000003,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Cu1.90Se",
+          "value": 0.00125,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "843.0 K"
+        },
+        {
+          "material": "Al-doped Cu1.94Al0.02Se",
+          "value": 0.0012000000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Cu1.95Se",
+          "value": 0.0012519999999999999,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "750.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Cu2.075Se",
+          "zt_value": 0.5,
+          "temperature": "295 K"
+        },
+        {
+          "material": "monoclinic Cu2.075Se",
+          "zt_value": 0.9,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Cu1.8Se",
+          "zt_value": 0.4,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "porous Cu1.7Se pellet",
+          "zt_value": 1.6,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "porous Cu1.7Se pellet",
+          "zt_value": 0.7000000000000001,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Cu1.7Se pellet",
+          "zt_value": 1.6,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Cu1.97K0.03Se",
+          "zt_value": 1.19,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Cu1.97K0.03Se",
+          "zt_value": 1.19,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Cu1.97K0.03Se",
+          "zt_value": 1.19,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Cu2.0Se",
+          "zt_value": 1.46,
+          "temperature": "843.0 K"
+        },
+        {
+          "material": "Cu2.0Se",
+          "zt_value": 1.46,
+          "temperature": "843.0 K"
+        },
+        {
+          "material": "Cu2.0Se",
+          "zt_value": 1.46,
+          "temperature": "843.0 K"
+        },
+        {
+          "material": "Cu2.0Se",
+          "zt_value": 1.46,
+          "temperature": "843.0 K"
+        },
+        {
+          "material": "Cu1.985Se",
+          "zt_value": 1.2,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "bulk Cu1.98Se",
+          "zt_value": 1.1,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "copper selenide",
+          "zt_value": 1.6,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Al-doped Cu1.94Al0.02Se compound",
+          "zt_value": 0.5,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Cu1.98Se",
+          "zt_value": 1.23,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Cu1.98Li0.02Se",
+          "zt_value": 2.14,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Cu1.98Li0.02Se",
+          "zt_value": 2.14,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Cu1.98Li0.02Se",
+          "zt_value": 2.14,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Cu1.98Li0.02Se",
+          "zt_value": 2.14,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Nanostructured Cu1.98Se",
+          "zt_value": 1.4,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Cu1.98Se",
+          "zt_value": 1.4,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "nanostructured Cu1.98Se",
+          "zt_value": 1.4,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "nanostructured Cu1.98Se",
+          "zt_value": 1.4,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Cu1.98Li0.02Se",
+          "zt_value": 2.14,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "nanostructured Cu1.98Se",
+          "zt_value": 1.4,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Al-doped Cu1.94Al0.02Se",
+          "zt_value": 2.62,
+          "temperature": "1029.0 K"
+        },
+        {
+          "material": "Cu1.95Se",
+          "zt_value": 0.46,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "Cu1.95Se",
+          "zt_value": 0.46,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "Cu1.95Se",
+          "zt_value": 0.46,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "Cu1.98Se",
+          "zt_value": 0.66,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "Cu1.95Se",
+          "zt_value": 0.46,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "Cu1.96Se",
+          "zt_value": 0.033,
+          "temperature": "260.0 K"
+        },
+        {
+          "material": "copper selenide",
+          "zt_value": 0.56,
+          "temperature": "753.0 K"
+        },
+        {
+          "material": "Cu1.98Se",
+          "zt_value": 1.4,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "Cu1.98Se",
+          "zt_value": 1.4,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "Cu1.95Se",
+          "zt_value": 1,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "Cu1.98Se",
+          "zt_value": 1.4,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "Cu1.95Se",
+          "zt_value": 1,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "Cu1.98Se",
+          "zt_value": 1.4,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "P-doped Cu2Se",
+          "zt_value": 0.6000000000000001,
+          "temperature": "900.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

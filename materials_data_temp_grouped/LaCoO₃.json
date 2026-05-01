@@ -1,0 +1,58 @@
+{
+  "Material": "LaCoO\u2083",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2007.05.020",
+    "10.1016/j.jssc.2006.08.022",
+    "10.1016/j.actamat.2009.09.046"
+  ],
+  "Data_By_Temperature": {
+    "580.0": [
+      {
+        "Original_Name_In_Paper": "LaCo0.8Ti0.2O3",
+        "Property": "ThermCond",
+        "Value": 0.91,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2009.09.046"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "LaCo0.80Ni0.20O3",
+        "Property": "ZT",
+        "Value": 0.022,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2006.08.022"
+      },
+      {
+        "Original_Name_In_Paper": "LaCo0.80Ni0.20O3",
+        "Property": "ZT",
+        "Value": 0.022,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2007.05.020"
+      }
+    ],
+    "350.0": [
+      {
+        "Original_Name_In_Paper": "LaCo0.95Ni0.05O3",
+        "Property": "ZT",
+        "Value": 0.07,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2007.05.020"
+      }
+    ],
+    "340.0": [
+      {
+        "Original_Name_In_Paper": "1 % Ti substituted LaCoO3",
+        "Property": "Seebeck",
+        "Value": -0.0002,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2006.08.022"
+      }
+    ]
+  }
+}

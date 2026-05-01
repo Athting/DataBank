@@ -1,0 +1,26 @@
+{
+  "Material": "Nb2O5-type",
+  "DOIs_Researched": [
+    "10.1007/s00339-014-8515-z"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "Nb2O5-type",
+        "Property": "Seebeck",
+        "Value": -0.00015000000000000001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s00339-014-8515-z"
+      },
+      {
+        "Original_Name_In_Paper": "Nb2O5-type",
+        "Property": "Conductivity",
+        "Value": 5000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s00339-014-8515-z"
+      }
+    ]
+  }
+}

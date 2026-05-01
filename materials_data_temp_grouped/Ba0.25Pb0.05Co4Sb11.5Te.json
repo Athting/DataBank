@@ -1,0 +1,18 @@
+{
+  "Material": "Ba0.25Pb0.05Co4Sb11.5Te",
+  "DOIs_Researched": [
+    "10.1016/j.matlet.2011.02.062"
+  ],
+  "Data_By_Temperature": {
+    "720.0": [
+      {
+        "Original_Name_In_Paper": "n-type Ba0.25Pb0.05Co4Sb11.5Te0.5",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2011.02.062"
+      }
+    ]
+  }
+}

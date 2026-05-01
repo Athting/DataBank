@@ -1,0 +1,50 @@
+{
+  "Material": "Ba24Cu6Ge94",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2017.06.025"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Cu-doped Ba24Cu6Ge94",
+        "Property": "ZT",
+        "Value": 0.17,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2017.06.025"
+      },
+      {
+        "Original_Name_In_Paper": "Cu-doped Ba24Cu6Ge94",
+        "Property": "ZT",
+        "Value": 0.17,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2017.06.025"
+      },
+      {
+        "Original_Name_In_Paper": "Ba24Cu6Ge94",
+        "Property": "ZT",
+        "Value": 0.17,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2017.06.025"
+      },
+      {
+        "Original_Name_In_Paper": "Cu-doped Ba24Cu6Ge94",
+        "Property": "ZT",
+        "Value": 0.17,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2017.06.025"
+      },
+      {
+        "Original_Name_In_Paper": "Ba24Cu6Ge94",
+        "Property": "Seebeck",
+        "Value": 8.049999999999999e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2017.06.025"
+      }
+    ]
+  }
+}

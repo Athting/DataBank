@@ -1,0 +1,80 @@
+{
+  "doi": "10.1007/s00339-008-4518-y",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Sb)2Te3 powders",
+        "Sb)2Te3 alloy films",
+        "Sb)2Te3 nanocomposites",
+        "Sb)2Te3 alloys",
+        "Sb)2Te3 bulk",
+        "Sb)2Te3 nanocrystalline composite",
+        "Sb)2Te3 bulk materials"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Sb)2Te3 powders",
+          "zt_value": 1.28,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Sb)2Te3 alloy films",
+          "zt_value": 0.7000000000000001,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Sb)2Te3 nanocomposites",
+          "zt_value": 1.5,
+          "temperature": "390.0 K"
+        },
+        {
+          "material": "Sb)2Te3 alloys",
+          "zt_value": 1.4,
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "Sb)2Te3 bulk",
+          "zt_value": 1.28,
+          "temperature": "303.0 K"
+        },
+        {
+          "material": "Sb)2Te3 nanocrystalline composite",
+          "zt_value": 1.2,
+          "temperature": "435.0 K"
+        },
+        {
+          "material": "Sb)2Te3 bulk materials",
+          "zt_value": 1.4,
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

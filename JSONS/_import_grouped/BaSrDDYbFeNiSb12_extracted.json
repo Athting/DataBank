@@ -1,0 +1,51 @@
+{
+  "doi": "10.1016/j.actamat.2013.03.031",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Ba0.09Sr0.02DD0.22Yb0.02Fe2.4Ni1.6Sb12"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "Ba0.09Sr0.02DD0.22Yb0.02Fe2.4Ni1.6Sb12",
+          "value": 133333.3333333333,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Ba0.09Sr0.02DD0.22Yb0.02Fe2.4Ni1.6Sb12",
+          "zt_value": 1.02,
+          "temperature": "623.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

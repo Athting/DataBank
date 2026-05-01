@@ -1,0 +1,68 @@
+{
+  "doi": "10.1039/c5tc01739d",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "FeSb2Te",
+        "bulk FeSb2Te",
+        "FeSb2Te compound",
+        "bulk FeSb2Te material"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "FeSb2Te compound",
+          "value": 0.00012000000000000002,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "bulk FeSb2Te material",
+          "value": 33.3333333333,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "298.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "FeSb2Te",
+          "value": 2.9,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "bulk FeSb2Te",
+          "zt_value": 0.024,
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

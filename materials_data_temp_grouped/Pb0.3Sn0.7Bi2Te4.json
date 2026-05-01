@@ -1,0 +1,18 @@
+{
+  "Material": "Pb0.3Sn0.7Bi2Te4",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2014.12.016"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Pb0.3Sn0.7Bi2Te4",
+        "Property": "ThermCond",
+        "Value": 0.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2014.12.016"
+      }
+    ]
+  }
+}

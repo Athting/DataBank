@@ -1,0 +1,80 @@
+{
+  "Material": "TlInTe2",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2019.06.036",
+    "10.1016/j.mattod.2018.03.039",
+    "10.1039/c8tc03492c"
+  ],
+  "Data_By_Temperature": {
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "TlInTe2",
+        "Property": "ThermCond",
+        "Value": 0.31,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.06.036"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "TlInTe2",
+        "Property": "ThermCond",
+        "Value": 0.37,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8tc03492c"
+      },
+      {
+        "Original_Name_In_Paper": "TlInTe2",
+        "Property": "ThermCond",
+        "Value": 0.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8tc03492c"
+      },
+      {
+        "Original_Name_In_Paper": "TlInTe2 compound",
+        "Property": "ThermCond",
+        "Value": 0.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mattod.2018.03.039"
+      },
+      {
+        "Original_Name_In_Paper": "n-doped TlInTe2",
+        "Property": "ZT",
+        "Value": 1.78,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8tc03492c"
+      },
+      {
+        "Original_Name_In_Paper": "n-doped TlInTe2",
+        "Property": "ZT",
+        "Value": 1.78,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8tc03492c"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "TlInTe2",
+        "Property": "ThermCond",
+        "Value": 0.46,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8tc03492c"
+      },
+      {
+        "Original_Name_In_Paper": "n-doped TlInTe2",
+        "Property": "ZT",
+        "Value": 1.78,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8tc03492c"
+      }
+    ]
+  }
+}

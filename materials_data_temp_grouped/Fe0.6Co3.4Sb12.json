@@ -1,0 +1,36 @@
+{
+  "Material": "Fe0.6Co3.4Sb12",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2009.02.070"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Fe0.6Co3.4Sb12",
+        "Property": "ThermCond",
+        "Value": 6.15,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.02.070"
+      },
+      {
+        "Original_Name_In_Paper": "Fe0.6Co3.4Sb12",
+        "Property": "Conductivity",
+        "Value": 62500.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.02.070"
+      }
+    ],
+    "550.0": [
+      {
+        "Original_Name_In_Paper": "Fe0.6Co3.4Sb12",
+        "Property": "Seebeck",
+        "Value": 0.00014877,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.02.070"
+      }
+    ]
+  }
+}

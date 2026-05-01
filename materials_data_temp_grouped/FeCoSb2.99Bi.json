@@ -1,0 +1,18 @@
+{
+  "Material": "FeCoSb2.99Bi",
+  "DOIs_Researched": [
+    "10.1016/j.intermet.2020.106796"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Fe0.25Co0.75Sb2.99Bi0.01",
+        "Property": "Conductivity",
+        "Value": 100000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2020.106796"
+      }
+    ]
+  }
+}

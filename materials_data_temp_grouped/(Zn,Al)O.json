@@ -1,0 +1,18 @@
+{
+  "Material": "(Zn,Al)O",
+  "DOIs_Researched": [
+    "10.1039/c5tc01643f"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Al-doped (Zn,Al)O films",
+        "Property": "PF",
+        "Value": 3.7999999999999995e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01643f"
+      }
+    ]
+  }
+}

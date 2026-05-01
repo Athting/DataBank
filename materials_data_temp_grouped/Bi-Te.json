@@ -1,0 +1,29 @@
+{
+  "Material": "Bi-Te",
+  "DOIs_Researched": [
+    "10.1016/j.snb.2007.07.060",
+    "10.1007/s10853-006-1334-7"
+  ],
+  "Data_By_Temperature": {
+    "298.0": [
+      {
+        "Original_Name_In_Paper": "Bi\u2013Te materials",
+        "Property": "Seebeck",
+        "Value": -0.000205,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-006-1334-7"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Bi\u2013Te film",
+        "Property": "Seebeck",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.snb.2007.07.060"
+      }
+    ]
+  }
+}

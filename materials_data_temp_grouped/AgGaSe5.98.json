@@ -1,0 +1,48 @@
+{
+  "Material": "AgGaSe5.98",
+  "DOIs_Researched": [
+    "10.1016/j.mtphys.2018.05.001"
+  ],
+  "Data_By_Temperature": {
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "Ag9GaSe5.98",
+        "Property": "ThermCond",
+        "Value": 0.31,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2018.05.001"
+      }
+    ],
+    "100.0": [
+      {
+        "Original_Name_In_Paper": "Ag9GaSe5.98",
+        "Property": "ThermCond",
+        "Value": 1.1,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2018.05.001"
+      }
+    ],
+    "281.0": [
+      {
+        "Original_Name_In_Paper": "Ag9GaSe5.98",
+        "Property": "ZT",
+        "Value": 1.6,
+        "Units": null,
+        "Editing": "alloying Te",
+        "Source_DOI": "10.1016/j.mtphys.2018.05.001"
+      }
+    ],
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "Ag9GaSe5.98",
+        "Property": "ZT",
+        "Value": 1.6,
+        "Units": null,
+        "Editing": "Te - alloying",
+        "Source_DOI": "10.1016/j.mtphys.2018.05.001"
+      }
+    ]
+  }
+}

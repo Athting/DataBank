@@ -1,0 +1,18 @@
+{
+  "Material": "Mg2Si : Ge",
+  "DOIs_Researched": [
+    "10.1007/s12648-017-1028-9"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Si : Ge",
+        "Property": "Conductivity",
+        "Value": 0.033,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s12648-017-1028-9"
+      }
+    ]
+  }
+}

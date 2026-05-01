@@ -1,0 +1,26 @@
+{
+  "Material": "SiGeP2.0",
+  "DOIs_Researched": [
+    "10.1016/j.materresbull.2019.05.008"
+  ],
+  "Data_By_Temperature": {
+    "1023.0": [
+      {
+        "Original_Name_In_Paper": "SiGeP2.0",
+        "Property": "Seebeck",
+        "Value": -0.00034389,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2019.05.008"
+      },
+      {
+        "Original_Name_In_Paper": "SiGeP2.0",
+        "Property": "PF",
+        "Value": 0.0031439999999999997,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2019.05.008"
+      }
+    ]
+  }
+}

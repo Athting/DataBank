@@ -1,0 +1,2464 @@
+{
+  "Material": "SnTe",
+  "DOIs_Researched": [
+    "10.1016/j.jmat.2017.12.001",
+    "10.1016/j.nanoen.2019.104395",
+    "10.1016/j.nanoen.2020.104832",
+    "10.1007/s12039-019-1704-8",
+    "10.1007/s10854-018-0018-9",
+    "10.1016/S1002-0721(14)60543-3",
+    "10.1016/j.cej.2020.126274",
+    "10.1039/c5tc01573a",
+    "10.1039/c7qi00781g",
+    "10.1039/c4cp02091j",
+    "10.1016/j.jallcom.2019.07.220",
+    "10.1039/c7nr04934j",
+    "10.1039/d0tc00572j",
+    "10.1039/c9ta11180h",
+    "10.1016/j.jallcom.2017.12.011",
+    "10.1016/S0167-577X(00)00287-1",
+    "10.1016/j.commatsci.2015.11.006",
+    "10.1038/s41535-018-0083-6",
+    "10.1016/j.mtphys.2018.02.001",
+    "10.1016/j.mtphys.2020.100200",
+    "10.1016/j.susmat.2020.e00183",
+    "10.1016/j.intermet.2019.106499",
+    "10.1039/d0nr00495b",
+    "10.1039/c9nr09331a",
+    "10.1016/j.nanoen.2019.104292",
+    "10.1007/s10853-020-04949-0",
+    "10.1016/j.jpowsour.2020.227983",
+    "10.1016/j.jmat.2015.09.001",
+    "10.1039/c8se00297e",
+    "10.1016/j.cej.2020.127795",
+    "10.1016/j.jssc.2017.10.021",
+    "10.1016/j.nanoen.2019.104056",
+    "10.1039/c7ta09117f",
+    "10.1039/c4nr05870d",
+    "10.1039/c9cp03534f",
+    "10.1134/1.1187388",
+    "10.1039/c4ta05530f",
+    "10.1039/c5cp07620j",
+    "10.1016/j.matlet.2018.07.132",
+    "10.1039/c6ta09941f",
+    "10.1039/c7ee02530k",
+    "10.1016/j.pmatsci.2018.04.005",
+    "10.1016/j.jallcom.2013.10.217",
+    "10.1016/j.mtphys.2019.100158",
+    "10.1038/s41598-017-14658-5",
+    "10.1007/s11664-019-07715-4",
+    "10.1039/c5ta05535k",
+    "10.1039/c5ee02423d",
+    "10.1039/c7ra02734f",
+    "10.1038/s41524-019-0197-9",
+    "10.1016/j.jmat.2018.10.004",
+    "10.1039/c7cp04931e",
+    "10.1016/j.jssc.2016.02.012",
+    "10.1016/j.jallcom.2018.09.234",
+    "10.1007/s10853-019-03502-y",
+    "10.1016/j.jallcom.2020.155568",
+    "10.1039/c6ra02658c",
+    "10.1039/c6cp03688k",
+    "10.1039/c7tc00009j",
+    "10.1016/j.jallcom.2020.155181",
+    "10.1016/j.scib.2019.06.007",
+    "10.1039/c8ee03162b",
+    "10.1016/j.jssc.2019.04.005",
+    "10.1016/j.jallcom.2017.02.283",
+    "10.1039/c6qi00263c",
+    "10.1039/c4ee01463d",
+    "10.1016/j.nanoen.2013.09.005",
+    "10.1016/j.jmat.2016.05.001",
+    "10.1038/am.2017.8",
+    "10.1039/c6ta01994c",
+    "10.1016/j.nanoen.2020.105198",
+    "10.1016/j.nanoen.2019.03.031",
+    "10.1039/c5ra08542j",
+    "10.1039/c9mh00543a",
+    "10.1016/j.cej.2020.124585",
+    "10.1016/j.nanoen.2019.104261",
+    "10.1039/c6ee00728g",
+    "10.1039/c9ta11614a",
+    "10.1039/c8cc02230e",
+    "10.1039/c7ta09941j",
+    "10.1038/ncomms4525",
+    "10.1016/j.nanoen.2016.08.008",
+    "10.1039/c8se00385h",
+    "10.1039/c9tc01184f",
+    "10.1016/j.nanoen.2013.09.003"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ThermCond",
+        "Value": 0.31,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpowsour.2020.227983"
+      },
+      {
+        "Original_Name_In_Paper": "In-doped SnTe polycrystals",
+        "Property": "ThermCond",
+        "Value": 3.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7nr04934j"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ThermCond",
+        "Value": 3.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ee02423d"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ThermCond",
+        "Value": 8.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cej.2020.127795"
+      },
+      {
+        "Original_Name_In_Paper": "pristine SnTe",
+        "Property": "ThermCond",
+        "Value": 2.24,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cej.2020.127795"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ThermCond",
+        "Value": 2.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8cc02230e"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ThermCond",
+        "Value": 8.66,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": "GeTe alloying",
+        "Source_DOI": "10.1039/c8ee03162b"
+      },
+      {
+        "Original_Name_In_Paper": "Mn- / Cd-doped SnTe",
+        "Property": "ThermCond",
+        "Value": 1.38,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5cp07620j"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ThermCond",
+        "Value": 2.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2020.100200"
+      },
+      {
+        "Original_Name_In_Paper": "pristine SnTe",
+        "Property": "ThermCond",
+        "Value": 8.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2019.03.031"
+      },
+      {
+        "Original_Name_In_Paper": "p-type SnTe",
+        "Property": "ThermCond",
+        "Value": 3.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.09.234"
+      },
+      {
+        "Original_Name_In_Paper": "undoped SnTe",
+        "Property": "ThermCond",
+        "Value": 8.9,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.09.234"
+      },
+      {
+        "Original_Name_In_Paper": "undoped SnTe",
+        "Property": "ThermCond",
+        "Value": 3.7,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.09.234"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ThermCond",
+        "Value": 8.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta05530f"
+      },
+      {
+        "Original_Name_In_Paper": "pure SnTe",
+        "Property": "ThermCond",
+        "Value": 6.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cp04931e"
+      },
+      {
+        "Original_Name_In_Paper": "pure SnTe",
+        "Property": "ThermCond",
+        "Value": 4.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cp04931e"
+      },
+      {
+        "Original_Name_In_Paper": "pure SnTe",
+        "Property": "ThermCond",
+        "Value": 3.6,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cp04931e"
+      },
+      {
+        "Original_Name_In_Paper": "pristine SnTe",
+        "Property": "ThermCond",
+        "Value": 2.77,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2019.104292"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ThermCond",
+        "Value": 8.64,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7tc00009j"
+      },
+      {
+        "Original_Name_In_Paper": "pristine SnTe",
+        "Property": "ThermCond",
+        "Value": 2.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": "point defects",
+        "Source_DOI": "10.1039/c7tc00009j"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ThermCond",
+        "Value": 3.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scib.2019.06.007"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ThermCond",
+        "Value": 8.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cej.2020.124585"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe-based materials",
+        "Property": "ZT",
+        "Value": 0.28,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2019.100158"
+      },
+      {
+        "Original_Name_In_Paper": "Te-rich SnTe",
+        "Property": "ZT",
+        "Value": 0.15,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4cp02091j"
+      },
+      {
+        "Original_Name_In_Paper": "I-doped SnTe",
+        "Property": "ZT",
+        "Value": 0.35000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4cp02091j"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4cp02091j"
+      },
+      {
+        "Original_Name_In_Paper": "In-doped SnTe",
+        "Property": "ZT",
+        "Value": 0.32,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4cp02091j"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8cc02230e"
+      },
+      {
+        "Original_Name_In_Paper": "In-doped SnTe",
+        "Property": "ZT",
+        "Value": 0.08,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7nr04934j"
+      },
+      {
+        "Original_Name_In_Paper": "undoped SnTe nanowires",
+        "Property": "ZT",
+        "Value": 0.0379,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7nr04934j"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "Conductivity",
+        "Value": 769230.7692307692,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cp04931e"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "Conductivity",
+        "Value": 263157.8947368421,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cp04931e"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "Conductivity",
+        "Value": 161290.3225806452,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cp04931e"
+      },
+      {
+        "Original_Name_In_Paper": "pristine SnTe",
+        "Property": "Seebeck",
+        "Value": 9e-06,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2019.104395"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "Seebeck",
+        "Value": 1e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2019.104395"
+      },
+      {
+        "Original_Name_In_Paper": "pristine SnTe",
+        "Property": "Seebeck",
+        "Value": 2e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-019-03502-y"
+      },
+      {
+        "Original_Name_In_Paper": "Pristine SnTe",
+        "Property": "Seebeck",
+        "Value": 2e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ee00728g"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "Seebeck",
+        "Value": 2e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": "substitution of Sb",
+        "Source_DOI": "10.1039/c6ee00728g"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe based materials",
+        "Property": "Seebeck",
+        "Value": 0.000121,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7tc00009j"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "Seebeck",
+        "Value": 0.00024632,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-019-07715-4"
+      },
+      {
+        "Original_Name_In_Paper": "p-type SnTe",
+        "Property": "PF",
+        "Value": 0.00034,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.09.234"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "PF",
+        "Value": 0.003,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2017.8"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "PF",
+        "Value": 0.002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2017.8"
+      },
+      {
+        "Original_Name_In_Paper": "In-doped SnTe",
+        "Property": "Conductivity",
+        "Value": 430000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7nr04934j"
+      },
+      {
+        "Original_Name_In_Paper": "undoped SnTe nanowires",
+        "Property": "Conductivity",
+        "Value": 700000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7nr04934j"
+      },
+      {
+        "Original_Name_In_Paper": "pristine SnTe",
+        "Property": "Conductivity",
+        "Value": 724000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta11614a"
+      },
+      {
+        "Original_Name_In_Paper": "undoped bulk SnTe",
+        "Property": "Conductivity",
+        "Value": 700000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4nr05870d"
+      },
+      {
+        "Original_Name_In_Paper": "undoped SnTe",
+        "Property": "Conductivity",
+        "Value": 770600.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.09.234"
+      },
+      {
+        "Original_Name_In_Paper": "undoped SnTe",
+        "Property": "Conductivity",
+        "Value": 770600.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.09.234"
+      }
+    ],
+    "786.0": [
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ThermCond",
+        "Value": 2.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S1002-0721(14)60543-3"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ZT",
+        "Value": 0.63,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S1002-0721(14)60543-3"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ZT",
+        "Value": 0.63,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S1002-0721(14)60543-3"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ZT",
+        "Value": 0.63,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S1002-0721(14)60543-3"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ZT",
+        "Value": 0.63,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S1002-0721(14)60543-3"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ThermCond",
+        "Value": 2.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": "In doping",
+        "Source_DOI": "10.1016/j.jssc.2017.10.021"
+      },
+      {
+        "Original_Name_In_Paper": "pristine SnTe",
+        "Property": "ThermCond",
+        "Value": 8.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta11614a"
+      },
+      {
+        "Original_Name_In_Paper": "pristine SnTe",
+        "Property": "ThermCond",
+        "Value": 3.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta11614a"
+      },
+      {
+        "Original_Name_In_Paper": "pure Sn1.03Te",
+        "Property": "ThermCond",
+        "Value": 6.88,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.104832"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ThermCond",
+        "Value": 3.1,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s12039-019-1704-8"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ThermCond",
+        "Value": 8.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ee02423d"
+      },
+      {
+        "Original_Name_In_Paper": "pristine SnTe",
+        "Property": "ThermCond",
+        "Value": 8.6,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra02658c"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ThermCond",
+        "Value": 10.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.02.283"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe ingot",
+        "Property": "ThermCond",
+        "Value": 10.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.02.283"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ThermCond",
+        "Value": 3.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.02.283"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe ingot",
+        "Property": "ThermCond",
+        "Value": 10.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.02.283"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ThermCond",
+        "Value": 3.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.02.283"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe ingot",
+        "Property": "ThermCond",
+        "Value": 10.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.02.283"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ThermCond",
+        "Value": 3.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.02.283"
+      },
+      {
+        "Original_Name_In_Paper": "Pristine SnTe",
+        "Property": "ThermCond",
+        "Value": 2.9,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8cc02230e"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ThermCond",
+        "Value": 0.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8cc02230e"
+      },
+      {
+        "Original_Name_In_Paper": "Pristine SnTe",
+        "Property": "ThermCond",
+        "Value": 2.88,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ee00728g"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ThermCond",
+        "Value": 0.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ee00728g"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe matrix",
+        "Property": "ThermCond",
+        "Value": 0.67,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ee00728g"
+      },
+      {
+        "Original_Name_In_Paper": "Pristine SnTe",
+        "Property": "ThermCond",
+        "Value": 2.88,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ee00728g"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ThermCond",
+        "Value": 0.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ee00728g"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ThermCond",
+        "Value": 0.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ee00728g"
+      },
+      {
+        "Original_Name_In_Paper": "pure SnTe",
+        "Property": "ThermCond",
+        "Value": 9.88,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.07.220"
+      },
+      {
+        "Original_Name_In_Paper": "pristine SnTe",
+        "Property": "ThermCond",
+        "Value": 4.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.07.220"
+      },
+      {
+        "Original_Name_In_Paper": "pure SnTe",
+        "Property": "ThermCond",
+        "Value": 5.67,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.07.220"
+      },
+      {
+        "Original_Name_In_Paper": "pristine SnTe",
+        "Property": "ThermCond",
+        "Value": 8.6,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra08542j"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ThermCond",
+        "Value": 3.1,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra08542j"
+      },
+      {
+        "Original_Name_In_Paper": "pristine SnTe",
+        "Property": "ThermCond",
+        "Value": 3.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ta09941j"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ThermCond",
+        "Value": 0.89,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scib.2019.06.007"
+      },
+      {
+        "Original_Name_In_Paper": "undoped SnTe",
+        "Property": "ThermCond",
+        "Value": 8.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cej.2020.124585"
+      },
+      {
+        "Original_Name_In_Paper": "pristine SnTe",
+        "Property": "ThermCond",
+        "Value": 8.6,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta05535k"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ThermCond",
+        "Value": 4.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/ncomms4525"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ZT",
+        "Value": 0.28,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2019.100158"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe-alloyed SnSe crystals",
+        "Property": "ZT",
+        "Value": 1.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9mh00543a"
+      },
+      {
+        "Original_Name_In_Paper": "pristine SnTe",
+        "Property": "ZT",
+        "Value": 0.35000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7tc00009j"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41535-018-0083-6"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe based materials",
+        "Property": "ZT",
+        "Value": 0.25,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc01184f"
+      },
+      {
+        "Original_Name_In_Paper": "Ca doped SnTe",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc01184f"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe based materials",
+        "Property": "ZT",
+        "Value": 0.25,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc01184f"
+      },
+      {
+        "Original_Name_In_Paper": "Bi\u2013Zn co-doped SnTe",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.155181"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ZT",
+        "Value": 0.35000000000000003,
+        "Units": null,
+        "Editing": "co-doping Pb",
+        "Source_DOI": "10.1016/j.jallcom.2020.155181"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.02.283"
+      },
+      {
+        "Original_Name_In_Paper": "undoped SnTe nanowires",
+        "Property": "Seebeck",
+        "Value": 5e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7nr04934j"
+      },
+      {
+        "Original_Name_In_Paper": "In-doped SnTe",
+        "Property": "Seebeck",
+        "Value": 8e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8cc02230e"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "Seebeck",
+        "Value": 1.4999999999999999e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2015.09.001"
+      },
+      {
+        "Original_Name_In_Paper": "pure Sn1.03Te",
+        "Property": "Seebeck",
+        "Value": 2.99e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.104832"
+      },
+      {
+        "Original_Name_In_Paper": "pure SnTe",
+        "Property": "Seebeck",
+        "Value": 7.3999999999999995e-06,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ee02423d"
+      },
+      {
+        "Original_Name_In_Paper": "pure SnTe",
+        "Property": "Seebeck",
+        "Value": 0.0001558,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ee02423d"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe based materials",
+        "Property": "Seebeck",
+        "Value": 0.000121,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7tc00009j"
+      },
+      {
+        "Original_Name_In_Paper": "In-doped SnTe",
+        "Property": "Seebeck",
+        "Value": 8e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6qi00263c"
+      },
+      {
+        "Original_Name_In_Paper": "pure SnTe",
+        "Property": "Seebeck",
+        "Value": 3.0299999999999998e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.07.220"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe-based materials",
+        "Property": "Seebeck",
+        "Value": 0.000127,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2019.100158"
+      },
+      {
+        "Original_Name_In_Paper": "pristine SnTe",
+        "Property": "Seebeck",
+        "Value": 4e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta05535k"
+      },
+      {
+        "Original_Name_In_Paper": "In-doped SnTe",
+        "Property": "Seebeck",
+        "Value": 8e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2019.04.005"
+      },
+      {
+        "Original_Name_In_Paper": "undoped SnTe",
+        "Property": "Seebeck",
+        "Value": 2.3e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2019.104056"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.125Te NWs thin film",
+        "Property": "PF",
+        "Value": 0.0001146,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8se00297e"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe-alloyed SnSe crystals",
+        "Property": "PF",
+        "Value": 0.0055000000000000005,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9mh00543a"
+      },
+      {
+        "Original_Name_In_Paper": "pristine SnTe",
+        "Property": "PF",
+        "Value": 0.00117,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta05535k"
+      },
+      {
+        "Original_Name_In_Paper": "pristine SnTe",
+        "Property": "PF",
+        "Value": 0.000404,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta11614a"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "Conductivity",
+        "Value": 600000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ra02734f"
+      },
+      {
+        "Original_Name_In_Paper": "pure SnTe",
+        "Property": "Conductivity",
+        "Value": 767400.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.104832"
+      },
+      {
+        "Original_Name_In_Paper": "Sn1.03Te",
+        "Property": "Conductivity",
+        "Value": 683900.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.104832"
+      },
+      {
+        "Original_Name_In_Paper": "pure SnTe",
+        "Property": "Conductivity",
+        "Value": 764300.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ee02423d"
+      },
+      {
+        "Original_Name_In_Paper": "pristine SnTe",
+        "Property": "Conductivity",
+        "Value": 815000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra02658c"
+      },
+      {
+        "Original_Name_In_Paper": "Pure SnTe",
+        "Property": "Conductivity",
+        "Value": 769000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.105198"
+      },
+      {
+        "Original_Name_In_Paper": "pure SnTe",
+        "Property": "Conductivity",
+        "Value": 700000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2019.106499"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "Conductivity",
+        "Value": 800000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01573a"
+      },
+      {
+        "Original_Name_In_Paper": "pristine SnTe",
+        "Property": "Conductivity",
+        "Value": 826500.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ee00728g"
+      },
+      {
+        "Original_Name_In_Paper": "pure SnTe",
+        "Property": "Conductivity",
+        "Value": 825700.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2019.104261"
+      },
+      {
+        "Original_Name_In_Paper": "pure SnTe",
+        "Property": "Conductivity",
+        "Value": 820500.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0nr00495b"
+      },
+      {
+        "Original_Name_In_Paper": "Pristine SnTe",
+        "Property": "Conductivity",
+        "Value": 632000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.07.220"
+      },
+      {
+        "Original_Name_In_Paper": "pristine SnTe",
+        "Property": "Conductivity",
+        "Value": 632000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.07.220"
+      },
+      {
+        "Original_Name_In_Paper": "Sn1.03Te-6 % BiCuSeO",
+        "Property": "Conductivity",
+        "Value": 273000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9nr09331a"
+      },
+      {
+        "Original_Name_In_Paper": "pristine SnTe",
+        "Property": "Conductivity",
+        "Value": 630000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta01994c"
+      },
+      {
+        "Original_Name_In_Paper": "pristine SnTe",
+        "Property": "Conductivity",
+        "Value": 600000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta01994c"
+      },
+      {
+        "Original_Name_In_Paper": "pristine SnTe",
+        "Property": "Conductivity",
+        "Value": 832000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7tc00009j"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "Conductivity",
+        "Value": 832000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7tc00009j"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "Conductivity",
+        "Value": 639000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ta09117f"
+      },
+      {
+        "Original_Name_In_Paper": "pristine SnTe",
+        "Property": "Conductivity",
+        "Value": 803300.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.susmat.2020.e00183"
+      },
+      {
+        "Original_Name_In_Paper": "undoped SnTe",
+        "Property": "Conductivity",
+        "Value": 724000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2019.104056"
+      },
+      {
+        "Original_Name_In_Paper": "pristine SnTe",
+        "Property": "Conductivity",
+        "Value": 797000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scib.2019.06.007"
+      },
+      {
+        "Original_Name_In_Paper": "pristine SnTe",
+        "Property": "Conductivity",
+        "Value": 760000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta05535k"
+      }
+    ],
+    "875.0": [
+      {
+        "Original_Name_In_Paper": "0.5 mol % SnTe",
+        "Property": "ThermCond",
+        "Value": 0.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2018.04.005"
+      },
+      {
+        "Original_Name_In_Paper": "0.5 mol % SnTe nanoparticles",
+        "Property": "ZT",
+        "Value": 1.6,
+        "Units": null,
+        "Editing": "addition of 0.5 mol % SnTe",
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ZT",
+        "Value": 1.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2018.04.005"
+      },
+      {
+        "Original_Name_In_Paper": "0.5 mol % SnTe",
+        "Property": "PF",
+        "Value": 0.0011,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2018.04.005"
+      }
+    ],
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "pristine SnTe",
+        "Property": "ThermCond",
+        "Value": 1.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta11180h"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe-1 vol % SiC",
+        "Property": "ThermCond",
+        "Value": 0.67,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0tc00572j"
+      },
+      {
+        "Original_Name_In_Paper": "undoped SnTe",
+        "Property": "ZT",
+        "Value": 0.55,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2018.07.132"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": "codoping of Sb",
+        "Source_DOI": "10.1016/j.matlet.2018.07.132"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe-1 vol % SiC",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0tc00572j"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe-1 vol % SiC",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0tc00572j"
+      },
+      {
+        "Original_Name_In_Paper": "Cd-doped SnTe",
+        "Property": "ZT",
+        "Value": 0.96,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5cp07620j"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ZT",
+        "Value": 1.85,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.104832"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe-based",
+        "Property": "ZT",
+        "Value": 1.42,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta11180h"
+      },
+      {
+        "Original_Name_In_Paper": "pristine SnTe",
+        "Property": "ZT",
+        "Value": 0.67,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta11180h"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2018.02.001"
+      },
+      {
+        "Original_Name_In_Paper": "pristine SnTe",
+        "Property": "ZT",
+        "Value": 0.34,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta11614a"
+      },
+      {
+        "Original_Name_In_Paper": "pure SnTe",
+        "Property": "Seebeck",
+        "Value": 0.000128,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.155568"
+      },
+      {
+        "Original_Name_In_Paper": "undoped SnTe",
+        "Property": "Seebeck",
+        "Value": 9.499999999999999e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2019.104056"
+      },
+      {
+        "Original_Name_In_Paper": "codoped SnTe",
+        "Property": "PF",
+        "Value": 0.003388,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2019.100158"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe alloys",
+        "Property": "PF",
+        "Value": 0.00305,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra08542j"
+      },
+      {
+        "Original_Name_In_Paper": "pristine SnTe",
+        "Property": "PF",
+        "Value": 0.0026000000000000003,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra08542j"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe alloys",
+        "Property": "PF",
+        "Value": 0.00305,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra08542j"
+      },
+      {
+        "Original_Name_In_Paper": "pristine SnTe",
+        "Property": "PF",
+        "Value": 0.00265,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra08542j"
+      },
+      {
+        "Original_Name_In_Paper": "pristine SnTe",
+        "Property": "Conductivity",
+        "Value": 190000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra08542j"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "pristine SnTe",
+        "Property": "ThermCond",
+        "Value": 1.29,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cej.2020.127795"
+      },
+      {
+        "Original_Name_In_Paper": "Sb co-doped SnTe alloys",
+        "Property": "ThermCond",
+        "Value": 1.87,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-019-03502-y"
+      },
+      {
+        "Original_Name_In_Paper": "p-type SnTe",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": "doping of Cd",
+        "Source_DOI": "10.1039/c6cp03688k"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-017-14658-5"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": "15 mol % Sb doping",
+        "Source_DOI": "10.1016/j.matlet.2018.07.132"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cej.2020.124585"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ZT",
+        "Value": 0.62,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta09941f"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ZT",
+        "Value": 0.45,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-019-03502-y"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe ingot with 15 % Sb",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-019-03502-y"
+      },
+      {
+        "Original_Name_In_Paper": "Sb co-doped SnTe alloys",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-019-03502-y"
+      },
+      {
+        "Original_Name_In_Paper": "In-doped SnTe",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-019-03502-y"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe nanocrystals",
+        "Property": "ZT",
+        "Value": 0.49,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cej.2020.126274"
+      },
+      {
+        "Original_Name_In_Paper": "Cd-doped SnTe",
+        "Property": "ZT",
+        "Value": 1.32,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5cp07620j"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "Seebeck",
+        "Value": 0.00018,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta05530f"
+      }
+    ],
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ThermCond",
+        "Value": 3.87,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-018-0018-9"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ThermCond",
+        "Value": 0.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2019.104261"
+      },
+      {
+        "Original_Name_In_Paper": "pure SnTe",
+        "Property": "ThermCond",
+        "Value": 3.56,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0nr00495b"
+      },
+      {
+        "Original_Name_In_Paper": "single-doped SnTe",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7qi00781g"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta05535k"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4cp02091j"
+      },
+      {
+        "Original_Name_In_Paper": "In-doped SnTe",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6qi00263c"
+      },
+      {
+        "Original_Name_In_Paper": "In-doped SnTe",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta01994c"
+      },
+      {
+        "Original_Name_In_Paper": "Cd / CdS-doped SnTe",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta01994c"
+      },
+      {
+        "Original_Name_In_Paper": "Cd-doped SnTe",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta01994c"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": "In doping",
+        "Source_DOI": "10.1016/j.jssc.2016.02.012"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2018.07.132"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2013.09.005"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ZT",
+        "Value": 1.22,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cp04931e"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ZT",
+        "Value": 1.22,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cp04931e"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2019.104261"
+      },
+      {
+        "Original_Name_In_Paper": "Pure SnTe",
+        "Property": "ZT",
+        "Value": 0.33,
+        "Units": null,
+        "Editing": "Ge and Sb codoping",
+        "Source_DOI": "10.1016/j.nanoen.2019.104261"
+      },
+      {
+        "Original_Name_In_Paper": "In-doped SnTe nanocomposite",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-019-03502-y"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2013.09.003"
+      },
+      {
+        "Original_Name_In_Paper": "Mg-alloyed SnTe",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5cp07620j"
+      },
+      {
+        "Original_Name_In_Paper": "Cd-doped SnTe",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5cp07620j"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe-based",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2019.104395"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2018.02.001"
+      },
+      {
+        "Original_Name_In_Paper": "In-doped SnTe",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7nr04934j"
+      },
+      {
+        "Original_Name_In_Paper": "pure SnTe",
+        "Property": "Seebeck",
+        "Value": 9.499999999999999e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0nr00495b"
+      }
+    ],
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "SnTe ingot",
+        "Property": "ThermCond",
+        "Value": 2.43,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-018-0018-9"
+      },
+      {
+        "Original_Name_In_Paper": "pristine SnTe",
+        "Property": "ThermCond",
+        "Value": 2.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ta09117f"
+      },
+      {
+        "Original_Name_In_Paper": "pure SnTe bulk material",
+        "Property": "ThermCond",
+        "Value": 1.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2016.08.008"
+      },
+      {
+        "Original_Name_In_Paper": "pristine SnTe",
+        "Property": "ZT",
+        "Value": 0.14,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ta09117f"
+      },
+      {
+        "Original_Name_In_Paper": "pure SnTe bulk material",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2016.08.008"
+      },
+      {
+        "Original_Name_In_Paper": "nanopillar SnTe film",
+        "Property": "PF",
+        "Value": 0.00198,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.12.011"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe materials",
+        "Property": "PF",
+        "Value": 0.0009000000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.12.011"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ThermCond",
+        "Value": 0.55,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.105198"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ThermCond",
+        "Value": 0.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scib.2019.06.007"
+      },
+      {
+        "Original_Name_In_Paper": "undoped SnTe",
+        "Property": "ThermCond",
+        "Value": 2.3,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4cp02091j"
+      },
+      {
+        "Original_Name_In_Paper": "undoped SnTe",
+        "Property": "ZT",
+        "Value": 0.23,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4cp02091j"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.07.220"
+      },
+      {
+        "Original_Name_In_Paper": "pure SnTe",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.105198"
+      },
+      {
+        "Original_Name_In_Paper": "pristine SnTe",
+        "Property": "PF",
+        "Value": 0.002097,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.susmat.2020.e00183"
+      }
+    ],
+    "721.0": [
+      {
+        "Original_Name_In_Paper": "30 mol % Ge alloyed SnTe",
+        "Property": "ThermCond",
+        "Value": 0.67,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": "Sb doping",
+        "Source_DOI": "10.1039/c8ee03162b"
+      },
+      {
+        "Original_Name_In_Paper": "30 mol % Ge alloyed SnTe",
+        "Property": "ZT",
+        "Value": 1.6,
+        "Units": null,
+        "Editing": "Sb doping",
+        "Source_DOI": "10.1039/c8ee03162b"
+      }
+    ],
+    "780.0": [
+      {
+        "Original_Name_In_Paper": "SnTe-based material",
+        "Property": "ThermCond",
+        "Value": 0.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ee01463d"
+      },
+      {
+        "Original_Name_In_Paper": "Hg doped SnTe",
+        "Property": "ThermCond",
+        "Value": 0.6000000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2017.12.001"
+      }
+    ],
+    "820.0": [
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ThermCond",
+        "Value": 1.3,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5cp07620j"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe\u20133 % AgSbSe2",
+        "Property": "ZT",
+        "Value": 0.92,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2016.05.001"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5cp07620j"
+      },
+      {
+        "Original_Name_In_Paper": "Cd-doped SnTe",
+        "Property": "Seebeck",
+        "Value": 0.0002,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra02658c"
+      },
+      {
+        "Original_Name_In_Paper": "pristine SnTe",
+        "Property": "Seebeck",
+        "Value": 0.00013000000000000002,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta05535k"
+      },
+      {
+        "Original_Name_In_Paper": "Cd-doped SnTe",
+        "Property": "PF",
+        "Value": 0.002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra02658c"
+      }
+    ],
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "Cd-doped SnTe nanostructuring with CdS",
+        "Property": "ThermCond",
+        "Value": 0.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta05530f"
+      }
+    ],
+    "575.0": [
+      {
+        "Original_Name_In_Paper": "Mg doped SnTe",
+        "Property": "ThermCond",
+        "Value": 0.78,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.07.220"
+      }
+    ],
+    "835.0": [
+      {
+        "Original_Name_In_Paper": "Sn1.03Te-5 % BiCuSeO",
+        "Property": "ThermCond",
+        "Value": 1.04,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9nr09331a"
+      },
+      {
+        "Original_Name_In_Paper": "Sn1.03Te-5 % BiCuSeO",
+        "Property": "ThermCond",
+        "Value": 1.04,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9nr09331a"
+      },
+      {
+        "Original_Name_In_Paper": "Sn1.03Te-5 % BiCuSeO",
+        "Property": "ThermCond",
+        "Value": 1.04,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9nr09331a"
+      },
+      {
+        "Original_Name_In_Paper": "Sn1.03Te-5 % BiCuSeO",
+        "Property": "ThermCond",
+        "Value": 1.04,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9nr09331a"
+      },
+      {
+        "Original_Name_In_Paper": "Sn1.03Te-5 % BiCuSeO",
+        "Property": "ZT",
+        "Value": 1.21,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9nr09331a"
+      },
+      {
+        "Original_Name_In_Paper": "Sn1.03Te-5 % BiCuSeO",
+        "Property": "ZT",
+        "Value": 1.21,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9nr09331a"
+      },
+      {
+        "Original_Name_In_Paper": "Sn1.03Te-5 % BiCuSeO",
+        "Property": "ZT",
+        "Value": 1.21,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9nr09331a"
+      },
+      {
+        "Original_Name_In_Paper": "Sn1.03Te-5 % BiCuSeO",
+        "Property": "ZT",
+        "Value": 1.21,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9nr09331a"
+      },
+      {
+        "Original_Name_In_Paper": "Sn1.03Te-5 % BiCuSeO",
+        "Property": "Seebeck",
+        "Value": 0.00017605,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9nr09331a"
+      },
+      {
+        "Original_Name_In_Paper": "Sn1.03Te-5 % BiCuSeO",
+        "Property": "Seebeck",
+        "Value": 0.00017605,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9nr09331a"
+      },
+      {
+        "Original_Name_In_Paper": "Sn1.03Te-5 % BiCuSeO",
+        "Property": "PF",
+        "Value": 0.001517,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9nr09331a"
+      },
+      {
+        "Original_Name_In_Paper": "Sn1.03Te-5 % BiCuSeO",
+        "Property": "PF",
+        "Value": 0.001517,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9nr09331a"
+      }
+    ],
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ThermCond",
+        "Value": 0.48,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": "Ga - doping",
+        "Source_DOI": "10.1039/c7ta09941j"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ee02530k"
+      }
+    ],
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ThermCond",
+        "Value": 1.6,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ta09941j"
+      },
+      {
+        "Original_Name_In_Paper": "multidoped SnTe",
+        "Property": "ZT",
+        "Value": 1.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2019.100158"
+      },
+      {
+        "Original_Name_In_Paper": "Zn-doped SnTe",
+        "Property": "ZT",
+        "Value": 0.78,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2019.100158"
+      },
+      {
+        "Original_Name_In_Paper": "multidoped SnTe",
+        "Property": "ZT",
+        "Value": 0.76,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2019.100158"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4cp02091j"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6qi00263c"
+      },
+      {
+        "Original_Name_In_Paper": "pure SnTe",
+        "Property": "ZT",
+        "Value": 0.58,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9cp03534f"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe-based",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cp04931e"
+      },
+      {
+        "Original_Name_In_Paper": "Mn-doped SnTe",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cp04931e"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cej.2020.126274"
+      },
+      {
+        "Original_Name_In_Paper": "Mn-doped SnTe",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5cp07620j"
+      },
+      {
+        "Original_Name_In_Paper": "17 % Mn alloyed SnTe",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ee02423d"
+      },
+      {
+        "Original_Name_In_Paper": "multidoped SnTe",
+        "Property": "PF",
+        "Value": 0.0019,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2019.100158"
+      }
+    ],
+    "803.0": [
+      {
+        "Original_Name_In_Paper": "undoped SnTe",
+        "Property": "ThermCond",
+        "Value": 0.6000000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2016.08.008"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe bulk",
+        "Property": "ZT",
+        "Value": 0.49,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2016.08.008"
+      }
+    ],
+    "325.0": [
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ThermCond",
+        "Value": 1.6,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2016.08.008"
+      }
+    ],
+    "920.0": [
+      {
+        "Original_Name_In_Paper": "codoped SnTe",
+        "Property": "ZT",
+        "Value": 1.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6cp03688k"
+      },
+      {
+        "Original_Name_In_Paper": "codoped SnTe",
+        "Property": "Seebeck",
+        "Value": 0.00023,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6cp03688k"
+      },
+      {
+        "Original_Name_In_Paper": "codoped SnTe",
+        "Property": "Seebeck",
+        "Value": 0.00023,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6cp03688k"
+      }
+    ],
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "SnTe based materials",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6cp03688k"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": "Cd codoping",
+        "Source_DOI": "10.1038/s41524-019-0197-9"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": "codoping of In",
+        "Source_DOI": "10.1039/c6ta01994c"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": "Sb alloying",
+        "Source_DOI": "10.1016/j.scib.2019.06.007"
+      },
+      {
+        "Original_Name_In_Paper": "Cd co-doped SnTe alloys",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-019-03502-y"
+      },
+      {
+        "Original_Name_In_Paper": "p-type SnTe",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": "In and Cd co-doping",
+        "Source_DOI": "10.1039/c8cc02230e"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe based materials",
+        "Property": "Seebeck",
+        "Value": 0.0002,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6cp03688k"
+      }
+    ],
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "co-doped SnTe",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2017.12.001"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2018.10.004"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1134/1.1187388"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6qi00263c"
+      }
+    ],
+    "710.0": [
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ZT",
+        "Value": 0.35000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7tc00009j"
+      }
+    ],
+    "856.0": [
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ZT",
+        "Value": 1.05,
+        "Units": null,
+        "Editing": "AgI alloying",
+        "Source_DOI": "10.1016/j.jssc.2016.02.012"
+      }
+    ],
+    "548.0": [
+      {
+        "Original_Name_In_Paper": "pure SnTe",
+        "Property": "ZT",
+        "Value": 0.19,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.10.217"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ZT",
+        "Value": 0.19,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.10.217"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "Seebeck",
+        "Value": 0.000111,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.10.217"
+      }
+    ],
+    "775.0": [
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2015.11.006"
+      },
+      {
+        "Original_Name_In_Paper": "pristine SnTe",
+        "Property": "Seebeck",
+        "Value": 9e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.susmat.2020.e00183"
+      }
+    ],
+    "910.0": [
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ZT",
+        "Value": 1.35,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ee01463d"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ZT",
+        "Value": 1.35,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ee01463d"
+      }
+    ],
+    "550.0": [
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpowsour.2020.227983"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "Seebeck",
+        "Value": 3.6e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpowsour.2020.227983"
+      }
+    ],
+    "840.0": [
+      {
+        "Original_Name_In_Paper": "co-doped SnTe",
+        "Property": "ZT",
+        "Value": 1.65,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2018.02.001"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "ZT",
+        "Value": 1.65,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2018.02.001"
+      },
+      {
+        "Original_Name_In_Paper": "Bi doped SnTe",
+        "Property": "PF",
+        "Value": 0.002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc01184f"
+      },
+      {
+        "Original_Name_In_Paper": "co-doped SnTe",
+        "Property": "PF",
+        "Value": 0.0047,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2018.02.001"
+      }
+    ],
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "pure SnTe",
+        "Property": "PF",
+        "Value": 0.0017000000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8se00385h"
+      }
+    ],
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "undoped SnTe",
+        "Property": "PF",
+        "Value": 0.0009100000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.09.234"
+      }
+    ],
+    "303.0": [
+      {
+        "Original_Name_In_Paper": "SnTe ingot",
+        "Property": "Conductivity",
+        "Value": 719800.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-018-0018-9"
+      }
+    ],
+    "140.0": [
+      {
+        "Original_Name_In_Paper": "SnTe",
+        "Property": "Conductivity",
+        "Value": 800000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0167-577X(00)00287-1"
+      }
+    ]
+  }
+}

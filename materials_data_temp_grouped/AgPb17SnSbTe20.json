@@ -1,0 +1,34 @@
+{
+  "Material": "AgPb17SnSbTe20",
+  "DOIs_Researched": [
+    "10.1016/j.solidstatesciences.2010.09.014"
+  ],
+  "Data_By_Temperature": {
+    "623.0": [
+      {
+        "Original_Name_In_Paper": "AgPb17SnSbTe20",
+        "Property": "ZT",
+        "Value": 0.72,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2010.09.014"
+      },
+      {
+        "Original_Name_In_Paper": "AgPb17SnSbTe20",
+        "Property": "ZT",
+        "Value": 0.72,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2010.09.014"
+      },
+      {
+        "Original_Name_In_Paper": "AgPb17SnSbTe20",
+        "Property": "ZT",
+        "Value": 0.72,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2010.09.014"
+      }
+    ]
+  }
+}

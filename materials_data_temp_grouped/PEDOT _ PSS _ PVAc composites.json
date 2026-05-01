@@ -1,0 +1,18 @@
+{
+  "Material": "PEDOT : PSS / PVAc composites",
+  "DOIs_Researched": [
+    "10.1016/j.carbon.2015.07.043"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "PEDOT : PSS / PVAc composites",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.carbon.2015.07.043"
+      }
+    ]
+  }
+}

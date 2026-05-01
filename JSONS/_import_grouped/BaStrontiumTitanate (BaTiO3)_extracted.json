@@ -1,0 +1,79 @@
+{
+  "doi": "10.1016/j.scriptamat.2018.05.026",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "pure BST",
+        "pristine BST"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "pure BST",
+          "value": 0.000184,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "pristine BST",
+          "value": 0.71,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "347.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "pure BST",
+          "zt_value": 1.31,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "pristine BST",
+          "zt_value": 1.48,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "pure BST",
+          "zt_value": 1.2,
+          "temperature": "325.0 K"
+        },
+        {
+          "material": "pristine BST",
+          "zt_value": 1,
+          "temperature": "400.0 K"
+        },
+        {
+          "material": "pristine BST",
+          "zt_value": 1.2,
+          "temperature": "375.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

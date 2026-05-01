@@ -1,0 +1,35 @@
+{
+  "Material": "Ca0.98Dy0.02MnO3",
+  "DOIs_Researched": [
+    "10.1016/j.jmst.2014.01.002",
+    "10.1016/j.jssc.2014.12.010"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "Ca0.98Dy0.02MnO3",
+        "Property": "ThermCond",
+        "Value": 2.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2014.12.010"
+      },
+      {
+        "Original_Name_In_Paper": "Ca0.98Dy0.02MnO3",
+        "Property": "ZT",
+        "Value": 0.15,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmst.2014.01.002"
+      },
+      {
+        "Original_Name_In_Paper": "Ca0.98Dy0.02MnO3",
+        "Property": "Seebeck",
+        "Value": -0.00030000000000000003,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2014.12.010"
+      }
+    ]
+  }
+}

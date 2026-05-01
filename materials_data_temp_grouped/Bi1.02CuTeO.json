@@ -1,0 +1,26 @@
+{
+  "Material": "Bi1.02CuTeO",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2019.02.003"
+  ],
+  "Data_By_Temperature": {
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "Bi1.02CuTeO",
+        "Property": "ZT",
+        "Value": 0.6900000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2019.02.003"
+      },
+      {
+        "Original_Name_In_Paper": "Bi1.02CuTeO",
+        "Property": "ZT",
+        "Value": 0.6900000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2019.02.003"
+      }
+    ]
+  }
+}

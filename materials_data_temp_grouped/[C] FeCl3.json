@@ -1,0 +1,18 @@
+{
+  "Material": "[C] FeCl3",
+  "DOIs_Researched": [
+    "10.1039/c5ta02443a"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "SWCNT / FeCl3-doped poly(3-hexylthiophene)",
+        "Property": "PF",
+        "Value": 9.499999999999999e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta02443a"
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "Material": "Pb5Bi6Se14",
+  "DOIs_Researched": [
+    "10.1039/c4ta05135a",
+    "10.1557/PROC-626-Z7.4"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Pb5Bi6Se14",
+        "Property": "ThermCond",
+        "Value": 0.72,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta05135a"
+      }
+    ],
+    "705.0": [
+      {
+        "Original_Name_In_Paper": "Pb5Bi6Se14",
+        "Property": "ZT",
+        "Value": 0.46,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta05135a"
+      },
+      {
+        "Original_Name_In_Paper": "Pb5Bi6Se14",
+        "Property": "ZT",
+        "Value": 0.46,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta05135a"
+      },
+      {
+        "Original_Name_In_Paper": "Pb5Bi6Se14",
+        "Property": "PF",
+        "Value": 0.00030000000000000003,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta05135a"
+      }
+    ],
+    "271.0": [
+      {
+        "Original_Name_In_Paper": "Pb5Bi6Se14",
+        "Property": "Seebeck",
+        "Value": -0.00013099999999999999,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1557/PROC-626-Z7.4"
+      },
+      {
+        "Original_Name_In_Paper": "Pb5Bi6Se14",
+        "Property": "Conductivity",
+        "Value": 65700.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1557/PROC-626-Z7.4"
+      }
+    ]
+  }
+}

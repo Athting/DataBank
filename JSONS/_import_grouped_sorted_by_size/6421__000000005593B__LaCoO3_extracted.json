@@ -1,0 +1,216 @@
+{
+  "doi": "10.1016/j.progsolidstchem.2007.01.027",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "LaCoO3",
+        "LaCo1-xFexO3",
+        "undoped LaCoO3",
+        "LaCo0.95Mg0.05O3",
+        "LaCo0.9Ni0.1O3",
+        "LaCoO3 single crystals",
+        "Ca-substituted LaCoO3",
+        "Sr-substituted LaCoO3",
+        "LaCo0.5Rh0.5O3",
+        "LaCo1−xRhxO3",
+        "un-doped LaCoO3"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "LaCoO3",
+          "value": 0.0006000000000000001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "undoped LaCoO3",
+          "value": -0.000345,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "LaCoO3",
+          "value": 0.0006000000000000001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "LaCo0.95Mg0.05O3",
+          "value": 0.0004,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "LaCoO3",
+          "value": 0.0006000000000000001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "LaCoO3",
+          "value": 0.0006000000000000001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Ca-substituted LaCoO3",
+          "value": 0.00007000000000000001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Sr-substituted LaCoO3",
+          "value": 0.0007,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "LaCoO3",
+          "value": 100,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "400.0 K"
+        },
+        {
+          "material": "LaCoO3",
+          "value": 100,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "345.0 K"
+        },
+        {
+          "material": "LaCoO3",
+          "value": 19050,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "850.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "LaCoO3",
+          "value": 0.38,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "LaCoO3 single crystals",
+          "value": 2.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "LaCoO3",
+          "value": 2.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1000.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "LaCo0.9Ni0.1O3",
+          "value": 0.00014099999999999998,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "LaCo0.9Ni0.1O3",
+          "value": 0.00014099999999999998,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "LaCoO3",
+          "value": 0.00004,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "un-doped LaCoO3",
+          "value": 0.00014099999999999998,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "323.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "LaCoO3",
+          "zt_value": 0.18,
+          "temperature": "295 K"
+        },
+        {
+          "material": "LaCo1-xFexO3",
+          "zt_value": 0.04,
+          "temperature": "295 K"
+        },
+        {
+          "material": "LaCoO3",
+          "zt_value": 0.01,
+          "temperature": "295 K"
+        },
+        {
+          "material": "LaCo0.5Rh0.5O3",
+          "zt_value": 0.075,
+          "temperature": "775.0 K"
+        },
+        {
+          "material": "LaCo0.5Rh0.5O3",
+          "zt_value": 0.075,
+          "temperature": "775.0 K"
+        },
+        {
+          "material": "LaCo1−xRhxO3",
+          "zt_value": 0.075,
+          "temperature": "775.0 K"
+        },
+        {
+          "material": "LaCo0.5Rh0.5O3",
+          "zt_value": 0.075,
+          "temperature": "775.0 K"
+        },
+        {
+          "material": "LaCoO3",
+          "zt_value": 0.2,
+          "temperature": "963.0 K"
+        },
+        {
+          "material": "LaCo0.9Ni0.1O3",
+          "zt_value": 0.031,
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "LaCo0.9Ni0.1O3",
+          "zt_value": 0.031,
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "LaCoO3",
+          "zt_value": 0.03,
+          "temperature": "673.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

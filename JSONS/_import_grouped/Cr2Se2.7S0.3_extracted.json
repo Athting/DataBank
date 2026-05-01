@@ -1,0 +1,74 @@
+{
+  "doi": "10.1039/c7tc04749e",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Cr2Se2.7S0.3",
+        "Cr2Se2.7S0.3 compound"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "Cr2Se2.7S0.3",
+          "value": 35700,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Cr2Se2.7S0.3",
+          "value": 1.45,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "573.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Cr2Se2.7S0.3 compound",
+          "zt_value": 0.29,
+          "temperature": "623.0 K"
+        },
+        {
+          "material": "Cr2Se2.7S0.3",
+          "zt_value": 0.29,
+          "temperature": "623.0 K"
+        },
+        {
+          "material": "Cr2Se2.7S0.3",
+          "zt_value": 0.29,
+          "temperature": "623.0 K"
+        },
+        {
+          "material": "Cr2Se2.7S0.3",
+          "zt_value": 0.29,
+          "temperature": "623.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

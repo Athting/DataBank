@@ -1,0 +1,18 @@
+{
+  "Material": "PbTe\u2013SnTe",
+  "DOIs_Researched": [
+    "10.1016/j.spmi.2008.02.008"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "PbTe\u2013SnTe",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.spmi.2008.02.008"
+      }
+    ]
+  }
+}

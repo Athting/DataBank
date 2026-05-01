@@ -1,0 +1,18 @@
+{
+  "Material": "AgSbTe12",
+  "DOIs_Researched": [
+    "10.1039/c3ra40564h"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "AgPb10SbTe12 microrods",
+        "Property": "Conductivity",
+        "Value": 21320.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ra40564h"
+      }
+    ]
+  }
+}

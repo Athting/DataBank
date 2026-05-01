@@ -1,0 +1,18 @@
+{
+  "Material": "SnBi4Se7",
+  "DOIs_Researched": [
+    "10.1007/s10853-009-3402-2"
+  ],
+  "Data_By_Temperature": {
+    "90.0": [
+      {
+        "Original_Name_In_Paper": "SnBi4Se7",
+        "Property": "Conductivity",
+        "Value": 251.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-009-3402-2"
+      }
+    ]
+  }
+}

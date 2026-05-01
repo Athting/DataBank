@@ -1,0 +1,1003 @@
+{
+  "Material": "PbS",
+  "DOIs_Researched": [
+    "10.1039/c9ee03087e",
+    "10.1016/j.jallcom.2018.06.116",
+    "10.1007/s00339-014-8659-x",
+    "10.1016/j.jallcom.2018.02.152",
+    "10.1016/j.spmi.2018.04.031",
+    "10.1039/c6ra11299d",
+    "10.1016/j.ssc.2019.113755",
+    "10.1007/s00339-012-6974-7",
+    "10.1016/j.ijleo.2017.06.122",
+    "10.1016/j.jallcom.2018.12.059",
+    "10.1038/am.2014.39",
+    "10.1016/j.jssc.2019.120995",
+    "10.1007/s12039-019-1704-8",
+    "10.1007/s11434-014-0237-2",
+    "10.1038/ncomms10766",
+    "10.1016/j.nanoen.2020.104826",
+    "10.1039/c2jm33899h",
+    "10.1016/j.actamat.2014.12.042",
+    "10.1039/c6dt04177a",
+    "10.1039/c5ee01147g",
+    "10.1039/c5nr01016k",
+    "10.1016/j.mattod.2015.10.004",
+    "10.1016/j.mssp.2016.03.012",
+    "10.1007/s10854-020-03214-z",
+    "10.1016/j.nanoen.2011.10.001",
+    "10.1016/S0925-8388(09)01720-4",
+    "10.1016/j.jeurceramsoc.2018.03.046",
+    "10.1039/c7qm00306d",
+    "10.1007/s10854-016-5080-6",
+    "10.1039/c3ee43099e",
+    "10.1016/j.scriptamat.2020.04.023",
+    "10.1016/j.nanoen.2017.04.027",
+    "10.1016/j.jallcom.2015.10.052",
+    "10.1016/j.jallcom.2019.153453"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "PbS",
+        "Property": "ThermCond",
+        "Value": 2.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2jm33899h"
+      },
+      {
+        "Original_Name_In_Paper": "pristine PbS",
+        "Property": "ThermCond",
+        "Value": 1.33,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2018.03.046"
+      },
+      {
+        "Original_Name_In_Paper": "PbS",
+        "Property": "ThermCond",
+        "Value": 2.6,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s12039-019-1704-8"
+      },
+      {
+        "Original_Name_In_Paper": "pure PbS",
+        "Property": "ThermCond",
+        "Value": 2.3,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-020-03214-z"
+      },
+      {
+        "Original_Name_In_Paper": "undoped PbS",
+        "Property": "ThermCond",
+        "Value": 1.7000000000000002,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.10.052"
+      },
+      {
+        "Original_Name_In_Paper": "PbS",
+        "Property": "ThermCond",
+        "Value": 1.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.10.052"
+      },
+      {
+        "Original_Name_In_Paper": "PbS",
+        "Property": "ThermCond",
+        "Value": 0.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.10.052"
+      },
+      {
+        "Original_Name_In_Paper": "PbS",
+        "Property": "ThermCond",
+        "Value": 2.7,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2017.04.027"
+      },
+      {
+        "Original_Name_In_Paper": "undoped PbS",
+        "Property": "ThermCond",
+        "Value": 2.56,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.02.152"
+      },
+      {
+        "Original_Name_In_Paper": "PbS+1 % PbCl2",
+        "Property": "ThermCond",
+        "Value": 3.9,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2019.120995"
+      },
+      {
+        "Original_Name_In_Paper": "Cu-free Pb0.98Sb0.02S",
+        "Property": "ThermCond",
+        "Value": 1.06,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.12.059"
+      },
+      {
+        "Original_Name_In_Paper": "PbS",
+        "Property": "ThermCond",
+        "Value": 2.35,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2019.113755"
+      },
+      {
+        "Original_Name_In_Paper": "PbS nanoparticles",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(09)01720-4"
+      },
+      {
+        "Original_Name_In_Paper": "PbS",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2016.03.012"
+      },
+      {
+        "Original_Name_In_Paper": "PbS",
+        "Property": "Conductivity",
+        "Value": 0.9803921569,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ijleo.2017.06.122"
+      },
+      {
+        "Original_Name_In_Paper": "PbS",
+        "Property": "Conductivity",
+        "Value": 181.8181818182,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-016-5080-6"
+      },
+      {
+        "Original_Name_In_Paper": "PbS",
+        "Property": "Conductivity",
+        "Value": 181.8181818182,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-016-5080-6"
+      },
+      {
+        "Original_Name_In_Paper": "PbS",
+        "Property": "Seebeck",
+        "Value": 0.0006000000000000001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5nr01016k"
+      },
+      {
+        "Original_Name_In_Paper": "undoped PbS",
+        "Property": "PF",
+        "Value": 2e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.02.152"
+      },
+      {
+        "Original_Name_In_Paper": "PbS",
+        "Property": "Conductivity",
+        "Value": 0.03,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5nr01016k"
+      },
+      {
+        "Original_Name_In_Paper": "PbS",
+        "Property": "Conductivity",
+        "Value": 0.03,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5nr01016k"
+      },
+      {
+        "Original_Name_In_Paper": "PbS",
+        "Property": "Conductivity",
+        "Value": 0.03,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5nr01016k"
+      },
+      {
+        "Original_Name_In_Paper": "PbS",
+        "Property": "Conductivity",
+        "Value": 2.5,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5nr01016k"
+      },
+      {
+        "Original_Name_In_Paper": "PbS",
+        "Property": "Conductivity",
+        "Value": 0.03,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5nr01016k"
+      },
+      {
+        "Original_Name_In_Paper": "PbS film",
+        "Property": "Conductivity",
+        "Value": 80.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s00339-014-8659-x"
+      },
+      {
+        "Original_Name_In_Paper": "Na doped PbS",
+        "Property": "Conductivity",
+        "Value": 76000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.153453"
+      },
+      {
+        "Original_Name_In_Paper": "undoped PbS",
+        "Property": "Conductivity",
+        "Value": 2500.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.10.052"
+      },
+      {
+        "Original_Name_In_Paper": "Ag-free PbS nanomaterials",
+        "Property": "Conductivity",
+        "Value": 7.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/ncomms10766"
+      },
+      {
+        "Original_Name_In_Paper": "undoped PbS",
+        "Property": "Conductivity",
+        "Value": 13000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.02.152"
+      },
+      {
+        "Original_Name_In_Paper": "PbS-0.067 % PbCl2-0.5 % Sb",
+        "Property": "Conductivity",
+        "Value": 121900.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.104826"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "PbS",
+        "Property": "ThermCond",
+        "Value": 0.43,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-020-03214-z"
+      },
+      {
+        "Original_Name_In_Paper": "PbS + 3 %",
+        "Property": "ThermCond",
+        "Value": 0.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-020-03214-z"
+      },
+      {
+        "Original_Name_In_Paper": "PbS",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.06.116"
+      },
+      {
+        "Original_Name_In_Paper": "PbS",
+        "Property": "Seebeck",
+        "Value": -0.000329,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-020-03214-z"
+      }
+    ],
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "2.5 at. % Na-doped p-type PbS",
+        "Property": "ThermCond",
+        "Value": 0.62,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-020-03214-z"
+      },
+      {
+        "Original_Name_In_Paper": "PbS",
+        "Property": "ThermCond",
+        "Value": 0.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.10.052"
+      },
+      {
+        "Original_Name_In_Paper": "PbS",
+        "Property": "ThermCond",
+        "Value": 0.71,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": "PbSe and PbTe co-alloying",
+        "Source_DOI": "10.1016/j.jallcom.2018.02.152"
+      },
+      {
+        "Original_Name_In_Paper": "n-type PbS",
+        "Property": "ThermCond",
+        "Value": 1.33,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.02.152"
+      },
+      {
+        "Original_Name_In_Paper": "PbS",
+        "Property": "ThermCond",
+        "Value": 0.62,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": "introducing Bi2S3",
+        "Source_DOI": "10.1016/j.jallcom.2018.02.152"
+      },
+      {
+        "Original_Name_In_Paper": "undoped PbS",
+        "Property": "ThermCond",
+        "Value": 1.3599999999999999,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.02.152"
+      },
+      {
+        "Original_Name_In_Paper": "undoped PbS",
+        "Property": "ThermCond",
+        "Value": 1.33,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.02.152"
+      },
+      {
+        "Original_Name_In_Paper": "n-type PbS",
+        "Property": "ThermCond",
+        "Value": 0.77,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.12.059"
+      },
+      {
+        "Original_Name_In_Paper": "n-type PbS",
+        "Property": "ThermCond",
+        "Value": 0.5700000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.12.059"
+      },
+      {
+        "Original_Name_In_Paper": "n-type PbS",
+        "Property": "ThermCond",
+        "Value": 1.33,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.12.059"
+      },
+      {
+        "Original_Name_In_Paper": "PbS",
+        "Property": "ZT",
+        "Value": 2.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ee01147g"
+      },
+      {
+        "Original_Name_In_Paper": "PbS",
+        "Property": "ZT",
+        "Value": 2.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ee01147g"
+      },
+      {
+        "Original_Name_In_Paper": "nanocrystalline PbS materials",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2014.39"
+      },
+      {
+        "Original_Name_In_Paper": "PbS",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2014.39"
+      },
+      {
+        "Original_Name_In_Paper": "PbS",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2014.39"
+      },
+      {
+        "Original_Name_In_Paper": "PbS",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ee03087e"
+      },
+      {
+        "Original_Name_In_Paper": "n-type PbS",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": "introducing Bi2S3",
+        "Source_DOI": "10.1016/j.jssc.2019.120995"
+      },
+      {
+        "Original_Name_In_Paper": "n-type PbS",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.02.152"
+      },
+      {
+        "Original_Name_In_Paper": "Lead sulfide ( PbS )",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.06.116"
+      },
+      {
+        "Original_Name_In_Paper": "p-type PbS",
+        "Property": "Seebeck",
+        "Value": 0.0002,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ee43099e"
+      },
+      {
+        "Original_Name_In_Paper": "n-type PbS",
+        "Property": "Seebeck",
+        "Value": -0.000185,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ee43099e"
+      },
+      {
+        "Original_Name_In_Paper": "n-type PbS",
+        "Property": "PF",
+        "Value": 0.000224,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.02.152"
+      },
+      {
+        "Original_Name_In_Paper": "PbS",
+        "Property": "PF",
+        "Value": 0.000225,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": "Sb doping",
+        "Source_DOI": "10.1016/j.jallcom.2018.02.152"
+      }
+    ],
+    "298.0": [
+      {
+        "Original_Name_In_Paper": "pristine PbS",
+        "Property": "ThermCond",
+        "Value": 2.36,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-020-03214-z"
+      },
+      {
+        "Original_Name_In_Paper": "pure PbS",
+        "Property": "PF",
+        "Value": 0.00059,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-020-03214-z"
+      }
+    ],
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "PbS ingot",
+        "Property": "ThermCond",
+        "Value": 1.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.10.052"
+      },
+      {
+        "Original_Name_In_Paper": "PbS",
+        "Property": "ThermCond",
+        "Value": 0.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.10.052"
+      },
+      {
+        "Original_Name_In_Paper": "PbS",
+        "Property": "ThermCond",
+        "Value": 1.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.10.052"
+      },
+      {
+        "Original_Name_In_Paper": "PbS",
+        "Property": "ThermCond",
+        "Value": 1.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.10.052"
+      },
+      {
+        "Original_Name_In_Paper": "PbS",
+        "Property": "ThermCond",
+        "Value": 0.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.10.052"
+      },
+      {
+        "Original_Name_In_Paper": "undoped PbS",
+        "Property": "ThermCond",
+        "Value": 0.71,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.10.052"
+      },
+      {
+        "Original_Name_In_Paper": "PbS",
+        "Property": "ThermCond",
+        "Value": 0.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.10.052"
+      },
+      {
+        "Original_Name_In_Paper": "PbS",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.10.052"
+      },
+      {
+        "Original_Name_In_Paper": "PbS",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.10.052"
+      },
+      {
+        "Original_Name_In_Paper": "PbS",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.10.052"
+      },
+      {
+        "Original_Name_In_Paper": "PbS ingot",
+        "Property": "ZT",
+        "Value": 0.31,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.10.052"
+      },
+      {
+        "Original_Name_In_Paper": "PbCl2 doped PbS",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.10.052"
+      },
+      {
+        "Original_Name_In_Paper": "n-type PbS",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.10.052"
+      },
+      {
+        "Original_Name_In_Paper": "PbS",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2jm33899h"
+      }
+    ],
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "p-type PbS",
+        "Property": "ThermCond",
+        "Value": 0.11,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.153453"
+      },
+      {
+        "Original_Name_In_Paper": "n-type PbS",
+        "Property": "ThermCond",
+        "Value": 1.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2020.04.023"
+      },
+      {
+        "Original_Name_In_Paper": "p-type PbS",
+        "Property": "ThermCond",
+        "Value": 0.30000000000000004,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2020.04.023"
+      },
+      {
+        "Original_Name_In_Paper": "n-type PbS",
+        "Property": "ThermCond",
+        "Value": 1.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2020.04.023"
+      },
+      {
+        "Original_Name_In_Paper": "Sb-doped PbS",
+        "Property": "ThermCond",
+        "Value": 0.77,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": "Cl doping",
+        "Source_DOI": "10.1016/j.nanoen.2020.104826"
+      },
+      {
+        "Original_Name_In_Paper": "PbS-0.067 % PbCl2-1.5 % Sb",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.104826"
+      },
+      {
+        "Original_Name_In_Paper": "PbS-0.067 % PbCl2-1.5 % Sb",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.104826"
+      },
+      {
+        "Original_Name_In_Paper": "PbS-0.067 % PbCl2-1.5 % Sb",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.104826"
+      },
+      {
+        "Original_Name_In_Paper": "n-type PbS",
+        "Property": "Conductivity",
+        "Value": 20000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2020.04.023"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "p-type PbS",
+        "Property": "ThermCond",
+        "Value": 4.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2020.04.023"
+      },
+      {
+        "Original_Name_In_Paper": "p-type PbS",
+        "Property": "ThermCond",
+        "Value": 1.1,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2020.04.023"
+      },
+      {
+        "Original_Name_In_Paper": "PbS+1 % PbCl2",
+        "Property": "ThermCond",
+        "Value": 1.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2019.120995"
+      },
+      {
+        "Original_Name_In_Paper": "PbS+1 % PbCl2",
+        "Property": "ThermCond",
+        "Value": 2.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2019.120995"
+      },
+      {
+        "Original_Name_In_Paper": "PbS",
+        "Property": "Seebeck",
+        "Value": 8.669999999999999e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s00339-012-6974-7"
+      },
+      {
+        "Original_Name_In_Paper": "PbS",
+        "Property": "PF",
+        "Value": 0.00071,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": "PbCl2 doping",
+        "Source_DOI": "10.1016/j.jssc.2019.120995"
+      },
+      {
+        "Original_Name_In_Paper": "PbS+1 % PbCl2",
+        "Property": "Conductivity",
+        "Value": 191600.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2019.120995"
+      },
+      {
+        "Original_Name_In_Paper": "PbS+1 % PbCl2",
+        "Property": "Conductivity",
+        "Value": 191600.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2019.120995"
+      }
+    ],
+    "523.0": [
+      {
+        "Original_Name_In_Paper": "p-type PbS",
+        "Property": "ThermCond",
+        "Value": 1.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2020.04.023"
+      },
+      {
+        "Original_Name_In_Paper": "p-type PbS",
+        "Property": "Seebeck",
+        "Value": 8.3e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2020.04.023"
+      },
+      {
+        "Original_Name_In_Paper": "p-type PbS",
+        "Property": "Conductivity",
+        "Value": 106000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2020.04.023"
+      }
+    ],
+    "930.0": [
+      {
+        "Original_Name_In_Paper": "n-type PbS",
+        "Property": "ThermCond",
+        "Value": 0.6000000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2019.120995"
+      },
+      {
+        "Original_Name_In_Paper": "PbS + 3 % SrS",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2019.120995"
+      }
+    ],
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "PbS",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": "PbTe nano-inclusion",
+        "Source_DOI": "10.1016/j.nanoen.2011.10.001"
+      },
+      {
+        "Original_Name_In_Paper": "PbS",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11434-014-0237-2"
+      }
+    ],
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "PbS-0.067 % PbCl2-1.5 % Sb",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.104826"
+      },
+      {
+        "Original_Name_In_Paper": "PbS-0.067 % PbCl2-1.5 % Sb",
+        "Property": "PF",
+        "Value": 0.0016,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.104826"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "PbS",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mattod.2015.10.004"
+      },
+      {
+        "Original_Name_In_Paper": "PbS",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ee43099e"
+      },
+      {
+        "Original_Name_In_Paper": "PbS",
+        "Property": "ZT",
+        "Value": 1.8,
+        "Units": null,
+        "Editing": "including PbS",
+        "Source_DOI": "10.1016/j.actamat.2014.12.042"
+      },
+      {
+        "Original_Name_In_Paper": "PbS",
+        "Property": "ZT",
+        "Value": 1.72,
+        "Units": null,
+        "Editing": "PbS substitution",
+        "Source_DOI": "10.1039/c6ra11299d"
+      },
+      {
+        "Original_Name_In_Paper": "n-type PbS",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6dt04177a"
+      }
+    ],
+    "423.0": [
+      {
+        "Original_Name_In_Paper": "PbS+ 3 % CaS / SrS",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2019.120995"
+      },
+      {
+        "Original_Name_In_Paper": "PbS",
+        "Property": "Conductivity",
+        "Value": 1.1,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5nr01016k"
+      },
+      {
+        "Original_Name_In_Paper": "PbS",
+        "Property": "Conductivity",
+        "Value": 1.1,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5nr01016k"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "pure PbS",
+        "Property": "ZT",
+        "Value": 1.07,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7qm00306d"
+      }
+    ],
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "pure PbS",
+        "Property": "ZT",
+        "Value": 0.17,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.spmi.2018.04.031"
+      },
+      {
+        "Original_Name_In_Paper": "PbS",
+        "Property": "Seebeck",
+        "Value": 0.000154,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.spmi.2018.04.031"
+      },
+      {
+        "Original_Name_In_Paper": "PbS\u2013Ag 4.4 mol %",
+        "Property": "PF",
+        "Value": 0.00168,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/ncomms10766"
+      },
+      {
+        "Original_Name_In_Paper": "PbS nanocomposites with 4.4 mol % Ag",
+        "Property": "PF",
+        "Value": 0.00168,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7qm00306d"
+      }
+    ],
+    "460.0": [
+      {
+        "Original_Name_In_Paper": "PbS",
+        "Property": "PF",
+        "Value": 6e-06,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5nr01016k"
+      },
+      {
+        "Original_Name_In_Paper": "PbS",
+        "Property": "PF",
+        "Value": 6e-06,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5nr01016k"
+      }
+    ],
+    "623.0": [
+      {
+        "Original_Name_In_Paper": "undoped PbS",
+        "Property": "PF",
+        "Value": 0.00018,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.02.152"
+      },
+      {
+        "Original_Name_In_Paper": "2.5 % Sb-doped PbS",
+        "Property": "PF",
+        "Value": 0.00167,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.02.152"
+      }
+    ]
+  }
+}

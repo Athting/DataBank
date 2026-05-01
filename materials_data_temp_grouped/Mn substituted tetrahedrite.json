@@ -1,0 +1,18 @@
+{
+  "Material": "Mn substituted tetrahedrite",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2016.01.094"
+  ],
+  "Data_By_Temperature": {
+    "575.0": [
+      {
+        "Original_Name_In_Paper": "Mn substituted tetrahedrite",
+        "Property": "ZT",
+        "Value": 1.13,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.01.094"
+      }
+    ]
+  }
+}

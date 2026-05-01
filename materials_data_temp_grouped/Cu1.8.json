@@ -1,0 +1,52 @@
+{
+  "Material": "Cu1.8",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2016.11.331",
+    "10.1039/c8ta03195a",
+    "10.1016/j.jallcom.2018.06.116"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Cu1.8S with 1 wt % LaCl3",
+        "Property": "ThermCond",
+        "Value": 1.1,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta03195a"
+      },
+      {
+        "Original_Name_In_Paper": "Cu1.8S bulk sample with 1 wt % SiC",
+        "Property": "ZT",
+        "Value": 0.87,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.11.331"
+      },
+      {
+        "Original_Name_In_Paper": "Cu1.8S bulk sample with 1 wt % SiC",
+        "Property": "ZT",
+        "Value": 0.87,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.11.331"
+      },
+      {
+        "Original_Name_In_Paper": "Cu1.8S bulk sample with 1 wt % SiC",
+        "Property": "ZT",
+        "Value": 0.87,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.11.331"
+      },
+      {
+        "Original_Name_In_Paper": "Cu1.8S with 2 wt % PbS",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.06.116"
+      }
+    ]
+  }
+}

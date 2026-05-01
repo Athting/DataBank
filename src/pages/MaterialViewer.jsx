@@ -1,8 +1,9 @@
 import { useEffect, useState } from "react";
-import { Search, ChevronDown, BarChart2, TrendingUp } from "lucide-react";
-import { fetchMaterialByName, searchMaterialNames } from "../lib/api";
+import { Search, BarChart2, TrendingUp } from "lucide-react";
+import { fetchMaterialByName } from "../lib/api";
 import MaterialCard from "../components/MaterialCard";
 import PropertyBarChart from "../components/PropertyBarChart";
+import PropertyTrendChart from "../components/PropertyTrendChart";
 import ZTLineChart from "../components/ZTLineChart";
 import LoadingSpinner from "../components/LoadingSpinner";
 
@@ -107,65 +108,48 @@ function buildKeyValuePairs(material) {
 }
 
 function formatDisplayValue(val) {
-  if (typeof val === "number") return val.toFixed(3);
+  if (typeof val === "number") return formatScientificNumber(val);
   if (typeof val === "object" && val !== null) return JSON.stringify(val);
   return val ?? "—";
 }
 
-export default function MaterialViewer() {
-  const [results, setResults] = useState([]);
-  const [query, setQuery] = useState("");
+function formatScientificNumber(value, digits = 3) {
+  const num = Number(value);
+  if (!Number.isFinite(num)) return "—";
+  if (num === 0) return "0.000";
+
+  const abs = Math.abs(num);
+  if (abs < 1e-3 || abs >= 1e4) {
+    const exp = Math.floor(Math.log10(abs));
+    const mantissa = num / 10 ** exp;
+    return `${mantissa.toFixed(digits)} × 10^${exp}`;
+  }
+
+  return num.toFixed(digits);
+}
+
+function formatPropertyLabel(prop) {
+  return String(prop ?? "")
+    .replace(/_/g, " ")
+    .replace(/\s+/g, " ")
+    .trim()
+    .replace(/\b\w/g, (char) => char.toUpperCase());
+}
+
+export default function MaterialViewer({ initialMaterialName = "" }) {
   const [selected, setSelected] = useState("");
   const [material, setMaterial] = useState(null);
   const [loading, setLoading] = useState(false);
-  const [searching, setSearching] = useState(false);
-  const [searchError, setSearchError] = useState("");
-  const [open, setOpen] = useState(false);
 
   const measurementRows = buildMeasurementRows(material);
   const keyValuePairs = buildKeyValuePairs(material);
-  const dropdownOptions =
-    selected && !results.includes(selected) ? [selected, ...results] : results;
-
-  useEffect(() => {
-    const q = query.trim();
-
-    if (!open || q.length < 2) {
-      setResults([]);
-      setSearching(false);
-      setSearchError("");
-      return;
-    }
-
-    let canceled = false;
-    setSearching(true);
-
-    const timer = setTimeout(() => {
-      searchMaterialNames(q, 20)
-        .then((data) => {
-          if (canceled) return;
-          setResults(data ?? []);
-          setSearchError("");
-          setSearching(false);
-        })
-        .catch(() => {
-          if (canceled) return;
-          setResults([]);
-          setSearchError("Could not reach API. Start backend server and try again.");
-          setSearching(false);
-        });
-    }, 250);
-
-    return () => {
-      canceled = true;
-      clearTimeout(timer);
-    };
-  }, [query, open]);
+  const numericTempCount = measurementRows.filter((row) =>
+    Number.isFinite(Number(row.temperature_K)),
+  ).length;
+  const hasMultiTempTrends = numericTempCount >= 2;
 
   async function loadMaterial(name) {
     setSelected(name);
-    setQuery(name);
-    setOpen(false);
     setLoading(true);
     setMaterial(null);
 
@@ -179,129 +163,31 @@ export default function MaterialViewer() {
     }
   }
 
-  async function loadTypedQuery() {
-    const typed = query.trim();
-    if (typed.length < 2) return;
-    await loadMaterial(typed);
-  }
+  useEffect(() => {
+    const candidate = initialMaterialName?.trim();
+    if (!candidate) return;
+    if (candidate === selected) return;
+    loadMaterial(candidate);
+  }, [initialMaterialName]);
 
   return (
     <div className="space-y-6">
-      <div>
-        <h2 className="text-2xl font-bold text-white mb-1">Material Viewer</h2>
-        <p className="text-gray-400 text-sm">
+      <div className="rounded-2xl border border-sky-200 bg-white/90 p-5 shadow-sm">
+        <h2 className="text-2xl font-bold text-slate-900 mb-1">
+          Material Viewer
+        </h2>
+        <p className="text-slate-700 text-sm">
           Search and inspect individual thermoelectric materials
         </p>
-      </div>
-
-      <div className="relative max-w-md">
-        <div className="relative">
-          <Search
-            size={16}
-            className="absolute left-3 top-1/2 -translate-y-1/2 text-gray-500 pointer-events-none"
-          />
-          <input
-            type="text"
-            value={query}
-            onChange={(e) => {
-              setQuery(e.target.value);
-              setOpen(true);
-              setSearchError("");
-              if (selected && e.target.value !== selected) {
-                setSelected("");
-                setMaterial(null);
-              }
-            }}
-            onFocus={() => setOpen(true)}
-            onKeyDown={(e) => {
-              if (e.key === "Enter") {
-                e.preventDefault();
-                loadTypedQuery();
-              }
-            }}
-            placeholder="Search materials (e.g. SnSe, PbTe...)"
-            className="w-full bg-gray-900 border border-gray-700 rounded-xl pl-9 pr-10 py-3 text-white placeholder-gray-500
-              focus:outline-none focus:border-cyan-500/60 focus:ring-1 focus:ring-cyan-500/20 transition-colors"
-          />
-          <ChevronDown
-            size={16}
-            className={`absolute right-3 top-1/2 -translate-y-1/2 text-gray-500 pointer-events-none transition-transform ${open ? "rotate-180" : ""}`}
-          />
-        </div>
-
-        {open && query.trim().length >= 2 && (
-          <ul className="absolute w-full mt-1 bg-gray-900 border border-gray-700 rounded-xl shadow-xl z-10 overflow-hidden">
-            {searching ? (
-              <li className="px-4 py-2.5 text-sm text-gray-500">Searching…</li>
-            ) : results.length > 0 ? (
-              results.map((n) => (
-                <li key={n}>
-                  <button
-                    onClick={() => loadMaterial(n)}
-                    className={`w-full text-left px-4 py-2.5 text-sm transition-colors hover:bg-gray-800
-                      ${selected === n ? "text-cyan-400 bg-cyan-500/5" : "text-gray-300"}`}
-                  >
-                    {n}
-                  </button>
-                </li>
-              ))
-            ) : (
-              <li className="px-4 py-2.5 text-sm text-gray-500">
-                {searchError || "No matching materials"}
-              </li>
-            )}
-          </ul>
-        )}
-
-        {query.trim().length >= 2 && (
-          <div className="mt-3">
-            <label className="block text-xs text-gray-400 mb-1.5">
-              Select compound (dropdown)
-            </label>
-            <select
-              value={selected || ""}
-              onChange={(e) => {
-                const name = e.target.value;
-                if (!name) return;
-                loadMaterial(name);
-              }}
-              className="w-full bg-gray-900 border border-gray-700 rounded-xl px-3 py-2.5 text-white text-sm
-                focus:outline-none focus:border-cyan-500/60 focus:ring-1 focus:ring-cyan-500/20 transition-colors"
-            >
-              <option value="" className="bg-gray-900 text-gray-400">
-                {searching
-                  ? "Searching compounds..."
-                  : dropdownOptions.length > 0
-                    ? "Choose a compound"
-                    : "No compounds found"}
-              </option>
-              {dropdownOptions.map((name) => (
-                <option key={name} value={name} className="bg-gray-900 text-white">
-                  {name}
-                </option>
-              ))}
-            </select>
-
-            <button
-              type="button"
-              onClick={loadTypedQuery}
-              disabled={query.trim().length < 2 || loading}
-              className="mt-2 w-full rounded-xl border border-cyan-500/40 bg-cyan-500/10 px-3 py-2 text-sm text-cyan-300
-                hover:bg-cyan-500/20 disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
-            >
-              Get details for "{query.trim() || "compound"}"
-            </button>
-
-            {searchError && (
-              <p className="mt-2 text-xs text-amber-300">{searchError}</p>
-            )}
+        {selected && (
+          <div className="mt-3 inline-flex items-center gap-2 rounded-full border border-cyan-300 bg-cyan-50 px-3 py-1 text-xs text-cyan-700">
+            <span className="text-cyan-700">Active compound:</span>
+            <span className="rounded-full bg-cyan-100 px-2 py-0.5 font-semibold text-slate-900 break-all">
+              {selected}
+            </span>
           </div>
         )}
       </div>
-
-      {open && (
-        <div className="fixed inset-0 z-[5]" onClick={() => setOpen(false)} />
-      )}
 
       {loading && (
         <div className="flex justify-center py-16">
@@ -321,118 +207,130 @@ export default function MaterialViewer() {
         </div>
       )}
 
-      {!loading && !material && selected && (
-        <div className="text-center py-16 text-gray-600">
-          <p className="text-lg font-medium">No data found for "{selected}"</p>
-        </div>
-      )}
-
       {!loading && material && (
         <div className="space-y-6 animate-fade-in">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
+            <div className="rounded-xl border border-sky-200 bg-white p-3">
+              <p className="text-[11px] uppercase tracking-wide text-slate-500">
+                ZT Peak
+              </p>
+              <p className="mt-1 text-lg font-semibold text-emerald-300">
+                {formatScientificNumber(material.zt ?? 0)}
+              </p>
+            </div>
+            <div className="rounded-xl border border-sky-200 bg-white p-3">
+              <p className="text-[11px] uppercase tracking-wide text-slate-500">
+                Seebeck
+              </p>
+              <p className="mt-1 text-lg font-semibold text-cyan-300">
+                {formatScientificNumber(material.seebeck ?? 0)}
+              </p>
+            </div>
+            <div className="rounded-xl border border-sky-200 bg-white p-3">
+              <p className="text-[11px] uppercase tracking-wide text-slate-500">
+                Conductivity
+              </p>
+              <p className="mt-1 text-lg font-semibold text-sky-300">
+                {formatScientificNumber(material.conductivity ?? 0)}
+              </p>
+            </div>
+            <div className="rounded-xl border border-sky-200 bg-white p-3">
+              <p className="text-[11px] uppercase tracking-wide text-slate-500">
+                Thermal Cond.
+              </p>
+              <p className="mt-1 text-lg font-semibold text-violet-300">
+                {formatScientificNumber(material.thermal_conductivity ?? 0)}
+              </p>
+            </div>
+          </div>
+
           <div className="grid lg:grid-cols-3 gap-6">
             <div className="lg:col-span-1">
               <MaterialCard material={material} highlight />
             </div>
 
             <div className="lg:col-span-2 space-y-4">
-              <div className="bg-gray-900 rounded-xl border border-gray-800 p-5">
+              <div className="bg-white rounded-xl border border-sky-200 p-5">
                 <div className="flex items-center gap-2 mb-4">
                   <BarChart2 size={16} className="text-cyan-400" />
-                  <h3 className="text-white font-medium text-sm">
-                    Property Overview
+                  <h3 className="text-slate-800 font-medium text-sm">
+                    {hasMultiTempTrends
+                      ? "Property Trends vs Temperature"
+                      : "Property Overview"}
                   </h3>
                 </div>
-                <PropertyBarChart materials={[material]} />
+
+                {hasMultiTempTrends ? (
+                  <PropertyTrendChart rows={measurementRows} />
+                ) : (
+                  <>
+                    <PropertyBarChart materials={[material]} />
+                    <p className="mt-3 text-xs text-slate-500">
+                      Limited temperature points detected; showing static
+                      property snapshot.
+                    </p>
+                  </>
+                )}
               </div>
 
-              {material.temperature_data.length > 0 && (
-                <div className="bg-gray-900 rounded-xl border border-gray-800 p-5">
-                  <div className="flex items-center gap-2 mb-4">
-                    <TrendingUp size={16} className="text-emerald-400" />
-                    <h3 className="text-white font-medium text-sm">
-                      ZT vs Temperature
-                    </h3>
-                  </div>
-                  <ZTLineChart materials={[material]} />
+              <div className="bg-white rounded-xl border border-sky-200 p-5">
+                <div className="flex items-center gap-2 mb-4">
+                  <TrendingUp size={16} className="text-emerald-400" />
+                  <h3 className="text-slate-800 font-medium text-sm">
+                    ZT vs Temperature
+                  </h3>
                 </div>
-              )}
+
+                {material.temperature_data.length > 0 ? (
+                  <ZTLineChart materials={[material]} />
+                ) : (
+                  <div className="rounded-lg border border-dashed border-sky-200 bg-slate-50 px-4 py-10 text-center text-sm text-slate-500">
+                    No temperature-dependent ZT series available for this
+                    material.
+                  </div>
+                )}
+              </div>
             </div>
           </div>
 
-          <div className="bg-gray-900 rounded-xl border border-gray-800 overflow-hidden">
-            <div className="px-5 py-4 border-b border-gray-800">
-              <h3 className="text-white font-medium text-sm">
+          <div className="bg-white rounded-xl border border-sky-200 overflow-hidden">
+            <div className="px-5 py-4 border-b border-sky-200">
+              <h3 className="text-slate-800 font-medium text-sm">
                 Compound Details (Dropdown Format)
               </h3>
-              <p className="text-gray-500 text-xs mt-1">
+              <p className="text-slate-500 text-xs mt-1">
                 Expand a property to see its value
               </p>
             </div>
-            <div className="p-4 border-b border-gray-800 space-y-2">
+            <div className="p-4 border-b border-sky-200 space-y-2">
               {keyValuePairs.map(([prop, val]) => (
                 <details
                   key={`dropdown-${prop}`}
-                  className="bg-gray-800/60 border border-gray-700 rounded-lg"
+                  className="bg-slate-50 border border-sky-200 rounded-lg transition-colors hover:border-sky-300"
                 >
-                  <summary className="list-none cursor-pointer px-3 py-2.5 text-sm text-cyan-300 flex items-center justify-between">
-                    <span>{prop}</span>
-                    <span className="text-xs text-gray-500">▼</span>
+                  <summary className="list-none cursor-pointer px-3 py-2.5 text-sm text-cyan-700 flex items-center justify-between">
+                    <span>{formatPropertyLabel(prop)}</span>
+                    <span className="text-xs text-slate-500">▼</span>
                   </summary>
-                  <div className="px-3 pb-3 text-sm text-white break-all">
+                  <div className="px-3 pb-3 text-sm text-slate-800 break-all">
                     {formatDisplayValue(val)}
                   </div>
                 </details>
               ))}
             </div>
 
-            <div className="px-5 py-4 border-b border-gray-800">
-              <h3 className="text-white font-medium text-sm">
-                Compound Key-Value Pairs
-              </h3>
-              <p className="text-gray-500 text-xs mt-1">
-                All primary properties shown as property → value pairs
-              </p>
-            </div>
-            <div className="overflow-x-auto border-b border-gray-800">
-              <table className="w-full text-sm">
-                <thead>
-                  <tr className="border-b border-gray-800 bg-gray-900/60">
-                    <th className="text-left px-4 py-3 text-cyan-400 font-semibold">
-                      Property
-                    </th>
-                    <th className="text-left px-4 py-3 text-cyan-400 font-semibold">
-                      Value
-                    </th>
-                  </tr>
-                </thead>
-                <tbody className="divide-y divide-gray-800">
-                  {keyValuePairs.map(([prop, val]) => (
-                    <tr
-                      key={prop}
-                      className="hover:bg-gray-800/40 transition-colors"
-                    >
-                      <td className="px-4 py-3 text-gray-300">{prop}</td>
-                      <td className="px-4 py-3 text-white tabular-nums">
-                        {formatDisplayValue(val)}
-                      </td>
-                    </tr>
-                  ))}
-                </tbody>
-              </table>
-            </div>
-
-            <div className="px-5 py-4 border-b border-gray-800">
-              <h3 className="text-white font-medium text-sm">
+            <div className="px-5 py-4 border-b border-sky-200">
+              <h3 className="text-slate-800 font-medium text-sm">
                 Compound Data Table
               </h3>
-              <p className="text-gray-500 text-xs mt-1">
+              <p className="text-slate-500 text-xs mt-1">
                 Query result in tabular format (one row per temperature point)
               </p>
             </div>
-            <div className="overflow-x-auto">
+            <div className="overflow-x-auto bg-white">
               <table className="w-full text-sm">
-                <thead>
-                  <tr className="border-b border-gray-800 bg-gray-900/60">
+                <thead className="sticky top-0 z-[1]">
+                  <tr className="border-b border-sky-200 bg-slate-100">
                     <th className="text-left px-4 py-3 text-cyan-400 font-semibold">
                       Formula
                     </th>
@@ -456,12 +354,12 @@ export default function MaterialViewer() {
                     </th>
                   </tr>
                 </thead>
-                <tbody className="divide-y divide-gray-800">
+                <tbody className="divide-y divide-sky-100">
                   {measurementRows.length === 0 ? (
                     <tr>
                       <td
                         colSpan={7}
-                        className="px-4 py-8 text-center text-gray-500"
+                        className="px-4 py-8 text-center text-slate-500"
                       >
                         No measurement rows available for this compound.
                       </td>
@@ -470,31 +368,35 @@ export default function MaterialViewer() {
                     measurementRows.map((row) => (
                       <tr
                         key={row.id}
-                        className="hover:bg-gray-800/40 transition-colors"
+                        className="odd:bg-white even:bg-slate-50 hover:bg-cyan-50 transition-colors"
                       >
-                        <td className="px-4 py-3 text-white font-medium">
+                        <td className="px-4 py-3 text-slate-900 font-medium">
                           {row.formula}
                         </td>
-                        <td className="px-4 py-3 text-gray-300 tabular-nums">
+                        <td className="px-4 py-3 text-slate-700 tabular-nums">
                           {row.temperature_K}
                         </td>
-                        <td className="px-4 py-3 text-gray-300 tabular-nums">
-                          {row.seebeck === null ? "—" : row.seebeck.toFixed(3)}
+                        <td className="px-4 py-3 text-slate-700 tabular-nums">
+                          {row.seebeck === null
+                            ? "—"
+                            : formatScientificNumber(row.seebeck)}
                         </td>
-                        <td className="px-4 py-3 text-gray-300 tabular-nums">
+                        <td className="px-4 py-3 text-slate-700 tabular-nums">
                           {row.conductivity === null
                             ? "—"
-                            : row.conductivity.toFixed(3)}
+                            : formatScientificNumber(row.conductivity)}
                         </td>
-                        <td className="px-4 py-3 text-gray-300 tabular-nums">
+                        <td className="px-4 py-3 text-slate-700 tabular-nums">
                           {row.thermal_conductivity === null
                             ? "—"
-                            : row.thermal_conductivity.toFixed(3)}
+                            : formatScientificNumber(row.thermal_conductivity)}
                         </td>
-                        <td className="px-4 py-3 text-gray-300 tabular-nums">
-                          {row.zt === null ? "—" : row.zt.toFixed(3)}
+                        <td className="px-4 py-3 text-slate-700 tabular-nums">
+                          {row.zt === null
+                            ? "—"
+                            : formatScientificNumber(row.zt)}
                         </td>
-                        <td className="px-4 py-3 text-gray-400">{row.doi}</td>
+                        <td className="px-4 py-3 text-slate-600">{row.doi}</td>
                       </tr>
                     ))
                   )}

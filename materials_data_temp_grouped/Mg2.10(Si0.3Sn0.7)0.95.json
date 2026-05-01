@@ -1,0 +1,44 @@
+{
+  "Material": "Mg2.10(Si0.3Sn0.7)0.95",
+  "DOIs_Researched": [
+    "10.1016/j.intermet.2012.07.027"
+  ],
+  "Data_By_Temperature": {
+    "650.0": [
+      {
+        "Original_Name_In_Paper": "Mg2.10(Si0.3Sn0.7)0.95Ga0.05",
+        "Property": "ZT",
+        "Value": 0.35000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2012.07.027"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2.10(Si0.3Sn0.7)0.95Ga0.05",
+        "Property": "ZT",
+        "Value": 0.35000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2012.07.027"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2.10(Si0.3Sn0.7)0.95Ga0.05",
+        "Property": "ZT",
+        "Value": 0.05,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2012.07.027"
+      }
+    ],
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "Mg2.10(Si0.3Sn0.7)0.95Ga0.05",
+        "Property": "ZT",
+        "Value": 0.35000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2012.07.027"
+      }
+    ]
+  }
+}

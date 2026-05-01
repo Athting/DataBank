@@ -1,0 +1,74 @@
+{
+  "doi": "10.1016/j.nanoen.2020.105228",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Cu0.015B0.05In0.1Sb1.885Te3",
+        "Cu0.02B0.05In0.1Sb1.88Te3"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "Cu0.02B0.05In0.1Sb1.88Te3",
+          "value": 146000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "323.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Cu0.015B0.05In0.1Sb1.885Te3",
+          "value": 0.0015700000000000002,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "673.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Cu0.015B0.05In0.1Sb1.885Te3",
+          "zt_value": 1,
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "Cu0.015B0.05In0.1Sb1.885Te3",
+          "zt_value": 1,
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "Cu0.015B0.05In0.1Sb1.885Te3",
+          "zt_value": 1,
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "Cu0.015B0.05In0.1Sb1.885Te3",
+          "zt_value": 1.05,
+          "temperature": "673.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

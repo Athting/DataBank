@@ -1,0 +1,18 @@
+{
+  "Material": "Bi0.96Pb0.04CuSe0.9Te0.",
+  "DOIs_Researched": [
+    "10.1039/c7ee00464h"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.96Pb0.04CuSe0.9Te0.1O",
+        "Property": "ThermCond",
+        "Value": 0.65,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ee00464h"
+      }
+    ]
+  }
+}

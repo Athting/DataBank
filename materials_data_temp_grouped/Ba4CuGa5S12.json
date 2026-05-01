@@ -1,0 +1,28 @@
+{
+  "Material": "Ba4CuGa5S12",
+  "DOIs_Researched": [
+    "10.1016/j.jmmm.2014.02.002"
+  ],
+  "Data_By_Temperature": {
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "Ba4CuGa5S12",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmmm.2014.02.002"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Ba4CuGa5S12",
+        "Property": "ZT",
+        "Value": 0.45,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmmm.2014.02.002"
+      }
+    ]
+  }
+}

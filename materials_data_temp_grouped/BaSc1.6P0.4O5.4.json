@@ -1,0 +1,18 @@
+{
+  "Material": "BaSc1.6P0.4O5.4",
+  "DOIs_Researched": [
+    "10.1039/c4dt03036b"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Ba2Sc1.6P0.4O5.4",
+        "Property": "Conductivity",
+        "Value": 0.59,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4dt03036b"
+      }
+    ]
+  }
+}

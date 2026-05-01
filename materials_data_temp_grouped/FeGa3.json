@@ -1,0 +1,29 @@
+{
+  "Material": "FeGa3",
+  "DOIs_Researched": [
+    "10.1557/PROC-793-S8.38",
+    "10.1557/jmr.2011.153"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "FeGa3",
+        "Property": "ThermCond",
+        "Value": 3.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1557/PROC-793-S8.38"
+      }
+    ],
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "FeGa3",
+        "Property": "ZT",
+        "Value": 0.04,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1557/jmr.2011.153"
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "Material": "CuBInSbTe3",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2020.105228"
+  ],
+  "Data_By_Temperature": {
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "Cu0.015B0.05In0.1Sb1.885Te3",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.105228"
+      },
+      {
+        "Original_Name_In_Paper": "Cu0.015B0.05In0.1Sb1.885Te3",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.105228"
+      },
+      {
+        "Original_Name_In_Paper": "Cu0.015B0.05In0.1Sb1.885Te3",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.105228"
+      }
+    ],
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "Cu0.015B0.05In0.1Sb1.885Te3",
+        "Property": "ZT",
+        "Value": 1.05,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.105228"
+      },
+      {
+        "Original_Name_In_Paper": "Cu0.015B0.05In0.1Sb1.885Te3",
+        "Property": "PF",
+        "Value": 0.0015700000000000002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.105228"
+      }
+    ],
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "Cu0.02B0.05In0.1Sb1.88Te3",
+        "Property": "Conductivity",
+        "Value": 146000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.105228"
+      }
+    ]
+  }
+}

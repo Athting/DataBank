@@ -1,0 +1,58 @@
+{
+  "Material": "BiAgOSe",
+  "DOIs_Researched": [
+    "10.1016/j.commatsci.2019.109273"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "p-type BiAgOSe",
+        "Property": "ZT",
+        "Value": 2.38,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2019.109273"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "p-type BiAgOSe",
+        "Property": "ZT",
+        "Value": 2.38,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2019.109273"
+      }
+    ],
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "p-type BiAgOSe",
+        "Property": "PF",
+        "Value": 0.025,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2019.109273"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "n-type BiAgOSe",
+        "Property": "PF",
+        "Value": 0.057,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2019.109273"
+      }
+    ],
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "BiAgOSe compound",
+        "Property": "PF",
+        "Value": 0.0325,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2019.109273"
+      }
+    ]
+  }
+}

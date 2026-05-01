@@ -1,0 +1,114 @@
+{
+  "Material": "CuCrSe2",
+  "DOIs_Researched": [
+    "10.1038/s41567-018-0298-2",
+    "10.1016/j.matchemphys.2014.01.053",
+    "10.1016/j.jssc.2012.09.033",
+    "10.1039/d0ta00240b",
+    "10.1039/c3ta11903c"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "CuCrSe2",
+        "Property": "ThermCond",
+        "Value": 1.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41567-018-0298-2"
+      },
+      {
+        "Original_Name_In_Paper": "bulk CuCrSe2",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta11903c"
+      },
+      {
+        "Original_Name_In_Paper": "CuCrSe2 bulk material",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta11903c"
+      },
+      {
+        "Original_Name_In_Paper": "CuCrSe2",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta11903c"
+      },
+      {
+        "Original_Name_In_Paper": "CuCrSe2",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta00240b"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "CuCrSe2",
+        "Property": "ThermCond",
+        "Value": 2.32,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2014.01.053"
+      },
+      {
+        "Original_Name_In_Paper": "CuCrSe2",
+        "Property": "ZT",
+        "Value": 0.17,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2014.01.053"
+      },
+      {
+        "Original_Name_In_Paper": "CuCrSe2",
+        "Property": "Seebeck",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta00240b"
+      },
+      {
+        "Original_Name_In_Paper": "CuCrSe2",
+        "Property": "Seebeck",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta11903c"
+      },
+      {
+        "Original_Name_In_Paper": "CuCrSe2",
+        "Property": "Seebeck",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta11903c"
+      },
+      {
+        "Original_Name_In_Paper": "CuCrSe2",
+        "Property": "PF",
+        "Value": 0.0013200000000000002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2014.01.053"
+      }
+    ],
+    "2.0": [
+      {
+        "Original_Name_In_Paper": "CuCrSe2",
+        "Property": "Seebeck",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2012.09.033"
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "Material": "doped PbSe",
+  "DOIs_Researched": [
+    "10.1039/c9ra04748d",
+    "10.1016/j.actamat.2016.06.060",
+    "10.1016/j.jallcom.2016.06.172",
+    "10.1016/j.mtphys.2018.06.004"
+  ],
+  "Data_By_Temperature": {
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "doped PbSe",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2016.06.060"
+      }
+    ],
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "doped PbSe",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ra04748d"
+      },
+      {
+        "Original_Name_In_Paper": "doped PbSe",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.06.172"
+      }
+    ],
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "doped PbSe",
+        "Property": "ZT",
+        "Value": 1.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.06.172"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "doped PbSe",
+        "Property": "PF",
+        "Value": 0.0033,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2018.06.004"
+      }
+    ]
+  }
+}

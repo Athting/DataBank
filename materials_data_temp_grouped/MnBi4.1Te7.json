@@ -1,0 +1,26 @@
+{
+  "Material": "MnBi4.1Te7",
+  "DOIs_Researched": [
+    "10.1039/c9tc00979e"
+  ],
+  "Data_By_Temperature": {
+    "648.0": [
+      {
+        "Original_Name_In_Paper": "Mn0.85Bi4.10Te7",
+        "Property": "ZT",
+        "Value": 0.25,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc00979e"
+      },
+      {
+        "Original_Name_In_Paper": "Mn0.85Bi4.10Te7",
+        "Property": "ZT",
+        "Value": 0.25,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc00979e"
+      }
+    ]
+  }
+}

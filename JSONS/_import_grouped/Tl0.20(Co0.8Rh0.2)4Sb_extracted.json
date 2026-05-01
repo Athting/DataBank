@@ -1,0 +1,67 @@
+{
+  "doi": "10.1016/j.jallcom.2010.09.207",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Tl0.20(Co0.8Rh0.2)4Sb12"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Tl0.20(Co0.8Rh0.2)4Sb12",
+          "value": 1.54,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "550.0 K"
+        },
+        {
+          "material": "Tl0.20(Co0.8Rh0.2)4Sb12",
+          "value": 2.09,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "320.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Tl0.20(Co0.8Rh0.2)4Sb12",
+          "zt_value": 0.58,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "Tl0.20(Co0.8Rh0.2)4Sb12",
+          "zt_value": 0.58,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "Tl0.20(Co0.8Rh0.2)4Sb12",
+          "zt_value": 0.58,
+          "temperature": "600.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

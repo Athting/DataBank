@@ -1,0 +1,18 @@
+{
+  "Material": "Bi2S2.835Se0.15Cl0.015",
+  "DOIs_Researched": [
+    "10.1007/s11467-018-0845-4"
+  ],
+  "Data_By_Temperature": {
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "Bi2S2.835Se0.15Cl0.015",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11467-018-0845-4"
+      }
+    ]
+  }
+}

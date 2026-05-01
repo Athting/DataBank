@@ -1,0 +1,18 @@
+{
+  "Material": "Zr0.5Hf0.5NiSn",
+  "DOIs_Researched": [
+    "10.1016/j.tsf.2011.08.008"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Zr05Hf0.5NiSn",
+        "Property": "Seebeck",
+        "Value": 6.3e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2011.08.008"
+      }
+    ]
+  }
+}

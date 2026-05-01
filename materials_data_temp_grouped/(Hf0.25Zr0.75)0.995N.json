@@ -1,0 +1,18 @@
+{
+  "Material": "(Hf0.25Zr0.75)0.995N",
+  "DOIs_Researched": [
+    "10.1007/s10853-019-03623-4"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "(Hf0.25Zr0.75)0.995Nb0.005NiSn",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-019-03623-4"
+      }
+    ]
+  }
+}

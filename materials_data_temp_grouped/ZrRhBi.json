@@ -1,0 +1,94 @@
+{
+  "Material": "ZrRhBi",
+  "DOIs_Researched": [
+    "10.1016/j.mtcomm.2020.101647",
+    "10.1039/c7ta00920h",
+    "10.1016/j.physleta.2017.09.043",
+    "10.1016/j.ceramint.2017.08.046",
+    "10.1016/j.rinp.2018.06.053"
+  ],
+  "Data_By_Temperature": {
+    "1100.0": [
+      {
+        "Original_Name_In_Paper": "ZrRhBi",
+        "Property": "ZT",
+        "Value": 0.43,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2017.08.046"
+      }
+    ],
+    "1300.0": [
+      {
+        "Original_Name_In_Paper": "ZrRhBi",
+        "Property": "ZT",
+        "Value": 0.43,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ta00920h"
+      },
+      {
+        "Original_Name_In_Paper": "ZrRhBi",
+        "Property": "Seebeck",
+        "Value": 0.00031989000000000003,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physleta.2017.09.043"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "ZrRhBi",
+        "Property": "ZT",
+        "Value": 0.72,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtcomm.2020.101647"
+      },
+      {
+        "Original_Name_In_Paper": "ZrRhBi",
+        "Property": "Seebeck",
+        "Value": 0.000226,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtcomm.2020.101647"
+      },
+      {
+        "Original_Name_In_Paper": "ZrRhBi",
+        "Property": "Conductivity",
+        "Value": 87000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physleta.2017.09.043"
+      },
+      {
+        "Original_Name_In_Paper": "ZrRhBi",
+        "Property": "Conductivity",
+        "Value": 87000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2017.08.046"
+      }
+    ],
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "ZrRhBi",
+        "Property": "ZT",
+        "Value": 0.43,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physleta.2017.09.043"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "ZrRhBi",
+        "Property": "Conductivity",
+        "Value": 1041.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rinp.2018.06.053"
+      }
+    ]
+  }
+}

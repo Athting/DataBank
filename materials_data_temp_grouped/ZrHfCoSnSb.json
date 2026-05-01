@@ -1,0 +1,29 @@
+{
+  "Material": "ZrHfCoSnSb",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2014.01.208",
+    "10.1016/B978-0-444-59593-5.00001-5"
+  ],
+  "Data_By_Temperature": {
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "Zr0.5Hf0.5CoSn0.2Sb0.8 / HfO2",
+        "Property": "ZT",
+        "Value": 0.75,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.01.208"
+      }
+    ],
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "Zr0.5Hf0.5CoSn0.8Sb0.2",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-444-59593-5.00001-5"
+      }
+    ]
+  }
+}

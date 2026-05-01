@@ -1,0 +1,18 @@
+{
+  "Material": "Ba8AuGa13Ge32",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2013.10.104"
+  ],
+  "Data_By_Temperature": {
+    "738.0": [
+      {
+        "Original_Name_In_Paper": "Ba8AuGa13Ge32",
+        "Property": "ZT",
+        "Value": 0.62,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.10.104"
+      }
+    ]
+  }
+}

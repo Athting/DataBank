@@ -1,0 +1,18 @@
+{
+  "Material": "(HfTi)0.75CoSb0.85Sn0.",
+  "DOIs_Researched": [
+    "10.1039/c6ta04957e"
+  ],
+  "Data_By_Temperature": {
+    "983.0": [
+      {
+        "Original_Name_In_Paper": "p-type (Hf0.75Ti0.25)CoSb0.85Sn0.15",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta04957e"
+      }
+    ]
+  }
+}

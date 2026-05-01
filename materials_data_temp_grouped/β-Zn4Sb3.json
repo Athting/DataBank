@@ -1,0 +1,29 @@
+{
+  "Material": "\u03b2-Zn4Sb3",
+  "DOIs_Researched": [
+    "10.1016/j.matlet.2020.127428",
+    "10.1039/c4ta04558k"
+  ],
+  "Data_By_Temperature": {
+    "423.0": [
+      {
+        "Original_Name_In_Paper": "1.5 wt % \u03b2-Zn4Sb3",
+        "Property": "ZT",
+        "Value": 1.44,
+        "Units": null,
+        "Editing": "addition of 1.5 wt % \u03b2-Zn4Sb3",
+        "Source_DOI": "10.1039/c4ta04558k"
+      }
+    ],
+    "623.0": [
+      {
+        "Original_Name_In_Paper": "polycrystalline p-type \u03b2-Zn4Sb3 bulk",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2020.127428"
+      }
+    ]
+  }
+}

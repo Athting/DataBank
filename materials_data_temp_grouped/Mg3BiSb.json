@@ -1,0 +1,18 @@
+{
+  "Material": "Mg3BiSb",
+  "DOIs_Researched": [
+    "10.1007/s11664-012-2417-7"
+  ],
+  "Data_By_Temperature": {
+    "825.0": [
+      {
+        "Original_Name_In_Paper": "Mg3BiSb",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-012-2417-7"
+      }
+    ]
+  }
+}

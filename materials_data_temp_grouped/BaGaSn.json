@@ -1,0 +1,18 @@
+{
+  "Material": "BaGaSn",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2010.07.121"
+  ],
+  "Data_By_Temperature": {
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "Ba\u2013Ga\u2013Sn",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.07.121"
+      }
+    ]
+  }
+}

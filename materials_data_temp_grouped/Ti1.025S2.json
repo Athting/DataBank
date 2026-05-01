@@ -1,0 +1,29 @@
+{
+  "Material": "Ti1.025S2",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2016.12.088",
+    "10.1039/c8tc00914g"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Ti1.025S2",
+        "Property": "ZT",
+        "Value": 0.48,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8tc00914g"
+      }
+    ],
+    "350.0": [
+      {
+        "Original_Name_In_Paper": "Ti1.025S2",
+        "Property": "Conductivity",
+        "Value": 106000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.12.088"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "AgBi2Te3",
+  "DOIs_Researched": [
+    "10.1016/j.cclet.2019.07.034"
+  ],
+  "Data_By_Temperature": {
+    "450.0": [
+      {
+        "Original_Name_In_Paper": "1 vol % Cu @ Ag / Bi2Te3 nanocomposite bulk",
+        "Property": "PF",
+        "Value": 0.0014,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cclet.2019.07.034"
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "Material": "(Pb0.9Yb0.1Te)0.15(GeTe",
+  "DOIs_Researched": [
+    "10.1039/c6tc02501c",
+    "10.1016/j.jallcom.2013.09.104",
+    "10.1016/j.intermet.2014.09.004",
+    "10.1007/s10853-020-04949-0"
+  ],
+  "Data_By_Temperature": {
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "(Pb0.9Yb0.1Te)0.15(GeTe)0.85",
+        "Property": "ThermCond",
+        "Value": 1.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      },
+      {
+        "Original_Name_In_Paper": "(Pb0.9Yb0.1Te)0.15(GeTe)0.85",
+        "Property": "ThermCond",
+        "Value": 1.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6tc02501c"
+      },
+      {
+        "Original_Name_In_Paper": "(Pb0.9Yb0.1Te)0.15(GeTe)0.85",
+        "Property": "ZT",
+        "Value": 1.38,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.09.104"
+      },
+      {
+        "Original_Name_In_Paper": "(Pb0.9Yb0.1Te)0.15(GeTe)0.85",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.09.104"
+      },
+      {
+        "Original_Name_In_Paper": "(Pb0.9Yb0.1Te)0.15(GeTe)0.85",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2014.09.004"
+      },
+      {
+        "Original_Name_In_Paper": "(Pb0.9Yb0.1Te)0.15(GeTe)0.85",
+        "Property": "ZT",
+        "Value": 0.00014099999999999998,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      },
+      {
+        "Original_Name_In_Paper": "(Pb0.9Yb0.1Te)0.15(GeTe)0.85",
+        "Property": "Seebeck",
+        "Value": 0.00014099999999999998,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      },
+      {
+        "Original_Name_In_Paper": "(Pb0.9Yb0.1Te)0.15(GeTe)0.85",
+        "Property": "Seebeck",
+        "Value": 0.00014099999999999998,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6tc02501c"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "(Pb0.9Yb0.1Te)0.15(GeTe)0.85",
+        "Property": "ThermCond",
+        "Value": 3.7,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.09.104"
+      }
+    ]
+  }
+}

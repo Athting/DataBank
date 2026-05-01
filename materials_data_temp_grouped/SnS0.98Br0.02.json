@@ -1,0 +1,118 @@
+{
+  "Material": "SnS0.98Br0.02",
+  "DOIs_Researched": [
+    "10.1016/j.scriptamat.2019.05.043"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "SnS0.98Br0.02",
+        "Property": "ThermCond",
+        "Value": 1.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2019.05.043"
+      },
+      {
+        "Original_Name_In_Paper": "SnS0.98Br0.02 crystal",
+        "Property": "ThermCond",
+        "Value": 1.25,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2019.05.043"
+      }
+    ],
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "SnS0.98Br0.02",
+        "Property": "ThermCond",
+        "Value": 0.59,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2019.05.043"
+      },
+      {
+        "Original_Name_In_Paper": "polycrystalline SnS0.98Br0.02",
+        "Property": "ThermCond",
+        "Value": 0.55,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2019.05.043"
+      },
+      {
+        "Original_Name_In_Paper": "polycrystalline SnS0.98Br0.02",
+        "Property": "ZT",
+        "Value": 0.17,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2019.05.043"
+      },
+      {
+        "Original_Name_In_Paper": "n-type SnS0.98Br0.02 crystal",
+        "Property": "ZT",
+        "Value": 0.12,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2019.05.043"
+      },
+      {
+        "Original_Name_In_Paper": "n-type polycrystalline SnS0.98Br0.02",
+        "Property": "ZT",
+        "Value": 0.17,
+        "Units": null,
+        "Editing": "Br doping",
+        "Source_DOI": "10.1016/j.scriptamat.2019.05.043"
+      },
+      {
+        "Original_Name_In_Paper": "polycrystalline SnS0.98Br0.02",
+        "Property": "PF",
+        "Value": 0.00012000000000000002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2019.05.043"
+      },
+      {
+        "Original_Name_In_Paper": "SnS0.98Br0.02",
+        "Property": "PF",
+        "Value": 0.00012000000000000002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2019.05.043"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "SnS0.98Br0.02 crystals",
+        "Property": "ZT",
+        "Value": 0.08,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2019.05.043"
+      },
+      {
+        "Original_Name_In_Paper": "n-type SnS0.98Br0.02 crystal",
+        "Property": "ZT",
+        "Value": 0.08,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2019.05.043"
+      },
+      {
+        "Original_Name_In_Paper": "n-type crystalline SnS0.98Br0.02",
+        "Property": "PF",
+        "Value": 0.00019,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2019.05.043"
+      },
+      {
+        "Original_Name_In_Paper": "SnS0.98Br0.02 crystal",
+        "Property": "PF",
+        "Value": 0.00019,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2019.05.043"
+      }
+    ]
+  }
+}

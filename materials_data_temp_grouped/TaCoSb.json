@@ -1,0 +1,26 @@
+{
+  "Material": "TaCoSb",
+  "DOIs_Researched": [
+    "10.1039/c9tc00743a"
+  ],
+  "Data_By_Temperature": {
+    "950.0": [
+      {
+        "Original_Name_In_Paper": "Ta0.81CoSb",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc00743a"
+      },
+      {
+        "Original_Name_In_Paper": "Ta0.81CoSb",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc00743a"
+      }
+    ]
+  }
+}

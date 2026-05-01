@@ -1,0 +1,156 @@
+{
+  "doi": "10.1007/s11664-019-07012-0",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Cu2CdSnSe4 compound",
+        "Cu2CdSnSe4",
+        "Cu2CdSnSe4â",
+        "Cu2CdSn0.9In0.1Se4",
+        "Cu2CdSnSe4 nanocrystals",
+        "Mn doped Cu2CdSnSe4"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "Cu2CdSnSe4",
+          "value": 0.00024000000000000003,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "350.0 K"
+        },
+        {
+          "material": "Cu2CdSnSe4",
+          "value": 0.000227,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "200.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "Cu2CdSnSe4",
+          "value": 160,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Cu2CdSnSe4 compound",
+          "value": 2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "350.0 K"
+        },
+        {
+          "material": "Cu2CdSnSe4",
+          "value": 1.01,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "Cu2CdSnSe4â",
+          "value": 0.56,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "725.0 K"
+        },
+        {
+          "material": "Cu2CdSnSe4",
+          "value": 0.8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "923.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Cu2CdSn0.9In0.1Se4",
+          "value": 0.0004,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "723.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Cu2CdSnSe4",
+          "zt_value": 0.7000000000000001,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "Cu2CdSnSe4â",
+          "zt_value": 0.65,
+          "temperature": "725.0 K"
+        },
+        {
+          "material": "Cu2CdSnSe4",
+          "zt_value": 0.8,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "Cu2CdSnSe4",
+          "zt_value": 0.65,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "Cu2CdSnSe4",
+          "zt_value": 0.65,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "Cu2CdSnSe4",
+          "zt_value": 0.65,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "Cu2CdSn0.9In0.1Se4",
+          "zt_value": 0.30000000000000004,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "Cu2CdSn0.9In0.1Se4",
+          "zt_value": 0.30000000000000004,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "Cu2CdSnSe4 nanocrystals",
+          "zt_value": 0.65,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "Cu2CdSn0.9In0.1Se4",
+          "zt_value": 0.30000000000000004,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "Cu2CdSn0.9In0.1Se4",
+          "zt_value": 0.30000000000000004,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "Mn doped Cu2CdSnSe4",
+          "zt_value": 0.16,
+          "temperature": "720.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

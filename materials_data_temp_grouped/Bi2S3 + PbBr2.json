@@ -1,0 +1,18 @@
+{
+  "Material": "Bi2S3 + PbBr2",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2020.105227"
+  ],
+  "Data_By_Temperature": {
+    "408.0": [
+      {
+        "Original_Name_In_Paper": "Bi2S3 doped with 2 mol % PbBr2",
+        "Property": "Conductivity",
+        "Value": 20700.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.105227"
+      }
+    ]
+  }
+}

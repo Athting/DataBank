@@ -1,0 +1,101 @@
+{
+  "doi": "10.1016/j.jallcom.2017.06.296",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Pb0.60Sn0.40Te0.995I0.005",
+        "Pb0.996Sn0.04Te0.997I0.003",
+        "Pb0.995Sn0.005Te0.997I0.003",
+        "n-type Pb0.60Sn0.40Te0.995I0.005"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "Pb0.996Sn0.04Te0.997I0.003",
+          "value": -0.000069,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "Pb0.995Sn0.005Te0.997I0.003",
+          "value": 596300,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Pb0.60Sn0.40Te0.995I0.005",
+          "value": 0.9,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Pb0.60Sn0.40Te0.995I0.005",
+          "value": 2.35,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Pb0.60Sn0.40Te0.995I0.005",
+          "value": 0.00136,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Pb0.995Sn0.005Te0.997I0.003",
+          "zt_value": 1.1,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "n-type Pb0.60Sn0.40Te0.995I0.005",
+          "zt_value": 1.05,
+          "temperature": "620.0 K"
+        },
+        {
+          "material": "n-type Pb0.60Sn0.40Te0.995I0.005",
+          "zt_value": 1.05,
+          "temperature": "620.0 K"
+        },
+        {
+          "material": "n-type Pb0.60Sn0.40Te0.995I0.005",
+          "zt_value": 1.05,
+          "temperature": "620.0 K"
+        },
+        {
+          "material": "Pb0.60Sn0.40Te0.995I0.005",
+          "zt_value": 1.05,
+          "temperature": "620.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

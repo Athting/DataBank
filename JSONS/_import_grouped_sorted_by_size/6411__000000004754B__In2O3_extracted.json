@@ -1,0 +1,188 @@
+{
+  "doi": "10.1016/j.jeurceramsoc.2014.08.012",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Zn and Ce co-doped In2O3",
+        "mesoporous In2O3",
+        "In2O3",
+        "pristine In2O3(ZnO)4",
+        "Ga doped In2O3",
+        "pristine In2O3(ZnO)5",
+        "Ge-doped In2O3",
+        "Ge doped In2O3 bulks",
+        "Ge doped In2O3"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "In2O3",
+          "value": 0.000224,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "1546.0 K"
+        },
+        {
+          "material": "In2O3",
+          "value": 0.00016199999999999998,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "1546.0 K"
+        },
+        {
+          "material": "In2O3",
+          "value": 0.0001317,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "1523.0 K"
+        },
+        {
+          "material": "In2O3",
+          "value": 0.0003415,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "1478.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "In2O3",
+          "value": 1162790.6976744186,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "623.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Zn and Ce co-doped In2O3",
+          "value": 7.9,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "mesoporous In2O3",
+          "value": 0.58,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "In2O3",
+          "value": 0.86,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "In2O3",
+          "value": 0.9,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine In2O3(ZnO)4",
+          "value": 1.42,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "In2O3",
+          "value": 2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Ga doped In2O3",
+          "value": 2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "In2O3",
+          "value": 1.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1073.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Zn and Ce co-doped In2O3",
+          "zt_value": 0.4,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Ga doped In2O3",
+          "zt_value": 0.05,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "pristine In2O3(ZnO)5",
+          "zt_value": 0.11,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "pristine In2O3(ZnO)4",
+          "zt_value": 1.6,
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "In2O3",
+          "zt_value": 0.1,
+          "temperature": "1273.0 K"
+        },
+        {
+          "material": "Ge-doped In2O3",
+          "zt_value": 0.45,
+          "temperature": "1273.0 K"
+        },
+        {
+          "material": "Ge-doped In2O3",
+          "zt_value": 0.45,
+          "temperature": "1273.0 K"
+        },
+        {
+          "material": "In2O3",
+          "zt_value": 0.45,
+          "temperature": "1273.0 K"
+        },
+        {
+          "material": "Ge doped In2O3 bulks",
+          "zt_value": 0.13,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "In2O3",
+          "zt_value": 0.46,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Ge doped In2O3",
+          "zt_value": 0.23,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "In2O3",
+          "zt_value": 0.4,
+          "temperature": "1050.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

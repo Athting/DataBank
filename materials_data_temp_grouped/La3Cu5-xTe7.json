@@ -1,0 +1,18 @@
+{
+  "Material": "La3Cu5-xTe7",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2011.01.002"
+  ],
+  "Data_By_Temperature": {
+    "309.0": [
+      {
+        "Original_Name_In_Paper": "La3Cu5\u2212xTe7",
+        "Property": "ZT",
+        "Value": 0.002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2011.01.002"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "PbTe (for PbTe with 2% Na) or Pb0.9",
+  "DOIs_Researched": [
+    "10.1016/j.joule.2018.04.025"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Pb0.980Na0.020Te",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2018.04.025"
+      }
+    ]
+  }
+}

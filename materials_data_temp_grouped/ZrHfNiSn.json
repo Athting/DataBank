@@ -1,0 +1,133 @@
+{
+  "Material": "ZrHfNiSn",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2008.07.013",
+    "10.1016/j.tsf.2011.08.008",
+    "10.1016/j.physleta.2016.10.039",
+    "10.1016/j.progsolidstchem.2011.02.001",
+    "10.1016/j.scriptamat.2012.03.002",
+    "10.1016/j.jallcom.2016.05.013",
+    "10.1557/PROC-478-109",
+    "10.1039/c9ee02228g",
+    "10.1038/nchem.2207",
+    "10.1016/j.matlet.2018.06.019",
+    "10.1016/j.jallcom.2016.09.086",
+    "10.1016/j.jallcom.2004.05.078"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Zr0.5Hf0.5NiSn0.9Sb0.01",
+        "Property": "ThermCond",
+        "Value": 6.6,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.progsolidstchem.2011.02.001"
+      },
+      {
+        "Original_Name_In_Paper": "Zr0.5Hf0.5NiSn",
+        "Property": "ThermCond",
+        "Value": 10.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2012.03.002"
+      },
+      {
+        "Original_Name_In_Paper": "Zr0.5Hf0.5NiSn",
+        "Property": "ThermCond",
+        "Value": 6.6,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2004.05.078"
+      },
+      {
+        "Original_Name_In_Paper": "Zr0.5Hf0.5NiSn",
+        "Property": "ThermCond",
+        "Value": 5.3,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2008.07.013"
+      },
+      {
+        "Original_Name_In_Paper": "Zr0.5Hf0.5NiSn",
+        "Property": "Conductivity",
+        "Value": 70921.9858156028,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2011.08.008"
+      },
+      {
+        "Original_Name_In_Paper": "Zr0.5Hf0.5NiSn",
+        "Property": "PF",
+        "Value": 0.00030000000000000003,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physleta.2016.10.039"
+      },
+      {
+        "Original_Name_In_Paper": "Zr0.5Hf0.5NiSn",
+        "Property": "PF",
+        "Value": 0.00030000000000000003,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/nchem.2207"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Zr0.5Hf0.5NiSn",
+        "Property": "ZT",
+        "Value": 0.41000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1557/PROC-478-109"
+      },
+      {
+        "Original_Name_In_Paper": "Zr0.5Hf0.5NiSn",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.09.086"
+      },
+      {
+        "Original_Name_In_Paper": "Zr0.5 Hf0.5 NiSn",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.05.013"
+      }
+    ],
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Zr0.5Hf0.5Ni1.04Sn",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2018.06.019"
+      }
+    ],
+    "350.0": [
+      {
+        "Original_Name_In_Paper": "Zr0.5Hf0.5NiSn single crystals",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.progsolidstchem.2011.02.001"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Zr0.5Hf0.5NiSn0.985Sb0.015",
+        "Property": "PF",
+        "Value": 0.0026200000000000004,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ee02228g"
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "Material": "Tl2SnTe5",
+  "DOIs_Researched": [
+    "10.1016/j.pmatsci.2016.07.002",
+    "10.1016/j.jallcom.2007.06.071"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Tl2SnTe5",
+        "Property": "Seebeck",
+        "Value": 0.00014735,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2007.06.071"
+      },
+      {
+        "Original_Name_In_Paper": "Tl2SnTe5",
+        "Property": "Conductivity",
+        "Value": 25000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2016.07.002"
+      }
+    ]
+  }
+}

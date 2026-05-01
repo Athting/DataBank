@@ -1,0 +1,18 @@
+{
+  "Material": "Mg2Si0.6Ge0.4 \\* Ag",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2008.04.020"
+  ],
+  "Data_By_Temperature": {
+    "629.0": [
+      {
+        "Original_Name_In_Paper": "bulk p-type Ag-doped Mg2Si0.6Ge0.4",
+        "Property": "ZT",
+        "Value": 1.6800000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2008.04.020"
+      }
+    ]
+  }
+}

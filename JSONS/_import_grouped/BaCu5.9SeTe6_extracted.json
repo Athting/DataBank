@@ -1,0 +1,61 @@
+{
+  "doi": "10.1039/c9dt01616c",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "BaCu5.9SeTe6"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "BaCu5.9SeTe6",
+          "value": 24200,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "BaCu5.9SeTe6",
+          "zt_value": 0.81,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "BaCu5.9SeTe6",
+          "zt_value": 0.81,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "BaCu5.9SeTe6",
+          "zt_value": 0.7000000000000001,
+          "temperature": "580.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

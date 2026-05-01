@@ -1,0 +1,421 @@
+{
+  "Material": "Cu2SnSe3",
+  "DOIs_Researched": [
+    "10.1007/s00339-017-1540-y",
+    "10.1016/j.physb.2017.06.002",
+    "10.1039/c4dt03556a",
+    "10.1016/j.mssp.2015.05.068",
+    "10.1016/j.jallcom.2018.03.136",
+    "10.1016/j.matchemphys.2014.06.054",
+    "10.1007/s12648-020-01849-6",
+    "10.1016/j.materresbull.2016.06.002",
+    "10.1016/j.ensm.2016.01.009",
+    "10.1016/j.jallcom.2018.03.405",
+    "10.1016/j.ceramint.2017.02.126",
+    "10.1016/j.materresbull.2019.110607",
+    "10.1016/j.actamat.2013.04.003",
+    "10.1016/j.scriptamat.2018.08.022",
+    "10.1039/c7tc05180h",
+    "10.1016/j.jallcom.2020.154154",
+    "10.1016/j.mtphys.2018.11.001",
+    "10.1016/j.matchemphys.2014.03.034",
+    "10.1016/j.jeurceramsoc.2015.12.034",
+    "10.1039/c5nj03345d",
+    "10.1016/j.physb.2020.412411",
+    "10.1016/j.jallcom.2018.07.318",
+    "10.1016/j.intermet.2020.106803",
+    "10.1016/j.matchemphys.2016.04.044",
+    "10.1016/j.intermet.2014.05.006",
+    "10.1016/j.jmat.2018.07.001"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Cu2SnSe3",
+        "Property": "ThermCond",
+        "Value": 2.66,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2013.04.003"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2SnSe3",
+        "Property": "ThermCond",
+        "Value": 2.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s12648-020-01849-6"
+      },
+      {
+        "Original_Name_In_Paper": "Mn doped Cu2SnSe3",
+        "Property": "ZT",
+        "Value": 0.035,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2016.06.002"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Cu2SnSe3",
+        "Property": "ThermCond",
+        "Value": 2.7,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2014.06.054"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2SnSe3",
+        "Property": "ThermCond",
+        "Value": 7.11,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.03.136"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2SnSe3",
+        "Property": "Conductivity",
+        "Value": 4600.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2018.11.001"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "unadulterated Cu2SnSe3",
+        "Property": "ThermCond",
+        "Value": 0.99,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5nj03345d"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2SnSe3",
+        "Property": "ThermCond",
+        "Value": 0.81,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.07.318"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2SnSe3",
+        "Property": "ThermCond",
+        "Value": 0.5700000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2015.12.034"
+      },
+      {
+        "Original_Name_In_Paper": "In-doped Cu2SnSe3",
+        "Property": "ZT",
+        "Value": 0.51,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2015.12.034"
+      },
+      {
+        "Original_Name_In_Paper": "In-doped Cu2SnSe3",
+        "Property": "ZT",
+        "Value": 0.51,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2015.12.034"
+      },
+      {
+        "Original_Name_In_Paper": "bulk un-doped Cu2SnSe3",
+        "Property": "ZT",
+        "Value": 0.45,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5nj03345d"
+      },
+      {
+        "Original_Name_In_Paper": "unadulterated Cu2SnSe3",
+        "Property": "ZT",
+        "Value": 0.45,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5nj03345d"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2SnSe3",
+        "Property": "ZT",
+        "Value": 0.42,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2017.02.126"
+      },
+      {
+        "Original_Name_In_Paper": "doped Cu2SnSe3",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": "Ag - doping",
+        "Source_DOI": "10.1016/j.jmat.2018.07.001"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2SnSe3",
+        "Property": "ZT",
+        "Value": 0.48,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2014.06.054"
+      }
+    ],
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "Cu2SnSe3",
+        "Property": "ThermCond",
+        "Value": 0.61,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.03.405"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2SnSe3",
+        "Property": "ThermCond",
+        "Value": 0.61,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.03.405"
+      },
+      {
+        "Original_Name_In_Paper": "Mn-doped Cu2SnSe3",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s00339-017-1540-y"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2SnSe3",
+        "Property": "ZT",
+        "Value": 0.53,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.03.405"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2SnSe3",
+        "Property": "ZT",
+        "Value": 0.53,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.03.405"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2SnSe3",
+        "Property": "ZT",
+        "Value": 0.53,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.03.405"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2SnSe3",
+        "Property": "ZT",
+        "Value": 0.53,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.03.405"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2SnSe3",
+        "Property": "ZT",
+        "Value": 0.53,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.03.405"
+      }
+    ],
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "Cu2SnSe3",
+        "Property": "ThermCond",
+        "Value": 0.74,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4dt03556a"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2SnSe3",
+        "Property": "ZT",
+        "Value": 0.74,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4dt03556a"
+      }
+    ],
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "Sb-doped Cu2SnSe3",
+        "Property": "ZT",
+        "Value": 0.014,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s00339-017-1540-y"
+      },
+      {
+        "Original_Name_In_Paper": "Mn doped Cu2SnSe3",
+        "Property": "ZT",
+        "Value": 0.07,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2017.06.002"
+      }
+    ],
+    "716.0": [
+      {
+        "Original_Name_In_Paper": "Cu2Sn0.99Mn0.01Se3",
+        "Property": "ZT",
+        "Value": 0.41000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2014.05.006"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2Sn0.99Mn0.01Se3",
+        "Property": "ZT",
+        "Value": 0.41000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2014.06.054"
+      }
+    ],
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "Cu2SnSe3",
+        "Property": "ZT",
+        "Value": 0.09,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7tc05180h"
+      }
+    ],
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "In-doped Cu2SnSe3 compound",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7tc05180h"
+      },
+      {
+        "Original_Name_In_Paper": "doped Cu2SnSe3",
+        "Property": "ZT",
+        "Value": 1.1400000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2016.06.002"
+      },
+      {
+        "Original_Name_In_Paper": "In-doped Cu2SnSe3",
+        "Property": "ZT",
+        "Value": 1.1400000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154154"
+      },
+      {
+        "Original_Name_In_Paper": "In-doped Cu2SnSe3",
+        "Property": "ZT",
+        "Value": 1.1400000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ensm.2016.01.009"
+      },
+      {
+        "Original_Name_In_Paper": "In-doped Cu2SnSe3",
+        "Property": "ZT",
+        "Value": 1.1400000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2016.04.044"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2Sn1\u2212xInxSe3 material",
+        "Property": "ZT",
+        "Value": 1.1400000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2015.05.068"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2SnSe3",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2014.03.034"
+      },
+      {
+        "Original_Name_In_Paper": "In-doped Cu2SnSe3",
+        "Property": "ZT",
+        "Value": 1.1400000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2019.110607"
+      }
+    ],
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "doped Cu2SnSe3",
+        "Property": "ZT",
+        "Value": 1.42,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2020.412411"
+      },
+      {
+        "Original_Name_In_Paper": "doped Cu2SnSe3",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2018.08.022"
+      }
+    ],
+    "375.0": [
+      {
+        "Original_Name_In_Paper": "pristine Cu2SnSe3",
+        "Property": "ZT",
+        "Value": 0.009000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2020.412411"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Cu2SnSe3",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2020.106803"
+      }
+    ],
+    "350.0": [
+      {
+        "Original_Name_In_Paper": "pristine Cu2SnSe3",
+        "Property": "Seebeck",
+        "Value": 0.000166,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2020.106803"
+      }
+    ],
+    "670.0": [
+      {
+        "Original_Name_In_Paper": "Cu2Sn0.99Mn0.01Se3",
+        "Property": "PF",
+        "Value": 0.0009500000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2014.06.054"
+      }
+    ]
+  }
+}

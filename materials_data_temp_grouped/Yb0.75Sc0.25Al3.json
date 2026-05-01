@@ -1,0 +1,18 @@
+{
+  "Material": "Yb0.75Sc0.25Al3",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2014.02.112"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Yb0.75Sc0.25Al3",
+        "Property": "ZT",
+        "Value": 0.19,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.02.112"
+      }
+    ]
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "Material": "Bi2Te2.85Se0.15",
+  "DOIs_Researched": [
+    "10.1016/j.powtec.2014.07.022",
+    "10.1007/s10854-020-03611-4",
+    "10.1016/j.scriptamat.2012.04.005",
+    "10.3938/jkps.64.1692",
+    "10.1007/s11664-013-2822-6",
+    "10.1016/j.jpowsour.2019.227055",
+    "10.1016/j.intermet.2016.08.006",
+    "10.1016/j.materresbull.2017.11.025",
+    "10.1016/j.energy.2018.06.021",
+    "10.1016/j.jallcom.2015.12.122"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Bi2Te2.85Se0.15",
+        "Property": "ZT",
+        "Value": 0.875,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2016.08.006"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Te2.85Se0.15 compound",
+        "Property": "ZT",
+        "Value": 0.48,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.12.122"
+      }
+    ],
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Te2.85Se0.15",
+        "Property": "ZT",
+        "Value": 0.875,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2016.08.006"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Te2.85Se0.15",
+        "Property": "ZT",
+        "Value": 0.76,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-013-2822-6"
+      }
+    ],
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Te2.85Se0.15",
+        "Property": "ZT",
+        "Value": 0.5700000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.powtec.2014.07.022"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Te2.85Se0.15 alloy",
+        "Property": "ZT",
+        "Value": 0.5700000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.powtec.2014.07.022"
+      }
+    ],
+    "410.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Te2.85Se0.15",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2017.11.025"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Te2.85Se0.15",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2017.11.025"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "n-type Bi2Te2.85Se0.15",
+        "Property": "ZT",
+        "Value": 0.87,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpowsour.2019.227055"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Te2.85Se0.15",
+        "Property": "ZT",
+        "Value": 2.38,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.energy.2018.06.021"
+      }
+    ],
+    "423.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Te2.85Se0.15",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.3938/jkps.64.1692"
+      }
+    ],
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Te2.85Se0.15",
+        "Property": "Seebeck",
+        "Value": -0.000108,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-020-03611-4"
+      }
+    ],
+    "405.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Te2.85Se0.15",
+        "Property": "PF",
+        "Value": 0.0014,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2012.04.005"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "SrAlSb3",
+  "DOIs_Researched": [
+    "10.1039/c5ra09804a"
+  ],
+  "Data_By_Temperature": {
+    "1050.0": [
+      {
+        "Original_Name_In_Paper": "n-type Sr3AlSb3",
+        "Property": "ZT",
+        "Value": 0.76,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra09804a"
+      }
+    ]
+  }
+}

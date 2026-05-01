@@ -1,0 +1,27 @@
+{
+  "Material": "CuFeNiO2",
+  "DOIs_Researched": [
+    "10.1007/s10948-015-3352-7",
+    "10.1016/j.jssc.2011.07.005"
+  ],
+  "Data_By_Temperature": {
+    "1100.0": [
+      {
+        "Original_Name_In_Paper": "CuFe0.99Ni0.01O2",
+        "Property": "ZT",
+        "Value": 0.14,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10948-015-3352-7"
+      },
+      {
+        "Original_Name_In_Paper": "CuFe0.99Ni0.01O2",
+        "Property": "ZT",
+        "Value": 0.14,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2011.07.005"
+      }
+    ]
+  }
+}

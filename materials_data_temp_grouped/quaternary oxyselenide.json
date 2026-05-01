@@ -1,0 +1,27 @@
+{
+  "Material": "quaternary oxyselenide",
+  "DOIs_Researched": [
+    "10.1039/c2ee22622g",
+    "10.1016/j.jallcom.2012.10.160"
+  ],
+  "Data_By_Temperature": {
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "quaternary oxyselenide",
+        "Property": "ThermCond",
+        "Value": 0.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2012.10.160"
+      },
+      {
+        "Original_Name_In_Paper": "quaternary oxyselenide",
+        "Property": "ThermCond",
+        "Value": 0.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2ee22622g"
+      }
+    ]
+  }
+}

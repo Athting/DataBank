@@ -1,0 +1,18 @@
+{
+  "Material": "Mn\u2013Cu\u2013Ge multi-doped SnTe",
+  "DOIs_Researched": [
+    "10.1039/c9tc06490g"
+  ],
+  "Data_By_Temperature": {
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "Mn\u2013Cu\u2013Ge multi-doped SnTe",
+        "Property": "PF",
+        "Value": 0.0019,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc06490g"
+      }
+    ]
+  }
+}

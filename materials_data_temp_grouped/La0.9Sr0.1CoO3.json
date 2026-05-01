@@ -1,0 +1,26 @@
+{
+  "Material": "La0.9Sr0.1CoO3",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2005.12.127"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "La0.9Sr0.1CoO3",
+        "Property": "ZT",
+        "Value": 0.046,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2005.12.127"
+      },
+      {
+        "Original_Name_In_Paper": "La0.9Sr0.1CoO3",
+        "Property": "ZT",
+        "Value": 0.046,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2005.12.127"
+      }
+    ]
+  }
+}

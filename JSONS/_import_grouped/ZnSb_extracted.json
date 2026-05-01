@@ -1,0 +1,358 @@
+{
+  "doi": "10.1016/j.jeurceramsoc.2019.06.033",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "undoped ZnSb",
+        "ZnSb",
+        "pure ZnSb",
+        "ZnSb nanoparticles",
+        "zinc antimonide thin film",
+        "ZnSb thin films",
+        "zinc antimonide thin films",
+        "pure ZnSb thin films",
+        "p-type ZnSb",
+        "zinc antimonide",
+        "p-type Ag-doped ZnSb nanostructured",
+        "doped ( 0.002 % ) ZnSb",
+        "Cu doped ZnSb samples with Zn3P2",
+        "ZnSb-Sb",
+        "Ag-doped ZnSb",
+        "ZnSb thin film"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "ZnSb",
+          "value": 0.000196,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "ZnSb",
+          "value": 0.000196,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "ZnSb",
+          "value": 0.0002,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "zinc antimonide thin films",
+          "value": 0.000188,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "ZnSb",
+          "value": 0.00036,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "ZnSb",
+          "value": 0.00036,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "ZnSb",
+          "value": 0.00033000000000000005,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "ZnSb thin film",
+          "value": 0.00010899999999999999,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "853.0 K"
+        },
+        {
+          "material": "ZnSb",
+          "value": 0.000325,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "350.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "ZnSb",
+          "value": 0.25,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "ZnSb",
+          "value": 9100,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "zinc antimonide thin films",
+          "value": 36363.6363636364,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "ZnSb",
+          "value": 20746.887966805,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "573.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "undoped ZnSb",
+          "value": 3.7,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "ZnSb",
+          "value": 1.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "ZnSb",
+          "value": 1.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "ZnSb",
+          "value": 1.25,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "ZnSb",
+          "value": 0.85,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "ZnSb",
+          "value": 2.26,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "ZnSb",
+          "value": 2.26,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure ZnSb",
+          "value": 0.89,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "ZnSb nanoparticles",
+          "value": 0.6900000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "ZnSb",
+          "value": 0.9,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "ZnSb",
+          "value": 1.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "pure ZnSb thin films",
+          "value": 0.0016500000000000002,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "zinc antimonide thin films",
+          "value": 0.0012900000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "ZnSb",
+          "value": 0.0009000000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "ZnSb-Sb",
+          "value": 0.00144,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "ZnSb",
+          "value": 0.00058,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "ZnSb",
+          "value": 0.00038,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "553.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "ZnSb",
+          "zt_value": 0.03,
+          "temperature": "295 K"
+        },
+        {
+          "material": "zinc antimonide thin film",
+          "zt_value": 1.15,
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "ZnSb thin films",
+          "zt_value": 0.6000000000000001,
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "ZnSb",
+          "zt_value": 0.63,
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "ZnSb",
+          "zt_value": 0.6000000000000001,
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "p-type ZnSb",
+          "zt_value": 0.6000000000000001,
+          "temperature": "500.0 K"
+        },
+        {
+          "material": "ZnSb",
+          "zt_value": 1,
+          "temperature": "500.0 K"
+        },
+        {
+          "material": "zinc antimonide",
+          "zt_value": 1.3,
+          "temperature": "670.0 K"
+        },
+        {
+          "material": "p-type Ag-doped ZnSb nanostructured",
+          "zt_value": 1.15,
+          "temperature": "670.0 K"
+        },
+        {
+          "material": "doped ( 0.002 % ) ZnSb",
+          "zt_value": 1.15,
+          "temperature": "670.0 K"
+        },
+        {
+          "material": "ZnSb",
+          "zt_value": 0.9,
+          "temperature": "550.0 K"
+        },
+        {
+          "material": "ZnSb",
+          "zt_value": 0.8,
+          "temperature": "550.0 K"
+        },
+        {
+          "material": "Cu doped ZnSb samples with Zn3P2",
+          "zt_value": 0.9,
+          "temperature": "550.0 K"
+        },
+        {
+          "material": "ZnSb",
+          "zt_value": 0.8,
+          "temperature": "550.0 K"
+        },
+        {
+          "material": "ZnSb",
+          "zt_value": 1.18,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "ZnSb",
+          "zt_value": 0.81,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "ZnSb",
+          "zt_value": 0.81,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "ZnSb",
+          "zt_value": 1.18,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "ZnSb",
+          "zt_value": 0.81,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "ZnSb",
+          "zt_value": 0.15,
+          "temperature": "630.0 K"
+        },
+        {
+          "material": "ZnSb",
+          "zt_value": 1.15,
+          "temperature": "570.0 K"
+        },
+        {
+          "material": "ZnSb",
+          "zt_value": 0.6000000000000001,
+          "temperature": "460.0 K"
+        },
+        {
+          "material": "Ag-doped ZnSb",
+          "zt_value": 1.15,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "ZnSb",
+          "zt_value": 0.65,
+          "temperature": "620.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

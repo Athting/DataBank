@@ -1,0 +1,18 @@
+{
+  "Material": "TE_Oxide",
+  "DOIs_Researched": [
+    "10.1039/c3ta11806a"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "TE oxide materials",
+        "Property": "ThermCond",
+        "Value": 2.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta11806a"
+      }
+    ]
+  }
+}

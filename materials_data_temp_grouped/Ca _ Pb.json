@@ -1,0 +1,18 @@
+{
+  "Material": "Ca / Pb",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2018.04.307"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ca / Pb",
+        "Property": "Conductivity",
+        "Value": 44500.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.04.307"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Li6SrLa2Ta2O12",
+  "DOIs_Researched": [
+    "10.1007/s11581-006-0013-7"
+  ],
+  "Data_By_Temperature": {
+    "295.0": [
+      {
+        "Original_Name_In_Paper": "Li6SrLa2Ta2O12",
+        "Property": "Conductivity",
+        "Value": 54000000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11581-006-0013-7"
+      }
+    ]
+  }
+}

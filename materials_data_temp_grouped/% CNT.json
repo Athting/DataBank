@@ -1,0 +1,18 @@
+{
+  "Material": "% CNT",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2015.02.016"
+  ],
+  "Data_By_Temperature": {
+    "325.0": [
+      {
+        "Original_Name_In_Paper": "% CNT",
+        "Property": "Conductivity",
+        "Value": 131100.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2015.02.016"
+      }
+    ]
+  }
+}

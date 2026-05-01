@@ -1,0 +1,18 @@
+{
+  "Material": "CrTiSb2",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2010.07.116"
+  ],
+  "Data_By_Temperature": {
+    "310.0": [
+      {
+        "Original_Name_In_Paper": "Cr0.97Ti0.03Sb2",
+        "Property": "ZT",
+        "Value": 0.012,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.07.116"
+      }
+    ]
+  }
+}

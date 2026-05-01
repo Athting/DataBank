@@ -1,0 +1,52 @@
+{
+  "Material": "Ca5In1.9Sb6",
+  "DOIs_Researched": [
+    "10.1039/c5cp00972c"
+  ],
+  "Data_By_Temperature": {
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "Ca5In1.9Pb0.1Sb6",
+        "Property": "ZT",
+        "Value": 2.46,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5cp00972c"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Ca5In1.9Pb0.1Sb6",
+        "Property": "ZT",
+        "Value": 2.46,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5cp00972c"
+      },
+      {
+        "Original_Name_In_Paper": "n-type Ca5In1.9Pb0.1Sb6",
+        "Property": "ZT",
+        "Value": 1.01,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5cp00972c"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "p-type Ca5In1.9Pb0.1Sb6",
+        "Property": "ZT",
+        "Value": 0.87,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5cp00972c"
+      },
+      {
+        "Original_Name_In_Paper": "n-type Ca5In1.9Pb0.1Sb6",
+        "Property": "ZT",
+        "Value": 0.71,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5cp00972c"
+      }
+    ]
+  }
+}

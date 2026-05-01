@@ -1,0 +1,27 @@
+{
+  "Material": "TiPdSn material",
+  "DOIs_Researched": [
+    "10.1016/j.physleta.2017.09.043",
+    "10.1016/j.ceramint.2017.08.046"
+  ],
+  "Data_By_Temperature": {
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "TiPdSn material",
+        "Property": "ZT",
+        "Value": 0.74,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2017.08.046"
+      },
+      {
+        "Original_Name_In_Paper": "TiPdSn material",
+        "Property": "ZT",
+        "Value": 0.74,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physleta.2017.09.043"
+      }
+    ]
+  }
+}

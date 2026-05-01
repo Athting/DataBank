@@ -1,0 +1,18 @@
+{
+  "Material": "Ca0.5Ce0.5Fe4\u2212xNixSb12",
+  "DOIs_Researched": [
+    "10.1016/j.intermet.2012.08.005"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Ca0.5Ce0.5Fe4 \u2212 xNixSb12",
+        "Property": "ZT",
+        "Value": 0.85,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2012.08.005"
+      }
+    ]
+  }
+}

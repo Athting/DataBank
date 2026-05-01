@@ -1,0 +1,18 @@
+{
+  "Material": "Ni0.6Fe2.4O4",
+  "DOIs_Researched": [
+    "10.1016/j.solidstatesciences.2017.08.021"
+  ],
+  "Data_By_Temperature": {
+    "1150.0": [
+      {
+        "Original_Name_In_Paper": "Ni0.6Fe2.4O4",
+        "Property": "ZT",
+        "Value": 0.07,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2017.08.021"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "HfZrCoSb",
+  "DOIs_Researched": [
+    "10.1016/j.mattod.2013.09.015"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "p-type Hf0.5Zr0.5CoSb0.8Sb0.2",
+        "Property": "ThermCond",
+        "Value": 3.7,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mattod.2013.09.015"
+      }
+    ]
+  }
+}

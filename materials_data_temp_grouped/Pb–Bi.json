@@ -1,0 +1,18 @@
+{
+  "Material": "Pb\u2013Bi",
+  "DOIs_Researched": [
+    "10.1016/S0925-8388(09)01720-4"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Pb\u2013Bi",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(09)01720-4"
+      }
+    ]
+  }
+}

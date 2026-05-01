@@ -1,0 +1,66 @@
+{
+  "Material": "Sr8Ga16Ge30",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2005.12.032",
+    "10.1016/j.mser.2018.09.001",
+    "10.1038/s41598-020-59820-8",
+    "10.1039/b914382c",
+    "10.1016/j.nanoen.2012.10.005"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Sr8Ga16Ge30",
+        "Property": "ThermCond",
+        "Value": 1.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mser.2018.09.001"
+      },
+      {
+        "Original_Name_In_Paper": "Sr8Ga16Ge30",
+        "Property": "ThermCond",
+        "Value": 0.9,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2012.10.005"
+      },
+      {
+        "Original_Name_In_Paper": "Sr8Ga16Ge30",
+        "Property": "ZT",
+        "Value": 0.25,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2005.12.032"
+      },
+      {
+        "Original_Name_In_Paper": "Sr8Ga16Ge30",
+        "Property": "Seebeck",
+        "Value": -0.00032,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2012.10.005"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Sr8Ga16Ge30",
+        "Property": "ThermCond",
+        "Value": 0.9,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-020-59820-8"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Sr8Ga16Ge30",
+        "Property": "ZT",
+        "Value": 0.62,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/b914382c"
+      }
+    ]
+  }
+}

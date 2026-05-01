@@ -1,0 +1,27 @@
+{
+  "Material": "Ag0.8Pb22.5SbTe20",
+  "DOIs_Researched": [
+    "10.1016/j.pmatsci.2016.07.002",
+    "10.1016/j.jssc.2009.01.017"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Ag0.8Pb22.5SbTe20",
+        "Property": "ZT",
+        "Value": 1.05,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2009.01.017"
+      },
+      {
+        "Original_Name_In_Paper": "Ag0.8Pb22.5SbTe20",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2016.07.002"
+      }
+    ]
+  }
+}

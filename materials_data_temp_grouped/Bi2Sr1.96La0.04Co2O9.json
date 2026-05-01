@@ -1,0 +1,34 @@
+{
+  "Material": "Bi2Sr1.96La0.04Co2O9",
+  "DOIs_Researched": [
+    "10.1007/s10853-009-3279-0"
+  ],
+  "Data_By_Temperature": {
+    "737.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Sr1.96La0.04Co2O9",
+        "Property": "ZT",
+        "Value": 0.147,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-009-3279-0"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Sr1.96La0.04Co2O9",
+        "Property": "ZT",
+        "Value": 0.147,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-009-3279-0"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Sr1.96La0.04Co2O9",
+        "Property": "ZT",
+        "Value": 0.147,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-009-3279-0"
+      }
+    ]
+  }
+}

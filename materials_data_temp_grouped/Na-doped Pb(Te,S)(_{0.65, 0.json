@@ -1,0 +1,18 @@
+{
+  "Material": "Na-doped Pb(Te,S)(_{0.65, 0",
+  "DOIs_Researched": [
+    "10.1016/j.mtphys.2020.100190"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Na-doped (PbTe)0.65(PbS)0.25(PbSe)0.1",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2020.100190"
+      }
+    ]
+  }
+}

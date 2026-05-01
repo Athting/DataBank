@@ -1,0 +1,18 @@
+{
+  "Material": "SWCNT / C8BTBT",
+  "DOIs_Researched": [
+    "10.1039/c9ta09620e"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "SWCNT / C8BTBT",
+        "Property": "PF",
+        "Value": 0.00028399999999999996,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta09620e"
+      }
+    ]
+  }
+}

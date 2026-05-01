@@ -1,0 +1,18 @@
+{
+  "Material": "MgIn2O4\u2212x",
+  "DOIs_Researched": [
+    "10.1016/j.materresbull.2009.11.003"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "MgIn2O4\u2212x",
+        "Property": "Conductivity",
+        "Value": 10200.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2009.11.003"
+      }
+    ]
+  }
+}

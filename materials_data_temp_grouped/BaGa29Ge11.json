@@ -1,0 +1,18 @@
+{
+  "Material": "BaGa29Ge11",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2009.11.045"
+  ],
+  "Data_By_Temperature": {
+    "950.0": [
+      {
+        "Original_Name_In_Paper": "n-type Ba8Ga16\u2212xGe30+x single crystal",
+        "Property": "ZT",
+        "Value": 0.86,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.11.045"
+      }
+    ]
+  }
+}

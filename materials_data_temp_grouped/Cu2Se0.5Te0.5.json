@@ -1,0 +1,18 @@
+{
+  "Material": "Cu2Se0.5Te0.5",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2019.07.031"
+  ],
+  "Data_By_Temperature": {
+    "650.0": [
+      {
+        "Original_Name_In_Paper": "Cu2Se0.5Te0.5 bulk",
+        "Property": "ThermCond",
+        "Value": 0.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2019.07.031"
+      }
+    ]
+  }
+}

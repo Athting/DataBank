@@ -1,0 +1,36 @@
+{
+  "Material": "Cu26Nb2Ge6Fe0.5S32",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2017.11.199"
+  ],
+  "Data_By_Temperature": {
+    "665.0": [
+      {
+        "Original_Name_In_Paper": "Cu26Nb2Ge6Fe0.5S32",
+        "Property": "ZT",
+        "Value": 0.55,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.11.199"
+      },
+      {
+        "Original_Name_In_Paper": "Cu26Nb2Ge6Fe0.5S32",
+        "Property": "PF",
+        "Value": 0.00047000000000000004,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.11.199"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Cu26Nb2Ge6Fe0.5S32",
+        "Property": "Conductivity",
+        "Value": 11111.1111111111,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.11.199"
+      }
+    ]
+  }
+}

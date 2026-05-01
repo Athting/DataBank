@@ -1,0 +1,111 @@
+{
+  "doi": "10.1016/j.ccr.2020.213437",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "PbZn0.01Se",
+        "PbZn0.0125Se",
+        "PbZn0.075Se"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "PbZn0.01Se",
+          "value": 415500,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbZn0.01Se",
+          "value": 415500,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "PbZn0.0125Se",
+          "value": 0.84,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "PbZn0.01Se",
+          "value": 0.96,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "PbZn0.01Se",
+          "value": 0.0026200000000000004,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "523.0 K"
+        },
+        {
+          "material": "PbZn0.075Se",
+          "value": 0.00251,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "523.0 K"
+        },
+        {
+          "material": "PbZn0.01Se",
+          "value": 0.0026200000000000004,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "523.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "PbZn0.01Se",
+          "zt_value": 1.5,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "PbZn0.01Se",
+          "zt_value": 1.5,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "PbZn0.01Se",
+          "zt_value": 1.5,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "PbZn0.01Se",
+          "zt_value": 1.5,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "PbZn0.01Se",
+          "zt_value": 1.5,
+          "temperature": "873.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

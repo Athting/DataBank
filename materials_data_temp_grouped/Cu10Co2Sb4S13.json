@@ -1,0 +1,26 @@
+{
+  "Material": "Cu10Co2Sb4S13",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2015.08.040"
+  ],
+  "Data_By_Temperature": {
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "Cu10Co2Sb4S13",
+        "Property": "Seebeck",
+        "Value": 0.00030000000000000003,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2015.08.040"
+      },
+      {
+        "Original_Name_In_Paper": "Cu10Co2.0Sb4S13",
+        "Property": "PF",
+        "Value": 0.00025,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2015.08.040"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "AgBiSeS",
+  "DOIs_Researched": [
+    "10.1039/c3ee40879e"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "AgBiSeS",
+        "Property": "Seebeck",
+        "Value": -0.00051,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ee40879e"
+      }
+    ]
+  }
+}

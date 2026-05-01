@@ -1,0 +1,27 @@
+{
+  "Material": "TiFe0.6Ni0.4Sb",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2019.153492",
+    "10.1016/j.mtphys.2019.100173"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "TiFe0.6Ni0.4Sb",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": "In addition",
+        "Source_DOI": "10.1016/j.jallcom.2019.153492"
+      },
+      {
+        "Original_Name_In_Paper": "pure TiFe0.6Ni0.4Sb",
+        "Property": "ZT",
+        "Value": 0.52,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2019.100173"
+      }
+    ]
+  }
+}

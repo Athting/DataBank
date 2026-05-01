@@ -1,0 +1,18 @@
+{
+  "Material": "PEDOT : PSS / CB composite",
+  "DOIs_Researched": [
+    "10.1016/j.compscitech.2016.01.014"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "PEDOT : PSS / CB composite",
+        "Property": "PF",
+        "Value": 7.5e-07,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.compscitech.2016.01.014"
+      }
+    ]
+  }
+}

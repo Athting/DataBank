@@ -1,0 +1,27 @@
+{
+  "Material": "Bi2Te2.925Se0.075",
+  "DOIs_Researched": [
+    "10.1039/c1jm10163c",
+    "10.1039/c6qi00544f"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "n-type Bi2Te2.925Se0.075",
+        "Property": "ThermCond",
+        "Value": 1.65,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c1jm10163c"
+      },
+      {
+        "Original_Name_In_Paper": "n-type Bi2Te2.925Se0.075",
+        "Property": "ThermCond",
+        "Value": 1.65,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6qi00544f"
+      }
+    ]
+  }
+}

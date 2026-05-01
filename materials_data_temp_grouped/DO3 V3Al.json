@@ -1,0 +1,18 @@
+{
+  "Material": "DO3 V3Al",
+  "DOIs_Researched": [
+    "10.1039/c7ra08403j"
+  ],
+  "Data_By_Temperature": {
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "DO3 V3Al",
+        "Property": "ZT",
+        "Value": 0.32,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ra08403j"
+      }
+    ]
+  }
+}

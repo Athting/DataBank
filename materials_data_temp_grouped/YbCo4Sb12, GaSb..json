@@ -1,0 +1,28 @@
+{
+  "Material": "YbCo4Sb12, GaSb.",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2010.03.025"
+  ],
+  "Data_By_Temperature": {
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "composite Yb0.26Co4Sb12 / 0.2GaSb",
+        "Property": "ZT",
+        "Value": 1.45,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2010.03.025"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "composite Yb0.26Co4Sb12 / 0.2GaSb",
+        "Property": "ZT",
+        "Value": 0.99,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2010.03.025"
+      }
+    ]
+  }
+}

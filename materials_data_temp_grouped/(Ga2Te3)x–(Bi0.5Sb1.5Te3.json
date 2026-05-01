@@ -1,0 +1,18 @@
+{
+  "Material": "(Ga2Te3)x\u2013(Bi0.5Sb1.5Te3",
+  "DOIs_Researched": [
+    "10.1016/j.intermet.2007.05.004"
+  ],
+  "Data_By_Temperature": {
+    "335.5": [
+      {
+        "Original_Name_In_Paper": "(Ga2Te3)x\u2013(Bi0.5Sb1.5Te3)1\u2212x",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2007.05.004"
+      }
+    ]
+  }
+}

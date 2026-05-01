@@ -1,0 +1,26 @@
+{
+  "Material": "Ax(A\u2013ett)s",
+  "DOIs_Researched": [
+    "10.1039/c3ee24193a"
+  ],
+  "Data_By_Temperature": {
+    "380.0": [
+      {
+        "Original_Name_In_Paper": "poly[Ax(A\u2013ett)]s",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ee24193a"
+      },
+      {
+        "Original_Name_In_Paper": "poly[Ax(A\u2013ett)]s",
+        "Property": "Conductivity",
+        "Value": 1500.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ee24193a"
+      }
+    ]
+  }
+}

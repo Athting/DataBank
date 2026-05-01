@@ -1,0 +1,42 @@
+{
+  "Material": "CuO-5-Ca",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2018.12.004"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "CuO-5-Ca-1.0",
+        "Property": "ZT",
+        "Value": 0.000154,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.12.004"
+      },
+      {
+        "Original_Name_In_Paper": "CuO-5-Ca-1.0",
+        "Property": "ZT",
+        "Value": 0.000154,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.12.004"
+      },
+      {
+        "Original_Name_In_Paper": "CuO-5-Ca-1.0",
+        "Property": "PF",
+        "Value": 0.000154,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.12.004"
+      },
+      {
+        "Original_Name_In_Paper": "CuO-5-Ca-1.0",
+        "Property": "PF",
+        "Value": 0.000154,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.12.004"
+      }
+    ]
+  }
+}

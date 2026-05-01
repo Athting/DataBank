@@ -1,0 +1,66 @@
+{
+  "doi": "10.1007/s10853-012-6847-7",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "10 % Nb doped SrTiO3",
+        "10 mol % Nb doped SrTiO3 bulk materials",
+        "polycrystalline SrTi0.8Nb0.2O3",
+        "SrTi0.90Nb0.10O3"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "polycrystalline SrTi0.8Nb0.2O3",
+          "value": -0.00018,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "1000.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "SrTi0.90Nb0.10O3",
+          "value": 36500,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "1160.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "10 % Nb doped SrTiO3",
+          "zt_value": 0.22,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "10 mol % Nb doped SrTiO3 bulk materials",
+          "zt_value": 0.6000000000000001,
+          "temperature": "1000.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

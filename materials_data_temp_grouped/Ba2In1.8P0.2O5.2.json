@@ -1,0 +1,18 @@
+{
+  "Material": "Ba2In1.8P0.2O5.2",
+  "DOIs_Researched": [
+    "10.1039/c4dt03036b"
+  ],
+  "Data_By_Temperature": {
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "Ba2In1.8P0.2O5.2",
+        "Property": "Conductivity",
+        "Value": 0.1,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4dt03036b"
+      }
+    ]
+  }
+}

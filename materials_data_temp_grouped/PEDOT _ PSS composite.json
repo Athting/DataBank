@@ -1,0 +1,27 @@
+{
+  "Material": "PEDOT : PSS composite",
+  "DOIs_Researched": [
+    "10.1016/j.mee.2015.03.030",
+    "10.1016/j.rser.2015.09.004"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "PEDOT : PSS composite",
+        "Property": "ZT",
+        "Value": 0.021,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mee.2015.03.030"
+      },
+      {
+        "Original_Name_In_Paper": "PEDOT : PSS composite",
+        "Property": "ZT",
+        "Value": 0.021,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rser.2015.09.004"
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "Material": "Cr2Se2.7S0.3",
+  "DOIs_Researched": [
+    "10.1039/c7tc04749e"
+  ],
+  "Data_By_Temperature": {
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "Cr2Se2.7S0.3",
+        "Property": "ThermCond",
+        "Value": 1.45,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7tc04749e"
+      }
+    ],
+    "623.0": [
+      {
+        "Original_Name_In_Paper": "Cr2Se2.7S0.3 compound",
+        "Property": "ZT",
+        "Value": 0.29,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7tc04749e"
+      },
+      {
+        "Original_Name_In_Paper": "Cr2Se2.7S0.3",
+        "Property": "ZT",
+        "Value": 0.29,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7tc04749e"
+      },
+      {
+        "Original_Name_In_Paper": "Cr2Se2.7S0.3",
+        "Property": "ZT",
+        "Value": 0.29,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7tc04749e"
+      },
+      {
+        "Original_Name_In_Paper": "Cr2Se2.7S0.3",
+        "Property": "ZT",
+        "Value": 0.29,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7tc04749e"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Cr2Se2.7S0.3",
+        "Property": "Conductivity",
+        "Value": 35700.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7tc04749e"
+      }
+    ]
+  }
+}

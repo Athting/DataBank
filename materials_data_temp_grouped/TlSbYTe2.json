@@ -1,0 +1,18 @@
+{
+  "Material": "TlSbYTe2",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2019.04.294"
+  ],
+  "Data_By_Temperature": {
+    "620.0": [
+      {
+        "Original_Name_In_Paper": "Tl0.98SbYb0.02Te2",
+        "Property": "ZT",
+        "Value": 0.85,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.04.294"
+      }
+    ]
+  }
+}

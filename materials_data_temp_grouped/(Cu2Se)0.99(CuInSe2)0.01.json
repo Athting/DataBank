@@ -1,0 +1,18 @@
+{
+  "Material": "(Cu2Se)0.99(CuInSe2)0.01",
+  "DOIs_Researched": [
+    "10.1039/c8tc04129f"
+  ],
+  "Data_By_Temperature": {
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "(Cu2Se)0.99(CuInSe2)0.01",
+        "Property": "ZT",
+        "Value": 2.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8tc04129f"
+      }
+    ]
+  }
+}

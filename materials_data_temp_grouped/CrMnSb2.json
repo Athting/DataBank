@@ -1,0 +1,28 @@
+{
+  "Material": "CrMnSb2",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2007.11.086"
+  ],
+  "Data_By_Temperature": {
+    "313.0": [
+      {
+        "Original_Name_In_Paper": "Cr0.95Mn0.05Sb2",
+        "Property": "ZT",
+        "Value": 0.0125,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2007.11.086"
+      }
+    ],
+    "260.0": [
+      {
+        "Original_Name_In_Paper": "Cr0.95Mn0.05Sb2",
+        "Property": "ZT",
+        "Value": 0.05,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2007.11.086"
+      }
+    ]
+  }
+}

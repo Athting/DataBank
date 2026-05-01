@@ -1,0 +1,36 @@
+{
+  "Material": "Ta0.74V0.1Ti0.16FeSb",
+  "DOIs_Researched": [
+    "10.1016/j.jmst.2019.08.046",
+    "10.1007/s10853-020-04949-0",
+    "10.1038/s41467-018-08223-5"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "Ta0.74V0.1Ti0.16FeSb",
+        "Property": "ZT",
+        "Value": 1.52,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmst.2019.08.046"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Ta0.74V0.1Ti0.16FeSb",
+        "Property": "ZT",
+        "Value": 1.52,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      },
+      {
+        "Original_Name_In_Paper": "Ta0.74V0.1Ti0.16FeSb",
+        "Property": "ZT",
+        "Value": 1.52,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41467-018-08223-5"
+      }
+    ]
+  }
+}

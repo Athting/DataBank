@@ -1,0 +1,50 @@
+{
+  "doi": "10.1016/j.intermet.2020.106914",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Ti0.85Nb0.15CoSb",
+        "n-type Ti0.85Nb0.15CoSb"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Ti0.85Nb0.15CoSb",
+          "zt_value": 0.52,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "n-type Ti0.85Nb0.15CoSb",
+          "zt_value": 0.52,
+          "temperature": "873.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

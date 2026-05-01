@@ -1,0 +1,42 @@
+{
+  "Material": "MnSi1.77Ge0.027",
+  "DOIs_Researched": [
+    "10.1016/j.scriptamat.2017.03.011"
+  ],
+  "Data_By_Temperature": {
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "MnSi1.77Ge0.027",
+        "Property": "ZT",
+        "Value": 0.61,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2017.03.011"
+      },
+      {
+        "Original_Name_In_Paper": "MnSi1.77Ge0.027",
+        "Property": "ZT",
+        "Value": 0.61,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2017.03.011"
+      },
+      {
+        "Original_Name_In_Paper": "MnSi1.77Ge0.027",
+        "Property": "ZT",
+        "Value": 0.61,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2017.03.011"
+      },
+      {
+        "Original_Name_In_Paper": "MnSi1.77Ge0.027",
+        "Property": "ZT",
+        "Value": 0.61,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2017.03.011"
+      }
+    ]
+  }
+}

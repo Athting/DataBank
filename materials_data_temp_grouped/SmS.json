@@ -1,0 +1,18 @@
+{
+  "Material": "SmS",
+  "DOIs_Researched": [
+    "10.1023/B:INMA.0000008909.13771.f3"
+  ],
+  "Data_By_Temperature": {
+    "0.0009000000000000001": [
+      {
+        "Original_Name_In_Paper": "SmS0.96",
+        "Property": "ZT",
+        "Value": 0.0009000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1023/B:INMA.0000008909.13771.f3"
+      }
+    ]
+  }
+}

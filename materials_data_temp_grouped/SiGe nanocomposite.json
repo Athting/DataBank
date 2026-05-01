@@ -1,0 +1,18 @@
+{
+  "Material": "SiGe nanocomposite",
+  "DOIs_Researched": [
+    "10.1039/c4ra05322b"
+  ],
+  "Data_By_Temperature": {
+    "1173.0": [
+      {
+        "Original_Name_In_Paper": "SiGe nanocomposite",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra05322b"
+      }
+    ]
+  }
+}

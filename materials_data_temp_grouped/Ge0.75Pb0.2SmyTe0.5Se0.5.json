@@ -1,0 +1,18 @@
+{
+  "Material": "Ge0.75Pb0.2SmyTe0.5Se0.5",
+  "DOIs_Researched": [
+    "10.1016/j.matdes.2018.08.001"
+  ],
+  "Data_By_Temperature": {
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "Ge0.75Pb0.2SmyTe0.5Se0.5 alloys",
+        "Property": "PF",
+        "Value": 0.0016300000000000002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matdes.2018.08.001"
+      }
+    ]
+  }
+}

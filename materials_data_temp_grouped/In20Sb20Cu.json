@@ -1,0 +1,44 @@
+{
+  "Material": "In20Sb20Cu",
+  "DOIs_Researched": [
+    "10.1016/j.cap.2011.04.044"
+  ],
+  "Data_By_Temperature": {
+    "687.0": [
+      {
+        "Original_Name_In_Paper": "In20Sb20Cu",
+        "Property": "ThermCond",
+        "Value": 6.88,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2011.04.044"
+      },
+      {
+        "Original_Name_In_Paper": "In20Sb20Cu",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2011.04.044"
+      },
+      {
+        "Original_Name_In_Paper": "In20Sb20Cu",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2011.04.044"
+      }
+    ],
+    "659.0": [
+      {
+        "Original_Name_In_Paper": "In20Sb20Cu",
+        "Property": "PF",
+        "Value": 0.0019500000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2011.04.044"
+      }
+    ]
+  }
+}

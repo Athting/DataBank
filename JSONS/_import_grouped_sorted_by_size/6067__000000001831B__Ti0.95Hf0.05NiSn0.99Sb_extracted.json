@@ -1,0 +1,73 @@
+{
+  "doi": "10.1016/B978-008044964-7-50013-3",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "(Ti0.95Hf0.05)Ni(Sn0.99Sb0.01) compound",
+        "(Ti0.95Hf0.05)Ni(Sn0.99Sb0.01)",
+        "Ti0.95Hf0.05NiSn0.99Sb0.01 compounds"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "(Ti0.95Hf0.05)Ni(Sn0.99Sb0.01) compound",
+          "value": 3.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "750.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "(Ti0.95Hf0.05)Ni(Sn0.99Sb0.01) compound",
+          "zt_value": 0.6000000000000001,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "(Ti0.95Hf0.05)Ni(Sn0.99Sb0.01)",
+          "zt_value": 0.78,
+          "temperature": "770.0 K"
+        },
+        {
+          "material": "(Ti0.95Hf0.05)Ni(Sn0.99Sb0.01) compound",
+          "zt_value": 0.78,
+          "temperature": "770.0 K"
+        },
+        {
+          "material": "(Ti0.95Hf0.05)Ni(Sn0.99Sb0.01) compound",
+          "zt_value": 0.78,
+          "temperature": "770.0 K"
+        },
+        {
+          "material": "Ti0.95Hf0.05NiSn0.99Sb0.01 compounds",
+          "zt_value": 0.78,
+          "temperature": "770.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

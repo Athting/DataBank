@@ -1,0 +1,18 @@
+{
+  "Material": "(Ti,Zr,Hf)NiSn",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2017.03.071"
+  ],
+  "Data_By_Temperature": {
+    "690.0": [
+      {
+        "Original_Name_In_Paper": "Sb-doped (Ti,Zr,Hf)NiSn",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2017.03.071"
+      }
+    ]
+  }
+}

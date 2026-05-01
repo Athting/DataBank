@@ -1,0 +1,18 @@
+{
+  "Material": "BiSbSe1.5Te1.5Agx",
+  "DOIs_Researched": [
+    "10.1038/s41598-019-41818-6"
+  ],
+  "Data_By_Temperature": {
+    "450.0": [
+      {
+        "Original_Name_In_Paper": "(BiSbSe1.5Te1.5)1-xAgx",
+        "Property": "ZT",
+        "Value": 0.63,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-019-41818-6"
+      }
+    ]
+  }
+}

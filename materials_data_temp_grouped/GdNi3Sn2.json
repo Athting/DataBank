@@ -1,0 +1,18 @@
+{
+  "Material": "GdNi3Sn2",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2007.04.298"
+  ],
+  "Data_By_Temperature": {
+    "5.0": [
+      {
+        "Original_Name_In_Paper": "GdNi3Sn2",
+        "Property": "Conductivity",
+        "Value": 1333333.3333333333,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2007.04.298"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Ag0.365Sb0.558Te x \u2013 Bi0.5",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2006.08.016"
+  ],
+  "Data_By_Temperature": {
+    "318.0": [
+      {
+        "Original_Name_In_Paper": "(Ag0.365Sb0.558Te)x\u2013(Bi0.5Sb1.5Te3)1\u2212x alloys",
+        "Property": "ZT",
+        "Value": 0.64,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2006.08.016"
+      }
+    ]
+  }
+}

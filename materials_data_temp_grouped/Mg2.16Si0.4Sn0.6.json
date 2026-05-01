@@ -1,0 +1,29 @@
+{
+  "Material": "Mg2.16Si0.4Sn0.6",
+  "DOIs_Researched": [
+    "10.1016/j.rser.2014.05.060",
+    "10.1016/j.jssc.2013.04.041"
+  ],
+  "Data_By_Temperature": {
+    "740.0": [
+      {
+        "Original_Name_In_Paper": "Mg2.16Si0.4Sn0.6",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": "adding Sb",
+        "Source_DOI": "10.1016/j.rser.2014.05.060"
+      }
+    ],
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "pure Mg2.16Si0.4Sn0.6",
+        "Property": "Seebeck",
+        "Value": -0.0005,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2013.04.041"
+      }
+    ]
+  }
+}

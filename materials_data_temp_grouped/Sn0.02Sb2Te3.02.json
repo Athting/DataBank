@@ -1,0 +1,36 @@
+{
+  "Material": "Sn0.02Sb2Te3.02",
+  "DOIs_Researched": [
+    "10.1039/c6dt00974c"
+  ],
+  "Data_By_Temperature": {
+    "423.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.02Sb2Te3.02 bulk",
+        "Property": "ThermCond",
+        "Value": 1.12,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6dt00974c"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.02Sb2Te3.02 bulk",
+        "Property": "PF",
+        "Value": 0.0019600000000000004,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6dt00974c"
+      }
+    ],
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.02Sb2Te3.02",
+        "Property": "ThermCond",
+        "Value": 1.33,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6dt00974c"
+      }
+    ]
+  }
+}

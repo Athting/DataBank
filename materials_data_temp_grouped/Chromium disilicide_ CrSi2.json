@@ -1,0 +1,26 @@
+{
+  "Material": "Chromium disilicide: CrSi2",
+  "DOIs_Researched": [
+    "10.1016/j.tsf.2013.07.040"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "bulk chromium disilicide",
+        "Property": "Conductivity",
+        "Value": 33.3333333333,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2013.07.040"
+      },
+      {
+        "Original_Name_In_Paper": "bulk chromium disilicide",
+        "Property": "Seebeck",
+        "Value": 9.6e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2013.07.040"
+      }
+    ]
+  }
+}

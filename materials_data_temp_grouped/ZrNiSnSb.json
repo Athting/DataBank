@@ -1,0 +1,26 @@
+{
+  "Material": "ZrNiSnSb",
+  "DOIs_Researched": [
+    "10.1016/j.cplett.2020.137770"
+  ],
+  "Data_By_Temperature": {
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "ZrNi0.9Sn0.98Sb0.02",
+        "Property": "ZT",
+        "Value": 0.71,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cplett.2020.137770"
+      },
+      {
+        "Original_Name_In_Paper": "ZrNi0.9Sn0.98Sb0.02",
+        "Property": "ZT",
+        "Value": 0.71,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cplett.2020.137770"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Bi2O3-8TeO2",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2015.06.127"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "20Bi2O3\u201380TeO2 compound",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.06.127"
+      }
+    ]
+  }
+}

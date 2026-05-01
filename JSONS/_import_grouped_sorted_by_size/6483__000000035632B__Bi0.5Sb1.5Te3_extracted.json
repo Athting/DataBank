@@ -1,0 +1,1254 @@
+{
+  "doi": "10.1007/s10854-016-4920-8",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Bi0.5Sb1.5Te3",
+        "nano-bulk Bi0.5Sb1.5Te3",
+        "Bi0.5Sb1.5Te3 + 3 wt %",
+        "nanocrystalline Bi0.5Sb1.5Te3 compound",
+        "Bi0.5Sb1.5Te3-based",
+        "Bi0.5Sb1.5Te3 thin film",
+        "graphene / Bi0.5Sb1.5Te3 composite",
+        "Bi0.5Sb1.5Te3 ingot",
+        "p-type Bi0.5Sb1.5Te3",
+        "Bi0.5Sb1.5Te3 powder",
+        "Bi0.5Sb1.5Te3 alloys",
+        "p-type Bi0.5Sb1.5Te3 bulk",
+        "Bi0.5Sb1.5Te3 alloy",
+        "nanostructured Bi0.5Sb1.5Te3",
+        "crystalline Bi0.5Sb1.5Te3",
+        "Bi0.5Sb1.5Te3 crystal",
+        "polycrystalline p-type Bi0.5Sb1.5Te3",
+        "% Cu-doped Bi0.5Sb1.5Te3",
+        "Bi0.5Sb1.5Te3 / PLA composite",
+        "Bi0.5Sb1.5Te3p-type",
+        "Bi0.5Sb1.5Te3 bulk materials",
+        "Bi0.5Sb1.5Te3 material",
+        "Bi0.5Sb1.5Te3 / epoxy resin composite film",
+        "amorphous Bi0.5Sb1.5Te3 film",
+        "Bi0.5Sb1.5 Te3 thin films",
+        "Bi0.5Sb1.5Te3 single crystal",
+        "Bi0.5Sb1.5Te3 with 0.67wt % Cu",
+        "Bi0.5Sb1.5Te3 film",
+        "Bi0.5Sb1.5Te3 bulk alloys",
+        "Bi0.5Sb1.5 Te3",
+        "Bi0.5Sb1.5Te3 pellet",
+        "Bi0.5Sb1.5Te3 bulks with 25 wt % Te",
+        "nanostructured bulk Bi0.5Sb1.5Te3 compounds",
+        "p-type Bi0.5Sb1.5Te3 matrix",
+        "p-type Bi0.5Sb1.5Te3 bulks",
+        "bulk Bi0.5Sb1.5Te3",
+        "p-type Bi0.5Sb1.5Te3 + 3 wt %",
+        "pure Bi0.5Sb1.5Te3",
+        "p-type Bi0.5Sb1.5Te3-based",
+        "Bi.5Sb1.5Te3 nanocomposites",
+        "p-type Bi0.5Sb1.5Te3 ingots",
+        "Bi0.5Sb1.5Te3 + 0.5 wt %",
+        "Bi0.5Sb1.5Te3 / epoxy",
+        "Bi0.5Sb1.5Te3 matrix",
+        "Bi0.5Sb1.5Te3-EG 0.1 vol % )",
+        "nanostructured p-type Bi0.5Sb1.5Te3",
+        "Cu-doped Bi0.5Sb1.5Te3",
+        "nanocrystalline Bi0.5Sb1.5Te3 bulk alloys",
+        "Bi0.5Sb1.5Te3 / Cu",
+        "Cu(OAc)2 added Bi0.5Sb1.5Te3 nanocomposite",
+        "polycrystalline Bi0.5Sb1.5Te3",
+        "nanostructured bulk Bi0.5Sb1.5Te3",
+        "Bi0.5Sb1.5Te3 pellets",
+        "Bi0.5Sb1.5Te3(α",
+        "Bi0.5Sb1.5Te3 composite",
+        "p-type Bi0.5Sb1.5Te3 nanograin",
+        "Bi0.5Sb1.5Te3 ingot powders",
+        "Bi0.5Sb1.5Te3-EG composite",
+        "Bi0.5Sb1.5Te3-EG 0.1 vol %",
+        "Bi0.5Sb1.5Te3 bulk",
+        "C60-contained Bi0.5Sb1.5Te3 alloy",
+        "Se-doped Bi0.5Sb1.5Te3 alloys",
+        "Bi0.5Sb1.5Te3 with 0.15wt % Cu",
+        "pristine Bi0.5Sb1.5Te3",
+        "Bi0.5Sb1.5Te3 sample without PVP",
+        "Bi0.5Sb1.5Te3 nanocomposites with 3 vol % of TiO2",
+        "Bi0.5Sb1.5Te3 lead",
+        "Bi0.5Sb1.5Te3nanocrystal powders",
+        "Bi0.5Sb1.5Te3 nanocrystal powders",
+        "porous Bi0.5Sb1.5Te3 material",
+        "Bi0.5Sb1.5Te3 thin films",
+        "12.5 wt % of Bi0.5Sb1.5Te3",
+        "Bi0.5Sb1.5Te3 nanopillars",
+        "bulk single-crystal Bi0.5Sb1.5Te3"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "nano-bulk Bi0.5Sb1.5Te3",
+          "value": 0.000215,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "value": 0.0002,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 material",
+          "value": 0.000157,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 alloy",
+          "value": 0.000234,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 alloy",
+          "value": 0.0001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 film",
+          "value": 0.0001381,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 film",
+          "value": 0.000198,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "p-type Bi0.5Sb1.5Te3",
+          "value": 0.00015000000000000001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "value": 0.00025,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 pellet",
+          "value": 0.000168,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "value": 0.000254,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 pellet",
+          "value": 0.000193,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "375.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3(α",
+          "value": 0.00011,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "310.0 K"
+        },
+        {
+          "material": "pristine Bi0.5Sb1.5Te3",
+          "value": 0.000128,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "486.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 sample without PVP",
+          "value": 0.000256,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "500.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "value": 0.00005,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "500.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 thin films",
+          "value": 0.0002565,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "523.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 thin films",
+          "value": 0.0002565,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "523.0 K"
+        },
+        {
+          "material": "12.5 wt % of Bi0.5Sb1.5Te3",
+          "value": 0.00002,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "303.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "value": 207039.3374741201,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 alloy",
+          "value": 37000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "value": 0.0005,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "amorphous Bi0.5Sb1.5Te3 film",
+          "value": 19000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5 Te3 thin films",
+          "value": 65700,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 single crystal",
+          "value": 158400,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 with 0.67wt % Cu",
+          "value": 334100,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 film",
+          "value": 22000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "value": 40000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "value": 40000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 matrix",
+          "value": 101100,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "value": 56800,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3-EG 0.1 vol % )",
+          "value": 64500,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "value": 80000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 alloy",
+          "value": 156000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "318.0 K"
+        },
+        {
+          "material": "bulk single-crystal Bi0.5Sb1.5Te3",
+          "value": 40000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "313.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "value": 1.1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "nano-bulk Bi0.5Sb1.5Te3",
+          "value": 1.1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "value": 0.98,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "value": 0.30000000000000004,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "value": 1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 + 3 wt %",
+          "value": 1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "value": 0.9400000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "nanocrystalline Bi0.5Sb1.5Te3 compound",
+          "value": 1.1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3-based",
+          "value": 0.8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 thin film",
+          "value": 1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "graphene / Bi0.5Sb1.5Te3 composite",
+          "value": 0.7000000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 ingot",
+          "value": 1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "value": 0.30000000000000004,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "320.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 alloy",
+          "value": 0.33,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "320.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "value": 0.33,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "320.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 bulk alloys",
+          "value": 0.33,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "320.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "value": 0.7000000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "value": 0.7000000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 thin film",
+          "value": 0.8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "p-type Bi0.5Sb1.5Te3 + 3 wt %",
+          "value": 0.8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "pure Bi0.5Sb1.5Te3",
+          "value": 0.98,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "p-type Bi0.5Sb1.5Te3-based",
+          "value": 0.8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "value": 0.7000000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 matrix",
+          "value": 0.62,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 matrix",
+          "value": 0.58,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "nanostructured p-type Bi0.5Sb1.5Te3",
+          "value": 1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "value": 0.6000000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "value": 0.67,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "value": 1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "348.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "value": 1.25,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "348.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "value": 0.004,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 alloys",
+          "value": 0.0025,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3-based",
+          "value": 0.00232,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 / epoxy resin composite film",
+          "value": 0.00084,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 / epoxy",
+          "value": 0.00084,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 / epoxy",
+          "value": 0.00084,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 / epoxy",
+          "value": 0.00084,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 / epoxy",
+          "value": 0.00084,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 thin film",
+          "value": 0.00232,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "p-type Bi0.5Sb1.5Te3-based",
+          "value": 0.00232,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "nanostructured p-type Bi0.5Sb1.5Te3",
+          "value": 0.004,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 nanopillars",
+          "value": 0.000383,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "475.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 film",
+          "value": 0.000383,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "475.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "p-type Bi0.5Sb1.5Te3",
+          "zt_value": 1,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 powder",
+          "zt_value": 1,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 alloys",
+          "zt_value": 1.4,
+          "temperature": "295 K"
+        },
+        {
+          "material": "p-type Bi0.5Sb1.5Te3 bulk",
+          "zt_value": 1.2,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 alloy",
+          "zt_value": 1.42,
+          "temperature": "295 K"
+        },
+        {
+          "material": "nanostructured Bi0.5Sb1.5Te3",
+          "zt_value": 1,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "zt_value": 0.89,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "zt_value": 0.89,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 alloy",
+          "zt_value": 0.39,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "zt_value": 0.39,
+          "temperature": "295 K"
+        },
+        {
+          "material": "crystalline Bi0.5Sb1.5Te3",
+          "zt_value": 1.5,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 crystal",
+          "zt_value": 1.5,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 crystal",
+          "zt_value": 1.5,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "zt_value": 0.39,
+          "temperature": "295 K"
+        },
+        {
+          "material": "polycrystalline p-type Bi0.5Sb1.5Te3",
+          "zt_value": 1.1,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "zt_value": 1.3,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "zt_value": 1.8599999999999999,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 alloy",
+          "zt_value": 0.0027,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 alloy",
+          "zt_value": 0.0027,
+          "temperature": "295 K"
+        },
+        {
+          "material": "% Cu-doped Bi0.5Sb1.5Te3",
+          "zt_value": 1.17,
+          "temperature": "295 K"
+        },
+        {
+          "material": "p-type Bi0.5Sb1.5Te3",
+          "zt_value": 0.65,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "zt_value": 0.77,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "zt_value": 1.4,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 alloy",
+          "zt_value": 0.58,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 alloy",
+          "zt_value": 0.58,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "zt_value": 1,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 alloys",
+          "zt_value": 1,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "zt_value": 1,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 / PLA composite",
+          "zt_value": 0.006,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "zt_value": 1,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3p-type",
+          "zt_value": 1.1,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "zt_value": 1,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "zt_value": 1,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 alloys",
+          "zt_value": 1.4,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 bulk materials",
+          "zt_value": 0.87,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "zt_value": 1,
+          "temperature": "295 K"
+        },
+        {
+          "material": "nano-bulk Bi0.5Sb1.5Te3",
+          "zt_value": 1.2,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "zt_value": 1.15,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "zt_value": 1.85,
+          "temperature": "320.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5 Te3",
+          "zt_value": 1.85,
+          "temperature": "320.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "zt_value": 1.8599999999999999,
+          "temperature": "320.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 pellet",
+          "zt_value": 1.2,
+          "temperature": "320.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "zt_value": 1.8599999999999999,
+          "temperature": "320.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "zt_value": 1.8599999999999999,
+          "temperature": "320.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "zt_value": 1.8599999999999999,
+          "temperature": "320.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "zt_value": 1.8599999999999999,
+          "temperature": "320.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 bulks with 25 wt % Te",
+          "zt_value": 1.8599999999999999,
+          "temperature": "320.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 bulk alloys",
+          "zt_value": 1.8599999999999999,
+          "temperature": "320.0 K"
+        },
+        {
+          "material": "nanostructured bulk Bi0.5Sb1.5Te3 compounds",
+          "zt_value": 1.87,
+          "temperature": "320.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "zt_value": 1.8599999999999999,
+          "temperature": "320.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "zt_value": 1.8599999999999999,
+          "temperature": "320.0 K"
+        },
+        {
+          "material": "p-type Bi0.5Sb1.5Te3 matrix",
+          "zt_value": 1.8599999999999999,
+          "temperature": "320.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "zt_value": 1.8599999999999999,
+          "temperature": "320.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "zt_value": 1.8599999999999999,
+          "temperature": "320.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "zt_value": 1.8599999999999999,
+          "temperature": "320.0 K"
+        },
+        {
+          "material": "p-type Bi0.5Sb1.5Te3 bulks",
+          "zt_value": 1.8599999999999999,
+          "temperature": "320.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "zt_value": 1.8599999999999999,
+          "temperature": "320.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 alloy",
+          "zt_value": 1.8599999999999999,
+          "temperature": "320.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "zt_value": 1.8599999999999999,
+          "temperature": "320.0 K"
+        },
+        {
+          "material": "bulk Bi0.5Sb1.5Te3",
+          "zt_value": 1.8599999999999999,
+          "temperature": "320.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "zt_value": 1.8599999999999999,
+          "temperature": "320.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "zt_value": 1.8599999999999999,
+          "temperature": "320.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "zt_value": 1.8599999999999999,
+          "temperature": "320.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "zt_value": 1.8599999999999999,
+          "temperature": "320.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "zt_value": 1.7000000000000002,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 alloy",
+          "zt_value": 2,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "zt_value": 1,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Bi.5Sb1.5Te3 nanocomposites",
+          "zt_value": 1.38,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "p-type Bi0.5Sb1.5Te3 ingots",
+          "zt_value": 0.96,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 alloy",
+          "zt_value": 2,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 + 0.5 wt %",
+          "zt_value": 0.003,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Cu-doped Bi0.5Sb1.5Te3",
+          "zt_value": 1.08,
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "nanocrystalline Bi0.5Sb1.5Te3 bulk alloys",
+          "zt_value": 1.4,
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 / Cu",
+          "zt_value": 1.08,
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "p-type Bi0.5Sb1.5Te3",
+          "zt_value": 1.4,
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "zt_value": 1.43,
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "Cu(OAc)2 added Bi0.5Sb1.5Te3 nanocomposite",
+          "zt_value": 1.1,
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 alloys",
+          "zt_value": 1.4,
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "zt_value": 1.56,
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "p-type Bi0.5Sb1.5Te3",
+          "zt_value": 0.88,
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "zt_value": 1.8599999999999999,
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "zt_value": 1.01,
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "zt_value": 1.9,
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "polycrystalline Bi0.5Sb1.5Te3",
+          "zt_value": 1.71,
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "zt_value": 0.86,
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "zt_value": 1.1,
+          "temperature": "348.0 K"
+        },
+        {
+          "material": "nanostructured bulk Bi0.5Sb1.5Te3",
+          "zt_value": 0.51,
+          "temperature": "375.0 K"
+        },
+        {
+          "material": "nanostructured bulk Bi0.5Sb1.5Te3",
+          "zt_value": 0.51,
+          "temperature": "375.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 pellets",
+          "zt_value": 0.51,
+          "temperature": "375.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 pellet",
+          "zt_value": 0.51,
+          "temperature": "375.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "zt_value": 0.71,
+          "temperature": "310.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 composite",
+          "zt_value": 1.17,
+          "temperature": "450.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 composite",
+          "zt_value": 1.17,
+          "temperature": "450.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 alloys",
+          "zt_value": 1.05,
+          "temperature": "330.0 K"
+        },
+        {
+          "material": "p-type Bi0.5Sb1.5Te3",
+          "zt_value": 1,
+          "temperature": "330.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "zt_value": 1.8,
+          "temperature": "330.0 K"
+        },
+        {
+          "material": "pure Bi0.5Sb1.5Te3",
+          "zt_value": 0.78,
+          "temperature": "330.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "zt_value": 0.98,
+          "temperature": "330.0 K"
+        },
+        {
+          "material": "pure Bi0.5Sb1.5Te3",
+          "zt_value": 0.78,
+          "temperature": "330.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "zt_value": 0.05,
+          "temperature": "360.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "zt_value": 1.1,
+          "temperature": "360.0 K"
+        },
+        {
+          "material": "p-type Bi0.5Sb1.5Te3 nanograin",
+          "zt_value": 1.3599999999999999,
+          "temperature": "360.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 ingot powders",
+          "zt_value": 1.24,
+          "temperature": "360.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3-EG composite",
+          "zt_value": 0.1,
+          "temperature": "360.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3-EG composite",
+          "zt_value": 0.77,
+          "temperature": "360.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3-EG 0.1 vol %",
+          "zt_value": 1.24,
+          "temperature": "360.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "zt_value": 0.1,
+          "temperature": "442.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "zt_value": 0.74,
+          "temperature": "442.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "zt_value": 0.74,
+          "temperature": "442.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 bulk",
+          "zt_value": 1.3,
+          "temperature": "510.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "zt_value": 1.3,
+          "temperature": "510.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "zt_value": 1.3,
+          "temperature": "510.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "zt_value": 1.3,
+          "temperature": "510.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "zt_value": 1.35,
+          "temperature": "400.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 bulk alloys",
+          "zt_value": 1.47,
+          "temperature": "358.0 K"
+        },
+        {
+          "material": "C60-contained Bi0.5Sb1.5Te3 alloy",
+          "zt_value": 1.47,
+          "temperature": "358.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "zt_value": 1.07,
+          "temperature": "350.0 K"
+        },
+        {
+          "material": "Se-doped Bi0.5Sb1.5Te3 alloys",
+          "zt_value": 1.2,
+          "temperature": "350.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 with 0.15wt % Cu",
+          "zt_value": 0.81,
+          "temperature": "573.4 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 material",
+          "zt_value": 0.8300000000000001,
+          "temperature": "486.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "zt_value": 0.6000000000000001,
+          "temperature": "423.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "zt_value": 1,
+          "temperature": "423.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "zt_value": 1.2,
+          "temperature": "500.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 nanocomposites with 3 vol % of TiO2",
+          "zt_value": 0.9,
+          "temperature": "340.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 lead",
+          "zt_value": 0.9500000000000001,
+          "temperature": "498.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3nanocrystal powders",
+          "zt_value": 0.37,
+          "temperature": "295.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 nanocrystal powders",
+          "zt_value": 0.93,
+          "temperature": "295.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 alloy",
+          "zt_value": 0.58,
+          "temperature": "318.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "zt_value": 1.25,
+          "temperature": "398.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 alloy",
+          "zt_value": 1.3900000000000001,
+          "temperature": "390.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3 alloys",
+          "zt_value": 1.3900000000000001,
+          "temperature": "390.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te3",
+          "zt_value": 0.011,
+          "temperature": "298.0 K"
+        },
+        {
+          "material": "porous Bi0.5Sb1.5Te3 material",
+          "zt_value": 1.29,
+          "temperature": "327.0 K"
+        },
+        {
+          "material": "p-type Bi0.5Sb1.5Te3",
+          "zt_value": 1.5899999999999999,
+          "temperature": "370.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

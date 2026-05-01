@@ -1,0 +1,18 @@
+{
+  "Material": "BST-623",
+  "DOIs_Researched": [
+    "10.1016/j.intermet.2017.10.015"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "BST-623",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2017.10.015"
+      }
+    ]
+  }
+}

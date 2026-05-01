@@ -1,0 +1,18 @@
+{
+  "Material": "Bi0.95Sb0.05Te0.85Se0.1",
+  "DOIs_Researched": [
+    "10.1016/j.materresbull.2014.09.057"
+  ],
+  "Data_By_Temperature": {
+    "460.0": [
+      {
+        "Original_Name_In_Paper": "(Bi0.95Sb0.05)2(Te0.85Se0.15)3 nano-bulk materials",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2014.09.057"
+      }
+    ]
+  }
+}

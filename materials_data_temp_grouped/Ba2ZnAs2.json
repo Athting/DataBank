@@ -1,0 +1,18 @@
+{
+  "Material": "Ba2ZnAs2",
+  "DOIs_Researched": [
+    "10.1016/j.commatsci.2016.10.022"
+  ],
+  "Data_By_Temperature": {
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "p-type Ba2ZnAs2",
+        "Property": "ZT",
+        "Value": 1.56,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2016.10.022"
+      }
+    ]
+  }
+}

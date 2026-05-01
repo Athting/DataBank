@@ -1,0 +1,34 @@
+{
+  "Material": "Cu2.85Ag0.15SbSe4",
+  "DOIs_Researched": [
+    "10.1039/c9ta05115e"
+  ],
+  "Data_By_Temperature": {
+    "623.0": [
+      {
+        "Original_Name_In_Paper": "Cu2.85Ag0.15SbSe4",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta05115e"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2.85Ag0.15SbSe4",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta05115e"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2.85Ag0.15SbSe4",
+        "Property": "ZT",
+        "Value": 0.52,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta05115e"
+      }
+    ]
+  }
+}

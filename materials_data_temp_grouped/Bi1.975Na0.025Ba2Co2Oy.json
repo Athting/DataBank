@@ -1,0 +1,51 @@
+{
+  "Material": "Bi1.975Na0.025Ba2Co2Oy",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2019.11.185",
+    "10.1016/j.ceramint.2017.01.113"
+  ],
+  "Data_By_Temperature": {
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "Bi1.975Na0.025Ba2Co2Oy+1.0wt % CNT",
+        "Property": "ThermCond",
+        "Value": 0.39,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2017.01.113"
+      },
+      {
+        "Original_Name_In_Paper": "Bi1.975Na0.025Ba2Co2Oy + 0.1 wt % SiC",
+        "Property": "ZT",
+        "Value": 0.21,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2019.11.185"
+      },
+      {
+        "Original_Name_In_Paper": "Bi1.975Na0.025Ba2Co2Oy + 0.1 wt % SiC",
+        "Property": "ZT",
+        "Value": 0.21,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2019.11.185"
+      },
+      {
+        "Original_Name_In_Paper": "Bi1.975Na0.025Ba2Co2Oy + 0.1 wt % SiC",
+        "Property": "ZT",
+        "Value": 0.21,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2019.11.185"
+      },
+      {
+        "Original_Name_In_Paper": "Bi1.975Na0.025Ba2Co2Oy + 0.05 wt % SiC",
+        "Property": "PF",
+        "Value": 0.000196,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2019.11.185"
+      }
+    ]
+  }
+}

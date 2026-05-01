@@ -1,0 +1,18 @@
+{
+  "Material": "PPy / g-C3N4",
+  "DOIs_Researched": [
+    "10.1007/s13391-018-00107-6"
+  ],
+  "Data_By_Temperature": {
+    "298.0": [
+      {
+        "Original_Name_In_Paper": "PPy / g-C3N4",
+        "Property": "Conductivity",
+        "Value": 680.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s13391-018-00107-6"
+      }
+    ]
+  }
+}

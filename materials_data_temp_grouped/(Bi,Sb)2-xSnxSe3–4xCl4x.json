@@ -1,0 +1,34 @@
+{
+  "Material": "(Bi,Sb)2-xSnxSe3\u20134xCl4x",
+  "DOIs_Researched": [
+    "10.1016/j.mssp.2019.01.021"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "(Bi,Sb)2-xSnxSe3\u20134xCl4x",
+        "Property": "ThermCond",
+        "Value": 0.44,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2019.01.021"
+      },
+      {
+        "Original_Name_In_Paper": "(Bi,Sb)2-xSnxSe3\u20134xCl4x",
+        "Property": "ZT",
+        "Value": 0.61,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2019.01.021"
+      },
+      {
+        "Original_Name_In_Paper": "(Bi,Sb)2-xSnxSe3\u20134xCl4x",
+        "Property": "PF",
+        "Value": 0.0004,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2019.01.021"
+      }
+    ]
+  }
+}

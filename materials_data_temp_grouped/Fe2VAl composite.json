@@ -1,0 +1,18 @@
+{
+  "Material": "Fe2VAl composite",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2016.01.030"
+  ],
+  "Data_By_Temperature": {
+    "1423.0": [
+      {
+        "Original_Name_In_Paper": "Fe2VAl composite",
+        "Property": "ZT",
+        "Value": 0.00219,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.01.030"
+      }
+    ]
+  }
+}

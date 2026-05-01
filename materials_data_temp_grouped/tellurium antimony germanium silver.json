@@ -1,0 +1,18 @@
+{
+  "Material": "tellurium antimony germanium silver",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2012.09.023"
+  ],
+  "Data_By_Temperature": {
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "tellurium antimony germanium silver",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2012.09.023"
+      }
+    ]
+  }
+}

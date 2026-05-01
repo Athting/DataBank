@@ -1,0 +1,18 @@
+{
+  "Material": "TlScSe2",
+  "DOIs_Researched": [
+    "10.1039/c7dt03446f"
+  ],
+  "Data_By_Temperature": {
+    "2.0": [
+      {
+        "Original_Name_In_Paper": "TlScSe2",
+        "Property": "Conductivity",
+        "Value": 178.5714285714,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7dt03446f"
+      }
+    ]
+  }
+}

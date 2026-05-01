@@ -1,0 +1,18 @@
+{
+  "Material": "Si0.1La0.8Ti0.1Ga0.1Fe3Co",
+  "DOIs_Researched": [
+    "10.1039/c7qi00304h"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Si0.1La0.8Ti0.1Ga0.1Fe3CoSb12",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7qi00304h"
+      }
+    ]
+  }
+}

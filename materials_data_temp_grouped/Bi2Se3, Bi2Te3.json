@@ -1,0 +1,18 @@
+{
+  "Material": "Bi2Se3, Bi2Te3",
+  "DOIs_Researched": [
+    "10.1016/j.cryogenics.2020.103197"
+  ],
+  "Data_By_Temperature": {
+    "200.0": [
+      {
+        "Original_Name_In_Paper": "(Bi,Sb)2 (Te,Se)3",
+        "Property": "ZT",
+        "Value": 0.003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cryogenics.2020.103197"
+      }
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "doi": "10.1016/j.jeurceramsoc.2015.12.001",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "STNO : SrO",
+        "SrO"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "STNO : SrO",
+          "value": -0.0000449,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "STNO : SrO",
+          "value": 6050,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "STNO : SrO",
+          "value": 5.9,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "SrO",
+          "zt_value": 0.8,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "SrO",
+          "zt_value": 0.8,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "STNO : SrO",
+          "zt_value": 0.05,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SrO",
+          "zt_value": 0.03,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SrO",
+          "zt_value": 2,
+          "temperature": "1000.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

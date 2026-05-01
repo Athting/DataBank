@@ -1,0 +1,18 @@
+{
+  "Material": "InCl3",
+  "DOIs_Researched": [
+    "10.1007/s10853-019-04008-3"
+  ],
+  "Data_By_Temperature": {
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "InCl3",
+        "Property": "Conductivity",
+        "Value": 6200.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-019-04008-3"
+      }
+    ]
+  }
+}

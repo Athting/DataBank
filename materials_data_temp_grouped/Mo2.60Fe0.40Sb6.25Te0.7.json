@@ -1,0 +1,28 @@
+{
+  "Material": "Mo2.60Fe0.40Sb6.25Te0.7",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2014.04.006"
+  ],
+  "Data_By_Temperature": {
+    "325.0": [
+      {
+        "Original_Name_In_Paper": "Mo2.60Fe0.40Sb6.25Te0.75",
+        "Property": "ThermCond",
+        "Value": 4.55,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2014.04.006"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Mo2.60Fe0.40Sb6.25Te0.75",
+        "Property": "ZT",
+        "Value": 0.34,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2014.04.006"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Bi0.5Sb1.5Te3.02",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2020.121516"
+  ],
+  "Data_By_Temperature": {
+    "450.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3.02",
+        "Property": "ZT",
+        "Value": 0.9400000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2020.121516"
+      }
+    ]
+  }
+}

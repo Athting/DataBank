@@ -1,0 +1,56 @@
+{
+  "Material": "SWNT",
+  "DOIs_Researched": [
+    "10.1038/nmat4946",
+    "10.1016/j.apmt.2018.07.004",
+    "10.1016/j.progpolymsci.2011.11.003",
+    "10.1038/srep07951",
+    "10.1016/S1369-7021(10)70183-8"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "SWNT",
+        "Property": "ThermCond",
+        "Value": 35.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S1369-7021(10)70183-8"
+      },
+      {
+        "Original_Name_In_Paper": "SWNT",
+        "Property": "ZT",
+        "Value": 0.004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.progpolymsci.2011.11.003"
+      },
+      {
+        "Original_Name_In_Paper": "SWNT",
+        "Property": "PF",
+        "Value": 0.0015,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apmt.2018.07.004"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "SWNT",
+        "Property": "Seebeck",
+        "Value": 0.00017,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/srep07951"
+      },
+      {
+        "Original_Name_In_Paper": "SWNT",
+        "Property": "Seebeck",
+        "Value": 4e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/nmat4946"
+      }
+    ]
+  }
+}

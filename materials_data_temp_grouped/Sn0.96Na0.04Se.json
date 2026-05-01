@@ -1,0 +1,27 @@
+{
+  "Material": "Sn0.96Na0.04Se",
+  "DOIs_Researched": [
+    "10.1007/s11664-016-5084-2",
+    "10.1007/s10853-020-04949-0"
+  ],
+  "Data_By_Temperature": {
+    "550.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.96Na0.04Se",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-016-5084-2"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.96Na0.04Se",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      }
+    ]
+  }
+}

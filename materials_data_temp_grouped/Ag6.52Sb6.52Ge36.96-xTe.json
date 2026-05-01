@@ -1,0 +1,26 @@
+{
+  "Material": "Ag6.52Sb6.52Ge36.96-xTe",
+  "DOIs_Researched": [
+    "10.1039/c6tc02501c"
+  ],
+  "Data_By_Temperature": {
+    "730.0": [
+      {
+        "Original_Name_In_Paper": "Ag6.52Sb6.52Ge36.96\u2212xTe50\u2212y",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": "Dy in place of Ge",
+        "Source_DOI": "10.1039/c6tc02501c"
+      },
+      {
+        "Original_Name_In_Paper": "Ag6.52Sb6.52Ge36.96\u2212xTe50\u2212y",
+        "Property": "PF",
+        "Value": 0.0028,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": "Dy in place of Ge",
+        "Source_DOI": "10.1039/c6tc02501c"
+      }
+    ]
+  }
+}

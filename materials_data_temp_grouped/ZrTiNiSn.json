@@ -1,0 +1,35 @@
+{
+  "Material": "ZrTiNiSn",
+  "DOIs_Researched": [
+    "10.1007/s10853-020-04949-0",
+    "10.1016/j.matlet.2017.05.023"
+  ],
+  "Data_By_Temperature": {
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "Zr0.3Ti0.7NiSn",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2017.05.023"
+      },
+      {
+        "Original_Name_In_Paper": "Zr0.3Ti0.7NiSn",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2017.05.023"
+      },
+      {
+        "Original_Name_In_Paper": "Zr0.3Ti0.7NiSn",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      }
+    ]
+  }
+}

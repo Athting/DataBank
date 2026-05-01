@@ -1,0 +1,42 @@
+{
+  "Material": "Zn0.915Na0.005Cd0.08S",
+  "DOIs_Researched": [
+    "10.1016/j.jmat.2016.08.003"
+  ],
+  "Data_By_Temperature": {
+    "623.0": [
+      {
+        "Original_Name_In_Paper": "Zn0.915Na0.005Cd0.08Sb",
+        "Property": "ZT",
+        "Value": 1.22,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2016.08.003"
+      },
+      {
+        "Original_Name_In_Paper": "Zn0.915Na0.005Cd0.08Sb",
+        "Property": "ZT",
+        "Value": 1.22,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2016.08.003"
+      },
+      {
+        "Original_Name_In_Paper": "Zn0.915Na0.005Cd0.08Sb",
+        "Property": "ZT",
+        "Value": 1.22,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2016.08.003"
+      },
+      {
+        "Original_Name_In_Paper": "Zn0.915Na0.005Cd0.08Sb",
+        "Property": "ZT",
+        "Value": 0.45,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2016.08.003"
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "Material": "BiOBr",
+  "DOIs_Researched": [
+    "10.1016/j.rinp.2020.103584"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "bulk BiOBr",
+        "Property": "ThermCond",
+        "Value": 3.98,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rinp.2020.103584"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "QL BiOBr",
+        "Property": "ThermCond",
+        "Value": 5.54,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rinp.2020.103584"
+      }
+    ],
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "monolayer BiOBr",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rinp.2020.103584"
+      }
+    ]
+  }
+}

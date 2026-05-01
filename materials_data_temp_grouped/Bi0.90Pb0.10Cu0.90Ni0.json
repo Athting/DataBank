@@ -1,0 +1,26 @@
+{
+  "Material": "Bi0.90Pb0.10Cu0.90Ni0",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2018.12.001"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "doped Bi0.90Pb0.10Cu0.90Ni0.10SeO",
+        "Property": "ZT",
+        "Value": 1.08,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2018.12.001"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.90Pb0.10Cu0.90Ni0.10SeO",
+        "Property": "PF",
+        "Value": 0.0006100000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2018.12.001"
+      }
+    ]
+  }
+}

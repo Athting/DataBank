@@ -1,0 +1,18 @@
+{
+  "Material": "\u03c1 \u2272 5 \u00d7 10 \u2212 6 \u03a9 m",
+  "DOIs_Researched": [
+    "10.1039/c002057e"
+  ],
+  "Data_By_Temperature": {
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "\u03c1 \u2272 5 \u00d7 10 \u2212 6 \u03a9 m",
+        "Property": "Conductivity",
+        "Value": 1000000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c002057e"
+      }
+    ]
+  }
+}

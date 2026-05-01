@@ -1,0 +1,44 @@
+{
+  "Material": "PbCuSe",
+  "DOIs_Researched": [
+    "10.1039/d0ta00174k"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "PbCu0.01Se",
+        "Property": "ZT",
+        "Value": 1.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta00174k"
+      },
+      {
+        "Original_Name_In_Paper": "PbCu0.01Se",
+        "Property": "ZT",
+        "Value": 1.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta00174k"
+      },
+      {
+        "Original_Name_In_Paper": "PbCu0.01Se",
+        "Property": "ZT",
+        "Value": 1.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta00174k"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "PbCu0.01Se",
+        "Property": "Conductivity",
+        "Value": 280600.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta00174k"
+      }
+    ]
+  }
+}

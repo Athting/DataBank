@@ -1,0 +1,18 @@
+{
+  "Material": "SrTiO3.5Gd",
+  "DOIs_Researched": [
+    "10.1039/c6ra19661f"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "5 % Gd-doped (SrO)1(SrTiO3)2",
+        "Property": "ZT",
+        "Value": 0.24,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra19661f"
+      }
+    ]
+  }
+}

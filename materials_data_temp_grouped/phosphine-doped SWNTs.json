@@ -1,0 +1,18 @@
+{
+  "Material": "phosphine-doped SWNTs",
+  "DOIs_Researched": [
+    "10.1557/mrc.2017.48"
+  ],
+  "Data_By_Temperature": {
+    "310.0": [
+      {
+        "Original_Name_In_Paper": "phosphine-doped SWNTs",
+        "Property": "Seebeck",
+        "Value": -7.2e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1557/mrc.2017.48"
+      }
+    ]
+  }
+}

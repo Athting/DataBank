@@ -1,0 +1,18 @@
+{
+  "Material": "Bi2S3\u2212x",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2008.08.022"
+  ],
+  "Data_By_Temperature": {
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "Bi2S3\u2212x",
+        "Property": "Conductivity",
+        "Value": 10000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2008.08.022"
+      }
+    ]
+  }
+}

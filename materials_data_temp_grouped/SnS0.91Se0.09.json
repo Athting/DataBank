@@ -1,0 +1,18 @@
+{
+  "Material": "SnS0.91Se0.09",
+  "DOIs_Researched": [
+    "10.1039/d0ta02614j"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "p-type SnS0.91Se0.09",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta02614j"
+      }
+    ]
+  }
+}

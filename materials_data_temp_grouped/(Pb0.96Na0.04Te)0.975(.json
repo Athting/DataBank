@@ -1,0 +1,18 @@
+{
+  "Material": "(Pb0.96Na0.04Te)0.975(",
+  "DOIs_Researched": [
+    "10.1007/s10853-020-04949-0"
+  ],
+  "Data_By_Temperature": {
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "composite (Pb0.96Na0.04Te)0.975(Sm2Se3)0.025",
+        "Property": "ThermCond",
+        "Value": 0.53,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      }
+    ]
+  }
+}

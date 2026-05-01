@@ -1,0 +1,18 @@
+{
+  "Material": "Bi2O2SeTe",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2019.104394"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Bi2O2-2xTe2xSe",
+        "Property": "PF",
+        "Value": 0.0005,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": "Te substitution",
+        "Source_DOI": "10.1016/j.nanoen.2019.104394"
+      }
+    ]
+  }
+}

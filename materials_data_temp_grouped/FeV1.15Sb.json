@@ -1,0 +1,18 @@
+{
+  "Material": "FeV1.15Sb",
+  "DOIs_Researched": [
+    "10.1016/j.intermet.2012.07.037"
+  ],
+  "Data_By_Temperature": {
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "FeV1.15Sb",
+        "Property": "ZT",
+        "Value": 0.31,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2012.07.037"
+      }
+    ]
+  }
+}

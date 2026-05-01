@@ -1,0 +1,18 @@
+{
+  "Material": "(RuSbSe)0.9(CoSb2)0.i",
+  "DOIs_Researched": [
+    "10.1016/S0022-3697(97)00135-2"
+  ],
+  "Data_By_Temperature": {
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "(RuSbSe)o.9(CoSb2)o.i",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0022-3697(97)00135-2"
+      }
+    ]
+  }
+}

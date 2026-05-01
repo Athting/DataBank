@@ -1,0 +1,18 @@
+{
+  "Material": "Ca1.92Bi0.08Co2O5",
+  "DOIs_Researched": [
+    "10.1016/B978-0-444-59550-8.00013-2"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "Ca1.92Bi0.08Co2O5",
+        "Property": "PF",
+        "Value": 0.00044,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-444-59550-8.00013-2"
+      }
+    ]
+  }
+}

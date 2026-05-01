@@ -1,0 +1,36 @@
+{
+  "Material": "SnSSe",
+  "DOIs_Researched": [
+    "10.1039/d0cp01939a"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "SnSSe",
+        "Property": "ThermCond",
+        "Value": 11.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0cp01939a"
+      },
+      {
+        "Original_Name_In_Paper": "SnSSe",
+        "Property": "ThermCond",
+        "Value": 11.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0cp01939a"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "SnSSe monolayer",
+        "Property": "PF",
+        "Value": 0.006500000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0cp01939a"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Cu3Sb0.97Ti0.03Se4",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2018.04.035"
+  ],
+  "Data_By_Temperature": {
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "Cu3Sb0.97Ti0.03Se4",
+        "Property": "PF",
+        "Value": 0.0006169999999999999,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2018.04.035"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Ca0.96Dy0.02Bi0.02MnO3",
+  "DOIs_Researched": [
+    "10.1016/j.apenergy.2014.12.075"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "Ca0.96Dy0.02Bi0.02MnO3",
+        "Property": "ZT",
+        "Value": 0.21,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apenergy.2014.12.075"
+      }
+    ]
+  }
+}

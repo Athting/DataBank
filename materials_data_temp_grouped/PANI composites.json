@@ -1,0 +1,18 @@
+{
+  "Material": "PANI composites",
+  "DOIs_Researched": [
+    "10.1016/j.mee.2015.03.030"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "PANI composites",
+        "Property": "ZT",
+        "Value": 0.004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mee.2015.03.030"
+      }
+    ]
+  }
+}

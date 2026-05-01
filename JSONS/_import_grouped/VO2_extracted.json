@@ -1,0 +1,84 @@
+{
+  "doi": "10.1016/j.jeurceramsoc.2020.05.052",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "VO2(B) thin films",
+        "VO2 nanowires",
+        "hydric VO2",
+        "VO2(R",
+        "VO2",
+        "VO2(B) film"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "VO2(B) thin films",
+          "value": 200,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "VO2(B) film",
+          "value": 1000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "368.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "VO2 nanowires",
+          "value": 7600000000000,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "250.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "hydric VO2",
+          "zt_value": 0.12,
+          "temperature": "210.0 K"
+        },
+        {
+          "material": "VO2(R",
+          "zt_value": 0.089,
+          "temperature": "210.0 K"
+        },
+        {
+          "material": "VO2",
+          "zt_value": 0.07100000000000001,
+          "temperature": "210.0 K"
+        },
+        {
+          "material": "VO2",
+          "zt_value": 0.12,
+          "temperature": "210.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

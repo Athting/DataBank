@@ -1,0 +1,18 @@
+{
+  "Material": "Yb0.1Ca0.88Dy0.02MnO",
+  "DOIs_Researched": [
+    "10.1016/j.materresbull.2012.05.061"
+  ],
+  "Data_By_Temperature": {
+    "1069.0": [
+      {
+        "Original_Name_In_Paper": "Yb0.1Ca0.88Dy0.02MnO3",
+        "Property": "ZT",
+        "Value": 0.11,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2012.05.061"
+      }
+    ]
+  }
+}

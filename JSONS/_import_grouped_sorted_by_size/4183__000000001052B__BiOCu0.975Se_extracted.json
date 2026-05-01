@@ -1,0 +1,49 @@
+{
+  "doi": "10.1016/j.matchemphys.2016.03.045",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Cu-deficient BiOCu0.975Se"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Cu-deficient BiOCu0.975Se",
+          "zt_value": 0.8,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "Cu-deficient BiOCu0.975Se",
+          "zt_value": 0.7000000000000001,
+          "temperature": "850.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "Material": "Sn0.97Na0.03S",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2019.03.031"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.97Na0.03S",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.03.031"
+      }
+    ],
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.97Na0.03S",
+        "Property": "PF",
+        "Value": 0.00048000000000000007,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.03.031"
+      }
+    ]
+  }
+}

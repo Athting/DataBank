@@ -1,0 +1,26 @@
+{
+  "Material": "SrAl",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2016.08.030"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "doped Sr3 Al",
+        "Property": "ThermCond",
+        "Value": 0.75,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2016.08.030"
+      },
+      {
+        "Original_Name_In_Paper": "doped Sr3 Al",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2016.08.030"
+      }
+    ]
+  }
+}

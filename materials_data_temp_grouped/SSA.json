@@ -1,0 +1,38 @@
+{
+  "Material": "SSA",
+  "DOIs_Researched": [
+    "10.1016/j.enconman.2014.06.010",
+    "10.1016/S0038-1098(98)00452-9",
+    "10.1016/j.enconman.2019.05.097"
+  ],
+  "Data_By_Temperature": {
+    "853.0": [
+      {
+        "Original_Name_In_Paper": "SSA",
+        "Property": "ThermCond",
+        "Value": 3000.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.enconman.2019.05.097"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "SSA",
+        "Property": "ZT",
+        "Value": 0.64,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.enconman.2014.06.010"
+      },
+      {
+        "Original_Name_In_Paper": "SSA",
+        "Property": "Conductivity",
+        "Value": 2.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0038-1098(98)00452-9"
+      }
+    ]
+  }
+}

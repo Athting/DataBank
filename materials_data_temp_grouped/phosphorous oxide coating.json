@@ -1,0 +1,18 @@
+{
+  "Material": "phosphorous oxide coating",
+  "DOIs_Researched": [
+    "10.1016/j.sna.2007.04.045"
+  ],
+  "Data_By_Temperature": {
+    "1373.0": [
+      {
+        "Original_Name_In_Paper": "phosphorous oxide coating",
+        "Property": "Conductivity",
+        "Value": 100000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.sna.2007.04.045"
+      }
+    ]
+  }
+}

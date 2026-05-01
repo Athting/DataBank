@@ -1,0 +1,96 @@
+{
+  "Material": "Cs2BiAgCl6",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2018.03.137"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Cs2BiAgCl6",
+        "Property": "ThermCond",
+        "Value": 0.078,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.03.137"
+      },
+      {
+        "Original_Name_In_Paper": "Cs2BiAgCl6",
+        "Property": "ThermCond",
+        "Value": 0.078,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.03.137"
+      },
+      {
+        "Original_Name_In_Paper": "Cs2BiAgCl6",
+        "Property": "PF",
+        "Value": 0.17698000000000003,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.03.137"
+      },
+      {
+        "Original_Name_In_Paper": "Cs2BiAgCl6",
+        "Property": "PF",
+        "Value": 0.17698000000000003,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.03.137"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Cs2BiAgCl6",
+        "Property": "ThermCond",
+        "Value": 0.078,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.03.137"
+      },
+      {
+        "Original_Name_In_Paper": "Cs2BiAgCl6",
+        "Property": "ThermCond",
+        "Value": 72.63,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.03.137"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Cs2BiAgCl6",
+        "Property": "ZT",
+        "Value": 0.775,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.03.137"
+      },
+      {
+        "Original_Name_In_Paper": "Cs2BiAgCl6",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.03.137"
+      }
+    ],
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "Cs2BiAgCl6",
+        "Property": "Seebeck",
+        "Value": 0.00024000000000000003,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.03.137"
+      },
+      {
+        "Original_Name_In_Paper": "Cs2BiAgCl6",
+        "Property": "Seebeck",
+        "Value": 0.00024000000000000003,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.03.137"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Material": "Ba0.94Na0.06Zn2Sb2",
+  "DOIs_Researched": [
+    "10.1039/c6ta03012b"
+  ],
+  "Data_By_Temperature": {
+    "704.0": [
+      {
+        "Original_Name_In_Paper": "Ba0.94Na0.06Zn2Sb2",
+        "Property": "PF",
+        "Value": 0.001046,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta03012b"
+      },
+      {
+        "Original_Name_In_Paper": "Ba0.94Na0.06Zn2Sb2",
+        "Property": "PF",
+        "Value": 0.001046,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta03012b"
+      }
+    ]
+  }
+}

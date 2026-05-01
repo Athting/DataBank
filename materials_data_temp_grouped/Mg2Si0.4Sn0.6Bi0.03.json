@@ -1,0 +1,18 @@
+{
+  "Material": "Mg2Si0.4Sn0.6Bi0.03",
+  "DOIs_Researched": [
+    "10.1007/s10854-018-9168-z"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Si0.4Sn0.6Bi0.03",
+        "Property": "ZT",
+        "Value": 1.55,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-018-9168-z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "Material": "MgSb",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2017.02.015",
+    "10.1016/S0022-4596(06)00280-5"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "pristine MgAg0.97Sb0.99",
+        "Property": "ThermCond",
+        "Value": 0.66,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2017.02.015"
+      }
+    ],
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Mg 3 Sb",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0022-4596(06)00280-5"
+      }
+    ]
+  }
+}

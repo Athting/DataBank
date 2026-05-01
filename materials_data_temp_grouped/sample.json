@@ -1,0 +1,18 @@
+{
+  "Material": "sample",
+  "DOIs_Researched": [
+    "10.1016/j.mssp.2016.07.024"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "sample",
+        "Property": "Conductivity",
+        "Value": 58000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2016.07.024"
+      }
+    ]
+  }
+}

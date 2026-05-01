@@ -1,0 +1,18 @@
+{
+  "Material": "YbMg2-xNxSb2",
+  "DOIs_Researched": [
+    "10.1007/s40843-019-1199-4"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "YbMg2-xZnxSb2",
+        "Property": "ThermCond",
+        "Value": 1.15,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s40843-019-1199-4"
+      }
+    ]
+  }
+}

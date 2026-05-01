@@ -1,0 +1,112 @@
+{
+  "Material": "Sb2Si2Te6",
+  "DOIs_Researched": [
+    "10.1016/j.joule.2019.10.010"
+  ],
+  "Data_By_Temperature": {
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "Sb2Si2Te6",
+        "Property": "ThermCond",
+        "Value": 0.29,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2019.10.010"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Si2Te6",
+        "Property": "ThermCond",
+        "Value": 0.48,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2019.10.010"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Si2Te6",
+        "Property": "ZT",
+        "Value": 1.08,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2019.10.010"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Si2Te6",
+        "Property": "ZT",
+        "Value": 1.65,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2019.10.010"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Si2Te6",
+        "Property": "ZT",
+        "Value": 1.08,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2019.10.010"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Si2Te6",
+        "Property": "ZT",
+        "Value": 1.08,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2019.10.010"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Sb2Si2Te6",
+        "Property": "ThermCond",
+        "Value": 0.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2019.10.010"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Si2Te6",
+        "Property": "ZT",
+        "Value": 1.08,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2019.10.010"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Si2Te6",
+        "Property": "Seebeck",
+        "Value": 0.00012000000000000002,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2019.10.010"
+      }
+    ],
+    "310.0": [
+      {
+        "Original_Name_In_Paper": "Sb2Si2Te6",
+        "Property": "ThermCond",
+        "Value": 1.33,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2019.10.010"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Sb2Si2Te6",
+        "Property": "Seebeck",
+        "Value": 0.0002381,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2019.10.010"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Si2Te6",
+        "Property": "Conductivity",
+        "Value": 48300.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2019.10.010"
+      }
+    ]
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "doi": "10.1016/j.mtphys.2017.12.004",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Yb0.35Co4Sb12",
+        "Yb0.2Co4Sb12",
+        "single-filled Yb0.3Co4Sb12 + 20 %",
+        "pure Yb0.3Co4Sb12 matrix",
+        "Yb0.19Co4Sb12",
+        "Yb0.25Co4Sb12 composite",
+        "Yb0.35Co4Sb12 composite",
+        "Yb0.30Co4Sb12",
+        "Yb0.25Co4Sb12",
+        "Yb0.26Co4Sb12 containing p-type GaSb nano-structured",
+        "Yb0.3Co4Sb12",
+        "Yb0.25Co4Sb12 / Yb2O3 nanocomposite",
+        "Yb0.27Co4Sb12 / rGO ( 0.72 vol % ) composite",
+        "Yb0.3Co4Sb12 composite with 0.5 vol % SiC",
+        "n-type Yb0.27Co4Sb12",
+        "Yb0.5Co4Sb12",
+        "Yb0.2Co4Sb12+y bulk materials",
+        "Yb0.2Co4Sb12 compound",
+        "nanostructured Yb0.2Co4Sb12+y",
+        "Yb0.26Co4Sb12",
+        "Yb0.2Co4Sb12 composite with PbTe",
+        "single-filled Yb0.2Co4Sb12 sample with 0.2 wt % Ni",
+        "Yb-filled n-type Yb0.19Co4Sb12",
+        "Yb0.15Co4Sb12",
+        "Yb0.2Co4Sb12+y nanostructured bulk materials"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "Yb0.25Co4Sb12",
+          "value": 0.00021099999999999998,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "400.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "Yb0.2Co4Sb12",
+          "value": 87719.298245614,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Yb0.35Co4Sb12",
+          "value": 2.8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "single-filled Yb0.3Co4Sb12 + 20 %",
+          "value": 0.55,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "pure Yb0.3Co4Sb12 matrix",
+          "value": 2.59,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "600.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Yb0.35Co4Sb12",
+          "value": 0.0053,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "823.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Yb0.19Co4Sb12",
+          "zt_value": 1,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "Yb0.25Co4Sb12 composite",
+          "zt_value": 0.09,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "Yb0.19Co4Sb12",
+          "zt_value": 1,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "Yb0.19Co4Sb12",
+          "zt_value": 1,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "Yb0.19Co4Sb12",
+          "zt_value": 1,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "Yb0.35Co4Sb12",
+          "zt_value": 1,
+          "temperature": "650.0 K"
+        },
+        {
+          "material": "Yb0.35Co4Sb12 composite",
+          "zt_value": 1,
+          "temperature": "603.0 K"
+        },
+        {
+          "material": "Yb0.30Co4Sb12",
+          "zt_value": 1.3,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "Yb0.25Co4Sb12",
+          "zt_value": 1.3,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "Yb0.26Co4Sb12 containing p-type GaSb nano-structured",
+          "zt_value": 1.45,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "Yb0.3Co4Sb12",
+          "zt_value": 1.5,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "Yb0.3Co4Sb12",
+          "zt_value": 1.5,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "Yb0.25Co4Sb12 / Yb2O3 nanocomposite",
+          "zt_value": 1,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "Yb0.27Co4Sb12 / rGO ( 0.72 vol % ) composite",
+          "zt_value": 1.51,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "Yb0.3Co4Sb12",
+          "zt_value": 1.5,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "Yb0.3Co4Sb12 composite with 0.5 vol % SiC",
+          "zt_value": 1.42,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "n-type Yb0.27Co4Sb12",
+          "zt_value": 1.2,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "Yb0.2Co4Sb12",
+          "zt_value": 1,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "Yb0.5Co4Sb12",
+          "zt_value": 1.22,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "Yb0.5Co4Sb12",
+          "zt_value": 1.22,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "Yb0.35Co4Sb12",
+          "zt_value": 1.2,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "Yb0.35Co4Sb12",
+          "zt_value": 1.4,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "Yb0.35Co4Sb12",
+          "zt_value": 1.4,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "Yb0.3Co4Sb12",
+          "zt_value": 1.2,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "Yb0.2Co4Sb12+y bulk materials",
+          "zt_value": 1.26,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "Yb0.2Co4Sb12 compound",
+          "zt_value": 0.91,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "nanostructured Yb0.2Co4Sb12+y",
+          "zt_value": 1.26,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "Yb0.25Co4Sb12",
+          "zt_value": 1.3,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "Yb0.26Co4Sb12",
+          "zt_value": 1.2,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "Yb0.2Co4Sb12 composite with PbTe",
+          "zt_value": 0.78,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "Yb0.2Co4Sb12",
+          "zt_value": 1.16,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "Yb0.19Co4Sb12",
+          "zt_value": 0.8,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "single-filled Yb0.2Co4Sb12 sample with 0.2 wt % Ni",
+          "zt_value": 1.07,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "Yb-filled n-type Yb0.19Co4Sb12",
+          "zt_value": 1,
+          "temperature": "646.0 K"
+        },
+        {
+          "material": "Yb0.15Co4Sb12",
+          "zt_value": 0.7000000000000001,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "Yb0.15Co4Sb12",
+          "zt_value": 0.7000000000000001,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "Yb0.2Co4Sb12+y nanostructured bulk materials",
+          "zt_value": 1.4,
+          "temperature": "373.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

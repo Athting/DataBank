@@ -1,0 +1,18 @@
+{
+  "Material": "K0.02Pb0.98Te0.15Se0.8",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2015.02.026"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "p-type K0.02Pb0.98Te0.15Se0.85",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2015.02.026"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Ba / Ag",
+  "DOIs_Researched": [
+    "10.1016/j.physb.2009.04.002"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "Ba / Ag",
+        "Property": "Seebeck",
+        "Value": 0.00017199999999999998,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2009.04.002"
+      }
+    ]
+  }
+}

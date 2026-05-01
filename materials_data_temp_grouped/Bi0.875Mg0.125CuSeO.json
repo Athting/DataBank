@@ -1,0 +1,52 @@
+{
+  "Material": "Bi0.875Mg0.125CuSeO",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2012.10.160"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.875Mg0.125CuSeO",
+        "Property": "ThermCond",
+        "Value": 0.30000000000000004,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2012.10.160"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.875Mg0.125CuSeO",
+        "Property": "ThermCond",
+        "Value": 0.46,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2012.10.160"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.875Mg0.125CuSeO",
+        "Property": "ThermCond",
+        "Value": 0.46,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": "Ca and Sr doping",
+        "Source_DOI": "10.1016/j.jallcom.2012.10.160"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.875Mg0.125CuSeO",
+        "Property": "Seebeck",
+        "Value": 0.000222,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2012.10.160"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.875Mg0.125CuSeO",
+        "Property": "Conductivity",
+        "Value": 3200.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2012.10.160"
+      }
+    ]
+  }
+}

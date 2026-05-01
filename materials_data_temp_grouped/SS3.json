@@ -1,0 +1,18 @@
+{
+  "Material": "SS3",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2017.07.011"
+  ],
+  "Data_By_Temperature": {
+    "423.0": [
+      {
+        "Original_Name_In_Paper": "SS3",
+        "Property": "ZT",
+        "Value": 0.79,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2017.07.011"
+      }
+    ]
+  }
+}

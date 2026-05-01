@@ -1,0 +1,18 @@
+{
+  "Material": "LaCoO_3",
+  "DOIs_Researched": [
+    "10.1016/B978-012654640-8-50028-6"
+  ],
+  "Data_By_Temperature": {
+    "1273.0": [
+      {
+        "Original_Name_In_Paper": "doped LaCo03",
+        "Property": "Conductivity",
+        "Value": 100000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-012654640-8-50028-6"
+      }
+    ]
+  }
+}

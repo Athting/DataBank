@@ -1,0 +1,29 @@
+{
+  "Material": "CuGaSbTe2",
+  "DOIs_Researched": [
+    "10.1016/j.intermet.2015.01.009",
+    "10.1039/c3ta15211a"
+  ],
+  "Data_By_Temperature": {
+    "721.0": [
+      {
+        "Original_Name_In_Paper": "Cu0.98GaSb0.02Te2",
+        "Property": "ZT",
+        "Value": 1.07,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta15211a"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Cu0.98GaSb0.02Te2",
+        "Property": "ZT",
+        "Value": 1.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2015.01.009"
+      }
+    ]
+  }
+}

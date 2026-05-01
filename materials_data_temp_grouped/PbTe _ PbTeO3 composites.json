@@ -1,0 +1,26 @@
+{
+  "Material": "PbTe / PbTeO3 composites",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2019.05.245"
+  ],
+  "Data_By_Temperature": {
+    "380.0": [
+      {
+        "Original_Name_In_Paper": "PbTe / PbTeO3 composites",
+        "Property": "ThermCond",
+        "Value": 0.30000000000000004,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.05.245"
+      },
+      {
+        "Original_Name_In_Paper": "PbTe / PbTeO3 composites",
+        "Property": "Seebeck",
+        "Value": 0.00042699999999999997,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.05.245"
+      }
+    ]
+  }
+}

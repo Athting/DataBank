@@ -1,0 +1,18 @@
+{
+  "Material": "MgCaAgSb",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2016.11.010"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Mg0.99Ca0.01Ag0.97Sb0.99",
+        "Property": "Conductivity",
+        "Value": 55555.5555555556,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2016.11.010"
+      }
+    ]
+  }
+}

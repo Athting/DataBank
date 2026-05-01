@@ -1,0 +1,18 @@
+{
+  "Material": "Bi1.9996Sn0.0004Te1.5Se1",
+  "DOIs_Researched": [
+    "10.1134/S0020168520060059"
+  ],
+  "Data_By_Temperature": {
+    "0.0033": [
+      {
+        "Original_Name_In_Paper": "Bi1.9996Sn0.0004Te1.5Se1.5",
+        "Property": "ZT",
+        "Value": 0.0033,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1134/S0020168520060059"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "Material": "Ce2Ni3Si5",
+  "DOIs_Researched": [
+    "10.1016/S0925-8388(99)00483-1"
+  ],
+  "Data_By_Temperature": {
+    "150.0": [
+      {
+        "Original_Name_In_Paper": "Ce2Ni3Si5",
+        "Property": "ThermCond",
+        "Value": 5.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(99)00483-1"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ce2Ni3Si5",
+        "Property": "Conductivity",
+        "Value": 333333.3333333333,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(99)00483-1"
+      },
+      {
+        "Original_Name_In_Paper": "Ce2Ni3Si5",
+        "Property": "Seebeck",
+        "Value": 3.2e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(99)00483-1"
+      }
+    ]
+  }
+}

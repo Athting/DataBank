@@ -1,0 +1,131 @@
+{
+  "Material": "Sn0.97Bi0.03Te",
+  "DOIs_Researched": [
+    "10.1039/c6qi00263c",
+    "10.1039/c7ee02530k"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Sn0.97Bi0.03Te\u20135 % PbTe",
+        "Property": "ThermCond",
+        "Value": 6.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ee02530k"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.97Bi0.03Te",
+        "Property": "ThermCond",
+        "Value": 4.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ee02530k"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.97Bi0.03Te",
+        "Property": "ThermCond",
+        "Value": 2.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6qi00263c"
+      }
+    ],
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.97Bi0.03Te\u20134 % PbTe",
+        "Property": "ThermCond",
+        "Value": 0.6000000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": "introducing PbTe",
+        "Source_DOI": "10.1039/c7ee02530k"
+      }
+    ],
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.97Bi0.03Te sample without SrTe",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6qi00263c"
+      }
+    ],
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.97Bi0.03Te\u20133 % PbTe",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ee02530k"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.97Bi0.03Te\u20133 % PbTe",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ee02530k"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.97Bi0.03Te\u20133 % PbTe",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ee02530k"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.97Bi0.03Te\u20133 % PbTe",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ee02530k"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.97Bi0.03Te",
+        "Property": "Seebeck",
+        "Value": 0.00017,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ee02530k"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.97Bi0.03Te\u20133 % PbTe",
+        "Property": "Seebeck",
+        "Value": 0.0002,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ee02530k"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.97Bi0.03Te",
+        "Property": "PF",
+        "Value": 0.002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ee02530k"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.97Bi0.03Te\u20133 % PbTe",
+        "Property": "PF",
+        "Value": 0.0025,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ee02530k"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.97Bi0.03Te\u20133 % PbTe",
+        "Property": "ZT",
+        "Value": 0.52,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ee02530k"
+      }
+    ]
+  }
+}

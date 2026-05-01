@@ -1,0 +1,26 @@
+{
+  "Material": "MoBi2(Se1\u2212xTex)5",
+  "DOIs_Researched": [
+    "10.1016/j.materresbull.2012.08.026"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "MoBi2(Se1\u2212xTex)5 thin films",
+        "Property": "ZT",
+        "Value": 0.0143,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2012.08.026"
+      },
+      {
+        "Original_Name_In_Paper": "MoBi2(Se1\u2212xTex)5 thin films",
+        "Property": "PF",
+        "Value": 0.012,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2012.08.026"
+      }
+    ]
+  }
+}

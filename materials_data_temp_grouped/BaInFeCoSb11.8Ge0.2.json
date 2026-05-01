@@ -1,0 +1,18 @@
+{
+  "Material": "BaInFeCoSb11.8Ge0.2",
+  "DOIs_Researched": [
+    "10.1007/s11664-012-2265-5"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Ba0.3In0.2FeCo3Sb11.8Ge0.2",
+        "Property": "ThermCond",
+        "Value": 1.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-012-2265-5"
+      }
+    ]
+  }
+}

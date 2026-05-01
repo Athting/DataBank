@@ -1,0 +1,18 @@
+{
+  "Material": "FeVNbSb",
+  "DOIs_Researched": [
+    "10.1038/ncomms9144"
+  ],
+  "Data_By_Temperature": {
+    "1100.0": [
+      {
+        "Original_Name_In_Paper": "p-type Fe(V,Nb)Sb-based",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/ncomms9144"
+      }
+    ]
+  }
+}

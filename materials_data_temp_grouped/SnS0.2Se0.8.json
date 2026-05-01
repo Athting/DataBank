@@ -1,0 +1,134 @@
+{
+  "Material": "SnS0.2Se0.8",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2018.02.157",
+    "10.1016/j.pmatsci.2018.04.005",
+    "10.1039/c7ta09941j",
+    "10.1039/c4ta06955b",
+    "10.1038/srep43262"
+  ],
+  "Data_By_Temperature": {
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "SnS0.2Se0.8",
+        "Property": "ThermCond",
+        "Value": 0.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2018.04.005"
+      },
+      {
+        "Original_Name_In_Paper": "SnS0.2Se0.8",
+        "Property": "ZT",
+        "Value": 0.8200000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ta09941j"
+      },
+      {
+        "Original_Name_In_Paper": "SnS0.2Se0.8",
+        "Property": "ZT",
+        "Value": 0.64,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/srep43262"
+      },
+      {
+        "Original_Name_In_Paper": "SnS0.2Se0.8",
+        "Property": "ZT",
+        "Value": 0.64,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/srep43262"
+      },
+      {
+        "Original_Name_In_Paper": "SnS0.2Se0.8",
+        "Property": "ZT",
+        "Value": 0.64,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/srep43262"
+      },
+      {
+        "Original_Name_In_Paper": "undoped SnS0.2Se0.8",
+        "Property": "ZT",
+        "Value": 0.76,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.02.157"
+      },
+      {
+        "Original_Name_In_Paper": "SnS0.2Se0.8",
+        "Property": "ZT",
+        "Value": 0.45,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.02.157"
+      },
+      {
+        "Original_Name_In_Paper": "SnS0.2Se0.8",
+        "Property": "ZT",
+        "Value": 0.76,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.02.157"
+      },
+      {
+        "Original_Name_In_Paper": "undoped SnS0.2Se0.8",
+        "Property": "ZT",
+        "Value": 0.76,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.02.157"
+      },
+      {
+        "Original_Name_In_Paper": "SnS0.2Se0.8",
+        "Property": "ZT",
+        "Value": 0.8200000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta06955b"
+      },
+      {
+        "Original_Name_In_Paper": "SnS0.2Se0.8",
+        "Property": "ZT",
+        "Value": 0.8200000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2018.04.005"
+      },
+      {
+        "Original_Name_In_Paper": "SnS0.2Se0.8",
+        "Property": "ZT",
+        "Value": 0.64,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2018.04.005"
+      },
+      {
+        "Original_Name_In_Paper": "SnS0.2Se0.8",
+        "Property": "PF",
+        "Value": 0.00037000000000000005,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2018.04.005"
+      },
+      {
+        "Original_Name_In_Paper": "SnS0.2Se0.8",
+        "Property": "PF",
+        "Value": 0.00037000000000000005,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/srep43262"
+      },
+      {
+        "Original_Name_In_Paper": "SnS0.2Se0.8",
+        "Property": "Conductivity",
+        "Value": 3310.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/srep43262"
+      }
+    ]
+  }
+}

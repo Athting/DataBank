@@ -1,0 +1,18 @@
+{
+  "Material": "n-type TiNiSn-based compounds",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2017.06.011"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "n-type TiNiSn-based compounds",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2017.06.011"
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "Material": "PbBr2",
+  "DOIs_Researched": [
+    "10.1039/c6ra28332b",
+    "10.1007/s10853-020-04949-0"
+  ],
+  "Data_By_Temperature": {
+    "713.0": [
+      {
+        "Original_Name_In_Paper": "PbBr2",
+        "Property": "Conductivity",
+        "Value": 4000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": "doping of PbBr2",
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      },
+      {
+        "Original_Name_In_Paper": "PbBr2",
+        "Property": "Conductivity",
+        "Value": 4020.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra28332b"
+      }
+    ]
+  }
+}

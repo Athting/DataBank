@@ -1,0 +1,578 @@
+{
+  "doi": "10.1039/c8ce00708j",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "bismuth antimony telluride alloys",
+        "pure BiSbTe matrix",
+        "2-wt % Y2O3 added BiSbTe",
+        "p-type nanocrystalline BiSbTe bulk alloy",
+        "BiSbTe / x-Nd2O3 compounds",
+        "BiSbTe",
+        "BiSbTe alloy",
+        "p-type nanocrystalline bismuth antimony telluride",
+        "bulk BiSbTe",
+        "bulk p-type nanocrystalline bismuth antimony telluride",
+        "BiSbTe bulk nano-crystalline alloys",
+        "bulk bismuth antimony telluride",
+        "p-type BiSbTe alloy",
+        "BiSbTe films",
+        "BiSbTe matrix",
+        "bismuth antimony telluride",
+        "Bi–Sb–Te",
+        "BiSbTe + 2 wt % Y2O3 composite bulk",
+        "Bi–Sb–Te superlattice",
+        "Bismuth antimony telluride",
+        "Bi–Sb–Te alloy",
+        "BiSbTe composite",
+        "matrix BiSbTe",
+        "0.44 vol % a-Si3N4 / BiSbTe",
+        "p-type nanostructured BiSbTe",
+        "BiSbTe bulk alloy",
+        "nanostructured bismuth antimony telluride bulk alloy",
+        "BiSbTe alloys",
+        "p-type nanocrystalline Bi–Sb–Te bulk alloys",
+        "BiSbTe nanocrystalline bulk",
+        "p-type BiSbTe",
+        "bulk Bi–Sb–Te alloy",
+        "p-type BiSbTe nanocomposites",
+        "nanostructured BiSbTe bulk",
+        "nanocrystalline BiSbTe",
+        "p-type Bi–Sb–Te bulk materials",
+        "p-type nanocrystalline BiSbTe",
+        "crystalline BiSbTe bulk alloy",
+        "p-type BiSbTe material",
+        "bulk p-type BiSbTe alloys",
+        "BiSbTe alloy with 1 wt. % Cu",
+        "Bi0.5Sb0.5Te",
+        "BiSbTe nanostructure bulks",
+        "BiSbTe alloy ingot",
+        "BiSbTe-based",
+        "BiSbTe material with 4.0 mol % WSe2",
+        "pure BiSbTe",
+        "2 wt % of Nd2O3 added BiSbTe composites"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "pure BiSbTe matrix",
+          "value": 0.000192,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "BiSbTe",
+          "value": 0.00023,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "350.0 K"
+        },
+        {
+          "material": "BiSbTe",
+          "value": 0.000018,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "BiSbTe composite",
+          "value": 0.000178,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "pure BiSbTe",
+          "value": 0.0002879,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "325.0 K"
+        },
+        {
+          "material": "2 wt % of Nd2O3 added BiSbTe composites",
+          "value": 0.00026252000000000003,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "325.0 K"
+        },
+        {
+          "material": "BiSbTe matrix",
+          "value": 0.000217,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "405.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "BiSbTe",
+          "value": 0.0007,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "350.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "bismuth antimony telluride alloys",
+          "value": 1.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure BiSbTe matrix",
+          "value": 1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "BiSbTe",
+          "value": 1.3,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "350.0 K"
+        },
+        {
+          "material": "BiSbTe",
+          "value": 1.04,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "BiSbTe matrix",
+          "value": 1.25,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "0.44 vol % a-Si3N4 / BiSbTe",
+          "value": 0.91,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "303.0 K"
+        },
+        {
+          "material": "BiSbTe matrix",
+          "value": 1.29,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "303.0 K"
+        },
+        {
+          "material": "BiSbTe matrix",
+          "value": 0.78,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "303.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "BiSbTe matrix",
+          "value": 0.005,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "matrix BiSbTe",
+          "value": 0.0046,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "2-wt % Y2O3 added BiSbTe",
+          "zt_value": 1.24,
+          "temperature": "295 K"
+        },
+        {
+          "material": "p-type nanocrystalline BiSbTe bulk alloy",
+          "zt_value": 1.2,
+          "temperature": "295 K"
+        },
+        {
+          "material": "p-type nanocrystalline BiSbTe bulk alloy",
+          "zt_value": 1.4,
+          "temperature": "295 K"
+        },
+        {
+          "material": "BiSbTe / x-Nd2O3 compounds",
+          "zt_value": 2,
+          "temperature": "295 K"
+        },
+        {
+          "material": "bismuth antimony telluride alloys",
+          "zt_value": 1,
+          "temperature": "295 K"
+        },
+        {
+          "material": "BiSbTe",
+          "zt_value": 1.8599999999999999,
+          "temperature": "295 K"
+        },
+        {
+          "material": "BiSbTe alloy",
+          "zt_value": 1.5,
+          "temperature": "295 K"
+        },
+        {
+          "material": "p-type nanocrystalline bismuth antimony telluride",
+          "zt_value": 1.2,
+          "temperature": "295 K"
+        },
+        {
+          "material": "bulk BiSbTe",
+          "zt_value": 1.8599999999999999,
+          "temperature": "295 K"
+        },
+        {
+          "material": "bulk p-type nanocrystalline bismuth antimony telluride",
+          "zt_value": 1.4,
+          "temperature": "295 K"
+        },
+        {
+          "material": "BiSbTe bulk nano-crystalline alloys",
+          "zt_value": 1.2,
+          "temperature": "295 K"
+        },
+        {
+          "material": "BiSbTe",
+          "zt_value": 1.2,
+          "temperature": "295 K"
+        },
+        {
+          "material": "bulk bismuth antimony telluride",
+          "zt_value": 1,
+          "temperature": "295 K"
+        },
+        {
+          "material": "p-type BiSbTe alloy",
+          "zt_value": 1.2,
+          "temperature": "295 K"
+        },
+        {
+          "material": "BiSbTe films",
+          "zt_value": 2.4,
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure BiSbTe matrix",
+          "zt_value": 1.12,
+          "temperature": "350.0 K"
+        },
+        {
+          "material": "BiSbTe",
+          "zt_value": 1.2,
+          "temperature": "350.0 K"
+        },
+        {
+          "material": "BiSbTe",
+          "zt_value": 1.46,
+          "temperature": "350.0 K"
+        },
+        {
+          "material": "bismuth antimony telluride",
+          "zt_value": 1,
+          "temperature": "350.0 K"
+        },
+        {
+          "material": "BiSbTe",
+          "zt_value": 0.0007,
+          "temperature": "350.0 K"
+        },
+        {
+          "material": "BiSbTe",
+          "zt_value": 1.12,
+          "temperature": "350.0 K"
+        },
+        {
+          "material": "Bi–Sb–Te",
+          "zt_value": 1.1400000000000001,
+          "temperature": "350.0 K"
+        },
+        {
+          "material": "BiSbTe + 2 wt % Y2O3 composite bulk",
+          "zt_value": 1.24,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "BiSbTe",
+          "zt_value": 1.38,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Bi–Sb–Te superlattice",
+          "zt_value": 2.4,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Bismuth antimony telluride",
+          "zt_value": 1,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "BiSbTe",
+          "zt_value": 0.30000000000000004,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "BiSbTe matrix",
+          "zt_value": 1.09,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "BiSbTe matrix",
+          "zt_value": 1.34,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Bi–Sb–Te alloy",
+          "zt_value": 2,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "BiSbTe matrix",
+          "zt_value": 1.01,
+          "temperature": "303.0 K"
+        },
+        {
+          "material": "BiSbTe matrix",
+          "zt_value": 1.28,
+          "temperature": "303.0 K"
+        },
+        {
+          "material": "p-type nanostructured BiSbTe",
+          "zt_value": 1.4,
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "p-type nanocrystalline BiSbTe bulk alloy",
+          "zt_value": 1.4,
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "BiSbTe bulk alloy",
+          "zt_value": 1.4,
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "nanostructured bismuth antimony telluride bulk alloy",
+          "zt_value": 1.4,
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "BiSbTe alloys",
+          "zt_value": 1.4,
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "p-type nanocrystalline BiSbTe bulk alloy",
+          "zt_value": 1.4,
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "p-type nanocrystalline Bi–Sb–Te bulk alloys",
+          "zt_value": 1,
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "BiSbTe nanocrystalline bulk",
+          "zt_value": 1.4,
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "p-type BiSbTe",
+          "zt_value": 1.4,
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "BiSbTe",
+          "zt_value": 1.4,
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "p-type nanocrystalline BiSbTe bulk alloy",
+          "zt_value": 1.4,
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "bulk Bi–Sb–Te alloy",
+          "zt_value": 1.4,
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "p-type BiSbTe nanocomposites",
+          "zt_value": 1.4,
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "Bi–Sb–Te",
+          "zt_value": 1.4,
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "nanostructured BiSbTe bulk",
+          "zt_value": 1.4,
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "nanocrystalline BiSbTe",
+          "zt_value": 1.4,
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "p-type nanocrystalline BiSbTe bulk alloy",
+          "zt_value": 1,
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "p-type nanocrystalline BiSbTe bulk alloy",
+          "zt_value": 1.4,
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "p-type Bi–Sb–Te bulk materials",
+          "zt_value": 1.4,
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "p-type nanocrystalline BiSbTe",
+          "zt_value": 1.4,
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "crystalline BiSbTe bulk alloy",
+          "zt_value": 1.4,
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "p-type nanocrystalline BiSbTe bulk alloy",
+          "zt_value": 1.4,
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "p-type nanocrystalline Bi–Sb–Te bulk alloys",
+          "zt_value": 1.4,
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "BiSbTe",
+          "zt_value": 1.4,
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "nanostructured bismuth antimony telluride bulk alloy",
+          "zt_value": 1.4,
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "p-type BiSbTe",
+          "zt_value": 1.4,
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "p-type nanocrystalline BiSbTe bulk alloy",
+          "zt_value": 1.4,
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "p-type BiSbTe material",
+          "zt_value": 1.1,
+          "temperature": "316.0 K"
+        },
+        {
+          "material": "bismuth antimony telluride",
+          "zt_value": 1,
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "BiSbTe",
+          "zt_value": 1.3,
+          "temperature": "420.0 K"
+        },
+        {
+          "material": "bulk p-type BiSbTe alloys",
+          "zt_value": 1.4,
+          "temperature": "334.0 K"
+        },
+        {
+          "material": "BiSbTe alloy with 1 wt. % Cu",
+          "zt_value": 0.87,
+          "temperature": "500.0 K"
+        },
+        {
+          "material": "BiSbTe matrix",
+          "zt_value": 1.01,
+          "temperature": "383.0 K"
+        },
+        {
+          "material": "BiSbTe",
+          "zt_value": 1.08,
+          "temperature": "383.0 K"
+        },
+        {
+          "material": "Bi–Sb–Te",
+          "zt_value": 1.8599999999999999,
+          "temperature": "320.0 K"
+        },
+        {
+          "material": "Bi0.5Sb0.5Te",
+          "zt_value": 1.8599999999999999,
+          "temperature": "320.0 K"
+        },
+        {
+          "material": "BiSbTe",
+          "zt_value": 1.85,
+          "temperature": "320.0 K"
+        },
+        {
+          "material": "BiSbTe nanostructure bulks",
+          "zt_value": 1.8599999999999999,
+          "temperature": "320.0 K"
+        },
+        {
+          "material": "BiSbTe alloy ingot",
+          "zt_value": 1.4,
+          "temperature": "400.0 K"
+        },
+        {
+          "material": "BiSbTe-based",
+          "zt_value": 0.2,
+          "temperature": "496.0 K"
+        },
+        {
+          "material": "BiSbTe",
+          "zt_value": 2,
+          "temperature": "370.0 K"
+        },
+        {
+          "material": "BiSbTe",
+          "zt_value": 1.6,
+          "temperature": "375.0 K"
+        },
+        {
+          "material": "BiSbTe material with 4.0 mol % WSe2",
+          "zt_value": 1.27,
+          "temperature": "360.0 K"
+        },
+        {
+          "material": "Bi–Sb–Te",
+          "zt_value": 1.5,
+          "temperature": "390.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

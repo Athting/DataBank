@@ -1,0 +1,18 @@
+{
+  "Material": "PbGaTe",
+  "DOIs_Researched": [
+    "10.1007/s10853-020-04949-0"
+  ],
+  "Data_By_Temperature": {
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "Pb0.98Ga0.02Te-5 % GeTe",
+        "Property": "ZT",
+        "Value": 1.47,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      }
+    ]
+  }
+}

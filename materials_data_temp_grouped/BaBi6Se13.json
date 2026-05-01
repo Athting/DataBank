@@ -1,0 +1,18 @@
+{
+  "Material": "BaBi6Se13",
+  "DOIs_Researched": [
+    "10.1016/S0080-8784(01)80149-6"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ba4Bi6Se13",
+        "Property": "Conductivity",
+        "Value": 250000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0080-8784(01)80149-6"
+      }
+    ]
+  }
+}

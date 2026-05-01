@@ -1,0 +1,18 @@
+{
+  "Material": "Ca3Co3.9Fe0.1O9",
+  "DOIs_Researched": [
+    "10.1007/s10832-018-0109-2"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "Ca3Co3.9Fe0.1O9",
+        "Property": "ZT",
+        "Value": 0.28,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10832-018-0109-2"
+      }
+    ]
+  }
+}

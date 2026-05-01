@@ -1,0 +1,18 @@
+{
+  "Material": "Ag2Se0.5T0.5",
+  "DOIs_Researched": [
+    "10.1016/j.jpcs.2017.07.034"
+  ],
+  "Data_By_Temperature": {
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "Ag2Se0.5T0.5",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2017.07.034"
+      }
+    ]
+  }
+}

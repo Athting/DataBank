@@ -1,0 +1,183 @@
+{
+  "Material": "AgCrSe2",
+  "DOIs_Researched": [
+    "10.1039/c4ta04056b",
+    "10.1039/c4ta02590c",
+    "10.1038/s41524-020-0295-8",
+    "10.1016/j.matchemphys.2014.01.053",
+    "10.1039/c6cp04791b",
+    "10.1016/j.cogsc.2017.02.007",
+    "10.1039/c2ta00157h",
+    "10.1039/d0ta00240b"
+  ],
+  "Data_By_Temperature": {
+    "200.0": [
+      {
+        "Original_Name_In_Paper": "AgCrSe2",
+        "Property": "ThermCond",
+        "Value": 0.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta00240b"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "pure AgCrSe2",
+        "Property": "ThermCond",
+        "Value": 0.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta04056b"
+      },
+      {
+        "Original_Name_In_Paper": "AgCrSe2",
+        "Property": "ThermCond",
+        "Value": 0.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cogsc.2017.02.007"
+      },
+      {
+        "Original_Name_In_Paper": "AgCrSe2",
+        "Property": "ZT",
+        "Value": 0.8200000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cogsc.2017.02.007"
+      },
+      {
+        "Original_Name_In_Paper": "Ag0.96CrSe2",
+        "Property": "ZT",
+        "Value": 0.54,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6cp04791b"
+      },
+      {
+        "Original_Name_In_Paper": "Ag0.96CrSe2",
+        "Property": "ZT",
+        "Value": 0.55,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6cp04791b"
+      },
+      {
+        "Original_Name_In_Paper": "AgCrSe2",
+        "Property": "PF",
+        "Value": 0.00088,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta04056b"
+      }
+    ],
+    "450.0": [
+      {
+        "Original_Name_In_Paper": "layered AgCrSe2",
+        "Property": "ThermCond",
+        "Value": 0.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41524-020-0295-8"
+      }
+    ],
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "AgCrSe2 compound",
+        "Property": "ThermCond",
+        "Value": 0.6000000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2014.01.053"
+      },
+      {
+        "Original_Name_In_Paper": "AgCrSe2",
+        "Property": "ThermCond",
+        "Value": 0.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta02590c"
+      },
+      {
+        "Original_Name_In_Paper": "AgCrSe2",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta02590c"
+      }
+    ],
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "Ag0.96CrSe2",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6cp04791b"
+      },
+      {
+        "Original_Name_In_Paper": "Ag0.96CrSe2",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6cp04791b"
+      },
+      {
+        "Original_Name_In_Paper": "Ag0.96CrSe2",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6cp04791b"
+      }
+    ],
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "pristine AgCrSe2",
+        "Property": "ZT",
+        "Value": 0.048,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6cp04791b"
+      },
+      {
+        "Original_Name_In_Paper": "Ag0.96CrSe2",
+        "Property": "ZT",
+        "Value": 0.157,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6cp04791b"
+      }
+    ],
+    "798.0": [
+      {
+        "Original_Name_In_Paper": "AgCrSe2",
+        "Property": "ZT",
+        "Value": 1.01,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2ta00157h"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "AgCrSe2",
+        "Property": "Conductivity",
+        "Value": 0.03,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6cp04791b"
+      },
+      {
+        "Original_Name_In_Paper": "pristine AgCrSe2",
+        "Property": "Conductivity",
+        "Value": 0.03,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6cp04791b"
+      }
+    ]
+  }
+}

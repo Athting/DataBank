@@ -1,0 +1,203 @@
+{
+  "Material": "CuFeS4",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2018.09.291",
+    "10.1039/c4ee02428a",
+    "10.1016/j.jallcom.2017.08.227",
+    "10.1016/j.jallcom.2018.03.408",
+    "10.1039/c6dt04204j",
+    "10.1016/j.ensm.2016.01.009",
+    "10.1039/c9nr07008g",
+    "10.1039/c6tc04661d"
+  ],
+  "Data_By_Temperature": {
+    "10.0": [
+      {
+        "Original_Name_In_Paper": "Cu5FeS4",
+        "Property": "ThermCond",
+        "Value": 1.7000000000000002,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ee02428a"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Cu5FeS4-553",
+        "Property": "ThermCond",
+        "Value": 0.64,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6tc04661d"
+      },
+      {
+        "Original_Name_In_Paper": "Cu5FeS4-493",
+        "Property": "ThermCond",
+        "Value": 0.44,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6tc04661d"
+      },
+      {
+        "Original_Name_In_Paper": "Cu5FeS4-493",
+        "Property": "ThermCond",
+        "Value": 0.48,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6tc04661d"
+      },
+      {
+        "Original_Name_In_Paper": "Cu5FeS4",
+        "Property": "Seebeck",
+        "Value": -0.0006000000000000001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.09.291"
+      },
+      {
+        "Original_Name_In_Paper": "Cu5.04Fe0.96S4",
+        "Property": "Seebeck",
+        "Value": 5e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.09.291"
+      }
+    ],
+    "590.0": [
+      {
+        "Original_Name_In_Paper": "Cu5FeS4",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.09.291"
+      },
+      {
+        "Original_Name_In_Paper": "Cu5-xCoxFeS4 sample",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.03.408"
+      },
+      {
+        "Original_Name_In_Paper": "Cu4.9Zn0.1FeS4 bornite",
+        "Property": "PF",
+        "Value": 0.00027,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.09.291"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Cu5FeS4",
+        "Property": "ZT",
+        "Value": 0.38,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6tc04661d"
+      },
+      {
+        "Original_Name_In_Paper": "Cu5FeS4",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ensm.2016.01.009"
+      },
+      {
+        "Original_Name_In_Paper": "Cu5.04Fe0.96S4",
+        "Property": "PF",
+        "Value": 0.00035000000000000005,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ee02428a"
+      }
+    ],
+    "533.0": [
+      {
+        "Original_Name_In_Paper": "Cu5FeS4 compound",
+        "Property": "ZT",
+        "Value": 0.56,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6tc04661d"
+      }
+    ],
+    "690.0": [
+      {
+        "Original_Name_In_Paper": "Cu5FeS4-533",
+        "Property": "ZT",
+        "Value": 0.43,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6tc04661d"
+      },
+      {
+        "Original_Name_In_Paper": "Cu5FeS4-493",
+        "Property": "Seebeck",
+        "Value": 0.00016099999999999998,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6tc04661d"
+      },
+      {
+        "Original_Name_In_Paper": "Cu5FeS4-493",
+        "Property": "PF",
+        "Value": 0.00043000000000000004,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6tc04661d"
+      }
+    ],
+    "710.0": [
+      {
+        "Original_Name_In_Paper": "Cu5FeS4",
+        "Property": "ZT",
+        "Value": 0.62,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9nr07008g"
+      }
+    ],
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "Cu5FeS4",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.08.227"
+      },
+      {
+        "Original_Name_In_Paper": "Cu5FeS4",
+        "Property": "PF",
+        "Value": 0.00071,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ee02428a"
+      }
+    ],
+    "330.0": [
+      {
+        "Original_Name_In_Paper": "Cu5FeS4",
+        "Property": "Seebeck",
+        "Value": 0.000156,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6dt04204j"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Cu5FeS4",
+        "Property": "Conductivity",
+        "Value": 5.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ee02428a"
+      }
+    ]
+  }
+}

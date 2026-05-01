@@ -1,0 +1,18 @@
+{
+  "Material": "Bi0.88Ca0.6Pb0.6CuSeO",
+  "DOIs_Researched": [
+    "10.1016/j.mattod.2019.07.003"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.88Ca0.6Pb0.6CuSeO",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mattod.2019.07.003"
+      }
+    ]
+  }
+}

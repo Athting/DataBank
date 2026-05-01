@@ -1,0 +1,27 @@
+{
+  "Material": "PbTe\u2013graphene nanocomposites",
+  "DOIs_Researched": [
+    "10.1039/c7ta04280a",
+    "10.1039/c3ta12494k"
+  ],
+  "Data_By_Temperature": {
+    "670.0": [
+      {
+        "Original_Name_In_Paper": "PbTe\u2013graphene nanocomposites",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta12494k"
+      },
+      {
+        "Original_Name_In_Paper": "PbTe\u2013graphene nanocomposites",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ta04280a"
+      }
+    ]
+  }
+}

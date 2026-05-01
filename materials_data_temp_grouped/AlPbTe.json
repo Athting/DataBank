@@ -1,0 +1,26 @@
+{
+  "Material": "AlPbTe",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2019.01.353"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Al0.005PbTe",
+        "Property": "Conductivity",
+        "Value": 175438.5964912281,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.01.353"
+      },
+      {
+        "Original_Name_In_Paper": "Al0.01PbTe",
+        "Property": "Conductivity",
+        "Value": 526315.7894736843,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.01.353"
+      }
+    ]
+  }
+}

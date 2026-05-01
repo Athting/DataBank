@@ -1,0 +1,47 @@
+{
+  "Material": "AgPbmSbTem+2",
+  "DOIs_Researched": [
+    "10.1039/c2ce25512j",
+    "10.1016/j.jallcom.2015.03.117",
+    "10.1016/j.jallcom.2010.07.146",
+    "10.1016/j.pnsc.2012.11.011"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "AgPbmSbTem+2",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.03.117"
+      },
+      {
+        "Original_Name_In_Paper": "AgPbmSbTem+2",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.07.146"
+      },
+      {
+        "Original_Name_In_Paper": "AgPbmSbTem+2",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2ce25512j"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "AgPbmSbTem+2",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pnsc.2012.11.011"
+      }
+    ]
+  }
+}

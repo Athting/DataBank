@@ -1,0 +1,18 @@
+{
+  "Material": "Pd5InSe",
+  "DOIs_Researched": [
+    "10.1016/j.jpcs.2019.109229"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Pd5InSe",
+        "Property": "Conductivity",
+        "Value": 1.904761905e+20,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2019.109229"
+      }
+    ]
+  }
+}

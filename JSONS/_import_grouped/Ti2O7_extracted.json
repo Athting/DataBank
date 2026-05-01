@@ -1,0 +1,60 @@
+{
+  "doi": "10.1016/j.proeng.2011.12.430",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Ti 2 O 7",
+        "Ti 2 O 7 .For"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Ti 2 O 7",
+          "zt_value": 0.024,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Ti 2 O 7",
+          "zt_value": 0.9500000000000001,
+          "temperature": "919.0 K"
+        },
+        {
+          "material": "Ti 2 O 7",
+          "zt_value": 0.24,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Ti 2 O 7 .For",
+          "zt_value": 0.9500000000000001,
+          "temperature": "301.78 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

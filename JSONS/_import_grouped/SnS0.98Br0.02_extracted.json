@@ -1,0 +1,120 @@
+{
+  "doi": "10.1016/j.scriptamat.2019.05.043",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "SnS0.98Br0.02",
+        "SnS0.98Br0.02 crystal",
+        "polycrystalline SnS0.98Br0.02",
+        "n-type SnS0.98Br0.02 crystal",
+        "n-type polycrystalline SnS0.98Br0.02",
+        "SnS0.98Br0.02 crystals",
+        "n-type crystalline SnS0.98Br0.02"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "SnS0.98Br0.02",
+          "value": 1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnS0.98Br0.02 crystal",
+          "value": 1.25,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnS0.98Br0.02",
+          "value": 0.59,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "polycrystalline SnS0.98Br0.02",
+          "value": 0.55,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "823.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "polycrystalline SnS0.98Br0.02",
+          "value": 0.00012000000000000002,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "SnS0.98Br0.02",
+          "value": 0.00012000000000000002,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "n-type crystalline SnS0.98Br0.02",
+          "value": 0.00019,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SnS0.98Br0.02 crystal",
+          "value": 0.00019,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "polycrystalline SnS0.98Br0.02",
+          "zt_value": 0.17,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "n-type SnS0.98Br0.02 crystal",
+          "zt_value": 0.12,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "n-type polycrystalline SnS0.98Br0.02",
+          "zt_value": 0.17,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "SnS0.98Br0.02 crystals",
+          "zt_value": 0.08,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "n-type SnS0.98Br0.02 crystal",
+          "zt_value": 0.08,
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

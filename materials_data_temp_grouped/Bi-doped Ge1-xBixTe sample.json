@@ -1,0 +1,18 @@
+{
+  "Material": "Bi-doped Ge1-xBixTe sample",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2019.07.120"
+  ],
+  "Data_By_Temperature": {
+    "623.0": [
+      {
+        "Original_Name_In_Paper": "Bi-doped Ge1-xBixTe sample",
+        "Property": "ZT",
+        "Value": 1.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.07.120"
+      }
+    ]
+  }
+}

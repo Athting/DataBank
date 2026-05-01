@@ -1,0 +1,67 @@
+{
+  "Material": "LiMn2O4",
+  "DOIs_Researched": [
+    "10.1016/j.electacta.2016.05.123",
+    "10.1016/S0167-2738(00)00331-3",
+    "10.1016/j.ssi.2003.11.047",
+    "10.1016/j.jpowsour.2007.05.054",
+    "10.1016/j.electacta.2006.08.069",
+    "10.1039/c2jm16297k"
+  ],
+  "Data_By_Temperature": {
+    "280.0": [
+      {
+        "Original_Name_In_Paper": "LiMn2O4",
+        "Property": "Seebeck",
+        "Value": -2e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2jm16297k"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "LiMn2O4",
+        "Property": "Conductivity",
+        "Value": 0.01,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssi.2003.11.047"
+      },
+      {
+        "Original_Name_In_Paper": "LiMn2O4",
+        "Property": "Conductivity",
+        "Value": 0.001,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.electacta.2006.08.069"
+      },
+      {
+        "Original_Name_In_Paper": "undoped LiMn2O4",
+        "Property": "Conductivity",
+        "Value": 0.001,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.electacta.2016.05.123"
+      },
+      {
+        "Original_Name_In_Paper": "LiMn2O4",
+        "Property": "Conductivity",
+        "Value": 0.01,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0167-2738(00)00331-3"
+      }
+    ],
+    "720.0": [
+      {
+        "Original_Name_In_Paper": "LiMn2O4",
+        "Property": "Conductivity",
+        "Value": 10.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpowsour.2007.05.054"
+      }
+    ]
+  }
+}

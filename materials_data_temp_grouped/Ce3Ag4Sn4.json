@@ -1,0 +1,18 @@
+{
+  "Material": "Ce3Ag4Sn4",
+  "DOIs_Researched": [
+    "10.1016/j.intermet.2005.11.004"
+  ],
+  "Data_By_Temperature": {
+    "9.0": [
+      {
+        "Original_Name_In_Paper": "Ce3Ag4Sn4",
+        "Property": "Conductivity",
+        "Value": 6250000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2005.11.004"
+      }
+    ]
+  }
+}

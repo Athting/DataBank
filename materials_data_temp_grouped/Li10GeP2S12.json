@@ -1,0 +1,27 @@
+{
+  "Material": "Li10GeP2S12",
+  "DOIs_Researched": [
+    "10.1039/c6ta05439k",
+    "10.1039/c8ee01419a"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Li10GeP2S12",
+        "Property": "Conductivity",
+        "Value": 1.2,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee01419a"
+      },
+      {
+        "Original_Name_In_Paper": "Li10GeP2S12",
+        "Property": "Conductivity",
+        "Value": 1.2,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta05439k"
+      }
+    ]
+  }
+}

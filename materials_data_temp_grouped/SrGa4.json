@@ -1,0 +1,18 @@
+{
+  "Material": "SrGa4",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2015.08.193"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "SrGa4",
+        "Property": "Conductivity",
+        "Value": 3134796238.2445145,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.08.193"
+      }
+    ]
+  }
+}

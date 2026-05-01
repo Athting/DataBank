@@ -1,0 +1,18 @@
+{
+  "Material": "FeSi2-based",
+  "DOIs_Researched": [
+    "10.1016/j.physb.2012.06.041"
+  ],
+  "Data_By_Temperature": {
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "FeSi2-based",
+        "Property": "PF",
+        "Value": 7.000000000000001e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2012.06.041"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "InSb nanophase",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2011.09.031"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "InSb nanophase",
+        "Property": "ZT",
+        "Value": 1.43,
+        "Units": null,
+        "Editing": "In doping",
+        "Source_DOI": "10.1016/j.jssc.2011.09.031"
+      }
+    ]
+  }
+}

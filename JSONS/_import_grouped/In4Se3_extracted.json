@@ -1,0 +1,67 @@
+{
+  "doi": "10.1016/j.ceramint.2016.01.023",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "single crystal In4Se3",
+        "In4Se3"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "single crystal In4Se3",
+          "value": 7.04,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "705.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "In4Se3",
+          "zt_value": 0.74,
+          "temperature": "705.0 K"
+        },
+        {
+          "material": "single crystal In4Se3",
+          "zt_value": 1.48,
+          "temperature": "705.0 K"
+        },
+        {
+          "material": "In4Se3",
+          "zt_value": 0.63,
+          "temperature": "710.0 K"
+        },
+        {
+          "material": "single crystal In4Se3",
+          "zt_value": 0.5,
+          "temperature": "700.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "CuGe2P3",
+  "DOIs_Researched": [
+    "10.1039/b914555a"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "CuGe2P3",
+        "Property": "ZT",
+        "Value": 0.008490000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/b914555a"
+      }
+    ]
+  }
+}

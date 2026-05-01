@@ -1,0 +1,18 @@
+{
+  "Material": "Sb",
+  "DOIs_Researched": [
+    "10.1016/j.apenergy.2011.03.017"
+  ],
+  "Data_By_Temperature": {
+    "293.0": [
+      {
+        "Original_Name_In_Paper": "antimony element",
+        "Property": "Seebeck",
+        "Value": -0.000107,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apenergy.2011.03.017"
+      }
+    ]
+  }
+}

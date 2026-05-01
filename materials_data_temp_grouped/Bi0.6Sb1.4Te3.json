@@ -1,0 +1,40 @@
+{
+  "Material": "Bi0.6Sb1.4Te3",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2013.02.004",
+    "10.1016/j.jallcom.2015.06.144",
+    "10.1016/j.scriptamat.2020.05.039"
+  ],
+  "Data_By_Temperature": {
+    "360.0": [
+      {
+        "Original_Name_In_Paper": "Cu-doped Bi0.6Sb1.4Te3",
+        "Property": "ZT",
+        "Value": 0.98,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2020.05.039"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "p-type Bi0.6Sb1.4Te3",
+        "Property": "ZT",
+        "Value": 1.26,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2013.02.004"
+      }
+    ],
+    "150.0": [
+      {
+        "Original_Name_In_Paper": "p-type Bi0.6Sb1.4Te3",
+        "Property": "PF",
+        "Value": 0.0002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.06.144"
+      }
+    ]
+  }
+}

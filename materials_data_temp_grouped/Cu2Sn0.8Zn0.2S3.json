@@ -1,0 +1,18 @@
+{
+  "Material": "Cu2Sn0.8Zn0.2S3",
+  "DOIs_Researched": [
+    "10.1007/s10854-020-03732-w"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Cu2Sn0.8Zn0.2S3",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-020-03732-w"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "OOK",
+  "DOIs_Researched": [
+    "10.1038/s41467-020-18005-7"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "OOK",
+        "Property": "ZT",
+        "Value": 1.55,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41467-020-18005-7"
+      }
+    ]
+  }
+}

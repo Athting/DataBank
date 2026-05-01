@@ -1,0 +1,155 @@
+{
+  "Material": "GaSb",
+  "DOIs_Researched": [
+    "10.1016/j.rser.2014.05.060",
+    "10.1038/s41598-019-41982-9",
+    "10.1557/opl.2011.1162",
+    "10.1016/j.jallcom.2011.01.006",
+    "10.1016/j.ceramint.2018.08.193",
+    "10.1016/j.intermet.2019.106528",
+    "10.1016/j.intermet.2018.11.006",
+    "10.1007/s00339-016-0409-9"
+  ],
+  "Data_By_Temperature": {
+    "770.0": [
+      {
+        "Original_Name_In_Paper": "GaSb",
+        "Property": "ThermCond",
+        "Value": 24.3,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2019.106528"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "GaSb",
+        "Property": "ThermCond",
+        "Value": 4.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1557/opl.2011.1162"
+      },
+      {
+        "Original_Name_In_Paper": "GaSb",
+        "Property": "ThermCond",
+        "Value": 32.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1557/opl.2011.1162"
+      },
+      {
+        "Original_Name_In_Paper": "GaSb",
+        "Property": "ThermCond",
+        "Value": 17.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.08.193"
+      }
+    ],
+    "200.0": [
+      {
+        "Original_Name_In_Paper": "GaSb",
+        "Property": "ThermCond",
+        "Value": 34.95,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-019-41982-9"
+      }
+    ],
+    "1200.0": [
+      {
+        "Original_Name_In_Paper": "GaSb",
+        "Property": "ThermCond",
+        "Value": 21.53,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-019-41982-9"
+      },
+      {
+        "Original_Name_In_Paper": "GaSb compound",
+        "Property": "ZT",
+        "Value": 0.72,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-019-41982-9"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "GaSb",
+        "Property": "ThermCond",
+        "Value": 34.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2018.11.006"
+      },
+      {
+        "Original_Name_In_Paper": "GaSb",
+        "Property": "ThermCond",
+        "Value": 34.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2018.11.006"
+      },
+      {
+        "Original_Name_In_Paper": "GaSb",
+        "Property": "ZT",
+        "Value": 0.29,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-019-41982-9"
+      }
+    ],
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Zn-doped GaSb",
+        "Property": "ZT",
+        "Value": 0.23,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.08.193"
+      }
+    ],
+    "550.0": [
+      {
+        "Original_Name_In_Paper": "GaSb",
+        "Property": "ZT",
+        "Value": 0.01,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s00339-016-0409-9"
+      }
+    ],
+    "660.0": [
+      {
+        "Original_Name_In_Paper": "GaSb",
+        "Property": "ZT",
+        "Value": 0.47000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rser.2014.05.060"
+      }
+    ],
+    "450.0": [
+      {
+        "Original_Name_In_Paper": "GaSb",
+        "Property": "Seebeck",
+        "Value": 0.000596,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s00339-016-0409-9"
+      }
+    ],
+    "322.0": [
+      {
+        "Original_Name_In_Paper": "GaSb bulk crystals",
+        "Property": "PF",
+        "Value": 8.82e-06,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2011.01.006"
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "Material": "Ca2.97Ag0.03Co4O9+\u03b4",
+  "DOIs_Researched": [
+    "10.1007/s10854-017-7681-0",
+    "10.1007/s10854-015-3401-9",
+    "10.1039/c5dt04959h"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "Ca2.97Ag0.03Co4O9+\u03b4",
+        "Property": "ZT",
+        "Value": 0.23,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5dt04959h"
+      },
+      {
+        "Original_Name_In_Paper": "Ca2.97Ag0.03Co4O9+\u03b4",
+        "Property": "ZT",
+        "Value": 0.23,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-017-7681-0"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ca2.97Ag0.03Co4O9+\u03b4",
+        "Property": "ZT",
+        "Value": 0.036000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-015-3401-9"
+      },
+      {
+        "Original_Name_In_Paper": "Ca2.97Ag0.03Co4O9+\u03b4",
+        "Property": "PF",
+        "Value": 0.0002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-015-3401-9"
+      }
+    ]
+  }
+}

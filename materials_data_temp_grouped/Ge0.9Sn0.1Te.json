@@ -1,0 +1,18 @@
+{
+  "Material": "Ge0.9Sn0.1Te",
+  "DOIs_Researched": [
+    "10.1016/j.matpr.2020.03.044"
+  ],
+  "Data_By_Temperature": {
+    "770.0": [
+      {
+        "Original_Name_In_Paper": "Ge0.9Sn0.1Te",
+        "Property": "Seebeck",
+        "Value": 7.099999999999999e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matpr.2020.03.044"
+      }
+    ]
+  }
+}

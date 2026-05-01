@@ -1,0 +1,49 @@
+{
+  "doi": "10.1039/c2dt32049e",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Ba8Zn7.7Ge38.3"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Ba8Zn7.7Ge38.3",
+          "zt_value": 0.46,
+          "temperature": "730.0 K"
+        },
+        {
+          "material": "Ba8Zn7.7Ge38.3",
+          "zt_value": 0.46,
+          "temperature": "730.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

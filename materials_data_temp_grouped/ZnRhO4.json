@@ -1,0 +1,26 @@
+{
+  "Material": "ZnRhO4",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2012.03.054"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Zn0.5Rh2O4 film",
+        "Property": "PF",
+        "Value": 0.00023,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2012.03.054"
+      },
+      {
+        "Original_Name_In_Paper": "Zn0.5Rh2O4",
+        "Property": "Conductivity",
+        "Value": 5000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2012.03.054"
+      }
+    ]
+  }
+}

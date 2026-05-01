@@ -1,0 +1,50 @@
+{
+  "Material": "Ca2.76Cu0.24Co4O9",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2012.07.081"
+  ],
+  "Data_By_Temperature": {
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "Ca2.76Cu0.24Co4O9",
+        "Property": "Seebeck",
+        "Value": 0.00029299999999999997,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2012.07.081"
+      },
+      {
+        "Original_Name_In_Paper": "Ca2.76Cu0.24Co4O9",
+        "Property": "PF",
+        "Value": 0.00038,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2012.07.081"
+      },
+      {
+        "Original_Name_In_Paper": "Ca2.76Cu0.24Co4O9",
+        "Property": "PF",
+        "Value": 0.00038,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2012.07.081"
+      },
+      {
+        "Original_Name_In_Paper": "Ca2.76Cu0.24Co4O9",
+        "Property": "PF",
+        "Value": 0.00038,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2012.07.081"
+      },
+      {
+        "Original_Name_In_Paper": "Ca2.76Cu0.24Co4O9",
+        "Property": "Conductivity",
+        "Value": 4480.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2012.07.081"
+      }
+    ]
+  }
+}

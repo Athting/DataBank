@@ -1,0 +1,26 @@
+{
+  "Material": "Bi0.95Zn0.05CuSeO0.95S",
+  "DOIs_Researched": [
+    "10.1007/s11664-017-5579-5"
+  ],
+  "Data_By_Temperature": {
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.95Zn0.05CuSeO0.95S0.05",
+        "Property": "ZT",
+        "Value": 0.68,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-017-5579-5"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.95Zn0.05CuSeO0.95S0.05",
+        "Property": "PF",
+        "Value": 0.00046,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-017-5579-5"
+      }
+    ]
+  }
+}

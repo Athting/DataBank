@@ -1,0 +1,51 @@
+{
+  "Material": "TiNi",
+  "DOIs_Researched": [
+    "10.1016/j.intermet.2017.01.008",
+    "10.1016/j.intermet.2015.02.004"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ti50Ni50",
+        "Property": "ThermCond",
+        "Value": 17.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2017.01.008"
+      },
+      {
+        "Original_Name_In_Paper": "Ti50Ni50",
+        "Property": "Conductivity",
+        "Value": 1123595.5056179774,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2015.02.004"
+      },
+      {
+        "Original_Name_In_Paper": "Ti48.7Ni51.3",
+        "Property": "Conductivity",
+        "Value": 847457.6271186441,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2015.02.004"
+      },
+      {
+        "Original_Name_In_Paper": "Ti48.4Ni51.6",
+        "Property": "Conductivity",
+        "Value": 1052631.5789473683,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2015.02.004"
+      },
+      {
+        "Original_Name_In_Paper": "Ti50Ni50",
+        "Property": "Seebeck",
+        "Value": 1.7e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2015.02.004"
+      }
+    ]
+  }
+}

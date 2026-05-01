@@ -1,0 +1,87 @@
+{
+  "Material": "CuCrO2",
+  "DOIs_Researched": [
+    "10.1016/j.ssc.2009.02.026",
+    "10.1038/srep43179",
+    "10.1016/S0925-8388(09)01720-4",
+    "10.1016/S1466-6049(01)00006-X",
+    "10.1016/j.jpcs.2008.03.007",
+    "10.1039/c6ra08035a"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "oxide CuCrO 2 619 a-plane",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(09)01720-4"
+      },
+      {
+        "Original_Name_In_Paper": "oxide CuCrO 2 619",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(09)01720-4"
+      },
+      {
+        "Original_Name_In_Paper": "Mg-doped CuCrO2",
+        "Property": "Conductivity",
+        "Value": 22000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S1466-6049(01)00006-X"
+      },
+      {
+        "Original_Name_In_Paper": "CuCrO2 : Mg thin films",
+        "Property": "Conductivity",
+        "Value": 22000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S1466-6049(01)00006-X"
+      }
+    ],
+    "1100.0": [
+      {
+        "Original_Name_In_Paper": "CuCr0.97\u2212xMg0.03M\u2032xO2",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra08035a"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "CuCrO2",
+        "Property": "Conductivity",
+        "Value": 0.1,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2009.02.026"
+      }
+    ],
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Mg-doped CuCrO2",
+        "Property": "Conductivity",
+        "Value": 160.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/srep43179"
+      }
+    ],
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "CuCr0.93Mg0.07O2 thin films",
+        "Property": "Conductivity",
+        "Value": 30.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2008.03.007"
+      }
+    ]
+  }
+}

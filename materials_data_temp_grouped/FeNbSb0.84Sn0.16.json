@@ -1,0 +1,18 @@
+{
+  "Material": "FeNbSb0.84Sn0.16",
+  "DOIs_Researched": [
+    "10.1007/s11664-019-07919-8"
+  ],
+  "Data_By_Temperature": {
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "FeNbSb0.84Sn0.16",
+        "Property": "ZT",
+        "Value": 0.66,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-019-07919-8"
+      }
+    ]
+  }
+}

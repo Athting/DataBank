@@ -1,0 +1,29 @@
+{
+  "Material": "CaB6",
+  "DOIs_Researched": [
+    "10.1016/j.solidstatesciences.2020.106166",
+    "10.1016/j.jssc.2014.10.001"
+  ],
+  "Data_By_Temperature": {
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "CaB6",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2014.10.001"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "CaB6",
+        "Property": "Conductivity",
+        "Value": 700000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2020.106166"
+      }
+    ]
+  }
+}

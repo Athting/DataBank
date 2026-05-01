@@ -1,0 +1,58 @@
+{
+  "Material": "GdCoSb12",
+  "DOIs_Researched": [
+    "10.1016/j.matlet.2013.02.034"
+  ],
+  "Data_By_Temperature": {
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "Gd0.12Co4Sb12",
+        "Property": "ThermCond",
+        "Value": 2.7,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2013.02.034"
+      },
+      {
+        "Original_Name_In_Paper": "Gd0.12Co4Sb12",
+        "Property": "ZT",
+        "Value": 0.52,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2013.02.034"
+      },
+      {
+        "Original_Name_In_Paper": "Gd0.12Co4Sb12",
+        "Property": "ZT",
+        "Value": 0.52,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2013.02.034"
+      },
+      {
+        "Original_Name_In_Paper": "Gd0.12Co4Sb12",
+        "Property": "ZT",
+        "Value": 0.52,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2013.02.034"
+      },
+      {
+        "Original_Name_In_Paper": "Gd0.12Co4Sb12",
+        "Property": "ZT",
+        "Value": 0.52,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2013.02.034"
+      },
+      {
+        "Original_Name_In_Paper": "Gd0.12Co4Sb12",
+        "Property": "ZT",
+        "Value": 0.52,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2013.02.034"
+      }
+    ]
+  }
+}

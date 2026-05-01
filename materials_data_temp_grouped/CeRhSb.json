@@ -1,0 +1,18 @@
+{
+  "Material": "CeRhSb",
+  "DOIs_Researched": [
+    "10.1016/S0921-4526(02)01808-2"
+  ],
+  "Data_By_Temperature": {
+    "12.0": [
+      {
+        "Original_Name_In_Paper": "CeRhSb",
+        "Property": "ZT",
+        "Value": 0.0017000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0921-4526(02)01808-2"
+      }
+    ]
+  }
+}

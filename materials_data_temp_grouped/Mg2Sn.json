@@ -1,0 +1,86 @@
+{
+  "Material": "Mg2Sn",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2019.05.214",
+    "10.1039/c5ra27171a",
+    "10.1039/c6ra04986a",
+    "10.1007/s10765-020-02715-7",
+    "10.1016/j.jssc.2018.12.052"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Mg2Sn",
+        "Property": "ThermCond",
+        "Value": 5.3,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2018.12.052"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Sn compound",
+        "Property": "Seebeck",
+        "Value": 0.000359,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10765-020-02715-7"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "p-type Mg2Sn",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra04986a"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Sn",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra04986a"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Sn",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra04986a"
+      }
+    ],
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Sn",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra27171a"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Sn",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra27171a"
+      }
+    ],
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "bulk Mg2Sn",
+        "Property": "Conductivity",
+        "Value": 104.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.05.214"
+      }
+    ]
+  }
+}

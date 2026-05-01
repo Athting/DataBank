@@ -1,0 +1,27 @@
+{
+  "Material": "La0.02Sr0.98TiO3",
+  "DOIs_Researched": [
+    "10.1039/c1cs15178a",
+    "10.1016/j.apsusc.2007.04.089"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "La0.02Sr0.98TiO3",
+        "Property": "PF",
+        "Value": 3.6,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c1cs15178a"
+      },
+      {
+        "Original_Name_In_Paper": "La0.02Sr0.98TiO3",
+        "Property": "PF",
+        "Value": 0.0036000000000000003,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2007.04.089"
+      }
+    ]
+  }
+}

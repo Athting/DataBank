@@ -1,0 +1,18 @@
+{
+  "Material": "CeFeCoSb12, FeSb2.1Te",
+  "DOIs_Researched": [
+    "10.1016/j.tsf.2013.09.068"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "two multi-layered Ce0.09Fe0.67Co3.33Sb12 / FeSb2.1Te",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2013.09.068"
+      }
+    ]
+  }
+}

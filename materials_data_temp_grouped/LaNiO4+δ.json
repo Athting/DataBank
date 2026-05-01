@@ -1,0 +1,26 @@
+{
+  "Material": "LaNiO4+\u03b4",
+  "DOIs_Researched": [
+    "10.1016/j.matpr.2017.12.266"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "La2NiO4+\u03b4",
+        "Property": "ThermCond",
+        "Value": 0.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matpr.2017.12.266"
+      },
+      {
+        "Original_Name_In_Paper": "La2NiO4+\u03b4",
+        "Property": "Seebeck",
+        "Value": 0.00025,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matpr.2017.12.266"
+      }
+    ]
+  }
+}

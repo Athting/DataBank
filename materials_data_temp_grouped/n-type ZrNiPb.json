@@ -1,0 +1,18 @@
+{
+  "Material": "n-type ZrNiPb",
+  "DOIs_Researched": [
+    "10.1007/s00339-018-2259-0"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "n-type ZrNiPb",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s00339-018-2259-0"
+      }
+    ]
+  }
+}

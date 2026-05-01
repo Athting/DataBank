@@ -1,0 +1,112 @@
+{
+  "doi": "10.1016/j.jallcom.2017.11.022",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Ti0.3Zr0.35Hf0.35NiSn",
+        "Ti0.3Zr0.35Hf0.35Ni(1+d)Sn",
+        "Ti0.5Zr0.25Hf0.25NiSn",
+        "Sb-doped Ti0.50Zr0.25Hf0.25NiSn",
+        "Ti0.37Zr0.37Hf0.26NiSn",
+        "doped Ti0.5Zr0.25Hf0.25NiSn compound",
+        "n-type Ti0.3Zr0.35Hf0.35NiSn compound",
+        "co-doped Ti0.5Zr0.25Hf0.25NiSn material",
+        "Ti0.3Zr0.35Hf0.35NiSn with Sb"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Ti0.3Zr0.35Hf0.35NiSn",
+          "zt_value": 0.8200000000000001,
+          "temperature": "730.0 K"
+        },
+        {
+          "material": "Ti0.3Zr0.35Hf0.35Ni(1+d)Sn",
+          "zt_value": 0.68,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "Ti0.5Zr0.25Hf0.25NiSn",
+          "zt_value": 1.5,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "Ti0.5Zr0.25Hf0.25NiSn",
+          "zt_value": 1.5,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "Ti0.5Zr0.25Hf0.25NiSn",
+          "zt_value": 1.5,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "Sb-doped Ti0.50Zr0.25Hf0.25NiSn",
+          "zt_value": 1.5,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "Sb-doped Ti0.50Zr0.25Hf0.25NiSn",
+          "zt_value": 1.5,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "Ti0.37Zr0.37Hf0.26NiSn",
+          "zt_value": 1,
+          "temperature": "725.0 K"
+        },
+        {
+          "material": "Ti0.37Zr0.37Hf0.26NiSn",
+          "zt_value": 1,
+          "temperature": "725.0 K"
+        },
+        {
+          "material": "doped Ti0.5Zr0.25Hf0.25NiSn compound",
+          "zt_value": 2,
+          "temperature": "830.0 K"
+        },
+        {
+          "material": "n-type Ti0.3Zr0.35Hf0.35NiSn compound",
+          "zt_value": 0.7000000000000001,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "co-doped Ti0.5Zr0.25Hf0.25NiSn material",
+          "zt_value": 0.96,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Ti0.3Zr0.35Hf0.35NiSn with Sb",
+          "zt_value": 0.58,
+          "temperature": "823.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

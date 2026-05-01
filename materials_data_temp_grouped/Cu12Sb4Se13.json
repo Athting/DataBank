@@ -1,0 +1,37 @@
+{
+  "Material": "Cu12Sb4Se13",
+  "DOIs_Researched": [
+    "10.1016/j.jmat.2016.06.004",
+    "10.1016/j.intermet.2016.08.003"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Cu12Sb4Se13",
+        "Property": "ThermCond",
+        "Value": 0.1,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2016.06.004"
+      },
+      {
+        "Original_Name_In_Paper": "Cu12Sb4Se13",
+        "Property": "ThermCond",
+        "Value": 0.38,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2016.06.004"
+      }
+    ],
+    "200.0": [
+      {
+        "Original_Name_In_Paper": "tetrahedrite Cu12Sb4-xTexS13",
+        "Property": "ThermCond",
+        "Value": 0.25,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2016.08.003"
+      }
+    ]
+  }
+}

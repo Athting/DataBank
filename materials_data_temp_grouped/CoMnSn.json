@@ -1,0 +1,18 @@
+{
+  "Material": "CoMnSn",
+  "DOIs_Researched": [
+    "10.1016/j.mseb.2019.114409"
+  ],
+  "Data_By_Temperature": {
+    "200.0": [
+      {
+        "Original_Name_In_Paper": "CoMnSn",
+        "Property": "ZT",
+        "Value": 0.034,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mseb.2019.114409"
+      }
+    ]
+  }
+}

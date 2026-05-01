@@ -1,0 +1,18 @@
+{
+  "Material": "p-type ZrRhBi",
+  "DOIs_Researched": [
+    "10.1039/c7ta00920h"
+  ],
+  "Data_By_Temperature": {
+    "1300.0": [
+      {
+        "Original_Name_In_Paper": "p-type ZrRhBi",
+        "Property": "Seebeck",
+        "Value": 0.00031989000000000003,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ta00920h"
+      }
+    ]
+  }
+}

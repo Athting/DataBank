@@ -1,0 +1,26 @@
+{
+  "Material": "CaMnO_3",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2009.11.004"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ca4Mn3O10 compound",
+        "Property": "Seebeck",
+        "Value": -0.00029499999999999996,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2009.11.004"
+      },
+      {
+        "Original_Name_In_Paper": "Ca4Mn3O10",
+        "Property": "Seebeck",
+        "Value": -0.000345,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2009.11.004"
+      }
+    ]
+  }
+}

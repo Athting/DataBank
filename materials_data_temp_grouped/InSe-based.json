@@ -1,0 +1,18 @@
+{
+  "Material": "InSe-based",
+  "DOIs_Researched": [
+    "10.3938/jkps.72.775"
+  ],
+  "Data_By_Temperature": {
+    "765.0": [
+      {
+        "Original_Name_In_Paper": "InSe-based",
+        "Property": "ZT",
+        "Value": 0.16,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.3938/jkps.72.775"
+      }
+    ]
+  }
+}

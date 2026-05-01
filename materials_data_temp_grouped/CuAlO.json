@@ -1,0 +1,18 @@
+{
+  "Material": "CuAlO",
+  "DOIs_Researched": [
+    "10.1016/j.egypro.2014.07.132"
+  ],
+  "Data_By_Temperature": {
+    "960.0": [
+      {
+        "Original_Name_In_Paper": "CuAlO",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.egypro.2014.07.132"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Ru2Ge3+x",
+  "DOIs_Researched": [
+    "10.1006/jssc.2002.9611"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ru2Ge3+x",
+        "Property": "Conductivity",
+        "Value": -33.3333333333,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1006/jssc.2002.9611"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "OS-1",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2018.08.201"
+  ],
+  "Data_By_Temperature": {
+    "523.0": [
+      {
+        "Original_Name_In_Paper": "OS-1",
+        "Property": "ThermCond",
+        "Value": 0.92,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.08.201"
+      }
+    ]
+  }
+}

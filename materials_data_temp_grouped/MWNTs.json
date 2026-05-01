@@ -1,0 +1,45 @@
+{
+  "Material": "MWNTs",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2020.105186",
+    "10.1016/j.solidstatesciences.2017.08.021"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "MWNTs",
+        "Property": "Seebeck",
+        "Value": 7.000000000000001e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.105186"
+      },
+      {
+        "Original_Name_In_Paper": "MWNTs",
+        "Property": "PF",
+        "Value": 0.0005,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.105186"
+      },
+      {
+        "Original_Name_In_Paper": "MWNTs",
+        "Property": "Conductivity",
+        "Value": 96000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.105186"
+      }
+    ],
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "MWNTs",
+        "Property": "Conductivity",
+        "Value": 2386.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2017.08.021"
+      }
+    ]
+  }
+}

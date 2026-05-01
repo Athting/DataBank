@@ -1,0 +1,29 @@
+{
+  "Material": "(GeTe)0.85(AgSbTe2)0.15",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2012.10.005",
+    "10.1016/j.materresbull.2015.12.018"
+  ],
+  "Data_By_Temperature": {
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "(GeTe)0.85(AgSbTe2)0.15",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2012.10.005"
+      }
+    ],
+    "623.0": [
+      {
+        "Original_Name_In_Paper": "(GeTe)0.85(AgSbTe2)0.15",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2015.12.018"
+      }
+    ]
+  }
+}

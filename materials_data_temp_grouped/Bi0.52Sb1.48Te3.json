@@ -1,0 +1,177 @@
+{
+  "Material": "Bi0.52Sb1.48Te3",
+  "DOIs_Researched": [
+    "10.1039/c3ra23197f",
+    "10.1016/j.scriptamat.2017.10.009",
+    "10.1016/j.physb.2010.09.034",
+    "10.1007/s10854-016-4920-8",
+    "10.1039/c5tc02219c",
+    "10.1016/j.intermet.2011.07.010",
+    "10.1016/S1002-0071(12)60066-5",
+    "10.1016/j.jallcom.2013.11.065",
+    "10.1039/c1jm10163c",
+    "10.1016/j.jallcom.2010.06.195",
+    "10.1016/j.actamat.2019.12.001",
+    "10.1016/j.mtphys.2018.07.002",
+    "10.1016/j.physb.2020.412087",
+    "10.1016/j.rser.2013.03.008",
+    "10.1016/j.progpolymsci.2011.11.003",
+    "10.1016/j.jallcom.2014.04.032",
+    "10.1038/asiamat.2010.138",
+    "10.1016/j.rser.2016.06.035"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "p-type Bi0.52Sb1.48Te3 bulk material",
+        "Property": "ZT",
+        "Value": 1.56,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.04.032"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Bi0.52Sb1.48Te3 bulk material",
+        "Property": "ZT",
+        "Value": 1.56,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rser.2016.06.035"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Bi0.52Sb1.48Te3 bulk material",
+        "Property": "ZT",
+        "Value": 1.56,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S1002-0071(12)60066-5"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.52Sb1.48Te3 bulk material",
+        "Property": "ZT",
+        "Value": 1.56,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc02219c"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Bi0.52Sb1.48Te3 bulk material",
+        "Property": "ZT",
+        "Value": 1.56,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ra23197f"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.52Sb1.48Te3 bulk alloy",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2010.09.034"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.52Sb1.48Te3 bulk material",
+        "Property": "ZT",
+        "Value": 1.56,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.progpolymsci.2011.11.003"
+      },
+      {
+        "Original_Name_In_Paper": "bulk nanostructural p-type Bi0.52Sb1.48Te3",
+        "Property": "ZT",
+        "Value": 1.56,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/asiamat.2010.138"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Bi0.52Sb1.48Te3",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2020.412087"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.52Sb1.48Te3 bulk materials",
+        "Property": "ZT",
+        "Value": 1.56,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.06.195"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Bi0.52Sb1.48Te3 bulk material",
+        "Property": "ZT",
+        "Value": 1.56,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2011.07.010"
+      },
+      {
+        "Original_Name_In_Paper": "nanocrystalline Bi0.52Sb1.48Te3",
+        "Property": "ZT",
+        "Value": 1.56,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.11.065"
+      },
+      {
+        "Original_Name_In_Paper": "Cu doped Bi0.52Sb1.48Te3 alloys",
+        "Property": "Conductivity",
+        "Value": 190500.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2019.12.001"
+      }
+    ],
+    "350.0": [
+      {
+        "Original_Name_In_Paper": "Pb-doped Bi0.52Sb1.48Te3",
+        "Property": "ZT",
+        "Value": 0.13,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2017.10.009"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.52Sb1.48Te3 alloys",
+        "Property": "ZT",
+        "Value": 1.1400000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-016-4920-8"
+      }
+    ],
+    "303.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.52Sb1.48Te3",
+        "Property": "ZT",
+        "Value": 1.56,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2018.07.002"
+      },
+      {
+        "Original_Name_In_Paper": "bulk nano-structured Bi0.52Sb1.48Te3",
+        "Property": "ZT",
+        "Value": 1.56,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rser.2013.03.008"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Bi0.52Sb1.48Te3 bulk material",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c1jm10163c"
+      }
+    ]
+  }
+}

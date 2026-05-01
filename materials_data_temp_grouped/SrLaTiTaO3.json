@@ -1,0 +1,18 @@
+{
+  "Material": "SrLaTiTaO3",
+  "DOIs_Researched": [
+    "10.1039/b913799h"
+  ],
+  "Data_By_Temperature": {
+    "660.0": [
+      {
+        "Original_Name_In_Paper": "Sr0.99La0.01Ti0.99Ta0.01O3",
+        "Property": "ZT",
+        "Value": 0.13,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/b913799h"
+      }
+    ]
+  }
+}

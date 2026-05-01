@@ -1,0 +1,18 @@
+{
+  "Material": "Cd2.97In0.03TeO3",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2004.03.045"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Cd2.97In0.03TeO3",
+        "Property": "PF",
+        "Value": 0.000135,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2004.03.045"
+      }
+    ]
+  }
+}

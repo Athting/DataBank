@@ -1,0 +1,18 @@
+{
+  "Material": "LaCo13",
+  "DOIs_Researched": [
+    "10.1557/PROC-793-S8.28"
+  ],
+  "Data_By_Temperature": {
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "LaCo13",
+        "Property": "Seebeck",
+        "Value": -3.0000000000000004e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1557/PROC-793-S8.28"
+      }
+    ]
+  }
+}

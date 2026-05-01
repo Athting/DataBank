@@ -1,0 +1,18 @@
+{
+  "Material": "Na0.03Eu0.03Sn0.02Pb0.",
+  "DOIs_Researched": [
+    "10.1007/s10853-020-04949-0"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Na0.03Eu0.03Sn0.02Pb0.92Te",
+        "Property": "ZT",
+        "Value": 2.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      }
+    ]
+  }
+}

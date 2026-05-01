@@ -1,0 +1,34 @@
+{
+  "Material": "Bi2S3 doped with 1 mol % InCl3",
+  "DOIs_Researched": [
+    "10.1007/s10853-019-04008-3"
+  ],
+  "Data_By_Temperature": {
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "Bi2S3 doped with 1 mol % InCl3",
+        "Property": "Seebeck",
+        "Value": -0.000244,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-019-04008-3"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2S3 doped with 1 mol % InCl3",
+        "Property": "PF",
+        "Value": 0.000363,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-019-04008-3"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2S3 doped with 1 mol % InCl3",
+        "Property": "Conductivity",
+        "Value": 6200.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-019-04008-3"
+      }
+    ]
+  }
+}

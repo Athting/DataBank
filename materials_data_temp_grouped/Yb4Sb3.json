@@ -1,0 +1,18 @@
+{
+  "Material": "Yb4Sb3",
+  "DOIs_Researched": [
+    "10.1007/s11664-010-1274-5"
+  ],
+  "Data_By_Temperature": {
+    "1273.0": [
+      {
+        "Original_Name_In_Paper": "Yb4Sb3",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": "substituting Yb",
+        "Source_DOI": "10.1007/s11664-010-1274-5"
+      }
+    ]
+  }
+}

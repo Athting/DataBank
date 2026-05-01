@@ -1,0 +1,28 @@
+{
+  "Material": "Cu2Sn0.95Se3",
+  "DOIs_Researched": [
+    "10.1016/j.matchemphys.2014.06.054"
+  ],
+  "Data_By_Temperature": {
+    "775.0": [
+      {
+        "Original_Name_In_Paper": "Cu2Zn0.05Sn0.95Se3",
+        "Property": "PF",
+        "Value": 0.0008,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2014.06.054"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Cu2Zn0.05Sn0.95Se3",
+        "Property": "PF",
+        "Value": 0.0008,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2014.06.054"
+      }
+    ]
+  }
+}

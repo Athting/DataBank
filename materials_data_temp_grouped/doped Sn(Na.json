@@ -1,0 +1,18 @@
+{
+  "Material": "doped Sn(Na",
+  "DOIs_Researched": [
+    "10.1039/c5ee03366g"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "doped Sn(Na",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ee03366g"
+      }
+    ]
+  }
+}

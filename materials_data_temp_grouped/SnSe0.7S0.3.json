@@ -1,0 +1,60 @@
+{
+  "Material": "SnSe0.7S0.3",
+  "DOIs_Researched": [
+    "10.1039/d0tc01318h"
+  ],
+  "Data_By_Temperature": {
+    "820.0": [
+      {
+        "Original_Name_In_Paper": "SnSe0.7S0.3",
+        "Property": "ThermCond",
+        "Value": 0.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0tc01318h"
+      },
+      {
+        "Original_Name_In_Paper": "SnSe0.7S0.3 single crystal",
+        "Property": "ZT",
+        "Value": 1.1400000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0tc01318h"
+      },
+      {
+        "Original_Name_In_Paper": "SnSe0.7S0.3",
+        "Property": "ZT",
+        "Value": 1.1400000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0tc01318h"
+      },
+      {
+        "Original_Name_In_Paper": "SnSe0.7S0.3",
+        "Property": "ZT",
+        "Value": 1.1400000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0tc01318h"
+      },
+      {
+        "Original_Name_In_Paper": "SnSe0.7S0.3",
+        "Property": "PF",
+        "Value": 0.0007700000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0tc01318h"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "SnSe0.7S0.3",
+        "Property": "ZT",
+        "Value": 0.75,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0tc01318h"
+      }
+    ]
+  }
+}

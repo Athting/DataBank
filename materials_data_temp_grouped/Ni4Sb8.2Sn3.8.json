@@ -1,0 +1,34 @@
+{
+  "Material": "Ni4Sb8.2Sn3.8",
+  "DOIs_Researched": [
+    "10.1039/c6dt01298a"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ni4Sb8.2Sn3.8",
+        "Property": "ThermCond",
+        "Value": 2.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6dt01298a"
+      },
+      {
+        "Original_Name_In_Paper": "Ni4Sb8.2Sn3.8",
+        "Property": "ZT",
+        "Value": 0.11,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6dt01298a"
+      },
+      {
+        "Original_Name_In_Paper": "Ni4Sb8.2Sn3.8",
+        "Property": "Seebeck",
+        "Value": 7.000000000000001e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6dt01298a"
+      }
+    ]
+  }
+}

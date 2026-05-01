@@ -1,0 +1,42 @@
+{
+  "Material": "BiCuSe0.8Te0.2O",
+  "DOIs_Researched": [
+    "10.1016/j.jmat.2019.06.002"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "BiCuSe0.8Te0.2O",
+        "Property": "ZT",
+        "Value": 0.86,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2019.06.002"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSe0.8Te0.2O",
+        "Property": "ZT",
+        "Value": 0.86,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2019.06.002"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSe0.8Te0.2O",
+        "Property": "ZT",
+        "Value": 0.86,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2019.06.002"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSe0.8Te0.2O",
+        "Property": "ZT",
+        "Value": 0.86,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2019.06.002"
+      }
+    ]
+  }
+}

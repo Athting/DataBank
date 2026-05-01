@@ -1,0 +1,2693 @@
+{
+  "Material": "ZnO",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2016.10.076",
+    "10.1039/c8ta01463a",
+    "10.1039/c7nr00690j",
+    "10.1016/j.carbon.2018.12.047",
+    "10.1016/j.apsusc.2019.02.255",
+    "10.1016/j.solidstatesciences.2019.03.018",
+    "10.1016/j.ceramint.2016.09.076",
+    "10.1016/j.jallcom.2020.154199",
+    "10.1007/s42114-017-0011-4",
+    "10.1039/c4ra01220h",
+    "10.1007/s11434-014-0237-2",
+    "10.1039/c9ta02883h",
+    "10.1016/j.jeurceramsoc.2017.03.019",
+    "10.1007/s10854-018-8990-7",
+    "10.1039/c2jm33899h",
+    "10.1039/c6ra28854e",
+    "10.1039/c5cp04999g",
+    "10.1016/j.jart.2015.06.003",
+    "10.1016/B978-0-12-819576-5.00008-6",
+    "10.1016/j.ceramint.2016.04.056",
+    "10.1016/j.ceramint.2016.06.032",
+    "10.1016/S0925-8388(09)01720-4",
+    "10.1016/j.rinp.2018.10.034",
+    "10.1039/c8tc05148h",
+    "10.1016/j.jallcom.2018.02.349",
+    "10.1039/c8tc05114c",
+    "10.1016/j.physb.2019.03.020",
+    "10.1016/j.jallcom.2019.01.336",
+    "10.1038/s41598-020-68790-w",
+    "10.1007/s10853-012-6942-9",
+    "10.1134/S1063783419100354",
+    "10.1039/c3ra46813e",
+    "10.1016/j.mseb.2020.114679",
+    "10.1007/s10854-011-0574-8",
+    "10.1557/jmr.2011.108",
+    "10.1016/j.mssp.2011.06.002",
+    "10.1039/c3ra47617k",
+    "10.1016/j.apsusc.2018.02.196",
+    "10.1533/9781782422242.213",
+    "10.1016/j.mser.2018.09.001",
+    "10.1039/c5ra23634g",
+    "10.1016/j.mseb.2020.114745",
+    "10.1016/j.matlet.2014.12.029",
+    "10.1039/c3ta11806a",
+    "10.1039/c7cp00460e",
+    "10.1007/s11837-014-1218-2",
+    "10.1016/B978-0-08-102726-4.00004-1",
+    "10.1007/s40243-019-0163-y",
+    "10.1016/j.jallcom.2016.12.391",
+    "10.1016/j.surfin.2020.100504",
+    "10.1007/s10854-012-0657-1",
+    "10.1016/j.tca.2013.11.026",
+    "10.1016/j.ultramic.2019.112923",
+    "10.1016/j.nanoen.2018.11.009",
+    "10.1016/j.jeurceramsoc.2017.04.042",
+    "10.1016/S0921-4526(01)00419-7",
+    "10.1016/j.matdes.2018.05.019",
+    "10.1016/S0925-8388(07)00600-7",
+    "10.1038/srep22504",
+    "10.1007/s10854-017-6982-7",
+    "10.1039/c9na00361d",
+    "10.1039/c8cp02006j",
+    "10.1016/j.ceramint.2019.11.204",
+    "10.1016/j.tsf.2009.12.036",
+    "10.1039/c6ta03126a",
+    "10.1016/j.jpcs.2013.07.012",
+    "10.1016/j.mssp.2017.03.027",
+    "10.1016/j.jallcom.2016.10.196",
+    "10.1016/j.jallcom.2017.12.249",
+    "10.1039/c3ta12909h",
+    "10.1016/j.ceramint.2020.07.115",
+    "10.1016/j.jpcs.2010.06.006",
+    "10.1016/j.jallcom.2007.01.080",
+    "10.1016/j.ceramint.2019.10.271",
+    "10.1039/c9nr07406f",
+    "10.1016/j.nanoen.2016.02.028",
+    "10.1016/j.actamat.2018.01.059",
+    "10.1016/j.jallcom.2017.04.121",
+    "10.1016/j.physleta.2011.12.040",
+    "10.1016/j.ceramint.2015.07.183",
+    "10.1016/j.physleta.2019.06.037",
+    "10.1039/c7ta01121k",
+    "10.1016/j.mtla.2018.05.006",
+    "10.1016/B978-1-78242-245-7.00014-2",
+    "10.1039/c2cc33146b",
+    "10.1016/j.tsf.2013.07.034",
+    "10.1007/s11664-015-3991-2",
+    "10.1016/S0925-8388(10)00044-7",
+    "10.1016/j.jallcom.2015.10.062",
+    "10.1039/c3cp54289k",
+    "10.1016/j.nanoen.2012.02.012",
+    "10.1016/j.tsf.2012.07.046",
+    "10.1016/S0925-8388(10)02247-4",
+    "10.1016/j.solidstatesciences.2016.12.020",
+    "10.1016/j.jallcom.2020.156124",
+    "10.1016/S0167-577X(02)00832-7",
+    "10.1039/c4ta04355c",
+    "10.1039/c0sc00537a",
+    "10.1016/j.jallcom.2010.01.100",
+    "10.1016/j.jallcom.2010.10.004",
+    "10.1016/j.jpcs.2019.01.010",
+    "10.1016/S0065-3276(07)00018-4",
+    "10.1016/j.jpcs.2011.11.020",
+    "10.1016/j.vacuum.2018.03.033",
+    "10.1039/c3ra44223c",
+    "10.1038/npjcompumats.2016.23",
+    "10.1016/B978-0-12-815751-0.00009-2",
+    "10.1016/j.matlet.2019.02.063",
+    "10.1557/PROC-1166-N03-23",
+    "10.1039/c7nr08167g",
+    "10.1016/j.ensm.2016.01.004",
+    "10.1557/jmr.2012.220",
+    "10.1039/c5cp05076f",
+    "10.1016/j.scriptamat.2015.04.033",
+    "10.1016/j.ceramint.2020.01.084",
+    "10.1016/j.commatsci.2015.07.043",
+    "10.1016/j.matpr.2020.01.349",
+    "10.1016/j.mssp.2018.06.017",
+    "10.1039/c0cc01735c",
+    "10.1038/ncomms16076",
+    "10.1016/j.spmi.2015.06.036",
+    "10.1007/s10854-013-1379-8",
+    "10.1016/j.jeurceramsoc.2018.07.032",
+    "10.1016/j.actamat.2018.10.052",
+    "10.1016/j.ssc.2010.11.020",
+    "10.1016/j.ceramint.2018.01.043",
+    "10.1016/j.jallcom.2012.12.091",
+    "10.1016/j.cej.2012.01.076",
+    "10.1016/j.actamat.2013.02.021",
+    "10.1016/j.vacuum.2017.04.015",
+    "10.1016/S0925-8388(09)00895-0",
+    "10.1016/j.nanoen.2012.10.005",
+    "10.1016/j.energy.2013.03.023",
+    "10.1039/c3ta01594g",
+    "10.1016/S0921-5107(03)00280-0",
+    "10.1016/j.jallcom.2012.04.029",
+    "10.1016/j.jallcom.2019.152482",
+    "10.1039/c7ra05067d",
+    "10.1016/j.carbon.2020.08.024",
+    "10.1039/c3cp52942h",
+    "10.1016/j.jallcom.2013.11.204",
+    "10.1007/s11664-018-06839-3",
+    "10.1016/j.elspec.2009.03.001",
+    "10.1007/s11665-018-3601-6",
+    "10.1039/c4ta01183j",
+    "10.1016/j.energy.2020.117396"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "ZnO nanowires",
+        "Property": "ThermCond",
+        "Value": 5.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2jm33899h"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "ThermCond",
+        "Value": 10.7,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2013.02.021"
+      },
+      {
+        "Original_Name_In_Paper": "monolayer ZnO",
+        "Property": "ThermCond",
+        "Value": 4.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cp00460e"
+      },
+      {
+        "Original_Name_In_Paper": "monolayer ZnO",
+        "Property": "ThermCond",
+        "Value": 4.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cp00460e"
+      },
+      {
+        "Original_Name_In_Paper": "doped ZnO materials",
+        "Property": "ThermCond",
+        "Value": 40.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7nr00690j"
+      },
+      {
+        "Original_Name_In_Paper": "bulk ZnO",
+        "Property": "ThermCond",
+        "Value": 54.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2016.02.028"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO lattice",
+        "Property": "ThermCond",
+        "Value": 46.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2016.02.028"
+      },
+      {
+        "Original_Name_In_Paper": "bulk ZnO",
+        "Property": "ThermCond",
+        "Value": 0.1,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2016.02.028"
+      },
+      {
+        "Original_Name_In_Paper": "Al-doped ZnO thin films",
+        "Property": "ThermCond",
+        "Value": 0.5700000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2016.06.032"
+      },
+      {
+        "Original_Name_In_Paper": "pure ZnO",
+        "Property": "ThermCond",
+        "Value": 42.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/npjcompumats.2016.23"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "ThermCond",
+        "Value": 45.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2020.07.115"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "ThermCond",
+        "Value": 13.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2020.07.115"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO films",
+        "Property": "ThermCond",
+        "Value": 40.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2012.07.046"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO nanowires",
+        "Property": "ZT",
+        "Value": 0.00017,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.02.349"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO superlattice films",
+        "Property": "ZT",
+        "Value": 0.014,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7nr00690j"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO films",
+        "Property": "ZT",
+        "Value": 0.007,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7nr00690j"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO superlattice",
+        "Property": "ZT",
+        "Value": 0.014,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7nr00690j"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO superlattice films",
+        "Property": "ZT",
+        "Value": 0.014,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7nr00690j"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO superlattice films",
+        "Property": "ZT",
+        "Value": 0.014,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7nr00690j"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO films",
+        "Property": "ZT",
+        "Value": 0.007,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7nr00690j"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO nanowires",
+        "Property": "ZT",
+        "Value": 0.00017,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c0sc00537a"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "ZT",
+        "Value": 0.42,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.carbon.2020.08.024"
+      },
+      {
+        "Original_Name_In_Paper": "doped ZnO nanowires",
+        "Property": "Conductivity",
+        "Value": 38461.5384615385,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3cp54289k"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "Seebeck",
+        "Value": 0.00034,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2020.07.115"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO nanowires",
+        "Property": "Seebeck",
+        "Value": -0.000188,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c0sc00537a"
+      },
+      {
+        "Original_Name_In_Paper": "10 wt % Al-doped ZnO thin films",
+        "Property": "Seebeck",
+        "Value": -5.6e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.surfin.2020.100504"
+      },
+      {
+        "Original_Name_In_Paper": "Al-doped ZnO thin films",
+        "Property": "Seebeck",
+        "Value": -6.5e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.surfin.2020.100504"
+      },
+      {
+        "Original_Name_In_Paper": "Al-doped ZnO thin films",
+        "Property": "Seebeck",
+        "Value": -6.000000000000001e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.surfin.2020.100504"
+      },
+      {
+        "Original_Name_In_Paper": "10 wt % Al-doped ZnO thin film",
+        "Property": "Seebeck",
+        "Value": -5.6e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.surfin.2020.100504"
+      },
+      {
+        "Original_Name_In_Paper": "10 wt % Al-doped ZnO thin film",
+        "Property": "Seebeck",
+        "Value": -5.6e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.surfin.2020.100504"
+      },
+      {
+        "Original_Name_In_Paper": "Al-doped ZnO",
+        "Property": "PF",
+        "Value": 39000.0,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/ncomms16076"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "Conductivity",
+        "Value": 0.30000000000000004,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.carbon.2018.12.047"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO nanowires",
+        "Property": "Conductivity",
+        "Value": 38460.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physleta.2019.06.037"
+      },
+      {
+        "Original_Name_In_Paper": "Au doped ZnO",
+        "Property": "Conductivity",
+        "Value": 89600.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2019.03.020"
+      }
+    ],
+    "343.0": [
+      {
+        "Original_Name_In_Paper": "single crystal bulk ZnO",
+        "Property": "ThermCond",
+        "Value": 5.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154199"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "Seebeck",
+        "Value": 0.0001415,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.energy.2020.117396"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "PF",
+        "Value": 2.8e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.energy.2020.117396"
+      }
+    ],
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "Al-doped ZnO",
+        "Property": "ThermCond",
+        "Value": 1.9,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.10.062"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "ThermCond",
+        "Value": 125.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2015.07.043"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "ThermCond",
+        "Value": 5.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ra46813e"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "ThermCond",
+        "Value": 125.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matpr.2020.01.349"
+      },
+      {
+        "Original_Name_In_Paper": "nanostructured Al-doped ZnO",
+        "Property": "ZT",
+        "Value": 0.44,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2012.12.091"
+      },
+      {
+        "Original_Name_In_Paper": "Al-doped ZnO nanocrystals",
+        "Property": "ZT",
+        "Value": 0.44,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mseb.2020.114679"
+      },
+      {
+        "Original_Name_In_Paper": "Al-doped ZnO",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-012-6942-9"
+      },
+      {
+        "Original_Name_In_Paper": "Al-doped ZnO nanocomposite",
+        "Property": "ZT",
+        "Value": 0.44,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2015.07.183"
+      },
+      {
+        "Original_Name_In_Paper": "polycrystalline ZnO",
+        "Property": "ZT",
+        "Value": 0.47000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2017.03.019"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "ZT",
+        "Value": 0.44,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta11806a"
+      },
+      {
+        "Original_Name_In_Paper": "doped ZnO nanoparticles",
+        "Property": "ZT",
+        "Value": 0.44,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11434-014-0237-2"
+      },
+      {
+        "Original_Name_In_Paper": "Al-doped ZnO",
+        "Property": "ZT",
+        "Value": 0.59,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2013.02.021"
+      },
+      {
+        "Original_Name_In_Paper": "Al-doped ZnO",
+        "Property": "ZT",
+        "Value": 0.44,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.10.062"
+      },
+      {
+        "Original_Name_In_Paper": "Al-doped ZnO nanocomposites",
+        "Property": "ZT",
+        "Value": 0.44,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.vacuum.2017.04.015"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9na00361d"
+      },
+      {
+        "Original_Name_In_Paper": "doped ZnO nanoparticles",
+        "Property": "ZT",
+        "Value": 0.44,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-12-815751-0.00009-2"
+      },
+      {
+        "Original_Name_In_Paper": "Al and Ga dually doped ZnO",
+        "Property": "ZT",
+        "Value": 0.47000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2016.12.020"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO nanocomposites",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3cp52942h"
+      },
+      {
+        "Original_Name_In_Paper": "Al-doped ZnO nanocrystals",
+        "Property": "ZT",
+        "Value": 0.44,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.156124"
+      },
+      {
+        "Original_Name_In_Paper": "0.5 at % Nb-doped ZnO",
+        "Property": "Seebeck",
+        "Value": 0.00025736,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2013.07.012"
+      },
+      {
+        "Original_Name_In_Paper": "Ga-doped ZnO",
+        "Property": "Seebeck",
+        "Value": -0.000164,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1557/jmr.2012.220"
+      },
+      {
+        "Original_Name_In_Paper": "0.5 at % Nb-doped ZnO",
+        "Property": "PF",
+        "Value": 0.000484,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2013.07.012"
+      }
+    ],
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "pure ZnO",
+        "Property": "ThermCond",
+        "Value": 40.7,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2017.04.042"
+      },
+      {
+        "Original_Name_In_Paper": "Al-doped ZnO",
+        "Property": "ThermCond",
+        "Value": 5.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra01220h"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO\u20132 % Al",
+        "Property": "ThermCond",
+        "Value": 0.86,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra01220h"
+      },
+      {
+        "Original_Name_In_Paper": "pure ZnO",
+        "Property": "ThermCond",
+        "Value": 40.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2017.03.019"
+      },
+      {
+        "Original_Name_In_Paper": "pure ZnO",
+        "Property": "ThermCond",
+        "Value": 7.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2017.03.019"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "ThermCond",
+        "Value": 3.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtla.2018.05.006"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "ThermCond",
+        "Value": 6.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2017.04.042"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "ThermCond",
+        "Value": 40.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2018.07.032"
+      },
+      {
+        "Original_Name_In_Paper": "Al-doped ZnO",
+        "Property": "ThermCond",
+        "Value": 2.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ra47617k"
+      },
+      {
+        "Original_Name_In_Paper": "pristine ZnO",
+        "Property": "ThermCond",
+        "Value": 24.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2018.01.059"
+      },
+      {
+        "Original_Name_In_Paper": "nanograined ZnO",
+        "Property": "ThermCond",
+        "Value": 3.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mser.2018.09.001"
+      },
+      {
+        "Original_Name_In_Paper": "Al-doped ZnO nanocomposites",
+        "Property": "ThermCond",
+        "Value": 2.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta01463a"
+      },
+      {
+        "Original_Name_In_Paper": "pure ZnO",
+        "Property": "ThermCond",
+        "Value": 40.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2010.06.006"
+      },
+      {
+        "Original_Name_In_Paper": "bulk ZnO",
+        "Property": "ThermCond",
+        "Value": 100.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c0sc00537a"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "ThermCond",
+        "Value": 20.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rinp.2018.10.034"
+      },
+      {
+        "Original_Name_In_Paper": "monolayer ZnO",
+        "Property": "ThermCond",
+        "Value": 4.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8cp02006j"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO single crystal",
+        "Property": "ThermCond",
+        "Value": 50.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ultramic.2019.112923"
+      },
+      {
+        "Original_Name_In_Paper": "bulk ZnO",
+        "Property": "ThermCond",
+        "Value": 50.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cej.2012.01.076"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO single crystal",
+        "Property": "ThermCond",
+        "Value": 100.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5cp05076f"
+      },
+      {
+        "Original_Name_In_Paper": "polycrystalline bulk ZnO",
+        "Property": "ThermCond",
+        "Value": 54.1,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5cp05076f"
+      },
+      {
+        "Original_Name_In_Paper": "pure ZnO",
+        "Property": "ThermCond",
+        "Value": 6.91,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2017.03.027"
+      },
+      {
+        "Original_Name_In_Paper": "undoped nanobulk ZnO",
+        "Property": "ThermCond",
+        "Value": 7.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ra46813e"
+      },
+      {
+        "Original_Name_In_Paper": "Monolayer ZnO",
+        "Property": "ThermCond",
+        "Value": 4.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cp00460e"
+      },
+      {
+        "Original_Name_In_Paper": "bulk n-type ZnO",
+        "Property": "ThermCond",
+        "Value": 98.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/srep22504"
+      },
+      {
+        "Original_Name_In_Paper": "bulk ZnO",
+        "Property": "ThermCond",
+        "Value": 46.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/srep22504"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO powder",
+        "Property": "ThermCond",
+        "Value": 49.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/srep22504"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO powder",
+        "Property": "ThermCond",
+        "Value": 37.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/srep22504"
+      },
+      {
+        "Original_Name_In_Paper": "pure ZnO crystal",
+        "Property": "ThermCond",
+        "Value": 47.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/srep22504"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "ThermCond",
+        "Value": 37.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/srep22504"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "ThermCond",
+        "Value": 50.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/srep22504"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO with 2 at % Al",
+        "Property": "ThermCond",
+        "Value": 7.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra01220h"
+      },
+      {
+        "Original_Name_In_Paper": "polycrystalline ZnO",
+        "Property": "ThermCond",
+        "Value": 40.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2017.03.019"
+      },
+      {
+        "Original_Name_In_Paper": "polycrystalline ZnO thin films",
+        "Property": "ThermCond",
+        "Value": 43.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2016.02.028"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "ThermCond",
+        "Value": 4.15,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2016.02.028"
+      },
+      {
+        "Original_Name_In_Paper": "polycrystalline ZnO thin films",
+        "Property": "ThermCond",
+        "Value": 43.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2016.02.028"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "ThermCond",
+        "Value": 7.16,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2016.02.028"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "ThermCond",
+        "Value": 40.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/npjcompumats.2016.23"
+      },
+      {
+        "Original_Name_In_Paper": "Undoped ZnO",
+        "Property": "ThermCond",
+        "Value": 40.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta04355c"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "ThermCond",
+        "Value": 12.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2020.07.115"
+      },
+      {
+        "Original_Name_In_Paper": "bulk ZnO-based materials",
+        "Property": "ThermCond",
+        "Value": 100.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ra05067d"
+      },
+      {
+        "Original_Name_In_Paper": "bulk ZnO material",
+        "Property": "ThermCond",
+        "Value": 100.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ra05067d"
+      },
+      {
+        "Original_Name_In_Paper": "nonnanostructured bulk ZnO",
+        "Property": "ThermCond",
+        "Value": 40.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1557/jmr.2012.220"
+      },
+      {
+        "Original_Name_In_Paper": "Mn doped ZnO",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(10)02247-4"
+      },
+      {
+        "Original_Name_In_Paper": "pure ZnO",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7nr08167g"
+      },
+      {
+        "Original_Name_In_Paper": "pure ZnO",
+        "Property": "ZT",
+        "Value": 0.01,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7nr08167g"
+      },
+      {
+        "Original_Name_In_Paper": "pure ZnO",
+        "Property": "ZT",
+        "Value": 0.001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7nr08167g"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2019.02.063"
+      },
+      {
+        "Original_Name_In_Paper": "pure bulk ZnO",
+        "Property": "ZT",
+        "Value": 0.00014000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physleta.2019.06.037"
+      },
+      {
+        "Original_Name_In_Paper": "Al-doped ZnO thin films",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.vacuum.2017.04.015"
+      },
+      {
+        "Original_Name_In_Paper": "transition metal- incorporated ZnO",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(07)00600-7"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO films",
+        "Property": "ZT",
+        "Value": 0.02,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2019.11.204"
+      },
+      {
+        "Original_Name_In_Paper": "Al : ZnO films",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2019.11.204"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO NWs",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2012.02.012"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": "Cr doping",
+        "Source_DOI": "10.1016/S0925-8388(09)00895-0"
+      },
+      {
+        "Original_Name_In_Paper": "La-doped ZnO nanowires",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(09)01720-4"
+      },
+      {
+        "Original_Name_In_Paper": "La-doped ZnO nanowires",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(09)01720-4"
+      },
+      {
+        "Original_Name_In_Paper": "n-type ZnO / Bi2Te2.7Se0.3 composite",
+        "Property": "Conductivity",
+        "Value": 117647.0588235294,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.10.076"
+      },
+      {
+        "Original_Name_In_Paper": "Sb-doped ZnO film",
+        "Property": "Conductivity",
+        "Value": 17.4216027875,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.12.391"
+      },
+      {
+        "Original_Name_In_Paper": "Zinc oxide",
+        "Property": "Conductivity",
+        "Value": -25.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.01.100"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO film on glass substrate",
+        "Property": "Conductivity",
+        "Value": 200.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0921-4526(01)00419-7"
+      },
+      {
+        "Original_Name_In_Paper": "p-type ZnO film on glass substrate with Ga and N",
+        "Property": "Conductivity",
+        "Value": 200.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0921-4526(01)00419-7"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO nanowires",
+        "Property": "Conductivity",
+        "Value": 5263.1578947368,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c0cc01735c"
+      },
+      {
+        "Original_Name_In_Paper": "Zinc oxide",
+        "Property": "Conductivity",
+        "Value": -25.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jart.2015.06.003"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO : Ga matrix",
+        "Property": "Conductivity",
+        "Value": 25000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.vacuum.2018.03.033"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "Conductivity",
+        "Value": 51.2820512821,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-011-0574-8"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO : Al thin films",
+        "Property": "Conductivity",
+        "Value": 98039.2156862745,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1134/S1063783419100354"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO : Al thin films",
+        "Property": "Conductivity",
+        "Value": 98039.2156862745,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1134/S1063783419100354"
+      },
+      {
+        "Original_Name_In_Paper": "pure ZnO",
+        "Property": "Seebeck",
+        "Value": 0.00022,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0921-5107(03)00280-0"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "Seebeck",
+        "Value": -7.000000000000001e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2009.12.036"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO superlattice films",
+        "Property": "Seebeck",
+        "Value": 1.28e-06,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8tc05114c"
+      },
+      {
+        "Original_Name_In_Paper": "Sb-doped ZnO",
+        "Property": "Seebeck",
+        "Value": 0.0034000000000000002,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.12.249"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "Seebeck",
+        "Value": 0.00013000000000000002,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2015.04.033"
+      },
+      {
+        "Original_Name_In_Paper": "polycrystalline ZnO",
+        "Property": "Seebeck",
+        "Value": -0.0004,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2017.03.019"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO : Al thin films",
+        "Property": "Seebeck",
+        "Value": -6.000000000000001e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1134/S1063783419100354"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO : Al thin films",
+        "Property": "Seebeck",
+        "Value": 6.000000000000001e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1134/S1063783419100354"
+      },
+      {
+        "Original_Name_In_Paper": "undoped ZnO",
+        "Property": "Seebeck",
+        "Value": -0.0005,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2013.07.012"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO sample with 1 wt. % Al2O3",
+        "Property": "Seebeck",
+        "Value": -7.000000000000001e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.elspec.2009.03.001"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO / PVP",
+        "Property": "Seebeck",
+        "Value": -0.0003137,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2014.12.029"
+      },
+      {
+        "Original_Name_In_Paper": "bulk ZnO materials",
+        "Property": "Seebeck",
+        "Value": 0.00047799999999999996,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s42114-017-0011-4"
+      },
+      {
+        "Original_Name_In_Paper": "undoped ZnO",
+        "Property": "Seebeck",
+        "Value": -0.00028000000000000003,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta04355c"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "Seebeck",
+        "Value": -0.0005,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-020-68790-w"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO NWs",
+        "Property": "Seebeck",
+        "Value": -0.00041000000000000005,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2012.02.012"
+      },
+      {
+        "Original_Name_In_Paper": "pure ZnO thin film",
+        "Property": "Seebeck",
+        "Value": -0.00011399999999999999,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.surfin.2020.100504"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "PF",
+        "Value": 8e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mser.2018.09.001"
+      },
+      {
+        "Original_Name_In_Paper": "Al-doped ZnO thin films",
+        "Property": "PF",
+        "Value": 1e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta12909h"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO : Au film",
+        "Property": "PF",
+        "Value": 3.5799999999999996e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matdes.2018.05.019"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO nanorod",
+        "Property": "Conductivity",
+        "Value": 1900.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-12-819576-5.00008-6"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO nanorod",
+        "Property": "Conductivity",
+        "Value": 1900.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta01183j"
+      },
+      {
+        "Original_Name_In_Paper": "polycrystalline ZnO",
+        "Property": "Conductivity",
+        "Value": 1000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2017.03.019"
+      },
+      {
+        "Original_Name_In_Paper": "undoped ZnO",
+        "Property": "Conductivity",
+        "Value": 3000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta04355c"
+      }
+    ],
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "2 wt % SWCNT / ZnO",
+        "Property": "ThermCond",
+        "Value": 0.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8tc05148h"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "ThermCond",
+        "Value": 3.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": "point defects",
+        "Source_DOI": "10.1039/c5cp05076f"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "ZT",
+        "Value": 0.17,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-017-6982-7"
+      },
+      {
+        "Original_Name_In_Paper": "CeO2 and Dy2O3 dual doped ZnO",
+        "Property": "PF",
+        "Value": 44600.0,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-018-8990-7"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2O3-free ZnO",
+        "Property": "PF",
+        "Value": 7.000000000000001e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2007.01.080"
+      },
+      {
+        "Original_Name_In_Paper": "Zn0.995Dy0.005O",
+        "Property": "PF",
+        "Value": 0.000446,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.energy.2013.03.023"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "PF",
+        "Value": 8e-06,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.energy.2013.03.023"
+      },
+      {
+        "Original_Name_In_Paper": "Zn0.995Dy0.005O",
+        "Property": "PF",
+        "Value": 0.000446,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.energy.2013.03.023"
+      },
+      {
+        "Original_Name_In_Paper": "Zn0.995Dy0.005O",
+        "Property": "PF",
+        "Value": 0.000446,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.energy.2013.03.023"
+      },
+      {
+        "Original_Name_In_Paper": "Zn0.995Dy0.005O",
+        "Property": "PF",
+        "Value": 0.000446,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.energy.2013.03.023"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "PF",
+        "Value": 8e-06,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.energy.2013.03.023"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "Conductivity",
+        "Value": 72000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ra44223c"
+      }
+    ],
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "0.5 vol. % of ZnO",
+        "Property": "ThermCond",
+        "Value": 0.33,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-018-06839-3"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO nano-composite samples with 0.25 atomic % Al",
+        "Property": "ThermCond",
+        "Value": 2.3,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ra44223c"
+      },
+      {
+        "Original_Name_In_Paper": "pure ZnO",
+        "Property": "ZT",
+        "Value": 0.02,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2020.07.115"
+      },
+      {
+        "Original_Name_In_Paper": "Al-doped ZnO",
+        "Property": "ZT",
+        "Value": 0.085,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2010.06.006"
+      },
+      {
+        "Original_Name_In_Paper": "2 % Al2O3 ZnO",
+        "Property": "Seebeck",
+        "Value": -0.18,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1557/PROC-1166-N03-23"
+      },
+      {
+        "Original_Name_In_Paper": "textured Al / Ni-doped ZnO",
+        "Property": "PF",
+        "Value": 61600.0,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-018-8990-7"
+      },
+      {
+        "Original_Name_In_Paper": "2 % Al2O3 ZnO",
+        "Property": "Conductivity",
+        "Value": 800.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1557/PROC-1166-N03-23"
+      },
+      {
+        "Original_Name_In_Paper": "Al2O3 doped ZnO",
+        "Property": "Conductivity",
+        "Value": 85000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ra44223c"
+      }
+    ],
+    "298.0": [
+      {
+        "Original_Name_In_Paper": "ZnO nanostructures",
+        "Property": "ThermCond",
+        "Value": 0.34,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.10.196"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "ThermCond",
+        "Value": 0.5700000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.10.196"
+      }
+    ],
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "Al-doped ZnO",
+        "Property": "ThermCond",
+        "Value": 3.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra01220h"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "ThermCond",
+        "Value": 15.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2cc33146b"
+      },
+      {
+        "Original_Name_In_Paper": "Ga-doped ZnO",
+        "Property": "ZT",
+        "Value": 0.114,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.02.349"
+      },
+      {
+        "Original_Name_In_Paper": "n-type ZnO based",
+        "Property": "ZT",
+        "Value": 0.186,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.02.349"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "Seebeck",
+        "Value": -0.00036,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2cc33146b"
+      },
+      {
+        "Original_Name_In_Paper": "Al-doped ZnO",
+        "Property": "Conductivity",
+        "Value": 100000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra01220h"
+      }
+    ],
+    "40.0": [
+      {
+        "Original_Name_In_Paper": "ZnO superlattice",
+        "Property": "ThermCond",
+        "Value": 0.96,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7nr00690j"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO superlattice films",
+        "Property": "ThermCond",
+        "Value": 0.96,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7nr00690j"
+      }
+    ],
+    "358.0": [
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "ThermCond",
+        "Value": 15.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1533/9781782422242.213"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "ThermCond",
+        "Value": 15.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2cc33146b"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "Seebeck",
+        "Value": -0.00036,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ensm.2016.01.004"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "Seebeck",
+        "Value": -0.00036,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2cc33146b"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "Seebeck",
+        "Value": -0.00030000000000000003,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2cc33146b"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "Seebeck",
+        "Value": -0.00036,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matdes.2018.05.019"
+      }
+    ],
+    "348.0": [
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "ThermCond",
+        "Value": 43.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2019.10.271"
+      }
+    ],
+    "333.0": [
+      {
+        "Original_Name_In_Paper": "ZnO film",
+        "Property": "ThermCond",
+        "Value": 3.6,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7nr08167g"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO film",
+        "Property": "ThermCond",
+        "Value": 3.6,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7nr08167g"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO film",
+        "Property": "ThermCond",
+        "Value": 135.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7nr08167g"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO film",
+        "Property": "ZT",
+        "Value": 0.017,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7nr08167g"
+      },
+      {
+        "Original_Name_In_Paper": "pure ZnO",
+        "Property": "ZT",
+        "Value": 0.017,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7nr08167g"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO film",
+        "Property": "ZT",
+        "Value": 2.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7nr08167g"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO film",
+        "Property": "ZT",
+        "Value": 0.0172,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7nr08167g"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO film",
+        "Property": "Seebeck",
+        "Value": -0.000225,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7nr08167g"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO film",
+        "Property": "Seebeck",
+        "Value": -0.00025299999999999997,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7nr08167g"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO films",
+        "Property": "PF",
+        "Value": 0.00018,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7nr08167g"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO film",
+        "Property": "Conductivity",
+        "Value": 3740.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7nr08167g"
+      }
+    ],
+    "693.0": [
+      {
+        "Original_Name_In_Paper": "ZnO film based",
+        "Property": "ThermCond",
+        "Value": 2.74,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7nr08167g"
+      },
+      {
+        "Original_Name_In_Paper": "pure ZnO",
+        "Property": "ZT",
+        "Value": 0.07200000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7nr08167g"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO film based",
+        "Property": "ZT",
+        "Value": 0.07200000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7nr08167g"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO film",
+        "Property": "ZT",
+        "Value": 0.07,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7nr08167g"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO film",
+        "Property": "ZT",
+        "Value": 0.07200000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7nr08167g"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "ZT",
+        "Value": 0.07200000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9nr07406f"
+      }
+    ],
+    "350.0": [
+      {
+        "Original_Name_In_Paper": "bulk nanograined ZnO",
+        "Property": "ThermCond",
+        "Value": 31.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7nr08167g"
+      }
+    ],
+    "1273.0": [
+      {
+        "Original_Name_In_Paper": "Al-doped n-type Zn0.98Al0.02O",
+        "Property": "ThermCond",
+        "Value": 54.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2016.02.028"
+      },
+      {
+        "Original_Name_In_Paper": "Al-doped ZnO",
+        "Property": "ThermCond",
+        "Value": 5.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra28854e"
+      },
+      {
+        "Original_Name_In_Paper": "Al-doped ZnO",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2012.10.005"
+      },
+      {
+        "Original_Name_In_Paper": "doped ZnO with Al",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-017-6982-7"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "ZT",
+        "Value": 0.74,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2013.07.034"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.04.121"
+      },
+      {
+        "Original_Name_In_Paper": "Al-doped n-type Zn0.98Al0.02O",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2016.02.028"
+      },
+      {
+        "Original_Name_In_Paper": "doped ZnO",
+        "Property": "ZT",
+        "Value": 0.65,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2018.10.052"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "ZT",
+        "Value": 0.45,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ta01121k"
+      },
+      {
+        "Original_Name_In_Paper": "Al-doped ZnO bulk",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.vacuum.2017.04.015"
+      },
+      {
+        "Original_Name_In_Paper": "Ga double-doped ZnO",
+        "Property": "ZT",
+        "Value": 0.65,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11665-018-3601-6"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO based",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3cp52942h"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "ZT",
+        "Value": 0.0015,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s40243-019-0163-y"
+      },
+      {
+        "Original_Name_In_Paper": "Al-doped ZnO-based systems",
+        "Property": "ZT",
+        "Value": 0.55,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s40243-019-0163-y"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "ZT",
+        "Value": 0.65,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1557/jmr.2011.108"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "Seebeck",
+        "Value": 0.0002,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ra05067d"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "PF",
+        "Value": 0.0004,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2019.02.255"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "PF",
+        "Value": 0.000368,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tca.2013.11.026"
+      }
+    ],
+    "1023.0": [
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "ThermCond",
+        "Value": 7.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/npjcompumats.2016.23"
+      }
+    ],
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "bulk ZnO0.09S0.01",
+        "Property": "ThermCond",
+        "Value": 4.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2020.01.084"
+      },
+      {
+        "Original_Name_In_Paper": "multi-doped ZnO",
+        "Property": "ZT",
+        "Value": 0.09,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.vacuum.2017.04.015"
+      },
+      {
+        "Original_Name_In_Paper": "undoped ZnO",
+        "Property": "ZT",
+        "Value": 0.038,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.01.043"
+      },
+      {
+        "Original_Name_In_Paper": "Al-doped ZnO",
+        "Property": "ZT",
+        "Value": 0.15,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.156124"
+      },
+      {
+        "Original_Name_In_Paper": "pure ZnO",
+        "Property": "Seebeck",
+        "Value": 0.000517,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2017.04.042"
+      },
+      {
+        "Original_Name_In_Paper": "pure ZnO",
+        "Property": "Conductivity",
+        "Value": 1790.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2017.04.042"
+      }
+    ],
+    "370.0": [
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "ThermCond",
+        "Value": 0.61,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5cp04999g"
+      }
+    ],
+    "383.0": [
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "ThermCond",
+        "Value": 2.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.02.349"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "PF",
+        "Value": 8.86e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.02.349"
+      },
+      {
+        "Original_Name_In_Paper": "InGa-doped ZnO film",
+        "Property": "PF",
+        "Value": 3.5799999999999996e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matdes.2018.05.019"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "ZT",
+        "Value": 0.78,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.11.204"
+      }
+    ],
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "pure ZnO materials",
+        "Property": "ZT",
+        "Value": 0.011,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ra05067d"
+      },
+      {
+        "Original_Name_In_Paper": "Al-doped ZnO",
+        "Property": "PF",
+        "Value": 0.0005300000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2018.06.017"
+      }
+    ],
+    "1473.0": [
+      {
+        "Original_Name_In_Paper": "Al-doped ZnO",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2012.04.029"
+      }
+    ],
+    "1247.0": [
+      {
+        "Original_Name_In_Paper": "bulk ZnO",
+        "Property": "ZT",
+        "Value": 0.65,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-017-6982-7"
+      },
+      {
+        "Original_Name_In_Paper": "Ga dual-doped ZnO",
+        "Property": "ZT",
+        "Value": 0.65,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-08-102726-4.00004-1"
+      },
+      {
+        "Original_Name_In_Paper": "doped ZnO with Al and Ga",
+        "Property": "ZT",
+        "Value": 0.65,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2013.02.021"
+      },
+      {
+        "Original_Name_In_Paper": "Ga doped ZnO",
+        "Property": "ZT",
+        "Value": 0.62,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7nr00690j"
+      },
+      {
+        "Original_Name_In_Paper": "Al and Ga dually doped ZnO",
+        "Property": "ZT",
+        "Value": 0.65,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physleta.2011.12.040"
+      },
+      {
+        "Original_Name_In_Paper": "doped ZnO",
+        "Property": "ZT",
+        "Value": 0.65,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s40243-019-0163-y"
+      },
+      {
+        "Original_Name_In_Paper": "Al and Ga dually doped ZnO",
+        "Property": "ZT",
+        "Value": 0.65,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta01594g"
+      }
+    ],
+    "1173.0": [
+      {
+        "Original_Name_In_Paper": "bulk Al-doped ZnO",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.02.349"
+      },
+      {
+        "Original_Name_In_Paper": "nanostructured Al-doped ZnO",
+        "Property": "ZT",
+        "Value": 0.0013000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta03126a"
+      },
+      {
+        "Original_Name_In_Paper": "Al-doped ZnO",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2016.04.056"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO based composite",
+        "Property": "ZT",
+        "Value": 0.28,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta02883h"
+      },
+      {
+        "Original_Name_In_Paper": "zinc oxide nanoparticles",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(10)00044-7"
+      },
+      {
+        "Original_Name_In_Paper": "Al-doped ZnO",
+        "Property": "PF",
+        "Value": 0.0015,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2012.12.091"
+      }
+    ],
+    "1223.0": [
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "ZT",
+        "Value": 0.16,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11837-014-1218-2"
+      }
+    ],
+    "460.0": [
+      {
+        "Original_Name_In_Paper": "pristine ZnO",
+        "Property": "ZT",
+        "Value": 0.32,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2019.03.020"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2019.03.020"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "n-type ZnO doped with Al and Ga",
+        "Property": "ZT",
+        "Value": 0.65,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2019.01.010"
+      }
+    ],
+    "399.15": [
+      {
+        "Original_Name_In_Paper": "ZnO films",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7nr08167g"
+      }
+    ],
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "ZT",
+        "Value": 0.11,
+        "Units": null,
+        "Editing": "atomic % of Dysprosium doping",
+        "Source_DOI": "10.1016/j.jallcom.2019.01.336"
+      }
+    ],
+    "572.0": [
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "ZT",
+        "Value": 0.00014000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra01220h"
+      }
+    ],
+    "698.0": [
+      {
+        "Original_Name_In_Paper": "ZnO thin films",
+        "Property": "ZT",
+        "Value": 0.05,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0167-577X(02)00832-7"
+      }
+    ],
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "N-doped ZnO",
+        "Property": "ZT",
+        "Value": 0.02,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2018.02.196"
+      }
+    ],
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "amorphous ZnO",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.vacuum.2017.04.015"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "Conductivity",
+        "Value": 2.5e-07,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0065-3276(07)00018-4"
+      }
+    ],
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "ZT",
+        "Value": 1.21,
+        "Units": null,
+        "Editing": "addition of ZnO",
+        "Source_DOI": "10.1007/s11664-015-3991-2"
+      },
+      {
+        "Original_Name_In_Paper": "pure ZnO",
+        "Property": "Seebeck",
+        "Value": 2.7e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2019.03.018"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "Seebeck",
+        "Value": 6.5e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2018.11.009"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "PF",
+        "Value": 1.4e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2018.11.009"
+      },
+      {
+        "Original_Name_In_Paper": "pure ZnO",
+        "Property": "Conductivity",
+        "Value": 79400000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-012-0657-1"
+      },
+      {
+        "Original_Name_In_Paper": "doped ZnO",
+        "Property": "Conductivity",
+        "Value": 5495.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-012-0657-1"
+      },
+      {
+        "Original_Name_In_Paper": "3 mol % Co-doped ZnO",
+        "Property": "Conductivity",
+        "Value": 421.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-012-0657-1"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "Conductivity",
+        "Value": 3000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2018.11.009"
+      }
+    ],
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "zinc oxide",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c0sc00537a"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO superlattice film",
+        "Property": "ZT",
+        "Value": 0.19,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.152482"
+      },
+      {
+        "Original_Name_In_Paper": "undoped ZnO thin films",
+        "Property": "ZT",
+        "Value": 1.4e-05,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.152482"
+      },
+      {
+        "Original_Name_In_Paper": "nano-zinc oxide 420",
+        "Property": "ZT",
+        "Value": 2.9,
+        "Units": null,
+        "Editing": "CuO addition",
+        "Source_DOI": "10.1016/S0925-8388(10)00044-7"
+      },
+      {
+        "Original_Name_In_Paper": "undoped ZnO films",
+        "Property": "Seebeck",
+        "Value": -9.81e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.152482"
+      }
+    ],
+    "1033.0": [
+      {
+        "Original_Name_In_Paper": "Al doped ZnO",
+        "Property": "ZT",
+        "Value": 0.035,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2017.03.027"
+      }
+    ],
+    "77.0": [
+      {
+        "Original_Name_In_Paper": "ZnO superlattice films",
+        "Property": "ZT",
+        "Value": 0.00017,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.152482"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO superlattice films",
+        "Property": "ZT",
+        "Value": 0.00017,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.152482"
+      }
+    ],
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "nano-zinc oxide 420",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(10)00044-7"
+      },
+      {
+        "Original_Name_In_Paper": "nano-zinc oxide 420",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(10)00044-7"
+      },
+      {
+        "Original_Name_In_Paper": "zinc oxide nanoparticles",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(10)00044-7"
+      }
+    ],
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "pure ZnO",
+        "Property": "ZT",
+        "Value": 0.17500000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2010.11.020"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "nanogained ZnO",
+        "Property": "ZT",
+        "Value": 0.07,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2010.11.020"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO : F thin films",
+        "Property": "Conductivity",
+        "Value": 16666.6666666667,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2011.06.002"
+      }
+    ],
+    "200.0": [
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra23634g"
+      }
+    ],
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "ZnO films",
+        "Property": "Conductivity",
+        "Value": 54.347826087,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-013-1379-8"
+      }
+    ],
+    "230.0": [
+      {
+        "Original_Name_In_Paper": "ZnO film",
+        "Property": "Conductivity",
+        "Value": 1666.6666666667,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2015.04.033"
+      }
+    ],
+    "363.0": [
+      {
+        "Original_Name_In_Paper": "ZnO film",
+        "Property": "Conductivity",
+        "Value": 3.3333e-06,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2016.09.076"
+      }
+    ],
+    "975.0": [
+      {
+        "Original_Name_In_Paper": "(ZnO)Al.03In.02 films",
+        "Property": "Conductivity",
+        "Value": 47619.0476190476,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.10.004"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "Seebeck",
+        "Value": -0.00022,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.spmi.2015.06.036"
+      },
+      {
+        "Original_Name_In_Paper": "(ZnO)Al.03In.02 films",
+        "Property": "Seebeck",
+        "Value": -0.00022,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.10.004"
+      },
+      {
+        "Original_Name_In_Paper": "(ZnO)Al.03In.02 films",
+        "Property": "PF",
+        "Value": 0.00221,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": "In doping",
+        "Source_DOI": "10.1016/j.jallcom.2010.10.004"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "Conductivity",
+        "Value": 58800.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.spmi.2015.06.036"
+      }
+    ],
+    "180.0": [
+      {
+        "Original_Name_In_Paper": "ZnO nanostructures",
+        "Property": "Conductivity",
+        "Value": 458.7155963303,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2011.11.020"
+      }
+    ],
+    "473.0": [
+      {
+        "Original_Name_In_Paper": "ZnO",
+        "Property": "Conductivity",
+        "Value": 76923.0769230769,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.vacuum.2018.03.033"
+      },
+      {
+        "Original_Name_In_Paper": "pure ZnO",
+        "Property": "Seebeck",
+        "Value": -0.00033000000000000005,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2010.06.006"
+      },
+      {
+        "Original_Name_In_Paper": "Ga-doped ZnO bulk",
+        "Property": "Seebeck",
+        "Value": -0.00011499999999999999,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2014.12.029"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO : Al film",
+        "Property": "PF",
+        "Value": 0.000636,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matdes.2018.05.019"
+      },
+      {
+        "Original_Name_In_Paper": "Dy doped ZnO",
+        "Property": "Conductivity",
+        "Value": 500.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mseb.2020.114745"
+      }
+    ],
+    "630.0": [
+      {
+        "Original_Name_In_Paper": "ZnO film",
+        "Property": "Seebeck",
+        "Value": -0.00026199999999999997,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7nr08167g"
+      }
+    ],
+    "643.0": [
+      {
+        "Original_Name_In_Paper": "ZnO thin films",
+        "Property": "PF",
+        "Value": 0.00018,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-1-78242-245-7.00014-2"
+      }
+    ],
+    "325.0": [
+      {
+        "Original_Name_In_Paper": "undoped bulk ZnO",
+        "Property": "PF",
+        "Value": 0.00013199999999999998,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ra05067d"
+      }
+    ],
+    "1050.0": [
+      {
+        "Original_Name_In_Paper": "Ga doped ZnO",
+        "Property": "PF",
+        "Value": 0.000918,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2018.06.017"
+      }
+    ],
+    "965.1": [
+      {
+        "Original_Name_In_Paper": "undoped ZnO",
+        "Property": "PF",
+        "Value": 0.0007260999999999999,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2018.06.017"
+      }
+    ],
+    "965.2": [
+      {
+        "Original_Name_In_Paper": "Ga co-doped ZnO",
+        "Property": "PF",
+        "Value": 0.0007209,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-018-8990-7"
+      }
+    ]
+  }
+}

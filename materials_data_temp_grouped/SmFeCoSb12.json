@@ -1,0 +1,18 @@
+{
+  "Material": "SmFeCoSb12",
+  "DOIs_Researched": [
+    "10.1016/S1002-0721(08)60018-6"
+  ],
+  "Data_By_Temperature": {
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "Sm0.32Fe1.47Co2.53Sb12",
+        "Property": "ZT",
+        "Value": 0.68,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S1002-0721(08)60018-6"
+      }
+    ]
+  }
+}

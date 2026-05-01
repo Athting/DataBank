@@ -1,0 +1,18 @@
+{
+  "Material": "rare earth substituted ferrites",
+  "DOIs_Researched": [
+    "10.1016/j.jmmm.2013.11.052"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "rare earth substituted ferrites",
+        "Property": "Conductivity",
+        "Value": 6.9e-05,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmmm.2013.11.052"
+      }
+    ]
+  }
+}

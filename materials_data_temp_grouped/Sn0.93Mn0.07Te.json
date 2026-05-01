@@ -1,0 +1,18 @@
+{
+  "Material": "Sn0.93Mn0.07Te",
+  "DOIs_Researched": [
+    "10.1016/j.cej.2020.127795"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Sn0.93Mn0.07Te",
+        "Property": "Conductivity",
+        "Value": 254200.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cej.2020.127795"
+      }
+    ]
+  }
+}

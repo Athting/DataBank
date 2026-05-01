@@ -1,0 +1,26 @@
+{
+  "Material": "BSGCF",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2011.12.001"
+  ],
+  "Data_By_Temperature": {
+    "780.0": [
+      {
+        "Original_Name_In_Paper": "BSGCF",
+        "Property": "Conductivity",
+        "Value": 14800.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2011.12.001"
+      },
+      {
+        "Original_Name_In_Paper": "BSGCF",
+        "Property": "Conductivity",
+        "Value": 14800.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2011.12.001"
+      }
+    ]
+  }
+}

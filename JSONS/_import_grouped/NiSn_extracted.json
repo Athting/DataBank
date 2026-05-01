@@ -1,0 +1,119 @@
+{
+  "doi": "10.1016/j.enconman.2009.05.023",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Hf)NiSn",
+        "n-type Hf0.75Zr0.25NiSn0.99Sb0.01",
+        "n-type (Hf0.25Zr0.25Ti0.5)NiSn0.998Sb0.002",
+        "Zr / Hf / Ti)NiSn",
+        "n-type ( Zr–Hf)NiSn",
+        "n-type Hf0.6Zr0.4NiSn0.995Sb0.005",
+        "n-type Hf0.25Zr0.75NiSn0.97Sb0.03"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Hf)NiSn",
+          "value": 3,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "n-type Hf0.75Zr0.25NiSn0.99Sb0.01",
+          "value": 3.1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "n-type Hf0.75Zr0.25NiSn0.99Sb0.01",
+          "value": 3.1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "n-type Hf0.75Zr0.25NiSn0.99Sb0.01",
+          "zt_value": 1,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "n-type Hf0.75Zr0.25NiSn0.99Sb0.01",
+          "zt_value": 1,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Hf)NiSn",
+          "zt_value": 0.7000000000000001,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Hf)NiSn",
+          "zt_value": 0.685,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "n-type (Hf0.25Zr0.25Ti0.5)NiSn0.998Sb0.002",
+          "zt_value": 1.2,
+          "temperature": "830.0 K"
+        },
+        {
+          "material": "Zr / Hf / Ti)NiSn",
+          "zt_value": 1.2,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "Hf)NiSn",
+          "zt_value": 1.5,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "n-type ( Zr–Hf)NiSn",
+          "zt_value": 1.5,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "n-type Hf0.6Zr0.4NiSn0.995Sb0.005",
+          "zt_value": 1.05,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "n-type Hf0.6Zr0.4NiSn0.995Sb0.005",
+          "zt_value": 1.05,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "n-type Hf0.25Zr0.75NiSn0.97Sb0.03",
+          "zt_value": 1,
+          "temperature": "900.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

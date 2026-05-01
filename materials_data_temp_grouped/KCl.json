@@ -1,0 +1,38 @@
+{
+  "Material": "KCl",
+  "DOIs_Researched": [
+    "10.1016/j.matpr.2020.08.271",
+    "10.1016/j.algal.2012.02.001",
+    "10.1007/s11270-015-2731-9"
+  ],
+  "Data_By_Temperature": {
+    "50.0": [
+      {
+        "Original_Name_In_Paper": "KCl",
+        "Property": "Seebeck",
+        "Value": 0.000254,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matpr.2020.08.271"
+      }
+    ],
+    "298.0": [
+      {
+        "Original_Name_In_Paper": "KCl",
+        "Property": "Conductivity",
+        "Value": 0.014700000000000001,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.algal.2012.02.001"
+      },
+      {
+        "Original_Name_In_Paper": "KCl",
+        "Property": "Conductivity",
+        "Value": 0.014700000000000001,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11270-015-2731-9"
+      }
+    ]
+  }
+}

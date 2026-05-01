@@ -1,0 +1,29 @@
+{
+  "Material": "CuFe1\u2212xNixO2",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2011.01.113",
+    "10.1039/c6ra08035a"
+  ],
+  "Data_By_Temperature": {
+    "1100.0": [
+      {
+        "Original_Name_In_Paper": "CuFe1\u2212xNixO2",
+        "Property": "ZT",
+        "Value": 0.00051,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra08035a"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "CuFe1\u2212xNixO2",
+        "Property": "Conductivity",
+        "Value": 800.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2011.01.113"
+      }
+    ]
+  }
+}

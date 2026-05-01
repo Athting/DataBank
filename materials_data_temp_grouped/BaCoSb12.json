@@ -1,0 +1,194 @@
+{
+  "Material": "BaCoSb12",
+  "DOIs_Researched": [
+    "10.1039/c4ta05285d",
+    "10.1016/j.jallcom.2019.152272",
+    "10.1016/j.solidstatesciences.2009.06.007",
+    "10.1016/j.mtphys.2017.12.004",
+    "10.1016/j.jallcom.2017.11.195",
+    "10.1007/s12598-020-01414-4",
+    "10.1016/j.jmat.2016.06.001",
+    "10.1016/j.jallcom.2016.10.114",
+    "10.1007/s10854-017-6603-5",
+    "10.1016/j.jpcs.2020.109545",
+    "10.1039/c2jm31677c"
+  ],
+  "Data_By_Temperature": {
+    "813.0": [
+      {
+        "Original_Name_In_Paper": "Ba0.3Co4Sb12",
+        "Property": "ThermCond",
+        "Value": 0.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta05285d"
+      }
+    ],
+    "883.0": [
+      {
+        "Original_Name_In_Paper": "Ba0.51Co4Sb12",
+        "Property": "ThermCond",
+        "Value": 0.73,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-017-6603-5"
+      },
+      {
+        "Original_Name_In_Paper": "Ba0.51Co4Sb12",
+        "Property": "ThermCond",
+        "Value": 0.73,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-017-6603-5"
+      },
+      {
+        "Original_Name_In_Paper": "Ba0.51Co4Sb12",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-017-6603-5"
+      },
+      {
+        "Original_Name_In_Paper": "Ba0.51Co4Sb12",
+        "Property": "ZT",
+        "Value": 0.99,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-017-6603-5"
+      },
+      {
+        "Original_Name_In_Paper": "Ba0.51Co4Sb12",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-017-6603-5"
+      },
+      {
+        "Original_Name_In_Paper": "Ba0.51Co4Sb12",
+        "Property": "PF",
+        "Value": 0.0054,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-017-6603-5"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ba-filled Ba0.25Co4Sb12",
+        "Property": "ThermCond",
+        "Value": 4.7,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2016.06.001"
+      },
+      {
+        "Original_Name_In_Paper": "Ba0.30Co4Sb12",
+        "Property": "ThermCond",
+        "Value": 5.7,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2jm31677c"
+      }
+    ],
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "Ba0.22Co4Sb12 matrix",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s12598-020-01414-4"
+      },
+      {
+        "Original_Name_In_Paper": "Ba0.24Co4Sb12",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2020.109545"
+      },
+      {
+        "Original_Name_In_Paper": "Ba0.24Co4Sb12",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.152272"
+      },
+      {
+        "Original_Name_In_Paper": "Ba0.22Co4Sb12",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2009.06.007"
+      }
+    ],
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "Ba0.4Co4Sb12",
+        "Property": "ZT",
+        "Value": 0.31,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.10.114"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Ba0.24Co4Sb12",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.10.114"
+      },
+      {
+        "Original_Name_In_Paper": "Ba0.30Co4Sb12",
+        "Property": "PF",
+        "Value": 0.00321,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2jm31677c"
+      }
+    ],
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "Ba0.3Co4Sb12",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta05285d"
+      },
+      {
+        "Original_Name_In_Paper": "Ba0.3Co4Sb12",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2017.12.004"
+      },
+      {
+        "Original_Name_In_Paper": "Ba0.3Co4Sb12 matrix",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2017.12.004"
+      }
+    ],
+    "650.0": [
+      {
+        "Original_Name_In_Paper": "Ba0.3Co4Sb12",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.11.195"
+      }
+    ]
+  }
+}

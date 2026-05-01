@@ -1,0 +1,26 @@
+{
+  "Material": "Sn0.99Na0.01Se",
+  "DOIs_Researched": [
+    "10.1039/c9nr07008g"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.99Na0.01Se-STSe",
+        "Property": "ThermCond",
+        "Value": 0.30000000000000004,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9nr07008g"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.99Na0.01Se-STSe",
+        "Property": "ZT",
+        "Value": 1.33,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9nr07008g"
+      }
+    ]
+  }
+}

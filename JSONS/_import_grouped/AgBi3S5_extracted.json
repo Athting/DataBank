@@ -1,0 +1,172 @@
+{
+  "doi": "10.1016/j.intermet.2013.01.013",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "AgBi3S5",
+        "AgBi3S5 bulk",
+        "Pristine AgBi3S5",
+        "pure AgBi3S5 bulk",
+        "pristine AgBi3S5",
+        "Chlorine-doped AgBi3S5"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "AgBi3S5",
+          "value": -0.000098,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "AgBi3S5",
+          "value": 40000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Pristine AgBi3S5",
+          "value": 17800,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "AgBi3S5",
+          "value": 48900,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "AgBi3S5",
+          "value": 40000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "AgBi3S5",
+          "value": 17800,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "323.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "AgBi3S5",
+          "value": 1.6,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "AgBi3S5",
+          "value": 0.7000000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "AgBi3S5",
+          "value": 1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "AgBi3S5 bulk",
+          "value": 0.7000000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "AgBi3S5",
+          "value": 1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure AgBi3S5 bulk",
+          "value": 0.64,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "573.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "pure AgBi3S5 bulk",
+          "value": 0.00022099999999999998,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "AgBi3S5",
+          "value": 0.000244,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "628.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "pristine AgBi3S5",
+          "zt_value": 0.2,
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "AgBi3S5 bulk",
+          "zt_value": 0.2,
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "pure AgBi3S5 bulk",
+          "zt_value": 0.2,
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "AgBi3S5",
+          "zt_value": 0.2,
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "AgBi3S5",
+          "zt_value": 0.23,
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "AgBi3S5",
+          "zt_value": 0.7000000000000001,
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "Chlorine-doped AgBi3S5",
+          "zt_value": 1,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "AgBi3S5",
+          "zt_value": 1,
+          "temperature": "800.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

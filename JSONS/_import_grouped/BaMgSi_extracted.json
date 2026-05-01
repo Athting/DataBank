@@ -1,0 +1,84 @@
+{
+  "doi": "10.1016/j.jallcom.2020.154342",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "BaMgSi",
+        "n-type BaMgSi",
+        "p-type BaMgSi"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "BaMgSi",
+          "value": 1.27,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "BaMgSi",
+          "value": 0.37,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1000.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "n-type BaMgSi",
+          "zt_value": 1.6800000000000002,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "p-type BaMgSi",
+          "zt_value": 2.96,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "p-type BaMgSi",
+          "zt_value": 2.96,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "p-type BaMgSi",
+          "zt_value": 2.96,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "p-type BaMgSi",
+          "zt_value": 2.96,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "p-type BaMgSi",
+          "zt_value": 2.96,
+          "temperature": "800.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

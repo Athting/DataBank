@@ -1,0 +1,61 @@
+{
+  "Material": "TbCuTe2",
+  "DOIs_Researched": [
+    "10.1039/c7qi00146k",
+    "10.1016/j.jssc.2019.03.009"
+  ],
+  "Data_By_Temperature": {
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "TbCuTe2",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2019.03.009"
+      },
+      {
+        "Original_Name_In_Paper": "TbCuTe2",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7qi00146k"
+      },
+      {
+        "Original_Name_In_Paper": "TbCuTe2 compound",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7qi00146k"
+      },
+      {
+        "Original_Name_In_Paper": "TbCuTe2",
+        "Property": "PF",
+        "Value": 0.0005700000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7qi00146k"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "TbCuTe2",
+        "Property": "Seebeck",
+        "Value": 0.000116,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7qi00146k"
+      },
+      {
+        "Original_Name_In_Paper": "TbCuTe2",
+        "Property": "Conductivity",
+        "Value": 19000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7qi00146k"
+      }
+    ]
+  }
+}

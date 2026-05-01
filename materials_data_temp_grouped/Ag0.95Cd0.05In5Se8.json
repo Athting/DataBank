@@ -1,0 +1,18 @@
+{
+  "Material": "Ag0.95Cd0.05In5Se8",
+  "DOIs_Researched": [
+    "10.1039/c6ra28432a"
+  ],
+  "Data_By_Temperature": {
+    "883.0": [
+      {
+        "Original_Name_In_Paper": "Ag0.95Cd0.05In5Se8",
+        "Property": "ZT",
+        "Value": 0.63,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra28432a"
+      }
+    ]
+  }
+}

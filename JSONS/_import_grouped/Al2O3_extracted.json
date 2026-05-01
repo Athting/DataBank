@@ -1,0 +1,216 @@
+{
+  "doi": "10.1039/c5tc01643f",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Al2O3",
+        "Al2O3 nanoparticles",
+        "Al2O3 nanocomposite",
+        "Al2O3 film",
+        "nanosized Al2O3",
+        "aluminum oxide",
+        "Al @ Al2O3 composite",
+        "Al2O3 nanolaminates",
+        "Al2O3-elements",
+        "Al2O3 composite",
+        "γ-Al2O3",
+        "1.0 vol. % γ-Al2O3 nanoparticles",
+        "mesoporous Al2O3"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "Al2O3",
+          "value": 0.000044999999999999996,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Al2O3",
+          "value": 0.000044999999999999996,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Al2O3 composite",
+          "value": 0.000022,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Al2O3",
+          "value": 0.000028499999999999998,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "345.0 K"
+        },
+        {
+          "material": "1.0 vol. % γ-Al2O3 nanoparticles",
+          "value": 0.00016,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "500.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "Al2O3 nanoparticles",
+          "value": 0.2,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Al2O3 nanocomposite",
+          "value": 1050,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Al2O3 film",
+          "value": 1200000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "nanosized Al2O3",
+          "value": 0.083,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "aluminum oxide",
+          "value": 0.0179,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Al2O3",
+          "value": 1200,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Al2O3 nanocomposite",
+          "value": 3375,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "350.0 K"
+        },
+        {
+          "material": "mesoporous Al2O3",
+          "value": 0.4,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "303.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Al @ Al2O3 composite",
+          "value": 1.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "933.4 K"
+        },
+        {
+          "material": "Al2O3 nanolaminates",
+          "value": 0.6000000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Al2O3-elements",
+          "value": 30,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "γ-Al2O3",
+          "value": 5.06,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "Al2O3",
+          "value": 10,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Al2O3",
+          "value": 0.00026000000000000003,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Al2O3",
+          "value": 0.00026000000000000003,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Al2O3",
+          "value": 0.00043000000000000004,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "600.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Al2O3",
+          "zt_value": 0.05,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Al2O3",
+          "zt_value": 0.01,
+          "temperature": "295 K"
+        },
+        {
+          "material": "γ-Al2O3",
+          "zt_value": 0.17,
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "Al2O3",
+          "zt_value": 1.1,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Al2O3",
+          "zt_value": 1.6,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "Al2O3",
+          "zt_value": 0.02,
+          "temperature": "345.0 K"
+        },
+        {
+          "material": "Al2O3",
+          "zt_value": 0.004,
+          "temperature": "973.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

@@ -1,0 +1,399 @@
+{
+  "Material": "AgSbSe2",
+  "DOIs_Researched": [
+    "10.1039/c6tc00893c",
+    "10.1039/c3ta14901c",
+    "10.1016/j.nanoen.2020.105232",
+    "10.1038/s41598-020-59820-8",
+    "10.1039/c5tc01429h",
+    "10.1039/c7ra12819c",
+    "10.1016/j.jallcom.2014.11.081",
+    "10.1039/c3ee41935e",
+    "10.1039/c4ra00969j",
+    "10.1016/j.synthmet.2020.116606",
+    "10.1007/s40948-019-00134-z",
+    "10.1039/c4dt03059a",
+    "10.1016/j.actamat.2015.04.011",
+    "10.1039/c5tc90161h"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "AgSbSe2",
+        "Property": "ThermCond",
+        "Value": 0.30000000000000004,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.105232"
+      },
+      {
+        "Original_Name_In_Paper": "AgSbSe2",
+        "Property": "ThermCond",
+        "Value": 0.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.synthmet.2020.116606"
+      },
+      {
+        "Original_Name_In_Paper": "AgSbSe2\u2013ZnSe ( 2 % )",
+        "Property": "ThermCond",
+        "Value": 0.34,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta14901c"
+      },
+      {
+        "Original_Name_In_Paper": "AgSb0.9925Se2",
+        "Property": "ThermCond",
+        "Value": 0.44,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01429h"
+      },
+      {
+        "Original_Name_In_Paper": "AgSb0.9925Se2",
+        "Property": "ThermCond",
+        "Value": 0.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01429h"
+      },
+      {
+        "Original_Name_In_Paper": "AgSbSe2",
+        "Property": "ThermCond",
+        "Value": 0.75,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.11.081"
+      },
+      {
+        "Original_Name_In_Paper": "AgSbSe2",
+        "Property": "Conductivity",
+        "Value": 12658.2278481013,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.11.081"
+      },
+      {
+        "Original_Name_In_Paper": "pristine AgSbSe2",
+        "Property": "Seebeck",
+        "Value": 0.00031,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra00969j"
+      },
+      {
+        "Original_Name_In_Paper": "AgSbSe2",
+        "Property": "Seebeck",
+        "Value": 0.00075,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": "AgSbSe2 alloying",
+        "Source_DOI": "10.1016/j.nanoen.2020.105232"
+      },
+      {
+        "Original_Name_In_Paper": "pristine AgSbSe2",
+        "Property": "Seebeck",
+        "Value": 0.00031,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ee41935e"
+      },
+      {
+        "Original_Name_In_Paper": "pristine AgSbSe2",
+        "Property": "Seebeck",
+        "Value": 0.00031,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta14901c"
+      },
+      {
+        "Original_Name_In_Paper": "pristine AgSbSe2",
+        "Property": "Seebeck",
+        "Value": 0.000164,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.11.081"
+      },
+      {
+        "Original_Name_In_Paper": "AgSb0.9925Se2",
+        "Property": "PF",
+        "Value": 0.00047000000000000004,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01429h"
+      },
+      {
+        "Original_Name_In_Paper": "AgSb0.9925Se2",
+        "Property": "Conductivity",
+        "Value": 8600.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01429h"
+      },
+      {
+        "Original_Name_In_Paper": "pristine AgSbSe2",
+        "Property": "Conductivity",
+        "Value": 2600.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4dt03059a"
+      },
+      {
+        "Original_Name_In_Paper": "AgSbSe2",
+        "Property": "Conductivity",
+        "Value": 1380.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6tc00893c"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "pristine AgSbSe2",
+        "Property": "ThermCond",
+        "Value": 0.36,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta14901c"
+      },
+      {
+        "Original_Name_In_Paper": "AgSbSe2\u2013ZnSe ( 2 % )",
+        "Property": "ThermCond",
+        "Value": 0.30000000000000004,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta14901c"
+      },
+      {
+        "Original_Name_In_Paper": "Pb-doped AgSbSe2",
+        "Property": "ThermCond",
+        "Value": 0.35000000000000003,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2015.04.011"
+      },
+      {
+        "Original_Name_In_Paper": "AgSbSe2",
+        "Property": "ThermCond",
+        "Value": 0.48,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-020-59820-8"
+      },
+      {
+        "Original_Name_In_Paper": "AgSbSe2",
+        "Property": "ThermCond",
+        "Value": 0.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6tc00893c"
+      }
+    ],
+    "610.0": [
+      {
+        "Original_Name_In_Paper": "AgSb0.9925Se2",
+        "Property": "ThermCond",
+        "Value": 0.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01429h"
+      },
+      {
+        "Original_Name_In_Paper": "AgSb1\u2212xSe2",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc90161h"
+      },
+      {
+        "Original_Name_In_Paper": "AgSb0.9925Se2",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01429h"
+      },
+      {
+        "Original_Name_In_Paper": "AgSb0.9925Se2",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01429h"
+      },
+      {
+        "Original_Name_In_Paper": "AgSb0.9925Se2",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01429h"
+      },
+      {
+        "Original_Name_In_Paper": "Sb deficient AgSb0.9925Se2",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01429h"
+      },
+      {
+        "Original_Name_In_Paper": "AgSb1\u2212xSe2",
+        "Property": "PF",
+        "Value": 0.6940000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc90161h"
+      },
+      {
+        "Original_Name_In_Paper": "AgSb1\u2212xSe2",
+        "Property": "PF",
+        "Value": 0.000694,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01429h"
+      }
+    ],
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "AgSb0.99Sn0.01Se2",
+        "Property": "ThermCond",
+        "Value": 0.29,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.11.081"
+      },
+      {
+        "Original_Name_In_Paper": "AgSbSe2",
+        "Property": "ZT",
+        "Value": 0.21,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ra12819c"
+      }
+    ],
+    "640.0": [
+      {
+        "Original_Name_In_Paper": "Cd-doped AgSbSe2",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.11.081"
+      },
+      {
+        "Original_Name_In_Paper": "AgSb0.98Bi0.02Se2 nanomaterials",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6tc00893c"
+      },
+      {
+        "Original_Name_In_Paper": "Bi-doped AgSbSe2 nanocrystals",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s40948-019-00134-z"
+      }
+    ],
+    "660.0": [
+      {
+        "Original_Name_In_Paper": "AgSb0.99Sn0.01Se2",
+        "Property": "ZT",
+        "Value": 1.21,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.11.081"
+      },
+      {
+        "Original_Name_In_Paper": "AgSbSe2",
+        "Property": "ZT",
+        "Value": 1.21,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.11.081"
+      },
+      {
+        "Original_Name_In_Paper": "AgSb0.99Sn0.01Se2",
+        "Property": "ZT",
+        "Value": 1.21,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.11.081"
+      }
+    ],
+    "623.0": [
+      {
+        "Original_Name_In_Paper": "Pristine AgSbSe2",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ra12819c"
+      }
+    ],
+    "635.0": [
+      {
+        "Original_Name_In_Paper": "AgSbSe2\u2013ZnSe ( 2 % )",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta14901c"
+      }
+    ],
+    "680.0": [
+      {
+        "Original_Name_In_Paper": "p-type AgSbSe2",
+        "Property": "ZT",
+        "Value": 1.15,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ee41935e"
+      }
+    ],
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "AgSbSe2",
+        "Property": "Seebeck",
+        "Value": 0.000355,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ra12819c"
+      }
+    ],
+    "590.0": [
+      {
+        "Original_Name_In_Paper": "AgSbSe2",
+        "Property": "PF",
+        "Value": 0.000437,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ra12819c"
+      }
+    ],
+    "580.0": [
+      {
+        "Original_Name_In_Paper": "AgSbSe2",
+        "Property": "PF",
+        "Value": 0.0007400000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6tc00893c"
+      }
+    ],
+    "608.0": [
+      {
+        "Original_Name_In_Paper": "pristine AgSbSe2",
+        "Property": "PF",
+        "Value": 0.00025,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01429h"
+      }
+    ]
+  }
+}

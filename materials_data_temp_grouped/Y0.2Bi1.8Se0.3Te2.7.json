@@ -1,0 +1,36 @@
+{
+  "Material": "Y0.2Bi1.8Se0.3Te2.7",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2019.02.187",
+    "10.1007/s12034-014-0038-x",
+    "10.1016/j.pmatsci.2016.07.002"
+  ],
+  "Data_By_Temperature": {
+    "413.0": [
+      {
+        "Original_Name_In_Paper": "Y0.2Bi1.8Se0.3Te2.7",
+        "Property": "ZT",
+        "Value": 1.21,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.02.187"
+      },
+      {
+        "Original_Name_In_Paper": "Y0.2Bi1.8Se0.3Te2.7",
+        "Property": "ZT",
+        "Value": 1.21,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2016.07.002"
+      },
+      {
+        "Original_Name_In_Paper": "Y0.2Bi1.8Se0.3Te2.7",
+        "Property": "ZT",
+        "Value": 1.21,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s12034-014-0038-x"
+      }
+    ]
+  }
+}

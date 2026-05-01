@@ -1,0 +1,60 @@
+{
+  "doi": "10.1016/j.jallcom.2014.06.190",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Ca2.7Bi0.3Co3.9Fe0.1O9+δ",
+        "Ca2.7Bi0.3Co3.9 Fe0.1O9+δ"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Ca2.7Bi0.3Co3.9Fe0.1O9+δ",
+          "zt_value": 0.4,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Ca2.7Bi0.3Co3.9Fe0.1O9+δ",
+          "zt_value": 0.4,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Ca2.7Bi0.3Co3.9 Fe0.1O9+δ",
+          "zt_value": 0.4,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Ca2.7Bi0.3Co3.9Fe0.1O9+δ",
+          "zt_value": 0.4,
+          "temperature": "973.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

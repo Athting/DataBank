@@ -1,0 +1,18 @@
+{
+  "Material": "SnS1",
+  "DOIs_Researched": [
+    "10.1038/srep43262"
+  ],
+  "Data_By_Temperature": {
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "SnS1",
+        "Property": "ZT",
+        "Value": 0.64,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/srep43262"
+      }
+    ]
+  }
+}

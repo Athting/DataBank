@@ -1,0 +1,29 @@
+{
+  "Material": "YbCd2-xNxSb2",
+  "DOIs_Researched": [
+    "10.1038/s41524-019-0215-y",
+    "10.1016/j.rser.2013.03.008"
+  ],
+  "Data_By_Temperature": {
+    "703.0": [
+      {
+        "Original_Name_In_Paper": "YbCd2-xZnxSb2",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rser.2013.03.008"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "YbCd2-xZnxSb2 alloys",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": "point defect",
+        "Source_DOI": "10.1038/s41524-019-0215-y"
+      }
+    ]
+  }
+}

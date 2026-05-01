@@ -1,0 +1,18 @@
+{
+  "Material": "Pb0.98Bi0.02Te\u20135 % AgSbSe2",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2020.154377"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Pb0.98Bi0.02Te\u20135 % AgSbSe2",
+        "Property": "Conductivity",
+        "Value": 88540.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154377"
+      }
+    ]
+  }
+}

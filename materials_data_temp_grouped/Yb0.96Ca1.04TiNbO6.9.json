@@ -1,0 +1,28 @@
+{
+  "Material": "Yb0.96Ca1.04TiNbO6.9",
+  "DOIs_Researched": [
+    "10.1016/j.pmatsci.2015.01.001"
+  ],
+  "Data_By_Temperature": {
+    "1123.0": [
+      {
+        "Original_Name_In_Paper": "Yb0.96Ca1.04TiNbO6.98",
+        "Property": "Conductivity",
+        "Value": 0.005200000000000001,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2015.01.001"
+      }
+    ],
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "Yb0.96Ca1.04TiNbO6.98",
+        "Property": "Conductivity",
+        "Value": 900.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2015.01.001"
+      }
+    ]
+  }
+}

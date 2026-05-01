@@ -1,0 +1,36 @@
+{
+  "Material": "Mo2.8Ni0.2Sb7",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2015.08.017"
+  ],
+  "Data_By_Temperature": {
+    "805.0": [
+      {
+        "Original_Name_In_Paper": "Mo2.8Ni0.2Sb7",
+        "Property": "ThermCond",
+        "Value": 6.57,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2015.08.017"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Mo2.8Ni0.2Sb7",
+        "Property": "Seebeck",
+        "Value": 2.2e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2015.08.017"
+      },
+      {
+        "Original_Name_In_Paper": "Mo2.8Ni0.2Sb7",
+        "Property": "PF",
+        "Value": 0.000261,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2015.08.017"
+      }
+    ]
+  }
+}

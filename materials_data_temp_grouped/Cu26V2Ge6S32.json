@@ -1,0 +1,29 @@
+{
+  "Material": "Cu26V2Ge6S32",
+  "DOIs_Researched": [
+    "10.1039/c5tc02388b",
+    "10.1007/s11664-016-4893-7"
+  ],
+  "Data_By_Temperature": {
+    "663.0": [
+      {
+        "Original_Name_In_Paper": "Cu26V2Ge6S32",
+        "Property": "ThermCond",
+        "Value": 0.33,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc02388b"
+      }
+    ],
+    "690.0": [
+      {
+        "Original_Name_In_Paper": "Cu26V2Ge6S32",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-016-4893-7"
+      }
+    ]
+  }
+}

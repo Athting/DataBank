@@ -1,0 +1,18 @@
+{
+  "Material": "CoFeNbSn",
+  "DOIs_Researched": [
+    "10.1007/s10948-018-4780-y"
+  ],
+  "Data_By_Temperature": {
+    "50.0": [
+      {
+        "Original_Name_In_Paper": "CoFeNbSn",
+        "Property": "Seebeck",
+        "Value": 1e-06,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10948-018-4780-y"
+      }
+    ]
+  }
+}

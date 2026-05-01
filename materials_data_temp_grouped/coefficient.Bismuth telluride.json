@@ -1,0 +1,18 @@
+{
+  "Material": "coefficient.Bismuth telluride",
+  "DOIs_Researched": [
+    "10.1039/c3ce40780b"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "coefficient.Bismuth telluride",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ce40780b"
+      }
+    ]
+  }
+}

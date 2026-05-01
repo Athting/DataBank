@@ -1,0 +1,18 @@
+{
+  "Material": "ZnAlxO4",
+  "DOIs_Researched": [
+    "10.1007/s11837-014-1218-2"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "ZnAlxxO4 nanoprecipitates",
+        "Property": "ZT",
+        "Value": 0.44,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11837-014-1218-2"
+      }
+    ]
+  }
+}

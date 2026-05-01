@@ -1,0 +1,18 @@
+{
+  "Material": "BiSbSe2.76Cl0.24",
+  "DOIs_Researched": [
+    "10.1039/d0ra04065g"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "BiSbSe2.76Cl0.24",
+        "Property": "Conductivity",
+        "Value": 13200.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ra04065g"
+      }
+    ]
+  }
+}

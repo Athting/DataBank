@@ -1,0 +1,18 @@
+{
+  "Material": "CaPd3Ti4O12",
+  "DOIs_Researched": [
+    "10.1016/j.physb.2018.06.042"
+  ],
+  "Data_By_Temperature": {
+    "100.0": [
+      {
+        "Original_Name_In_Paper": "CaPd3Ti4O12shows",
+        "Property": "ZT",
+        "Value": 0.01,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2018.06.042"
+      }
+    ]
+  }
+}

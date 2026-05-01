@@ -1,0 +1,18 @@
+{
+  "Material": "12-layered silicide / silicon",
+  "DOIs_Researched": [
+    "10.1016/j.fueleneab.2016.06.002"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "12-layered silicide / silicon",
+        "Property": "Seebeck",
+        "Value": 0.20189000000000001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.fueleneab.2016.06.002"
+      }
+    ]
+  }
+}

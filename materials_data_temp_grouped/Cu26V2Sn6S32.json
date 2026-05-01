@@ -1,0 +1,61 @@
+{
+  "Material": "Cu26V2Sn6S32",
+  "DOIs_Researched": [
+    "10.1039/c6tc02301k",
+    "10.1016/j.jallcom.2020.154240",
+    "10.1016/j.jallcom.2020.154767",
+    "10.1039/c6ta05945g"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "p-type Cu26V2Sn6S32",
+        "Property": "ThermCond",
+        "Value": 0.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6tc02301k"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Cu26V2Sn6S32",
+        "Property": "ZT",
+        "Value": 0.93,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154240"
+      }
+    ],
+    "663.0": [
+      {
+        "Original_Name_In_Paper": "Cu26V2Sn6S32",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta05945g"
+      }
+    ],
+    "675.0": [
+      {
+        "Original_Name_In_Paper": "Cu26V2Sn6S32",
+        "Property": "ZT",
+        "Value": 0.93,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154767"
+      }
+    ],
+    "660.0": [
+      {
+        "Original_Name_In_Paper": "Cu26V2Sn6S32",
+        "Property": "Conductivity",
+        "Value": 9090.9090909091,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta05945g"
+      }
+    ]
+  }
+}

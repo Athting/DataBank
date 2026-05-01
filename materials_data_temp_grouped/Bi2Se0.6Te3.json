@@ -1,0 +1,27 @@
+{
+  "Material": "Bi2Se0.6Te3",
+  "DOIs_Researched": [
+    "10.1016/j.ssc.2013.04.020",
+    "10.1016/j.mssp.2012.09.017"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "n-type Bi2Se0.6Te3",
+        "Property": "Conductivity",
+        "Value": 19900.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2013.04.020"
+      },
+      {
+        "Original_Name_In_Paper": "n-type Bi2Se0.6Te3",
+        "Property": "Conductivity",
+        "Value": 19900.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2012.09.017"
+      }
+    ]
+  }
+}

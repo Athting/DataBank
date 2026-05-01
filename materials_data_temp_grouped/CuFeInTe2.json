@@ -1,0 +1,26 @@
+{
+  "Material": "CuFeInTe2",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2015.08.128"
+  ],
+  "Data_By_Temperature": {
+    "450.0": [
+      {
+        "Original_Name_In_Paper": "CuFeInTe2",
+        "Property": "ZT",
+        "Value": 0.126,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.08.128"
+      },
+      {
+        "Original_Name_In_Paper": "CuFeInTe2",
+        "Property": "ZT",
+        "Value": 0.126,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.08.128"
+      }
+    ]
+  }
+}

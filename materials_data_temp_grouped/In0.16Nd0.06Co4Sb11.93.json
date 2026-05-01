@@ -1,0 +1,18 @@
+{
+  "Material": "In0.16Nd0.06Co4Sb11.93",
+  "DOIs_Researched": [
+    "10.1016/j.ssc.2012.10.003"
+  ],
+  "Data_By_Temperature": {
+    "360.0": [
+      {
+        "Original_Name_In_Paper": "In0.16Nd0.06Co4Sb11.93",
+        "Property": "PF",
+        "Value": 0.0032,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2012.10.003"
+      }
+    ]
+  }
+}

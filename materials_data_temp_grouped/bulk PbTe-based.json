@@ -1,0 +1,18 @@
+{
+  "Material": "bulk PbTe-based",
+  "DOIs_Researched": [
+    "10.1016/j.scriptamat.2010.11.026"
+  ],
+  "Data_By_Temperature": {
+    "627.0": [
+      {
+        "Original_Name_In_Paper": "bulk PbTe-based",
+        "Property": "ZT",
+        "Value": 1.45,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2010.11.026"
+      }
+    ]
+  }
+}

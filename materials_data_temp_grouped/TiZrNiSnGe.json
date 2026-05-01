@@ -1,0 +1,26 @@
+{
+  "Material": "TiZrNiSnGe",
+  "DOIs_Researched": [
+    "10.1039/c5ta01794g"
+  ],
+  "Data_By_Temperature": {
+    "775.0": [
+      {
+        "Original_Name_In_Paper": "Ti0.1Zr0.9NiSn0.975Ge0.025",
+        "Property": "ThermCond",
+        "Value": 2.7,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta01794g"
+      },
+      {
+        "Original_Name_In_Paper": "Ti0.25Zr0.75NiSn0.975Ge0.025 composites",
+        "Property": "ZT",
+        "Value": 0.48,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta01794g"
+      }
+    ]
+  }
+}

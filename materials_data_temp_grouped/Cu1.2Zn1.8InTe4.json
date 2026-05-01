@@ -1,0 +1,18 @@
+{
+  "Material": "Cu1.2Zn1.8InTe4",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2018.02.030"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Cu1.2Zn1.8InTe4",
+        "Property": "ZT",
+        "Value": 0.02,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.02.030"
+      }
+    ]
+  }
+}

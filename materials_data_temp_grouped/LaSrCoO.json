@@ -1,0 +1,18 @@
+{
+  "Material": "LaSrCoO",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2019.02.199"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "LaSrCoO []",
+        "Property": "ZT",
+        "Value": 0.02,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.02.199"
+      }
+    ]
+  }
+}

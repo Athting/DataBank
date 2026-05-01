@@ -1,0 +1,39 @@
+{
+  "Material": "ZrTaNiSn",
+  "DOIs_Researched": [
+    "10.1007/s10853-019-03623-4",
+    "10.1016/j.commatsci.2018.12.039"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Zr0.97Ta0.03NiSn",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-019-03623-4"
+      }
+    ],
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "Zr0.97Ta0.03NiSn",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2018.12.039"
+      }
+    ],
+    "780.0": [
+      {
+        "Original_Name_In_Paper": "Zr0.95Ta0.05NiSn",
+        "Property": "PF",
+        "Value": 0.00372,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-019-03623-4"
+      }
+    ]
+  }
+}

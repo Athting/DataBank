@@ -1,0 +1,28 @@
+{
+  "Material": "Cu3Sb0.94Sn0.06Se3.5S0.",
+  "DOIs_Researched": [
+    "10.1039/c3ce40956b"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Cu3Sb0.94Sn0.06Se3.5S0.5",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ce40956b"
+      }
+    ],
+    "650.0": [
+      {
+        "Original_Name_In_Paper": "Cu3Sb0.94Sn0.06Se3.5S0.5",
+        "Property": "ZT",
+        "Value": 0.9500000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ce40956b"
+      }
+    ]
+  }
+}

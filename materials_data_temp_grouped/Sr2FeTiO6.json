@@ -1,0 +1,18 @@
+{
+  "Material": "Sr2FeTiO6",
+  "DOIs_Researched": [
+    "10.1039/c6ra09629h"
+  ],
+  "Data_By_Temperature": {
+    "890.1": [
+      {
+        "Original_Name_In_Paper": "pure Sr2FeTiO6",
+        "Property": "Conductivity",
+        "Value": 415.3,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra09629h"
+      }
+    ]
+  }
+}

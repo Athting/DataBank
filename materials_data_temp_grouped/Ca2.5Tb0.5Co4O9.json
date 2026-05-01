@@ -1,0 +1,18 @@
+{
+  "Material": "Ca2.5Tb0.5Co4O9",
+  "DOIs_Researched": [
+    "10.1038/srep44621"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Ca2.5Tb0.5Co4O9",
+        "Property": "Seebeck",
+        "Value": 0.000323,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/srep44621"
+      }
+    ]
+  }
+}

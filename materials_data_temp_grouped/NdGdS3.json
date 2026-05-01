@@ -1,0 +1,34 @@
+{
+  "Material": "NdGdS3",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2009.04.076"
+  ],
+  "Data_By_Temperature": {
+    "950.0": [
+      {
+        "Original_Name_In_Paper": "NdGdS3",
+        "Property": "ZT",
+        "Value": 0.29,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.04.076"
+      },
+      {
+        "Original_Name_In_Paper": "NdGdS3",
+        "Property": "ZT",
+        "Value": 0.29,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.04.076"
+      },
+      {
+        "Original_Name_In_Paper": "NdGdS3",
+        "Property": "PF",
+        "Value": 0.00029,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.04.076"
+      }
+    ]
+  }
+}

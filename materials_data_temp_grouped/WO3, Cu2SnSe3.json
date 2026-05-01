@@ -1,0 +1,18 @@
+{
+  "Material": "WO3, Cu2SnSe3",
+  "DOIs_Researched": [
+    "10.1016/j.materresbull.2019.110607"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "WO3 / Cu2SnSe3 nanocomposites",
+        "Property": "ZT",
+        "Value": 0.35000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2019.110607"
+      }
+    ]
+  }
+}

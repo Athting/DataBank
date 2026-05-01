@@ -1,0 +1,26 @@
+{
+  "Material": "Fe0.65Ni0.35TiSb",
+  "DOIs_Researched": [
+    "10.1039/c9tc06318h"
+  ],
+  "Data_By_Temperature": {
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "p-type Fe0.65Ni0.35TiSb",
+        "Property": "ZT",
+        "Value": 0.48,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc06318h"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Fe0.65Ni0.35TiSb",
+        "Property": "ZT",
+        "Value": 0.48,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc06318h"
+      }
+    ]
+  }
+}

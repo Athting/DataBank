@@ -1,0 +1,18 @@
+{
+  "Material": "CoSb2.8Te0.2",
+  "DOIs_Researched": [
+    "10.1016/j.mser.2018.09.001"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "bulk CoSb2.8Te0.2",
+        "Property": "ZT",
+        "Value": 0.9500000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mser.2018.09.001"
+      }
+    ]
+  }
+}

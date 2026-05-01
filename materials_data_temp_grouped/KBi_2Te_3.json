@@ -1,0 +1,18 @@
+{
+  "Material": "KBi_2Te_3",
+  "DOIs_Researched": [
+    "10.1016/B978-0-12-374639-9.00005-1"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "H ZT H \u00ce\u00b7 ( K \u00e2\u02c6\u20191 \u00c3\u201410 3 ) ( K ) Bi 2 Te 3 2.0 450",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-12-374639-9.00005-1"
+      }
+    ]
+  }
+}

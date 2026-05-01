@@ -1,0 +1,18 @@
+{
+  "Material": "PbTeI_0.002Sb_0.003",
+  "DOIs_Researched": [
+    "10.1016/j.renene.2019.03.128"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "n-type PbTe0.998I0.002\u20133 % Sb",
+        "Property": "ZT",
+        "Value": 1.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.renene.2019.03.128"
+      }
+    ]
+  }
+}

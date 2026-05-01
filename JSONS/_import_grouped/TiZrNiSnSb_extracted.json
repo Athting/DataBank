@@ -1,0 +1,58 @@
+{
+  "doi": "10.1016/j.actamat.2017.03.071",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Ti0.5Zr0.5NiSn0.98Sb0.02",
+        "Ti0.1Zr0.9NiSn0.975Sb0.025",
+        "Ti0.50Zr0.50NiSn0.98Sb0.02"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "Ti0.1Zr0.9NiSn0.975Sb0.025",
+          "value": 420000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Ti0.5Zr0.5NiSn0.98Sb0.02",
+          "zt_value": 1.2,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Ti0.50Zr0.50NiSn0.98Sb0.02",
+          "zt_value": 0.9,
+          "temperature": "823.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

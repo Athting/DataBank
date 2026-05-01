@@ -1,0 +1,1446 @@
+{
+  "Material": "SrTiO3",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2017.10.033",
+    "10.1007/s10853-016-0048-8",
+    "10.1016/j.jallcom.2019.02.199",
+    "10.1016/j.materresbull.2019.110650",
+    "10.1016/j.jallcom.2016.12.053",
+    "10.1007/s11434-014-0237-2",
+    "10.1039/c9ta02883h",
+    "10.1039/c4cp04127e",
+    "10.1016/j.matlet.2013.01.107",
+    "10.1016/j.mser.2009.10.001",
+    "10.1007/s10853-011-5466-z",
+    "10.1039/c5tc02016f",
+    "10.1016/j.jallcom.2010.03.049",
+    "10.1016/j.cocom.2015.03.003",
+    "10.1007/s10854-020-02911-z",
+    "10.1039/d0ta00690d",
+    "10.1039/c7dt00848a",
+    "10.1016/j.nanoen.2017.04.003",
+    "10.1016/j.scriptamat.2014.11.018",
+    "10.1039/c6ra19661f",
+    "10.1016/j.jmat.2018.12.004",
+    "10.1007/s10909-013-0965-8",
+    "10.1039/c2cs35393h",
+    "10.1016/j.tsf.2007.10.034",
+    "10.1016/j.rser.2018.10.006",
+    "10.1016/j.ijhydene.2018.05.171",
+    "10.1557/jmr.2011.108",
+    "10.1039/c1nr10624d",
+    "10.1016/j.commatsci.2018.04.014",
+    "10.1016/j.apsusc.2018.02.196",
+    "10.1016/j.jallcom.2008.10.031",
+    "10.1016/j.mser.2018.09.001",
+    "10.1016/S0925-8388(02)00972-6",
+    "10.1016/j.jpowsour.2013.04.143",
+    "10.1039/c3ta14699e",
+    "10.1007/s10854-020-03255-4",
+    "10.1016/j.matpr.2017.10.004",
+    "10.1039/c3ta11806a",
+    "10.1007/s10909-013-0885-7",
+    "10.1007/s11664-012-2219-y",
+    "10.1007/s11837-014-1218-2",
+    "10.1016/B978-0-08-102726-4.00004-1",
+    "10.1016/B978-0-12-385469-8.00001-0",
+    "10.1016/j.jeurceramsoc.2017.09.022",
+    "10.1007/s40243-019-0163-y",
+    "10.1039/c8ta03739f",
+    "10.1016/j.materresbull.2009.11.003",
+    "10.1016/j.jallcom.2020.155561",
+    "10.1016/j.matlet.2015.09.124",
+    "10.1016/j.ceramint.2011.04.004",
+    "10.1557/jmr.2016.419",
+    "10.1039/c8ta10079a",
+    "10.1016/j.ceramint.2012.07.009",
+    "10.1039/c8ta07861k",
+    "10.1016/j.jascer.2013.02.004",
+    "10.1016/j.rser.2016.06.035",
+    "10.1016/j.cpc.2014.09.015",
+    "10.1016/j.ssc.2013.08.018",
+    "10.1016/j.jeurceramsoc.2017.03.049",
+    "10.1039/c8tc02130a",
+    "10.1016/j.actamat.2018.02.063",
+    "10.1039/c7ee01510k",
+    "10.1039/d0ta04296j",
+    "10.1039/c7ra05193j",
+    "10.1007/s10854-017-7361-0",
+    "10.1039/c4ra13945c",
+    "10.1016/j.jallcom.2015.12.231",
+    "10.1016/j.apmt.2020.100869",
+    "10.1016/j.ssc.2014.09.011",
+    "10.1016/j.matchemphys.2018.09.069",
+    "10.1039/c5ra17949a",
+    "10.1016/j.pecs.2015.10.004",
+    "10.1039/c7ce00834a",
+    "10.1016/j.jeurceramsoc.2013.08.009",
+    "10.1039/c3ra44223c",
+    "10.1016/B978-0-12-815751-0.00009-2",
+    "10.1016/j.ceramint.2007.09.034",
+    "10.1016/j.rser.2013.10.027",
+    "10.1007/s13391-018-00113-8",
+    "10.1016/j.jallcom.2017.03.264",
+    "10.1016/j.jallcom.2017.02.146",
+    "10.1007/s10853-013-7414-6",
+    "10.1039/c7nr09144c",
+    "10.1016/j.jpcs.2014.01.002",
+    "10.1038/nmat1821",
+    "10.1016/j.solidstatesciences.2009.10.018",
+    "10.1016/j.ceramint.2016.07.091",
+    "10.1016/j.vacuum.2017.04.015",
+    "10.1016/j.ceramint.2019.05.245",
+    "10.1007/s10948-018-4840-3",
+    "10.1016/j.ceramint.2014.08.045",
+    "10.1016/j.pmatsci.2015.01.001",
+    "10.1039/c4ra06871h",
+    "10.1016/B978-1-78242-245-7.00014-2",
+    "10.1016/j.jallcom.2019.01.376"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "SrTiO3 bulk crystal",
+        "Property": "ThermCond",
+        "Value": 12.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10909-013-0885-7"
+      },
+      {
+        "Original_Name_In_Paper": "Nb-doped SrTiO3",
+        "Property": "ThermCond",
+        "Value": 4.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rser.2018.10.006"
+      },
+      {
+        "Original_Name_In_Paper": "SrTiO3",
+        "Property": "ThermCond",
+        "Value": 12.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ra05193j"
+      },
+      {
+        "Original_Name_In_Paper": "undoped SrTiO3",
+        "Property": "ThermCond",
+        "Value": 6.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.10.033"
+      },
+      {
+        "Original_Name_In_Paper": "SrTiO3",
+        "Property": "ThermCond",
+        "Value": 11.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2016.07.091"
+      },
+      {
+        "Original_Name_In_Paper": "SrTiO3 bulk crystal",
+        "Property": "ThermCond",
+        "Value": 12.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.03.049"
+      },
+      {
+        "Original_Name_In_Paper": "Nb-doped SrTiO3",
+        "Property": "ThermCond",
+        "Value": 1.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.03.049"
+      },
+      {
+        "Original_Name_In_Paper": "electron-doped SrTiO3",
+        "Property": "ThermCond",
+        "Value": 9.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.vacuum.2017.04.015"
+      },
+      {
+        "Original_Name_In_Paper": "SrTiO3 bulk crystals",
+        "Property": "ThermCond",
+        "Value": 12.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10909-013-0965-8"
+      },
+      {
+        "Original_Name_In_Paper": "vacancy-doped SrTiO3 crystals",
+        "Property": "ThermCond",
+        "Value": 4.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-1-78242-245-7.00014-2"
+      },
+      {
+        "Original_Name_In_Paper": "SrTiO3",
+        "Property": "ThermCond",
+        "Value": 1.09,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10948-018-4840-3"
+      },
+      {
+        "Original_Name_In_Paper": "Nb-doped SrTiO3",
+        "Property": "ThermCond",
+        "Value": 0.91,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10948-018-4840-3"
+      },
+      {
+        "Original_Name_In_Paper": "doped SrTiO3",
+        "Property": "ThermCond",
+        "Value": 5.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.03.264"
+      },
+      {
+        "Original_Name_In_Paper": "undoped SrTiO3",
+        "Property": "ThermCond",
+        "Value": 11.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2013.08.009"
+      },
+      {
+        "Original_Name_In_Paper": "strontium titanate",
+        "Property": "ThermCond",
+        "Value": 1.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2013.08.009"
+      },
+      {
+        "Original_Name_In_Paper": "bulk SrTiO3",
+        "Property": "ThermCond",
+        "Value": 4.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra13945c"
+      },
+      {
+        "Original_Name_In_Paper": "SrTiO3",
+        "Property": "ThermCond",
+        "Value": 12.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-020-02911-z"
+      },
+      {
+        "Original_Name_In_Paper": "La doped SrTiO3",
+        "Property": "ZT",
+        "Value": 0.42,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apmt.2020.100869"
+      },
+      {
+        "Original_Name_In_Paper": "SrTiO3",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2014.09.011"
+      },
+      {
+        "Original_Name_In_Paper": "SrTiO3 superlattice",
+        "Property": "ZT",
+        "Value": 2.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11434-014-0237-2"
+      },
+      {
+        "Original_Name_In_Paper": "Nb-doped SrTiO3",
+        "Property": "ZT",
+        "Value": 2.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.03.049"
+      },
+      {
+        "Original_Name_In_Paper": "Nb-doped SrTiO3 single crystals",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.vacuum.2017.04.015"
+      },
+      {
+        "Original_Name_In_Paper": "strontium titanate",
+        "Property": "ZT",
+        "Value": 0.08,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-12-385469-8.00001-0"
+      },
+      {
+        "Original_Name_In_Paper": "SrTiO3 superlattice",
+        "Property": "ZT",
+        "Value": 2.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-12-815751-0.00009-2"
+      },
+      {
+        "Original_Name_In_Paper": "SrTiO3 superlattice",
+        "Property": "ZT",
+        "Value": 2.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mser.2018.09.001"
+      },
+      {
+        "Original_Name_In_Paper": "5 % La doped STO",
+        "Property": "ZT",
+        "Value": 0.18,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1557/jmr.2016.419"
+      },
+      {
+        "Original_Name_In_Paper": "bulk single-crystal SrTiO3",
+        "Property": "ZT",
+        "Value": 2.4,
+        "Units": null,
+        "Editing": "In addition",
+        "Source_DOI": "10.1038/nmat1821"
+      },
+      {
+        "Original_Name_In_Paper": "SrTiO3",
+        "Property": "ZT",
+        "Value": 0.03,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.02.199"
+      },
+      {
+        "Original_Name_In_Paper": "SrTiO3",
+        "Property": "Conductivity",
+        "Value": 0.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra17949a"
+      },
+      {
+        "Original_Name_In_Paper": "bulk SrTiO3",
+        "Property": "Seebeck",
+        "Value": -0.000198,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1557/jmr.2011.108"
+      },
+      {
+        "Original_Name_In_Paper": "pristine SrTiO3",
+        "Property": "Seebeck",
+        "Value": -0.00038112,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2019.05.245"
+      },
+      {
+        "Original_Name_In_Paper": "Donor-doped strontium titanate",
+        "Property": "Seebeck",
+        "Value": -0.0004,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ce00834a"
+      },
+      {
+        "Original_Name_In_Paper": "single-crystal SrTiO3",
+        "Property": "Seebeck",
+        "Value": 0.0010500000000000002,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-1-78242-245-7.00014-2"
+      },
+      {
+        "Original_Name_In_Paper": "bulk La-doped SrTiO3",
+        "Property": "PF",
+        "Value": 2.8,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11837-014-1218-2"
+      },
+      {
+        "Original_Name_In_Paper": "bulk La-doped SrTiO3",
+        "Property": "PF",
+        "Value": 0.0028,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta14699e"
+      },
+      {
+        "Original_Name_In_Paper": "La-doped SrTiO3",
+        "Property": "PF",
+        "Value": 0.0036000000000000003,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2009.10.018"
+      },
+      {
+        "Original_Name_In_Paper": "BST / SrTiO3\u2212x",
+        "Property": "PF",
+        "Value": 0.37,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta04296j"
+      },
+      {
+        "Original_Name_In_Paper": "La-doped SrTiO3 single crystal",
+        "Property": "PF",
+        "Value": 0.0028,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-011-5466-z"
+      },
+      {
+        "Original_Name_In_Paper": "La doped SrTiO3",
+        "Property": "PF",
+        "Value": 0.0028,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.10.033"
+      },
+      {
+        "Original_Name_In_Paper": "pristine SrTiO3",
+        "Property": "Conductivity",
+        "Value": 1225.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2019.05.245"
+      }
+    ],
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "La-doped SrTiO3 ceramic",
+        "Property": "ThermCond",
+        "Value": 2.1,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rser.2018.10.006"
+      },
+      {
+        "Original_Name_In_Paper": "n-type TE oxide SrTiO3",
+        "Property": "ZT",
+        "Value": 0.37,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2017.03.049"
+      },
+      {
+        "Original_Name_In_Paper": "Bi-codoped SrTiO3",
+        "Property": "ZT",
+        "Value": 0.269,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2018.12.004"
+      },
+      {
+        "Original_Name_In_Paper": "Sr0.9Sm0.1TiO3",
+        "Property": "ZT",
+        "Value": 0.24,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4cp04127e"
+      },
+      {
+        "Original_Name_In_Paper": "Sr0.9Sm0.1TiO3",
+        "Property": "ZT",
+        "Value": 0.24,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matpr.2017.10.004"
+      },
+      {
+        "Original_Name_In_Paper": "La-doped SrTiO3 single crystal",
+        "Property": "ZT",
+        "Value": 0.27,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.vacuum.2017.04.015"
+      },
+      {
+        "Original_Name_In_Paper": "Doped SrTiO3",
+        "Property": "ZT",
+        "Value": 0.41000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.10.033"
+      },
+      {
+        "Original_Name_In_Paper": "Nb-doped SrTiO3 bulk",
+        "Property": "ZT",
+        "Value": 0.27,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rser.2018.10.006"
+      },
+      {
+        "Original_Name_In_Paper": "Nb-doped SrTiO3",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2013.08.018"
+      },
+      {
+        "Original_Name_In_Paper": "SrTiO3 single crystal",
+        "Property": "Seebeck",
+        "Value": -0.000328,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2014.08.045"
+      },
+      {
+        "Original_Name_In_Paper": "SrTiO3 single crystal",
+        "Property": "Seebeck",
+        "Value": -0.000328,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2014.08.045"
+      },
+      {
+        "Original_Name_In_Paper": "strontium titanate perovskite",
+        "Property": "Conductivity",
+        "Value": 6400.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pecs.2015.10.004"
+      },
+      {
+        "Original_Name_In_Paper": "SrTiO3",
+        "Property": "Conductivity",
+        "Value": 6400.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": "Y - doping",
+        "Source_DOI": "10.1039/c2cs35393h"
+      },
+      {
+        "Original_Name_In_Paper": "Nb-doped SrTiO3",
+        "Property": "Conductivity",
+        "Value": 20000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-013-7414-6"
+      }
+    ],
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "SrTiO3",
+        "Property": "ThermCond",
+        "Value": 10.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c1nr10624d"
+      },
+      {
+        "Original_Name_In_Paper": "polycrystalline SrTiO3",
+        "Property": "ThermCond",
+        "Value": 3.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta07861k"
+      },
+      {
+        "Original_Name_In_Paper": "niobium-doped SrTiO3",
+        "Property": "ThermCond",
+        "Value": 3.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2011.04.004"
+      },
+      {
+        "Original_Name_In_Paper": "SrTiO3",
+        "Property": "ZT",
+        "Value": 0.34,
+        "Units": null,
+        "Editing": "doping by Nb",
+        "Source_DOI": "10.1016/j.cocom.2015.03.003"
+      },
+      {
+        "Original_Name_In_Paper": "SrTiO3 doped with Nb",
+        "Property": "ZT",
+        "Value": 0.35000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ra44223c"
+      },
+      {
+        "Original_Name_In_Paper": "(Sr0.9Eu0.1)3Ti2O7",
+        "Property": "ZT",
+        "Value": 0.061,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-020-02911-z"
+      },
+      {
+        "Original_Name_In_Paper": "(Sr0.9Eu0.1)3Ti2O7",
+        "Property": "ZT",
+        "Value": 0.061,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-020-02911-z"
+      },
+      {
+        "Original_Name_In_Paper": "Nb-doped SrTiO3",
+        "Property": "ZT",
+        "Value": 0.39,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.12.053"
+      },
+      {
+        "Original_Name_In_Paper": "SrTiO3 films",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.155561"
+      },
+      {
+        "Original_Name_In_Paper": "niobium-doped SrTiO3",
+        "Property": "ZT",
+        "Value": 0.37,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2012.07.009"
+      },
+      {
+        "Original_Name_In_Paper": "polycrystalline SrTiO3",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8tc02130a"
+      },
+      {
+        "Original_Name_In_Paper": "SrTiO3 based polycrystalline materials",
+        "Property": "ZT",
+        "Value": 0.35000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta02883h"
+      },
+      {
+        "Original_Name_In_Paper": "SrTiO3",
+        "Property": "ZT",
+        "Value": 0.37,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra19661f"
+      },
+      {
+        "Original_Name_In_Paper": "doped-SrTiO3",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2015.09.124"
+      },
+      {
+        "Original_Name_In_Paper": "SrTiO3",
+        "Property": "ZT",
+        "Value": 0.21,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta11806a"
+      },
+      {
+        "Original_Name_In_Paper": "SrTiO3",
+        "Property": "ZT",
+        "Value": 0.35000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpowsour.2013.04.143"
+      },
+      {
+        "Original_Name_In_Paper": "Nb-doped SrTiO3",
+        "Property": "ZT",
+        "Value": 0.37,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.03.049"
+      },
+      {
+        "Original_Name_In_Paper": "SrTiO3 bulk materials",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2017.04.003"
+      },
+      {
+        "Original_Name_In_Paper": "SrTiO3 bulks",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2017.04.003"
+      },
+      {
+        "Original_Name_In_Paper": "single-doped SrTiO3 bulk materials",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2017.04.003"
+      },
+      {
+        "Original_Name_In_Paper": "La10Nb10 co-doped SrTiO3 bulks",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2017.04.003"
+      },
+      {
+        "Original_Name_In_Paper": "electron-doped SrTiO3",
+        "Property": "ZT",
+        "Value": 0.37,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2007.09.034"
+      },
+      {
+        "Original_Name_In_Paper": "La doped STO",
+        "Property": "ZT",
+        "Value": 0.38,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.10.033"
+      },
+      {
+        "Original_Name_In_Paper": "n-type SrTiO3",
+        "Property": "ZT",
+        "Value": 0.37,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.12.231"
+      },
+      {
+        "Original_Name_In_Paper": "SrTiO3",
+        "Property": "ZT",
+        "Value": 0.34,
+        "Units": null,
+        "Editing": "doping by Nb",
+        "Source_DOI": "10.1016/j.cpc.2014.09.015"
+      },
+      {
+        "Original_Name_In_Paper": "Nb-doped SrTiO3",
+        "Property": "ZT",
+        "Value": 0.37,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2007.10.034"
+      },
+      {
+        "Original_Name_In_Paper": "Nb-doped SrTiO3",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2018.02.063"
+      },
+      {
+        "Original_Name_In_Paper": "n-type SrTiO3",
+        "Property": "ZT",
+        "Value": 0.37,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2013.01.107"
+      },
+      {
+        "Original_Name_In_Paper": "donor doped SrTiO3",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": "SrTiO3 and TiO2 inclusions",
+        "Source_DOI": "10.1039/c8ta03739f"
+      },
+      {
+        "Original_Name_In_Paper": "SrTiO3",
+        "Property": "PF",
+        "Value": 0.002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c1nr10624d"
+      },
+      {
+        "Original_Name_In_Paper": "SrTiO3 films",
+        "Property": "PF",
+        "Value": 0.0015,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.155561"
+      }
+    ],
+    "109.0": [
+      {
+        "Original_Name_In_Paper": "SrTiO3nanowire",
+        "Property": "ThermCond",
+        "Value": 2.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c1nr10624d"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "SrTiO3",
+        "Property": "ThermCond",
+        "Value": 3.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mser.2009.10.001"
+      },
+      {
+        "Original_Name_In_Paper": "SrTiO3",
+        "Property": "ThermCond",
+        "Value": 1.09,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10948-018-4840-3"
+      },
+      {
+        "Original_Name_In_Paper": "SrTiO3",
+        "Property": "ThermCond",
+        "Value": 2.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra06871h"
+      },
+      {
+        "Original_Name_In_Paper": "SrTiO3..",
+        "Property": "ThermCond",
+        "Value": 1.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11837-014-1218-2"
+      },
+      {
+        "Original_Name_In_Paper": "SrTiO3",
+        "Property": "ThermCond",
+        "Value": 12.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2014.01.002"
+      },
+      {
+        "Original_Name_In_Paper": "La-doped SrTiO3",
+        "Property": "ZT",
+        "Value": 0.12,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2018.09.069"
+      },
+      {
+        "Original_Name_In_Paper": "SrTiO3",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rser.2016.06.035"
+      },
+      {
+        "Original_Name_In_Paper": "SrTiO3",
+        "Property": "ZT",
+        "Value": 2.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jascer.2013.02.004"
+      },
+      {
+        "Original_Name_In_Paper": "SrTiO3",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-08-102726-4.00004-1"
+      },
+      {
+        "Original_Name_In_Paper": "perovskite oxide SrTiO3",
+        "Property": "PF",
+        "Value": 0.0028,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ee01510k"
+      }
+    ],
+    "1050.0": [
+      {
+        "Original_Name_In_Paper": "bulk SrTiO3",
+        "Property": "ThermCond",
+        "Value": 1.97,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta10079a"
+      },
+      {
+        "Original_Name_In_Paper": "n-type bulk SrTiO3",
+        "Property": "ThermCond",
+        "Value": 1.97,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta10079a"
+      },
+      {
+        "Original_Name_In_Paper": "La\u2013Nb co-doped SrTiO3 bulk materials",
+        "Property": "ThermCond",
+        "Value": 1.97,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta10079a"
+      },
+      {
+        "Original_Name_In_Paper": "bulk SrTiO3",
+        "Property": "ZT",
+        "Value": 0.31,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta10079a"
+      },
+      {
+        "Original_Name_In_Paper": "n-type bulk SrTiO3",
+        "Property": "ZT",
+        "Value": 0.31,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta10079a"
+      },
+      {
+        "Original_Name_In_Paper": "La\u2013Nb co-doped SrTiO3 bulk materials",
+        "Property": "ZT",
+        "Value": 0.31,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta10079a"
+      }
+    ],
+    "1223.0": [
+      {
+        "Original_Name_In_Paper": "Sr0.9Nd0.1TiO3 bulk",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2019.110650"
+      }
+    ],
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "SrTiO3",
+        "Property": "ZT",
+        "Value": 0.19,
+        "Units": null,
+        "Editing": "Dy co-doping",
+        "Source_DOI": "10.1016/j.materresbull.2019.110650"
+      },
+      {
+        "Original_Name_In_Paper": "doped SrTiO3",
+        "Property": "ZT",
+        "Value": 0.39,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta07861k"
+      },
+      {
+        "Original_Name_In_Paper": "doped SrTiO3",
+        "Property": "PF",
+        "Value": 0.0015500000000000002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta07861k"
+      }
+    ],
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "La-doped SrTiO3",
+        "Property": "ZT",
+        "Value": 0.37,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11837-014-1218-2"
+      },
+      {
+        "Original_Name_In_Paper": "La-doped SrTiO3",
+        "Property": "ZT",
+        "Value": 0.37,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta14699e"
+      },
+      {
+        "Original_Name_In_Paper": "SrTiO3 materials",
+        "Property": "ZT",
+        "Value": 0.41000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta00690d"
+      },
+      {
+        "Original_Name_In_Paper": "Sr0.9Dy0.1TiO3",
+        "Property": "ZT",
+        "Value": 0.25,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-012-2219-y"
+      },
+      {
+        "Original_Name_In_Paper": "Sr0.9Dy0.1TiO3",
+        "Property": "ZT",
+        "Value": 0.25,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rser.2018.10.006"
+      },
+      {
+        "Original_Name_In_Paper": "nanostructured La-doped SrTiO3 bulk",
+        "Property": "ZT",
+        "Value": 0.37,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-020-03255-4"
+      },
+      {
+        "Original_Name_In_Paper": "Nanostructured La-doped SrTiO3",
+        "Property": "ZT",
+        "Value": 0.37,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2014.11.018"
+      },
+      {
+        "Original_Name_In_Paper": "La-doped SrTiO3",
+        "Property": "ZT",
+        "Value": 0.41000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2017.09.022"
+      },
+      {
+        "Original_Name_In_Paper": "La-doped SrTiO3",
+        "Property": "ZT",
+        "Value": 0.37,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.01.376"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "doped SrTiO3",
+        "Property": "ZT",
+        "Value": 0.35000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc02016f"
+      },
+      {
+        "Original_Name_In_Paper": "SrTiO3",
+        "Property": "ZT",
+        "Value": 0.29,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.02.146"
+      }
+    ],
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "SrTiO3 thin films",
+        "Property": "ZT",
+        "Value": 0.28,
+        "Units": null,
+        "Editing": "20 % Nb doping",
+        "Source_DOI": "10.1016/B978-1-78242-245-7.00014-2"
+      }
+    ],
+    "1190.0": [
+      {
+        "Original_Name_In_Paper": "rare-earth substituted SrTiO3 ceramics",
+        "Property": "ZT",
+        "Value": 0.42,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.02.146"
+      },
+      {
+        "Original_Name_In_Paper": "rare-earth substituted titanates Sr0.9R0.1TiO3",
+        "Property": "ZT",
+        "Value": 0.42,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4cp04127e"
+      },
+      {
+        "Original_Name_In_Paper": "SrTiO3-based",
+        "Property": "ZT",
+        "Value": 0.42,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4cp04127e"
+      }
+    ],
+    "1076.0": [
+      {
+        "Original_Name_In_Paper": "SrTiO3 doped with 12 % Dy",
+        "Property": "ZT",
+        "Value": 0.36,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.02.146"
+      },
+      {
+        "Original_Name_In_Paper": "SrTiO3 doped with 12 % dysprosium",
+        "Property": "ZT",
+        "Value": 0.36,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cpc.2014.09.015"
+      },
+      {
+        "Original_Name_In_Paper": "SrTiO3 doped with 12 % Dy",
+        "Property": "ZT",
+        "Value": 0.36,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s13391-018-00113-8"
+      }
+    ],
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "Sr0.9Dy0.1TiO3",
+        "Property": "ZT",
+        "Value": 0.22,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4cp04127e"
+      },
+      {
+        "Original_Name_In_Paper": "Sr0.9Dy0.1TiO3",
+        "Property": "ZT",
+        "Value": 0.22,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matpr.2017.10.004"
+      },
+      {
+        "Original_Name_In_Paper": "Sr0.9Dy0.1TiO3",
+        "Property": "ZT",
+        "Value": 0.000384,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(02)00972-6"
+      },
+      {
+        "Original_Name_In_Paper": "Sr0.9Dy0.1TiO3",
+        "Property": "ZT",
+        "Value": 0.000384,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(02)00972-6"
+      }
+    ],
+    "1006.0": [
+      {
+        "Original_Name_In_Paper": "Sr0.9Gd0.1TiO3",
+        "Property": "ZT",
+        "Value": 0.37,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4cp04127e"
+      }
+    ],
+    "769.0": [
+      {
+        "Original_Name_In_Paper": "bulk SrTiO3",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8tc02130a"
+      }
+    ],
+    "1100.0": [
+      {
+        "Original_Name_In_Paper": "Nb-doped SrTiO3",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-016-0048-8"
+      },
+      {
+        "Original_Name_In_Paper": "Nb-doped SrTiO3",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.01.376"
+      }
+    ],
+    "760.0": [
+      {
+        "Original_Name_In_Paper": "pure SrTiO3 containing RGO",
+        "Property": "ZT",
+        "Value": 0.09,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta02883h"
+      }
+    ],
+    "1160.0": [
+      {
+        "Original_Name_In_Paper": "Nb-doped SrTiO3",
+        "Property": "ZT",
+        "Value": 0.29,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta02883h"
+      }
+    ],
+    "870.0": [
+      {
+        "Original_Name_In_Paper": "La-doped SrTiO3 single crystal",
+        "Property": "ZT",
+        "Value": 0.146,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2008.10.031"
+      },
+      {
+        "Original_Name_In_Paper": "Sr0.9Y0.1TiO3 *process*",
+        "Property": "ZT",
+        "Value": 0.146,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2008.10.031"
+      },
+      {
+        "Original_Name_In_Paper": "Y-doped SrTiO3",
+        "Property": "ZT",
+        "Value": 0.146,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.03.049"
+      }
+    ],
+    "1400.0": [
+      {
+        "Original_Name_In_Paper": "SrTiO3",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2018.02.196"
+      }
+    ],
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "Nb-doped SrTiO3 composite",
+        "Property": "ZT",
+        "Value": 0.165,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.03.049"
+      },
+      {
+        "Original_Name_In_Paper": "Nb-doped polycrystalline SrTiO3",
+        "Property": "ZT",
+        "Value": 0.33,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.vacuum.2017.04.015"
+      },
+      {
+        "Original_Name_In_Paper": "Nb-doped SrTiO3 polycrystalline",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rser.2013.10.027"
+      }
+    ],
+    "875.0": [
+      {
+        "Original_Name_In_Paper": "co-doped SrTiO3 material",
+        "Property": "ZT",
+        "Value": 0.24,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matpr.2017.10.004"
+      }
+    ],
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "pure SrTiO3",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2019.05.245"
+      },
+      {
+        "Original_Name_In_Paper": "SrTiO3-based",
+        "Property": "PF",
+        "Value": 0.002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta07861k"
+      }
+    ],
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "20 % Nb doped SrTiO3",
+        "Property": "ZT",
+        "Value": 8.3e-05,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2009.11.003"
+      }
+    ],
+    "1150.0": [
+      {
+        "Original_Name_In_Paper": "La and Nb co-doped nanostructured SrTiO3",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.01.376"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Nb doped SrTiO3",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.01.376"
+      }
+    ],
+    "90.0": [
+      {
+        "Original_Name_In_Paper": "SrTiO3",
+        "Property": "Seebeck",
+        "Value": 0.0008500000000000001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7nr09144c"
+      },
+      {
+        "Original_Name_In_Paper": "SrTiO3",
+        "Property": "Seebeck",
+        "Value": 0.0008500000000000001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2018.04.014"
+      }
+    ],
+    "1027.0": [
+      {
+        "Original_Name_In_Paper": "SrTiO3",
+        "Property": "Seebeck",
+        "Value": 0.000328,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s40243-019-0163-y"
+      }
+    ],
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "SrTiO3",
+        "Property": "Seebeck",
+        "Value": 5e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-017-7361-0"
+      }
+    ],
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "SrTiO3-based materials",
+        "Property": "PF",
+        "Value": 0.00135,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4cp04127e"
+      }
+    ],
+    "329.0": [
+      {
+        "Original_Name_In_Paper": "(Sr0.9Eu0.1)3Ti2O7",
+        "Property": "PF",
+        "Value": 0.0003981,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-020-02911-z"
+      }
+    ],
+    "570.0": [
+      {
+        "Original_Name_In_Paper": "SrTiO3",
+        "Property": "PF",
+        "Value": 0.001318,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cpc.2014.09.015"
+      },
+      {
+        "Original_Name_In_Paper": "SrTiO3 composite",
+        "Property": "Conductivity",
+        "Value": 2020.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7dt00848a"
+      }
+    ],
+    "622.0": [
+      {
+        "Original_Name_In_Paper": "7 mol % Nb-doped SrTiO3",
+        "Property": "PF",
+        "Value": 0.0018200000000000002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8tc02130a"
+      }
+    ],
+    "1273.0": [
+      {
+        "Original_Name_In_Paper": "SrTiO3",
+        "Property": "Conductivity",
+        "Value": 10.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ijhydene.2018.05.171"
+      },
+      {
+        "Original_Name_In_Paper": "Nb-doped SrTiO3",
+        "Property": "Conductivity",
+        "Value": 12000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2015.01.001"
+      }
+    ],
+    "473.0": [
+      {
+        "Original_Name_In_Paper": "SrTiO3",
+        "Property": "Conductivity",
+        "Value": 1507.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": "In addition",
+        "Source_DOI": "10.1007/s13391-018-00113-8"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "BiI_2Te_2Se_0.3",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2019.152649"
+  ],
+  "Data_By_Temperature": {
+    "423.0": [
+      {
+        "Original_Name_In_Paper": "I-doped polycrystalline Bi2Te2\u00b77Se0.3",
+        "Property": "ZT",
+        "Value": 1.13,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.152649"
+      }
+    ]
+  }
+}

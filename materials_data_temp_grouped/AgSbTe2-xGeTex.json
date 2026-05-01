@@ -1,0 +1,45 @@
+{
+  "Material": "AgSbTe2-xGeTex",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2013.09.104",
+    "10.1016/j.solidstatesciences.2010.11.045",
+    "10.1016/j.actamat.2014.04.036",
+    "10.1016/j.jallcom.2014.09.198"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "(AgSbTe2)1\u2212x(GeTe)x",
+        "Property": "ZT",
+        "Value": 1.3599999999999999,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2014.04.036"
+      },
+      {
+        "Original_Name_In_Paper": "(AgSbTe2)1\u2212x(GeTe)x",
+        "Property": "ZT",
+        "Value": 1.3599999999999999,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.09.104"
+      },
+      {
+        "Original_Name_In_Paper": "(AgSbTe2)1\u2212x(GeTe)x",
+        "Property": "ZT",
+        "Value": 1.3599999999999999,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.09.198"
+      },
+      {
+        "Original_Name_In_Paper": "(AgSbTe2)1-x(GeTe)x",
+        "Property": "ZT",
+        "Value": 1.3599999999999999,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2010.11.045"
+      }
+    ]
+  }
+}

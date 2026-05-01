@@ -1,0 +1,29 @@
+{
+  "Material": "YbFe2Co2Sb12",
+  "DOIs_Researched": [
+    "10.1016/j.intermet.2011.04.015",
+    "10.1016/j.jmst.2014.05.007"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Yb0.7Fe2Co2Sb12",
+        "Property": "ZT",
+        "Value": 0.8300000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmst.2014.05.007"
+      }
+    ],
+    "782.0": [
+      {
+        "Original_Name_In_Paper": "Yb0.6Fe2Co2Sb12",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2011.04.015"
+      }
+    ]
+  }
+}

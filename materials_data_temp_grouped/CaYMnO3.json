@@ -1,0 +1,18 @@
+{
+  "Material": "CaYMnO3",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2018.02.130"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "Ca.9Yb.1MnO3 nanocomposite",
+        "Property": "PF",
+        "Value": 0.00011,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.02.130"
+      }
+    ]
+  }
+}

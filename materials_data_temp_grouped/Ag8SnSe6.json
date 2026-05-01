@@ -1,0 +1,113 @@
+{
+  "Material": "Ag8SnSe6",
+  "DOIs_Researched": [
+    "10.1016/j.jmat.2018.07.001",
+    "10.1039/c6tc00810k",
+    "10.1039/c9ce01367a",
+    "10.1039/d0ta00240b"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ag8SnSe6",
+        "Property": "ThermCond",
+        "Value": 0.1,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2018.07.001"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ag8SnSe6",
+        "Property": "ThermCond",
+        "Value": 0.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ce01367a"
+      }
+    ],
+    "803.0": [
+      {
+        "Original_Name_In_Paper": "Ag8SnSe6",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ce01367a"
+      }
+    ],
+    "715.0": [
+      {
+        "Original_Name_In_Paper": "pristine Ag8SnSe6",
+        "Property": "ZT",
+        "Value": 0.65,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ce01367a"
+      },
+      {
+        "Original_Name_In_Paper": "pristine Ag8SnSe6",
+        "Property": "Seebeck",
+        "Value": -0.00028000000000000003,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ce01367a"
+      },
+      {
+        "Original_Name_In_Paper": "pristine Ag8SnSe6",
+        "Property": "PF",
+        "Value": 0.000535,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ce01367a"
+      },
+      {
+        "Original_Name_In_Paper": "pristine Ag8SnSe6",
+        "Property": "PF",
+        "Value": 0.0005300000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ce01367a"
+      }
+    ],
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "Ag8SnSe6",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6tc00810k"
+      },
+      {
+        "Original_Name_In_Paper": "Ag8SnSe6",
+        "Property": "PF",
+        "Value": 0.0005700000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6tc00810k"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Ag8SnSe6",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2018.07.001"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Ag8SnSe6 nanostructures",
+        "Property": "ZT",
+        "Value": 1.33,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta00240b"
+      }
+    ]
+  }
+}

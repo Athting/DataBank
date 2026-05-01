@@ -1,0 +1,18 @@
+{
+  "Material": "CBCFO",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2014.06.190"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "co-doped CBCFO",
+        "Property": "PF",
+        "Value": 0.00045099999999999996,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.06.190"
+      }
+    ]
+  }
+}

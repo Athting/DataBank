@@ -1,0 +1,45 @@
+{
+  "Material": "AlYbCoSb12",
+  "DOIs_Researched": [
+    "10.1016/j.rser.2018.10.006",
+    "10.1007/s10853-017-0772-8"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Al0.3Yb0.25Co4Sb12 compound",
+        "Property": "ThermCond",
+        "Value": 0.6000000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rser.2018.10.006"
+      },
+      {
+        "Original_Name_In_Paper": "Al0.3Yb0.25Co4Sb12 compound",
+        "Property": "ZT",
+        "Value": 1.3599999999999999,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rser.2018.10.006"
+      }
+    ],
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "Al0.3Yb0.25Co4Sb12 composite",
+        "Property": "ZT",
+        "Value": 1.3599999999999999,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-017-0772-8"
+      },
+      {
+        "Original_Name_In_Paper": "Al0.3Yb0.25Co4Sb12 composite",
+        "Property": "ZT",
+        "Value": 1.3599999999999999,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-017-0772-8"
+      }
+    ]
+  }
+}

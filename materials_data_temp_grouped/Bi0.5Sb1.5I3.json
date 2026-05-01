@@ -1,0 +1,18 @@
+{
+  "Material": "Bi0.5Sb1.5I3",
+  "DOIs_Researched": [
+    "10.1016/j.matpr.2019.10.066"
+  ],
+  "Data_By_Temperature": {
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5\u00d0\u00a2\u00d0\u00b53 ( 2 wt. %",
+        "Property": "ZT",
+        "Value": 0.14,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matpr.2019.10.066"
+      }
+    ]
+  }
+}

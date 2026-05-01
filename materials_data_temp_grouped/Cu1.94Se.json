@@ -1,0 +1,18 @@
+{
+  "Material": "Cu1.94Se",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2015.08.022"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "Cu1.94In0.02Se",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2015.08.022"
+      }
+    ]
+  }
+}

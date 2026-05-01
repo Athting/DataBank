@@ -1,0 +1,87 @@
+{
+  "Material": "NbO",
+  "DOIs_Researched": [
+    "10.1007/s00339-014-8515-z",
+    "10.1016/j.ssc.2017.04.016",
+    "10.1016/S0925-8388(09)01720-4",
+    "10.1016/S0925-8388(09)00895-0"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "NbO",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(09)00895-0"
+      },
+      {
+        "Original_Name_In_Paper": "NbO",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(09)00895-0"
+      },
+      {
+        "Original_Name_In_Paper": "NbO",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(09)00895-0"
+      },
+      {
+        "Original_Name_In_Paper": "NbO",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(09)00895-0"
+      },
+      {
+        "Original_Name_In_Paper": "NbO",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(09)00895-0"
+      },
+      {
+        "Original_Name_In_Paper": "NbO",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(09)01720-4"
+      },
+      {
+        "Original_Name_In_Paper": "NbO",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(09)01720-4"
+      }
+    ],
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "NbO",
+        "Property": "Seebeck",
+        "Value": 1e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s00339-014-8515-z"
+      },
+      {
+        "Original_Name_In_Paper": "NbO",
+        "Property": "Seebeck",
+        "Value": -2.4999999999999998e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2017.04.016"
+      }
+    ]
+  }
+}

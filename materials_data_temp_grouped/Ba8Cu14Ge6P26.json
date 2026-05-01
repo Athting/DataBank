@@ -1,0 +1,94 @@
+{
+  "Material": "Ba8Cu14Ge6P26",
+  "DOIs_Researched": [
+    "10.1039/c7sc03482b"
+  ],
+  "Data_By_Temperature": {
+    "812.0": [
+      {
+        "Original_Name_In_Paper": "Ba8Cu14Ge6P26",
+        "Property": "ThermCond",
+        "Value": 0.72,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7sc03482b"
+      },
+      {
+        "Original_Name_In_Paper": "Ba8Cu14Ge6P26",
+        "Property": "ZT",
+        "Value": 0.63,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7sc03482b"
+      },
+      {
+        "Original_Name_In_Paper": "Ba8Cu14Ge6P26",
+        "Property": "ZT",
+        "Value": 0.63,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7sc03482b"
+      },
+      {
+        "Original_Name_In_Paper": "Ba8Cu14Ge6P26",
+        "Property": "ZT",
+        "Value": 0.63,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7sc03482b"
+      },
+      {
+        "Original_Name_In_Paper": "Ba8Cu14Ge6P26",
+        "Property": "Seebeck",
+        "Value": 0.000234,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7sc03482b"
+      },
+      {
+        "Original_Name_In_Paper": "Ba8Cu14Ge6P26",
+        "Property": "PF",
+        "Value": 0.000562,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7sc03482b"
+      },
+      {
+        "Original_Name_In_Paper": "Ba8Cu14Ge6P26",
+        "Property": "PF",
+        "Value": 0.000562,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7sc03482b"
+      }
+    ],
+    "100.0": [
+      {
+        "Original_Name_In_Paper": "Ba8Cu14Ge6P26",
+        "Property": "ThermCond",
+        "Value": 0.75,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7sc03482b"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ba8Cu14Ge6P26",
+        "Property": "Conductivity",
+        "Value": 6666.6666666667,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7sc03482b"
+      },
+      {
+        "Original_Name_In_Paper": "Ba8Cu14Ge6P26",
+        "Property": "Seebeck",
+        "Value": 0.000102,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7sc03482b"
+      }
+    ]
+  }
+}

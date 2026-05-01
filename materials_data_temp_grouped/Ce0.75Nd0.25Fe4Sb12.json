@@ -1,0 +1,18 @@
+{
+  "Material": "Ce0.75Nd0.25Fe4Sb12",
+  "DOIs_Researched": [
+    "10.3938/jkps.70.499"
+  ],
+  "Data_By_Temperature": {
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "Ce0.75Nd0.25Fe4Sb12",
+        "Property": "PF",
+        "Value": 0.0031000000000000003,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.3938/jkps.70.499"
+      }
+    ]
+  }
+}

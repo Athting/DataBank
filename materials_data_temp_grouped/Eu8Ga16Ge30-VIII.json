@@ -1,0 +1,18 @@
+{
+  "Material": "Eu8Ga16Ge30-VIII",
+  "DOIs_Researched": [
+    "10.1039/c5cp00729a"
+  ],
+  "Data_By_Temperature": {
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "p-type doped Eu8Ga16Ge30-VIII",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5cp00729a"
+      }
+    ]
+  }
+}

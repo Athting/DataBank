@@ -1,0 +1,52 @@
+{
+  "Material": "Sr2IrO4",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2009.10.219"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "polycrystalline Sr2IrO4",
+        "Property": "ThermCond",
+        "Value": 2.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.10.219"
+      },
+      {
+        "Original_Name_In_Paper": "polycrystalline Sr2IrO4",
+        "Property": "Seebeck",
+        "Value": 0.00016,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.10.219"
+      },
+      {
+        "Original_Name_In_Paper": "Sr2IrO4",
+        "Property": "Conductivity",
+        "Value": 220.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.10.219"
+      },
+      {
+        "Original_Name_In_Paper": "Sr2IrO4",
+        "Property": "Conductivity",
+        "Value": 48000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.10.219"
+      }
+    ],
+    "1023.0": [
+      {
+        "Original_Name_In_Paper": "Sr2IrO4",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.10.219"
+      }
+    ]
+  }
+}

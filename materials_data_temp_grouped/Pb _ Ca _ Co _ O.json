@@ -1,0 +1,18 @@
+{
+  "Material": "Pb / Ca / Co / O",
+  "DOIs_Researched": [
+    "10.1016/S1463-0184(02)00048-5"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Pb / Ca / Co / O",
+        "Property": "Seebeck",
+        "Value": 0.000165,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S1463-0184(02)00048-5"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "TiFe2Sn",
+  "DOIs_Researched": [
+    "10.1039/c7cp02744c"
+  ],
+  "Data_By_Temperature": {
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "TiFe2Sn compounds",
+        "Property": "PF",
+        "Value": 0.0002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cp02744c"
+      }
+    ]
+  }
+}

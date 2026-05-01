@@ -1,0 +1,18 @@
+{
+  "Material": "P doped Cu2Se",
+  "DOIs_Researched": [
+    "10.1016/j.jmat.2018.12.002"
+  ],
+  "Data_By_Temperature": {
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "P doped Cu2Se",
+        "Property": "ZT",
+        "Value": 1.85,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2018.12.002"
+      }
+    ]
+  }
+}

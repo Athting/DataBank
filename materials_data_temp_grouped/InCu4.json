@@ -1,0 +1,18 @@
+{
+  "Material": "InCu4",
+  "DOIs_Researched": [
+    "10.1016/j.ssc.2009.05.037"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "InCu4",
+        "Property": "Conductivity",
+        "Value": 285714.2857142857,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2009.05.037"
+      }
+    ]
+  }
+}

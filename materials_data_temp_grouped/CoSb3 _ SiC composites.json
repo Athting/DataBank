@@ -1,0 +1,36 @@
+{
+  "Material": "CoSb3 / SiC composites",
+  "DOIs_Researched": [
+    "10.1007/s10854-017-6824-7"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "CoSb3 / SiC composites",
+        "Property": "ThermCond",
+        "Value": 3.11,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-017-6824-7"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3 / SiC composites",
+        "Property": "ThermCond",
+        "Value": 1.9100000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-017-6824-7"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "CoSb3 / SiC composites",
+        "Property": "Conductivity",
+        "Value": 1e-06,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-017-6824-7"
+      }
+    ]
+  }
+}

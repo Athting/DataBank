@@ -1,0 +1,18 @@
+{
+  "Material": "Al\u2013Si matrix",
+  "DOIs_Researched": [
+    "10.1016/j.commatsci.2010.08.034"
+  ],
+  "Data_By_Temperature": {
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "Al\u2013Si matrix",
+        "Property": "ThermCond",
+        "Value": 73.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": "CNT addition",
+        "Source_DOI": "10.1016/j.commatsci.2010.08.034"
+      }
+    ]
+  }
+}

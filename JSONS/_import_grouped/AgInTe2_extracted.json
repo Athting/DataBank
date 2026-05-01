@@ -1,0 +1,93 @@
+{
+  "doi": "10.1038/s41427-020-00247-y",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "AgInTe2",
+        "Ag1-xInTe2 compounds",
+        "pristine AgInTe2"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "AgInTe2",
+          "value": 0.000036599999999999995,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "AgInTe2",
+          "value": 2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "AgInTe2",
+          "value": 2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "AgInTe2",
+          "value": 2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Ag1-xInTe2 compounds",
+          "value": 0.1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "814.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "pristine AgInTe2",
+          "zt_value": 0.62,
+          "temperature": "814.0 K"
+        },
+        {
+          "material": "AgInTe2",
+          "zt_value": 0.75,
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "AgInTe2",
+          "zt_value": 0.07,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "AgInTe2",
+          "zt_value": 0.06,
+          "temperature": "600.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

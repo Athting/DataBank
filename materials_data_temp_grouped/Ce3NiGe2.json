@@ -1,0 +1,18 @@
+{
+  "Material": "Ce3NiGe2",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2016.08.045"
+  ],
+  "Data_By_Temperature": {
+    "350.0": [
+      {
+        "Original_Name_In_Paper": "Ce3NiGe2",
+        "Property": "Seebeck",
+        "Value": -1.6e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.08.045"
+      }
+    ]
+  }
+}

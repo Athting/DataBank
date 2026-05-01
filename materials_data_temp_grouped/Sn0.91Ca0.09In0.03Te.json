@@ -1,0 +1,36 @@
+{
+  "Material": "Sn0.91Ca0.09In0.03Te",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2020.104832"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Sn0.91Ca0.09In0.03Te",
+        "Property": "ThermCond",
+        "Value": 4.59,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.104832"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.91Ca0.09In0.03Te",
+        "Property": "Seebeck",
+        "Value": 7.3e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.104832"
+      }
+    ],
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.91Ca0.09In0.03Te",
+        "Property": "PF",
+        "Value": 0.00415,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.104832"
+      }
+    ]
+  }
+}

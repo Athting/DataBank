@@ -1,0 +1,42 @@
+{
+  "Material": "Zn3.9Cd0.1Sb3",
+  "DOIs_Researched": [
+    "10.1016/j.mtcomm.2018.01.007"
+  ],
+  "Data_By_Temperature": {
+    "680.0": [
+      {
+        "Original_Name_In_Paper": "Zn3.9Cd0.1Sb3 compound",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtcomm.2018.01.007"
+      },
+      {
+        "Original_Name_In_Paper": "Zn3.9Cd0.1Sb3 compound",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtcomm.2018.01.007"
+      },
+      {
+        "Original_Name_In_Paper": "Zn3.9Cd0.1Sb3",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtcomm.2018.01.007"
+      },
+      {
+        "Original_Name_In_Paper": "Zn3.9Cd0.1Sb3",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": "doping of Cd",
+        "Source_DOI": "10.1016/j.mtcomm.2018.01.007"
+      }
+    ]
+  }
+}

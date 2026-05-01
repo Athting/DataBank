@@ -1,0 +1,18 @@
+{
+  "Material": "Bi:Ge0.87Pb0.13Te",
+  "DOIs_Researched": [
+    "10.1038/s41524-019-0197-9"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Bi-doped Ge0.87Pb0.13Te",
+        "Property": "ZT",
+        "Value": 1.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41524-019-0197-9"
+      }
+    ]
+  }
+}

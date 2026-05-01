@@ -1,0 +1,18 @@
+{
+  "Material": "Na3.1Zr1.95Mg0.05Si2PO1",
+  "DOIs_Researched": [
+    "10.1016/j.ensm.2020.09.007"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Na3.1Zr1.95Mg0.05Si2PO12",
+        "Property": "Conductivity",
+        "Value": 0.35000000000000003,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ensm.2020.09.007"
+      }
+    ]
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "doi": "10.1016/j.matchemphys.2017.10.073",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Ba8Cu6Si40"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "Ba8Cu6Si40",
+          "value": 0.000062,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "720.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "Ba8Cu6Si40",
+          "value": 123456.7901234568,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "320.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Ba8Cu6Si40",
+          "value": 1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Ba8Cu6Si40",
+          "value": 1.26,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "720.0 K"
+        },
+        {
+          "material": "Ba8Cu6Si40",
+          "value": 1.26,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "720.0 K"
+        },
+        {
+          "material": "Ba8Cu6Si40",
+          "value": 2.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "400.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Ba8Cu6Si40",
+          "zt_value": 0.07,
+          "temperature": "400.0 K"
+        },
+        {
+          "material": "Ba8Cu6Si40",
+          "zt_value": 0.28,
+          "temperature": "870.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

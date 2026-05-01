@@ -1,0 +1,68 @@
+{
+  "Material": "AgCl",
+  "DOIs_Researched": [
+    "10.1016/j.susmat.2020.e00183",
+    "10.1016/j.tca.2011.01.018",
+    "10.1039/c9ta01678c"
+  ],
+  "Data_By_Temperature": {
+    "325.0": [
+      {
+        "Original_Name_In_Paper": "Ag0Cl0",
+        "Property": "ThermCond",
+        "Value": 1.6600000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": "Ag - introduction",
+        "Source_DOI": "10.1039/c9ta01678c"
+      }
+    ],
+    "689.0": [
+      {
+        "Original_Name_In_Paper": "Ag0Cl0",
+        "Property": "ThermCond",
+        "Value": 0.85,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta01678c"
+      }
+    ],
+    "775.0": [
+      {
+        "Original_Name_In_Paper": "AgCl",
+        "Property": "ThermCond",
+        "Value": 0.31,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.susmat.2020.e00183"
+      }
+    ],
+    "555.0": [
+      {
+        "Original_Name_In_Paper": "AgCl",
+        "Property": "Conductivity",
+        "Value": 180.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tca.2011.01.018"
+      }
+    ],
+    "727.0": [
+      {
+        "Original_Name_In_Paper": "Ag0Cl0",
+        "Property": "Conductivity",
+        "Value": 1602.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": "Ag - introduction",
+        "Source_DOI": "10.1039/c9ta01678c"
+      },
+      {
+        "Original_Name_In_Paper": "Ag3Cl0",
+        "Property": "Conductivity",
+        "Value": 2823.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta01678c"
+      }
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "Material": "BaSbSe_5",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2015.12.030",
+    "10.1039/c5tc01721a",
+    "10.1039/c8ta00553b"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ba2Sb2Se5",
+        "Property": "ThermCond",
+        "Value": 0.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01721a"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ba2Sb2Se5",
+        "Property": "ZT",
+        "Value": 3.6999999999999997e-06,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01721a"
+      },
+      {
+        "Original_Name_In_Paper": "Ba2Sb2Se5",
+        "Property": "Seebeck",
+        "Value": -0.00062,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01721a"
+      }
+    ],
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "Ba2Sb2Se5",
+        "Property": "Conductivity",
+        "Value": 0.0142857143,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2015.12.030"
+      },
+      {
+        "Original_Name_In_Paper": "Ba2Sb2Se5",
+        "Property": "Conductivity",
+        "Value": 0.0142857143,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta00553b"
+      },
+      {
+        "Original_Name_In_Paper": "Ba2Sb2Se5",
+        "Property": "Conductivity",
+        "Value": 0.0142857143,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01721a"
+      }
+    ]
+  }
+}

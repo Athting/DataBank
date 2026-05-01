@@ -1,0 +1,151 @@
+{
+  "Material": "SrLaTiO3",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2020.105195",
+    "10.1016/S1002-0721(14)60073-9",
+    "10.1016/j.ceramint.2016.07.091",
+    "10.1016/j.matpr.2017.10.004",
+    "10.1016/j.carbon.2018.11.023",
+    "10.1016/j.jallcom.2009.07.041",
+    "10.1016/j.ceramint.2012.07.009",
+    "10.1016/j.ceramint.2011.04.004"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "polycrystalline Sr0.9La0.1TiO3",
+        "Property": "ThermCond",
+        "Value": 2.75,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.105195"
+      },
+      {
+        "Original_Name_In_Paper": "polycrystalline Sr0.9La0.1TiO3",
+        "Property": "ZT",
+        "Value": 0.39,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.105195"
+      },
+      {
+        "Original_Name_In_Paper": "polycrystalline Sr0.9La0.1TiO3",
+        "Property": "PF",
+        "Value": 0.0010500000000000002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.105195"
+      }
+    ],
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "Sr0.9La0.1TiO3",
+        "Property": "ThermCond",
+        "Value": 3.1,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": "Ag addition",
+        "Source_DOI": "10.1016/j.ceramint.2016.07.091"
+      },
+      {
+        "Original_Name_In_Paper": "Sr0.95La0.05TiO3",
+        "Property": "ZT",
+        "Value": 0.21,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.07.041"
+      },
+      {
+        "Original_Name_In_Paper": "Sr0.95La0.05TiO3",
+        "Property": "ZT",
+        "Value": 0.21,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.07.041"
+      },
+      {
+        "Original_Name_In_Paper": "Sr0.95La0.05TiO3",
+        "Property": "ZT",
+        "Value": 0.21,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.07.041"
+      },
+      {
+        "Original_Name_In_Paper": "Sr0.9La0.1TiO3",
+        "Property": "Seebeck",
+        "Value": -0.000169,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": "Ag addition",
+        "Source_DOI": "10.1016/j.ceramint.2016.07.091"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "cubic perovskite Sr0.9La0.1TiO3",
+        "Property": "ThermCond",
+        "Value": 10.3,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S1002-0721(14)60073-9"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Sr0.95La0.05TiO3 single crystal",
+        "Property": "ZT",
+        "Value": 0.15,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2012.07.009"
+      },
+      {
+        "Original_Name_In_Paper": "Sr0.95La0.05TiO3 single crystal",
+        "Property": "ZT",
+        "Value": 0.15,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.07.041"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Sr0.900La0.067TiO3",
+        "Property": "ZT",
+        "Value": 0.42,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.carbon.2018.11.023"
+      }
+    ],
+    "1046.0": [
+      {
+        "Original_Name_In_Paper": "Sr0.9La0.1TiO3",
+        "Property": "ZT",
+        "Value": 0.29,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2011.04.004"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Sr0.92La0.08TiO3",
+        "Property": "ZT",
+        "Value": 0.22,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matpr.2017.10.004"
+      }
+    ],
+    "370.0": [
+      {
+        "Original_Name_In_Paper": "Sr0.95La0.05TiO3",
+        "Property": "PF",
+        "Value": 0.002506,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.07.041"
+      }
+    ]
+  }
+}

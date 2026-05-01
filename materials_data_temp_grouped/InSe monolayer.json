@@ -1,0 +1,18 @@
+{
+  "Material": "InSe monolayer",
+  "DOIs_Researched": [
+    "10.1186/s11671-019-3113-9"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "InSe monolayer",
+        "Property": "ZT",
+        "Value": 0.36,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1186/s11671-019-3113-9"
+      }
+    ]
+  }
+}

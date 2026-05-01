@@ -1,0 +1,38 @@
+{
+  "Material": "SmMg2Bi2",
+  "DOIs_Researched": [
+    "10.1039/c9ta13224d"
+  ],
+  "Data_By_Temperature": {
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "SmMg2Bi2",
+        "Property": "ZT",
+        "Value": 0.45,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta13224d"
+      }
+    ],
+    "680.0": [
+      {
+        "Original_Name_In_Paper": "pristine SmMg2Bi2",
+        "Property": "ZT",
+        "Value": 0.45,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta13224d"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "SmMg2Bi2",
+        "Property": "Conductivity",
+        "Value": 25000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta13224d"
+      }
+    ]
+  }
+}

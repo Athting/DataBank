@@ -1,0 +1,34 @@
+{
+  "Material": "AgPbBiSe2.97I0.03",
+  "DOIs_Researched": [
+    "10.1039/c9sc00485h"
+  ],
+  "Data_By_Temperature": {
+    "814.0": [
+      {
+        "Original_Name_In_Paper": "AgPbBiSe2.97I0.03",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9sc00485h"
+      },
+      {
+        "Original_Name_In_Paper": "AgPbBiSe2.97I0.03",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9sc00485h"
+      },
+      {
+        "Original_Name_In_Paper": "AgPbBiSe2.97I0.03",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9sc00485h"
+      }
+    ]
+  }
+}

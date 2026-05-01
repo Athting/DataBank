@@ -1,0 +1,18 @@
+{
+  "Material": "isostructural phases",
+  "DOIs_Researched": [
+    "10.1016/j.mtadv.2020.100094"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "isostructural phases",
+        "Property": "Seebeck",
+        "Value": 4e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtadv.2020.100094"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "CuIn0.95Mn0.05Se2",
+  "DOIs_Researched": [
+    "10.1016/j.matchemphys.2014.03.034"
+  ],
+  "Data_By_Temperature": {
+    "560.0": [
+      {
+        "Original_Name_In_Paper": "CuIn0.95Mn0.05Se2",
+        "Property": "Conductivity",
+        "Value": 290.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2014.03.034"
+      }
+    ]
+  }
+}

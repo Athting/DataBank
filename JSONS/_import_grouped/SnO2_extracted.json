@@ -1,0 +1,123 @@
+{
+  "doi": "10.1007/s12043-016-1237-3",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "SnO2",
+        "tetragonal SnO2",
+        "SnO2 thin films",
+        "SnO2 nanoparticles",
+        "SnO2 : F films",
+        "Non doped SnO2 films",
+        "SnO2 based",
+        "undoped SnO2 thin film",
+        "SnO2 : Co films",
+        "10.0 mol % SnO2"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "SnO2 nanoparticles",
+          "value": -0.00029,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "undoped SnO2 thin film",
+          "value": 0.00023,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "450.0 K"
+        },
+        {
+          "material": "SnO2 : Co films",
+          "value": 0.00046199999999999995,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "450.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "SnO2 thin films",
+          "value": 1000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnO2 : F films",
+          "value": 100000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "Non doped SnO2 films",
+          "value": 35714.2857142857,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "SnO2 based",
+          "value": 2958.5798816568,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "SnO2",
+          "value": 0.9433962264,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "SnO2",
+          "value": 30,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "tetragonal SnO2",
+          "value": 55,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnO2",
+          "value": 55,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "10.0 mol % SnO2",
+          "value": 0.00000777,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1023.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": []
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

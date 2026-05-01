@@ -1,0 +1,18 @@
+{
+  "Material": "Bi0.875Ba0.125Cu0.85Co",
+  "DOIs_Researched": [
+    "10.1039/c7ta03659k"
+  ],
+  "Data_By_Temperature": {
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.875Ba0.125Cu0.85Co0.15SeO",
+        "Property": "ZT",
+        "Value": 0.97,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ta03659k"
+      }
+    ]
+  }
+}

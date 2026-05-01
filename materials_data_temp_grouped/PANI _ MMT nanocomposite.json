@@ -1,0 +1,18 @@
+{
+  "Material": "PANI / MMT nanocomposite",
+  "DOIs_Researched": [
+    "10.1007/s11696-016-0077-4"
+  ],
+  "Data_By_Temperature": {
+    "293.0": [
+      {
+        "Original_Name_In_Paper": "PANI / MMT nanocomposite",
+        "Property": "Conductivity",
+        "Value": 2040.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11696-016-0077-4"
+      }
+    ]
+  }
+}

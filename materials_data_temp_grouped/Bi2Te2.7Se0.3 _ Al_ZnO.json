@@ -1,0 +1,18 @@
+{
+  "Material": "Bi2Te2.7Se0.3 / Al:ZnO",
+  "DOIs_Researched": [
+    "10.1016/j.matchemphys.2020.123699"
+  ],
+  "Data_By_Temperature": {
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Te2.7Se0.3 / Al doped ZnO alloy",
+        "Property": "ZT",
+        "Value": 0.85,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2020.123699"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "Material": "Li2TlBi",
+  "DOIs_Researched": [
+    "10.1038/s41467-019-08542-1"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Li2TlBi",
+        "Property": "ThermCond",
+        "Value": 2.36,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41467-019-08542-1"
+      },
+      {
+        "Original_Name_In_Paper": "Li2TlBi",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41467-019-08542-1"
+      }
+    ],
+    "0.6666666667000001": [
+      {
+        "Original_Name_In_Paper": "Li2TlBi",
+        "Property": "PF",
+        "Value": 0.019,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41467-019-08542-1"
+      }
+    ]
+  }
+}

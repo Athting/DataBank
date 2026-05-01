@@ -1,0 +1,18 @@
+{
+  "Material": "pnictogen chalcogenide nanoplates",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2012.01.006"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "pnictogen chalcogenide nanoplates",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2012.01.006"
+      }
+    ]
+  }
+}

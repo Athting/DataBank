@@ -1,0 +1,68 @@
+{
+  "Material": "BSCO",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2020.154065",
+    "10.1016/j.tsf.2010.06.060",
+    "10.1016/j.matdes.2015.10.058",
+    "10.1016/j.tsf.2013.02.107",
+    "10.1007/s10853-009-3279-0"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "polycrystalline BSCO oxide",
+        "Property": "ZT",
+        "Value": 0.19,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-009-3279-0"
+      }
+    ],
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "nanocrystalline BSCO film",
+        "Property": "Seebeck",
+        "Value": 0.00017099999999999998,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2013.02.107"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "BSCO",
+        "Property": "Seebeck",
+        "Value": 0.00013000000000000002,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2010.06.060"
+      },
+      {
+        "Original_Name_In_Paper": "pure BSCO film",
+        "Property": "Seebeck",
+        "Value": 0.00012000000000000002,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matdes.2015.10.058"
+      },
+      {
+        "Original_Name_In_Paper": "pure BSCO film",
+        "Property": "PF",
+        "Value": 0.00029,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matdes.2015.10.058"
+      }
+    ],
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "BSCO",
+        "Property": "PF",
+        "Value": 0.00028199999999999997,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154065"
+      }
+    ]
+  }
+}

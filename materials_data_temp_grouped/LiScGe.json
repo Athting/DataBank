@@ -1,0 +1,44 @@
+{
+  "Material": "LiScGe",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2019.152929"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "p-type LiScGe",
+        "Property": "ZT",
+        "Value": 0.77,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.152929"
+      },
+      {
+        "Original_Name_In_Paper": "p-type LiScGe",
+        "Property": "ZT",
+        "Value": 0.77,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.152929"
+      },
+      {
+        "Original_Name_In_Paper": "p-type LiScGe",
+        "Property": "ZT",
+        "Value": 0.77,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.152929"
+      }
+    ],
+    "1100.0": [
+      {
+        "Original_Name_In_Paper": "p-type LiScGe",
+        "Property": "ZT",
+        "Value": 0.45,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.152929"
+      }
+    ]
+  }
+}

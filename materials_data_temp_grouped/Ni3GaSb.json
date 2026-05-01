@@ -1,0 +1,52 @@
+{
+  "Material": "Ni3GaSb",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2011.01.006"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ni3GaSb",
+        "Property": "ThermCond",
+        "Value": 3.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2011.01.006"
+      }
+    ],
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "Ni3GaSb",
+        "Property": "ZT",
+        "Value": 0.022,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2011.01.006"
+      },
+      {
+        "Original_Name_In_Paper": "Ni3GaSb",
+        "Property": "ZT",
+        "Value": 0.022,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2011.01.006"
+      },
+      {
+        "Original_Name_In_Paper": "Ni3GaSb",
+        "Property": "Seebeck",
+        "Value": -2.2e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2011.01.006"
+      },
+      {
+        "Original_Name_In_Paper": "Ni3GaSb",
+        "Property": "PF",
+        "Value": 0.00043000000000000004,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2011.01.006"
+      }
+    ]
+  }
+}

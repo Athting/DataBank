@@ -1,0 +1,18 @@
+{
+  "Material": "SrTiO3(Nb0.2)",
+  "DOIs_Researched": [
+    "10.1016/j.jpowsour.2013.04.143"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "one-unit-cell-thick SrTi0.8Nb0.2O3",
+        "Property": "ZT",
+        "Value": 2.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpowsour.2013.04.143"
+      }
+    ]
+  }
+}

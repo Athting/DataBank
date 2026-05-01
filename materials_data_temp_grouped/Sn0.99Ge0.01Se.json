@@ -1,0 +1,43 @@
+{
+  "Material": "Sn0.99Ge0.01Se",
+  "DOIs_Researched": [
+    "10.1039/c6ra23904h",
+    "10.1007/s10853-020-04949-0"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "(Sn0.99Ge0.01)Se",
+        "Property": "ZT",
+        "Value": 0.77,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra23904h"
+      },
+      {
+        "Original_Name_In_Paper": "(Sn0.99Ge0.01)Se",
+        "Property": "ZT",
+        "Value": 0.77,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra23904h"
+      },
+      {
+        "Original_Name_In_Paper": "(Sn0.99Ge0.01)Se",
+        "Property": "ZT",
+        "Value": 0.77,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra23904h"
+      },
+      {
+        "Original_Name_In_Paper": "(Sn0.99Ge0.01)Se",
+        "Property": "ZT",
+        "Value": 0.77,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      }
+    ]
+  }
+}

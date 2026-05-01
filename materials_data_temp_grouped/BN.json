@@ -1,0 +1,29 @@
+{
+  "Material": "BN",
+  "DOIs_Researched": [
+    "10.1038/s41699-018-0070-6",
+    "10.1016/j.rinp.2017.03.032"
+  ],
+  "Data_By_Temperature": {
+    "473.0": [
+      {
+        "Original_Name_In_Paper": "boron nitride",
+        "Property": "ThermCond",
+        "Value": 146.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41699-018-0070-6"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "boron nitride quantum dot",
+        "Property": "ZT",
+        "Value": 0.77,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rinp.2017.03.032"
+      }
+    ]
+  }
+}

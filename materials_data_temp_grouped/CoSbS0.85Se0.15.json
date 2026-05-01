@@ -1,0 +1,43 @@
+{
+  "Material": "CoSbS0.85Se0.15",
+  "DOIs_Researched": [
+    "10.1007/s12598-017-0990-x",
+    "10.1007/s12598-019-01235-0"
+  ],
+  "Data_By_Temperature": {
+    "875.0": [
+      {
+        "Original_Name_In_Paper": "Co0.95Zn0.05SbS0.85Se0.15",
+        "Property": "ZT",
+        "Value": 0.34,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s12598-017-0990-x"
+      },
+      {
+        "Original_Name_In_Paper": "CoSbS0.85Se0.15",
+        "Property": "ZT",
+        "Value": 0.34,
+        "Units": null,
+        "Editing": "substitution of Zn",
+        "Source_DOI": "10.1007/s12598-017-0990-x"
+      },
+      {
+        "Original_Name_In_Paper": "Co0.95Zn0.05SbS0.85Se0.15",
+        "Property": "ZT",
+        "Value": 0.34,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s12598-017-0990-x"
+      },
+      {
+        "Original_Name_In_Paper": "Co0.95Zn0.05SbS0.85Se0.15",
+        "Property": "ZT",
+        "Value": 0.17,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s12598-019-01235-0"
+      }
+    ]
+  }
+}

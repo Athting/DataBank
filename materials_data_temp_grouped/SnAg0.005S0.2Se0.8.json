@@ -1,0 +1,26 @@
+{
+  "Material": "SnAg0.005S0.2Se0.8",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2018.02.157"
+  ],
+  "Data_By_Temperature": {
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.995Ag0.005S0.2Se0.8",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.02.157"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.995Ag0.005S0.2Se0.8",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.02.157"
+      }
+    ]
+  }
+}

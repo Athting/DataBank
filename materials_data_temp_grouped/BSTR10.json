@@ -1,0 +1,26 @@
+{
+  "Material": "BSTR10",
+  "DOIs_Researched": [
+    "10.1016/j.ssi.2019.115010"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "BSTR10",
+        "Property": "Conductivity",
+        "Value": 2.4,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssi.2019.115010"
+      },
+      {
+        "Original_Name_In_Paper": "BSTR10",
+        "Property": "Conductivity",
+        "Value": 6.9,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssi.2019.115010"
+      }
+    ]
+  }
+}

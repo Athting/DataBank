@@ -1,0 +1,18 @@
+{
+  "Material": "(PANI)XV2O5\u00b7nH2O",
+  "DOIs_Researched": [
+    "10.1039/c4ra02136c"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "(PANI)XV2O5\u00b7nH2O",
+        "Property": "Conductivity",
+        "Value": 10.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra02136c"
+      }
+    ]
+  }
+}

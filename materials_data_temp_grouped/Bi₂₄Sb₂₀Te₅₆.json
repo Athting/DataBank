@@ -1,0 +1,18 @@
+{
+  "Material": "Bi\u2082\u2084Sb\u2082\u2080Te\u2085\u2086",
+  "DOIs_Researched": [
+    "10.1007/s10853-016-0008-3"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Bi24Sb20Te56",
+        "Property": "Conductivity",
+        "Value": 0.165,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-016-0008-3"
+      }
+    ]
+  }
+}

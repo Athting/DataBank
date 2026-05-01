@@ -1,0 +1,73 @@
+{
+  "Material": "graphene oxide",
+  "DOIs_Researched": [
+    "10.1007/s10853-019-04113-3",
+    "10.1016/j.ceramint.2016.04.056",
+    "10.1007/s10853-020-04949-0",
+    "10.1007/s10854-019-02280-2"
+  ],
+  "Data_By_Temperature": {
+    "60.0": [
+      {
+        "Original_Name_In_Paper": "graphene oxide",
+        "Property": "ThermCond",
+        "Value": 0.20800000000000002,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-019-04113-3"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "graphene oxide",
+        "Property": "ZT",
+        "Value": 0.084,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      },
+      {
+        "Original_Name_In_Paper": "graphene oxide",
+        "Property": "Seebeck",
+        "Value": 1.4999999999999999e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2016.04.056"
+      },
+      {
+        "Original_Name_In_Paper": "graphene oxide",
+        "Property": "PF",
+        "Value": 8e-07,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2016.04.056"
+      },
+      {
+        "Original_Name_In_Paper": "graphene oxide",
+        "Property": "PF",
+        "Value": 4.74e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      },
+      {
+        "Original_Name_In_Paper": "graphene oxide",
+        "Property": "Conductivity",
+        "Value": 8000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2016.04.056"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "graphene oxide",
+        "Property": "PF",
+        "Value": 4.74e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-019-02280-2"
+      }
+    ]
+  }
+}

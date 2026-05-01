@@ -1,0 +1,18 @@
+{
+  "Material": "Cu2.3Hg0.7Ge1.0Se4.2",
+  "DOIs_Researched": [
+    "10.1007/s11051-014-2297-2"
+  ],
+  "Data_By_Temperature": {
+    "733.0": [
+      {
+        "Original_Name_In_Paper": "Cu2.3Hg0.7Ge1.0Se4.2 nanocrystalline materials",
+        "Property": "ZT",
+        "Value": 0.34,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11051-014-2297-2"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1451 @@
+{
+  "Material": "GeTe",
+  "DOIs_Researched": [
+    "10.1016/j.matchemphys.2017.01.038",
+    "10.1038/am.2016.203",
+    "10.1039/c6ce01405d",
+    "10.1038/s41598-019-45071-9",
+    "10.1039/c4ra00969j",
+    "10.1016/j.solidstatesciences.2010.11.045",
+    "10.1007/s10853-007-1898-x",
+    "10.1039/c9ee00317g",
+    "10.1039/c9cp05153h",
+    "10.1016/j.joule.2019.08.017",
+    "10.1016/j.jmrt.2020.02.037",
+    "10.1007/s12039-019-1704-8",
+    "10.1039/c9ta10436d",
+    "10.1007/s12648-020-01849-6",
+    "10.1016/j.actamat.2014.04.036",
+    "10.1016/j.matlet.2018.07.132",
+    "10.1016/j.jallcom.2019.151747",
+    "10.1039/c6tc02501c",
+    "10.1016/j.physb.2020.412397",
+    "10.1007/s10853-020-04949-0",
+    "10.1039/d0ee01004a",
+    "10.1039/c3ta14901c",
+    "10.1016/j.matpr.2020.07.454",
+    "10.1039/c9ta03503f",
+    "10.1016/j.jallcom.2019.153496",
+    "10.1016/j.ssnmr.2016.07.003",
+    "10.1039/c9nr07008g",
+    "10.1016/j.ceramint.2019.05.119",
+    "10.1016/j.joule.2020.07.021",
+    "10.1039/c5qi00230c",
+    "10.1038/srep25748",
+    "10.1039/c4cp01294a",
+    "10.1016/j.jallcom.2013.02.149",
+    "10.1016/j.mtphys.2019.100098",
+    "10.1039/c9ta10963c",
+    "10.1016/j.scib.2018.04.012",
+    "10.1016/j.jcrysgro.2007.02.036",
+    "10.1016/j.joule.2020.03.004",
+    "10.1007/s10854-020-04702-y",
+    "10.1016/j.joule.2018.02.016",
+    "10.1039/c8qi00703a",
+    "10.1039/c9ta11901a",
+    "10.1016/j.jallcom.2019.07.120",
+    "10.1016/j.jallcom.2013.09.104",
+    "10.1039/d0ta00628a",
+    "10.1016/j.mtphys.2020.100239",
+    "10.1016/j.matpr.2019.10.066",
+    "10.1016/j.nanoen.2019.104347",
+    "10.1016/B978-0-08-102687-8.00008-7",
+    "10.1016/j.scriptamat.2020.03.018",
+    "10.1016/j.jssc.2014.03.031",
+    "10.1038/s41427-020-00247-y",
+    "10.1016/j.intermet.2014.09.004",
+    "10.1039/c8ce01134f",
+    "10.1016/j.jallcom.2019.152210",
+    "10.1016/j.jallcom.2019.151838",
+    "10.1016/j.nanoen.2020.104740",
+    "10.1016/j.chempr.2018.04.013",
+    "10.1016/j.synthmet.2020.116606",
+    "10.1016/j.apenergy.2020.114688",
+    "10.1016/j.energy.2020.117104",
+    "10.1016/B978-0-12-822103-7.00008-X"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "pristine GeTe",
+        "Property": "ThermCond",
+        "Value": 7.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ee01004a"
+      },
+      {
+        "Original_Name_In_Paper": "Pristine GeTe",
+        "Property": "ThermCond",
+        "Value": 8.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2019.08.017"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "ThermCond",
+        "Value": 0.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": "In doping",
+        "Source_DOI": "10.1016/j.joule.2019.08.017"
+      },
+      {
+        "Original_Name_In_Paper": "pristine GeTe",
+        "Property": "ThermCond",
+        "Value": 8.3,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2019.08.017"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "ThermCond",
+        "Value": 2.2800000000000002,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2019.08.017"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "ThermCond",
+        "Value": 1.6800000000000002,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": "co-doping of In and Bi",
+        "Source_DOI": "10.1016/j.joule.2019.08.017"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "ThermCond",
+        "Value": 5.65,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2019.08.017"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "ThermCond",
+        "Value": 2.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2019.08.017"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "ThermCond",
+        "Value": 0.67,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2019.08.017"
+      },
+      {
+        "Original_Name_In_Paper": "undoped GeTe",
+        "Property": "ThermCond",
+        "Value": 5.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": "Sb substitution",
+        "Source_DOI": "10.1039/d0ta00628a"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "ThermCond",
+        "Value": 0.39,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta11901a"
+      },
+      {
+        "Original_Name_In_Paper": "pristine GeTe",
+        "Property": "ThermCond",
+        "Value": 8.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta10436d"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "ThermCond",
+        "Value": 8.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta03503f"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "ThermCond",
+        "Value": 8.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6tc02501c"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "ThermCond",
+        "Value": 8.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5qi00230c"
+      },
+      {
+        "Original_Name_In_Paper": "pristine GeTe",
+        "Property": "ThermCond",
+        "Value": 8.3,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5qi00230c"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "ThermCond",
+        "Value": 8.3,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5qi00230c"
+      },
+      {
+        "Original_Name_In_Paper": "Pristine GeTe",
+        "Property": "ThermCond",
+        "Value": 5.6,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5qi00230c"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "ThermCond",
+        "Value": 2.6,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5qi00230c"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5qi00230c"
+      },
+      {
+        "Original_Name_In_Paper": "Rhombohedral GeTe",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.chempr.2018.04.013"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "ZT",
+        "Value": 0.03,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2017.01.038"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe-based",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta11901a"
+      },
+      {
+        "Original_Name_In_Paper": "undoped GeTe",
+        "Property": "ZT",
+        "Value": 0.03,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta10963c"
+      },
+      {
+        "Original_Name_In_Paper": "Pristine GeTe",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2019.08.017"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "Conductivity",
+        "Value": 714285.7142857143,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssnmr.2016.07.003"
+      },
+      {
+        "Original_Name_In_Paper": "bulk GeTe",
+        "Property": "Seebeck",
+        "Value": 3.5e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-020-04702-y"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe rods",
+        "Property": "Seebeck",
+        "Value": 0.00017,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-020-04702-y"
+      },
+      {
+        "Original_Name_In_Paper": "Pristine GeTe",
+        "Property": "Seebeck",
+        "Value": 3.0000000000000004e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2019.08.017"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "Seebeck",
+        "Value": 0.00012000000000000002,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": "In doping",
+        "Source_DOI": "10.1016/j.joule.2019.08.017"
+      },
+      {
+        "Original_Name_In_Paper": "pristine GeTe",
+        "Property": "Seebeck",
+        "Value": 3.4e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2019.08.017"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "Seebeck",
+        "Value": 3.2e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": "doping of 6 mol % Bi",
+        "Source_DOI": "10.1016/j.joule.2019.08.017"
+      },
+      {
+        "Original_Name_In_Paper": "pristine GeTe",
+        "Property": "Seebeck",
+        "Value": 0.000125,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2019.08.017"
+      },
+      {
+        "Original_Name_In_Paper": "undoped GeTe",
+        "Property": "Seebeck",
+        "Value": 3.9e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta10963c"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "Seebeck",
+        "Value": 3.4e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6tc02501c"
+      },
+      {
+        "Original_Name_In_Paper": "pristine GeTe",
+        "Property": "Seebeck",
+        "Value": 2.8e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2020.412397"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "Seebeck",
+        "Value": 8.3e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ce01405d"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "Seebeck",
+        "Value": 3.0000000000000004e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5qi00230c"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "Seebeck",
+        "Value": 3.4e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5qi00230c"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "Seebeck",
+        "Value": 9.8e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": "10 mol % of Bi doping",
+        "Source_DOI": "10.1039/c5qi00230c"
+      },
+      {
+        "Original_Name_In_Paper": "pristine GeTe",
+        "Property": "PF",
+        "Value": 2.2e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2019.104347"
+      },
+      {
+        "Original_Name_In_Paper": "undoped GeTe",
+        "Property": "PF",
+        "Value": 0.0008100000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2019.08.017"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "PF",
+        "Value": 0.00072,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2020.07.021"
+      },
+      {
+        "Original_Name_In_Paper": "Pristine GeTe",
+        "Property": "Conductivity",
+        "Value": 800000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2019.08.017"
+      },
+      {
+        "Original_Name_In_Paper": "pristine GeTe",
+        "Property": "Conductivity",
+        "Value": 806700.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2019.08.017"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "Conductivity",
+        "Value": 850000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5qi00230c"
+      },
+      {
+        "Original_Name_In_Paper": "Pristine GeTe",
+        "Property": "Conductivity",
+        "Value": 806700.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5qi00230c"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Bi doped GeTe",
+        "Property": "ThermCond",
+        "Value": 0.38,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2019.104347"
+      },
+      {
+        "Original_Name_In_Paper": "pristine GeTe",
+        "Property": "PF",
+        "Value": 0.0038,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta10436d"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "GeTe []",
+        "Property": "ThermCond",
+        "Value": 3.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.152210"
+      },
+      {
+        "Original_Name_In_Paper": "pristine GeTe",
+        "Property": "ThermCond",
+        "Value": 7.6,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "ThermCond",
+        "Value": 3.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s12039-019-1704-8"
+      },
+      {
+        "Original_Name_In_Paper": "pure GeTe",
+        "Property": "ThermCond",
+        "Value": 2.86,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.02.149"
+      },
+      {
+        "Original_Name_In_Paper": "pristine GeTe",
+        "Property": "ThermCond",
+        "Value": 2.6,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2018.02.016"
+      },
+      {
+        "Original_Name_In_Paper": "bulk GeTe",
+        "Property": "ThermCond",
+        "Value": 4.7,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2010.11.045"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe crystalline film",
+        "Property": "ThermCond",
+        "Value": 4.35,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2010.11.045"
+      },
+      {
+        "Original_Name_In_Paper": "pure GeTe",
+        "Property": "ThermCond",
+        "Value": 7.1,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2010.11.045"
+      },
+      {
+        "Original_Name_In_Paper": "pristine GeTe",
+        "Property": "ThermCond",
+        "Value": 3.58,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta10436d"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "ThermCond",
+        "Value": 2.6,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-08-102687-8.00008-7"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "ThermCond",
+        "Value": 21.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jcrysgro.2007.02.036"
+      },
+      {
+        "Original_Name_In_Paper": "pristine GeTe",
+        "Property": "ThermCond",
+        "Value": 6.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8qi00703a"
+      },
+      {
+        "Original_Name_In_Paper": "pristine GeTe",
+        "Property": "ThermCond",
+        "Value": 7.6,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s12648-020-01849-6"
+      },
+      {
+        "Original_Name_In_Paper": "pristine GeTe",
+        "Property": "ThermCond",
+        "Value": 1.6,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6tc02501c"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "ThermCond",
+        "Value": 2.04,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2019.100098"
+      },
+      {
+        "Original_Name_In_Paper": "pure GeTe",
+        "Property": "ThermCond",
+        "Value": 7.1,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2014.04.036"
+      },
+      {
+        "Original_Name_In_Paper": "pristine GeTe",
+        "Property": "ThermCond",
+        "Value": 8.6,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-019-45071-9"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ce01134f"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe-based",
+        "Property": "ZT",
+        "Value": 2.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2020.03.018"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "Conductivity",
+        "Value": 167869.7330871244,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jcrysgro.2007.02.036"
+      },
+      {
+        "Original_Name_In_Paper": "pure GeTe",
+        "Property": "Conductivity",
+        "Value": 450450.4504504505,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.02.149"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "Conductivity",
+        "Value": 1000000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/srep25748"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "Seebeck",
+        "Value": 3.36e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2014.04.036"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "Seebeck",
+        "Value": 2.4999999999999998e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2019.05.119"
+      },
+      {
+        "Original_Name_In_Paper": "pristine GeTe",
+        "Property": "Seebeck",
+        "Value": 6.000000000000001e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ee00317g"
+      },
+      {
+        "Original_Name_In_Paper": "pure GeTe",
+        "Property": "Seebeck",
+        "Value": 5.9e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmrt.2020.02.037"
+      },
+      {
+        "Original_Name_In_Paper": "undoped GeTe",
+        "Property": "Seebeck",
+        "Value": 2.8e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmrt.2020.02.037"
+      },
+      {
+        "Original_Name_In_Paper": "pristine GeTe",
+        "Property": "Seebeck",
+        "Value": 3.1599999999999996e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta10436d"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "PF",
+        "Value": 0.0010400000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41427-020-00247-y"
+      },
+      {
+        "Original_Name_In_Paper": "vacancy suppressed pristine GeTe",
+        "Property": "PF",
+        "Value": 0.0024000000000000002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ee00317g"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "PF",
+        "Value": 0.0024500000000000004,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scib.2018.04.012"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "Conductivity",
+        "Value": 500000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9cp05153h"
+      },
+      {
+        "Original_Name_In_Paper": "rhombohedral GeTe alloys with Pb and Bi",
+        "Property": "Conductivity",
+        "Value": 200000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9cp05153h"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "Conductivity",
+        "Value": 6700.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2019.08.017"
+      },
+      {
+        "Original_Name_In_Paper": "pristine GeTe",
+        "Property": "Conductivity",
+        "Value": 822800.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta00628a"
+      },
+      {
+        "Original_Name_In_Paper": "pristine GeTe",
+        "Property": "Conductivity",
+        "Value": 670400.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta10436d"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "Conductivity",
+        "Value": 807000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scib.2018.04.012"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "Conductivity",
+        "Value": 807000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scib.2018.04.012"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "Conductivity",
+        "Value": 850000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ce01134f"
+      }
+    ],
+    "625.0": [
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "ThermCond",
+        "Value": 0.30000000000000004,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2019.08.017"
+      }
+    ],
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "ThermCond",
+        "Value": 5.3,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matpr.2020.07.454"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "PF",
+        "Value": 0.0028,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matpr.2020.07.454"
+      }
+    ],
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "pristine GeTe",
+        "Property": "ThermCond",
+        "Value": 0.9,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta10436d"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta14901c"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra00969j"
+      },
+      {
+        "Original_Name_In_Paper": "pristine GeTe",
+        "Property": "Seebeck",
+        "Value": 0.0001584,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta10436d"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "ThermCond",
+        "Value": 2.62,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta03503f"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe-750",
+        "Property": "ThermCond",
+        "Value": 4.15,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta03503f"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "ZT",
+        "Value": 1.72,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ce01134f"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe powder",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta03503f"
+      },
+      {
+        "Original_Name_In_Paper": "germanium telluride",
+        "Property": "ZT",
+        "Value": 2.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta03503f"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe-900",
+        "Property": "ZT",
+        "Value": 1.37,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta03503f"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "ZT",
+        "Value": 1.37,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta03503f"
+      },
+      {
+        "Original_Name_In_Paper": "pristine GeTe",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.07.120"
+      },
+      {
+        "Original_Name_In_Paper": "doped GeTe",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "Seebeck",
+        "Value": 0.00016099999999999998,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta03503f"
+      },
+      {
+        "Original_Name_In_Paper": "pure GeTe",
+        "Property": "PF",
+        "Value": 0.0031500000000000005,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmrt.2020.02.037"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "ThermCond",
+        "Value": 2.7,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scib.2018.04.012"
+      },
+      {
+        "Original_Name_In_Paper": "Sb-doped GeTe",
+        "Property": "ZT",
+        "Value": 1.56,
+        "Units": null,
+        "Editing": "Sb doping",
+        "Source_DOI": "10.1016/j.jallcom.2019.151838"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe-based",
+        "Property": "ZT",
+        "Value": 1.3599999999999999,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2014.09.004"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2020.03.004"
+      },
+      {
+        "Original_Name_In_Paper": "pristine GeTe",
+        "Property": "Seebeck",
+        "Value": 0.00015000000000000001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.104740"
+      }
+    ],
+    "708.0": [
+      {
+        "Original_Name_In_Paper": "Bi doped GeTe",
+        "Property": "ThermCond",
+        "Value": 1.1,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6tc02501c"
+      },
+      {
+        "Original_Name_In_Paper": "Bi doped GeTe",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6tc02501c"
+      }
+    ],
+    "740.0": [
+      {
+        "Original_Name_In_Paper": "pristine GeTe",
+        "Property": "ThermCond",
+        "Value": 1.9,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-019-45071-9"
+      }
+    ],
+    "330.0": [
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "ThermCond",
+        "Value": 8.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ce01134f"
+      }
+    ],
+    "650.0": [
+      {
+        "Original_Name_In_Paper": "pristine GeTe",
+        "Property": "ThermCond",
+        "Value": 2.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2020.07.021"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": "mol % In doping",
+        "Source_DOI": "10.1016/j.matlet.2018.07.132"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-007-1898-x"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.synthmet.2020.116606"
+      }
+    ],
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "pure GeTe",
+        "Property": "ZT",
+        "Value": 0.64,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2014.04.036"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2020.100239"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2020.100239"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "ZT",
+        "Value": 0.25,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2014.03.031"
+      },
+      {
+        "Original_Name_In_Paper": "pristine GeTe",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.151747"
+      },
+      {
+        "Original_Name_In_Paper": "pure GeTe",
+        "Property": "Conductivity",
+        "Value": 666666.6666666666,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2014.04.036"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "Seebeck",
+        "Value": -0.00028000000000000003,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": "GeTe alloying",
+        "Source_DOI": "10.1039/c9nr07008g"
+      },
+      {
+        "Original_Name_In_Paper": "pure GeTe",
+        "Property": "PF",
+        "Value": 0.004200000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4cp01294a"
+      },
+      {
+        "Original_Name_In_Paper": "pure GeTe",
+        "Property": "PF",
+        "Value": 0.004200000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4cp01294a"
+      }
+    ],
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "rhombohedral GeTe",
+        "Property": "ZT",
+        "Value": 2.4,
+        "Units": null,
+        "Editing": "Pb alloying and Bi",
+        "Source_DOI": "10.1039/c9cp05153h"
+      },
+      {
+        "Original_Name_In_Paper": "Pb-free GeTe",
+        "Property": "ZT",
+        "Value": 1.85,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8qi00703a"
+      },
+      {
+        "Original_Name_In_Paper": "rhombohedral GeTe",
+        "Property": "ZT",
+        "Value": 2.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2018.02.016"
+      },
+      {
+        "Original_Name_In_Paper": "rhombohedral GeTe",
+        "Property": "ZT",
+        "Value": 2.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.chempr.2018.04.013"
+      },
+      {
+        "Original_Name_In_Paper": "pristine GeTe alloy",
+        "Property": "ZT",
+        "Value": 2.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta03503f"
+      },
+      {
+        "Original_Name_In_Paper": "rhombohedral GeTe alloys",
+        "Property": "ZT",
+        "Value": 2.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "ZT",
+        "Value": 2.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-12-822103-7.00008-X"
+      }
+    ],
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "GeTe-based materials",
+        "Property": "ZT",
+        "Value": 2.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2020.03.018"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.09.104"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "ZT",
+        "Value": 2.1,
+        "Units": null,
+        "Editing": "co-doping of Bi",
+        "Source_DOI": "10.1016/j.apenergy.2020.114688"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": "alloying with PbTe",
+        "Source_DOI": "10.1016/j.chempr.2018.04.013"
+      },
+      {
+        "Original_Name_In_Paper": "pure GeTe",
+        "Property": "ZT",
+        "Value": 0.51,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2014.09.004"
+      },
+      {
+        "Original_Name_In_Paper": "Bi co-doped GeTe",
+        "Property": "ZT",
+        "Value": 2.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2019.08.017"
+      },
+      {
+        "Original_Name_In_Paper": "Bi co-doped GeTe",
+        "Property": "ZT",
+        "Value": 2.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2019.08.017"
+      },
+      {
+        "Original_Name_In_Paper": "Bi co-doped GeTe",
+        "Property": "ZT",
+        "Value": 2.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2019.08.017"
+      },
+      {
+        "Original_Name_In_Paper": "Bi co-doped GeTe",
+        "Property": "ZT",
+        "Value": 2.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2019.08.017"
+      },
+      {
+        "Original_Name_In_Paper": "Bi co-doped GeTe",
+        "Property": "ZT",
+        "Value": 2.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2019.08.017"
+      }
+    ],
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "GeTe ( 7.4 wt. %",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matpr.2019.10.066"
+      }
+    ],
+    "550.0": [
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "ZT",
+        "Value": 0.85,
+        "Units": null,
+        "Editing": "Codoping of Bi",
+        "Source_DOI": "10.1016/j.matlet.2018.07.132"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "ZT",
+        "Value": 0.85,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.151838"
+      }
+    ],
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "ZT",
+        "Value": 2.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.153496"
+      }
+    ],
+    "630.0": [
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8qi00703a"
+      }
+    ],
+    "720.0": [
+      {
+        "Original_Name_In_Paper": "pristine GeTe",
+        "Property": "ZT",
+        "Value": 0.9500000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8qi00703a"
+      },
+      {
+        "Original_Name_In_Paper": "pristine GeTe",
+        "Property": "ZT",
+        "Value": 0.9500000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8qi00703a"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6tc02501c"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "PF",
+        "Value": 0.004200000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2017.01.038"
+      },
+      {
+        "Original_Name_In_Paper": "pristine GeTe",
+        "Property": "PF",
+        "Value": 0.0041,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8qi00703a"
+      }
+    ],
+    "725.0": [
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "ZT",
+        "Value": 1.85,
+        "Units": null,
+        "Editing": "doping of Sb",
+        "Source_DOI": "10.1039/c6tc02501c"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": "Bi doping",
+        "Source_DOI": "10.1039/c6tc02501c"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "ZT",
+        "Value": 1.85,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.chempr.2018.04.013"
+      },
+      {
+        "Original_Name_In_Paper": "Sb-doped GeTe",
+        "Property": "ZT",
+        "Value": 1.9500000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.chempr.2018.04.013"
+      }
+    ],
+    "670.0": [
+      {
+        "Original_Name_In_Paper": "Pb and Bi co-doped GeTe",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6tc02501c"
+      }
+    ],
+    "732.0": [
+      {
+        "Original_Name_In_Paper": "GeTe",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": "Yb doping with Pb",
+        "Source_DOI": "10.1039/c6tc02501c"
+      }
+    ],
+    "1350.0": [
+      {
+        "Original_Name_In_Paper": "bulk GeTe",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.energy.2020.117104"
+      }
+    ],
+    "675.0": [
+      {
+        "Original_Name_In_Paper": "Pristine GeTe",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2019.08.017"
+      },
+      {
+        "Original_Name_In_Paper": "6 mol % Bi-doped GeTe",
+        "Property": "PF",
+        "Value": 0.004540000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2019.08.017"
+      }
+    ],
+    "658.0": [
+      {
+        "Original_Name_In_Paper": "undoped GeTe",
+        "Property": "PF",
+        "Value": 4200.0,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2016.203"
+      }
+    ],
+    "775.0": [
+      {
+        "Original_Name_In_Paper": "pristine GeTe",
+        "Property": "PF",
+        "Value": 0.0039000000000000003,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.104740"
+      }
+    ]
+  }
+}

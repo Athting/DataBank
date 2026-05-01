@@ -1,0 +1,18 @@
+{
+  "Material": "BM9-480",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2019.153284"
+  ],
+  "Data_By_Temperature": {
+    "340.0": [
+      {
+        "Original_Name_In_Paper": "BM9-480",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.153284"
+      }
+    ]
+  }
+}

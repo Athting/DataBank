@@ -1,0 +1,18 @@
+{
+  "Material": "Ba(Sn0.99Ta0.01)O3",
+  "DOIs_Researched": [
+    "10.1007/s10853-014-8607-3"
+  ],
+  "Data_By_Temperature": {
+    "463.0": [
+      {
+        "Original_Name_In_Paper": "Ba(Sn0.99Ta0.01)O3",
+        "Property": "PF",
+        "Value": 100000.0,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-014-8607-3"
+      }
+    ]
+  }
+}

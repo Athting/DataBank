@@ -1,0 +1,18 @@
+{
+  "Material": "Tl2Ag2USe4",
+  "DOIs_Researched": [
+    "10.1016/j.jmmm.2016.03.073"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "p-type Tl2Ag2USe4",
+        "Property": "ZT",
+        "Value": 0.9500000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmmm.2016.03.073"
+      }
+    ]
+  }
+}

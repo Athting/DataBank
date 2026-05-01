@@ -1,0 +1,72 @@
+{
+  "Material": "La0.68Ce0.22Fe3.5Co0.5S",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2016.06.060"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "La0.68Ce0.22Fe3.5Co0.5Sb12",
+        "Property": "ThermCond",
+        "Value": 2.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2016.06.060"
+      },
+      {
+        "Original_Name_In_Paper": "La0.68Ce0.22Fe3.5Co0.5Sb12",
+        "Property": "PF",
+        "Value": 0.0035,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2016.06.060"
+      }
+    ],
+    "748.0": [
+      {
+        "Original_Name_In_Paper": "La0.68Ce0.22Fe3.5Co0.5Sb12",
+        "Property": "ZT",
+        "Value": 1.15,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2016.06.060"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "La0.68Ce0.22Fe3.5Co0.5Sb12",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2016.06.060"
+      },
+      {
+        "Original_Name_In_Paper": "La0.68Ce0.22Fe3.5Co0.5Sb12",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2016.06.060"
+      },
+      {
+        "Original_Name_In_Paper": "La0.68Ce0.22Fe3.5Co0.5Sb12",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2016.06.060"
+      }
+    ],
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "La0.68Ce0.22Fe3.5Co0.5Sb12",
+        "Property": "PF",
+        "Value": 0.0035,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2016.06.060"
+      }
+    ]
+  }
+}

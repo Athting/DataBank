@@ -1,0 +1,18 @@
+{
+  "Material": "Bi_32.5Ge_10.0Te_57.5",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2016.09.043"
+  ],
+  "Data_By_Temperature": {
+    "525.0": [
+      {
+        "Original_Name_In_Paper": "Bi32.5Ge10.0Te57.5",
+        "Property": "ZT",
+        "Value": 0.45,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2016.09.043"
+      }
+    ]
+  }
+}

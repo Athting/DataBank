@@ -1,0 +1,26 @@
+{
+  "Material": "FeVmxSb",
+  "DOIs_Researched": [
+    "10.1134/S1995078019040049"
+  ],
+  "Data_By_Temperature": {
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "FeV1+xSb",
+        "Property": "ZT",
+        "Value": 0.31,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1134/S1995078019040049"
+      },
+      {
+        "Original_Name_In_Paper": "FeV1+xSb",
+        "Property": "Seebeck",
+        "Value": 0.000175,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1134/S1995078019040049"
+      }
+    ]
+  }
+}

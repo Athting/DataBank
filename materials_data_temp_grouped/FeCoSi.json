@@ -1,0 +1,28 @@
+{
+  "Material": "FeCoSi",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2006.06.080"
+  ],
+  "Data_By_Temperature": {
+    "908.0": [
+      {
+        "Original_Name_In_Paper": "Fe0.94Co0.06Si2.00",
+        "Property": "ZT",
+        "Value": 0.25,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2006.06.080"
+      }
+    ],
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "Fe0.95Co0.05Si1.98",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2006.06.080"
+      }
+    ]
+  }
+}

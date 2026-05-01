@@ -1,0 +1,142 @@
+{
+  "Material": "TiCoSb",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2004.07.074",
+    "10.1039/c7dt03787b",
+    "10.1016/j.commatsci.2018.12.039",
+    "10.1016/j.intermet.2020.106914",
+    "10.1016/j.jallcom.2007.12.055",
+    "10.1039/c6ra09549f",
+    "10.1557/jmr.2011.82",
+    "10.1038/s41467-018-04958-3",
+    "10.1016/j.jssc.2010.03.023",
+    "10.1038/s41598-019-41818-6",
+    "10.1016/j.jallcom.2019.07.088"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "TiCoSb",
+        "Property": "ThermCond",
+        "Value": 24.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-019-41818-6"
+      },
+      {
+        "Original_Name_In_Paper": "TiCoSb",
+        "Property": "ThermCond",
+        "Value": 19.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41467-018-04958-3"
+      },
+      {
+        "Original_Name_In_Paper": "TiCoSb",
+        "Property": "Conductivity",
+        "Value": 4000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2004.07.074"
+      }
+    ],
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "TiCoSb alloy",
+        "Property": "ThermCond",
+        "Value": 2.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": "substitution of Co",
+        "Source_DOI": "10.1557/jmr.2011.82"
+      }
+    ],
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "TiCoSb",
+        "Property": "ZT",
+        "Value": 0.16,
+        "Units": null,
+        "Editing": "Ge doping",
+        "Source_DOI": "10.1016/j.jallcom.2007.12.055"
+      }
+    ],
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "n-type TiCoSb",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2020.106914"
+      },
+      {
+        "Original_Name_In_Paper": "TiCoSb",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2018.12.039"
+      }
+    ],
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "p-type TiCoSb",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2020.106914"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "TiCoSb",
+        "Property": "Seebeck",
+        "Value": -4e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7dt03787b"
+      }
+    ],
+    "80.0": [
+      {
+        "Original_Name_In_Paper": "TiCoSb compound",
+        "Property": "Seebeck",
+        "Value": 7.75e-06,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.07.088"
+      }
+    ],
+    "840.0": [
+      {
+        "Original_Name_In_Paper": "TiCoSb",
+        "Property": "Seebeck",
+        "Value": 0.000222,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": "Sn doping",
+        "Source_DOI": "10.1016/j.jssc.2010.03.023"
+      }
+    ],
+    "550.0": [
+      {
+        "Original_Name_In_Paper": "TiCoSb",
+        "Property": "PF",
+        "Value": 0.00055,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra09549f"
+      }
+    ],
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "un-doped TiCoSb compound",
+        "Property": "Conductivity",
+        "Value": 103.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2007.12.055"
+      }
+    ]
+  }
+}

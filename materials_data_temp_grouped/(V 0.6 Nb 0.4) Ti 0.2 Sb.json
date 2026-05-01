@@ -1,0 +1,18 @@
+{
+  "Material": "(V 0.6 Nb 0.4) Ti 0.2 Sb",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2020.07.028"
+  ],
+  "Data_By_Temperature": {
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "(V0.6Nb0.4)0.8Ti0.2SbFe",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2020.07.028"
+      }
+    ]
+  }
+}

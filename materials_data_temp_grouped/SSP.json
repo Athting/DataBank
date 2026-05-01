@@ -1,0 +1,18 @@
+{
+  "Material": "SSP",
+  "DOIs_Researched": [
+    "10.1039/c6dt04323b"
+  ],
+  "Data_By_Temperature": {
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "SSP",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6dt04323b"
+      }
+    ]
+  }
+}

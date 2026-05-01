@@ -1,0 +1,18 @@
+{
+  "Material": "Co4Sb11.4Te0.5S0.1",
+  "DOIs_Researched": [
+    "10.1016/j.matlet.2012.03.104"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Co4Sb11.4Te0.5S0.1",
+        "Property": "ZT",
+        "Value": 1.05,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2012.03.104"
+      }
+    ]
+  }
+}

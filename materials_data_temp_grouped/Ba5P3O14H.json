@@ -1,0 +1,18 @@
+{
+  "Material": "Ba5P3O14H",
+  "DOIs_Researched": [
+    "10.1016/B978-0-444-59550-8.00004-1"
+  ],
+  "Data_By_Temperature": {
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "Ba5(PO4)3OH",
+        "Property": "Conductivity",
+        "Value": 0.0002,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-444-59550-8.00004-1"
+      }
+    ]
+  }
+}

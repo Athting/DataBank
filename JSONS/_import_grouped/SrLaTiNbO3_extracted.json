@@ -1,0 +1,62 @@
+{
+  "doi": "10.1016/j.nanoen.2020.105195",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Sr0.9La0.1Ti0.8Nb0.2O3",
+        "(Sr0.9La0.1)(Ti0.9Nb0.1)O3",
+        "polycrystalline Sr0.9La0.1Ti0.8Nb0.2O3",
+        "polycrystalline Sr0.93La0.07Ti0.93Nb0.07O3"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Sr0.9La0.1Ti0.8Nb0.2O3",
+          "zt_value": 0.14,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "(Sr0.9La0.1)(Ti0.9Nb0.1)O3",
+          "zt_value": 0.52,
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "polycrystalline Sr0.9La0.1Ti0.8Nb0.2O3",
+          "zt_value": 0.31,
+          "temperature": "1050.0 K"
+        },
+        {
+          "material": "polycrystalline Sr0.93La0.07Ti0.93Nb0.07O3",
+          "zt_value": 0.43,
+          "temperature": "1009.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

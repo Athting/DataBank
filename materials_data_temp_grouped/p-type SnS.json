@@ -1,0 +1,50 @@
+{
+  "Material": "p-type SnS",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2019.03.031",
+    "10.1039/c5ra06134b",
+    "10.1039/d0nr02649b"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "p-type SnS",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra06134b"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "p-type SnS",
+        "Property": "PF",
+        "Value": 0.0053,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0nr02649b"
+      }
+    ],
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "p-type SnS",
+        "Property": "PF",
+        "Value": 0.00025,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.03.031"
+      }
+    ],
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "p-type SnS",
+        "Property": "PF",
+        "Value": 0.00048000000000000007,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.03.031"
+      }
+    ]
+  }
+}

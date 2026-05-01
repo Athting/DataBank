@@ -1,0 +1,18 @@
+{
+  "Material": "Cu7GeSe5I",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2019.152792"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Cu7GeSe5I crystal",
+        "Property": "Conductivity",
+        "Value": 64.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.152792"
+      }
+    ]
+  }
+}

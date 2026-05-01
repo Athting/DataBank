@@ -1,0 +1,92 @@
+{
+  "Material": "BaGa16Ge30",
+  "DOIs_Researched": [
+    "10.1039/c5ta04168f",
+    "10.1016/j.jallcom.2017.06.110",
+    "10.1016/j.jallcom.2009.04.072",
+    "10.1007/s42452-019-1696-5",
+    "10.1016/j.jallcom.2009.11.045",
+    "10.1016/j.pmatsci.2016.07.002",
+    "10.1016/j.pnsc.2012.11.011"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ba8Ga16Ge30 single crystal",
+        "Property": "ThermCond",
+        "Value": 1.1400000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.06.110"
+      },
+      {
+        "Original_Name_In_Paper": "Ba8Ga16Ge30 crystalline ingot",
+        "Property": "Seebeck",
+        "Value": -0.15,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pnsc.2012.11.011"
+      },
+      {
+        "Original_Name_In_Paper": "Ba8Ga16Ge30 crystalline ingot",
+        "Property": "Conductivity",
+        "Value": 150000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pnsc.2012.11.011"
+      },
+      {
+        "Original_Name_In_Paper": "Ba8Ga16Ge30 single crystals",
+        "Property": "Conductivity",
+        "Value": 90200.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.11.045"
+      }
+    ],
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "Ba8Ga16Ge30 single crystal",
+        "Property": "ZT",
+        "Value": 1.35,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.11.045"
+      },
+      {
+        "Original_Name_In_Paper": "Ba8Ga16Ge30 single crystal",
+        "Property": "ZT",
+        "Value": 1.35,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta04168f"
+      },
+      {
+        "Original_Name_In_Paper": "Ba8Ga16Ge30 crystal",
+        "Property": "ZT",
+        "Value": 1.35,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2016.07.002"
+      },
+      {
+        "Original_Name_In_Paper": "Ba8Ga16Ge30 crystal",
+        "Property": "ZT",
+        "Value": 1.35,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s42452-019-1696-5"
+      }
+    ],
+    "1050.0": [
+      {
+        "Original_Name_In_Paper": "Ba8Ga16Ge30 crystal",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.04.072"
+      }
+    ]
+  }
+}

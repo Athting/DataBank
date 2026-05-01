@@ -1,0 +1,70 @@
+{
+  "Material": "HfZrNiSnSb",
+  "DOIs_Researched": [
+    "10.1016/j.mattod.2013.09.015",
+    "10.1039/c9tc06318h",
+    "10.1016/j.actamat.2009.02.026",
+    "10.1016/j.scriptamat.2018.11.052",
+    "10.1016/j.pmatsci.2016.07.002"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Hf0.75Zr0.25NiSn0.99Sb0.01",
+        "Property": "ThermCond",
+        "Value": 4.7,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mattod.2013.09.015"
+      },
+      {
+        "Original_Name_In_Paper": "Hf0.75Zr0.25NiSn0.975Sb0.025",
+        "Property": "ThermCond",
+        "Value": 7.1,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2009.02.026"
+      }
+    ],
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "Hf0.75Zr0.25NiSn0.975Sb0.025",
+        "Property": "ZT",
+        "Value": 0.81,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2009.02.026"
+      }
+    ],
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Hf0.75Zr0.25NiSn0.99Sb0.01",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2016.07.002"
+      }
+    ],
+    "835.0": [
+      {
+        "Original_Name_In_Paper": "Hf0.75Zr0.25NiSn0.99Sb0.01",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2018.11.052"
+      }
+    ],
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "Hf0.75Zr0.25NiSn0.99Sb0.01",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc06318h"
+      }
+    ]
+  }
+}

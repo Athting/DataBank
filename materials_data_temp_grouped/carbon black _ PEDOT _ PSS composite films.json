@@ -1,0 +1,18 @@
+{
+  "Material": "carbon black / PEDOT : PSS composite films",
+  "DOIs_Researched": [
+    "10.1007/s10854-016-5111-3"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "carbon black / PEDOT : PSS composite films",
+        "Property": "PF",
+        "Value": 9.600000000000001e-07,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-016-5111-3"
+      }
+    ]
+  }
+}

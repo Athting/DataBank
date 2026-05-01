@@ -1,0 +1,18 @@
+{
+  "Material": "BaCeO_{0.9}Nd_{0.1}O_{",
+  "DOIs_Researched": [
+    "10.1016/j.jpowsour.2004.02.036"
+  ],
+  "Data_By_Temperature": {
+    "1273.0": [
+      {
+        "Original_Name_In_Paper": "BaCe0.9Nd0.103\u2212\u03b4",
+        "Property": "Conductivity",
+        "Value": 55.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpowsour.2004.02.036"
+      }
+    ]
+  }
+}

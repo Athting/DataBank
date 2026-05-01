@@ -1,0 +1,36 @@
+{
+  "Material": "CCTS",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2017.04.027"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Cu-Mn dual doped CCTS compound",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2017.04.027"
+      },
+      {
+        "Original_Name_In_Paper": "Cu-Mn dual doped CCTS compound",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2017.04.027"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "pristine CCTS",
+        "Property": "ZT",
+        "Value": 0.18,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2017.04.027"
+      }
+    ]
+  }
+}

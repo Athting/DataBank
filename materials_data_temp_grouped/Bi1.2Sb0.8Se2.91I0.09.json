@@ -1,0 +1,26 @@
+{
+  "Material": "Bi1.2Sb0.8Se2.91I0.09",
+  "DOIs_Researched": [
+    "10.1039/d0ra04065g"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "I-doped Bi1.2Sb0.8Se2.91I0.09",
+        "Property": "ZT",
+        "Value": 0.53,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ra04065g"
+      },
+      {
+        "Original_Name_In_Paper": "I-doped Bi1.2Sb0.8Se2.91I0.09",
+        "Property": "Conductivity",
+        "Value": 8000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ra04065g"
+      }
+    ]
+  }
+}

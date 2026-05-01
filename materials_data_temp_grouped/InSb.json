@@ -1,0 +1,344 @@
+{
+  "Material": "InSb",
+  "DOIs_Researched": [
+    "10.1039/c6ta10827j",
+    "10.1039/c9ta14068a",
+    "10.1016/j.intermet.2018.05.003",
+    "10.1039/c8ta00525g",
+    "10.1039/c8ta04876b",
+    "10.1039/c2jm33899h",
+    "10.1016/j.cap.2018.04.018",
+    "10.1016/j.jallcom.2010.05.160",
+    "10.1016/j.intermet.2019.106528",
+    "10.1007/s00339-016-0409-9",
+    "10.1039/c1jm10542f",
+    "10.1186/s11671-016-1407-8",
+    "10.1039/c5ra03942h",
+    "10.1016/j.jssc.2009.03.015",
+    "10.1016/j.cap.2011.04.044",
+    "10.1016/j.jallcom.2010.06.195",
+    "10.1016/j.matlet.2017.08.009",
+    "10.1016/j.nanoen.2018.03.058",
+    "10.1016/j.commatsci.2012.12.024",
+    "10.1557/jmr.2013.353",
+    "10.1016/j.intermet.2018.11.006"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "InSb",
+        "Property": "ThermCond",
+        "Value": 17.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2019.106528"
+      },
+      {
+        "Original_Name_In_Paper": "InSb",
+        "Property": "ThermCond",
+        "Value": 17.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2019.106528"
+      },
+      {
+        "Original_Name_In_Paper": "InSb",
+        "Property": "ThermCond",
+        "Value": 14.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2019.106528"
+      },
+      {
+        "Original_Name_In_Paper": "InSb",
+        "Property": "ThermCond",
+        "Value": 14.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2019.106528"
+      },
+      {
+        "Original_Name_In_Paper": "InSb",
+        "Property": "ThermCond",
+        "Value": 3.07,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2011.04.044"
+      },
+      {
+        "Original_Name_In_Paper": "InSb",
+        "Property": "ThermCond",
+        "Value": 14.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2018.03.058"
+      },
+      {
+        "Original_Name_In_Paper": "InSb",
+        "Property": "ThermCond",
+        "Value": 14.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2018.03.058"
+      },
+      {
+        "Original_Name_In_Paper": "InSb",
+        "Property": "ThermCond",
+        "Value": 7.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2018.03.058"
+      },
+      {
+        "Original_Name_In_Paper": "InSb",
+        "Property": "ThermCond",
+        "Value": 14.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2018.03.058"
+      },
+      {
+        "Original_Name_In_Paper": "InSb",
+        "Property": "ThermCond",
+        "Value": 14.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2018.03.058"
+      },
+      {
+        "Original_Name_In_Paper": "InSb",
+        "Property": "Conductivity",
+        "Value": 71.4285714286,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2009.03.015"
+      }
+    ],
+    "200.0": [
+      {
+        "Original_Name_In_Paper": "InSb",
+        "Property": "ThermCond",
+        "Value": 10.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1557/jmr.2013.353"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "InSb",
+        "Property": "ThermCond",
+        "Value": 17.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s00339-016-0409-9"
+      },
+      {
+        "Original_Name_In_Paper": "InSb",
+        "Property": "ThermCond",
+        "Value": 15.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": "Ga additions",
+        "Source_DOI": "10.1016/j.intermet.2018.11.006"
+      }
+    ],
+    "450.0": [
+      {
+        "Original_Name_In_Paper": "InSb",
+        "Property": "ThermCond",
+        "Value": 5.7,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2018.11.006"
+      }
+    ],
+    "550.0": [
+      {
+        "Original_Name_In_Paper": "InSb",
+        "Property": "ZT",
+        "Value": 0.51,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta00525g"
+      },
+      {
+        "Original_Name_In_Paper": "InSb",
+        "Property": "ZT",
+        "Value": 0.51,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s00339-016-0409-9"
+      }
+    ],
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "InSb",
+        "Property": "ZT",
+        "Value": 0.56,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2018.11.006"
+      },
+      {
+        "Original_Name_In_Paper": "InSb",
+        "Property": "ZT",
+        "Value": 0.56,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2018.11.006"
+      },
+      {
+        "Original_Name_In_Paper": "InSb",
+        "Property": "ZT",
+        "Value": 0.56,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2018.11.006"
+      }
+    ],
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "single-crystal InSb",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta14068a"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "polycrystalline InSb",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c1jm10542f"
+      },
+      {
+        "Original_Name_In_Paper": "polycrystalline InSb",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta10827j"
+      },
+      {
+        "Original_Name_In_Paper": "polycrystalline InSb",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2019.106528"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "nanostructured InSb",
+        "Property": "ZT",
+        "Value": 1.26,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1186/s11671-016-1407-8"
+      },
+      {
+        "Original_Name_In_Paper": "InSb",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2012.12.024"
+      },
+      {
+        "Original_Name_In_Paper": "nanostructured InSb",
+        "Property": "ZT",
+        "Value": 1.43,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.06.195"
+      },
+      {
+        "Original_Name_In_Paper": "nano-structured InSb",
+        "Property": "ZT",
+        "Value": 1.43,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.05.160"
+      },
+      {
+        "Original_Name_In_Paper": "InSb",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2018.05.003"
+      }
+    ],
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "Te-doped n-type InSb",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2017.08.009"
+      },
+      {
+        "Original_Name_In_Paper": "Te doped InSb single crystals",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta04876b"
+      }
+    ],
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "InSb",
+        "Property": "ZT",
+        "Value": 1.07,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra03942h"
+      }
+    ],
+    "687.0": [
+      {
+        "Original_Name_In_Paper": "InSb",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2011.04.044"
+      }
+    ],
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "zinc-blende InSb nanowire",
+        "Property": "ZT",
+        "Value": 0.01,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2jm33899h"
+      }
+    ],
+    "770.0": [
+      {
+        "Original_Name_In_Paper": "InSb",
+        "Property": "ZT",
+        "Value": 0.54,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2018.04.018"
+      },
+      {
+        "Original_Name_In_Paper": "InSb",
+        "Property": "ZT",
+        "Value": 0.54,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2018.04.018"
+      }
+    ]
+  }
+}

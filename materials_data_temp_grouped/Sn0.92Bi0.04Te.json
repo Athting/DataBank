@@ -1,0 +1,28 @@
+{
+  "Material": "Sn0.92Bi0.04Te",
+  "DOIs_Researched": [
+    "10.1039/c9tc06490g"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.92Bi0.04Zn0.04Te",
+        "Property": "Seebeck",
+        "Value": 0.000112,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc06490g"
+      }
+    ],
+    "840.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.92Bi0.04Zn0.04Te",
+        "Property": "PF",
+        "Value": 0.0036000000000000003,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc06490g"
+      }
+    ]
+  }
+}

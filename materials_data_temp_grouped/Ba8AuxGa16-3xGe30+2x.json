@@ -1,0 +1,18 @@
+{
+  "Material": "Ba8AuxGa16-3xGe30+2x",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2013.10.104"
+  ],
+  "Data_By_Temperature": {
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "Ba8AuxGa16\u22123xGe30+2x",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.10.104"
+      }
+    ]
+  }
+}

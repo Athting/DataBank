@@ -1,0 +1,18 @@
+{
+  "Material": "Co4O9",
+  "DOIs_Researched": [
+    "10.1007/s10854-020-04212-x"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Co4O9",
+        "Property": "ZT",
+        "Value": 0.14,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-020-04212-x"
+      }
+    ]
+  }
+}

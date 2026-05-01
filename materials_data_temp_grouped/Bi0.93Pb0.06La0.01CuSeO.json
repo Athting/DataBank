@@ -1,0 +1,34 @@
+{
+  "Material": "Bi0.93Pb0.06La0.01CuSeO",
+  "DOIs_Researched": [
+    "10.1039/c8qi01402g"
+  ],
+  "Data_By_Temperature": {
+    "327.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.93Pb0.06La0.01CuSeO",
+        "Property": "Seebeck",
+        "Value": 0.00013199999999999998,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8qi01402g"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.93Pb0.06La0.01CuSeO",
+        "Property": "Conductivity",
+        "Value": 59400.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8qi01402g"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.93Pb0.06La0.01CuSeO",
+        "Property": "Conductivity",
+        "Value": 59400.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8qi01402g"
+      }
+    ]
+  }
+}

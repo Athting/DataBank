@@ -1,0 +1,26 @@
+{
+  "Material": "PtS2",
+  "DOIs_Researched": [
+    "10.1016/j.apsusc.2020.147387"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "PtS2",
+        "Property": "ZT",
+        "Value": 1.42,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2020.147387"
+      },
+      {
+        "Original_Name_In_Paper": "PtS2",
+        "Property": "ZT",
+        "Value": 1.42,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2020.147387"
+      }
+    ]
+  }
+}

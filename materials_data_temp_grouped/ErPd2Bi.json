@@ -1,0 +1,29 @@
+{
+  "Material": "ErPd2Bi",
+  "DOIs_Researched": [
+    "10.1016/S0168-1273(06)36001-1",
+    "10.1016/j.jmmm.2004.11.538"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "ErPd2Bi",
+        "Property": "Conductivity",
+        "Value": 714285.7142857143,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmmm.2004.11.538"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "ErPd2Bi",
+        "Property": "Conductivity",
+        "Value": 714285.7142857143,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0168-1273(06)36001-1"
+      }
+    ]
+  }
+}

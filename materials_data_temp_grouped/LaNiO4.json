@@ -1,0 +1,18 @@
+{
+  "Material": "LaNiO4",
+  "DOIs_Researched": [
+    "10.1016/j.materresbull.2016.08.017"
+  ],
+  "Data_By_Temperature": {
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "La2Ni0.5Cu0.5O4-based",
+        "Property": "Conductivity",
+        "Value": 3600.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2016.08.017"
+      }
+    ]
+  }
+}

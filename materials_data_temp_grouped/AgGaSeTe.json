@@ -1,0 +1,44 @@
+{
+  "Material": "AgGaSeTe",
+  "DOIs_Researched": [
+    "10.1016/j.mtphys.2018.05.001"
+  ],
+  "Data_By_Temperature": {
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "Ag9GaSe5.53Te0.45",
+        "Property": "ZT",
+        "Value": 1.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2018.05.001"
+      },
+      {
+        "Original_Name_In_Paper": "Ag9GaSe5.53Te0.45",
+        "Property": "ZT",
+        "Value": 1.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2018.05.001"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ag9GaSe5.23Te0.75",
+        "Property": "Seebeck",
+        "Value": 0.000128,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2018.05.001"
+      },
+      {
+        "Original_Name_In_Paper": "Ag9GaSe5.23Te0.75",
+        "Property": "Conductivity",
+        "Value": 25000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2018.05.001"
+      }
+    ]
+  }
+}

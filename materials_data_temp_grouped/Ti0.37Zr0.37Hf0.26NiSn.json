@@ -1,0 +1,18 @@
+{
+  "Material": "Ti0.37Zr0.37Hf0.26NiSn",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2012.12.028"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "n-type (Ti0.37Zr0.37Hf0.26)NiSn",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2012.12.028"
+      }
+    ]
+  }
+}

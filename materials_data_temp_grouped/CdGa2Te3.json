@@ -1,0 +1,26 @@
+{
+  "Material": "CdGa2Te3",
+  "DOIs_Researched": [
+    "10.1016/j.scriptamat.2015.11.009"
+  ],
+  "Data_By_Temperature": {
+    "682.0": [
+      {
+        "Original_Name_In_Paper": "Cd(3 \u2212 3m)Ga2mTe3",
+        "Property": "ZT",
+        "Value": 0.55,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2015.11.009"
+      },
+      {
+        "Original_Name_In_Paper": "Cd(3 \u2212 3m)Ga2mTe3",
+        "Property": "ZT",
+        "Value": 0.98,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2015.11.009"
+      }
+    ]
+  }
+}

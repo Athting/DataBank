@@ -1,0 +1,18 @@
+{
+  "Material": "Bi0.4Sb1.6-xInxTe3",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2018.01.165"
+  ],
+  "Data_By_Temperature": {
+    "320.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.4Sb1.6-xInxTe3",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.01.165"
+      }
+    ]
+  }
+}

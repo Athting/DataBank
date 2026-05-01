@@ -1,0 +1,18 @@
+{
+  "Material": "skutteru- dite",
+  "DOIs_Researched": [
+    "10.1016/S0022-3697(96)00228-4"
+  ],
+  "Data_By_Temperature": {
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "skutteru- dite",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0022-3697(96)00228-4"
+      }
+    ]
+  }
+}

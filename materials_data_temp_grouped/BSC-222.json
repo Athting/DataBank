@@ -1,0 +1,18 @@
+{
+  "Material": "BSC-222",
+  "DOIs_Researched": [
+    "10.1557/jmr.2014.135"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "BSC-222",
+        "Property": "ZT",
+        "Value": 0.27,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1557/jmr.2014.135"
+      }
+    ]
+  }
+}

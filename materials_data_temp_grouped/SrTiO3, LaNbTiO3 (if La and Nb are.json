@@ -1,0 +1,18 @@
+{
+  "Material": "SrTiO3, LaNbTiO3 (if La and Nb are",
+  "DOIs_Researched": [
+    "10.1016/j.jeurceramsoc.2020.07.021"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "La and Nb co-doped polycrystalline SrTiO3",
+        "Property": "ZT",
+        "Value": 0.41000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2020.07.021"
+      }
+    ]
+  }
+}

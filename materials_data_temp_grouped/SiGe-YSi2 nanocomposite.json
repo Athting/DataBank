@@ -1,0 +1,18 @@
+{
+  "Material": "SiGe-YSi2 nanocomposite",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2016.07.002"
+  ],
+  "Data_By_Temperature": {
+    "1100.0": [
+      {
+        "Original_Name_In_Paper": "SiGe-YSi2 nanocomposite",
+        "Property": "ZT",
+        "Value": 1.81,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2016.07.002"
+      }
+    ]
+  }
+}

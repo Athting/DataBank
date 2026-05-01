@@ -1,0 +1,34 @@
+{
+  "Material": "bilayered DWCNT-polyethyleneimine",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2020.105186"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "bilayered DWCNT-polyethyleneimine",
+        "Property": "Seebeck",
+        "Value": -8e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.105186"
+      },
+      {
+        "Original_Name_In_Paper": "bilayered DWCNT-polyethyleneimine",
+        "Property": "PF",
+        "Value": 0.00019,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.105186"
+      },
+      {
+        "Original_Name_In_Paper": "bilayered DWCNT-polyethyleneimine",
+        "Property": "Conductivity",
+        "Value": 30000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.105186"
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "Material": "SrCoO2",
+  "DOIs_Researched": [
+    "10.1016/j.solidstatesciences.2003.12.004",
+    "10.1039/c4dt01674b"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Sr0.35CoO2",
+        "Property": "Seebeck",
+        "Value": 7.000000000000001e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2003.12.004"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Sr0.29CoO2 crystal",
+        "Property": "Seebeck",
+        "Value": 7.8e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4dt01674b"
+      }
+    ]
+  }
+}

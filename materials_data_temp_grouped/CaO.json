@@ -1,0 +1,93 @@
+{
+  "Material": "CaO",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2020.154755",
+    "10.1016/j.materresbull.2012.02.004",
+    "10.1007/s10853-016-0048-8",
+    "10.1007/s11664-015-4089-6"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "calcium oxide nanoprecipitates",
+        "Property": "ThermCond",
+        "Value": 0.54,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": "Li and Ca codoping",
+        "Source_DOI": "10.1016/j.jallcom.2020.154755"
+      }
+    ],
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "CaO",
+        "Property": "ThermCond",
+        "Value": 2.9,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-015-4089-6"
+      },
+      {
+        "Original_Name_In_Paper": "nano-sized CaO",
+        "Property": "ZT",
+        "Value": 0.21,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2012.02.004"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "STNO : CaO",
+        "Property": "ThermCond",
+        "Value": 4.1,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-016-0048-8"
+      },
+      {
+        "Original_Name_In_Paper": "STNO : CaO",
+        "Property": "Seebeck",
+        "Value": -6.04e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-016-0048-8"
+      },
+      {
+        "Original_Name_In_Paper": "STNO : CaO",
+        "Property": "Conductivity",
+        "Value": 12500.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-016-0048-8"
+      }
+    ],
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "STNO : CaO",
+        "Property": "ZT",
+        "Value": 0.08,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-016-0048-8"
+      },
+      {
+        "Original_Name_In_Paper": "CaO",
+        "Property": "ZT",
+        "Value": 0.05,
+        "Units": null,
+        "Editing": "CaO doping",
+        "Source_DOI": "10.1007/s10853-016-0048-8"
+      }
+    ],
+    "1100.0": [
+      {
+        "Original_Name_In_Paper": "STNO : CaO",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-016-0048-8"
+      }
+    ]
+  }
+}

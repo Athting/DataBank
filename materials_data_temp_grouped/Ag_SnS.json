@@ -1,0 +1,26 @@
+{
+  "Material": "Ag:SnS",
+  "DOIs_Researched": [
+    "10.1016/j.jmat.2015.01.001"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Ag doped polycrystalline SnS",
+        "Property": "ThermCond",
+        "Value": 0.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2015.01.001"
+      },
+      {
+        "Original_Name_In_Paper": "Ag doped polycrystalline SnS",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2015.01.001"
+      }
+    ]
+  }
+}

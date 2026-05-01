@@ -1,0 +1,18 @@
+{
+  "Material": "CVT",
+  "DOIs_Researched": [
+    "10.1016/j.jcrysgro.2006.04.024"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "CVT",
+        "Property": "Conductivity",
+        "Value": 500.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jcrysgro.2006.04.024"
+      }
+    ]
+  }
+}

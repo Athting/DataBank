@@ -1,0 +1,18 @@
+{
+  "Material": "MgAgSb materials",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2019.02.045"
+  ],
+  "Data_By_Temperature": {
+    "473.0": [
+      {
+        "Original_Name_In_Paper": "MgAgSb materials",
+        "Property": "ThermCond",
+        "Value": 0.45,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2019.02.045"
+      }
+    ]
+  }
+}

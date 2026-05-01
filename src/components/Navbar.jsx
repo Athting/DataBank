@@ -21,12 +21,17 @@ const navItems = [
   { page: "filter", label: "Filter", icon: <Filter size={16} /> },
 ];
 
-export default function Navbar({ currentPage, onNavigate }) {
+export default function Navbar({ currentPage, onNavigate, onOpenDataset }) {
   return (
     <nav className="bg-gray-900 border-b border-gray-800 sticky top-0 z-50">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
-          <div className="flex items-center gap-3">
+          <button
+            type="button"
+            onClick={() => (onOpenDataset ? onOpenDataset() : onNavigate("filter"))}
+            className="flex items-center gap-3 rounded-lg px-1 py-1 hover:bg-gray-800/70 transition-colors"
+            title="Open TEG dataset"
+          >
             <div className="p-2 bg-cyan-500/10 rounded-lg border border-cyan-500/20">
               <Zap size={20} className="text-cyan-400" />
             </div>
@@ -38,7 +43,7 @@ export default function Navbar({ currentPage, onNavigate }) {
                 Material Dashboard
               </span>
             </div>
-          </div>
+          </button>
 
           <div className="flex items-center gap-1">
             {navItems.map(({ page, label, icon }) => (

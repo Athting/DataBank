@@ -1,0 +1,55 @@
+{
+  "Material": "CS2",
+  "DOIs_Researched": [
+    "10.1039/c7cp04634k",
+    "10.1016/j.jeurceramsoc.2013.02.003"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "CS2",
+        "Property": "ThermCond",
+        "Value": 0.97,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cp04634k"
+      },
+      {
+        "Original_Name_In_Paper": "CS2",
+        "Property": "PF",
+        "Value": 0.000421,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cp04634k"
+      },
+      {
+        "Original_Name_In_Paper": "CS2",
+        "Property": "Conductivity",
+        "Value": 7000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cp04634k"
+      }
+    ],
+    "1023.0": [
+      {
+        "Original_Name_In_Paper": "CS2",
+        "Property": "ZT",
+        "Value": 0.18,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2013.02.003"
+      }
+    ],
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "CS2",
+        "Property": "PF",
+        "Value": 0.0006600000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cp04634k"
+      }
+    ]
+  }
+}

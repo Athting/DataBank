@@ -1,0 +1,18 @@
+{
+  "Material": "Ti0.85Sc0.15CoSb",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2019.07.088"
+  ],
+  "Data_By_Temperature": {
+    "380.0": [
+      {
+        "Original_Name_In_Paper": "Ti0.85Sc0.15CoSb",
+        "Property": "Conductivity",
+        "Value": 31545.7413249211,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.07.088"
+      }
+    ]
+  }
+}

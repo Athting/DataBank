@@ -1,0 +1,44 @@
+{
+  "Material": "Cu27.5Ge2.5Te70",
+  "DOIs_Researched": [
+    "10.1039/b908579c"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Cu27.5Ge2.5Te70",
+        "Property": "ThermCond",
+        "Value": 0.1,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/b908579c"
+      },
+      {
+        "Original_Name_In_Paper": "Cu27.5Ge2.5Te70",
+        "Property": "PF",
+        "Value": 6.000000000000001e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/b908579c"
+      },
+      {
+        "Original_Name_In_Paper": "Cu27.5Ge2.5Te70 material",
+        "Property": "PF",
+        "Value": 6.000000000000001e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/b908579c"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Cu27.5Ge2.5Te70",
+        "Property": "ThermCond",
+        "Value": 0.1,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/b908579c"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Ba0.06Pb0.06CuSeO",
+  "DOIs_Researched": [
+    "10.1016/j.matlet.2018.01.074"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Ba0.06Pb0.06CuSeO",
+        "Property": "ZT",
+        "Value": 1.01,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2018.01.074"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Material": "a-Si3N4 / BiSbTe",
+  "DOIs_Researched": [
+    "10.1039/c5ra04428f"
+  ],
+  "Data_By_Temperature": {
+    "303.0": [
+      {
+        "Original_Name_In_Paper": "f(a-Si3N4) / BiSbTe",
+        "Property": "ThermCond",
+        "Value": 0.52,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra04428f"
+      },
+      {
+        "Original_Name_In_Paper": "f(a-Si3N4) / BiSbTe",
+        "Property": "ZT",
+        "Value": 0.44,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra04428f"
+      }
+    ]
+  }
+}

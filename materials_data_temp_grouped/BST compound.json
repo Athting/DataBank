@@ -1,0 +1,18 @@
+{
+  "Material": "BST compound",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2015.10.160"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "BST compound",
+        "Property": "Conductivity",
+        "Value": 55000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.10.160"
+      }
+    ]
+  }
+}

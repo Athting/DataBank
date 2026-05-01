@@ -1,0 +1,37 @@
+{
+  "Material": "Ag3.9Mo9Se11",
+  "DOIs_Researched": [
+    "10.1038/am.2013.15",
+    "10.1016/j.jallcom.2017.11.199"
+  ],
+  "Data_By_Temperature": {
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "Ag3.9Mo9Se11",
+        "Property": "ThermCond",
+        "Value": 0.75,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2013.15"
+      },
+      {
+        "Original_Name_In_Paper": "Ag3.9Mo9Se11",
+        "Property": "ZT",
+        "Value": 0.75,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2013.15"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Ag3.9Mo9Se11",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.11.199"
+      }
+    ]
+  }
+}

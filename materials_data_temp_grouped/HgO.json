@@ -1,0 +1,26 @@
+{
+  "Material": "HgO",
+  "DOIs_Researched": [
+    "10.1016/j.commatsci.2020.109960"
+  ],
+  "Data_By_Temperature": {
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "\u03b1-HgO",
+        "Property": "ZT",
+        "Value": 0.58,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2020.109960"
+      },
+      {
+        "Original_Name_In_Paper": "\u03b1-HgO",
+        "Property": "Conductivity",
+        "Value": 610.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2020.109960"
+      }
+    ]
+  }
+}

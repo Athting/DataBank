@@ -1,0 +1,29 @@
+{
+  "Material": "CoCrAl",
+  "DOIs_Researched": [
+    "10.1016/j.cocom.2019.e00412",
+    "10.1016/j.cap.2015.04.043"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Co2CrAl",
+        "Property": "ZT",
+        "Value": 0.0076,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cocom.2019.e00412"
+      }
+    ],
+    "305.0": [
+      {
+        "Original_Name_In_Paper": "Co2CrAl",
+        "Property": "Conductivity",
+        "Value": 662251.655629139,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2015.04.043"
+      }
+    ]
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "Material": "CsBi4Te6",
+  "DOIs_Researched": [
+    "10.1038/am.2013.15",
+    "10.1039/c6cp02456d",
+    "10.1016/j.actamat.2020.08.053",
+    "10.1039/c4ta05135a",
+    "10.1039/c6cp04949d",
+    "10.1016/j.cap.2016.03.028",
+    "10.1039/c8ra07395c",
+    "10.1557/jmr.2011.191",
+    "10.1016/j.energy.2019.04.088",
+    "10.1039/c0jm01969k",
+    "10.1016/j.cap.2013.01.019",
+    "10.1557/PROC-793-S6.1",
+    "10.1016/j.mtcomm.2020.101441",
+    "10.1016/j.solidstatesciences.2009.05.033",
+    "10.1557/PROC-478-327",
+    "10.1016/j.intermet.2013.01.013",
+    "10.1016/j.ssc.2009.06.028",
+    "10.1016/j.jssc.2017.02.025",
+    "10.1016/j.jallcom.2011.08.076",
+    "10.1016/j.solidstatesciences.2017.07.016",
+    "10.1557/PROC-626-Z6.2",
+    "10.1016/j.energy.2016.02.146",
+    "10.1038/35098012"
+  ],
+  "Data_By_Temperature": {
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "CsBi4Te6",
+        "Property": "ThermCond",
+        "Value": 0.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2013.15"
+      },
+      {
+        "Original_Name_In_Paper": "CsBi4Te6",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2013.15"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "CsBi4Te6 crystals",
+        "Property": "ThermCond",
+        "Value": 1.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2017.07.016"
+      },
+      {
+        "Original_Name_In_Paper": "doped CsBi4Te6",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ra07395c"
+      },
+      {
+        "Original_Name_In_Paper": "CsBi4Te6",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta05135a"
+      },
+      {
+        "Original_Name_In_Paper": "CsBi4Te6",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6cp04949d"
+      },
+      {
+        "Original_Name_In_Paper": "CsBi4Te6",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2020.08.053"
+      },
+      {
+        "Original_Name_In_Paper": "CsBi4Te6",
+        "Property": "ZT",
+        "Value": 0.62,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2016.03.028"
+      },
+      {
+        "Original_Name_In_Paper": "CsBi4Te6",
+        "Property": "ZT",
+        "Value": 0.32,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1557/PROC-478-327"
+      },
+      {
+        "Original_Name_In_Paper": "CsBi4Te6",
+        "Property": "Seebeck",
+        "Value": 0.00011,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1557/PROC-478-327"
+      },
+      {
+        "Original_Name_In_Paper": "CsBi4Te6",
+        "Property": "Conductivity",
+        "Value": 244000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1557/PROC-478-327"
+      }
+    ],
+    "225.0": [
+      {
+        "Original_Name_In_Paper": "CsBi4Te6",
+        "Property": "ZT",
+        "Value": 0.8200000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6cp02456d"
+      },
+      {
+        "Original_Name_In_Paper": "CsBi4Te6",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c0jm01969k"
+      },
+      {
+        "Original_Name_In_Paper": "CsBi4Te6",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1557/PROC-793-S6.1"
+      },
+      {
+        "Original_Name_In_Paper": "CsBi4Te6",
+        "Property": "ZT",
+        "Value": 0.8200000000000001,
+        "Units": null,
+        "Editing": "SbI3 doping",
+        "Source_DOI": "10.1016/j.jssc.2017.02.025"
+      },
+      {
+        "Original_Name_In_Paper": "CsBi4Te6",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.energy.2016.02.146"
+      },
+      {
+        "Original_Name_In_Paper": "CsBi4Te6",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1557/PROC-626-Z6.2"
+      },
+      {
+        "Original_Name_In_Paper": "CsBi4Te6",
+        "Property": "ZT",
+        "Value": 0.8200000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2013.01.013"
+      },
+      {
+        "Original_Name_In_Paper": "CsBi4Te6",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2009.05.033"
+      },
+      {
+        "Original_Name_In_Paper": "doped CsBi4Te6",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.energy.2019.04.088"
+      },
+      {
+        "Original_Name_In_Paper": "CsBi4Te6",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2013.01.019"
+      },
+      {
+        "Original_Name_In_Paper": "p-type single crystal CsBi4Te6",
+        "Property": "ZT",
+        "Value": 0.8200000000000001,
+        "Units": null,
+        "Editing": "doping with SbI3",
+        "Source_DOI": "10.1016/j.jallcom.2011.08.076"
+      },
+      {
+        "Original_Name_In_Paper": "CsBi4Te6",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/35098012"
+      }
+    ],
+    "635.0": [
+      {
+        "Original_Name_In_Paper": "CsBi4Te6 compound",
+        "Property": "ZT",
+        "Value": 0.14,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2017.07.016"
+      }
+    ],
+    "305.0": [
+      {
+        "Original_Name_In_Paper": "CsBi4Te6",
+        "Property": "ZT",
+        "Value": 0.054,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2017.07.016"
+      }
+    ],
+    "200.0": [
+      {
+        "Original_Name_In_Paper": "CsBi4Te6",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1557/jmr.2011.191"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "CsBi4Te6",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtcomm.2020.101441"
+      }
+    ],
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "CsBi4Te6",
+        "Property": "Seebeck",
+        "Value": -8.4e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2017.07.016"
+      }
+    ],
+    "171.0": [
+      {
+        "Original_Name_In_Paper": "CsBi4Te6",
+        "Property": "PF",
+        "Value": 0.004090000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2009.06.028"
+      }
+    ]
+  }
+}

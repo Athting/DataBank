@@ -1,0 +1,87 @@
+{
+  "Material": "InSe",
+  "DOIs_Researched": [
+    "10.1016/S0167-577X(99)00211-6",
+    "10.1016/j.jallcom.2018.09.335",
+    "10.3938/jkps.72.775",
+    "10.1016/j.matlet.2018.01.050",
+    "10.1039/c5ra23023c",
+    "10.1038/s41598-020-57644-0"
+  ],
+  "Data_By_Temperature": {
+    "830.0": [
+      {
+        "Original_Name_In_Paper": "InSe",
+        "Property": "ThermCond",
+        "Value": 1.55,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra23023c"
+      },
+      {
+        "Original_Name_In_Paper": "InSe",
+        "Property": "ZT",
+        "Value": 0.23,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra23023c"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "bulk InSe crystal",
+        "Property": "ThermCond",
+        "Value": 1.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.09.335"
+      },
+      {
+        "Original_Name_In_Paper": "InSe",
+        "Property": "ThermCond",
+        "Value": 44.43,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-020-57644-0"
+      },
+      {
+        "Original_Name_In_Paper": "monocrystalline InSe",
+        "Property": "Conductivity",
+        "Value": 100.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0167-577X(99)00211-6"
+      }
+    ],
+    "815.0": [
+      {
+        "Original_Name_In_Paper": "InSe",
+        "Property": "ZT",
+        "Value": 0.06,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra23023c"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "InSe",
+        "Property": "Seebeck",
+        "Value": -0.00018899999999999999,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2018.01.050"
+      }
+    ],
+    "795.0": [
+      {
+        "Original_Name_In_Paper": "InSe",
+        "Property": "Conductivity",
+        "Value": 850.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": "substitution with Si",
+        "Source_DOI": "10.3938/jkps.72.775"
+      }
+    ]
+  }
+}

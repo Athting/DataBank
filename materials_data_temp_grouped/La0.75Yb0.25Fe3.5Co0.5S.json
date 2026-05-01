@@ -1,0 +1,18 @@
+{
+  "Material": "La0.75Yb0.25Fe3.5Co0.5S",
+  "DOIs_Researched": [
+    "10.1007/s11664-014-3362-4"
+  ],
+  "Data_By_Temperature": {
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "La0.75Yb0.25Fe3.5Co0.5Sb12",
+        "Property": "ZT",
+        "Value": 2.81,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-014-3362-4"
+      }
+    ]
+  }
+}

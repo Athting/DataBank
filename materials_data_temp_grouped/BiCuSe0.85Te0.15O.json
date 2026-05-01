@@ -1,0 +1,27 @@
+{
+  "Material": "BiCuSe0.85Te0.15O",
+  "DOIs_Researched": [
+    "10.1039/c4ee00997e",
+    "10.1039/c3cc44578j"
+  ],
+  "Data_By_Temperature": {
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "BiCuSe0.85Te0.15O",
+        "Property": "Conductivity",
+        "Value": 4000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3cc44578j"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSe0.85Te0.15O",
+        "Property": "Conductivity",
+        "Value": 4000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ee00997e"
+      }
+    ]
+  }
+}

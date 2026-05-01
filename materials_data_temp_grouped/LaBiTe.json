@@ -1,0 +1,18 @@
+{
+  "Material": "LaBiTe",
+  "DOIs_Researched": [
+    "10.1016/j.matchemphys.2007.02.059"
+  ],
+  "Data_By_Temperature": {
+    "480.0": [
+      {
+        "Original_Name_In_Paper": "La0.2Bi1.8Te3 alloy",
+        "Property": "ZT",
+        "Value": 0.58,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2007.02.059"
+      }
+    ]
+  }
+}

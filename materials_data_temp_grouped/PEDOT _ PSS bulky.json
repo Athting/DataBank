@@ -1,0 +1,18 @@
+{
+  "Material": "PEDOT : PSS bulky",
+  "DOIs_Researched": [
+    "10.1016/j.synthmet.2019.116254"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "PEDOT : PSS bulky",
+        "Property": "ZT",
+        "Value": 0.32,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.synthmet.2019.116254"
+      }
+    ]
+  }
+}

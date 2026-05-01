@@ -1,0 +1,26 @@
+{
+  "Material": "CeBiTe3",
+  "DOIs_Researched": [
+    "10.1016/j.pnsc.2013.06.007"
+  ],
+  "Data_By_Temperature": {
+    "398.0": [
+      {
+        "Original_Name_In_Paper": "Ce0.2Bi1.8Te3",
+        "Property": "ZT",
+        "Value": 1.29,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pnsc.2013.06.007"
+      },
+      {
+        "Original_Name_In_Paper": "Ce0.2Bi1.8Te3",
+        "Property": "ZT",
+        "Value": 1.29,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pnsc.2013.06.007"
+      }
+    ]
+  }
+}

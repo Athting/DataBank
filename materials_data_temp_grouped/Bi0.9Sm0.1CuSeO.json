@@ -1,0 +1,26 @@
+{
+  "Material": "Bi0.9Sm0.1CuSeO",
+  "DOIs_Researched": [
+    "10.1016/j.materresbull.2020.110841"
+  ],
+  "Data_By_Temperature": {
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.9Sm0.1CuSeO",
+        "Property": "Seebeck",
+        "Value": 0.000121,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2020.110841"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.9Sm0.1CuSeO",
+        "Property": "Conductivity",
+        "Value": 5693.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2020.110841"
+      }
+    ]
+  }
+}

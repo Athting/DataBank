@@ -1,0 +1,124 @@
+{
+  "doi": "10.1039/c5ta05535k",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "SnMn0.07Te",
+        "SnMn0.03Te",
+        "Sn0.9Mn0.11Te alloy",
+        "SnMn0.01Te"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "SnMn0.03Te",
+          "value": 0.000035,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnMn0.07Te",
+          "value": 0.00005,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnMn0.07Te",
+          "value": 0.00027,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "920.0 K"
+        },
+        {
+          "material": "SnMn0.07Te",
+          "value": 0.000225,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "820.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "SnMn0.07Te",
+          "value": 200000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "SnMn0.07Te",
+          "value": 4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "SnMn0.07Te",
+          "value": 0.0005,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnMn0.01Te",
+          "value": 0.00319,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "820.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "SnMn0.07Te",
+          "zt_value": 1.25,
+          "temperature": "920.0 K"
+        },
+        {
+          "material": "SnMn0.07Te",
+          "zt_value": 1.25,
+          "temperature": "920.0 K"
+        },
+        {
+          "material": "Sn0.9Mn0.11Te alloy",
+          "zt_value": 1.22,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Sn0.9Mn0.11Te alloy",
+          "zt_value": 1.22,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Sn0.9Mn0.11Te alloy",
+          "zt_value": 1.22,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Sn0.9Mn0.11Te alloy",
+          "zt_value": 1.22,
+          "temperature": "873.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Material": "Mg2Sn0.765Ge0.22Sb0.01",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2015.11.006"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Mg2Sn0.765Ge0.22Sb0.015",
+        "Property": "Conductivity",
+        "Value": 212765.9574468085,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2015.11.006"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Sn0.765Ge0.22Sb0.015",
+        "Property": "PF",
+        "Value": 0.0046,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2015.11.006"
+      }
+    ]
+  }
+}

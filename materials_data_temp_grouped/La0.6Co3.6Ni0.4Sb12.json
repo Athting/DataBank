@@ -1,0 +1,18 @@
+{
+  "Material": "La0.6Co3.6Ni0.4Sb12",
+  "DOIs_Researched": [
+    "10.1007/s11661-017-4058-1"
+  ],
+  "Data_By_Temperature": {
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "La0.6Co3.6Ni0.4Sb12",
+        "Property": "ZT",
+        "Value": 0.31,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11661-017-4058-1"
+      }
+    ]
+  }
+}

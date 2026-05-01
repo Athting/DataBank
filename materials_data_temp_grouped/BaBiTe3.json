@@ -1,0 +1,88 @@
+{
+  "Material": "BaBiTe3",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2017.02.025"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "BaBiTe3",
+        "Property": "ThermCond",
+        "Value": 0.7000000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2017.02.025"
+      }
+    ],
+    "473.0": [
+      {
+        "Original_Name_In_Paper": "n-type BaBiTe3",
+        "Property": "ZT",
+        "Value": 0.25,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2017.02.025"
+      },
+      {
+        "Original_Name_In_Paper": "n-type BaBiTe3",
+        "Property": "ZT",
+        "Value": 0.25,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2017.02.025"
+      },
+      {
+        "Original_Name_In_Paper": "n-type La-doped BaBiTe3",
+        "Property": "ZT",
+        "Value": 0.25,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2017.02.025"
+      },
+      {
+        "Original_Name_In_Paper": "doped BaBiTe3",
+        "Property": "ZT",
+        "Value": 0.25,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2017.02.025"
+      },
+      {
+        "Original_Name_In_Paper": "doped BaBiTe3",
+        "Property": "ZT",
+        "Value": 0.25,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2017.02.025"
+      },
+      {
+        "Original_Name_In_Paper": "doped BaBiTe3",
+        "Property": "ZT",
+        "Value": 0.25,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2017.02.025"
+      }
+    ],
+    "398.0": [
+      {
+        "Original_Name_In_Paper": "undoped BaBiTe3",
+        "Property": "ZT",
+        "Value": 0.15,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2017.02.025"
+      }
+    ],
+    "423.0": [
+      {
+        "Original_Name_In_Paper": "2 % La doped BaBiTe3",
+        "Property": "Seebeck",
+        "Value": -0.00018199999999999998,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2017.02.025"
+      }
+    ]
+  }
+}

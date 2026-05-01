@@ -1,0 +1,234 @@
+{
+  "Material": "CoSbS",
+  "DOIs_Researched": [
+    "10.1039/c5tc01560j",
+    "10.1039/c7cp05170k",
+    "10.1016/j.cej.2020.125219",
+    "10.1039/c6tc00410e",
+    "10.1039/c8ta05572f",
+    "10.1016/j.jssc.2018.02.015",
+    "10.1007/s10973-012-2192-y"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "CoSbS",
+        "Property": "ThermCond",
+        "Value": 5.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta05572f"
+      },
+      {
+        "Original_Name_In_Paper": "CoSbS",
+        "Property": "ThermCond",
+        "Value": 9.6,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta05572f"
+      },
+      {
+        "Original_Name_In_Paper": "CoSbS",
+        "Property": "ThermCond",
+        "Value": 9.59,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2018.02.015"
+      },
+      {
+        "Original_Name_In_Paper": "CoSbS",
+        "Property": "Conductivity",
+        "Value": 0.002,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10973-012-2192-y"
+      },
+      {
+        "Original_Name_In_Paper": "CoSbS",
+        "Property": "Seebeck",
+        "Value": 0.0002,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10973-012-2192-y"
+      },
+      {
+        "Original_Name_In_Paper": "Te-doped CoSbS",
+        "Property": "PF",
+        "Value": 0.0005,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6tc00410e"
+      },
+      {
+        "Original_Name_In_Paper": "CoSbS",
+        "Property": "Conductivity",
+        "Value": 44.8,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta05572f"
+      }
+    ],
+    "330.0": [
+      {
+        "Original_Name_In_Paper": "CoSbS",
+        "Property": "ThermCond",
+        "Value": 8.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6tc00410e"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Ni doped CoSbS",
+        "Property": "ThermCond",
+        "Value": 3.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01560j"
+      },
+      {
+        "Original_Name_In_Paper": "Ni doped CoSbS",
+        "Property": "PF",
+        "Value": 0.0015,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01560j"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "nanostructured CoSbS",
+        "Property": "ThermCond",
+        "Value": 7.86,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01560j"
+      },
+      {
+        "Original_Name_In_Paper": "CoSbS",
+        "Property": "Seebeck",
+        "Value": 0.000155,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cp05170k"
+      },
+      {
+        "Original_Name_In_Paper": "CoSbS",
+        "Property": "Seebeck",
+        "Value": -0.000565,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": "In addition",
+        "Source_DOI": "10.1039/c5tc01560j"
+      }
+    ],
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Ni doped CoSbS",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01560j"
+      },
+      {
+        "Original_Name_In_Paper": "Ni doped CoSbS",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01560j"
+      },
+      {
+        "Original_Name_In_Paper": "Ni doped CoSbS",
+        "Property": "PF",
+        "Value": 0.002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01560j"
+      },
+      {
+        "Original_Name_In_Paper": "Ni doped CoSbS",
+        "Property": "PF",
+        "Value": 0.002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01560j"
+      },
+      {
+        "Original_Name_In_Paper": "Ni doped Co1-xNixSbS",
+        "Property": "PF",
+        "Value": 0.002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2018.02.015"
+      }
+    ],
+    "873": [
+      {
+        "Original_Name_In_Paper": "CoSbS",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01560j"
+      }
+    ],
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "CoSbS",
+        "Property": "ZT",
+        "Value": 0.58,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cej.2020.125219"
+      },
+      {
+        "Original_Name_In_Paper": "un-doped CoSbS",
+        "Property": "PF",
+        "Value": 0.00067,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2018.02.015"
+      }
+    ],
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "un-doped CoSbS",
+        "Property": "PF",
+        "Value": 0.00067,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta05572f"
+      },
+      {
+        "Original_Name_In_Paper": "undoped CoSbS",
+        "Property": "PF",
+        "Value": 0.00067,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta05572f"
+      }
+    ],
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "CoSbS",
+        "Property": "PF",
+        "Value": 0.0016,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": "substituting Co with Ni",
+        "Source_DOI": "10.1039/c6tc00410e"
+      }
+    ],
+    "543.0": [
+      {
+        "Original_Name_In_Paper": "Ni doped CoSbS",
+        "Property": "PF",
+        "Value": 0.0027,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6tc00410e"
+      }
+    ]
+  }
+}

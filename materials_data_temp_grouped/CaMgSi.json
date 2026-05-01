@@ -1,0 +1,47 @@
+{
+  "Material": "CaMgSi",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2016.08.227",
+    "10.1016/j.jallcom.2018.04.166"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "CaMgSi",
+        "Property": "ZT",
+        "Value": 1.76,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.04.166"
+      },
+      {
+        "Original_Name_In_Paper": "CaMgSi",
+        "Property": "ZT",
+        "Value": 1.74,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.04.166"
+      }
+    ],
+    "433.0": [
+      {
+        "Original_Name_In_Paper": "bulk Ca33.3Mg33.3Si33.3",
+        "Property": "PF",
+        "Value": 0.00042,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.08.227"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "CaMgSi",
+        "Property": "Conductivity",
+        "Value": 245000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.04.166"
+      }
+    ]
+  }
+}

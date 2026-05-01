@@ -1,0 +1,18 @@
+{
+  "Material": "Cu3Sb0.96Sn0.04Se4\u20133",
+  "DOIs_Researched": [
+    "10.1016/j.intermet.2019.03.009"
+  ],
+  "Data_By_Temperature": {
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "Cu3Sb0.96Sn0.04Se4\u20133 % Cu3Sb0.94Sn0.06Se2.5S1.5",
+        "Property": "ZT",
+        "Value": 0.87,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2019.03.009"
+      }
+    ]
+  }
+}

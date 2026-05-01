@@ -1,0 +1,84 @@
+{
+  "Material": "BiCuOSe",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2016.02.033",
+    "10.1038/srep21035",
+    "10.1039/d0ta00690d",
+    "10.1039/c3ta11222e",
+    "10.1016/j.jallcom.2016.06.070"
+  ],
+  "Data_By_Temperature": {
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "BiCuOSe compound",
+        "Property": "ThermCond",
+        "Value": 0.34,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.06.070"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuOSe",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta11222e"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuOSe",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": "Ba doping",
+        "Source_DOI": "10.1039/c3ta11222e"
+      },
+      {
+        "Original_Name_In_Paper": "doped BiCuOSe",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta00690d"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuOSe",
+        "Property": "ZT",
+        "Value": 0.81,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2016.02.033"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "non-textured BiCuOSe",
+        "Property": "ThermCond",
+        "Value": 0.52,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/srep21035"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "BiCuOSe",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta11222e"
+      }
+    ],
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "12.5 % doped BiCuOSe",
+        "Property": "ZT",
+        "Value": 1.32,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta11222e"
+      }
+    ]
+  }
+}

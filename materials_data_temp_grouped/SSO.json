@@ -1,0 +1,36 @@
+{
+  "Material": "SSO",
+  "DOIs_Researched": [
+    "10.1016/j.jpcs.2018.08.010"
+  ],
+  "Data_By_Temperature": {
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "SSO",
+        "Property": "ZT",
+        "Value": 0.46,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2018.08.010"
+      },
+      {
+        "Original_Name_In_Paper": "pristine SSO",
+        "Property": "ZT",
+        "Value": 0.46,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2018.08.010"
+      }
+    ],
+    "280.0": [
+      {
+        "Original_Name_In_Paper": "SSO",
+        "Property": "Conductivity",
+        "Value": 92592.5925925926,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2018.08.010"
+      }
+    ]
+  }
+}

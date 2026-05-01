@@ -1,0 +1,18 @@
+{
+  "Material": "B0.4Sb1.6Te3 + Te",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2007.07.007"
+  ],
+  "Data_By_Temperature": {
+    "283.0": [
+      {
+        "Original_Name_In_Paper": "4 wt. % Te-doped B0.4Sb1.6Te3 alloy",
+        "Property": "ThermCond",
+        "Value": 1.235,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2007.07.007"
+      }
+    ]
+  }
+}

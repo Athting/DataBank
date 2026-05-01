@@ -1,0 +1,18 @@
+{
+  "Material": "Ba0.3K0.7Cu2Se2",
+  "DOIs_Researched": [
+    "10.1016/j.matlet.2015.03.098"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Ba0.3K0.7Cu2Se2",
+        "Property": "ZT",
+        "Value": 0.32,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2015.03.098"
+      }
+    ]
+  }
+}

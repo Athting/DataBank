@@ -1,0 +1,56 @@
+{
+  "Material": "LiCoO2",
+  "DOIs_Researched": [
+    "10.1038/ncomms5035",
+    "10.1016/j.jpowsour.2014.11.150",
+    "10.1039/c8ee01419a",
+    "10.1039/c9cp03886h",
+    "10.1016/j.electacta.2006.08.069"
+  ],
+  "Data_By_Temperature": {
+    "298.0": [
+      {
+        "Original_Name_In_Paper": "LiCoO2",
+        "Property": "Conductivity",
+        "Value": 1400.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9cp03886h"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "LiCoO2",
+        "Property": "Conductivity",
+        "Value": 50.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": "substitution of Mg2+",
+        "Source_DOI": "10.1039/c8ee01419a"
+      },
+      {
+        "Original_Name_In_Paper": "LiCoO2",
+        "Property": "Conductivity",
+        "Value": 0.1,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.electacta.2006.08.069"
+      },
+      {
+        "Original_Name_In_Paper": "Li1.0CoO2",
+        "Property": "Conductivity",
+        "Value": 1000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/ncomms5035"
+      },
+      {
+        "Original_Name_In_Paper": "LiCoO2",
+        "Property": "Conductivity",
+        "Value": 30000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpowsour.2014.11.150"
+      }
+    ]
+  }
+}

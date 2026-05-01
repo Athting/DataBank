@@ -1,0 +1,18 @@
+{
+  "Material": "SSSS",
+  "DOIs_Researched": [
+    "10.1016/j.physb.2009.11.078"
+  ],
+  "Data_By_Temperature": {
+    "155.0": [
+      {
+        "Original_Name_In_Paper": "SSSS",
+        "Property": "ZT",
+        "Value": 0.027,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2009.11.078"
+      }
+    ]
+  }
+}

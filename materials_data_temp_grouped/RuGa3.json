@@ -1,0 +1,29 @@
+{
+  "Material": "RuGa3",
+  "DOIs_Researched": [
+    "10.1557/PROC-793-S8.38",
+    "10.1016/j.solidstatesciences.2014.03.016"
+  ],
+  "Data_By_Temperature": {
+    "945.0": [
+      {
+        "Original_Name_In_Paper": "RuGa3",
+        "Property": "ZT",
+        "Value": 0.18,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1557/PROC-793-S8.38"
+      }
+    ],
+    "845.0": [
+      {
+        "Original_Name_In_Paper": "polycrystalline RuGa3",
+        "Property": "ZT",
+        "Value": 0.08,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2014.03.016"
+      }
+    ]
+  }
+}

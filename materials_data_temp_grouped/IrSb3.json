@@ -1,0 +1,29 @@
+{
+  "Material": "IrSb3",
+  "DOIs_Researched": [
+    "10.1007/s11664-004-0117-7",
+    "10.1039/c9ra03882e"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "IrSb3",
+        "Property": "ThermCond",
+        "Value": 1.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-004-0117-7"
+      }
+    ],
+    "50.0": [
+      {
+        "Original_Name_In_Paper": "IrSb3",
+        "Property": "Conductivity",
+        "Value": 236358.9,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ra03882e"
+      }
+    ]
+  }
+}

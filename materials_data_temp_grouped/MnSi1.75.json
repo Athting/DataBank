@@ -1,0 +1,79 @@
+{
+  "Material": "MnSi1.75",
+  "DOIs_Researched": [
+    "10.1016/j.intermet.2020.106705",
+    "10.1016/B978-0-12-409547-2.11642-7",
+    "10.1016/j.physb.2019.02.052",
+    "10.1016/j.ssc.2019.113807"
+  ],
+  "Data_By_Temperature": {
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "undoped MnSi1.75",
+        "Property": "ZT",
+        "Value": 0.55,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-12-409547-2.11642-7"
+      }
+    ],
+    "473.0": [
+      {
+        "Original_Name_In_Paper": "MnSi1.75",
+        "Property": "ZT",
+        "Value": 0.23,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2019.02.052"
+      },
+      {
+        "Original_Name_In_Paper": "MnSi1.75",
+        "Property": "ZT",
+        "Value": 0.23,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2019.02.052"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "MnSi1.75",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2019.02.052"
+      }
+    ],
+    "1373.0": [
+      {
+        "Original_Name_In_Paper": "MnSi1.75",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2020.106705"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "MnSi1.75",
+        "Property": "ZT",
+        "Value": 0.66,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2019.113807"
+      }
+    ],
+    "298.0": [
+      {
+        "Original_Name_In_Paper": "MnSi1.75",
+        "Property": "Conductivity",
+        "Value": 36500.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2020.106705"
+      }
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "Material": "CuBi2S3",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2018.11.343"
+  ],
+  "Data_By_Temperature": {
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "Cu0.01Bi2S3",
+        "Property": "ZT",
+        "Value": 0.62,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.11.343"
+      },
+      {
+        "Original_Name_In_Paper": "Cu0.01Bi2S3",
+        "Property": "ZT",
+        "Value": 0.62,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.11.343"
+      },
+      {
+        "Original_Name_In_Paper": "Cu0.01Bi2S3",
+        "Property": "ZT",
+        "Value": 0.62,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.11.343"
+      },
+      {
+        "Original_Name_In_Paper": "Cu0.01Bi2S3",
+        "Property": "ZT",
+        "Value": 0.62,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.11.343"
+      },
+      {
+        "Original_Name_In_Paper": "Cu0.01Bi2S3",
+        "Property": "ZT",
+        "Value": 0.62,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.11.343"
+      }
+    ],
+    "523.0": [
+      {
+        "Original_Name_In_Paper": "Cu0.01Bi2S3",
+        "Property": "PF",
+        "Value": 0.00044,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.11.343"
+      }
+    ]
+  }
+}

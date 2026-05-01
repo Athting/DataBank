@@ -1,0 +1,29 @@
+{
+  "Material": "Li1.3Al0.3Ti1.7(PO4)3",
+  "DOIs_Researched": [
+    "10.1039/c6ta05439k",
+    "10.1016/j.joule.2018.08.017"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Li1.3Al0.3Ti1.7(PO4)3",
+        "Property": "Conductivity",
+        "Value": 1.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2018.08.017"
+      }
+    ],
+    "298.0": [
+      {
+        "Original_Name_In_Paper": "Li1.3Al0.3Ti1.7(PO4)3",
+        "Property": "Conductivity",
+        "Value": 0.07,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta05439k"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Ge",
+  "DOIs_Researched": [
+    "10.1016/S0925-8388(10)00044-7"
+  ],
+  "Data_By_Temperature": {
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "Ge 30 684",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": "CuO addition",
+        "Source_DOI": "10.1016/S0925-8388(10)00044-7"
+      }
+    ]
+  }
+}

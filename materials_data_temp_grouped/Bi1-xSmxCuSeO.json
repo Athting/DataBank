@@ -1,0 +1,18 @@
+{
+  "Material": "Bi1-xSmxCuSeO",
+  "DOIs_Researched": [
+    "10.1016/j.materresbull.2020.110841"
+  ],
+  "Data_By_Temperature": {
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "Bi1-xSmxCuSeO",
+        "Property": "ThermCond",
+        "Value": 0.514,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2020.110841"
+      }
+    ]
+  }
+}

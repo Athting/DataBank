@@ -1,0 +1,46 @@
+{
+  "Material": "SrMoO3",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2004.08.038",
+    "10.1016/B978-0-444-59550-8.00010-7",
+    "10.1016/j.ijhydene.2019.06.023"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "SrMoO3",
+        "Property": "ThermCond",
+        "Value": 30.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2004.08.038"
+      },
+      {
+        "Original_Name_In_Paper": "SrMoO3",
+        "Property": "Seebeck",
+        "Value": 4e-06,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2004.08.038"
+      },
+      {
+        "Original_Name_In_Paper": "SrMoO3 perovskite",
+        "Property": "Conductivity",
+        "Value": 10400.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ijhydene.2019.06.023"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "SrMoO3",
+        "Property": "Conductivity",
+        "Value": 19607843.1372549,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-444-59550-8.00010-7"
+      }
+    ]
+  }
+}

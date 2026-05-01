@@ -1,0 +1,72 @@
+{
+  "Material": "Ca2.8Lu0.2Co4O9+\u03b4",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2015.12.231",
+    "10.1016/j.jallcom.2010.09.150",
+    "10.1007/s10853-010-4461-0"
+  ],
+  "Data_By_Temperature": {
+    "335.0": [
+      {
+        "Original_Name_In_Paper": "Ca2.8Lu0.2Co4O9+\u03b4 material",
+        "Property": "ZT",
+        "Value": 0.032,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-010-4461-0"
+      }
+    ],
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "Ca2.8Lu0.2Co4O9+\u03b4",
+        "Property": "ZT",
+        "Value": 0.176,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.12.231"
+      }
+    ],
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "Ca2.8Lu0.2Co4O9+\u03b4sample",
+        "Property": "ZT",
+        "Value": 0.36,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.09.150"
+      },
+      {
+        "Original_Name_In_Paper": "Ca2.8Lu0.2Co4O9+\u03b4sample",
+        "Property": "ZT",
+        "Value": 0.36,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.09.150"
+      },
+      {
+        "Original_Name_In_Paper": "Ca2.8Lu0.2Co4O9+\u03b4",
+        "Property": "ZT",
+        "Value": 0.36,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.09.150"
+      },
+      {
+        "Original_Name_In_Paper": "Ca2.8Lu0.2Co4O9+\u03b4",
+        "Property": "ZT",
+        "Value": 0.36,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.09.150"
+      },
+      {
+        "Original_Name_In_Paper": "Ca2.8Lu0.2Co4O9+\u03b4",
+        "Property": "ZT",
+        "Value": 0.36,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.09.150"
+      }
+    ]
+  }
+}

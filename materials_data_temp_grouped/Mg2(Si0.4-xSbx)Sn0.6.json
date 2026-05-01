@@ -1,0 +1,18 @@
+{
+  "Material": "Mg2(Si0.4-xSbx)Sn0.6",
+  "DOIs_Researched": [
+    "10.1016/j.applthermaleng.2016.05.146"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "n-type Mg2(Si0.4\u2212xSbxSn0.6)",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.applthermaleng.2016.05.146"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Material": "CuCrTiS4",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2014.01.222"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "CuCrTiS4",
+        "Property": "ZT",
+        "Value": 0.01,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.01.222"
+      },
+      {
+        "Original_Name_In_Paper": "CuCrTiS4",
+        "Property": "ZT",
+        "Value": 0.01,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.01.222"
+      }
+    ]
+  }
+}

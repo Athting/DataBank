@@ -1,0 +1,18 @@
+{
+  "Material": "ZrNiSn-based compound",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2009.04.076"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "ZrNiSn-based compound",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.04.076"
+      }
+    ]
+  }
+}

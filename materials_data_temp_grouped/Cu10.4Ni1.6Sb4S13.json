@@ -1,0 +1,54 @@
+{
+  "Material": "Cu10.4Ni1.6Sb4S13",
+  "DOIs_Researched": [
+    "10.1039/c5ra23218j",
+    "10.1016/j.jallcom.2017.01.187",
+    "10.1039/c5tc02537k"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Cu10.4Ni1.6Sb4S13",
+        "Property": "ZT",
+        "Value": 0.75,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.01.187"
+      },
+      {
+        "Original_Name_In_Paper": "Cu10.4Ni1.6Sb4S13",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc02537k"
+      },
+      {
+        "Original_Name_In_Paper": "Cu10.4Ni1.6Sb4S13",
+        "Property": "ZT",
+        "Value": 0.75,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra23218j"
+      },
+      {
+        "Original_Name_In_Paper": "Cu10.4Ni1.6Sb4S13",
+        "Property": "ZT",
+        "Value": 0.75,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra23218j"
+      }
+    ],
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "Cu10.4Ni1.6Sb4S13",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra23218j"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Mn(Ge0.015Si0.985)1.75",
+  "DOIs_Researched": [
+    "10.1039/c5tc02837j"
+  ],
+  "Data_By_Temperature": {
+    "840.0": [
+      {
+        "Original_Name_In_Paper": "Mn(Ge0.015Si0.985)1.75",
+        "Property": "ZT",
+        "Value": 0.62,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc02837j"
+      }
+    ]
+  }
+}

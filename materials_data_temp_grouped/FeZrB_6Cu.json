@@ -1,0 +1,26 @@
+{
+  "Material": "FeZrB_6Cu",
+  "DOIs_Researched": [
+    "10.1016/S0925-8388(05)00321-X"
+  ],
+  "Data_By_Temperature": {
+    "1273.0": [
+      {
+        "Original_Name_In_Paper": "amorphous Fe 86 Zr 7 B 6 Cu",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(05)00321-X"
+      },
+      {
+        "Original_Name_In_Paper": "amorphous Fe 86 Zr 7 B 6 Cu",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(05)00321-X"
+      }
+    ]
+  }
+}

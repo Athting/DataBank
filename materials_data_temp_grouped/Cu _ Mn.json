@@ -1,0 +1,18 @@
+{
+  "Material": "Cu / Mn",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2017.04.027"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Cu / Mn",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2017.04.027"
+      }
+    ]
+  }
+}

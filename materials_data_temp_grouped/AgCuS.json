@@ -1,0 +1,37 @@
+{
+  "Material": "AgCuS",
+  "DOIs_Researched": [
+    "10.1039/c5sc02966j",
+    "10.1039/c4cp06088a"
+  ],
+  "Data_By_Temperature": {
+    "364.0": [
+      {
+        "Original_Name_In_Paper": "AgCuS",
+        "Property": "Seebeck",
+        "Value": 0.0017569999999999999,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4cp06088a"
+      },
+      {
+        "Original_Name_In_Paper": "bulk polycrystalline AgCuS",
+        "Property": "Seebeck",
+        "Value": 0.0017569999999999999,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5sc02966j"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "nanocrystalline AgCuS",
+        "Property": "Seebeck",
+        "Value": 0.000133,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5sc02966j"
+      }
+    ]
+  }
+}

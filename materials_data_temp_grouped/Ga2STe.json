@@ -1,0 +1,18 @@
+{
+  "Material": "Ga2STe",
+  "DOIs_Researched": [
+    "10.1016/j.physe.2019.113683"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ga2STe",
+        "Property": "ThermCond",
+        "Value": 26.16,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physe.2019.113683"
+      }
+    ]
+  }
+}

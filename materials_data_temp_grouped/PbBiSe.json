@@ -1,0 +1,36 @@
+{
+  "Material": "PbBiSe",
+  "DOIs_Researched": [
+    "10.1038/ncomms4640"
+  ],
+  "Data_By_Temperature": {
+    "690.0": [
+      {
+        "Original_Name_In_Paper": "Pb0.99925Bi0.00075Se",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/ncomms4640"
+      }
+    ],
+    "920.0": [
+      {
+        "Original_Name_In_Paper": "Pb0.995Bi0.005Se",
+        "Property": "ZT",
+        "Value": 0.89,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/ncomms4640"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.99Bi0.01Se",
+        "Property": "ZT",
+        "Value": 0.73,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/ncomms4640"
+      }
+    ]
+  }
+}

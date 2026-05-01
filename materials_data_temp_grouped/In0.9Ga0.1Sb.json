@@ -1,0 +1,18 @@
+{
+  "Material": "In0.9Ga0.1Sb",
+  "DOIs_Researched": [
+    "10.1039/c1jm10542f"
+  ],
+  "Data_By_Temperature": {
+    "650.0": [
+      {
+        "Original_Name_In_Paper": "In0.9Ga0.1Sb",
+        "Property": "ZT",
+        "Value": 0.73,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c1jm10542f"
+      }
+    ]
+  }
+}

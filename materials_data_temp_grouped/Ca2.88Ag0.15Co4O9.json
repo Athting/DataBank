@@ -1,0 +1,18 @@
+{
+  "Material": "Ca2.88Ag0.15Co4O9",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2011.09.008"
+  ],
+  "Data_By_Temperature": {
+    "705.0": [
+      {
+        "Original_Name_In_Paper": "Ca2.88Ag0.15Co4O9",
+        "Property": "PF",
+        "Value": 0.0007300000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2011.09.008"
+      }
+    ]
+  }
+}

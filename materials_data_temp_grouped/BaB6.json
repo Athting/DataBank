@@ -1,0 +1,51 @@
+{
+  "Material": "BaB6",
+  "DOIs_Researched": [
+    "10.1016/j.mtla.2018.06.003",
+    "10.1016/j.apsusc.2011.12.083"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "BaB6",
+        "Property": "ThermCond",
+        "Value": 12.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtla.2018.06.003"
+      },
+      {
+        "Original_Name_In_Paper": "BaB6",
+        "Property": "Conductivity",
+        "Value": 344.8275862069,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2011.12.083"
+      },
+      {
+        "Original_Name_In_Paper": "BaB6 thin films",
+        "Property": "Conductivity",
+        "Value": 1000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2011.12.083"
+      },
+      {
+        "Original_Name_In_Paper": "BaB6 thin film",
+        "Property": "Conductivity",
+        "Value": 1000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2011.12.083"
+      },
+      {
+        "Original_Name_In_Paper": "BaB6",
+        "Property": "Conductivity",
+        "Value": 344.8275862069,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2011.12.083"
+      }
+    ]
+  }
+}

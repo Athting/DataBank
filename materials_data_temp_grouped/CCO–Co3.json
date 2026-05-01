@@ -1,0 +1,42 @@
+{
+  "Material": "CCO\u2013Co3",
+  "DOIs_Researched": [
+    "10.1007/s10854-020-03095-2"
+  ],
+  "Data_By_Temperature": {
+    "1026.0": [
+      {
+        "Original_Name_In_Paper": "CCO\u2013Co3",
+        "Property": "ZT",
+        "Value": 0.09,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-020-03095-2"
+      },
+      {
+        "Original_Name_In_Paper": "CCO\u2013Co3",
+        "Property": "ZT",
+        "Value": 0.06,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-020-03095-2"
+      },
+      {
+        "Original_Name_In_Paper": "CCO\u2013Co3",
+        "Property": "ZT",
+        "Value": 0.09,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-020-03095-2"
+      },
+      {
+        "Original_Name_In_Paper": "CCO\u2013Co3",
+        "Property": "PF",
+        "Value": 0.00023099999999999998,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-020-03095-2"
+      }
+    ]
+  }
+}

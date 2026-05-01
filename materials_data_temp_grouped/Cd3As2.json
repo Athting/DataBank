@@ -1,0 +1,110 @@
+{
+  "Material": "Cd3As2",
+  "DOIs_Researched": [
+    "10.1039/c6qi00383d"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Cd3As2",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6qi00383d"
+      },
+      {
+        "Original_Name_In_Paper": "pristine Cd3As2",
+        "Property": "ZT",
+        "Value": 0.15,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6qi00383d"
+      },
+      {
+        "Original_Name_In_Paper": "n-type Cd3As2",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6qi00383d"
+      },
+      {
+        "Original_Name_In_Paper": "pristine Cd3As2",
+        "Property": "ZT",
+        "Value": 0.15,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6qi00383d"
+      },
+      {
+        "Original_Name_In_Paper": "Cd3As2",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6qi00383d"
+      },
+      {
+        "Original_Name_In_Paper": "Cd3As2",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6qi00383d"
+      }
+    ],
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "p-type Cd3As2",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6qi00383d"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Cd3As2",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6qi00383d"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Cd3As2",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6qi00383d"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Cd3As2",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6qi00383d"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "pristine Cd3As2",
+        "Property": "Conductivity",
+        "Value": 2620000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6qi00383d"
+      },
+      {
+        "Original_Name_In_Paper": "pristine Cd3As2",
+        "Property": "Conductivity",
+        "Value": 6700.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6qi00383d"
+      }
+    ]
+  }
+}

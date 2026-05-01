@@ -1,0 +1,18 @@
+{
+  "Material": "Ca2.97Ag0.03Co4O9",
+  "DOIs_Researched": [
+    "10.1016/j.ssi.2011.07.023"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "Ca2.97Ag0.03Co4O9",
+        "Property": "ZT",
+        "Value": 0.23,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssi.2011.07.023"
+      }
+    ]
+  }
+}

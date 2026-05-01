@@ -1,0 +1,34 @@
+{
+  "Material": "ZrTiO4",
+  "DOIs_Researched": [
+    "10.1016/S0925-8388(05)00965-5"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "doped ZrTiO 4 255 Cu\u2013Cr",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(05)00965-5"
+      },
+      {
+        "Original_Name_In_Paper": "doped ZrTiO 4 255",
+        "Property": "ZT",
+        "Value": 1.55,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(05)00965-5"
+      },
+      {
+        "Original_Name_In_Paper": "doped ZrTiO 4 255",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(05)00965-5"
+      }
+    ]
+  }
+}

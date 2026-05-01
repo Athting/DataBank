@@ -1,0 +1,1298 @@
+{
+  "Material": "PbSe",
+  "DOIs_Researched": [
+    "10.1039/c9sc00485h",
+    "10.1039/c9ee03087e",
+    "10.1016/j.nanoen.2020.105232",
+    "10.1039/c5tc03970c",
+    "10.1007/s12274-009-9039-2",
+    "10.1016/j.jallcom.2018.02.152",
+    "10.1039/c9ta02670c",
+    "10.1016/j.ccr.2020.213437",
+    "10.1039/c5mh00021a",
+    "10.1016/j.pnsc.2018.05.002",
+    "10.1016/j.physb.2019.411797",
+    "10.1016/j.mtener.2018.06.010",
+    "10.1016/bs.semsem.2015.09.001",
+    "10.1039/c7qi00051k",
+    "10.1016/j.mtadv.2019.100029",
+    "10.1016/j.jallcom.2019.07.292",
+    "10.1016/j.nanoen.2018.06.030",
+    "10.1016/j.nanoen.2015.02.026",
+    "10.1007/s11434-014-0237-2",
+    "10.1016/j.cplett.2019.137055",
+    "10.1016/j.mtphys.2018.06.004",
+    "10.1016/j.ceramint.2018.03.100",
+    "10.1039/c8ee03386b",
+    "10.1007/s10854-017-8498-6",
+    "10.1016/j.mtphys.2019.100102",
+    "10.1039/c2jm33899h",
+    "10.1039/c4ra05322b",
+    "10.1039/c8ee00418h",
+    "10.1007/s12598-017-0991-9",
+    "10.1039/c5nr01016k",
+    "10.1038/s41563-019-0499-9",
+    "10.1016/j.mssp.2016.03.012",
+    "10.1016/j.jallcom.2015.03.117",
+    "10.1016/j.cap.2017.11.002",
+    "10.1016/j.jallcom.2011.01.033",
+    "10.1039/c5cp06891f",
+    "10.1016/j.nanoen.2011.10.001",
+    "10.1039/c6cp05232k",
+    "10.1016/j.jallcom.2016.06.172",
+    "10.1016/j.nanoen.2012.10.005",
+    "10.1016/j.matchemphys.2014.03.055",
+    "10.1039/c4ta01643b",
+    "10.1016/j.apsusc.2020.147387",
+    "10.1016/j.matlet.2013.11.097",
+    "10.1039/c1ee02465e",
+    "10.1016/j.jallcom.2014.02.077",
+    "10.1007/s10854-016-5080-6",
+    "10.1039/c4ce00714j",
+    "10.1016/j.jallcom.2019.01.105",
+    "10.1016/j.pmatsci.2016.07.002",
+    "10.1039/d0tc00572j",
+    "10.1039/c3ee43099e",
+    "10.1039/c3ee43438a",
+    "10.1039/c8ee01755g",
+    "10.1039/c2ic90019j",
+    "10.1039/d0ta00174k",
+    "10.1007/s10854-016-4473-x",
+    "10.1016/j.mtener.2018.12.001",
+    "10.1016/j.nanoen.2013.09.009",
+    "10.1016/B978-0-08-102687-8.00002-6",
+    "10.1007/s10854-020-03245-6",
+    "10.1007/s10854-015-3939-6",
+    "10.1038/ncomms4640"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "PbSe",
+        "Property": "ThermCond",
+        "Value": 1.7000000000000002,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2jm33899h"
+      },
+      {
+        "Original_Name_In_Paper": "2D PbSe",
+        "Property": "ThermCond",
+        "Value": 0.26,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2020.147387"
+      },
+      {
+        "Original_Name_In_Paper": "Ga- doped PbSe",
+        "Property": "ThermCond",
+        "Value": 4.6,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2018.06.004"
+      },
+      {
+        "Original_Name_In_Paper": "CdSe-free PbSe",
+        "Property": "ThermCond",
+        "Value": 2.6,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee03386b"
+      },
+      {
+        "Original_Name_In_Paper": "PbSe\u20134 % CdSe",
+        "Property": "ThermCond",
+        "Value": 1.47,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee03386b"
+      },
+      {
+        "Original_Name_In_Paper": "PbSe matrix",
+        "Property": "ThermCond",
+        "Value": 1.3,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2013.11.097"
+      },
+      {
+        "Original_Name_In_Paper": "PbSe",
+        "Property": "ThermCond",
+        "Value": 1.7000000000000002,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2013.11.097"
+      },
+      {
+        "Original_Name_In_Paper": "pure PbSe",
+        "Property": "ThermCond",
+        "Value": 1.81,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c1ee02465e"
+      },
+      {
+        "Original_Name_In_Paper": "PbSe",
+        "Property": "ThermCond",
+        "Value": 2.14,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ee43099e"
+      },
+      {
+        "Original_Name_In_Paper": "Cr-doped PbSe",
+        "Property": "ThermCond",
+        "Value": 2.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2015.02.026"
+      },
+      {
+        "Original_Name_In_Paper": "pure PbSe",
+        "Property": "ThermCond",
+        "Value": 1.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ee03087e"
+      },
+      {
+        "Original_Name_In_Paper": "undoped PbSe",
+        "Property": "ThermCond",
+        "Value": 1.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2013.09.009"
+      },
+      {
+        "Original_Name_In_Paper": "pristine PbSe",
+        "Property": "ThermCond",
+        "Value": 1.81,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/ncomms4640"
+      },
+      {
+        "Original_Name_In_Paper": "PbSe",
+        "Property": "ThermCond",
+        "Value": 1.6,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.03.117"
+      },
+      {
+        "Original_Name_In_Paper": "wt % ) of Tl doped PbSe",
+        "Property": "ZT",
+        "Value": 0.01,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtener.2018.06.010"
+      },
+      {
+        "Original_Name_In_Paper": "PbSe NW",
+        "Property": "ZT",
+        "Value": 0.12,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/bs.semsem.2015.09.001"
+      },
+      {
+        "Original_Name_In_Paper": "Cr-doped PbSe",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2018.06.004"
+      },
+      {
+        "Original_Name_In_Paper": "% Mo-doped PbSe",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtadv.2019.100029"
+      },
+      {
+        "Original_Name_In_Paper": "single crystal PbSe",
+        "Property": "ZT",
+        "Value": 1.25,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2019.411797"
+      },
+      {
+        "Original_Name_In_Paper": "PbSe nanowires",
+        "Property": "ZT",
+        "Value": 0.12,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s12274-009-9039-2"
+      },
+      {
+        "Original_Name_In_Paper": "2D PbSe",
+        "Property": "ZT",
+        "Value": 0.26,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2020.147387"
+      },
+      {
+        "Original_Name_In_Paper": "indium-doped PbSe thin film",
+        "Property": "Conductivity",
+        "Value": 112.3595505618,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-015-3939-6"
+      },
+      {
+        "Original_Name_In_Paper": "PbSe films",
+        "Property": "Conductivity",
+        "Value": 250.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-016-5080-6"
+      },
+      {
+        "Original_Name_In_Paper": "( 0.01 wt % ) of Tl doped PbSe",
+        "Property": "Seebeck",
+        "Value": 8.28e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtener.2018.06.010"
+      },
+      {
+        "Original_Name_In_Paper": "PbSe",
+        "Property": "Seebeck",
+        "Value": 0.000335,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5nr01016k"
+      },
+      {
+        "Original_Name_In_Paper": "1 % Mo-doped PbSe",
+        "Property": "PF",
+        "Value": 0.0033,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtadv.2019.100029"
+      },
+      {
+        "Original_Name_In_Paper": "PbSe single crystal",
+        "Property": "Conductivity",
+        "Value": 105300.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2019.411797"
+      },
+      {
+        "Original_Name_In_Paper": "PbSe film",
+        "Property": "Conductivity",
+        "Value": 0.08,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5nr01016k"
+      },
+      {
+        "Original_Name_In_Paper": "PbSe",
+        "Property": "Conductivity",
+        "Value": 301.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5nr01016k"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "PbSe",
+        "Property": "ThermCond",
+        "Value": 1.6,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.03.100"
+      },
+      {
+        "Original_Name_In_Paper": "pristine PbSe",
+        "Property": "ThermCond",
+        "Value": 4.1,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7qi00051k"
+      },
+      {
+        "Original_Name_In_Paper": "pristine PbSe",
+        "Property": "ThermCond",
+        "Value": 1.6,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7qi00051k"
+      },
+      {
+        "Original_Name_In_Paper": "PbSe\u201316 % PbS",
+        "Property": "ThermCond",
+        "Value": 1.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7qi00051k"
+      },
+      {
+        "Original_Name_In_Paper": "CdSe-free PbSe",
+        "Property": "ThermCond",
+        "Value": 4.54,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee03386b"
+      },
+      {
+        "Original_Name_In_Paper": "PbSe\u20134 % CdSe",
+        "Property": "ThermCond",
+        "Value": 2.08,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee03386b"
+      },
+      {
+        "Original_Name_In_Paper": "PbSe nanowires",
+        "Property": "ThermCond",
+        "Value": 0.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2011.01.033"
+      },
+      {
+        "Original_Name_In_Paper": "Zn-free PbSe",
+        "Property": "ThermCond",
+        "Value": 2.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2019.100102"
+      },
+      {
+        "Original_Name_In_Paper": "pristine PbSe",
+        "Property": "ThermCond",
+        "Value": 2.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta00174k"
+      },
+      {
+        "Original_Name_In_Paper": "n-type PbSe\u20133 % CdSe",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee03386b"
+      },
+      {
+        "Original_Name_In_Paper": "n-type PbSe",
+        "Property": "ZT",
+        "Value": 1.25,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2019.411797"
+      },
+      {
+        "Original_Name_In_Paper": "PbSe",
+        "Property": "Conductivity",
+        "Value": 14705.8823529412,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2011.01.033"
+      },
+      {
+        "Original_Name_In_Paper": "pure PbSe compound",
+        "Property": "Conductivity",
+        "Value": 0.005988024000000001,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2011.01.033"
+      },
+      {
+        "Original_Name_In_Paper": "PbSe\u201320 % PbS",
+        "Property": "Seebeck",
+        "Value": -5e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7qi00051k"
+      },
+      {
+        "Original_Name_In_Paper": "PbSe",
+        "Property": "Seebeck",
+        "Value": 0.000202,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2016.03.012"
+      },
+      {
+        "Original_Name_In_Paper": "pristine PbSe",
+        "Property": "Seebeck",
+        "Value": 0.0002,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.03.100"
+      },
+      {
+        "Original_Name_In_Paper": "pristine PbSe",
+        "Property": "Seebeck",
+        "Value": -0.00035000000000000005,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.03.100"
+      },
+      {
+        "Original_Name_In_Paper": "PbSe",
+        "Property": "Conductivity",
+        "Value": 105300.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2019.411797"
+      }
+    ],
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "PbSe\u201316 % PbS",
+        "Property": "ThermCond",
+        "Value": 0.9,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7qi00051k"
+      },
+      {
+        "Original_Name_In_Paper": "p-type PbSe",
+        "Property": "ZT",
+        "Value": 1.6,
+        "Units": null,
+        "Editing": "alloying with 3 % Cd",
+        "Source_DOI": "10.1016/j.pnsc.2018.05.002"
+      },
+      {
+        "Original_Name_In_Paper": "p-type PbSe",
+        "Property": "ZT",
+        "Value": 1.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ee43099e"
+      },
+      {
+        "Original_Name_In_Paper": "doped p-type PbSe",
+        "Property": "ZT",
+        "Value": 1.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ee43099e"
+      },
+      {
+        "Original_Name_In_Paper": "p-type PbSe",
+        "Property": "Seebeck",
+        "Value": 0.00025,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ee43099e"
+      },
+      {
+        "Original_Name_In_Paper": "doped n-type PbSe",
+        "Property": "Seebeck",
+        "Value": -0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ee43099e"
+      },
+      {
+        "Original_Name_In_Paper": "PbSe\u201316 % PbS",
+        "Property": "PF",
+        "Value": 0.0014600000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7qi00051k"
+      },
+      {
+        "Original_Name_In_Paper": "PbSe",
+        "Property": "PF",
+        "Value": 0.0012000000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.02.152"
+      }
+    ],
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "PbSe",
+        "Property": "ThermCond",
+        "Value": 0.7000000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta01643b"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "PbSe0.998Br0.002",
+        "Property": "ThermCond",
+        "Value": 0.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ccr.2020.213437"
+      },
+      {
+        "Original_Name_In_Paper": "PbSe-Cl",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/ncomms4640"
+      },
+      {
+        "Original_Name_In_Paper": "PbSe-Tl",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/ncomms4640"
+      },
+      {
+        "Original_Name_In_Paper": "Cr-doped PbSe",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41563-019-0499-9"
+      },
+      {
+        "Original_Name_In_Paper": "PbSe",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6cp05232k"
+      }
+    ],
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "PbSe",
+        "Property": "ThermCond",
+        "Value": 0.9500000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ccr.2020.213437"
+      },
+      {
+        "Original_Name_In_Paper": "In-doped PbSe",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pnsc.2018.05.002"
+      },
+      {
+        "Original_Name_In_Paper": "Br-doped PbSe",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2013.09.009"
+      },
+      {
+        "Original_Name_In_Paper": "n-type PbSe",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2019.100102"
+      },
+      {
+        "Original_Name_In_Paper": "Zn-free PbSe",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2019.100102"
+      },
+      {
+        "Original_Name_In_Paper": "CdSe-free PbSe",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee03386b"
+      },
+      {
+        "Original_Name_In_Paper": "PbSe\u20133 % CdSe",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee03386b"
+      },
+      {
+        "Original_Name_In_Paper": "In-doped PbSe",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtener.2018.06.010"
+      },
+      {
+        "Original_Name_In_Paper": "In-doped PbSe",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2019.411797"
+      },
+      {
+        "Original_Name_In_Paper": "2 at % B doped PbSe",
+        "Property": "Seebeck",
+        "Value": -0.00027,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtener.2018.06.010"
+      },
+      {
+        "Original_Name_In_Paper": "In-doped PbSe",
+        "Property": "Seebeck",
+        "Value": -0.000186,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtener.2018.06.010"
+      }
+    ],
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "Pb0.96Se",
+        "Property": "ThermCond",
+        "Value": 0.6000000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2018.06.030"
+      },
+      {
+        "Original_Name_In_Paper": "n-type PbSe",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/ncomms4640"
+      },
+      {
+        "Original_Name_In_Paper": "PbSe",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/ncomms4640"
+      },
+      {
+        "Original_Name_In_Paper": "p-type PbSe",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ee43438a"
+      },
+      {
+        "Original_Name_In_Paper": "PbSe",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ee43438a"
+      },
+      {
+        "Original_Name_In_Paper": "p-type PbSe",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cplett.2019.137055"
+      },
+      {
+        "Original_Name_In_Paper": "PbSe",
+        "Property": "ZT",
+        "Value": 1.65,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtener.2018.06.010"
+      },
+      {
+        "Original_Name_In_Paper": "8 % Sr-doped PbSe",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtener.2018.06.010"
+      },
+      {
+        "Original_Name_In_Paper": "p-type PbSe",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtener.2018.06.010"
+      },
+      {
+        "Original_Name_In_Paper": "8 % Sr-doped PbSe",
+        "Property": "Seebeck",
+        "Value": 0.00028000000000000003,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtener.2018.06.010"
+      }
+    ],
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "Sb-doped PbSe",
+        "Property": "ThermCond",
+        "Value": 0.36,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee01755g"
+      },
+      {
+        "Original_Name_In_Paper": "PbSe",
+        "Property": "ThermCond",
+        "Value": 0.38,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee01755g"
+      },
+      {
+        "Original_Name_In_Paper": "PbSe",
+        "Property": "ThermCond",
+        "Value": 0.36,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee01755g"
+      },
+      {
+        "Original_Name_In_Paper": "Cr-doped PbSe",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pnsc.2018.05.002"
+      }
+    ],
+    "623.0": [
+      {
+        "Original_Name_In_Paper": "PbSe",
+        "Property": "ThermCond",
+        "Value": 0.9390000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.07.292"
+      }
+    ],
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "undoped PbSe",
+        "Property": "ThermCond",
+        "Value": 0.75,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.03.117"
+      },
+      {
+        "Original_Name_In_Paper": "PbSe : Tl",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta02670c"
+      },
+      {
+        "Original_Name_In_Paper": "PbSe co-doped with Ag and Sb",
+        "Property": "ZT",
+        "Value": 1.03,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtener.2018.06.010"
+      },
+      {
+        "Original_Name_In_Paper": "PbSe",
+        "Property": "Conductivity",
+        "Value": 14700.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtener.2018.12.001"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "n-type GeSe-alloyed PbSe",
+        "Property": "ZT",
+        "Value": 1.54,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee01755g"
+      },
+      {
+        "Original_Name_In_Paper": "n-type PbSe",
+        "Property": "ZT",
+        "Value": 1.54,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee01755g"
+      },
+      {
+        "Original_Name_In_Paper": "PbSe",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s12598-017-0991-9"
+      }
+    ],
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "hole-doped PbSe",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee01755g"
+      },
+      {
+        "Original_Name_In_Paper": "doped p-type PbSe",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/ncomms4640"
+      },
+      {
+        "Original_Name_In_Paper": "p-type PbSe",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c1ee02465e"
+      },
+      {
+        "Original_Name_In_Paper": "hole-doped PbSe",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2014.03.055"
+      }
+    ],
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "PbSeAl0.01",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee01755g"
+      },
+      {
+        "Original_Name_In_Paper": "aluminum doped PbSe",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5cp06891f"
+      },
+      {
+        "Original_Name_In_Paper": "n-type Br doped PbSe",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.01.105"
+      },
+      {
+        "Original_Name_In_Paper": "Na-doped p-type PbSe",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2011.10.001"
+      },
+      {
+        "Original_Name_In_Paper": "Al-doped n-type PbSe",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2011.10.001"
+      },
+      {
+        "Original_Name_In_Paper": "Br-doped PbSe",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pnsc.2018.05.002"
+      },
+      {
+        "Original_Name_In_Paper": "Br-doped PbSe",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2013.09.009"
+      },
+      {
+        "Original_Name_In_Paper": "PbSe-Br",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/ncomms4640"
+      },
+      {
+        "Original_Name_In_Paper": "p-type PbSe",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/ncomms4640"
+      },
+      {
+        "Original_Name_In_Paper": "Aluminum doped PbSe",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra05322b"
+      },
+      {
+        "Original_Name_In_Paper": "PbSe",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-08-102687-8.00002-6"
+      },
+      {
+        "Original_Name_In_Paper": "PbSe",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5mh00021a"
+      },
+      {
+        "Original_Name_In_Paper": "Na doped PbSe",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.06.172"
+      },
+      {
+        "Original_Name_In_Paper": "PbSe",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.06.172"
+      },
+      {
+        "Original_Name_In_Paper": "Na doped-PbSe compound",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-017-8498-6"
+      },
+      {
+        "Original_Name_In_Paper": "n-type PbSe",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c1ee02465e"
+      },
+      {
+        "Original_Name_In_Paper": "PbSe",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c1ee02465e"
+      },
+      {
+        "Original_Name_In_Paper": "doped PbSe with Na",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11434-014-0237-2"
+      },
+      {
+        "Original_Name_In_Paper": "PbSe",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": "Na doping",
+        "Source_DOI": "10.1039/c2ic90019j"
+      },
+      {
+        "Original_Name_In_Paper": "PbSe doped with Na",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2016.07.002"
+      },
+      {
+        "Original_Name_In_Paper": "p-type PbSe",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ee43438a"
+      },
+      {
+        "Original_Name_In_Paper": "PbSe",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc03970c"
+      }
+    ],
+    "77.0": [
+      {
+        "Original_Name_In_Paper": "PbSe",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2012.10.005"
+      }
+    ],
+    "450.0": [
+      {
+        "Original_Name_In_Paper": "PbSe",
+        "Property": "ZT",
+        "Value": 0.28,
+        "Units": null,
+        "Editing": "% Na co-doping",
+        "Source_DOI": "10.1039/c9ta02670c"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "antimony-doped lead selenide",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/ncomms4640"
+      },
+      {
+        "Original_Name_In_Paper": "PbSe with 5 vol % SiC",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0tc00572j"
+      }
+    ],
+    "770.0": [
+      {
+        "Original_Name_In_Paper": "PbSe-Ag",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/ncomms4640"
+      }
+    ],
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "Nb-doped Pb1.04Se",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.02.077"
+      },
+      {
+        "Original_Name_In_Paper": "Nb-doped PbSe",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtener.2018.06.010"
+      }
+    ],
+    "550.0": [
+      {
+        "Original_Name_In_Paper": "pristine PbSe",
+        "Property": "ZT",
+        "Value": 0.5700000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-020-03245-6"
+      },
+      {
+        "Original_Name_In_Paper": "10 wt % TiB2 incorporated PbSe",
+        "Property": "Seebeck",
+        "Value": -0.00034199999999999996,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.03.100"
+      }
+    ],
+    "930.0": [
+      {
+        "Original_Name_In_Paper": "PbSe",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra05322b"
+      }
+    ],
+    "813.0": [
+      {
+        "Original_Name_In_Paper": "PbSe ( with 2 % Na",
+        "Property": "ZT",
+        "Value": 0.58,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.06.172"
+      },
+      {
+        "Original_Name_In_Paper": "PbSe ( with 2 % Na",
+        "Property": "ZT",
+        "Value": 0.58,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.06.172"
+      },
+      {
+        "Original_Name_In_Paper": "PbSe-SrSe alloy with 6 % Sr",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.06.172"
+      },
+      {
+        "Original_Name_In_Paper": "PbSe",
+        "Property": "ZT",
+        "Value": 1.45,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee00418h"
+      },
+      {
+        "Original_Name_In_Paper": "n-type PbSe-based materials",
+        "Property": "ZT",
+        "Value": 1.45,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee00418h"
+      }
+    ],
+    "875.0": [
+      {
+        "Original_Name_In_Paper": "PbSe alloy",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2016.07.002"
+      }
+    ],
+    "650.0": [
+      {
+        "Original_Name_In_Paper": "p-type PbSe",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtener.2018.06.010"
+      }
+    ],
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "Polycrystalline n-type PbSe",
+        "Property": "ZT",
+        "Value": 1.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9sc00485h"
+      },
+      {
+        "Original_Name_In_Paper": "0.01 wt % of Tl doped PbSe",
+        "Property": "Seebeck",
+        "Value": 0.000248,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtener.2018.06.010"
+      },
+      {
+        "Original_Name_In_Paper": "PbSe\u201312 % PbS",
+        "Property": "PF",
+        "Value": 0.0017200000000000002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7qi00051k"
+      }
+    ],
+    "775.0": [
+      {
+        "Original_Name_In_Paper": "PbSe",
+        "Property": "ZT",
+        "Value": 1.6,
+        "Units": null,
+        "Editing": "introducing Ag2Te",
+        "Source_DOI": "10.1016/j.physb.2019.411797"
+      }
+    ],
+    "858.0": [
+      {
+        "Original_Name_In_Paper": "pristine PbSe",
+        "Property": "ZT",
+        "Value": 1.65,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.105232"
+      }
+    ],
+    "293.0": [
+      {
+        "Original_Name_In_Paper": "PbSe thin film",
+        "Property": "Seebeck",
+        "Value": 0.000137,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-016-4473-x"
+      }
+    ],
+    "380.0": [
+      {
+        "Original_Name_In_Paper": "PbSe",
+        "Property": "Seebeck",
+        "Value": -0.0005126,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2017.11.002"
+      }
+    ],
+    "460.0": [
+      {
+        "Original_Name_In_Paper": "PbSe",
+        "Property": "PF",
+        "Value": 9.499999999999999e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5nr01016k"
+      }
+    ],
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "PbSe",
+        "Property": "Conductivity",
+        "Value": 120.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ce00714j"
+      }
+    ]
+  }
+}

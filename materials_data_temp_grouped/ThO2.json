@@ -1,0 +1,29 @@
+{
+  "Material": "ThO2",
+  "DOIs_Researched": [
+    "10.1038/ncomms5551",
+    "10.1016/j.jnucmat.2018.08.054"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "ThO2",
+        "Property": "ThermCond",
+        "Value": 1.81,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jnucmat.2018.08.054"
+      }
+    ],
+    "40.0": [
+      {
+        "Original_Name_In_Paper": "ThO2",
+        "Property": "ThermCond",
+        "Value": 140.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/ncomms5551"
+      }
+    ]
+  }
+}

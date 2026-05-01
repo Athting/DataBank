@@ -1,0 +1,56 @@
+{
+  "doi": "10.1039/c8se00395e",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Dy0.4Co3.2Ni0.8Sb12"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "Dy0.4Co3.2Ni0.8Sb12",
+          "value": 135135.1351351351,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Dy0.4Co3.2Ni0.8Sb12",
+          "zt_value": 1.4,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Dy0.4Co3.2Ni0.8Sb12",
+          "zt_value": 1.4,
+          "temperature": "773.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

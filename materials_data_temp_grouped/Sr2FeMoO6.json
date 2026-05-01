@@ -1,0 +1,40 @@
+{
+  "Material": "Sr2FeMoO6",
+  "DOIs_Researched": [
+    "10.1039/c9cc00926d",
+    "10.1016/j.ijhydene.2017.12.134",
+    "10.1016/j.progsolidstchem.2014.08.001"
+  ],
+  "Data_By_Temperature": {
+    "1100.0": [
+      {
+        "Original_Name_In_Paper": "Sr2FeMoO6",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.progsolidstchem.2014.08.001"
+      }
+    ],
+    "660.0": [
+      {
+        "Original_Name_In_Paper": "Sr2FeMoO6",
+        "Property": "Seebeck",
+        "Value": -4.7e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9cc00926d"
+      }
+    ],
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "Sr2FeMoO6",
+        "Property": "Conductivity",
+        "Value": 30600.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ijhydene.2017.12.134"
+      }
+    ]
+  }
+}

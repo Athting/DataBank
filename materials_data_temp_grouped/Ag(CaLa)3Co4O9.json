@@ -1,0 +1,18 @@
+{
+  "Material": "Ag(CaLa)3Co4O9",
+  "DOIs_Researched": [
+    "10.1016/j.physb.2011.05.006"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "Ag-added (Ca0.975La0.025)3Co4O9",
+        "Property": "PF",
+        "Value": 0.0005,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2011.05.006"
+      }
+    ]
+  }
+}

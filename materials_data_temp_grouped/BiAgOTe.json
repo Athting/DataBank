@@ -1,0 +1,44 @@
+{
+  "Material": "BiAgOTe",
+  "DOIs_Researched": [
+    "10.1016/j.commatsci.2019.109273"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "BiAgOTe",
+        "Property": "ThermCond",
+        "Value": 0.63,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2019.109273"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "BiAgOTe",
+        "Property": "ZT",
+        "Value": 1.75,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2019.109273"
+      },
+      {
+        "Original_Name_In_Paper": "BiAgOTe",
+        "Property": "ZT",
+        "Value": 0.16,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2019.109273"
+      },
+      {
+        "Original_Name_In_Paper": "BiAgOTe",
+        "Property": "ZT",
+        "Value": 1.75,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2019.109273"
+      }
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "Material": "PVDF",
+  "DOIs_Researched": [
+    "10.1016/B978-0-12-803581-8.10426-6",
+    "10.1039/c9ta13152c",
+    "10.1039/c7ta11285h",
+    "10.1016/j.physb.2020.412275"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "PVDF",
+        "Property": "ThermCond",
+        "Value": 0.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2020.412275"
+      },
+      {
+        "Original_Name_In_Paper": "PVDF",
+        "Property": "PF",
+        "Value": 4.5799999999999995e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ta11285h"
+      },
+      {
+        "Original_Name_In_Paper": "PVDF",
+        "Property": "Conductivity",
+        "Value": 480.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-12-803581-8.10426-6"
+      }
+    ],
+    "393.0": [
+      {
+        "Original_Name_In_Paper": "PVDF",
+        "Property": "PF",
+        "Value": 0.00025,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta13152c"
+      }
+    ]
+  }
+}

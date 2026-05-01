@@ -1,0 +1,18 @@
+{
+  "Material": "FeCoGa2Ge",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2014.04.117"
+  ],
+  "Data_By_Temperature": {
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "Fe0.99Co0.01Ga2.991Ge0.009",
+        "Property": "ZT",
+        "Value": 0.01,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.04.117"
+      }
+    ]
+  }
+}

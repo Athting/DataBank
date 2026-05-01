@@ -1,0 +1,28 @@
+{
+  "Material": "Sn0.98Pb0.01Te",
+  "DOIs_Researched": [
+    "10.1039/d0nr00495b"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.98Pb0.01In0.01Te",
+        "Property": "ThermCond",
+        "Value": 1.88,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0nr00495b"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Sn0.98Pb0.01In0.01Te",
+        "Property": "Conductivity",
+        "Value": 370000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0nr00495b"
+      }
+    ]
+  }
+}

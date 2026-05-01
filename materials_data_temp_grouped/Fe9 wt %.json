@@ -1,0 +1,18 @@
+{
+  "Material": "Fe9 wt %",
+  "DOIs_Researched": [
+    "10.1016/j.pepi.2017.01.005"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Fe9 wt %",
+        "Property": "ThermCond",
+        "Value": 67.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pepi.2017.01.005"
+      }
+    ]
+  }
+}

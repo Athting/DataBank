@@ -1,0 +1,59 @@
+{
+  "doi": "10.1038/35098012",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "PbSe0.98Te0.02 / PbTe"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "PbSe0.98Te0.02 / PbTe",
+          "zt_value": 1.3,
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbSe0.98Te0.02 / PbTe",
+          "zt_value": 0.9,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "PbSe0.98Te0.02 / PbTe",
+          "zt_value": 0.9,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "PbSe0.98Te0.02 / PbTe",
+          "zt_value": 1.6,
+          "temperature": "299.7 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

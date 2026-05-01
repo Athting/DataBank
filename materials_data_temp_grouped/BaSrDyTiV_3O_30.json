@@ -1,0 +1,26 @@
+{
+  "Material": "BaSrDyTiV_3O_30",
+  "DOIs_Researched": [
+    "10.1016/S0925-8388(09)01720-4"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ba 5H11002x Sr x DyTi 3 V 7 O 30",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(09)01720-4"
+      },
+      {
+        "Original_Name_In_Paper": "Ba 5H11002x Sr x DyTi 3 V 7 O 30",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(09)01720-4"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Bi0.99Ag0.04Te0.96Se0.04",
+  "DOIs_Researched": [
+    "10.1007/s11664-011-1568-2"
+  ],
+  "Data_By_Temperature": {
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "Bulk (Bi0.99Ag0.04)2(Te0.96Se0.04)3",
+        "Property": "ZT",
+        "Value": 0.74,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-011-1568-2"
+      }
+    ]
+  }
+}

@@ -1,0 +1,607 @@
+{
+  "Material": "Cu1.8S",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2018.06.116",
+    "10.1016/j.jallcom.2017.09.305",
+    "10.1016/j.jallcom.2017.02.295",
+    "10.1016/j.jallcom.2017.08.224",
+    "10.1007/s40145-020-0385-6",
+    "10.1039/c8nr05558k",
+    "10.1039/c9tc00819e",
+    "10.1016/j.mssp.2019.104848",
+    "10.1039/c1cc16368j",
+    "10.1016/j.ensm.2016.01.009",
+    "10.1016/j.jallcom.2016.04.140",
+    "10.1039/c9ce00936a",
+    "10.1039/c8ta03195a",
+    "10.1016/j.apsusc.2016.11.106",
+    "10.1016/j.solidstatesciences.2019.105953",
+    "10.1016/j.jallcom.2016.11.331",
+    "10.1016/j.mtphys.2019.01.003",
+    "10.1016/j.ceramint.2016.08.061",
+    "10.1016/j.cogsc.2017.02.007",
+    "10.1039/c7qi00208d"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Cu1.8S",
+        "Property": "ThermCond",
+        "Value": 1.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.09.305"
+      },
+      {
+        "Original_Name_In_Paper": "Cu1.8S",
+        "Property": "ThermCond",
+        "Value": 1.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.02.295"
+      },
+      {
+        "Original_Name_In_Paper": "Cu1.8S",
+        "Property": "Seebeck",
+        "Value": 1.4999999999999999e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.09.305"
+      },
+      {
+        "Original_Name_In_Paper": "Cu1.8S",
+        "Property": "Seebeck",
+        "Value": 1.4999999999999999e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.02.295"
+      },
+      {
+        "Original_Name_In_Paper": "Cu1.8S",
+        "Property": "Conductivity",
+        "Value": 280000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.09.305"
+      },
+      {
+        "Original_Name_In_Paper": "Cu1.8S",
+        "Property": "Conductivity",
+        "Value": 280000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.02.295"
+      }
+    ],
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "Cu1.8S",
+        "Property": "ThermCond",
+        "Value": 2.21,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.09.305"
+      },
+      {
+        "Original_Name_In_Paper": "pristine Cu1.8S",
+        "Property": "ThermCond",
+        "Value": 4.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.08.224"
+      },
+      {
+        "Original_Name_In_Paper": "Cu1.8S",
+        "Property": "ThermCond",
+        "Value": 2.21,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.02.295"
+      },
+      {
+        "Original_Name_In_Paper": "Cu1.8S",
+        "Property": "ThermCond",
+        "Value": 1.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2016.08.061"
+      },
+      {
+        "Original_Name_In_Paper": "Cu1.8S",
+        "Property": "ThermCond",
+        "Value": 1.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2016.08.061"
+      },
+      {
+        "Original_Name_In_Paper": "Cu1.8S",
+        "Property": "ThermCond",
+        "Value": 2.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2016.08.061"
+      },
+      {
+        "Original_Name_In_Paper": "pure Cu1.8S bulk",
+        "Property": "Seebeck",
+        "Value": 9.6e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.11.331"
+      },
+      {
+        "Original_Name_In_Paper": "pure Cu1.8S bulk",
+        "Property": "Conductivity",
+        "Value": 356000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2019.105953"
+      }
+    ],
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "pristine Cu1.8S",
+        "Property": "ThermCond",
+        "Value": 2.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.08.224"
+      },
+      {
+        "Original_Name_In_Paper": "pristine Cu1.8S",
+        "Property": "ZT",
+        "Value": 0.32,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.08.224"
+      },
+      {
+        "Original_Name_In_Paper": "Pure Cu1.8S",
+        "Property": "ZT",
+        "Value": 0.31,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.08.224"
+      },
+      {
+        "Original_Name_In_Paper": "pristine Cu1.8S",
+        "Property": "ZT",
+        "Value": 0.32,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.08.224"
+      },
+      {
+        "Original_Name_In_Paper": "pure Cu1.8S",
+        "Property": "PF",
+        "Value": 0.00099,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.08.224"
+      }
+    ],
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "bulk Cu1.8S",
+        "Property": "ThermCond",
+        "Value": 1.15,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ce00936a"
+      },
+      {
+        "Original_Name_In_Paper": "pristine Cu1.8S",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.11.331"
+      },
+      {
+        "Original_Name_In_Paper": "pristine Cu1.8S",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2019.01.003"
+      },
+      {
+        "Original_Name_In_Paper": "pristine Cu1.8S",
+        "Property": "ZT",
+        "Value": 0.26,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2016.08.061"
+      },
+      {
+        "Original_Name_In_Paper": "Cu1.8S",
+        "Property": "ZT",
+        "Value": 0.26,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2016.08.061"
+      },
+      {
+        "Original_Name_In_Paper": "pristine Cu1.8S",
+        "Property": "ZT",
+        "Value": 0.26,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2016.08.061"
+      },
+      {
+        "Original_Name_In_Paper": "pure Cu1.8S",
+        "Property": "ZT",
+        "Value": 0.61,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.02.295"
+      },
+      {
+        "Original_Name_In_Paper": "pristine Cu1.8S",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.02.295"
+      },
+      {
+        "Original_Name_In_Paper": "bulk Cu1.8S",
+        "Property": "ZT",
+        "Value": 0.49,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ce00936a"
+      },
+      {
+        "Original_Name_In_Paper": "pure Cu1.8S bulk",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ce00936a"
+      },
+      {
+        "Original_Name_In_Paper": "Cu1.8S",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8nr05558k"
+      },
+      {
+        "Original_Name_In_Paper": "pristine Cu1.8S",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.09.305"
+      },
+      {
+        "Original_Name_In_Paper": "Cu1.8S",
+        "Property": "ZT",
+        "Value": 0.61,
+        "Units": null,
+        "Editing": "Bi3+ doping",
+        "Source_DOI": "10.1016/j.jallcom.2017.09.305"
+      },
+      {
+        "Original_Name_In_Paper": "Cu1.8S",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c1cc16368j"
+      },
+      {
+        "Original_Name_In_Paper": "bulk Cu1.8S",
+        "Property": "Seebeck",
+        "Value": 7.3e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ce00936a"
+      },
+      {
+        "Original_Name_In_Paper": "pure Cu1.8S",
+        "Property": "Seebeck",
+        "Value": 0.0017100000000000001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.02.295"
+      },
+      {
+        "Original_Name_In_Paper": "Cu1.8S",
+        "Property": "PF",
+        "Value": 0.000821,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2016.08.061"
+      },
+      {
+        "Original_Name_In_Paper": "Cu1.8S",
+        "Property": "Conductivity",
+        "Value": 327200.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2016.08.061"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "pristine Cu1.8S",
+        "Property": "ThermCond",
+        "Value": 1.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2019.01.003"
+      },
+      {
+        "Original_Name_In_Paper": "pristine Cu1.8S",
+        "Property": "ZT",
+        "Value": 0.49,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.11.331"
+      },
+      {
+        "Original_Name_In_Paper": "pristine Cu1.8S",
+        "Property": "ZT",
+        "Value": 0.45,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2019.01.003"
+      },
+      {
+        "Original_Name_In_Paper": "pristine Cu1.8S",
+        "Property": "ZT",
+        "Value": 0.45,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2019.01.003"
+      },
+      {
+        "Original_Name_In_Paper": "Cu1.8S + 2 % LaCl3",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta03195a"
+      },
+      {
+        "Original_Name_In_Paper": "Cu1.8S with 2 wt % LaCl3",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta03195a"
+      },
+      {
+        "Original_Name_In_Paper": "Cu1.8S + 2 % LaCl3",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta03195a"
+      },
+      {
+        "Original_Name_In_Paper": "Cu1.8S",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cogsc.2017.02.007"
+      },
+      {
+        "Original_Name_In_Paper": "Cu1.8S+2 wt % Na2S",
+        "Property": "ZT",
+        "Value": 0.78,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2019.104848"
+      },
+      {
+        "Original_Name_In_Paper": "pristine Cu1.8S",
+        "Property": "ZT",
+        "Value": 0.49,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2019.104848"
+      },
+      {
+        "Original_Name_In_Paper": "pure Cu1.8S",
+        "Property": "ZT",
+        "Value": 0.49,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2019.104848"
+      },
+      {
+        "Original_Name_In_Paper": "pristine Cu1.8S",
+        "Property": "ZT",
+        "Value": 0.54,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.04.140"
+      },
+      {
+        "Original_Name_In_Paper": "pristine Cu1.8S",
+        "Property": "ZT",
+        "Value": 0.54,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.04.140"
+      },
+      {
+        "Original_Name_In_Paper": "pristine Cu1.8S",
+        "Property": "ZT",
+        "Value": 0.54,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.04.140"
+      },
+      {
+        "Original_Name_In_Paper": "pristine Cu1.8S",
+        "Property": "ZT",
+        "Value": 0.54,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.04.140"
+      },
+      {
+        "Original_Name_In_Paper": "Cu1.8S",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ensm.2016.01.009"
+      },
+      {
+        "Original_Name_In_Paper": "pristine Cu1.8S",
+        "Property": "ZT",
+        "Value": 0.49,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.06.116"
+      },
+      {
+        "Original_Name_In_Paper": "pure Cu1.8S",
+        "Property": "ZT",
+        "Value": 0.49,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.06.116"
+      },
+      {
+        "Original_Name_In_Paper": "pure Cu1.8S",
+        "Property": "ZT",
+        "Value": 0.49,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2019.105953"
+      },
+      {
+        "Original_Name_In_Paper": "pure Cu1.8S",
+        "Property": "ZT",
+        "Value": 0.49,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2019.105953"
+      },
+      {
+        "Original_Name_In_Paper": "Cu1.8S bulk samples with PbS",
+        "Property": "Seebeck",
+        "Value": 0.00010499999999999999,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.06.116"
+      },
+      {
+        "Original_Name_In_Paper": "Cu1.8S with 1 wt % PrCl3",
+        "Property": "Seebeck",
+        "Value": 0.000135,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta03195a"
+      },
+      {
+        "Original_Name_In_Paper": "Cu1.8S with 2 % Na2S",
+        "Property": "Seebeck",
+        "Value": 0.000106,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2019.104848"
+      },
+      {
+        "Original_Name_In_Paper": "pristine Cu1.8S bulk",
+        "Property": "PF",
+        "Value": 0.0012000000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2019.01.003"
+      },
+      {
+        "Original_Name_In_Paper": "pure Cu1.8S",
+        "Property": "PF",
+        "Value": 0.001237,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.11.331"
+      },
+      {
+        "Original_Name_In_Paper": "pure Cu1.8S",
+        "Property": "PF",
+        "Value": 0.0012000000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2019.105953"
+      },
+      {
+        "Original_Name_In_Paper": "bulk Cu1.8S",
+        "Property": "PF",
+        "Value": 0.001552,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7qi00208d"
+      },
+      {
+        "Original_Name_In_Paper": "pristine Cu1.8S",
+        "Property": "PF",
+        "Value": 0.001237,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.06.116"
+      }
+    ],
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Cu1.8S",
+        "Property": "ZT",
+        "Value": 1.56,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc00819e"
+      }
+    ],
+    "623.0": [
+      {
+        "Original_Name_In_Paper": "Cu1.8S",
+        "Property": "ZT",
+        "Value": 0.13,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s40145-020-0385-6"
+      }
+    ],
+    "1173.0": [
+      {
+        "Original_Name_In_Paper": "Cu1.8S",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2016.08.061"
+      }
+    ],
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "Cu1.8S compounds",
+        "Property": "Seebeck",
+        "Value": 1e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2016.11.106"
+      }
+    ],
+    "375.0": [
+      {
+        "Original_Name_In_Paper": "pure Cu1.8S bulk",
+        "Property": "Conductivity",
+        "Value": 350000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.08.224"
+      }
+    ]
+  }
+}

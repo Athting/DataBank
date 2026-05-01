@@ -1,0 +1,26 @@
+{
+  "Material": "La0.975Sr0.025Co0.0975",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2014.04.123"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "La0.975Sr0.025Co0.0975Mg0.025O3",
+        "Property": "ZT",
+        "Value": 0.047,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2014.04.123"
+      },
+      {
+        "Original_Name_In_Paper": "La0.975Sr0.025Co0.0975Mg0.025O3",
+        "Property": "ZT",
+        "Value": 0.047,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2014.04.123"
+      }
+    ]
+  }
+}

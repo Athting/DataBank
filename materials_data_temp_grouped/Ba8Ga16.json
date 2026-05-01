@@ -1,0 +1,18 @@
+{
+  "Material": "Ba8Ga16",
+  "DOIs_Researched": [
+    "10.1134/S0036024419130272"
+  ],
+  "Data_By_Temperature": {
+    "540.0": [
+      {
+        "Original_Name_In_Paper": "Ba8Ga16",
+        "Property": "ZT",
+        "Value": 1.35,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1134/S0036024419130272"
+      }
+    ]
+  }
+}

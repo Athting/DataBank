@@ -1,0 +1,73 @@
+{
+  "Material": "BaCuSeTe",
+  "DOIs_Researched": [
+    "10.1039/c8tc05038d",
+    "10.1039/c9dt01616c"
+  ],
+  "Data_By_Temperature": {
+    "305.0": [
+      {
+        "Original_Name_In_Paper": "BaCu5.74Se0.46Te6.54",
+        "Property": "ThermCond",
+        "Value": 0.51,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9dt01616c"
+      }
+    ],
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "selenide\u2013telluride BaCu5.9SeTe6",
+        "Property": "ZT",
+        "Value": 0.81,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8tc05038d"
+      }
+    ],
+    "580.0": [
+      {
+        "Original_Name_In_Paper": "BaCu5.74Se0.46Te6.54",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9dt01616c"
+      },
+      {
+        "Original_Name_In_Paper": "BaCu5.74Se0.46Te6.54",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9dt01616c"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "BaCu5.74Se0.46Te6.54",
+        "Property": "Seebeck",
+        "Value": 4.9e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9dt01616c"
+      },
+      {
+        "Original_Name_In_Paper": "BaCu5.74Se0.46Te6.54",
+        "Property": "PF",
+        "Value": 0.0006500000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9dt01616c"
+      },
+      {
+        "Original_Name_In_Paper": "BaCu5.74Se0.46Te6.54",
+        "Property": "Conductivity",
+        "Value": 68500.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9dt01616c"
+      }
+    ]
+  }
+}

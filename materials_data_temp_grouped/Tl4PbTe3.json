@@ -1,0 +1,18 @@
+{
+  "Material": "Tl4PbTe3",
+  "DOIs_Researched": [
+    "10.1557/PROC-0886-F09-06"
+  ],
+  "Data_By_Temperature": {
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "Tl4PbTe3",
+        "Property": "ZT",
+        "Value": 0.71,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1557/PROC-0886-F09-06"
+      }
+    ]
+  }
+}

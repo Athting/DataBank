@@ -1,0 +1,18 @@
+{
+  "Material": "CuSe \\* 1.95: I \\* 0.02",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2018.08.291"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Cu1.95Se0.98I0.02",
+        "Property": "Conductivity",
+        "Value": 30000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.08.291"
+      }
+    ]
+  }
+}

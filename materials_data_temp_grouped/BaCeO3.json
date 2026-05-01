@@ -1,0 +1,40 @@
+{
+  "Material": "BaCeO3",
+  "DOIs_Researched": [
+    "10.1016/j.ijhydene.2016.12.087",
+    "10.1016/j.jnucmat.2005.04.017",
+    "10.1533/9780857098658.4.237"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "BaCeO3",
+        "Property": "ThermCond",
+        "Value": 1.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jnucmat.2005.04.017"
+      }
+    ],
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Y-doped BaCeO3",
+        "Property": "Conductivity",
+        "Value": 4.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ijhydene.2016.12.087"
+      }
+    ],
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "BaCe0.8Y0.2O3",
+        "Property": "Conductivity",
+        "Value": 0.329,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1533/9780857098658.4.237"
+      }
+    ]
+  }
+}

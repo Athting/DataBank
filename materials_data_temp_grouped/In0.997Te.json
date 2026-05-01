@@ -1,0 +1,18 @@
+{
+  "Material": "In0.997Te",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2019.152210"
+  ],
+  "Data_By_Temperature": {
+    "623.0": [
+      {
+        "Original_Name_In_Paper": "In0.997Te",
+        "Property": "PF",
+        "Value": 0.0004900000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.152210"
+      }
+    ]
+  }
+}

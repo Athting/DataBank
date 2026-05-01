@@ -1,0 +1,18 @@
+{
+  "Material": "rare-earth B",
+  "DOIs_Researched": [
+    "10.1007/s10853-012-6911-3"
+  ],
+  "Data_By_Temperature": {
+    "2300.0": [
+      {
+        "Original_Name_In_Paper": "rare-earth B",
+        "Property": "ThermCond",
+        "Value": 1.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-012-6911-3"
+      }
+    ]
+  }
+}

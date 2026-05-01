@@ -1,0 +1,18 @@
+{
+  "Material": "In0.2Ce0.15Co4Sb12",
+  "DOIs_Researched": [
+    "10.1557/jmr.2011.163"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "In0.2Ce0.15Co4Sb12",
+        "Property": "ZT",
+        "Value": 1.43,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1557/jmr.2011.163"
+      }
+    ]
+  }
+}

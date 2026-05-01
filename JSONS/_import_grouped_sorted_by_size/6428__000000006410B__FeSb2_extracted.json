@@ -1,0 +1,243 @@
+{
+  "doi": "10.1016/j.ijthermalsci.2013.03.009",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "FeSb2",
+        "FeSb2 single crystals",
+        "undoped FeSb2 single crystals",
+        "FeSb2 single crystal",
+        "single crystalline FeSb2",
+        "single crystal FeSb2",
+        "FeSb2 of − 10",
+        "n and p-types FeSb2"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "FeSb2",
+          "value": -0.045,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "10.0 K"
+        },
+        {
+          "material": "FeSb2",
+          "value": -0.045,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "10.0 K"
+        },
+        {
+          "material": "FeSb2",
+          "value": 0.045,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "10.0 K"
+        },
+        {
+          "material": "single crystalline FeSb2",
+          "value": -0.045,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "10.0 K"
+        },
+        {
+          "material": "FeSb2",
+          "value": -0.045,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "10.0 K"
+        },
+        {
+          "material": "single crystal FeSb2",
+          "value": -0.045,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "10.0 K"
+        },
+        {
+          "material": "FeSb2",
+          "value": -0.045,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "10.0 K"
+        },
+        {
+          "material": "FeSb2 of − 10",
+          "value": -0.045,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "10.0 K"
+        },
+        {
+          "material": "FeSb2",
+          "value": 0.045,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "10.0 K"
+        },
+        {
+          "material": "FeSb2 single crystals",
+          "value": -0.04,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "10.0 K"
+        },
+        {
+          "material": "FeSb2 single crystals",
+          "value": -0.045,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "10.0 K"
+        },
+        {
+          "material": "FeSb2 single crystals",
+          "value": -0.045,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "10.0 K"
+        },
+        {
+          "material": "FeSb2",
+          "value": 0.007,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "15.0 K"
+        },
+        {
+          "material": "FeSb2 single crystals",
+          "value": -0.045,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "12.0 K"
+        },
+        {
+          "material": "FeSb2",
+          "value": 0.000022,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "190.0 K"
+        },
+        {
+          "material": "FeSb2",
+          "value": -0.000084,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "20.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "FeSb2",
+          "value": 63000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "100.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "FeSb2",
+          "value": 500,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "10.0 K"
+        },
+        {
+          "material": "FeSb2",
+          "value": 500,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "10.0 K"
+        },
+        {
+          "material": "FeSb2",
+          "value": 1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "10.0 K"
+        },
+        {
+          "material": "FeSb2 single crystals",
+          "value": 300,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "10.0 K"
+        },
+        {
+          "material": "FeSb2",
+          "value": 300,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "15.0 K"
+        },
+        {
+          "material": "FeSb2",
+          "value": 7.08,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "100.0 K"
+        },
+        {
+          "material": "single crystal FeSb2",
+          "value": 30,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "100.0 K"
+        },
+        {
+          "material": "FeSb2",
+          "value": 2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "80.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "FeSb2",
+          "value": 0.1,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "10.0 K"
+        },
+        {
+          "material": "FeSb2 single crystals",
+          "value": 0.23,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "10.0 K"
+        },
+        {
+          "material": "FeSb2",
+          "value": 0.23,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "10.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "undoped FeSb2 single crystals",
+          "zt_value": 0.005,
+          "temperature": "10.0 K"
+        },
+        {
+          "material": "FeSb2 single crystal",
+          "zt_value": 0.005,
+          "temperature": "10.0 K"
+        },
+        {
+          "material": "FeSb2",
+          "zt_value": 0.005,
+          "temperature": "10.0 K"
+        },
+        {
+          "material": "FeSb2",
+          "zt_value": 0.013000000000000001,
+          "temperature": "100.0 K"
+        },
+        {
+          "material": "n and p-types FeSb2",
+          "zt_value": 0.79,
+          "temperature": "380.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

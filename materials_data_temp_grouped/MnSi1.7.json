@@ -1,0 +1,76 @@
+{
+  "Material": "MnSi1.7",
+  "DOIs_Researched": [
+    "10.1016/j.matchemphys.2010.01.016",
+    "10.1016/j.matchemphys.2014.03.035",
+    "10.1007/s00339-013-7794-0"
+  ],
+  "Data_By_Temperature": {
+    "633.0": [
+      {
+        "Original_Name_In_Paper": "Al modulation doped MnSi1.7 film",
+        "Property": "Seebeck",
+        "Value": 0.000203,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s00339-013-7794-0"
+      }
+    ],
+    "783.0": [
+      {
+        "Original_Name_In_Paper": "doped MnSi1.7 film",
+        "Property": "PF",
+        "Value": 0.000558,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2014.03.035"
+      },
+      {
+        "Original_Name_In_Paper": "p-type bulk MnSi1.7 materials",
+        "Property": "PF",
+        "Value": 0.0024000000000000002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2010.01.016"
+      }
+    ],
+    "533.0": [
+      {
+        "Original_Name_In_Paper": "nano-scale n-type MnSi1.7 film",
+        "Property": "PF",
+        "Value": 0.0036000000000000003,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2010.01.016"
+      },
+      {
+        "Original_Name_In_Paper": "nano-scale n-type MnSi1.7 film",
+        "Property": "PF",
+        "Value": 0.0036000000000000003,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2010.01.016"
+      }
+    ],
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "p-type bulk MnSi1.7 materials",
+        "Property": "PF",
+        "Value": 0.0024000000000000002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2010.01.016"
+      }
+    ],
+    "683.0": [
+      {
+        "Original_Name_In_Paper": "n-type MnSi1.7 films",
+        "Property": "PF",
+        "Value": 0.001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2010.01.016"
+      }
+    ]
+  }
+}

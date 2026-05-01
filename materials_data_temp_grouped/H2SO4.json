@@ -1,0 +1,29 @@
+{
+  "Material": "H2SO4",
+  "DOIs_Researched": [
+    "10.1039/c7cs00505a",
+    "10.1016/j.enconman.2017.09.036"
+  ],
+  "Data_By_Temperature": {
+    "363.0": [
+      {
+        "Original_Name_In_Paper": "sulfuric acid",
+        "Property": "Conductivity",
+        "Value": 2000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.enconman.2017.09.036"
+      }
+    ],
+    "293.0": [
+      {
+        "Original_Name_In_Paper": "PVA / H2SO4",
+        "Property": "Conductivity",
+        "Value": 2.49,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cs00505a"
+      }
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "Material": "AgNaSe2",
+  "DOIs_Researched": [
+    "10.1039/c4dt03059a"
+  ],
+  "Data_By_Temperature": {
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "AgNa0.01Sb0.99Se2",
+        "Property": "ZT",
+        "Value": 0.92,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4dt03059a"
+      },
+      {
+        "Original_Name_In_Paper": "AgNa0.01Sb0.99Se2",
+        "Property": "ZT",
+        "Value": 0.92,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4dt03059a"
+      }
+    ],
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "AgNa0.01Sb0.99Se2",
+        "Property": "PF",
+        "Value": 0.0005700000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4dt03059a"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "AgNa0.01Sb0.99Se2",
+        "Property": "Conductivity",
+        "Value": 6000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4dt03059a"
+      },
+      {
+        "Original_Name_In_Paper": "AgNa0.02Sb0.98Se2",
+        "Property": "Conductivity",
+        "Value": 4600.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4dt03059a"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Material": "Cu1.8GeSe3",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2017.06.133"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Cu1.8GeSe3",
+        "Property": "Seebeck",
+        "Value": 0.000223,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.06.133"
+      },
+      {
+        "Original_Name_In_Paper": "Cu1.8GeSe3",
+        "Property": "Conductivity",
+        "Value": 1968.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.06.133"
+      }
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "doi": "10.1016/j.ensm.2018.01.006",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Cu13.5Sb4S13"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "Cu13.5Sb4S13",
+          "value": 0.000188,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "723.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Cu13.5Sb4S13",
+          "zt_value": 1,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "Cu13.5Sb4S13",
+          "zt_value": 1,
+          "temperature": "723.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

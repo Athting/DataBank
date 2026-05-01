@@ -1,0 +1,69 @@
+{
+  "doi": "10.1039/c8tc06601a",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Tl2O",
+        "single layer p-type Tl2O",
+        "single-layer Tl2O",
+        "p-type Tl2O"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Tl2O",
+          "value": 0.49,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "single layer p-type Tl2O",
+          "zt_value": 2,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "single-layer Tl2O",
+          "zt_value": 1.9,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "p-type Tl2O",
+          "zt_value": 1.9,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Tl2O",
+          "zt_value": 1.9,
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

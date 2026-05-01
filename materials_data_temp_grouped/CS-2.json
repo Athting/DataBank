@@ -1,0 +1,28 @@
+{
+  "Material": "CS-2",
+  "DOIs_Researched": [
+    "10.1007/s10854-012-0754-1"
+  ],
+  "Data_By_Temperature": {
+    "650.0": [
+      {
+        "Original_Name_In_Paper": "CS-2",
+        "Property": "ZT",
+        "Value": 0.11,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-012-0754-1"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "CS-2",
+        "Property": "Conductivity",
+        "Value": 6655.5740432612,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-012-0754-1"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "AgPb18SbTe20\u2212xSex",
+  "DOIs_Researched": [
+    "10.1016/j.cap.2011.05.035"
+  ],
+  "Data_By_Temperature": {
+    "623.0": [
+      {
+        "Original_Name_In_Paper": "AgPb18SbTe20\u2212xSex",
+        "Property": "ZT",
+        "Value": 0.78,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2011.05.035"
+      }
+    ]
+  }
+}

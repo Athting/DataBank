@@ -1,0 +1,18 @@
+{
+  "Material": "Nd2FeMnSe2O3",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2014.08.145"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Nd2FeMnSe2O3",
+        "Property": "ZT",
+        "Value": 3.0000000000000004e-05,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.08.145"
+      }
+    ]
+  }
+}

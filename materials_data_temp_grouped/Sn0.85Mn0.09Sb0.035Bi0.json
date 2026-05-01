@@ -1,0 +1,61 @@
+{
+  "Material": "Sn0.85Mn0.09Sb0.035Bi0",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2019.07.220",
+    "10.1007/s12648-020-01849-6"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.85Mn0.09Sb0.035Bi0.025Te",
+        "Property": "ThermCond",
+        "Value": 1.62,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s12648-020-01849-6"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.85Mn0.09Sb0.035Bi0.025Te",
+        "Property": "ThermCond",
+        "Value": 0.86,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.07.220"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.85Mn0.09Sb0.035Bi0.025Te",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.07.220"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.85Mn0.09Sb0.035Bi0.025Te",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.07.220"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.85Mn0.09Sb0.035Bi0.025Te",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.07.220"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Sn0.85Mn0.09Sb0.035Bi0.025Te",
+        "Property": "Seebeck",
+        "Value": 0.00019,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.07.220"
+      }
+    ]
+  }
+}

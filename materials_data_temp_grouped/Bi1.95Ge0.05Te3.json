@@ -1,0 +1,53 @@
+{
+  "Material": "Bi1.95Ge0.05Te3",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2018.02.310",
+    "10.1007/s10853-020-04949-0"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Bi1.95Ge0.05Te3",
+        "Property": "ZT",
+        "Value": 0.9500000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.02.310"
+      },
+      {
+        "Original_Name_In_Paper": "Bi1.95Ge0.05Te3",
+        "Property": "ZT",
+        "Value": 0.9500000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.02.310"
+      },
+      {
+        "Original_Name_In_Paper": "Bi1.95Ge0.05Te3",
+        "Property": "ZT",
+        "Value": 0.9500000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.02.310"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Bi1.95Ge0.05Te3",
+        "Property": "ZT",
+        "Value": 0.9500000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      },
+      {
+        "Original_Name_In_Paper": "Bi1.95Ge0.05Te3",
+        "Property": "PF",
+        "Value": 0.00252,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      }
+    ]
+  }
+}

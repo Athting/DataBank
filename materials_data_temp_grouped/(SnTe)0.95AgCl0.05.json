@@ -1,0 +1,36 @@
+{
+  "Material": "(SnTe)0.95AgCl0.05",
+  "DOIs_Researched": [
+    "10.1016/j.susmat.2020.e00183"
+  ],
+  "Data_By_Temperature": {
+    "775.0": [
+      {
+        "Original_Name_In_Paper": "(SnTe)0.95(AgCl)0.05",
+        "Property": "ThermCond",
+        "Value": 0.31,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.susmat.2020.e00183"
+      },
+      {
+        "Original_Name_In_Paper": "(SnTe)0.95(AgCl)0.05",
+        "Property": "ThermCond",
+        "Value": 0.31,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.susmat.2020.e00183"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "(SnTe)0.95(AgCl)0.05",
+        "Property": "ZT",
+        "Value": 0.51,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.susmat.2020.e00183"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "GeTe:Ge_1Sb_2Te_4",
+  "DOIs_Researched": [
+    "10.1039/c8ce01134f"
+  ],
+  "Data_By_Temperature": {
+    "670.0": [
+      {
+        "Original_Name_In_Paper": "GeTe-rich germanium antimony telluride",
+        "Property": "ZT",
+        "Value": 1.48,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ce01134f"
+      }
+    ]
+  }
+}

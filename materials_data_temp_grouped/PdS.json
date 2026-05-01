@@ -1,0 +1,62 @@
+{
+  "Material": "PdS",
+  "DOIs_Researched": [
+    "10.1016/j.tsf.2013.04.143",
+    "10.1016/j.mtphys.2018.05.004",
+    "10.1039/c8ra01613e"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "PdS",
+        "Property": "ZT",
+        "Value": 0.33,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ra01613e"
+      },
+      {
+        "Original_Name_In_Paper": "PdS",
+        "Property": "PF",
+        "Value": 0.0027,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2018.05.004"
+      },
+      {
+        "Original_Name_In_Paper": "PdS",
+        "Property": "PF",
+        "Value": 0.0027,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ra01613e"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "PdS",
+        "Property": "Conductivity",
+        "Value": 999999999.9999999,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2013.04.143"
+      },
+      {
+        "Original_Name_In_Paper": "PdS",
+        "Property": "Conductivity",
+        "Value": 999999999.9999999,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2013.04.143"
+      },
+      {
+        "Original_Name_In_Paper": "PdS thin film",
+        "Property": "Seebeck",
+        "Value": 0.00028000000000000003,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ra01613e"
+      }
+    ]
+  }
+}

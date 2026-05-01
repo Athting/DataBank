@@ -1,0 +1,26 @@
+{
+  "Material": "YbB66",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2019.152182"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "YbB66",
+        "Property": "Conductivity",
+        "Value": 0.5882352941,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.152182"
+      },
+      {
+        "Original_Name_In_Paper": "YbB66 single crystal",
+        "Property": "Conductivity",
+        "Value": 0.1408450704,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.152182"
+      }
+    ]
+  }
+}

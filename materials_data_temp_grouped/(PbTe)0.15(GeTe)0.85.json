@@ -1,0 +1,28 @@
+{
+  "Material": "(PbTe)0.15(GeTe)0.85",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2013.09.104"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "(PbTe)0.15(GeTe)0.85",
+        "Property": "ThermCond",
+        "Value": 4.9,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.09.104"
+      }
+    ],
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "(PbTe)0.15(GeTe)0.85",
+        "Property": "Conductivity",
+        "Value": 355871.8861209965,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.09.104"
+      }
+    ]
+  }
+}

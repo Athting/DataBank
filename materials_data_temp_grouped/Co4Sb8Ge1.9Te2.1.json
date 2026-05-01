@@ -1,0 +1,18 @@
+{
+  "Material": "Co4Sb8Ge1.9Te2.1",
+  "DOIs_Researched": [
+    "10.1007/s11664-010-1457-0"
+  ],
+  "Data_By_Temperature": {
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "Co4Sb8Ge1.9Te2.1",
+        "Property": "ThermCond",
+        "Value": 1.56,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-010-1457-0"
+      }
+    ]
+  }
+}

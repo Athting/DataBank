@@ -1,0 +1,18 @@
+{
+  "Material": "Sb2O5",
+  "DOIs_Researched": [
+    "10.1016/j.solener.2016.09.035"
+  ],
+  "Data_By_Temperature": {
+    "310.0": [
+      {
+        "Original_Name_In_Paper": "antimony oxide",
+        "Property": "Seebeck",
+        "Value": -0.0006979999999999999,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solener.2016.09.035"
+      }
+    ]
+  }
+}

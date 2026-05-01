@@ -1,0 +1,26 @@
+{
+  "Material": "AlPdMn quasicrystals",
+  "DOIs_Researched": [
+    "10.1557/PROC-626-Z5.1"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "AlPdMn quasicrystals",
+        "Property": "Seebeck",
+        "Value": 8e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1557/PROC-626-Z5.1"
+      },
+      {
+        "Original_Name_In_Paper": "AlPdMn quasicrystals",
+        "Property": "Conductivity",
+        "Value": 50000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1557/PROC-626-Z5.1"
+      }
+    ]
+  }
+}

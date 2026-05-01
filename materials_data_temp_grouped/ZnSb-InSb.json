@@ -1,0 +1,18 @@
+{
+  "Material": "ZnSb-InSb",
+  "DOIs_Researched": [
+    "10.3365/eml.2010.12.193"
+  ],
+  "Data_By_Temperature": {
+    "623.0": [
+      {
+        "Original_Name_In_Paper": "ZnSb-InSb",
+        "Property": "PF",
+        "Value": 0.0007,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.3365/eml.2010.12.193"
+      }
+    ]
+  }
+}

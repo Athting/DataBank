@@ -1,0 +1,18 @@
+{
+  "Material": "La2Zr2O7",
+  "DOIs_Researched": [
+    "10.1016/j.pmatsci.2015.01.001"
+  ],
+  "Data_By_Temperature": {
+    "1273.0": [
+      {
+        "Original_Name_In_Paper": "La2Zr2O7",
+        "Property": "Conductivity",
+        "Value": 0.02,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2015.01.001"
+      }
+    ]
+  }
+}

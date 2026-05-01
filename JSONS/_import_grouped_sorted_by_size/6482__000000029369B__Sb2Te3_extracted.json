@@ -1,0 +1,1058 @@
+{
+  "doi": "10.1016/j.matpr.2020.01.514",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Sb2Te3",
+        "Sb2Te3 film",
+        "Sb2Te3 nanoplate",
+        "bulk Sb2Te3",
+        "Sb2Te3κ0",
+        "pure Sb2Te3 film",
+        "Sb2Te3 / Ag multilayer thin film",
+        "bulk p-type Sb2Te3 material",
+        "Sb2Te3 nanofilms",
+        "Sb2Te3 / CH3NH3I",
+        "layered Sb2Te3 film",
+        "pristine Sb2Te3",
+        "Sb2Te3 thin film",
+        "p-type Sb2Te3",
+        "Sb2Te3 films",
+        "Sb2Te3nanowires",
+        "Sb-rich Sb2Te3 thin film",
+        "Sb-rich Sb2Te3 film",
+        "Sb2Te3 crystals",
+        "nanostructured Sb2Te3 thin films",
+        "Sb)2Te3",
+        "Sb2Te3 nanoplates",
+        "single crystalline Sb2Te3 ingots",
+        "undoped Sb2Te3 single crystal",
+        "pure Sb2Te3 compounds",
+        "Sb2Te3 bulk crystals",
+        "Sb2Te3 single crystal",
+        "Sb2Te3nanosheet",
+        "crystalline Sb2Te3 thin films",
+        "undoped Sb2Te3 single crystals",
+        "Cr-doped Sb2Te3",
+        "Sb2Te3 nanoplatelets",
+        "single crystalline Sb2Te3 compound",
+        "Sb2Te3 pellet",
+        "Sb2Te3 nanosheets",
+        "Sb2Te3 nanobelts",
+        "Sb2Te3 bulk single crystal",
+        "Sb2Te3 / CNT-10",
+        "Sb2Te3 bulk",
+        "hexagonal Sb2Te3 nanosheets",
+        "amorphous Sb2Te3 thin films",
+        "co-doped Sb2Te3 based alloys",
+        "Sb2Te3 nanoparticles",
+        "Sb2Te3 nanomaterial",
+        "Sb2Te3-based",
+        "Sb2Te3 with sulphur",
+        "Sb2Te3 thin films",
+        "Sb2Te3 / Ag2Te composites",
+        "Sb2Te3-Ag2Te bulk composite",
+        "In-doped Sb2Te3 alloys",
+        "pure Sb2Te3",
+        "hexagonal Sb2Te3 nanoplates",
+        "Sb2Te3 nanorod",
+        "at % Sb2Te3",
+        "undoped Sb2Te3",
+        "Sb2Te3 / CH3NH3I composites"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "Sb2Te3",
+          "value": 0.000075,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Sb2Te3nanowires",
+          "value": 0.00011,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "bulk Sb2Te3",
+          "value": 0.00009,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Sb-rich Sb2Te3 thin film",
+          "value": 0.000536,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Sb2Te3 thin film",
+          "value": 0.00009,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Sb2Te3 thin film",
+          "value": 0.00009,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Sb-rich Sb2Te3 film",
+          "value": 0.000536,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Sb2Te3",
+          "value": 0.00017,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Sb2Te3",
+          "value": 0.00019,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "bulk Sb2Te3",
+          "value": 0.00008,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Sb2Te3 crystals",
+          "value": 0.00007000000000000001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "nanostructured Sb2Te3 thin films",
+          "value": 0.000075,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Sb)2Te3",
+          "value": 0.0002,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Sb2Te3 films",
+          "value": 0.00013000000000000002,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Sb2Te3 nanoplates",
+          "value": 0.000112,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Sb2Te3",
+          "value": 0.000112,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "single crystalline Sb2Te3 ingots",
+          "value": 0.000083,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Sb2Te3",
+          "value": 0.000164,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Sb2Te3 nanoplates",
+          "value": 0.000125,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "undoped Sb2Te3 single crystal",
+          "value": 0.000083,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Sb2Te3 thin film",
+          "value": 0.000118,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Sb2Te3 thin film",
+          "value": 0.00019,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Sb2Te3 thin film",
+          "value": 0.000118,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Sb2Te3",
+          "value": 0.00012000000000000002,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Sb2Te3 single crystal",
+          "value": 0.000083,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Sb2Te3",
+          "value": 0.00014099999999999998,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Sb2Te3 nanoplatelets",
+          "value": 0.00030000000000000003,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "pristine Sb2Te3",
+          "value": 0.0001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "pristine Sb2Te3",
+          "value": 0.0001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "undoped Sb2Te3 single crystal",
+          "value": 0.000083,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Sb2Te3nanosheet",
+          "value": 0.000147,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Sb2Te3",
+          "value": 0.000032999999999999996,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "single crystalline Sb2Te3 compound",
+          "value": 0.000083,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Sb2Te3 pellet",
+          "value": 0.00009099999999999999,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Sb2Te3",
+          "value": 0.0001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "hexagonal Sb2Te3 nanosheets",
+          "value": 0.00021,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "420.0 K"
+        },
+        {
+          "material": "Sb2Te3",
+          "value": 0.000214,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "Sb2Te3",
+          "value": 0.00012000000000000002,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "Sb2Te3",
+          "value": 0.000138,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "Sb2Te3 thin films",
+          "value": 0.000063,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "Sb2Te3",
+          "value": 0.000135,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "492.0 K"
+        },
+        {
+          "material": "p-type Sb2Te3",
+          "value": 0.00016,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "463.0 K"
+        },
+        {
+          "material": "Sb2Te3",
+          "value": 0.00008,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "Sb2Te3 film",
+          "value": 0.000078,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "367.0 K"
+        },
+        {
+          "material": "Sb2Te3 film",
+          "value": 0.000078,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "367.0 K"
+        },
+        {
+          "material": "hexagonal Sb2Te3 nanoplates",
+          "value": 0.0001199,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "497.0 K"
+        },
+        {
+          "material": "Sb2Te3 nanorod",
+          "value": 0.000042999999999999995,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "298.0 K"
+        },
+        {
+          "material": "Sb2Te3 nanorod",
+          "value": 0.000042999999999999995,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "298.0 K"
+        },
+        {
+          "material": "Sb2Te3 / CH3NH3I",
+          "value": 0.0004326,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "473.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "Sb2Te3",
+          "value": 125000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Sb2Te3",
+          "value": 2437,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Sb2Te3 nanoplates",
+          "value": 10000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Sb2Te3nanosheet",
+          "value": 104,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Sb2Te3 bulk single crystal",
+          "value": 105,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Sb2Te3 bulk crystals",
+          "value": 105,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Sb2Te3 single crystal",
+          "value": 105,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Sb2Te3 nanoplatelets",
+          "value": 80,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Sb2Te3 / CNT-10",
+          "value": 2350,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Sb2Te3",
+          "value": 2150,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Sb2Te3",
+          "value": 200000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Sb2Te3 bulk",
+          "value": 23000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Sb2Te3",
+          "value": 270000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Sb2Te3 pellet",
+          "value": 150000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "hexagonal Sb2Te3 nanosheets",
+          "value": 24900,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "420.0 K"
+        },
+        {
+          "material": "pristine Sb2Te3",
+          "value": 97087.3786407767,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "Sb2Te3",
+          "value": 67200,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "p-type Sb2Te3",
+          "value": 32051.282051282,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "463.0 K"
+        },
+        {
+          "material": "Sb2Te3 nanorod",
+          "value": 19000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "298.0 K"
+        },
+        {
+          "material": "Sb2Te3 nanorod",
+          "value": 19000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "298.0 K"
+        },
+        {
+          "material": "Sb2Te3",
+          "value": 150000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "310.0 K"
+        },
+        {
+          "material": "undoped Sb2Te3",
+          "value": 110000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "310.0 K"
+        },
+        {
+          "material": "Sb2Te3 / CH3NH3I composites",
+          "value": 29900,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "413.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Sb2Te3",
+          "value": 1.15,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Sb2Te3",
+          "value": 0.9400000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Sb2Te3 film",
+          "value": 0.9400000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Sb2Te3",
+          "value": 0.8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Sb2Te3 nanoplate",
+          "value": 1.6,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "bulk Sb2Te3",
+          "value": 1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Sb2Te3κ0",
+          "value": 1.78,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure Sb2Te3 film",
+          "value": 1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Sb2Te3",
+          "value": 0.24,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Sb2Te3 / Ag multilayer thin film",
+          "value": 0.61,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure Sb2Te3 compounds",
+          "value": 0.148,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Sb2Te3 bulk crystals",
+          "value": 1.6,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Sb2Te3 single crystal",
+          "value": 1.6,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "bulk Sb2Te3",
+          "value": 4.7,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Sb2Te3nanosheet",
+          "value": 1.02,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Sb2Te3",
+          "value": 0.65,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "crystalline Sb2Te3 thin films",
+          "value": 0.35000000000000003,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "crystalline Sb2Te3 thin films",
+          "value": 0.22,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Sb2Te3",
+          "value": 1.15,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Sb2Te3",
+          "value": 0.76,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "420.0 K"
+        },
+        {
+          "material": "pristine Sb2Te3",
+          "value": 0.8300000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "amorphous Sb2Te3 thin films",
+          "value": 0.23,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "450.0 K"
+        },
+        {
+          "material": "amorphous Sb2Te3 thin films",
+          "value": 0.23,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "450.0 K"
+        },
+        {
+          "material": "amorphous Sb2Te3 thin films",
+          "value": 0.23,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "450.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Sb2Te3 films",
+          "value": 0.0029000000000000002,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Sb2Te3 thin film",
+          "value": 0.00035000000000000005,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Sb2Te3",
+          "value": 0.0005,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "p-type Sb2Te3",
+          "value": 0.001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Sb2Te3 nanosheets",
+          "value": 0.0001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Sb2Te3 nanobelts",
+          "value": 0.0001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "pristine Sb2Te3",
+          "value": 0.0015300000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "p-type Sb2Te3",
+          "value": 0.000215,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "523.0 K"
+        },
+        {
+          "material": "Sb2Te3",
+          "value": 0.0017000000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "623.0 K"
+        },
+        {
+          "material": "Sb2Te3",
+          "value": 0.0012000000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "298.0 K"
+        },
+        {
+          "material": "Sb2Te3",
+          "value": 0.000118,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "423.0 K"
+        },
+        {
+          "material": "at % Sb2Te3",
+          "value": 0.001469,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Sb2Te3",
+          "value": 0.0023,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "Sb2Te3",
+          "value": 0.0023,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "373.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "bulk p-type Sb2Te3 material",
+          "zt_value": 1,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Sb2Te3",
+          "zt_value": 0.30000000000000004,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Sb2Te3 nanofilms",
+          "zt_value": 2.1,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Sb2Te3 / CH3NH3I",
+          "zt_value": 0.56,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Sb2Te3 / CH3NH3I",
+          "zt_value": 0.56,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Sb2Te3 / CH3NH3I",
+          "zt_value": 0.56,
+          "temperature": "295 K"
+        },
+        {
+          "material": "layered Sb2Te3 film",
+          "zt_value": 1.22,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Sb2Te3",
+          "zt_value": 2.4,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Sb2Te3 film",
+          "zt_value": 0.0010400000000000001,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Sb2Te3",
+          "zt_value": 0.0032,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Sb2Te3",
+          "zt_value": 1.1,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Sb2Te3 film",
+          "zt_value": 1.75,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Sb2Te3 film",
+          "zt_value": 1.75,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Sb2Te3 film",
+          "zt_value": 1.75,
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine Sb2Te3",
+          "zt_value": 0.75,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Sb2Te3",
+          "zt_value": 1.2,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Sb2Te3 film",
+          "zt_value": 0.88,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Sb2Te3",
+          "zt_value": 2.4,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Sb2Te3 thin film",
+          "zt_value": 0.88,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Sb2Te3 thin film",
+          "zt_value": 0.42,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Sb2Te3",
+          "zt_value": 1.28,
+          "temperature": "295 K"
+        },
+        {
+          "material": "p-type Sb2Te3",
+          "zt_value": 0.75,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Sb2Te3 films",
+          "zt_value": 1.5,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Sb)2Te3",
+          "zt_value": 1,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Sb2Te3nanosheet",
+          "zt_value": 2.33,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Sb2Te3nanosheet",
+          "zt_value": 0.15,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "undoped Sb2Te3 single crystals",
+          "zt_value": 0.48,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Sb2Te3 film",
+          "zt_value": 0.46,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Sb2Te3 film",
+          "zt_value": 1.75,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Cr-doped Sb2Te3",
+          "zt_value": 0.4,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Sb2Te3",
+          "zt_value": 0.58,
+          "temperature": "420.0 K"
+        },
+        {
+          "material": "Sb2Te3nanosheet",
+          "zt_value": 0.58,
+          "temperature": "420.0 K"
+        },
+        {
+          "material": "Sb2Te3",
+          "zt_value": 0.58,
+          "temperature": "420.0 K"
+        },
+        {
+          "material": "Sb2Te3",
+          "zt_value": 0.92,
+          "temperature": "710.0 K"
+        },
+        {
+          "material": "co-doped Sb2Te3 based alloys",
+          "zt_value": 0.92,
+          "temperature": "710.0 K"
+        },
+        {
+          "material": "Sb2Te3",
+          "zt_value": 0.9,
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "Sb2Te3 nanoparticles",
+          "zt_value": 1.5,
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "Sb2Te3 / CH3NH3I",
+          "zt_value": 1,
+          "temperature": "380.0 K"
+        },
+        {
+          "material": "Sb2Te3 films",
+          "zt_value": 1,
+          "temperature": "380.0 K"
+        },
+        {
+          "material": "Sb2Te3 / CH3NH3I",
+          "zt_value": 1,
+          "temperature": "380.0 K"
+        },
+        {
+          "material": "Sb)2Te3",
+          "zt_value": 1.5,
+          "temperature": "390.0 K"
+        },
+        {
+          "material": "Sb)2Te3",
+          "zt_value": 1.5,
+          "temperature": "390.0 K"
+        },
+        {
+          "material": "Sb2Te3 nanomaterial",
+          "zt_value": 1.5,
+          "temperature": "500.0 K"
+        },
+        {
+          "material": "pristine Sb2Te3",
+          "zt_value": 1.18,
+          "temperature": "523.0 K"
+        },
+        {
+          "material": "Sb2Te3",
+          "zt_value": 0.857,
+          "temperature": "523.0 K"
+        },
+        {
+          "material": "Sb2Te3",
+          "zt_value": 1.17,
+          "temperature": "523.0 K"
+        },
+        {
+          "material": "Sb2Te3-based",
+          "zt_value": 0.8,
+          "temperature": "400.0 K"
+        },
+        {
+          "material": "Sb2Te3 with sulphur",
+          "zt_value": 0.92,
+          "temperature": "400.0 K"
+        },
+        {
+          "material": "Sb2Te3",
+          "zt_value": 1,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "Sb2Te3 / Ag2Te composites",
+          "zt_value": 1.5,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "Sb2Te3-Ag2Te bulk composite",
+          "zt_value": 1.5,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "Sb2Te3",
+          "zt_value": 0.6000000000000001,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "In-doped Sb2Te3 alloys",
+          "zt_value": 0.73,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "Sb2Te3",
+          "zt_value": 0.74,
+          "temperature": "492.0 K"
+        },
+        {
+          "material": "Sb2Te3",
+          "zt_value": 0.4,
+          "temperature": "150.0 K"
+        },
+        {
+          "material": "p-type Sb2Te3",
+          "zt_value": 0.41000000000000003,
+          "temperature": "623.0 K"
+        },
+        {
+          "material": "Sb2Te3 films",
+          "zt_value": 0.32,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Sb2Te3",
+          "zt_value": 0.21,
+          "temperature": "290.0 K"
+        },
+        {
+          "material": "pure Sb2Te3",
+          "zt_value": 0.22,
+          "temperature": "330.0 K"
+        },
+        {
+          "material": "Sb2Te3",
+          "zt_value": 0.30000000000000004,
+          "temperature": "1000.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

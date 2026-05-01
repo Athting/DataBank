@@ -1,0 +1,18 @@
+{
+  "Material": "Cu : Se",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2020.05.267"
+  ],
+  "Data_By_Temperature": {
+    "423.0": [
+      {
+        "Original_Name_In_Paper": "Cu : Se",
+        "Property": "Conductivity",
+        "Value": 2020000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2020.05.267"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Material": "Sb2O3",
+  "DOIs_Researched": [
+    "10.1016/j.intermet.2012.08.026"
+  ],
+  "Data_By_Temperature": {
+    "865.0": [
+      {
+        "Original_Name_In_Paper": "Sb2O3",
+        "Property": "ZT",
+        "Value": 0.58,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2012.08.026"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2O3",
+        "Property": "ZT",
+        "Value": 0.58,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2012.08.026"
+      }
+    ]
+  }
+}

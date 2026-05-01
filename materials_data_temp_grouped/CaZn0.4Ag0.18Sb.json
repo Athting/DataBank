@@ -1,0 +1,37 @@
+{
+  "Material": "CaZn0.4Ag0.18Sb",
+  "DOIs_Researched": [
+    "10.1039/c8ta04001j",
+    "10.1016/j.jssc.2018.11.030"
+  ],
+  "Data_By_Temperature": {
+    "1024.0": [
+      {
+        "Original_Name_In_Paper": "CaZn0.4Ag0.18Sb",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2018.11.030"
+      },
+      {
+        "Original_Name_In_Paper": "CaZn0.4Ag0.18Sb",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta04001j"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "CaZn0.4Ag0.18Sb",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta04001j"
+      }
+    ]
+  }
+}

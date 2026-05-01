@@ -1,0 +1,34 @@
+{
+  "Material": "Cu2S0.9Se0.1",
+  "DOIs_Researched": [
+    "10.1039/c7tc01937h"
+  ],
+  "Data_By_Temperature": {
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "Cu2S0.9Se0.1",
+        "Property": "ThermCond",
+        "Value": 0.25,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7tc01937h"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2S0.9Se0.1",
+        "Property": "ZT",
+        "Value": 0.74,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7tc01937h"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2S0.9Se0.1",
+        "Property": "PF",
+        "Value": 0.0002605,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7tc01937h"
+      }
+    ]
+  }
+}

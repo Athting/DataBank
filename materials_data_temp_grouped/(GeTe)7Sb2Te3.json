@@ -1,0 +1,44 @@
+{
+  "Material": "(GeTe)7Sb2Te3",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2014.03.031"
+  ],
+  "Data_By_Temperature": {
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "(GeTe)7Sb2Te3",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2014.03.031"
+      },
+      {
+        "Original_Name_In_Paper": "(GeTe)7Sb2Te3",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2014.03.031"
+      },
+      {
+        "Original_Name_In_Paper": "(GeTe)7Sb2Te3",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2014.03.031"
+      }
+    ],
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "(GeTe)7Sb2Te3",
+        "Property": "Conductivity",
+        "Value": 35000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2014.03.031"
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "Material": "bismuth telluride alloys",
+  "DOIs_Researched": [
+    "10.1039/c5tc01643f",
+    "10.1016/j.jeurceramsoc.2017.02.027"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "bismuth telluride alloys",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2017.02.027"
+      },
+      {
+        "Original_Name_In_Paper": "bismuth telluride alloys",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01643f"
+      }
+    ]
+  }
+}

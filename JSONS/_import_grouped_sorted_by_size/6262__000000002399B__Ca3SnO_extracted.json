@@ -1,0 +1,103 @@
+{
+  "doi": "10.1016/j.jpcs.2018.08.010",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Ca3SnO"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "Ca3SnO",
+          "value": 0.0001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Ca3SnO",
+          "value": 0.0001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Ca3SnO",
+          "value": 0.0001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Ca3SnO",
+          "value": 0.00012734,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "200.0 K"
+        },
+        {
+          "material": "Ca3SnO",
+          "value": 0.0001337198,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Ca3SnO",
+          "value": 0.0001573124,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "800.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Ca3SnO",
+          "value": 0.00016,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "290.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Ca3SnO",
+          "zt_value": 0.1371,
+          "temperature": "50.0 K"
+        },
+        {
+          "material": "Ca3SnO",
+          "zt_value": 0.028040000000000002,
+          "temperature": "290.0 K"
+        },
+        {
+          "material": "Ca3SnO",
+          "zt_value": 0.1371,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "Ca3SnO",
+          "zt_value": 0.1371,
+          "temperature": "600.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

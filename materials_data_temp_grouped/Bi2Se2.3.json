@@ -1,0 +1,18 @@
+{
+  "Material": "Bi2Se2.3",
+  "DOIs_Researched": [
+    "10.1039/c5ra17949a"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Bi2Se2.3",
+        "Property": "Conductivity",
+        "Value": 7.5187969925,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra17949a"
+      }
+    ]
+  }
+}

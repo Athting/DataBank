@@ -1,0 +1,36 @@
+{
+  "Material": "Al-850",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2013.02.021"
+  ],
+  "Data_By_Temperature": {
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "Al-850",
+        "Property": "ThermCond",
+        "Value": 1.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2013.02.021"
+      },
+      {
+        "Original_Name_In_Paper": "Al-850",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2013.02.021"
+      }
+    ],
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "Al-850",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2013.02.021"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "AlMn",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2015.10.271"
+  ],
+  "Data_By_Temperature": {
+    "1273.0": [
+      {
+        "Original_Name_In_Paper": "Al0.80Mn0.20 alloy",
+        "Property": "Conductivity",
+        "Value": 810372.7714748783,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.10.271"
+      }
+    ]
+  }
+}

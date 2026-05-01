@@ -1,0 +1,29 @@
+{
+  "Material": "PtSb2",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2017.01.121",
+    "10.1039/c1dt11523e"
+  ],
+  "Data_By_Temperature": {
+    "30.0": [
+      {
+        "Original_Name_In_Paper": "rare-earth doped PtSb2 single crystals",
+        "Property": "Seebeck",
+        "Value": -0.0008,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c1dt11523e"
+      }
+    ],
+    "150.0": [
+      {
+        "Original_Name_In_Paper": "PtSb2",
+        "Property": "Seebeck",
+        "Value": 0.00025,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.01.121"
+      }
+    ]
+  }
+}

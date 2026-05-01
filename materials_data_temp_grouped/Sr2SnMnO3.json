@@ -1,0 +1,26 @@
+{
+  "Material": "Sr2SnMnO3",
+  "DOIs_Researched": [
+    "10.1016/j.jmmm.2017.05.058"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Sr2SnMnO3",
+        "Property": "ZT",
+        "Value": 0.005,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmmm.2017.05.058"
+      },
+      {
+        "Original_Name_In_Paper": "Sr2SnMnO3",
+        "Property": "Seebeck",
+        "Value": 3.71e-06,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmmm.2017.05.058"
+      }
+    ]
+  }
+}

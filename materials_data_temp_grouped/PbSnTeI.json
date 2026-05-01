@@ -1,0 +1,97 @@
+{
+  "Material": "PbSnTeI",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2017.06.296",
+    "10.1039/c8ta08731h"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Pb0.60Sn0.40Te0.995I0.005",
+        "Property": "ThermCond",
+        "Value": 2.35,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta08731h"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.60Sn0.40Te0.995I0.005",
+        "Property": "PF",
+        "Value": 0.00136,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta08731h"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.995Sn0.005Te0.997I0.003",
+        "Property": "Conductivity",
+        "Value": 596300.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.06.296"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Pb0.60Sn0.40Te0.995I0.005",
+        "Property": "ThermCond",
+        "Value": 0.9,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta08731h"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.996Sn0.04Te0.997I0.003",
+        "Property": "Seebeck",
+        "Value": -6.9e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.06.296"
+      }
+    ],
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "Pb0.995Sn0.005Te0.997I0.003",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.06.296"
+      }
+    ],
+    "620.0": [
+      {
+        "Original_Name_In_Paper": "n-type Pb0.60Sn0.40Te0.995I0.005",
+        "Property": "ZT",
+        "Value": 1.05,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta08731h"
+      },
+      {
+        "Original_Name_In_Paper": "n-type Pb0.60Sn0.40Te0.995I0.005",
+        "Property": "ZT",
+        "Value": 1.05,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta08731h"
+      },
+      {
+        "Original_Name_In_Paper": "n-type Pb0.60Sn0.40Te0.995I0.005",
+        "Property": "ZT",
+        "Value": 1.05,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta08731h"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.60Sn0.40Te0.995I0.005",
+        "Property": "ZT",
+        "Value": 1.05,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta08731h"
+      }
+    ]
+  }
+}

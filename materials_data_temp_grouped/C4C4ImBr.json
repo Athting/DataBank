@@ -1,0 +1,28 @@
+{
+  "Material": "C4C4ImBr",
+  "DOIs_Researched": [
+    "10.1039/c6dt04323b"
+  ],
+  "Data_By_Temperature": {
+    "550.0": [
+      {
+        "Original_Name_In_Paper": "C4C4imBr",
+        "Property": "ZT",
+        "Value": 0.72,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6dt04323b"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "C4C4imBr",
+        "Property": "Conductivity",
+        "Value": 46300.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6dt04323b"
+      }
+    ]
+  }
+}

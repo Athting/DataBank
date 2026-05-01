@@ -1,0 +1,37 @@
+{
+  "Material": "SnTe-AgBiTe2",
+  "DOIs_Researched": [
+    "10.1039/c4ta05530f",
+    "10.1039/c7cp04931e"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "SnTe\u2013AgBiTe2via",
+        "Property": "ThermCond",
+        "Value": 0.6000000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": "point defects",
+        "Source_DOI": "10.1039/c7cp04931e"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe\u2013AgBiTe2",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta05530f"
+      }
+    ],
+    "775.0": [
+      {
+        "Original_Name_In_Paper": "SnTe\u2013AgBiTe2",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta05530f"
+      }
+    ]
+  }
+}

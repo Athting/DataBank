@@ -1,0 +1,27 @@
+{
+  "Material": "REB44Si2",
+  "DOIs_Researched": [
+    "10.1039/b916028k",
+    "10.1016/j.jallcom.2016.03.015"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "REB44Si2",
+        "Property": "ThermCond",
+        "Value": 2.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.03.015"
+      },
+      {
+        "Original_Name_In_Paper": "REB44Si2 compounds",
+        "Property": "ThermCond",
+        "Value": 2.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/b916028k"
+      }
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "Material": "GaGeTe",
+  "DOIs_Researched": [
+    "10.1016/j.jmat.2020.04.005"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "GaGeTe",
+        "Property": "ThermCond",
+        "Value": 58.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2020.04.005"
+      },
+      {
+        "Original_Name_In_Paper": "GaGeTe",
+        "Property": "ThermCond",
+        "Value": 58.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2020.04.005"
+      },
+      {
+        "Original_Name_In_Paper": "2D GaGeTe",
+        "Property": "ThermCond",
+        "Value": 58.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2020.04.005"
+      }
+    ],
+    "475.0": [
+      {
+        "Original_Name_In_Paper": "polycrystalline GaGeTe",
+        "Property": "ThermCond",
+        "Value": 1.3,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2020.04.005"
+      }
+    ],
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "GaGeTe monolayer",
+        "Property": "ThermCond",
+        "Value": 28.23,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2020.04.005"
+      }
+    ]
+  }
+}

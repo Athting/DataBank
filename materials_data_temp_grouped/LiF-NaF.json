@@ -1,0 +1,18 @@
+{
+  "Material": "LiF-NaF",
+  "DOIs_Researched": [
+    "10.1016/j.molliq.2018.07.114"
+  ],
+  "Data_By_Temperature": {
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "LiF-NaF",
+        "Property": "Conductivity",
+        "Value": 572.9,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.molliq.2018.07.114"
+      }
+    ]
+  }
+}

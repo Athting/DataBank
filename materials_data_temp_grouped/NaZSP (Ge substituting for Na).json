@@ -1,0 +1,18 @@
+{
+  "Material": "NaZSP (Ge substituting for Na)",
+  "DOIs_Researched": [
+    "10.1016/j.ensm.2020.09.007"
+  ],
+  "Data_By_Temperature": {
+    "423.0": [
+      {
+        "Original_Name_In_Paper": "Ge substituted NaZSP",
+        "Property": "Conductivity",
+        "Value": 1.4,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ensm.2020.09.007"
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "Material": "Fe(V0.8Hf0.2)TiSb",
+  "DOIs_Researched": [
+    "10.1016/j.jpowsour.2020.228768"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Fe(V0.8Hf0.2)0.8Ti0.2Sb",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpowsour.2020.228768"
+      },
+      {
+        "Original_Name_In_Paper": "Fe(V0.8Hf0.2)0.8Ti0.2Sb",
+        "Property": "ZT",
+        "Value": 0.27,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpowsour.2020.228768"
+      },
+      {
+        "Original_Name_In_Paper": "Fe(V0.8Hf0.2)0.8Ti0.2Sb",
+        "Property": "ZT",
+        "Value": 0.27,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpowsour.2020.228768"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Sb-doped Sn0.7Ge0.3Te",
+  "DOIs_Researched": [
+    "10.1039/c8ee03162b"
+  ],
+  "Data_By_Temperature": {
+    "721.0": [
+      {
+        "Original_Name_In_Paper": "carrier optimized Sb-doped Sn0.7Ge0.3Te",
+        "Property": "ZT",
+        "Value": 1.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee03162b"
+      }
+    ]
+  }
+}

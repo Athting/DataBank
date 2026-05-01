@@ -1,0 +1,18 @@
+{
+  "Material": "Ag1.9Se",
+  "DOIs_Researched": [
+    "10.1039/c9qm00487d"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ag1.9Sn0.1Se",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9qm00487d"
+      }
+    ]
+  }
+}

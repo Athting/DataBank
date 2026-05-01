@@ -1,0 +1,46 @@
+{
+  "Material": "Sn0.823Sb0.17In0.007Te0",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2018.09.234"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Sn0.823Sb0.17In0.007Te0.95Se0.05",
+        "Property": "ThermCond",
+        "Value": 1.1,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.09.234"
+      }
+    ],
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.823Sb0.17In0.007Te0.95Se0.05",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.09.234"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.823Sb0.17In0.007Te0.98Se0.02",
+        "Property": "PF",
+        "Value": 0.0024000000000000002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.09.234"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.823Sb0.17In0.007Te0.98Se0.02",
+        "Property": "Conductivity",
+        "Value": 148300.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.09.234"
+      }
+    ]
+  }
+}

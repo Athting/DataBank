@@ -1,0 +1,140 @@
+{
+  "Material": "Mg3Sb1.5Bi0.5",
+  "DOIs_Researched": [
+    "10.1038/ncomms13901",
+    "10.1016/j.nanoen.2018.07.059",
+    "10.1039/c7cp08680f",
+    "10.1039/c8ta08975b",
+    "10.1016/j.jssc.2018.11.030",
+    "10.1039/c8cp07648k",
+    "10.1016/j.jallcom.2019.152384",
+    "10.1039/c7ta02080e",
+    "10.1016/j.jmat.2020.06.004"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Se-doped Mg3Sb1.5Bi0.5",
+        "Property": "ThermCond",
+        "Value": 0.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cp08680f"
+      },
+      {
+        "Original_Name_In_Paper": "Se-doped Mg3Sb1.5Bi0.5",
+        "Property": "ThermCond",
+        "Value": 0.84,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cp08680f"
+      },
+      {
+        "Original_Name_In_Paper": "Mg3Sb1.5Bi0.5",
+        "Property": "ZT",
+        "Value": 0.56,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/ncomms13901"
+      },
+      {
+        "Original_Name_In_Paper": "Mg3Sb1.5Bi0.5",
+        "Property": "ZT",
+        "Value": 0.56,
+        "Units": null,
+        "Editing": "doping of Te",
+        "Source_DOI": "10.1016/j.jssc.2018.11.030"
+      },
+      {
+        "Original_Name_In_Paper": "Mg3Sb1.5Bi0.5",
+        "Property": "ZT",
+        "Value": 0.56,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ta02080e"
+      },
+      {
+        "Original_Name_In_Paper": "Se-doped Mg3Sb1.5Bi0.5",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cp08680f"
+      },
+      {
+        "Original_Name_In_Paper": "Se-doped Mg3Sb1.5Bi0.5",
+        "Property": "ZT",
+        "Value": 0.68,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cp08680f"
+      }
+    ],
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "Mn doped Mg3Sb1.5Bi0.5",
+        "Property": "ZT",
+        "Value": 1.85,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2018.07.059"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Mg3Sb1.5Bi0.5and",
+        "Property": "ZT",
+        "Value": 1.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/ncomms13901"
+      }
+    ],
+    "725.0": [
+      {
+        "Original_Name_In_Paper": "Mg3Sb1.5Bi0.5",
+        "Property": "ZT",
+        "Value": 1.6,
+        "Units": null,
+        "Editing": "Te doping",
+        "Source_DOI": "10.1039/c8cp07648k"
+      },
+      {
+        "Original_Name_In_Paper": "n-type Te-doped Mg3Sb1.5Bi0.5",
+        "Property": "ZT",
+        "Value": 1.65,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.152384"
+      },
+      {
+        "Original_Name_In_Paper": "Se-doped Mg3Sb1.5Bi0.5",
+        "Property": "ZT",
+        "Value": 1.65,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cp08680f"
+      }
+    ],
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "La-doped n-type Mg3Sb1.5Bi0.5",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta08975b"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Mg3Sb1.5Bi0.5",
+        "Property": "ZT",
+        "Value": 0.23,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2020.06.004"
+      }
+    ]
+  }
+}

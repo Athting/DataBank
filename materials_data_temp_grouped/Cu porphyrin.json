@@ -1,0 +1,26 @@
+{
+  "Material": "Cu porphyrin",
+  "DOIs_Researched": [
+    "10.1039/c7cp02229h"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Cu porphyrin",
+        "Property": "ZT",
+        "Value": 1.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cp02229h"
+      },
+      {
+        "Original_Name_In_Paper": "Cu porphyrin",
+        "Property": "ZT",
+        "Value": 1.6600000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cp02229h"
+      }
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "Material": "Zn4(Sb0.995Te0.005)3",
+  "DOIs_Researched": [
+    "10.1016/j.intermet.2011.07.002"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Zn4(Sb0.995Te0.005)3",
+        "Property": "ThermCond",
+        "Value": 0.77,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2011.07.002"
+      }
+    ],
+    "680.0": [
+      {
+        "Original_Name_In_Paper": "Zn4(Sb0.995Te0.005)3",
+        "Property": "ZT",
+        "Value": 1.08,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2011.07.002"
+      },
+      {
+        "Original_Name_In_Paper": "Zn4(Sb0.995Te0.005)3",
+        "Property": "ZT",
+        "Value": 1.08,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2011.07.002"
+      },
+      {
+        "Original_Name_In_Paper": "Zn4(Sb0.995Te0.005)3",
+        "Property": "ZT",
+        "Value": 1.07,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2011.07.002"
+      }
+    ],
+    "465.0": [
+      {
+        "Original_Name_In_Paper": "Zn4(Sb0.995Te0.005)3",
+        "Property": "ZT",
+        "Value": 0.91,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2011.07.002"
+      }
+    ],
+    "464.0": [
+      {
+        "Original_Name_In_Paper": "Zn4(Sb0.995Te0.005)3",
+        "Property": "PF",
+        "Value": 0.0014800000000000002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2011.07.002"
+      }
+    ]
+  }
+}

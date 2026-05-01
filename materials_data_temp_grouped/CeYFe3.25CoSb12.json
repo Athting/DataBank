@@ -1,0 +1,26 @@
+{
+  "Material": "CeYFe3.25CoSb12",
+  "DOIs_Researched": [
+    "10.1007/s11664-012-2357-2"
+  ],
+  "Data_By_Temperature": {
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "Ce0.5Yb0.5Fe3.25Co0.75Sb12",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-012-2357-2"
+      },
+      {
+        "Original_Name_In_Paper": "Ce0.5Yb0.5Fe3.25Co0.75Sb12",
+        "Property": "PF",
+        "Value": 0.0027,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-012-2357-2"
+      }
+    ]
+  }
+}

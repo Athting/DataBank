@@ -1,0 +1,18 @@
+{
+  "Material": "Ba8Ga16+xSn30-x",
+  "DOIs_Researched": [
+    "10.1016/j.cap.2016.03.028"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ba8Ga16+xSn30\u2212x \u2212 ySby",
+        "Property": "ZT",
+        "Value": 0.035,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2016.03.028"
+      }
+    ]
+  }
+}

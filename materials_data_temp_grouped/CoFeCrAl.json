@@ -1,0 +1,18 @@
+{
+  "Material": "CoFeCrAl",
+  "DOIs_Researched": [
+    "10.1007/s11664-017-6009-4"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "CoFeCrAl",
+        "Property": "Seebeck",
+        "Value": -4.6e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-017-6009-4"
+      }
+    ]
+  }
+}

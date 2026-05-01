@@ -1,0 +1,18 @@
+{
+  "Material": "AIAs(20 \u00c5 ) superlattices",
+  "DOIs_Researched": [
+    "10.1557/PROC-545-375"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "AIAs(20 \u00c5 ) superlattices",
+        "Property": "ZT",
+        "Value": 0.41000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1557/PROC-545-375"
+      }
+    ]
+  }
+}

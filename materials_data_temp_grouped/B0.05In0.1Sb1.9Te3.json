@@ -1,0 +1,26 @@
+{
+  "Material": "B0.05In0.1Sb1.9Te3",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2020.105228"
+  ],
+  "Data_By_Temperature": {
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "B0.05In0.1Sb1.9Te3",
+        "Property": "Seebeck",
+        "Value": 0.000138,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.105228"
+      },
+      {
+        "Original_Name_In_Paper": "B0.05In0.1Sb1.9Te3",
+        "Property": "Conductivity",
+        "Value": 51000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.105228"
+      }
+    ]
+  }
+}

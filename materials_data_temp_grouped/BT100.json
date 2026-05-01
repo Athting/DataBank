@@ -1,0 +1,18 @@
+{
+  "Material": "BT100",
+  "DOIs_Researched": [
+    "10.1039/c8nr09101c"
+  ],
+  "Data_By_Temperature": {
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "BT100",
+        "Property": "ZT",
+        "Value": 0.04,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8nr09101c"
+      }
+    ]
+  }
+}

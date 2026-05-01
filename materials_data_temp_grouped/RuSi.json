@@ -1,0 +1,18 @@
+{
+  "Material": "RuSi",
+  "DOIs_Researched": [
+    "10.1016/S0925-8388(98)00584-2"
+  ],
+  "Data_By_Temperature": {
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "RuSi",
+        "Property": "ZT",
+        "Value": 0.02,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(98)00584-2"
+      }
+    ]
+  }
+}

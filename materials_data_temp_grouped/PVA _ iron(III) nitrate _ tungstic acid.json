@@ -1,0 +1,18 @@
+{
+  "Material": "PVA / iron(III) nitrate / tungstic acid",
+  "DOIs_Researched": [
+    "10.1007/s12034-020-02188-2"
+  ],
+  "Data_By_Temperature": {
+    "298.0": [
+      {
+        "Original_Name_In_Paper": "PVA / iron(III) nitrate / tungstic acid",
+        "Property": "Conductivity",
+        "Value": 1.0399999999999999e-05,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s12034-020-02188-2"
+      }
+    ]
+  }
+}

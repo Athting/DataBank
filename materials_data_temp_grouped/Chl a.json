@@ -1,0 +1,18 @@
+{
+  "Material": "Chl a",
+  "DOIs_Researched": [
+    "10.1016/B978-0-12-369449-2.00016-3"
+  ],
+  "Data_By_Temperature": {
+    "284.9": [
+      {
+        "Original_Name_In_Paper": "Chl a",
+        "Property": "Conductivity",
+        "Value": 0.07384,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-12-369449-2.00016-3"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "CaO-doped STNO",
+  "DOIs_Researched": [
+    "10.1007/s10853-016-0048-8"
+  ],
+  "Data_By_Temperature": {
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "CaO-doped STNO",
+        "Property": "ZT",
+        "Value": 0.08,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-016-0048-8"
+      }
+    ]
+  }
+}

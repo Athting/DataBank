@@ -1,0 +1,90 @@
+{
+  "Material": "Zr0.7Hf0.3Ni1.03Sn",
+  "DOIs_Researched": [
+    "10.1039/c5cp05213k"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Zr0.7Hf0.3Ni1.03Sn",
+        "Property": "ThermCond",
+        "Value": 2.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5cp05213k"
+      },
+      {
+        "Original_Name_In_Paper": "Zr0.7Hf0.3Ni1.03Sn",
+        "Property": "ThermCond",
+        "Value": 2.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5cp05213k"
+      },
+      {
+        "Original_Name_In_Paper": "Zr0.7Hf0.3Ni1.03Sn",
+        "Property": "ZT",
+        "Value": 0.96,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5cp05213k"
+      },
+      {
+        "Original_Name_In_Paper": "Zr0.7Hf0.3Ni1.03Sn",
+        "Property": "ZT",
+        "Value": 0.96,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5cp05213k"
+      },
+      {
+        "Original_Name_In_Paper": "Zr0.7Hf0.3Ni1.03Sn",
+        "Property": "ZT",
+        "Value": 0.96,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5cp05213k"
+      },
+      {
+        "Original_Name_In_Paper": "Zr0.7Hf0.3Ni1.03Sn",
+        "Property": "ZT",
+        "Value": 0.96,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5cp05213k"
+      },
+      {
+        "Original_Name_In_Paper": "Zr0.7Hf0.3Ni1.03Sn",
+        "Property": "ZT",
+        "Value": 0.96,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5cp05213k"
+      },
+      {
+        "Original_Name_In_Paper": "Zr0.7Hf0.3Ni1.03Sn",
+        "Property": "Seebeck",
+        "Value": -0.000158,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5cp05213k"
+      },
+      {
+        "Original_Name_In_Paper": "Zr0.7Hf0.3Ni1.03Sn",
+        "Property": "PF",
+        "Value": 0.0030700000000000002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5cp05213k"
+      },
+      {
+        "Original_Name_In_Paper": "Zr0.7Hf0.3Ni1.03Sn",
+        "Property": "Conductivity",
+        "Value": 1230.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5cp05213k"
+      }
+    ]
+  }
+}

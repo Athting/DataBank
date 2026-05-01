@@ -1,0 +1,26 @@
+{
+  "Material": "BaYFeCoSb12",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2013.09.124"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Ba0.3Yb0.3Fe0.4Co3.6Sb12",
+        "Property": "PF",
+        "Value": 0.0047,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.09.124"
+      },
+      {
+        "Original_Name_In_Paper": "Ba0.3Yb0.3Fe0.4Co3.6Sb12",
+        "Property": "PF",
+        "Value": 0.0047,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.09.124"
+      }
+    ]
+  }
+}

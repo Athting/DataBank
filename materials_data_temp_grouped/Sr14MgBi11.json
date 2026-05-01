@@ -1,0 +1,27 @@
+{
+  "Material": "Sr14MgBi11",
+  "DOIs_Researched": [
+    "10.1016/j.mtadv.2020.100094",
+    "10.1016/j.jssc.2018.11.030"
+  ],
+  "Data_By_Temperature": {
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "Sr14MgBi11",
+        "Property": "ZT",
+        "Value": 0.71,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2018.11.030"
+      },
+      {
+        "Original_Name_In_Paper": "Sr14MgBi11",
+        "Property": "Seebeck",
+        "Value": 0.00013000000000000002,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtadv.2020.100094"
+      }
+    ]
+  }
+}

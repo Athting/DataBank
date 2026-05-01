@@ -1,0 +1,18 @@
+{
+  "Material": "n-type Te\u2013Ag\u2013Ge\u2013Sb",
+  "DOIs_Researched": [
+    "10.1016/j.enconman.2015.12.073"
+  ],
+  "Data_By_Temperature": {
+    "473.0": [
+      {
+        "Original_Name_In_Paper": "n-type Te\u2013Ag\u2013Ge\u2013Sb",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.enconman.2015.12.073"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "CoSb2.70Te0.25Sn0.05",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2011.10.001"
+  ],
+  "Data_By_Temperature": {
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "Te and Sn co-doped CoSb2.70Te0.25Sn0.05",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2011.10.001"
+      }
+    ]
+  }
+}

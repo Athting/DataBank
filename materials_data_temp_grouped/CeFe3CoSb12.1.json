@@ -1,0 +1,43 @@
+{
+  "Material": "CeFe3CoSb12.1",
+  "DOIs_Researched": [
+    "10.1039/c8ta01504j",
+    "10.1016/j.matpr.2020.05.808"
+  ],
+  "Data_By_Temperature": {
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "Ce0.95Fe3CoSb12.1",
+        "Property": "ZT",
+        "Value": 0.79,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matpr.2020.05.808"
+      },
+      {
+        "Original_Name_In_Paper": "Ce0.95Fe3CoSb12.1",
+        "Property": "ZT",
+        "Value": 0.79,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta01504j"
+      },
+      {
+        "Original_Name_In_Paper": "Ce0.95Fe3CoSb12.1",
+        "Property": "ZT",
+        "Value": 0.79,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta01504j"
+      },
+      {
+        "Original_Name_In_Paper": "Ce0.95Fe3CoSb12.1",
+        "Property": "ZT",
+        "Value": 0.79,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta01504j"
+      }
+    ]
+  }
+}

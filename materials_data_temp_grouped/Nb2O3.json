@@ -1,0 +1,18 @@
+{
+  "Material": "Nb2O3",
+  "DOIs_Researched": [
+    "10.1134/S1063782619130086"
+  ],
+  "Data_By_Temperature": {
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "Nb2O3",
+        "Property": "ZT",
+        "Value": 0.87,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1134/S1063782619130086"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Material": "PbS\u20132Cu2S",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2019.153453"
+  ],
+  "Data_By_Temperature": {
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "p-type Pb0.98Na0.02S\u20132 % Cu2S",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.153453"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Pb0.98Na0.02S\u20132 % Cu2S",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.153453"
+      }
+    ]
+  }
+}

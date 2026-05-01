@@ -1,0 +1,18 @@
+{
+  "Material": "pristine InSe",
+  "DOIs_Researched": [
+    "10.1039/c9qi00210c"
+  ],
+  "Data_By_Temperature": {
+    "795.0": [
+      {
+        "Original_Name_In_Paper": "pristine InSe",
+        "Property": "ZT",
+        "Value": 0.04,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9qi00210c"
+      }
+    ]
+  }
+}

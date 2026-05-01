@@ -1,0 +1,18 @@
+{
+  "Material": "Bi2O1.98Te0.02Se",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2019.104394"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Bi2O1.98Te0.02Se",
+        "Property": "Conductivity",
+        "Value": 15400.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2019.104394"
+      }
+    ]
+  }
+}

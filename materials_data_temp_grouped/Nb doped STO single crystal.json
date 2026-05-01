@@ -1,0 +1,18 @@
+{
+  "Material": "Nb doped STO single crystal",
+  "DOIs_Researched": [
+    "10.1016/j.pmatsci.2013.06.003"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Nb doped STO single crystal",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2013.06.003"
+      }
+    ]
+  }
+}

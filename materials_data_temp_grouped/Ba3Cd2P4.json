@@ -1,0 +1,18 @@
+{
+  "Material": "Ba3Cd2P4",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2020.121476"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ba3Cd2P4",
+        "Property": "Conductivity",
+        "Value": 55.5555555556,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2020.121476"
+      }
+    ]
+  }
+}

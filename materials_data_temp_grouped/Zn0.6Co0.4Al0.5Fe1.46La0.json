@@ -1,0 +1,18 @@
+{
+  "Material": "Zn0.6Co0.4Al0.5Fe1.46La0",
+  "DOIs_Researched": [
+    "10.1016/j.jmmm.2012.11.039"
+  ],
+  "Data_By_Temperature": {
+    "790.0": [
+      {
+        "Original_Name_In_Paper": "Zn0.6Co0.4Al0.5Fe1.46La0.04O4",
+        "Property": "Conductivity",
+        "Value": 0.0117,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmmm.2012.11.039"
+      }
+    ]
+  }
+}

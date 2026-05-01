@@ -1,0 +1,53 @@
+{
+  "Material": "Ti3C2Tx",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2020.154634",
+    "10.1016/j.mtener.2017.04.008"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ti3C2Tx film",
+        "Property": "PF",
+        "Value": 4.498e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154634"
+      },
+      {
+        "Original_Name_In_Paper": "Ti3C2Tx",
+        "Property": "PF",
+        "Value": 44.98,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154634"
+      },
+      {
+        "Original_Name_In_Paper": "Ti3C2Tx film",
+        "Property": "Conductivity",
+        "Value": 165200.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154634"
+      },
+      {
+        "Original_Name_In_Paper": "Ti3C2Tx film",
+        "Property": "Conductivity",
+        "Value": 165200.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154634"
+      }
+    ],
+    "548.5555555556": [
+      {
+        "Original_Name_In_Paper": "Ti3C2Tx films",
+        "Property": "Conductivity",
+        "Value": 22000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtener.2017.04.008"
+      }
+    ]
+  }
+}

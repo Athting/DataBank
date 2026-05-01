@@ -1,0 +1,18 @@
+{
+  "Material": "CoZrMnAl",
+  "DOIs_Researched": [
+    "10.1016/j.cocom.2018.03.006"
+  ],
+  "Data_By_Temperature": {
+    "1100.0": [
+      {
+        "Original_Name_In_Paper": "CoZrMnAl",
+        "Property": "Seebeck",
+        "Value": 3.3050000000000004e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cocom.2018.03.006"
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "Material": "Co0.93Ni0.07SbS",
+  "DOIs_Researched": [
+    "10.1039/c8ta05572f"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Co0.93Ni0.07SbS",
+        "Property": "ThermCond",
+        "Value": 7.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta05572f"
+      },
+      {
+        "Original_Name_In_Paper": "Co0.93Ni0.07SbS",
+        "Property": "ThermCond",
+        "Value": 7.3,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta05572f"
+      },
+      {
+        "Original_Name_In_Paper": "Co0.93Ni0.07SbS",
+        "Property": "Conductivity",
+        "Value": 34400.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta05572f"
+      }
+    ],
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "Co0.93Ni0.07SbS",
+        "Property": "PF",
+        "Value": 0.00193,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta05572f"
+      }
+    ]
+  }
+}

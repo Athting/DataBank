@@ -1,0 +1,26 @@
+{
+  "Material": "PbTe(0.8)PbS(0.2)Na_x",
+  "DOIs_Researched": [
+    "10.1039/c5ee01147g"
+  ],
+  "Data_By_Temperature": {
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "3 at % Na-doped (PbTe)0.8(PbS)0.2",
+        "Property": "ZT",
+        "Value": 2.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ee01147g"
+      },
+      {
+        "Original_Name_In_Paper": "3 at % Na-doped (PbTe)0.8(PbS)0.2",
+        "Property": "ZT",
+        "Value": 2.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ee01147g"
+      }
+    ]
+  }
+}

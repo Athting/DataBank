@@ -1,0 +1,26 @@
+{
+  "Material": "Pb0.2Sm0.03Te0.5Se0.5",
+  "DOIs_Researched": [
+    "10.1016/j.matdes.2018.08.001"
+  ],
+  "Data_By_Temperature": {
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "Pb0.2Sm0.03Te0.5Se0.5",
+        "Property": "ZT",
+        "Value": 1.03,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matdes.2018.08.001"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.2Sm0.03Te0.5Se0.5",
+        "Property": "ZT",
+        "Value": 1.03,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matdes.2018.08.001"
+      }
+    ]
+  }
+}

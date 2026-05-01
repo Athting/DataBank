@@ -1,0 +1,63 @@
+{
+  "Material": "SnSe0.8S0.2",
+  "DOIs_Researched": [
+    "10.1039/c7ta11285h",
+    "10.1016/j.apmt.2018.07.004",
+    "10.1007/s10853-020-04949-0",
+    "10.1007/s40820-020-0374-x"
+  ],
+  "Data_By_Temperature": {
+    "310.0": [
+      {
+        "Original_Name_In_Paper": "porous SnSe0.8S0.2 nanosheets",
+        "Property": "ZT",
+        "Value": 0.12,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s40820-020-0374-x"
+      },
+      {
+        "Original_Name_In_Paper": "porous SnSe0.8S0.2",
+        "Property": "ZT",
+        "Value": 0.12,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      }
+    ],
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "CSA-doped-PANi-coated SnSe0.8S0.2 nanosheet",
+        "Property": "PF",
+        "Value": 0.000297,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apmt.2018.07.004"
+      },
+      {
+        "Original_Name_In_Paper": "CSA-PANI-coated SnSe0.8S0.2",
+        "Property": "PF",
+        "Value": 0.000297,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ta11285h"
+      },
+      {
+        "Original_Name_In_Paper": "CSA-PANI-coated SnSe0.8S0.2",
+        "Property": "PF",
+        "Value": 0.000297,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ta11285h"
+      },
+      {
+        "Original_Name_In_Paper": "CSA-PANI-coated SnSe0.8S0.2",
+        "Property": "PF",
+        "Value": 0.000118,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ta11285h"
+      }
+    ]
+  }
+}

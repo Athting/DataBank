@@ -1,0 +1,36 @@
+{
+  "Material": "CdSnAs2",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2019.151772"
+  ],
+  "Data_By_Temperature": {
+    "725.0": [
+      {
+        "Original_Name_In_Paper": "pristine CdSnAs2",
+        "Property": "ThermCond",
+        "Value": 2.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.151772"
+      },
+      {
+        "Original_Name_In_Paper": "pristine CdSnAs2",
+        "Property": "ThermCond",
+        "Value": 2.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.151772"
+      }
+    ],
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "polycrystalline CdSnAs2",
+        "Property": "PF",
+        "Value": 0.0012000000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.151772"
+      }
+    ]
+  }
+}

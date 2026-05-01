@@ -1,0 +1,18 @@
+{
+  "Material": "n-type tin selenide",
+  "DOIs_Researched": [
+    "10.1016/j.apmt.2019.04.007"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "n-type tin selenide",
+        "Property": "ZT",
+        "Value": 2.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apmt.2019.04.007"
+      }
+    ]
+  }
+}

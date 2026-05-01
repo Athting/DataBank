@@ -1,0 +1,18 @@
+{
+  "Material": "Bi2Te3 + Sb2O3",
+  "DOIs_Researched": [
+    "10.1007/s11664-013-2792-8"
+  ],
+  "Data_By_Temperature": {
+    "333.0": [
+      {
+        "Original_Name_In_Paper": "(Bi,Sb)2Te3 + 2 vol. % Sb2O3",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-013-2792-8"
+      }
+    ]
+  }
+}

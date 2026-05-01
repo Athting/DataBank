@@ -1,0 +1,18 @@
+{
+  "Material": "Cu1.95Au0.05S1",
+  "DOIs_Researched": [
+    "10.1016/B978-0-12-803581-8.11719-9"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "Cu1.95Au0.05S1",
+        "Property": "ZT",
+        "Value": 1.92,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-12-803581-8.11719-9"
+      }
+    ]
+  }
+}

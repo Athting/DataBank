@@ -1,0 +1,18 @@
+{
+  "Material": "bismuth\u2013telluride-based",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2012.05.008"
+  ],
+  "Data_By_Temperature": {
+    "513.0": [
+      {
+        "Original_Name_In_Paper": "bismuth\u2013telluride-based",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2012.05.008"
+      }
+    ]
+  }
+}

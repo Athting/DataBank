@@ -1,0 +1,18 @@
+{
+  "Material": "FeNbSb:Ti",
+  "DOIs_Researched": [
+    "10.1016/j.cocom.2017.10.002"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "p-type Ti doped FeNbSb",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cocom.2017.10.002"
+      }
+    ]
+  }
+}

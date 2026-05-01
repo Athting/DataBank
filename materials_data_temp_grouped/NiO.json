@@ -1,0 +1,204 @@
+{
+  "Material": "NiO",
+  "DOIs_Researched": [
+    "10.1007/s11837-014-1218-2",
+    "10.1016/j.mssp.2018.04.010",
+    "10.1016/j.tsf.2015.04.043",
+    "10.1007/s10854-013-1404-y",
+    "10.1016/S0169-4332(02)00839-5",
+    "10.1016/j.energy.2019.04.045",
+    "10.1016/j.tsf.2017.08.047",
+    "10.1039/c3cc48877b",
+    "10.1007/s10876-018-1354-x",
+    "10.1016/j.ssc.2008.11.035",
+    "10.1016/j.ceramint.2012.02.099",
+    "10.1039/c5cs00831j",
+    "10.1016/j.matlet.2012.10.109"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "NiO",
+        "Property": "ThermCond",
+        "Value": 20.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11837-014-1218-2"
+      },
+      {
+        "Original_Name_In_Paper": "NiO single crystal",
+        "Property": "ThermCond",
+        "Value": 50.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11837-014-1218-2"
+      },
+      {
+        "Original_Name_In_Paper": "NiO",
+        "Property": "Conductivity",
+        "Value": 0.09871668310000001,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10876-018-1354-x"
+      },
+      {
+        "Original_Name_In_Paper": "NiO",
+        "Property": "Conductivity",
+        "Value": 0.09871668310000001,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2012.10.109"
+      },
+      {
+        "Original_Name_In_Paper": "Na-doped NiO thin films",
+        "Property": "Conductivity",
+        "Value": 8.6430423509,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2015.04.043"
+      },
+      {
+        "Original_Name_In_Paper": "undoped NiO thin films",
+        "Property": "Conductivity",
+        "Value": 2.9788501638,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2015.04.043"
+      },
+      {
+        "Original_Name_In_Paper": "Na-doped NiO thin films",
+        "Property": "Conductivity",
+        "Value": 33.3333333333,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2015.04.043"
+      },
+      {
+        "Original_Name_In_Paper": "NiO",
+        "Property": "Conductivity",
+        "Value": 0.0009891197000000001,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2017.08.047"
+      },
+      {
+        "Original_Name_In_Paper": "NiO thin film",
+        "Property": "Conductivity",
+        "Value": 0.8510638298000001,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3cc48877b"
+      },
+      {
+        "Original_Name_In_Paper": "nickel oxide",
+        "Property": "Conductivity",
+        "Value": 0.09871668310000001,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0169-4332(02)00839-5"
+      },
+      {
+        "Original_Name_In_Paper": "NiO",
+        "Property": "Conductivity",
+        "Value": 0.0009891197000000001,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2018.04.010"
+      },
+      {
+        "Original_Name_In_Paper": "NiO",
+        "Property": "Conductivity",
+        "Value": 1000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5cs00831j"
+      },
+      {
+        "Original_Name_In_Paper": "Pure NiO with NaCl",
+        "Property": "Conductivity",
+        "Value": 1000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2008.11.035"
+      }
+    ],
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "NiO doped with Li",
+        "Property": "ZT",
+        "Value": 2.42,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11837-014-1218-2"
+      }
+    ],
+    "770.0": [
+      {
+        "Original_Name_In_Paper": "NiO",
+        "Property": "ZT",
+        "Value": 0.049,
+        "Units": null,
+        "Editing": "Li doping",
+        "Source_DOI": "10.1016/j.ceramint.2012.02.099"
+      }
+    ],
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "NiO thin film",
+        "Property": "Conductivity",
+        "Value": 100.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2015.04.043"
+      }
+    ],
+    "473.0": [
+      {
+        "Original_Name_In_Paper": "Na-doped NiO thin films",
+        "Property": "Conductivity",
+        "Value": 15.8227848101,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2015.04.043"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "NiO films",
+        "Property": "Conductivity",
+        "Value": 1.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2018.04.010"
+      },
+      {
+        "Original_Name_In_Paper": "NiO",
+        "Property": "Seebeck",
+        "Value": 0.000101,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11837-014-1218-2"
+      }
+    ],
+    "1023.0": [
+      {
+        "Original_Name_In_Paper": "1.0 mol % NiO",
+        "Property": "PF",
+        "Value": 5.5e-07,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-013-1404-y"
+      }
+    ],
+    "383.0": [
+      {
+        "Original_Name_In_Paper": "PANI / NiO nanocomposite with 0.75 % of NiO",
+        "Property": "Conductivity",
+        "Value": 13.9,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.energy.2019.04.045"
+      }
+    ]
+  }
+}

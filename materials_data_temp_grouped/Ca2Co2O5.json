@@ -1,0 +1,240 @@
+{
+  "Material": "Ca2Co2O5",
+  "DOIs_Researched": [
+    "10.1016/j.mssp.2020.105304",
+    "10.1016/j.ceramint.2014.04.123",
+    "10.1007/s11666-020-01085-8",
+    "10.1039/c3ra44223c",
+    "10.1016/B978-0-444-59550-8.00013-2",
+    "10.1016/j.jeurceramsoc.2019.05.008",
+    "10.1016/j.matlet.2015.06.014"
+  ],
+  "Data_By_Temperature": {
+    "983.0": [
+      {
+        "Original_Name_In_Paper": "Ca2Co2O5",
+        "Property": "ThermCond",
+        "Value": 1.55,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2019.05.008"
+      },
+      {
+        "Original_Name_In_Paper": "Ca2Co2O5",
+        "Property": "ZT",
+        "Value": 0.21,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2019.05.008"
+      },
+      {
+        "Original_Name_In_Paper": "Ca2Co2O5",
+        "Property": "Conductivity",
+        "Value": 100000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2019.05.008"
+      },
+      {
+        "Original_Name_In_Paper": "Ca2Co2O5",
+        "Property": "Seebeck",
+        "Value": 0.000178,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2019.05.008"
+      }
+    ],
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "pure Ca2Co2O5",
+        "Property": "ThermCond",
+        "Value": 1.16,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2020.105304"
+      },
+      {
+        "Original_Name_In_Paper": "pure Ca2Co2O5",
+        "Property": "Conductivity",
+        "Value": 100000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2020.105304"
+      },
+      {
+        "Original_Name_In_Paper": "pure Ca2Co2O5",
+        "Property": "PF",
+        "Value": 0.00032,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-444-59550-8.00013-2"
+      },
+      {
+        "Original_Name_In_Paper": "Ca2Co2O5",
+        "Property": "Conductivity",
+        "Value": 14240.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2020.105304"
+      },
+      {
+        "Original_Name_In_Paper": "pure Ca2Co2O5",
+        "Property": "Conductivity",
+        "Value": 10900.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2020.105304"
+      }
+    ],
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Bi doped Ca2Co2O5 based",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ra44223c"
+      },
+      {
+        "Original_Name_In_Paper": "Ca2Co2O5",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2014.04.123"
+      },
+      {
+        "Original_Name_In_Paper": "Ca2Co2O5",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2020.105304"
+      },
+      {
+        "Original_Name_In_Paper": "Ca2Co2O5",
+        "Property": "ZT",
+        "Value": 0.266,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2020.105304"
+      },
+      {
+        "Original_Name_In_Paper": "pure Ca2Co2O5",
+        "Property": "ZT",
+        "Value": 0.266,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2019.05.008"
+      },
+      {
+        "Original_Name_In_Paper": "pure Ca2Co2O5",
+        "Property": "ZT",
+        "Value": 0.266,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2019.05.008"
+      },
+      {
+        "Original_Name_In_Paper": "pure Ca2Co2O5",
+        "Property": "Seebeck",
+        "Value": 0.000183,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2019.05.008"
+      },
+      {
+        "Original_Name_In_Paper": "pure Ca2Co2O5",
+        "Property": "PF",
+        "Value": 0.000354,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2019.05.008"
+      }
+    ],
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "Ca2Co2O5",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2020.105304"
+      }
+    ],
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "Ca2Co2O5",
+        "Property": "Conductivity",
+        "Value": 9.70874e-05,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11666-020-01085-8"
+      },
+      {
+        "Original_Name_In_Paper": "textured Ca2Co2O5",
+        "Property": "Conductivity",
+        "Value": 9.25926e-05,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11666-020-01085-8"
+      },
+      {
+        "Original_Name_In_Paper": "Ca2Co2O5",
+        "Property": "Conductivity",
+        "Value": 0.0016666667,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11666-020-01085-8"
+      },
+      {
+        "Original_Name_In_Paper": "Ca2Co2O5",
+        "Property": "Seebeck",
+        "Value": 0.00018199999999999998,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11666-020-01085-8"
+      }
+    ],
+    "305.0": [
+      {
+        "Original_Name_In_Paper": "Ca2Co2O5",
+        "Property": "Seebeck",
+        "Value": 0.000133,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2015.06.014"
+      }
+    ],
+    "862.0": [
+      {
+        "Original_Name_In_Paper": "Ca2Co2O5",
+        "Property": "PF",
+        "Value": 0.000124,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2020.105304"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Pure Ca2Co2O5",
+        "Property": "Conductivity",
+        "Value": 7945.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2019.05.008"
+      }
+    ],
+    "963.0": [
+      {
+        "Original_Name_In_Paper": "Ca2Co2O5",
+        "Property": "Conductivity",
+        "Value": 7030.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2015.06.014"
+      }
+    ]
+  }
+}

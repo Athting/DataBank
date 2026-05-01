@@ -1,0 +1,147 @@
+{
+  "Material": "Bi2Te2Se",
+  "DOIs_Researched": [
+    "10.1007/s10853-020-04949-0",
+    "10.1016/j.nanoen.2019.02.015",
+    "10.1016/j.physleta.2019.125864",
+    "10.1016/j.jallcom.2019.152649",
+    "10.1016/j.jallcom.2019.04.226",
+    "10.1039/c8cp05793a"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Bi2Te2Se",
+        "Property": "ThermCond",
+        "Value": 1.3,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8cp05793a"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Te2Se",
+        "Property": "ThermCond",
+        "Value": 3.92,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8cp05793a"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "monolayer Bi2Te2Se",
+        "Property": "ThermCond",
+        "Value": 1.9609999999999999,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physleta.2019.125864"
+      },
+      {
+        "Original_Name_In_Paper": "p-type 2D Bi2Te2Se",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2019.02.015"
+      },
+      {
+        "Original_Name_In_Paper": "p-type 2D Bi2Te2Se",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2019.02.015"
+      },
+      {
+        "Original_Name_In_Paper": "p-type 2D Bi2Te2Se",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2019.02.015"
+      },
+      {
+        "Original_Name_In_Paper": "p-type single-QL Bi2Te2Se",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2019.02.015"
+      },
+      {
+        "Original_Name_In_Paper": "p-type single-QL Bi2Te2Se",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2019.02.015"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Te2Se",
+        "Property": "Conductivity",
+        "Value": 714285.7142857143,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.04.226"
+      },
+      {
+        "Original_Name_In_Paper": "bulk Bi2Te2Se",
+        "Property": "Seebeck",
+        "Value": 1.3714000000000001e-06,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8cp05793a"
+      }
+    ],
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "monolayer Bi2Te2Se monolayer",
+        "Property": "ThermCond",
+        "Value": 0.649,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physleta.2019.125864"
+      }
+    ],
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "single-QL Bi2Te2Se",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2019.02.015"
+      }
+    ],
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "Cu-doped polycrystalline Bi2Te2\u00b77Se0.3",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.152649"
+      }
+    ],
+    "1200.0": [
+      {
+        "Original_Name_In_Paper": "monolayer Bi2Te2Se",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physleta.2019.125864"
+      }
+    ],
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Te2Se",
+        "Property": "ZT",
+        "Value": 0.9500000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      }
+    ]
+  }
+}

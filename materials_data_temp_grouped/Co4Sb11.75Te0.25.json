@@ -1,0 +1,36 @@
+{
+  "Material": "Co4Sb11.75Te0.25",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2019.07.189"
+  ],
+  "Data_By_Temperature": {
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "Co4Sb11.75Te0.25",
+        "Property": "Seebeck",
+        "Value": -0.000222,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.07.189"
+      }
+    ],
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "Co4Sb11.75Te0.25",
+        "Property": "Seebeck",
+        "Value": -0.00016,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.07.189"
+      },
+      {
+        "Original_Name_In_Paper": "Co4Sb11.75Te0.25",
+        "Property": "Conductivity",
+        "Value": 80000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.07.189"
+      }
+    ]
+  }
+}

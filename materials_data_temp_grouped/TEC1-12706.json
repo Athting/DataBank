@@ -1,0 +1,18 @@
+{
+  "Material": "TEC1-12706",
+  "DOIs_Researched": [
+    "10.1016/j.applthermaleng.2014.01.074"
+  ],
+  "Data_By_Temperature": {
+    "293.0": [
+      {
+        "Original_Name_In_Paper": "TEC1-12706",
+        "Property": "ZT",
+        "Value": 0.765,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.applthermaleng.2014.01.074"
+      }
+    ]
+  }
+}

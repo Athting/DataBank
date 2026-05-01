@@ -1,0 +1,28 @@
+{
+  "Material": "CoMoSb5.4Te1.6",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2010.05.124"
+  ],
+  "Data_By_Temperature": {
+    "772.0": [
+      {
+        "Original_Name_In_Paper": "Co0.05Mo3Sb5.4Te1.6",
+        "Property": "ZT",
+        "Value": 0.03,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.05.124"
+      }
+    ],
+    "320.0": [
+      {
+        "Original_Name_In_Paper": "Co0.05Mo3Sb5.4Te1.6",
+        "Property": "Conductivity",
+        "Value": 150000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.05.124"
+      }
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "Material": "Bi0.2Co2.8O4",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2018.12.170"
+  ],
+  "Data_By_Temperature": {
+    "510.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.2Co2.8O4",
+        "Property": "Seebeck",
+        "Value": 0.000435,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.12.170"
+      }
+    ],
+    "530.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.2Co2.8O4",
+        "Property": "PF",
+        "Value": 2.5000000000000002e-08,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.12.170"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.2Co2.8O4",
+        "Property": "PF",
+        "Value": 2.5000000000000002e-08,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.12.170"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.2Co2.8O4",
+        "Property": "PF",
+        "Value": 2.5000000000000002e-08,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.12.170"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.2Co2.8O4",
+        "Property": "PF",
+        "Value": 2.5000000000000002e-08,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.12.170"
+      }
+    ]
+  }
+}

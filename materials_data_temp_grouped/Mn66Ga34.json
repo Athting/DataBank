@@ -1,0 +1,18 @@
+{
+  "Material": "Mn66Ga34",
+  "DOIs_Researched": [
+    "10.1016/j.physb.2015.08.033"
+  ],
+  "Data_By_Temperature": {
+    "1323.0": [
+      {
+        "Original_Name_In_Paper": "Mn66Ga34 alloy",
+        "Property": "Conductivity",
+        "Value": 552486.1878453039,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2015.08.033"
+      }
+    ]
+  }
+}

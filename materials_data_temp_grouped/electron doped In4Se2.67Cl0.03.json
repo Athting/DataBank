@@ -1,0 +1,18 @@
+{
+  "Material": "electron doped In4Se2.67Cl0.03",
+  "DOIs_Researched": [
+    "10.1016/j.matlet.2018.01.050"
+  ],
+  "Data_By_Temperature": {
+    "713.0": [
+      {
+        "Original_Name_In_Paper": "electron doped In4Se2.67Cl0.03",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2018.01.050"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "B9C",
+  "DOIs_Researched": [
+    "10.1016/B978-044482548-3-50100-1"
+  ],
+  "Data_By_Temperature": {
+    "1273.0": [
+      {
+        "Original_Name_In_Paper": "B9C",
+        "Property": "ZT",
+        "Value": 0.06,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-044482548-3-50100-1"
+      }
+    ]
+  }
+}

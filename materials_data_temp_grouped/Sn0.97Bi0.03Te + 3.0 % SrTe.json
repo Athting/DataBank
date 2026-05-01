@@ -1,0 +1,28 @@
+{
+  "Material": "Sn0.97Bi0.03Te + 3.0 % SrTe",
+  "DOIs_Researched": [
+    "10.1039/c6qi00263c"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Sn0.97Bi0.03Te sample with 3.0 % SrTe",
+        "Property": "ThermCond",
+        "Value": 1.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6qi00263c"
+      }
+    ],
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.97Bi0.03Te sample with 3.0 % SrTe",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6qi00263c"
+      }
+    ]
+  }
+}

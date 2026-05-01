@@ -1,0 +1,18 @@
+{
+  "Material": "Bi2Te3.72Sb2Te3.25Sb2Se3",
+  "DOIs_Researched": [
+    "10.1007/s40820-016-0106-4"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "(Bi2Te3)0.25(Sb2Te3)0.72(Sb2Se3)0.03",
+        "Property": "ZT",
+        "Value": 1.1400000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s40820-016-0106-4"
+      }
+    ]
+  }
+}

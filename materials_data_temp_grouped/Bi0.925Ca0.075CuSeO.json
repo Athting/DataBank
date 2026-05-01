@@ -1,0 +1,134 @@
+{
+  "Material": "Bi0.925Ca0.075CuSeO",
+  "DOIs_Researched": [
+    "10.1038/am.2013.15",
+    "10.1016/j.jmrt.2020.11.022",
+    "10.1039/c3ta11806a",
+    "10.1016/j.apsusc.2016.10.209",
+    "10.1016/j.matdes.2019.108263"
+  ],
+  "Data_By_Temperature": {
+    "298.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.925Ca0.075Cu1\u2212xSeO",
+        "Property": "ThermCond",
+        "Value": 1.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmrt.2020.11.022"
+      }
+    ],
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.925Ca0.075Cu1\u2212xSeO",
+        "Property": "ThermCond",
+        "Value": 0.58,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmrt.2020.11.022"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.925Ca0.075CuSeO",
+        "Property": "ZT",
+        "Value": 0.53,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmrt.2020.11.022"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.925Ca0.075CuSeO",
+        "Property": "ZT",
+        "Value": 0.8300000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matdes.2019.108263"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.925Ca0.075CuSeO",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta11806a"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.925Ca0.075CuSeO",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta11806a"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.925Ca0.075CuSeO",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta11806a"
+      }
+    ],
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.925Ca0.075CuSeO",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2013.15"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.925Ca0.075CuSeO",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2013.15"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.925Ca0.075CuSeO",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2013.15"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.925Ca0.075CuSeO",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2013.15"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.925Ca0.075CuSeO",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2013.15"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.925Ca0.075CuSeO",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2016.10.209"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.925Ca0.075CuSeO",
+        "Property": "PF",
+        "Value": 0.000474,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2013.15"
+      }
+    ]
+  }
+}

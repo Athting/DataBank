@@ -1,0 +1,102 @@
+{
+  "doi": "10.1016/j.ceramint.2018.03.100",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "TiB2",
+        "10 wt % PVA incorporated TiB2",
+        "10 wt % PVA + TiB2",
+        "10 wt % of PVA incorporated TiB2 composite"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "10 wt % of PVA incorporated TiB2 composite",
+          "value": 0.0000363,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "550.0 K"
+        },
+        {
+          "material": "TiB2",
+          "value": -0.00001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "500.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "TiB2",
+          "value": 107,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "10 wt % PVA incorporated TiB2",
+          "value": 104,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "550.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "TiB2",
+          "value": 25,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "10 wt % PVA incorporated TiB2",
+          "value": 0.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "550.0 K"
+        },
+        {
+          "material": "10 wt % PVA + TiB2",
+          "value": 0.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "550.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "10 wt % PVA incorporated TiB2",
+          "zt_value": 0.06,
+          "temperature": "550.0 K"
+        },
+        {
+          "material": "TiB2",
+          "zt_value": 0.004,
+          "temperature": "500.0 K"
+        },
+        {
+          "material": "TiB2",
+          "zt_value": 0.12,
+          "temperature": "495.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

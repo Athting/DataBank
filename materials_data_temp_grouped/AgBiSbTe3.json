@@ -1,0 +1,91 @@
+{
+  "Material": "AgBiSbTe3",
+  "DOIs_Researched": [
+    "10.1016/j.matlet.2005.05.039",
+    "10.1039/c7tc04573e"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ag0.002Bi0.5Sb1.497Te3",
+        "Property": "ThermCond",
+        "Value": 0.44,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7tc04573e"
+      },
+      {
+        "Original_Name_In_Paper": "Ag0.01Bi0.5Sb1.49Te3",
+        "Property": "Seebeck",
+        "Value": 0.00010499999999999999,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7tc04573e"
+      },
+      {
+        "Original_Name_In_Paper": "Ag0.01Bi0.5Sb1.49Te3",
+        "Property": "Conductivity",
+        "Value": 201100.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7tc04573e"
+      }
+    ],
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "Ag0.01Bi0.5Sb1.49Te3",
+        "Property": "ThermCond",
+        "Value": 0.31,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7tc04573e"
+      }
+    ],
+    "663.0": [
+      {
+        "Original_Name_In_Paper": "Ag0.05Bi0.5Sb1.45Te3 alloy",
+        "Property": "ZT",
+        "Value": 0.87,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2005.05.039"
+      }
+    ],
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "Ag0.002Bi0.5Sb1.498Te3",
+        "Property": "ZT",
+        "Value": 1.25,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7tc04573e"
+      },
+      {
+        "Original_Name_In_Paper": "Ag0.002Bi0.5Sb1.498Te3",
+        "Property": "ZT",
+        "Value": 1.25,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7tc04573e"
+      },
+      {
+        "Original_Name_In_Paper": "Ag0.002Bi0.5Sb1.498Te3",
+        "Property": "ZT",
+        "Value": 1.25,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7tc04573e"
+      }
+    ],
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "Ag0.01Bi0.5Sb1.49Te3",
+        "Property": "Conductivity",
+        "Value": 2450.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7tc04573e"
+      }
+    ]
+  }
+}

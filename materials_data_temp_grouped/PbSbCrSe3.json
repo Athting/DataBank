@@ -1,0 +1,51 @@
+{
+  "Material": "PbSbCrSe3",
+  "DOIs_Researched": [
+    "10.1016/j.mattod.2018.03.039",
+    "10.1038/am.2017.77"
+  ],
+  "Data_By_Temperature": {
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "Pb0.05Sb0.95CrSe3",
+        "Property": "ZT",
+        "Value": 0.46,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mattod.2018.03.039"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.05Sb0.95CrSe3",
+        "Property": "ZT",
+        "Value": 0.46,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2017.77"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.05Sb0.95CrSe3",
+        "Property": "ZT",
+        "Value": 0.46,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2017.77"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.05Sb0.95CrSe3",
+        "Property": "ZT",
+        "Value": 0.46,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2017.77"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.05Sb0.95CrSe3",
+        "Property": "PF",
+        "Value": 0.00030000000000000003,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2017.77"
+      }
+    ]
+  }
+}

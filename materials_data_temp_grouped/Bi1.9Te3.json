@@ -1,0 +1,27 @@
+{
+  "Material": "Bi1.9Te3",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2019.02.187",
+    "10.1039/c6ra09767g"
+  ],
+  "Data_By_Temperature": {
+    "385.0": [
+      {
+        "Original_Name_In_Paper": "Bi1.9In0.1Te3 bulk materials",
+        "Property": "ZT",
+        "Value": 0.65,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra09767g"
+      },
+      {
+        "Original_Name_In_Paper": "n-type Bi1.9In0.1Te3 alloys",
+        "Property": "ZT",
+        "Value": 0.65,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.02.187"
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "Material": "Cu2ZnSnS4",
+  "DOIs_Researched": [
+    "10.1016/j.matpr.2018.02.078",
+    "10.1016/j.jallcom.2017.08.227",
+    "10.1039/c3mh00091e"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ni-doped Cu2ZnSnS4 nanocrystals",
+        "Property": "ThermCond",
+        "Value": 0.33,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3mh00091e"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "pure Cu2ZnSnS4 nanocrystal",
+        "Property": "ThermCond",
+        "Value": 0.62,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3mh00091e"
+      },
+      {
+        "Original_Name_In_Paper": "Ni-doped Cu2ZnSnS4",
+        "Property": "ZT",
+        "Value": 0.42,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3mh00091e"
+      },
+      {
+        "Original_Name_In_Paper": "pure Cu2ZnSnS4 nanocrystals",
+        "Property": "ZT",
+        "Value": 0.05,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3mh00091e"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2ZnSnS4 nanocrystals",
+        "Property": "ZT",
+        "Value": 0.05,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3mh00091e"
+      },
+      {
+        "Original_Name_In_Paper": "Ni-doped Cu2ZnSnS4 nanocrystals",
+        "Property": "Seebeck",
+        "Value": 0.000213,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3mh00091e"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2ZnSnS4 nanocrystals",
+        "Property": "Conductivity",
+        "Value": 2525.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3mh00091e"
+      }
+    ],
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "Cu2ZnSnS4",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matpr.2018.02.078"
+      }
+    ],
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "Cu2ZnSnS4",
+        "Property": "ZT",
+        "Value": 0.35000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.08.227"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "pure Cu2ZnSnS4 nanocrystals",
+        "Property": "Seebeck",
+        "Value": 0.000223,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3mh00091e"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "3D-CNT",
+  "DOIs_Researched": [
+    "10.1016/B978-0-08-100785-3.00006-1"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "3D-CNT",
+        "Property": "ThermCond",
+        "Value": 0.035,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-08-100785-3.00006-1"
+      }
+    ]
+  }
+}

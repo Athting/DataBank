@@ -1,0 +1,18 @@
+{
+  "Material": "Cu2.075Co0.925GeS4",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2020.154240"
+  ],
+  "Data_By_Temperature": {
+    "725.0": [
+      {
+        "Original_Name_In_Paper": "Cu2.075Co0.925GeS4",
+        "Property": "ZT",
+        "Value": 0.37,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154240"
+      }
+    ]
+  }
+}

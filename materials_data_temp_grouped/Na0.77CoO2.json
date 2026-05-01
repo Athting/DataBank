@@ -1,0 +1,18 @@
+{
+  "Material": "Na0.77CoO2",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2013.10.011"
+  ],
+  "Data_By_Temperature": {
+    "953.0": [
+      {
+        "Original_Name_In_Paper": "Na0.77CoO2",
+        "Property": "ZT",
+        "Value": 0.35000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2013.10.011"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "MoS3",
+  "DOIs_Researched": [
+    "10.1039/c9cp03639c"
+  ],
+  "Data_By_Temperature": {
+    "550.0": [
+      {
+        "Original_Name_In_Paper": "MoSSe",
+        "Property": "ZT",
+        "Value": 2.01,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9cp03639c"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Material": "NiSbS",
+  "DOIs_Researched": [
+    "10.1007/s10973-012-2192-y"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "NiSbS",
+        "Property": "Conductivity",
+        "Value": 0.0010416667000000001,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10973-012-2192-y"
+      },
+      {
+        "Original_Name_In_Paper": "NiSbS",
+        "Property": "Seebeck",
+        "Value": -9e-06,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10973-012-2192-y"
+      }
+    ]
+  }
+}

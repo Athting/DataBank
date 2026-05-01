@@ -1,0 +1,44 @@
+{
+  "Material": "Ba8Cu6Ge24Si16",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2016.04.210"
+  ],
+  "Data_By_Temperature": {
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "Ba8Cu6Ge24Si16",
+        "Property": "ThermCond",
+        "Value": 0.91,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.04.210"
+      }
+    ],
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "Ba8Cu6Ge24Si16",
+        "Property": "ZT",
+        "Value": 0.42,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.04.210"
+      },
+      {
+        "Original_Name_In_Paper": "Ba8Cu6Ge24Si16",
+        "Property": "ZT",
+        "Value": 0.42,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.04.210"
+      },
+      {
+        "Original_Name_In_Paper": "Ba8Cu6Ge24Si16",
+        "Property": "ZT",
+        "Value": 0.42,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.04.210"
+      }
+    ]
+  }
+}

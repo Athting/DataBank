@@ -1,0 +1,35 @@
+{
+  "Material": "Yb0.25La0.60Fe2.7Co1.3S",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2016.11.404",
+    "10.1016/j.intermet.2012.08.005"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Yb0.25La0.60Fe2.7Co1.3Sb12",
+        "Property": "ZT",
+        "Value": 0.99,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.11.404"
+      },
+      {
+        "Original_Name_In_Paper": "Yb0.25La0.60Fe2.7Co1.3Sb12",
+        "Property": "ZT",
+        "Value": 0.99,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2012.08.005"
+      },
+      {
+        "Original_Name_In_Paper": "Yb0.25La0.60Fe2.7Co1.3Sb12",
+        "Property": "ZT",
+        "Value": 0.99,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2012.08.005"
+      }
+    ]
+  }
+}

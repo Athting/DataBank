@@ -1,0 +1,18 @@
+{
+  "Material": "Cu \u00e7\\xad\u2030\u00e9 \u2021 \u2018 \u00e1\u02c6\u00b2\u00e4\u2013\u00b2 \u00e6\u017d\u00a5\u00ef\u00bc\u0152\u00e7 \u201d \u00a8\u00e5\u00a4\ufffd\u00e6\ufffd \u201a \u00e6\u017d\u00ba\u00e6\ufffd \u201a",
+  "DOIs_Researched": [
+    "10.1016/j.proeng.2011.12.429"
+  ],
+  "Data_By_Temperature": {
+    "298.0": [
+      {
+        "Original_Name_In_Paper": "Cu \u00e7\\xad\u2030\u00e9 \u2021 \u2018 \u00e1\u02c6\u00b2\u00e4\u2013\u00b2 \u00e6\u017d\u00a5\u00ef\u00bc\u0152\u00e7 \u201d \u00a8\u00e5\u00a4\ufffd\u00e6\ufffd \u201a \u00e6\u017d\u00ba\u00e6\ufffd \u201a",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.proeng.2011.12.429"
+      }
+    ]
+  }
+}

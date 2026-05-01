@@ -1,0 +1,18 @@
+{
+  "Material": "Ni(OAc)2",
+  "DOIs_Researched": [
+    "10.1016/j.matchemphys.2017.04.010"
+  ],
+  "Data_By_Temperature": {
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "Ni(OAc)2",
+        "Property": "ZT",
+        "Value": 1.07,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2017.04.010"
+      }
+    ]
+  }
+}

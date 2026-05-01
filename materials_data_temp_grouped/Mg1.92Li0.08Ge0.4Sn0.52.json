@@ -1,0 +1,34 @@
+{
+  "Material": "Mg1.92Li0.08Ge0.4Sn0.52",
+  "DOIs_Researched": [
+    "10.1016/j.scriptamat.2019.03.011"
+  ],
+  "Data_By_Temperature": {
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "Mg1.92Li0.08Ge0.4Sn0.525Si0.075",
+        "Property": "ZT",
+        "Value": 0.75,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2019.03.011"
+      },
+      {
+        "Original_Name_In_Paper": "Mg1.92Li0.08Ge0.4Sn0.525Si0.075",
+        "Property": "ZT",
+        "Value": 0.75,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2019.03.011"
+      },
+      {
+        "Original_Name_In_Paper": "Mg1.92Li0.08Ge0.4Sn0.525Si0.075",
+        "Property": "ZT",
+        "Value": 0.75,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2019.03.011"
+      }
+    ]
+  }
+}

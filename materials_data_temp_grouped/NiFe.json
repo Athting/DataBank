@@ -1,0 +1,18 @@
+{
+  "Material": "NiFe",
+  "DOIs_Researched": [
+    "10.1186/s11671-020-03343-8"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ni60Fe40",
+        "Property": "Seebeck",
+        "Value": -4.4999999999999996e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1186/s11671-020-03343-8"
+      }
+    ]
+  }
+}

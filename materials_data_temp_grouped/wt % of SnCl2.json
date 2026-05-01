@@ -1,0 +1,18 @@
+{
+  "Material": "wt % of SnCl2",
+  "DOIs_Researched": [
+    "10.1016/j.matpr.2020.11.398"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "wt % of SnCl2",
+        "Property": "ZT",
+        "Value": 0.12,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matpr.2020.11.398"
+      }
+    ]
+  }
+}

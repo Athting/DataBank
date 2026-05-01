@@ -1,0 +1,60 @@
+{
+  "doi": "10.1016/j.jallcom.2006.02.075",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Ti0.5(Zr0.5Hf0.5)0.5NiSn0.998Sb0.002",
+        "Ti0.5(Zr0.5Hf0.5)0.5 NiSn0.998Sb0.002"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Ti0.5(Zr0.5Hf0.5)0.5NiSn0.998Sb0.002",
+          "zt_value": 1.5,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "Ti0.5(Zr0.5Hf0.5)0.5NiSn0.998Sb0.002",
+          "zt_value": 1.5,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "Ti0.5(Zr0.5Hf0.5)0.5 NiSn0.998Sb0.002",
+          "zt_value": 1.5,
+          "temperature": "693.0 K"
+        },
+        {
+          "material": "Ti0.5(Zr0.5Hf0.5)0.5 NiSn0.998Sb0.002",
+          "zt_value": 1.5,
+          "temperature": "693.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "LaNi",
+  "DOIs_Researched": [
+    "10.1016/S0925-8388(05)01104-7"
+  ],
+  "Data_By_Temperature": {
+    "753.0": [
+      {
+        "Original_Name_In_Paper": "LaNi",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(05)01104-7"
+      }
+    ]
+  }
+}

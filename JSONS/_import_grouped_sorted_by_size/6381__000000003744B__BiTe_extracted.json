@@ -1,0 +1,150 @@
+{
+  "doi": "10.1016/j.apmt.2019.04.007",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "n-type BiTe(Se)",
+        "Bi–Te",
+        "BiTe-based materials",
+        "Bi–Te based material",
+        "BiTe-based material",
+        "pure BiTe thin films",
+        "BiTe",
+        "BiTe material",
+        "n-type Bi–Te compounds",
+        "Bi–Te compounds"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "BiTe",
+          "value": -0.000004,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "500.0 K"
+        },
+        {
+          "material": "n-type Bi–Te compounds",
+          "value": 0.00021099999999999998,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "298.0 K"
+        },
+        {
+          "material": "Bi–Te compounds",
+          "value": -0.000205,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "298.0 K"
+        },
+        {
+          "material": "Bi–Te compounds",
+          "value": -0.000205,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "298.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "n-type BiTe(Se)",
+          "value": 0.65,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi–Te",
+          "value": 0.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "BiTe",
+          "value": 4.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Bi–Te",
+          "value": 1.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "pure BiTe thin films",
+          "value": 0.0001096,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Bi–Te",
+          "zt_value": 1,
+          "temperature": "295 K"
+        },
+        {
+          "material": "BiTe-based materials",
+          "zt_value": 1,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi–Te",
+          "zt_value": 1.8599999999999999,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi–Te based material",
+          "zt_value": 2,
+          "temperature": "295 K"
+        },
+        {
+          "material": "n-type BiTe(Se)",
+          "zt_value": 0.85,
+          "temperature": "295 K"
+        },
+        {
+          "material": "BiTe-based materials",
+          "zt_value": 0.7000000000000001,
+          "temperature": "295 K"
+        },
+        {
+          "material": "BiTe-based material",
+          "zt_value": 0.9,
+          "temperature": "295 K"
+        },
+        {
+          "material": "BiTe material",
+          "zt_value": 2.01,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "BiTe",
+          "zt_value": 0.2,
+          "temperature": "500.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

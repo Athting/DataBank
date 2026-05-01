@@ -1,0 +1,36 @@
+{
+  "Material": "Tl9TbTe6",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2015.01.025"
+  ],
+  "Data_By_Temperature": {
+    "325.0": [
+      {
+        "Original_Name_In_Paper": "Tl9TbTe6",
+        "Property": "ThermCond",
+        "Value": 1.07,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.01.025"
+      }
+    ],
+    "315.0": [
+      {
+        "Original_Name_In_Paper": "Tl9TbTe6",
+        "Property": "Seebeck",
+        "Value": 5.3e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.01.025"
+      },
+      {
+        "Original_Name_In_Paper": "Tl9TbTe6",
+        "Property": "Conductivity",
+        "Value": 103900.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.01.025"
+      }
+    ]
+  }
+}

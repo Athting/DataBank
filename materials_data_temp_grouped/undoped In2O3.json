@@ -1,0 +1,39 @@
+{
+  "Material": "undoped In2O3",
+  "DOIs_Researched": [
+    "10.1007/s10853-018-2048-3",
+    "10.1016/j.ssc.2007.12.033"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "undoped In2O3",
+        "Property": "ThermCond",
+        "Value": 10.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2007.12.033"
+      }
+    ],
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "undoped In2O3",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-018-2048-3"
+      }
+    ],
+    "1100.0": [
+      {
+        "Original_Name_In_Paper": "undoped In2O3",
+        "Property": "PF",
+        "Value": 0.001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2007.12.033"
+      }
+    ]
+  }
+}

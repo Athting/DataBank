@@ -1,0 +1,28 @@
+{
+  "Material": "VSb2",
+  "DOIs_Researched": [
+    "10.1007/s10765-020-02630-x"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "VSb2 compound",
+        "Property": "ZT",
+        "Value": 0.024,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10765-020-02630-x"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "VSb2",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10765-020-02630-x"
+      }
+    ]
+  }
+}

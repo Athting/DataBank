@@ -1,0 +1,29 @@
+{
+  "Material": "ScPtBi",
+  "DOIs_Researched": [
+    "10.1016/j.physleta.2020.126789",
+    "10.1007/s40089-020-00310-0"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "ScPtBi",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physleta.2020.126789"
+      }
+    ],
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "ScPtBi",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s40089-020-00310-0"
+      }
+    ]
+  }
+}

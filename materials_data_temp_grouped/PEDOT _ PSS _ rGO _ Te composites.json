@@ -1,0 +1,18 @@
+{
+  "Material": "PEDOT : PSS / rGO / Te composites",
+  "DOIs_Researched": [
+    "10.1016/j.compositesb.2017.04.019"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "PEDOT : PSS / rGO / Te composites",
+        "Property": "PF",
+        "Value": 0.000143,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.compositesb.2017.04.019"
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "Material": "BaGaCoSb12.30",
+  "DOIs_Researched": [
+    "10.1039/c2jm31677c"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ba0.30Ga0.30Co4Sb12.30",
+        "Property": "ThermCond",
+        "Value": 3.3,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2jm31677c"
+      }
+    ],
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "Ba0.30Ga0.30Co4Sb12.30",
+        "Property": "ZT",
+        "Value": 1.35,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2jm31677c"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Ba0.30Ga0.30Co4Sb12.30",
+        "Property": "PF",
+        "Value": 0.0046,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2jm31677c"
+      },
+      {
+        "Original_Name_In_Paper": "Ba0.30Ga0.30Co4Sb12.30",
+        "Property": "PF",
+        "Value": 0.0032,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2jm31677c"
+      }
+    ]
+  }
+}

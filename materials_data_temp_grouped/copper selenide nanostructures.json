@@ -1,0 +1,18 @@
+{
+  "Material": "copper selenide nanostructures",
+  "DOIs_Researched": [
+    "10.1016/j.cap.2020.06.010"
+  ],
+  "Data_By_Temperature": {
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "copper selenide nanostructures",
+        "Property": "Seebeck",
+        "Value": 3.2999999999999996e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2020.06.010"
+      }
+    ]
+  }
+}

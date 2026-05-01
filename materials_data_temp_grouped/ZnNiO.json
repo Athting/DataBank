@@ -1,0 +1,95 @@
+{
+  "Material": "ZnNiO",
+  "DOIs_Researched": [
+    "10.1016/j.jeurceramsoc.2011.07.006",
+    "10.1016/j.jallcom.2008.05.101"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "Zn0.97Ni0.03O",
+        "Property": "ZT",
+        "Value": 0.09,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2011.07.006"
+      },
+      {
+        "Original_Name_In_Paper": "Zn0.97Ni0.03O",
+        "Property": "ZT",
+        "Value": 0.09,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2011.07.006"
+      },
+      {
+        "Original_Name_In_Paper": "Zn0.97Ni0.03O",
+        "Property": "PF",
+        "Value": 0.0006000000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2011.07.006"
+      }
+    ],
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "Zn0.97Ni0.03O",
+        "Property": "Seebeck",
+        "Value": 0.000503,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2008.05.101"
+      },
+      {
+        "Original_Name_In_Paper": "Zn0.97Ni0.03O",
+        "Property": "Seebeck",
+        "Value": 0.000503,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2008.05.101"
+      },
+      {
+        "Original_Name_In_Paper": "Zn0.97Ni0.03O",
+        "Property": "PF",
+        "Value": 0.00176,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2008.05.101"
+      },
+      {
+        "Original_Name_In_Paper": "Zn0.97Ni0.03O",
+        "Property": "PF",
+        "Value": 0.00176,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2008.05.101"
+      },
+      {
+        "Original_Name_In_Paper": "Zn0.97Ni0.03O",
+        "Property": "PF",
+        "Value": 0.00176,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2008.05.101"
+      },
+      {
+        "Original_Name_In_Paper": "Zn0.97Ni0.03O",
+        "Property": "Conductivity",
+        "Value": 6970.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2008.05.101"
+      }
+    ],
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "Zn0.97Ni0.03O",
+        "Property": "PF",
+        "Value": 0.0005600000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2011.07.006"
+      }
+    ]
+  }
+}

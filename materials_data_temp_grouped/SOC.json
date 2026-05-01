@@ -1,0 +1,102 @@
+{
+  "Material": "SOC",
+  "DOIs_Researched": [
+    "10.1557/jmr.2016.105",
+    "10.1039/c5ta10330d",
+    "10.1016/j.chemphys.2019.110510",
+    "10.1016/j.physleta.2016.10.039",
+    "10.1016/j.nanoen.2018.07.041",
+    "10.1016/j.physleta.2020.126789",
+    "10.1039/c5tc01440a"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "SOC",
+        "Property": "ZT",
+        "Value": 0.32,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2018.07.041"
+      },
+      {
+        "Original_Name_In_Paper": "SOC",
+        "Property": "Seebeck",
+        "Value": -0.0001539,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physleta.2016.10.039"
+      }
+    ],
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "SOC",
+        "Property": "ZT",
+        "Value": 0.48,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2018.07.041"
+      },
+      {
+        "Original_Name_In_Paper": "SOC",
+        "Property": "ZT",
+        "Value": 0.8200000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta10330d"
+      },
+      {
+        "Original_Name_In_Paper": "SOC",
+        "Property": "PF",
+        "Value": 0.004200000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01440a"
+      },
+      {
+        "Original_Name_In_Paper": "SOC",
+        "Property": "PF",
+        "Value": 0.004,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01440a"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "SOC",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physleta.2020.126789"
+      },
+      {
+        "Original_Name_In_Paper": "SOC",
+        "Property": "Seebeck",
+        "Value": 0.0014468999999999999,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.chemphys.2019.110510"
+      },
+      {
+        "Original_Name_In_Paper": "SOC",
+        "Property": "Seebeck",
+        "Value": 0.000138,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1557/jmr.2016.105"
+      }
+    ],
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "SOC",
+        "Property": "Seebeck",
+        "Value": -4.0340000000000003e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physleta.2020.126789"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Sr2TiFeO6",
+  "DOIs_Researched": [
+    "10.1007/s40243-019-0163-y"
+  ],
+  "Data_By_Temperature": {
+    "1124.0": [
+      {
+        "Original_Name_In_Paper": "Sr2TiFeO6",
+        "Property": "Seebeck",
+        "Value": 0.00029,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s40243-019-0163-y"
+      }
+    ]
+  }
+}

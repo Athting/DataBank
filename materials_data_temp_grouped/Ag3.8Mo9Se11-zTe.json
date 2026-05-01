@@ -1,0 +1,18 @@
+{
+  "Material": "Ag3.8Mo9Se11-zTe",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2017.12.213"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Ag3.8Mo9Se11-zTez",
+        "Property": "ThermCond",
+        "Value": 0.1,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.12.213"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Material": "NaNbO3",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2020.156630"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "NaNbO3 / Te",
+        "Property": "ZT",
+        "Value": 0.081,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.156630"
+      },
+      {
+        "Original_Name_In_Paper": "NaNbO3 / Te",
+        "Property": "PF",
+        "Value": 4.35e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.156630"
+      }
+    ]
+  }
+}

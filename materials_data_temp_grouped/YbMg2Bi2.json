@@ -1,0 +1,29 @@
+{
+  "Material": "YbMg2Bi2",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2015.08.039",
+    "10.1039/c6ta00507a"
+  ],
+  "Data_By_Temperature": {
+    "625.0": [
+      {
+        "Original_Name_In_Paper": "YbMg2Bi2",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta00507a"
+      }
+    ],
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "YbMg2Bi2",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2015.08.039"
+      }
+    ]
+  }
+}

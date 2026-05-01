@@ -1,0 +1,18 @@
+{
+  "Material": "Sn-codoped In4PbxSnySe3",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2014.06.196"
+  ],
+  "Data_By_Temperature": {
+    "733.0": [
+      {
+        "Original_Name_In_Paper": "Sn-codoped In4PbxSnySe3 polycrystalline compounds",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.06.196"
+      }
+    ]
+  }
+}

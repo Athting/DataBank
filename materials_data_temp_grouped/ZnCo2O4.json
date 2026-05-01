@@ -1,0 +1,18 @@
+{
+  "Material": "ZnCo2O4",
+  "DOIs_Researched": [
+    "10.1039/d0ra01542c"
+  ],
+  "Data_By_Temperature": {
+    "308.0": [
+      {
+        "Original_Name_In_Paper": "pure ZnCo2O4",
+        "Property": "ThermCond",
+        "Value": 2.42,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ra01542c"
+      }
+    ]
+  }
+}

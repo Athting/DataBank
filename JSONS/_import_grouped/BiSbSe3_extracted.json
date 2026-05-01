@@ -1,0 +1,183 @@
+{
+  "doi": "10.1016/j.jssc.2019.04.005",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "BiSbSe3",
+        "Cl-doped BiSbSe3",
+        "pristine BiSbSe3",
+        "undoped BiSbSe3",
+        "Br-doped BiSbSe3",
+        "p-type BiSbSe3",
+        "doped n-type polycrystal BiSbSe3",
+        "n-type BiSbSe3"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "BiSbSe3",
+          "value": -0.00048000000000000007,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine BiSbSe3",
+          "value": 0.00053021,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "undoped BiSbSe3",
+          "value": 0.30000000000000004,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine BiSbSe3",
+          "value": 0.05,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Br-doped BiSbSe3",
+          "value": 30000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "BiSbSe3",
+          "value": 0.64,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "BiSbSe3",
+          "value": 0.38,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Cl-doped BiSbSe3",
+          "value": 0.58,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "BiSbSe3",
+          "value": 0.6000000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "BiSbSe3",
+          "value": 0.38,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "BiSbSe3",
+          "value": 0.38,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "BiSbSe3",
+          "value": 0.64,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "p-type BiSbSe3",
+          "value": 0.1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "BiSbSe3",
+          "value": 0.39,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "700.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "BiSbSe3",
+          "zt_value": 1,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "BiSbSe3",
+          "zt_value": 1,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "Br-doped BiSbSe3",
+          "zt_value": 1,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "BiSbSe3",
+          "zt_value": 1,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "doped n-type polycrystal BiSbSe3",
+          "zt_value": 1,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "BiSbSe3",
+          "zt_value": 0.1,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "pristine BiSbSe3",
+          "zt_value": 0.06,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "n-type BiSbSe3",
+          "zt_value": 2.2,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "n-type BiSbSe3",
+          "zt_value": 2.9,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "n-type BiSbSe3",
+          "zt_value": 2.9,
+          "temperature": "750.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

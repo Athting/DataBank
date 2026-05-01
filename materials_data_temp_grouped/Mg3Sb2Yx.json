@@ -1,0 +1,18 @@
+{
+  "Material": "Mg3Sb2Yx",
+  "DOIs_Researched": [
+    "10.1016/j.matlet.2019.127056"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Mg3Sb2Yx",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2019.127056"
+      }
+    ]
+  }
+}

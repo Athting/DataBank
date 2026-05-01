@@ -1,0 +1,18 @@
+{
+  "Material": "Bi2Te3.6Se0.4",
+  "DOIs_Researched": [
+    "10.1039/c6ee02674e"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Te-rich Bi2(Te,Se)3",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ee02674e"
+      }
+    ]
+  }
+}

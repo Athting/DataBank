@@ -1,0 +1,18 @@
+{
+  "Material": "Sn0.655Mg0.04In0.005Pb",
+  "DOIs_Researched": [
+    "10.1039/c7tc00009j"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.655Mg0.04In0.005Pb0.30Te",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7tc00009j"
+      }
+    ]
+  }
+}

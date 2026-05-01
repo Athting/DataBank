@@ -1,0 +1,18 @@
+{
+  "Material": "about 10 \u2212 4\u201310 \u2212 3 \u03a9 cm",
+  "DOIs_Researched": [
+    "10.1039/c0nr00095g"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "about 10 \u2212 4\u201310 \u2212 3 \u03a9 cm",
+        "Property": "Conductivity",
+        "Value": 10.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c0nr00095g"
+      }
+    ]
+  }
+}

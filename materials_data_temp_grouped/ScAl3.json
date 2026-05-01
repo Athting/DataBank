@@ -1,0 +1,18 @@
+{
+  "Material": "ScAl3",
+  "DOIs_Researched": [
+    "10.1016/j.intermet.2012.08.014"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "pure ScAl3",
+        "Property": "Conductivity",
+        "Value": 9090909.09090909,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2012.08.014"
+      }
+    ]
+  }
+}

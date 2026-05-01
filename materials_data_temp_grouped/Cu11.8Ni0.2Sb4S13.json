@@ -1,0 +1,18 @@
+{
+  "Material": "Cu11.8Ni0.2Sb4S13",
+  "DOIs_Researched": [
+    "10.1007/s11664-019-07768-5"
+  ],
+  "Data_By_Temperature": {
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "Cu11.8Ni0.2Sb4S13",
+        "Property": "ZT",
+        "Value": 0.92,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-019-07768-5"
+      }
+    ]
+  }
+}

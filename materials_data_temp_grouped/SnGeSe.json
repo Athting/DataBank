@@ -1,0 +1,47 @@
+{
+  "Material": "SnGeSe",
+  "DOIs_Researched": [
+    "10.1038/srep26774",
+    "10.1016/j.pmatsci.2018.04.005"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.92Ge0.08Se",
+        "Property": "ThermCond",
+        "Value": 0.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": "doping of Ge",
+        "Source_DOI": "10.1016/j.pmatsci.2018.04.005"
+      }
+    ],
+    "390.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.8Ge0.2Se",
+        "Property": "ThermCond",
+        "Value": 0.23,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/srep26774"
+      }
+    ],
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.96Ge0.04Se",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2018.04.005"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.92Ge0.08Se",
+        "Property": "PF",
+        "Value": 0.000187,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2018.04.005"
+      }
+    ]
+  }
+}

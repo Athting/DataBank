@@ -1,0 +1,18 @@
+{
+  "Material": "Tl2Te",
+  "DOIs_Researched": [
+    "10.1557/PROC-0886-F08-03"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Tl2Te",
+        "Property": "ThermCond",
+        "Value": 0.35000000000000003,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1557/PROC-0886-F08-03"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Bi0.9Na0.1CuSeO",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2017.02.290"
+  ],
+  "Data_By_Temperature": {
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.9Na0.1CuSeO",
+        "Property": "PF",
+        "Value": 0.00046699999999999997,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.02.290"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "SBS-rGO_V composites",
+  "DOIs_Researched": [
+    "10.1016/j.matchemphys.2019.03.002"
+  ],
+  "Data_By_Temperature": {
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "SBS-rGO_V composites",
+        "Property": "Seebeck",
+        "Value": 9.55e-06,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2019.03.002"
+      }
+    ]
+  }
+}

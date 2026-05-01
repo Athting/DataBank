@@ -1,0 +1,18 @@
+{
+  "Material": "Ru / Nb",
+  "DOIs_Researched": [
+    "10.1016/j.physb.2015.10.001"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Ru / Nb",
+        "Property": "PF",
+        "Value": 0.000155,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2015.10.001"
+      }
+    ]
+  }
+}

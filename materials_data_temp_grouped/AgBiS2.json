@@ -1,0 +1,37 @@
+{
+  "Material": "AgBiS2",
+  "DOIs_Researched": [
+    "10.1016/j.cjph.2019.04.012",
+    "10.1007/s12648-015-0793-6"
+  ],
+  "Data_By_Temperature": {
+    "680.0": [
+      {
+        "Original_Name_In_Paper": "AgBiS2",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s12648-015-0793-6"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "\u03b2-AgBiS2",
+        "Property": "Seebeck",
+        "Value": 0.00018,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cjph.2019.04.012"
+      },
+      {
+        "Original_Name_In_Paper": "\u03b2-AgBiS2",
+        "Property": "Seebeck",
+        "Value": 0.000513,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cjph.2019.04.012"
+      }
+    ]
+  }
+}

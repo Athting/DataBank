@@ -1,0 +1,18 @@
+{
+  "Material": "icosanoic acid",
+  "DOIs_Researched": [
+    "10.1016/S0040-6090(98)00660-9"
+  ],
+  "Data_By_Temperature": {
+    "250.0": [
+      {
+        "Original_Name_In_Paper": "icosanoic acid",
+        "Property": "Conductivity",
+        "Value": 1000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0040-6090(98)00660-9"
+      }
+    ]
+  }
+}

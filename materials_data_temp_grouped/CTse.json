@@ -1,0 +1,18 @@
+{
+  "Material": "CTse",
+  "DOIs_Researched": [
+    "10.1039/c2ta00419d"
+  ],
+  "Data_By_Temperature": {
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "bulk CTSe",
+        "Property": "ZT",
+        "Value": 1.1400000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2ta00419d"
+      }
+    ]
+  }
+}

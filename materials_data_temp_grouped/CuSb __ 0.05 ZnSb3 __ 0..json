@@ -1,0 +1,18 @@
+{
+  "Material": "CuSb \\* 0.05 ZnSb3 \\* 0.",
+  "DOIs_Researched": [
+    "10.1016/j.cap.2008.06.012"
+  ],
+  "Data_By_Temperature": {
+    "654.0": [
+      {
+        "Original_Name_In_Paper": "(Cu2Sb)0.05\u2013(Zn4Sb3)0.95",
+        "Property": "ZT",
+        "Value": 0.72,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2008.06.012"
+      }
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "Material": "Pb3Bi2S6",
+  "DOIs_Researched": [
+    "10.1039/c4ta05135a"
+  ],
+  "Data_By_Temperature": {
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "Pb3Bi2S6",
+        "Property": "ThermCond",
+        "Value": 0.67,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta05135a"
+      }
+    ],
+    "715.0": [
+      {
+        "Original_Name_In_Paper": "Pb3Bi2S6",
+        "Property": "ZT",
+        "Value": 0.26,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta05135a"
+      },
+      {
+        "Original_Name_In_Paper": "Pb3Bi2S6",
+        "Property": "ZT",
+        "Value": 0.26,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta05135a"
+      },
+      {
+        "Original_Name_In_Paper": "Pb3Bi2S6",
+        "Property": "Seebeck",
+        "Value": -0.0002,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta05135a"
+      },
+      {
+        "Original_Name_In_Paper": "Pb3Bi2S6",
+        "Property": "PF",
+        "Value": 0.00024000000000000003,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta05135a"
+      },
+      {
+        "Original_Name_In_Paper": "Pb3Bi2S6",
+        "Property": "PF",
+        "Value": 0.00024000000000000003,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta05135a"
+      }
+    ],
+    "705.0": [
+      {
+        "Original_Name_In_Paper": "Pb3Bi2S6",
+        "Property": "PF",
+        "Value": 0.00030000000000000003,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta05135a"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Pb3Bi2S6",
+        "Property": "Conductivity",
+        "Value": 19300.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta05135a"
+      }
+    ]
+  }
+}

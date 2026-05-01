@@ -1,0 +1,18 @@
+{
+  "Material": "Sn0.555Ge0.15Pb0.075Mn",
+  "DOIs_Researched": [
+    "10.1016/B978-0-12-803581-8.11772-2"
+  ],
+  "Data_By_Temperature": {
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.555Ge0.15Pb0.075Mn0.275Te alloy",
+        "Property": "ZT",
+        "Value": 1.42,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-12-803581-8.11772-2"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Material": "LiAlSi",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2017.12.014"
+  ],
+  "Data_By_Temperature": {
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "LiAlSi",
+        "Property": "Seebeck",
+        "Value": 0.00016,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2017.12.014"
+      },
+      {
+        "Original_Name_In_Paper": "LiAlSi",
+        "Property": "Seebeck",
+        "Value": 6.829999999999999e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2017.12.014"
+      }
+    ]
+  }
+}

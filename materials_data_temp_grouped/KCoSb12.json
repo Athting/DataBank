@@ -1,0 +1,18 @@
+{
+  "Material": "KCoSb12",
+  "DOIs_Researched": [
+    "10.1038/asiamat.2010.138"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "K0.38Co4Sb12",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/asiamat.2010.138"
+      }
+    ]
+  }
+}

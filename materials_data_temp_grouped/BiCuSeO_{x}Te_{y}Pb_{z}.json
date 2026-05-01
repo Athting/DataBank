@@ -1,0 +1,18 @@
+{
+  "Material": "BiCuSeO_{x}Te_{y}Pb_{z}",
+  "DOIs_Researched": [
+    "10.1039/c7ee00464h"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Pb / Te co-doped BiCuSeO materials",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ee00464h"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "BBCO",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2020.06.213"
+  ],
+  "Data_By_Temperature": {
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "BBCO",
+        "Property": "PF",
+        "Value": 3.0000000000000004e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2020.06.213"
+      }
+    ]
+  }
+}

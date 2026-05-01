@@ -1,0 +1,730 @@
+{
+  "doi": "10.1039/c9ee03087e",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "PbS",
+        "pristine PbS",
+        "pure PbS",
+        "undoped PbS",
+        "PbS+1 % PbCl2",
+        "Cu-free Pb0.98Sb0.02S",
+        "PbS nanoparticles",
+        "PbS film",
+        "Na doped PbS",
+        "Ag-free PbS nanomaterials",
+        "PbS-0.067 % PbCl2-0.5 % Sb",
+        "PbS + 3 %",
+        "2.5 at. % Na-doped p-type PbS",
+        "n-type PbS",
+        "nanocrystalline PbS materials",
+        "Lead sulfide ( PbS )",
+        "p-type PbS",
+        "PbS ingot",
+        "PbCl2 doped PbS",
+        "Sb-doped PbS",
+        "PbS-0.067 % PbCl2-1.5 % Sb",
+        "PbS + 3 % SrS",
+        "PbS+ 3 % CaS / SrS",
+        "PbS–Ag 4.4 mol %",
+        "PbS nanocomposites with 4.4 mol % Ag",
+        "2.5 % Sb-doped PbS"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "PbS",
+          "value": 0.0006000000000000001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbS",
+          "value": -0.000329,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "p-type PbS",
+          "value": 0.0002,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "n-type PbS",
+          "value": -0.000185,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "PbS",
+          "value": 0.00008669999999999999,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "p-type PbS",
+          "value": 0.000083,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "523.0 K"
+        },
+        {
+          "material": "PbS",
+          "value": 0.000154,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "850.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "PbS",
+          "value": 0.9803921569,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbS",
+          "value": 181.8181818182,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbS",
+          "value": 181.8181818182,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbS",
+          "value": 0.03,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbS",
+          "value": 0.03,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbS",
+          "value": 0.03,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbS",
+          "value": 2.5,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbS",
+          "value": 0.03,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbS film",
+          "value": 80,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Na doped PbS",
+          "value": 76000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "undoped PbS",
+          "value": 2500,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Ag-free PbS nanomaterials",
+          "value": 7,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "undoped PbS",
+          "value": 13000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbS-0.067 % PbCl2-0.5 % Sb",
+          "value": 121900,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "n-type PbS",
+          "value": 20000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "PbS+1 % PbCl2",
+          "value": 191600,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "PbS+1 % PbCl2",
+          "value": 191600,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "p-type PbS",
+          "value": 106000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "523.0 K"
+        },
+        {
+          "material": "PbS",
+          "value": 1.1,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "423.0 K"
+        },
+        {
+          "material": "PbS",
+          "value": 1.1,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "423.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "PbS",
+          "value": 2.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine PbS",
+          "value": 1.33,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbS",
+          "value": 2.6,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure PbS",
+          "value": 2.3,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "undoped PbS",
+          "value": 1.7000000000000002,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbS",
+          "value": 1.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbS",
+          "value": 0.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbS",
+          "value": 2.7,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "undoped PbS",
+          "value": 2.56,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbS+1 % PbCl2",
+          "value": 3.9,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Cu-free Pb0.98Sb0.02S",
+          "value": 1.06,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbS",
+          "value": 2.35,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbS",
+          "value": 0.43,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "PbS + 3 %",
+          "value": 0.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "2.5 at. % Na-doped p-type PbS",
+          "value": 0.62,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "PbS",
+          "value": 0.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "PbS",
+          "value": 0.71,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "n-type PbS",
+          "value": 1.33,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "PbS",
+          "value": 0.62,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "undoped PbS",
+          "value": 1.3599999999999999,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "undoped PbS",
+          "value": 1.33,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "n-type PbS",
+          "value": 0.77,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "n-type PbS",
+          "value": 0.5700000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "n-type PbS",
+          "value": 1.33,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "pristine PbS",
+          "value": 2.36,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "298.0 K"
+        },
+        {
+          "material": "PbS ingot",
+          "value": 1.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "PbS",
+          "value": 0.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "PbS",
+          "value": 1.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "PbS",
+          "value": 1.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "PbS",
+          "value": 0.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "undoped PbS",
+          "value": 0.71,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "PbS",
+          "value": 0.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "p-type PbS",
+          "value": 0.11,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "n-type PbS",
+          "value": 1.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "p-type PbS",
+          "value": 0.30000000000000004,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "n-type PbS",
+          "value": 1.8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "Sb-doped PbS",
+          "value": 0.77,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "p-type PbS",
+          "value": 4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "p-type PbS",
+          "value": 1.1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "PbS+1 % PbCl2",
+          "value": 1.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "PbS+1 % PbCl2",
+          "value": 2.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "p-type PbS",
+          "value": 1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "523.0 K"
+        },
+        {
+          "material": "n-type PbS",
+          "value": 0.6000000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "930.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "undoped PbS",
+          "value": 0.00002,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "n-type PbS",
+          "value": 0.000224,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "PbS",
+          "value": 0.000225,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "pure PbS",
+          "value": 0.00059,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "298.0 K"
+        },
+        {
+          "material": "PbS",
+          "value": 0.00071,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "PbS-0.067 % PbCl2-1.5 % Sb",
+          "value": 0.0016,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "PbS–Ag 4.4 mol %",
+          "value": 0.00168,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "PbS nanocomposites with 4.4 mol % Ag",
+          "value": 0.00168,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "PbS",
+          "value": 0.000006,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "460.0 K"
+        },
+        {
+          "material": "PbS",
+          "value": 0.000006,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "460.0 K"
+        },
+        {
+          "material": "undoped PbS",
+          "value": 0.00018,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "623.0 K"
+        },
+        {
+          "material": "2.5 % Sb-doped PbS",
+          "value": 0.00167,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "623.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "PbS nanoparticles",
+          "zt_value": 2,
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbS",
+          "zt_value": 0.7000000000000001,
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbS",
+          "zt_value": 1.1,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "PbS",
+          "zt_value": 2.3,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "PbS",
+          "zt_value": 2.3,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "nanocrystalline PbS materials",
+          "zt_value": 0.5,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "PbS",
+          "zt_value": 0.30000000000000004,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "PbS",
+          "zt_value": 0.30000000000000004,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "PbS",
+          "zt_value": 1.3,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "n-type PbS",
+          "zt_value": 1.1,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "n-type PbS",
+          "zt_value": 1.1,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "Lead sulfide ( PbS )",
+          "zt_value": 1.1,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "PbS",
+          "zt_value": 0.5,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "PbS",
+          "zt_value": 0.8,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "PbS",
+          "zt_value": 0.5,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "PbS ingot",
+          "zt_value": 0.31,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "PbCl2 doped PbS",
+          "zt_value": 0.8,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "n-type PbS",
+          "zt_value": 0.8,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "PbS",
+          "zt_value": 0.8,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "PbS-0.067 % PbCl2-1.5 % Sb",
+          "zt_value": 1,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "PbS-0.067 % PbCl2-1.5 % Sb",
+          "zt_value": 1,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "PbS-0.067 % PbCl2-1.5 % Sb",
+          "zt_value": 1,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "PbS + 3 % SrS",
+          "zt_value": 1.2,
+          "temperature": "930.0 K"
+        },
+        {
+          "material": "PbS",
+          "zt_value": 0.8,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "PbS",
+          "zt_value": 0.8,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "PbS-0.067 % PbCl2-1.5 % Sb",
+          "zt_value": 1,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "PbS",
+          "zt_value": 0.4,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "PbS",
+          "zt_value": 0.4,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "PbS",
+          "zt_value": 1.8,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "PbS",
+          "zt_value": 1.72,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "n-type PbS",
+          "zt_value": 0.9,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "PbS+ 3 % CaS / SrS",
+          "zt_value": 0.8,
+          "temperature": "423.0 K"
+        },
+        {
+          "material": "pure PbS",
+          "zt_value": 1.07,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "pure PbS",
+          "zt_value": 0.17,
+          "temperature": "850.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

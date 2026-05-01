@@ -1,0 +1,18 @@
+{
+  "Material": "CuBi0.6",
+  "DOIs_Researched": [
+    "10.1016/j.scriptamat.2020.05.039"
+  ],
+  "Data_By_Temperature": {
+    "360.0": [
+      {
+        "Original_Name_In_Paper": "CuBi06",
+        "Property": "ZT",
+        "Value": 0.008,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2020.05.039"
+      }
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "Material": "MgSn",
+  "DOIs_Researched": [
+    "10.1016/j.tsf.2019.137601",
+    "10.1016/j.jallcom.2019.05.214",
+    "10.1038/s41598-020-58998-1",
+    "10.1016/j.jallcom.2018.05.054",
+    "10.1016/j.jallcom.2011.07.085"
+  ],
+  "Data_By_Temperature": {
+    "650.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Sn single crystal",
+        "Property": "ThermCond",
+        "Value": 1.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": "point defect",
+        "Source_DOI": "10.1038/s41598-020-58998-1"
+      }
+    ],
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Sn alloys",
+        "Property": "ZT",
+        "Value": 0.015,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.05.054"
+      }
+    ],
+    "473.0": [
+      {
+        "Original_Name_In_Paper": "Ag doped Mg2Sn alloy",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.05.054"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Mg2Sn thin films",
+        "Property": "Conductivity",
+        "Value": 100000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2019.137601"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Sn thin films",
+        "Property": "PF",
+        "Value": 0.005,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2011.07.085"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Sn thin films",
+        "Property": "PF",
+        "Value": 0.00502,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2011.07.085"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Sn thin film doped with 1 at. % Ag",
+        "Property": "PF",
+        "Value": 0.005,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.05.214"
+      }
+    ]
+  }
+}

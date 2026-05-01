@@ -1,0 +1,18 @@
+{
+  "Material": "Ti co-doped AZO films",
+  "DOIs_Researched": [
+    "10.1016/j.materresbull.2017.06.017"
+  ],
+  "Data_By_Temperature": {
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "Ti co-doped AZO films",
+        "Property": "PF",
+        "Value": 0.00128,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2017.06.017"
+      }
+    ]
+  }
+}

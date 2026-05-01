@@ -1,0 +1,18 @@
+{
+  "Material": "doped SWCNT / P3HT nanocomposite films",
+  "DOIs_Researched": [
+    "10.1016/j.pmatsci.2017.09.004"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "doped SWCNT / P3HT nanocomposite films",
+        "Property": "ZT",
+        "Value": 0.015,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2017.09.004"
+      }
+    ]
+  }
+}

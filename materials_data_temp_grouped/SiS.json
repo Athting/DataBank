@@ -1,0 +1,18 @@
+{
+  "Material": "SiS",
+  "DOIs_Researched": [
+    "10.1016/j.mtcomm.2020.101702"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "SiS",
+        "Property": "Seebeck",
+        "Value": 0.0016400000000000002,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtcomm.2020.101702"
+      }
+    ]
+  }
+}

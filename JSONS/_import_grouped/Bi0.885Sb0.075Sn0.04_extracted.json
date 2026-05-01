@@ -1,0 +1,50 @@
+{
+  "doi": "10.1016/j.ijheatmasstransfer.2015.01.107",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Bi0.885Sb0.075Sn0.04",
+        "p-type Bi0.885Sb0.075Sn0.04"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Bi0.885Sb0.075Sn0.04",
+          "zt_value": 0.08,
+          "temperature": "200.0 K"
+        },
+        {
+          "material": "p-type Bi0.885Sb0.075Sn0.04",
+          "zt_value": 0.08,
+          "temperature": "200.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

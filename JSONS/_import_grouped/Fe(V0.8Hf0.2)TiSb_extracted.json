@@ -1,0 +1,54 @@
+{
+  "doi": "10.1016/j.jpowsour.2020.228768",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Fe(V0.8Hf0.2)0.8Ti0.2Sb"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Fe(V0.8Hf0.2)0.8Ti0.2Sb",
+          "zt_value": 0.30000000000000004,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Fe(V0.8Hf0.2)0.8Ti0.2Sb",
+          "zt_value": 0.27,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Fe(V0.8Hf0.2)0.8Ti0.2Sb",
+          "zt_value": 0.27,
+          "temperature": "873.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

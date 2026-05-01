@@ -1,0 +1,18 @@
+{
+  "Material": "CeO2\u2010based",
+  "DOIs_Researched": [
+    "10.1016/S0927-5193(07)13010-2"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "CeO2\u2010based",
+        "Property": "Conductivity",
+        "Value": 1.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0927-5193(07)13010-2"
+      }
+    ]
+  }
+}

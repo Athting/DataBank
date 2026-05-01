@@ -1,0 +1,18 @@
+{
+  "Material": "NaRh2O4",
+  "DOIs_Researched": [
+    "10.1007/s11664-017-6002-y"
+  ],
+  "Data_By_Temperature": {
+    "250.0": [
+      {
+        "Original_Name_In_Paper": "NaRh2O4 compound",
+        "Property": "ZT",
+        "Value": 0.79,
+        "Units": null,
+        "Editing": "Ca substitution",
+        "Source_DOI": "10.1007/s11664-017-6002-y"
+      }
+    ]
+  }
+}

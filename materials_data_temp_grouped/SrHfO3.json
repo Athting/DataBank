@@ -1,0 +1,27 @@
+{
+  "Material": "SrHfO3",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2004.05.039",
+    "10.1016/j.jallcom.2004.03.113"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "SrHfO3",
+        "Property": "ThermCond",
+        "Value": 5.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2004.03.113"
+      },
+      {
+        "Original_Name_In_Paper": "SrHfO3",
+        "Property": "ThermCond",
+        "Value": 5.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2004.05.039"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Cu(Ir",
+  "DOIs_Researched": [
+    "10.1016/S0921-4526(06)01809-6"
+  ],
+  "Data_By_Temperature": {
+    "273.0": [
+      {
+        "Original_Name_In_Paper": "Cu(Ir",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0921-4526(06)01809-6"
+      }
+    ]
+  }
+}

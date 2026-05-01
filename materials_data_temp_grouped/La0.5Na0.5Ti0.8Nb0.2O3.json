@@ -1,0 +1,18 @@
+{
+  "Material": "La0.5Na0.5Ti0.8Nb0.2O3",
+  "DOIs_Researched": [
+    "10.1039/c7ee01510k"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "La0.5Na0.5Ti0.8Nb0.2O3",
+        "Property": "PF",
+        "Value": 0.00062,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ee01510k"
+      }
+    ]
+  }
+}

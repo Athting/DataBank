@@ -1,0 +1,18 @@
+{
+  "Material": "NaAgSbTe",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2010.10.131"
+  ],
+  "Data_By_Temperature": {
+    "620.0": [
+      {
+        "Original_Name_In_Paper": "Na0.02Ag0.98SbTe2.02",
+        "Property": "Conductivity",
+        "Value": 25000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.10.131"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Ba0.90Na0.10Cu2Se2",
+  "DOIs_Researched": [
+    "10.1039/c4dt03556a"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ba0.90Na0.10Cu2Se2",
+        "Property": "Seebeck",
+        "Value": 7.3e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4dt03556a"
+      }
+    ]
+  }
+}

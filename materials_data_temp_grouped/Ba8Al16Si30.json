@@ -1,0 +1,39 @@
+{
+  "Material": "Ba8Al16Si30",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2015.11.017",
+    "10.1007/s10853-012-6977-y"
+  ],
+  "Data_By_Temperature": {
+    "1150.0": [
+      {
+        "Original_Name_In_Paper": "Ba8Al16Si30",
+        "Property": "ZT",
+        "Value": 0.34,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-012-6977-y"
+      }
+    ],
+    "320.0": [
+      {
+        "Original_Name_In_Paper": "Ba8Al16Si30",
+        "Property": "Conductivity",
+        "Value": 92506.9380203515,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2015.11.017"
+      }
+    ],
+    "670.0": [
+      {
+        "Original_Name_In_Paper": "Ba8Al16Si30",
+        "Property": "Seebeck",
+        "Value": -3.6e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2015.11.017"
+      }
+    ]
+  }
+}

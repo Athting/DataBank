@@ -1,0 +1,18 @@
+{
+  "Material": "CrPbTe0.5Se0.5",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2015.02.026"
+  ],
+  "Data_By_Temperature": {
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "Cr0.01Pb0.99Te0.5Se0.5",
+        "Property": "ThermCond",
+        "Value": 0.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2015.02.026"
+      }
+    ]
+  }
+}

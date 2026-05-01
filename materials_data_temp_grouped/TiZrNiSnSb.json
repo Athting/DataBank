@@ -1,0 +1,37 @@
+{
+  "Material": "TiZrNiSnSb",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2017.03.071",
+    "10.1039/c4dt00430b"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ti0.5Zr0.5NiSn0.98Sb0.02",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2017.03.071"
+      },
+      {
+        "Original_Name_In_Paper": "Ti0.1Zr0.9NiSn0.975Sb0.025",
+        "Property": "Conductivity",
+        "Value": 420000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4dt00430b"
+      }
+    ],
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "Ti0.50Zr0.50NiSn0.98Sb0.02",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2017.03.071"
+      }
+    ]
+  }
+}

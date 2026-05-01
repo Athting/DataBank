@@ -1,0 +1,26 @@
+{
+  "Material": "ZnNaSb",
+  "DOIs_Researched": [
+    "10.1016/j.jmat.2016.08.003"
+  ],
+  "Data_By_Temperature": {
+    "623.0": [
+      {
+        "Original_Name_In_Paper": "Zn0.995Na0.05Sb",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2016.08.003"
+      },
+      {
+        "Original_Name_In_Paper": "Zn0.995Na0.005Sb",
+        "Property": "ZT",
+        "Value": 0.99,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2016.08.003"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "BCCO-3",
+  "DOIs_Researched": [
+    "10.1016/j.matchemphys.2008.08.029"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "BCCO-3",
+        "Property": "Conductivity",
+        "Value": 15300.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2008.08.029"
+      }
+    ]
+  }
+}

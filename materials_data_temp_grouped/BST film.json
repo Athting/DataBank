@@ -1,0 +1,26 @@
+{
+  "Material": "BST film",
+  "DOIs_Researched": [
+    "10.1007/s13204-020-01441-8"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "BST film",
+        "Property": "PF",
+        "Value": 0.0029000000000000002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s13204-020-01441-8"
+      },
+      {
+        "Original_Name_In_Paper": "BST film",
+        "Property": "PF",
+        "Value": 0.0027500000000000003,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": "In addition",
+        "Source_DOI": "10.1007/s13204-020-01441-8"
+      }
+    ]
+  }
+}

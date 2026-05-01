@@ -1,0 +1,18 @@
+{
+  "Material": "Ni-co-doped AZO",
+  "DOIs_Researched": [
+    "10.1007/s11664-011-1529-9"
+  ],
+  "Data_By_Temperature": {
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "Ni-co-doped AZO",
+        "Property": "ZT",
+        "Value": 0.126,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-011-1529-9"
+      }
+    ]
+  }
+}

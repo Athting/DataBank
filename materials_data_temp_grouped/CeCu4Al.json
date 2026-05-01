@@ -1,0 +1,18 @@
+{
+  "Material": "CeCu4Al",
+  "DOIs_Researched": [
+    "10.1016/j.intermet.2011.08.009"
+  ],
+  "Data_By_Temperature": {
+    "27.0": [
+      {
+        "Original_Name_In_Paper": "CeCu4Al compound",
+        "Property": "Seebeck",
+        "Value": 8.5e-06,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2011.08.009"
+      }
+    ]
+  }
+}

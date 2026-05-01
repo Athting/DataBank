@@ -1,0 +1,58 @@
+{
+  "Material": "Ag1.2Cu0.8Te",
+  "DOIs_Researched": [
+    "10.1016/j.jmat.2019.01.008"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Ag1.2Cu0.8Te",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2019.01.008"
+      },
+      {
+        "Original_Name_In_Paper": "Ag1.2Cu0.8Te",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2019.01.008"
+      },
+      {
+        "Original_Name_In_Paper": "Ag1.2Cu0.8Te",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2019.01.008"
+      },
+      {
+        "Original_Name_In_Paper": "Ag1.2Cu0.8Te",
+        "Property": "ZT",
+        "Value": 1.34,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2019.01.008"
+      },
+      {
+        "Original_Name_In_Paper": "Ag1.2Cu0.8Te",
+        "Property": "ZT",
+        "Value": 0.78,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2019.01.008"
+      },
+      {
+        "Original_Name_In_Paper": "Ag1.2Cu0.8Te",
+        "Property": "ZT",
+        "Value": 1.34,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2019.01.008"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "BiSrCo",
+  "DOIs_Researched": [
+    "10.1016/j.physb.2011.04.066"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Bi\u2013Sr\u2013Co",
+        "Property": "ZT",
+        "Value": 0.025,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2011.04.066"
+      }
+    ]
+  }
+}

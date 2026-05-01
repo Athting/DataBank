@@ -1,0 +1,36 @@
+{
+  "Material": "Hf2CO2",
+  "DOIs_Researched": [
+    "10.1039/c7tc00140a",
+    "10.1038/srep27971",
+    "10.1016/j.mtener.2017.04.008"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Hf2CO2",
+        "Property": "ThermCond",
+        "Value": 86.25,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/srep27971"
+      },
+      {
+        "Original_Name_In_Paper": "Hf2CO2",
+        "Property": "ThermCond",
+        "Value": 86.25,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtener.2017.04.008"
+      },
+      {
+        "Original_Name_In_Paper": "Hf2CO2",
+        "Property": "ThermCond",
+        "Value": 27.63,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7tc00140a"
+      }
+    ]
+  }
+}

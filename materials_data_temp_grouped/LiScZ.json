@@ -1,0 +1,18 @@
+{
+  "Material": "LiScZ",
+  "DOIs_Researched": [
+    "10.1016/j.physb.2020.412536"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "LiScZ",
+        "Property": "Seebeck",
+        "Value": 0.001807,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2020.412536"
+      }
+    ]
+  }
+}

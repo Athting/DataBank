@@ -1,0 +1,18 @@
+{
+  "Material": "Bi2Te2Se0.3",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2019.152649"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Te2\u00b77Se0.3",
+        "Property": "PF",
+        "Value": 0.0035,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.152649"
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "Material": "Bi0.925In0.075CuSeO",
+  "DOIs_Researched": [
+    "10.1016/j.apsusc.2018.12.231"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.925In0.075CuSeO",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2018.12.231"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.925In0.075CuSeO",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2018.12.231"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.925In0.075CuSeO",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2018.12.231"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Bi0.925In0.075CuSeO",
+        "Property": "Conductivity",
+        "Value": 605.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2018.12.231"
+      }
+    ]
+  }
+}

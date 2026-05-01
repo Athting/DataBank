@@ -1,0 +1,18 @@
+{
+  "Material": "SrTe, PbTe",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2016.04.308"
+  ],
+  "Data_By_Temperature": {
+    "915.0": [
+      {
+        "Original_Name_In_Paper": "SrTe / Na-doped PbTe",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.04.308"
+      }
+    ]
+  }
+}

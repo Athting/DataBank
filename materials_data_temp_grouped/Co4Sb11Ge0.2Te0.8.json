@@ -1,0 +1,18 @@
+{
+  "Material": "Co4Sb11Ge0.2Te0.8",
+  "DOIs_Researched": [
+    "10.1007/s10853-014-8141-3"
+  ],
+  "Data_By_Temperature": {
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "nano-structured Co4Sb11Ge0.2Te0.8",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-014-8141-3"
+      }
+    ]
+  }
+}

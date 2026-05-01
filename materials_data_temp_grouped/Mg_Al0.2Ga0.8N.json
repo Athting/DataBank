@@ -1,0 +1,18 @@
+{
+  "Material": "Mg:Al0.2Ga0.8N",
+  "DOIs_Researched": [
+    "10.1016/B978-044450630-6-50003-9"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Mg-doped Al0.2Ga0.8N",
+        "Property": "Conductivity",
+        "Value": 500.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-044450630-6-50003-9"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "Material": "MnReSi",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2018.10.209"
+  ],
+  "Data_By_Temperature": {
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "Mn34.3Re1.4Si64.3",
+        "Property": "ZT",
+        "Value": 0.64,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.10.209"
+      }
+    ],
+    "920.0": [
+      {
+        "Original_Name_In_Paper": "Mn30.4Re6.0Si63.6",
+        "Property": "ZT",
+        "Value": 1.04,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.10.209"
+      }
+    ]
+  }
+}

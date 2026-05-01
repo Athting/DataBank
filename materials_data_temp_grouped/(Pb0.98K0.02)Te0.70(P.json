@@ -1,0 +1,18 @@
+{
+  "Material": "(Pb0.98K0.02)Te0.70(P",
+  "DOIs_Researched": [
+    "10.1039/c6ra11299d"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "(Pb0.98K0.020Te)0.70(PbSe)0.25(PbS)0.05 compound",
+        "Property": "ZT",
+        "Value": 1.72,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra11299d"
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "Material": "Cu2.1Zn0.9SnSe4",
+  "DOIs_Researched": [
+    "10.1038/am.2013.15",
+    "10.1039/c5tc02948a",
+    "10.1016/j.mtcomm.2020.101441",
+    "10.1016/j.intermet.2014.06.014",
+    "10.1016/j.matdes.2015.12.172",
+    "10.1016/j.jmat.2016.05.009"
+  ],
+  "Data_By_Temperature": {
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "Cu2.1Zn0.9SnSe4",
+        "Property": "ThermCond",
+        "Value": 0.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2013.15"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2.1Zn0.9SnSe4",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2013.15"
+      }
+    ],
+    "860.0": [
+      {
+        "Original_Name_In_Paper": "Cu2.1Zn0.9SnSe4",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2014.06.014"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2.1Zn0.9SnSe4",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": "Cu - doping",
+        "Source_DOI": "10.1016/j.intermet.2014.06.014"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2.1Zn0.9SnSe4",
+        "Property": "Conductivity",
+        "Value": 33200.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": "Cu - doping",
+        "Source_DOI": "10.1016/j.intermet.2014.06.014"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Cu-rich Cu2.1Zn0.9SnSe4",
+        "Property": "ZT",
+        "Value": 0.91,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc02948a"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2.1Zn0.9SnSe4",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtcomm.2020.101441"
+      },
+      {
+        "Original_Name_In_Paper": "Cu-rich Cu2.1Zn0.9SnSe4",
+        "Property": "ZT",
+        "Value": 0.91,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2016.05.009"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Cu2.1Zn0.9SnSe4",
+        "Property": "ZT",
+        "Value": 0.59,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matdes.2015.12.172"
+      }
+    ]
+  }
+}

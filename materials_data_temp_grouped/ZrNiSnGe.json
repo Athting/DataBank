@@ -1,0 +1,26 @@
+{
+  "Material": "ZrNiSnGe",
+  "DOIs_Researched": [
+    "10.1007/s10853-020-04949-0"
+  ],
+  "Data_By_Temperature": {
+    "1023.0": [
+      {
+        "Original_Name_In_Paper": "ZrNiSn0.95Ge0.05 alloy",
+        "Property": "ZT",
+        "Value": 0.45,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      },
+      {
+        "Original_Name_In_Paper": "ZrNiSn0.95Ge0.05 alloy",
+        "Property": "PF",
+        "Value": 0.0029000000000000002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      }
+    ]
+  }
+}

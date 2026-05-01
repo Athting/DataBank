@@ -1,0 +1,18 @@
+{
+  "Material": "Bi2S3 doped with 1.5 mol % InCl3",
+  "DOIs_Researched": [
+    "10.1007/s10853-019-04008-3"
+  ],
+  "Data_By_Temperature": {
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "Bi2S3 doped with 1.5 mol % InCl3",
+        "Property": "ThermCond",
+        "Value": 0.61,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-019-04008-3"
+      }
+    ]
+  }
+}

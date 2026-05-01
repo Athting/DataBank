@@ -1,0 +1,18 @@
+{
+  "Material": "Gd0.2Sr0.8CoO2.71",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2018.12.013"
+  ],
+  "Data_By_Temperature": {
+    "284.0": [
+      {
+        "Original_Name_In_Paper": "Gd0.2Sr0.8CoO2.71-dis compound",
+        "Property": "ZT",
+        "Value": 0.057,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.12.013"
+      }
+    ]
+  }
+}

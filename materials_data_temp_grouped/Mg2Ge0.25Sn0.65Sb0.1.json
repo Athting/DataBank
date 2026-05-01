@@ -1,0 +1,18 @@
+{
+  "Material": "Mg2Ge0.25Sn0.65Sb0.1",
+  "DOIs_Researched": [
+    "10.1007/s11664-019-07315-2"
+  ],
+  "Data_By_Temperature": {
+    "473.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Ge0.25Sn0.65Sb0.1",
+        "Property": "ThermCond",
+        "Value": 1.17,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-019-07315-2"
+      }
+    ]
+  }
+}

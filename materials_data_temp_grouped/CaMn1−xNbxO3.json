@@ -1,0 +1,18 @@
+{
+  "Material": "CaMn1\u2212xNbxO3",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2010.07.052"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "nanosized electron-doped CaMn1\u2212xNbxO3",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2010.07.052"
+      }
+    ]
+  }
+}

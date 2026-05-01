@@ -1,0 +1,62 @@
+{
+  "Material": "YbCd1.6Zn0.4Sb2",
+  "DOIs_Researched": [
+    "10.1039/c6ta00507a",
+    "10.1007/s10854-013-1618-z",
+    "10.1016/bs.hpcre.2016.05.003",
+    "10.1016/j.jpcs.2018.12.013",
+    "10.1007/s10854-012-0820-8"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "YbCd1.6Zn0.4Sb2",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta00507a"
+      },
+      {
+        "Original_Name_In_Paper": "YbCd1.6Zn0\u00b74Sb2",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2018.12.013"
+      },
+      {
+        "Original_Name_In_Paper": "YbCd1.6Zn0.4Sb2",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-012-0820-8"
+      },
+      {
+        "Original_Name_In_Paper": "YbCd1.6Zn0.4Sb2",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-013-1618-z"
+      },
+      {
+        "Original_Name_In_Paper": "YbCd1.6Zn0.4Sb2",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/bs.hpcre.2016.05.003"
+      },
+      {
+        "Original_Name_In_Paper": "YbCd1.6Zn0.4Sb2",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/bs.hpcre.2016.05.003"
+      }
+    ]
+  }
+}

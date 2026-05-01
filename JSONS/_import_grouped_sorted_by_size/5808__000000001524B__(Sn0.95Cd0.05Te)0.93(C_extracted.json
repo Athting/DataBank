@@ -1,0 +1,66 @@
+{
+  "doi": "10.1039/c9ta11180h",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "(Sn0.95Cd0.05Te)0.93(Cu2Te)0.07"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "(Sn0.95Cd0.05Te)0.93(Cu2Te)0.07",
+          "value": 0.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "873.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "(Sn0.95Cd0.05Te)0.93(Cu2Te)0.07",
+          "zt_value": 0.4,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "(Sn0.95Cd0.05Te)0.93(Cu2Te)0.07",
+          "zt_value": 1.8,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "(Sn0.95Cd0.05Te)0.93(Cu2Te)0.07",
+          "zt_value": 1.2,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "(Sn0.95Cd0.05Te)0.93(Cu2Te)0.07",
+          "zt_value": 1.2,
+          "temperature": "823.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "poly(ethylene glycol)-block-poly(propylene glycol)-block-poly(ethylene glycol )",
+  "DOIs_Researched": [
+    "10.1039/c4ra15681a"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "poly(ethylene glycol)-block-poly(propylene glycol)-block-poly(ethylene glycol )",
+        "Property": "PF",
+        "Value": 0.00127,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra15681a"
+      }
+    ]
+  }
+}

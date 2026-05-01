@@ -1,0 +1,18 @@
+{
+  "Material": "Sn0.9925Ag0.005S",
+  "DOIs_Researched": [
+    "10.1016/j.jmat.2019.12.003"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "vacancy-containing Sn0.9925Ag0.005S",
+        "Property": "Conductivity",
+        "Value": 1120.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2019.12.003"
+      }
+    ]
+  }
+}

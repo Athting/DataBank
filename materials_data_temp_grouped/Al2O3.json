@@ -1,0 +1,272 @@
+{
+  "Material": "Al2O3",
+  "DOIs_Researched": [
+    "10.1039/c5tc01643f",
+    "10.1016/j.matlet.2012.05.053",
+    "10.1016/j.jallcom.2011.01.155",
+    "10.1016/j.enconman.2016.02.001",
+    "10.1016/j.apenergy.2014.05.050",
+    "10.1016/j.ceramint.2016.04.056",
+    "10.1016/B978-0-12-803581-8.10426-6",
+    "10.1038/s41467-018-03467-7",
+    "10.1007/s10853-015-9121-y",
+    "10.1016/j.jallcom.2016.10.114",
+    "10.1016/j.physb.2014.04.018",
+    "10.1016/j.jallcom.2012.12.091",
+    "10.1039/c2ra20734f",
+    "10.1016/j.nanoen.2019.03.051",
+    "10.1016/B978-0-08-044965-4.50006-7",
+    "10.1016/j.matt.2020.05.016",
+    "10.1016/B978-1-78242-245-7.00014-2"
+  ],
+  "Data_By_Temperature": {
+    "933.4": [
+      {
+        "Original_Name_In_Paper": "Al @ Al2O3 composite",
+        "Property": "ThermCond",
+        "Value": 1.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matt.2020.05.016"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Al2O3 nanolaminates",
+        "Property": "ThermCond",
+        "Value": 0.6000000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01643f"
+      },
+      {
+        "Original_Name_In_Paper": "Al2O3-elements",
+        "Property": "ThermCond",
+        "Value": 30.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apenergy.2014.05.050"
+      },
+      {
+        "Original_Name_In_Paper": "Al2O3 composite",
+        "Property": "Seebeck",
+        "Value": 2.2e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2016.04.056"
+      },
+      {
+        "Original_Name_In_Paper": "Al2O3",
+        "Property": "Conductivity",
+        "Value": 1200.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.enconman.2016.02.001"
+      }
+    ],
+    "1173.0": [
+      {
+        "Original_Name_In_Paper": "\u03b3-Al2O3",
+        "Property": "ThermCond",
+        "Value": 5.06,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2012.12.091"
+      },
+      {
+        "Original_Name_In_Paper": "\u03b3-Al2O3",
+        "Property": "ZT",
+        "Value": 0.17,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2012.12.091"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Al2O3",
+        "Property": "ThermCond",
+        "Value": 10.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41467-018-03467-7"
+      },
+      {
+        "Original_Name_In_Paper": "Al2O3",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.10.114"
+      }
+    ],
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "Al2O3",
+        "Property": "ZT",
+        "Value": 1.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.10.114"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Al2O3",
+        "Property": "ZT",
+        "Value": 0.05,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-1-78242-245-7.00014-2"
+      },
+      {
+        "Original_Name_In_Paper": "Al2O3",
+        "Property": "ZT",
+        "Value": 0.01,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2ra20734f"
+      },
+      {
+        "Original_Name_In_Paper": "Al2O3 nanoparticles",
+        "Property": "Conductivity",
+        "Value": 0.2,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2012.05.053"
+      },
+      {
+        "Original_Name_In_Paper": "Al2O3",
+        "Property": "Seebeck",
+        "Value": 4.4999999999999996e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2ra20734f"
+      },
+      {
+        "Original_Name_In_Paper": "Al2O3",
+        "Property": "Seebeck",
+        "Value": 4.4999999999999996e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-1-78242-245-7.00014-2"
+      },
+      {
+        "Original_Name_In_Paper": "Al2O3",
+        "Property": "PF",
+        "Value": 0.00026000000000000003,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-1-78242-245-7.00014-2"
+      },
+      {
+        "Original_Name_In_Paper": "Al2O3",
+        "Property": "PF",
+        "Value": 0.00026000000000000003,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2ra20734f"
+      },
+      {
+        "Original_Name_In_Paper": "Al2O3 nanocomposite",
+        "Property": "Conductivity",
+        "Value": 1050.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-08-044965-4.50006-7"
+      },
+      {
+        "Original_Name_In_Paper": "Al2O3 film",
+        "Property": "Conductivity",
+        "Value": 1200000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-015-9121-y"
+      },
+      {
+        "Original_Name_In_Paper": "nanosized Al2O3",
+        "Property": "Conductivity",
+        "Value": 0.083,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-12-803581-8.10426-6"
+      },
+      {
+        "Original_Name_In_Paper": "aluminum oxide",
+        "Property": "Conductivity",
+        "Value": 0.0179,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2019.03.051"
+      }
+    ],
+    "345.0": [
+      {
+        "Original_Name_In_Paper": "Al2O3",
+        "Property": "ZT",
+        "Value": 0.02,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2014.04.018"
+      },
+      {
+        "Original_Name_In_Paper": "Al2O3",
+        "Property": "Seebeck",
+        "Value": 2.8499999999999998e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2014.04.018"
+      }
+    ],
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "Al2O3",
+        "Property": "ZT",
+        "Value": 0.004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.enconman.2016.02.001"
+      }
+    ],
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "1.0 vol. % \u03b3-Al2O3 nanoparticles",
+        "Property": "Seebeck",
+        "Value": 0.00016,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2011.01.155"
+      }
+    ],
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "Al2O3",
+        "Property": "PF",
+        "Value": 0.00043000000000000004,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-1-78242-245-7.00014-2"
+      }
+    ],
+    "350.0": [
+      {
+        "Original_Name_In_Paper": "Al2O3 nanocomposite",
+        "Property": "Conductivity",
+        "Value": 3375.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-08-044965-4.50006-7"
+      }
+    ],
+    "303.0": [
+      {
+        "Original_Name_In_Paper": "mesoporous Al2O3",
+        "Property": "Conductivity",
+        "Value": 0.4,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-015-9121-y"
+      }
+    ]
+  }
+}

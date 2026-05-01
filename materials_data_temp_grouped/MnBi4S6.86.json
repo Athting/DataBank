@@ -1,0 +1,18 @@
+{
+  "Material": "MnBi4S6.86",
+  "DOIs_Researched": [
+    "10.1016/j.cej.2020.125219"
+  ],
+  "Data_By_Temperature": {
+    "770.0": [
+      {
+        "Original_Name_In_Paper": "S-deficient MnBi4S6.86",
+        "Property": "Conductivity",
+        "Value": 17300.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cej.2020.125219"
+      }
+    ]
+  }
+}

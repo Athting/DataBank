@@ -1,0 +1,37 @@
+{
+  "Material": "NiFeO4",
+  "DOIs_Researched": [
+    "10.1016/S0925-8388(10)00044-7",
+    "10.1016/S0925-8388(09)00895-0"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Zn doped NiFe 2 O 4 nanoparticles",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(09)00895-0"
+      },
+      {
+        "Original_Name_In_Paper": "Zn doped NiFe 2 O 4 nanoparticles",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(09)00895-0"
+      }
+    ],
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "NiFe 2 O 4",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(10)00044-7"
+      }
+    ]
+  }
+}

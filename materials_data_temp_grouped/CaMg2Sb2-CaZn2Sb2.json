@@ -1,0 +1,18 @@
+{
+  "Material": "CaMg2Sb2-CaZn2Sb2",
+  "DOIs_Researched": [
+    "10.1038/s41524-019-0215-y"
+  ],
+  "Data_By_Temperature": {
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "CaMg2Sb2-CaZn2Sb2 alloys",
+        "Property": "ZT",
+        "Value": 0.87,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41524-019-0215-y"
+      }
+    ]
+  }
+}

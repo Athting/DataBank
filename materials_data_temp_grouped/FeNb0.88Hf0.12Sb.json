@@ -1,0 +1,75 @@
+{
+  "Material": "FeNb0.88Hf0.12Sb",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2017.12.205",
+    "10.1039/c6cp07897d",
+    "10.1038/ncomms9144",
+    "10.1007/s10853-020-04949-0",
+    "10.1007/s11664-019-07514-x",
+    "10.1016/j.rinp.2019.102563"
+  ],
+  "Data_By_Temperature": {
+    "1200.0": [
+      {
+        "Original_Name_In_Paper": "p-type FeNb0.88Hf0.12Sb",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rinp.2019.102563"
+      },
+      {
+        "Original_Name_In_Paper": "p-type FeNb0.88Hf0.12Sb",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.12.205"
+      },
+      {
+        "Original_Name_In_Paper": "p-type FeNb0.88Hf0.12Sb",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6cp07897d"
+      },
+      {
+        "Original_Name_In_Paper": "FeNb0.88Hf0.12Sb",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/ncomms9144"
+      },
+      {
+        "Original_Name_In_Paper": "FeNb0.88Hf0.12Sb",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      }
+    ],
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "FeNb0.88Hf0.12Sb",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-019-07514-x"
+      }
+    ],
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "FeNb0.88Hf0.12Sb",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/ncomms9144"
+      }
+    ]
+  }
+}

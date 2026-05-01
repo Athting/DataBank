@@ -1,0 +1,45 @@
+{
+  "Material": "CuBr",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2020.156677",
+    "10.1007/s10853-020-04949-0"
+  ],
+  "Data_By_Temperature": {
+    "298.0": [
+      {
+        "Original_Name_In_Paper": "undoped CuBr",
+        "Property": "ZT",
+        "Value": 1.04,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      },
+      {
+        "Original_Name_In_Paper": "doped CuBr",
+        "Property": "ZT",
+        "Value": 0.91,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      },
+      {
+        "Original_Name_In_Paper": "undoped CuBr",
+        "Property": "PF",
+        "Value": 0.00657,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      }
+    ],
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "CuBr",
+        "Property": "Seebeck",
+        "Value": 0.00015000000000000001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.156677"
+      }
+    ]
+  }
+}

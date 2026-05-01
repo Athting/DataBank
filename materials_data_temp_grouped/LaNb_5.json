@@ -1,0 +1,39 @@
+{
+  "Material": "LaNb_5",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2017.04.003",
+    "10.1039/c8tc02130a"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "La5Nb5",
+        "Property": "ThermCond",
+        "Value": 4.58,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2017.04.003"
+      }
+    ],
+    "769.0": [
+      {
+        "Original_Name_In_Paper": "La5Nb5",
+        "Property": "ZT",
+        "Value": 0.37,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8tc02130a"
+      }
+    ],
+    "622.0": [
+      {
+        "Original_Name_In_Paper": "La5Nb5",
+        "Property": "PF",
+        "Value": 0.00175,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8tc02130a"
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "Material": "YbZn2Sb1.97Bi0.03",
+  "DOIs_Researched": [
+    "10.1016/j.cej.2019.05.206"
+  ],
+  "Data_By_Temperature": {
+    "690.0": [
+      {
+        "Original_Name_In_Paper": "YbZn2Sb1.97Bi0.03",
+        "Property": "ZT",
+        "Value": 0.45,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cej.2019.05.206"
+      }
+    ],
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "YbZn2Sb1.97Bi0.03",
+        "Property": "ZT",
+        "Value": 0.45,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cej.2019.05.206"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "YbZn2Sb1.97Bi0.03",
+        "Property": "PF",
+        "Value": 0.0014500000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cej.2019.05.206"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "YbZn2Sb1.97Bi0.03",
+        "Property": "Conductivity",
+        "Value": 240000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cej.2019.05.206"
+      }
+    ]
+  }
+}

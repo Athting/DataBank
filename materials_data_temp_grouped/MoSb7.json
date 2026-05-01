@@ -1,0 +1,113 @@
+{
+  "Material": "MoSb7",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2013.04.196",
+    "10.1007/s11664-009-0981-2",
+    "10.1039/c1ee01406d",
+    "10.1016/j.jallcom.2010.05.124",
+    "10.1016/j.jssc.2015.08.017",
+    "10.1016/j.jssc.2014.04.006"
+  ],
+  "Data_By_Temperature": {
+    "805.0": [
+      {
+        "Original_Name_In_Paper": "Mo3Sb7",
+        "Property": "ThermCond",
+        "Value": 7.37,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2015.08.017"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Mo3Sb7",
+        "Property": "ZT",
+        "Value": 0.11,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2014.04.006"
+      },
+      {
+        "Original_Name_In_Paper": "Mo3Sb7",
+        "Property": "ZT",
+        "Value": 0.11,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2015.08.017"
+      },
+      {
+        "Original_Name_In_Paper": "Mo3Sb7",
+        "Property": "ZT",
+        "Value": 0.11,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.05.124"
+      }
+    ],
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "Mo3Sb7",
+        "Property": "ZT",
+        "Value": 0.45,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-009-0981-2"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Mo3Sb7",
+        "Property": "Seebeck",
+        "Value": 1.7e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c1ee01406d"
+      },
+      {
+        "Original_Name_In_Paper": "Mo3Sb7",
+        "Property": "Conductivity",
+        "Value": 620000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c1ee01406d"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Mo3Sb7",
+        "Property": "Seebeck",
+        "Value": 1.8e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2014.04.006"
+      },
+      {
+        "Original_Name_In_Paper": "Mo3Sb7",
+        "Property": "Seebeck",
+        "Value": 1.8e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2015.08.017"
+      },
+      {
+        "Original_Name_In_Paper": "Mo3Sb7",
+        "Property": "PF",
+        "Value": 0.00020099999999999998,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2015.08.017"
+      }
+    ],
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "Mo3Sb7",
+        "Property": "PF",
+        "Value": 0.001256,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.04.196"
+      }
+    ]
+  }
+}

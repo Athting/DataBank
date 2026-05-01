@@ -1,0 +1,18 @@
+{
+  "Material": "Cu3Sb1-xGexSe4-z",
+  "DOIs_Researched": [
+    "10.1039/c9cp06233e"
+  ],
+  "Data_By_Temperature": {
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "Cu3Sb1\u2212xGexS4\u2212zSez",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9cp06233e"
+      }
+    ]
+  }
+}

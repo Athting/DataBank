@@ -1,0 +1,18 @@
+{
+  "Material": "PEDOT : PSS-based-non-woven",
+  "DOIs_Researched": [
+    "10.1007/s10853-019-03480-1"
+  ],
+  "Data_By_Temperature": {
+    "295.0": [
+      {
+        "Original_Name_In_Paper": "PEDOT : PSS-based-non-woven",
+        "Property": "ZT",
+        "Value": 0.0013000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-019-03480-1"
+      }
+    ]
+  }
+}

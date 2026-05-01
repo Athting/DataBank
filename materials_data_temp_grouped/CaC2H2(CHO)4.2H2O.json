@@ -1,0 +1,26 @@
+{
+  "Material": "CaC2H2(CHO)4.2H2O",
+  "DOIs_Researched": [
+    "10.1016/S0925-8388(07)00600-7"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "calcium bis(malate) dihydrate 211",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(07)00600-7"
+      },
+      {
+        "Original_Name_In_Paper": "calcium bis(malate) dihydrate 211",
+        "Property": "ZT",
+        "Value": 0.33,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(07)00600-7"
+      }
+    ]
+  }
+}

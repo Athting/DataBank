@@ -1,0 +1,26 @@
+{
+  "Material": "Bi2(Te0.5Se0.5)3",
+  "DOIs_Researched": [
+    "10.1039/c2jm34608g"
+  ],
+  "Data_By_Temperature": {
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "Bi2(Te0.5Se0.5)3 compound",
+        "Property": "ZT",
+        "Value": 0.86,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2jm34608g"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2(Te0.5Se0.5)3 compound",
+        "Property": "ZT",
+        "Value": 0.86,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2jm34608g"
+      }
+    ]
+  }
+}

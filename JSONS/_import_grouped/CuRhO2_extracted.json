@@ -1,0 +1,60 @@
+{
+  "doi": "10.1016/j.materresbull.2009.11.008",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "CuRhO2 with Mg",
+        "CuRh0.9Mg0.1O2 compound",
+        "CuRh1−xMgxO2"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "CuRh1−xMgxO2",
+          "value": 20000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "800.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "CuRh0.9Mg0.1O2 compound",
+          "value": 0.0007,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1000.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "CuRhO2 with Mg",
+          "zt_value": 0.15,
+          "temperature": "1000.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

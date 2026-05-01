@@ -1,0 +1,58 @@
+{
+  "doi": "10.1038/s41598-020-67617-y",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "CrSi1.98",
+        "CrSi"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "CrSi",
+          "value": 124999999.99999999,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "5.0 K"
+        },
+        {
+          "material": "CrSi",
+          "value": 50000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "773.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "CrSi1.98",
+          "zt_value": 0.1,
+          "temperature": "650.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

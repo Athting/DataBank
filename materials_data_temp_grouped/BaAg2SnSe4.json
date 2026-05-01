@@ -1,0 +1,49 @@
+{
+  "Material": "BaAg2SnSe4",
+  "DOIs_Researched": [
+    "10.1016/j.mtphys.2019.100098",
+    "10.1039/c8ta09660k"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "BaAg2SnSe4",
+        "Property": "ThermCond",
+        "Value": 0.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2019.100098"
+      }
+    ],
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "BaAg2SnSe4",
+        "Property": "ThermCond",
+        "Value": 0.31,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta09660k"
+      }
+    ],
+    "623.0": [
+      {
+        "Original_Name_In_Paper": "pristine BaAg2SnSe4",
+        "Property": "PF",
+        "Value": 3.5e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2019.100098"
+      }
+    ],
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "pristine BaAg2SnSe4",
+        "Property": "Conductivity",
+        "Value": 24.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2019.100098"
+      }
+    ]
+  }
+}

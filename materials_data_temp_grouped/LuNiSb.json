@@ -1,0 +1,50 @@
+{
+  "Material": "LuNiSb",
+  "DOIs_Researched": [
+    "10.1016/j.intermet.2019.02.009",
+    "10.1016/S0304-8853(00)00319-X",
+    "10.1016/j.jssc.2016.04.029"
+  ],
+  "Data_By_Temperature": {
+    "2.0": [
+      {
+        "Original_Name_In_Paper": "LuNiSb",
+        "Property": "Conductivity",
+        "Value": 11904.7619047619,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0304-8853(00)00319-X"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "LuNiSb",
+        "Property": "Conductivity",
+        "Value": 41666.6666666667,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2016.04.029"
+      }
+    ],
+    "380.0": [
+      {
+        "Original_Name_In_Paper": "LuNiSb",
+        "Property": "Seebeck",
+        "Value": 1.28e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2016.04.029"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Lu)NiSb",
+        "Property": "PF",
+        "Value": 0.004,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2019.02.009"
+      }
+    ]
+  }
+}

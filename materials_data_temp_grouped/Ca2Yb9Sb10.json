@@ -1,0 +1,18 @@
+{
+  "Material": "Ca2Yb9Sb10",
+  "DOIs_Researched": [
+    "10.1039/c7dt02410j"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Ca2Yb9Sb10",
+        "Property": "Conductivity",
+        "Value": 88600.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7dt02410j"
+      }
+    ]
+  }
+}

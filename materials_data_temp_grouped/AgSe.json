@@ -1,0 +1,47 @@
+{
+  "Material": "AgSe",
+  "DOIs_Researched": [
+    "10.1039/d0ma00278j",
+    "10.1039/c9ee01609k",
+    "10.1007/s00339-020-03534-1",
+    "10.1016/j.materresbull.2015.01.030"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "silver selenide thin films",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s00339-020-03534-1"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "silver selenide",
+        "Property": "Seebeck",
+        "Value": -0.00015000000000000001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2015.01.030"
+      },
+      {
+        "Original_Name_In_Paper": "n-type Ag2Se / Ag / CuAgSe composite film",
+        "Property": "PF",
+        "Value": 0.0022315,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ma00278j"
+      },
+      {
+        "Original_Name_In_Paper": "n-type Ag2Se / Ag / CuAgSe",
+        "Property": "PF",
+        "Value": 0.0022315,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ee01609k"
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "Material": "Bi2Te3-Sb2Te3",
+  "DOIs_Researched": [
+    "10.1007/s40948-019-00134-z",
+    "10.1007/s11434-014-0237-2",
+    "10.1039/d0ta00240b",
+    "10.1016/j.actamat.2003.08.025"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "p-type Bi2Te3\u2013Sb2Te3 compound",
+        "Property": "ZT",
+        "Value": 0.87,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2003.08.025"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Bi2Te3\u2013Sb2Te3 compound",
+        "Property": "Seebeck",
+        "Value": 0.000174,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2003.08.025"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Te3\u2013Sb2Te3 films",
+        "Property": "ZT",
+        "Value": 2.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11434-014-0237-2"
+      }
+    ],
+    "350.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Te3\u2013Sb2Te3 alloys",
+        "Property": "ZT",
+        "Value": 1.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta00240b"
+      }
+    ],
+    "450.0": [
+      {
+        "Original_Name_In_Paper": "p-type Bi2Te3-Sb2Te3 nanocomposite",
+        "Property": "ZT",
+        "Value": 1.47,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s40948-019-00134-z"
+      }
+    ]
+  }
+}

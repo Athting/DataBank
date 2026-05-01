@@ -1,0 +1,1016 @@
+{
+  "doi": "10.1016/j.jallcom.2018.02.184",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Si0.5Ge0.5 alloys",
+        "nanostructured Si0.8Ge0.2 films",
+        "n-type B-doped Si0.7Ge0.3and",
+        "bulk SiGe alloy",
+        "bulk SiGe",
+        "nanograined SiGe thin films",
+        "Sb-doped SiGe",
+        "Ga-doped Si0.81Ge0.19",
+        "Si0.8Ge0.2",
+        "SiGe",
+        "Si0.9Ge0.1",
+        "Si0.8Ge0.2 nano-meshed films",
+        "SiGe–20 % SiMo",
+        "SiGe nanoalloy",
+        "nanostructured SiGe alloys",
+        "nanostructured p-type SiGe alloys",
+        "SiGe nanoalloy matrix",
+        "n-type nano-structured SiGe",
+        "p-type Si0.8Ge0.2",
+        "n-type SiGe nanocomposite",
+        "p-type SiGe nanocomposites",
+        "n-type SiGe nanocomposites",
+        "n-type Si80Ge20",
+        "p-type SiGe",
+        "n-type Si80Ge20 nanostructured alloy",
+        "bulk SiGe alloys",
+        "n-type SiGe–Mg2Si",
+        "bulk n-type SiGe",
+        "n-type SiGe",
+        "nanostructured n-type SiGe",
+        "nanostructured p-type SiGe",
+        "SiGe nanoparticles",
+        "n and p-type Si80Ge20",
+        "n-type SiGe alloys",
+        "p-type Si80Ge20",
+        "n-type Si0.8Ge0.2 alloy",
+        "n-type nanostructured Si–Ge bulk alloy",
+        "n-type bulk SiGe alloys",
+        "n-type Si80Ge20 alloys",
+        "doped nanostructured n-type Si80Ge20 alloys",
+        "p-type nanostructured Si80Ge20 alloys",
+        "bulk p-type SiGe alloys",
+        "p-type Si80Ge20 nanostructured alloys",
+        "nanostructured p-type Si80Ge20 alloys",
+        "n-type Si0.8Ge0.2",
+        "SiGe bulk alloy",
+        "phosphorus-doped Si0.8Ge0.2 pellets",
+        "n-type nanostructured bulk SiGe",
+        "p-type nanostructured SiGe alloys",
+        "p-type nanostructured bulk SiGe alloys",
+        "nanostructured SiGe",
+        "SiGe–1 % SiMo",
+        "B-doped SiGe thin film",
+        "SiGe thin film",
+        "at. % doped SiGe alloy",
+        "nanostructured n-type SiGe bulk alloys",
+        "SiGe alloy",
+        "Si80Ge20",
+        "Si0.9Ge0.1–Mg2Si 1 %",
+        "n-type Si80Ge20 alloy",
+        "p-type Si0.8Ge0.2 alloy",
+        "Si0.8Ge0.2 alloy",
+        "n-type SiGe nanostructured bulk alloys",
+        "nanostructured bulk SiGe alloy",
+        "p-type SiGe alloys",
+        "p-type nanostructured SiGe bulk alloys",
+        "Si0.99Ge0.01 pellets",
+        "nanostructured SiGe alloy",
+        "bulk Si0.5Ge0.5 alloys",
+        "SiGe with 2 % Ge",
+        "p-type SiGe films",
+        "bulk p-type SiGe",
+        "Si0.5Ge0.5",
+        "n-type Si0.7Ge0.3 alloy",
+        "doped n-type Si0.7Ge0.3 alloy",
+        "SiGe with YSi2",
+        "p-type Si0.70Ge0.30 alloys",
+        "Si0.93Ge0.07",
+        "Si2Ge",
+        "Si80Ge20 doped with boron",
+        "SiGe nanowire",
+        "n-type SiGe nanowires",
+        "SiGe bulk materials",
+        "n-type doped Si0.8Ge0.2",
+        "Si0.2Ge0.8 compound",
+        "Si(Ge)",
+        "Si95Ge5",
+        "SiGe material",
+        "n and p-type SiGe",
+        "p-type Si–Ge alloys",
+        "bulk Si0.80Ge0.20",
+        "SiGe-YSi2 nanocomposite with TAGS-85",
+        "nanostructured boron doped SiGe"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "nanostructured SiGe",
+          "value": 0.00023,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "SiGe",
+          "value": 0.000145,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "SiGe",
+          "value": 0.000101,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "B-doped SiGe thin film",
+          "value": 0.00011499999999999999,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "SiGe thin film",
+          "value": 0.00011499999999999999,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "SiGe",
+          "value": 0.000294,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "n-type Si0.7Ge0.3 alloy",
+          "value": -0.00048000000000000007,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SiGe",
+          "value": 0.000135,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "SiGe–20 % SiMo",
+          "value": 0.000088,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "SiGe thin film",
+          "value": 0.000072,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "532.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "SiGe–20 % SiMo",
+          "value": 173500,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "at. % doped SiGe alloy",
+          "value": 45450,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "SiGe",
+          "value": 38000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "n-type Si0.7Ge0.3 alloy",
+          "value": 62500,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SiGe",
+          "value": 26590,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "1023.0 K"
+        },
+        {
+          "material": "SiGe",
+          "value": 50000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "1273.0 K"
+        },
+        {
+          "material": "n-type SiGe",
+          "value": 119730,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "323.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Si0.5Ge0.5 alloys",
+          "value": 11,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "nanostructured Si0.8Ge0.2 films",
+          "value": 1.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "n-type B-doped Si0.7Ge0.3and",
+          "value": 4.7,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SiGe nanoalloy",
+          "value": 2.1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "nanostructured SiGe alloys",
+          "value": 2.04,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "nanostructured p-type SiGe alloys",
+          "value": 2.04,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "SiGe nanoalloy matrix",
+          "value": 1.9,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "SiGe",
+          "value": 1.9,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "SiGe",
+          "value": 4.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "SiGe–1 % SiMo",
+          "value": 4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "SiGe–20 % SiMo",
+          "value": 2.8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "nanostructured n-type SiGe bulk alloys",
+          "value": 0.9,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "nanostructured SiGe alloy",
+          "value": 1.55,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "bulk Si0.5Ge0.5 alloys",
+          "value": 8.8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SiGe with 2 % Ge",
+          "value": 34.3,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SiGe",
+          "value": 3.86,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1100.0 K"
+        },
+        {
+          "material": "SiGe",
+          "value": 1.73,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1100.0 K"
+        },
+        {
+          "material": "bulk SiGe",
+          "value": 2.81,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1023.0 K"
+        },
+        {
+          "material": "Si0.93Ge0.07",
+          "value": 16,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "Si2Ge",
+          "value": 0.28,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1000.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Si0.9Ge0.1",
+          "value": 0.0016359999999999999,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Si0.8Ge0.2 nano-meshed films",
+          "value": 0.000445,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "nanostructured SiGe alloys",
+          "value": 0.00205,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "Si0.99Ge0.01 pellets",
+          "value": 0.0044,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "SiGe–20 % SiMo",
+          "value": 0.0029000000000000002,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "bulk SiGe",
+          "value": 0.0031439999999999997,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1023.0 K"
+        },
+        {
+          "material": "SiGe alloy",
+          "value": 0.0021869999999999997,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1023.0 K"
+        },
+        {
+          "material": "SiGe",
+          "value": 0.0022,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "SiGe alloy",
+          "value": 0.00197,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "873.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "bulk SiGe alloy",
+          "zt_value": 0.128,
+          "temperature": "295 K"
+        },
+        {
+          "material": "bulk SiGe",
+          "zt_value": 0.1,
+          "temperature": "295 K"
+        },
+        {
+          "material": "nanograined SiGe thin films",
+          "zt_value": 0.2,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Sb-doped SiGe",
+          "zt_value": 0.07,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Ga-doped Si0.81Ge0.19",
+          "zt_value": 0.05,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Si0.8Ge0.2",
+          "zt_value": 0.06,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Si0.8Ge0.2",
+          "zt_value": 0.06,
+          "temperature": "295 K"
+        },
+        {
+          "material": "SiGe",
+          "zt_value": 0.1,
+          "temperature": "295 K"
+        },
+        {
+          "material": "bulk SiGe",
+          "zt_value": 0.08,
+          "temperature": "295 K"
+        },
+        {
+          "material": "SiGe",
+          "zt_value": 0.8,
+          "temperature": "295 K"
+        },
+        {
+          "material": "SiGe",
+          "zt_value": 0.77,
+          "temperature": "295 K"
+        },
+        {
+          "material": "n-type nano-structured SiGe",
+          "zt_value": 1.3,
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "p-type Si0.8Ge0.2",
+          "zt_value": 1,
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "n-type SiGe nanocomposite",
+          "zt_value": 0.9500000000000001,
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "p-type SiGe nanocomposites",
+          "zt_value": 0.9500000000000001,
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "n-type SiGe nanocomposites",
+          "zt_value": 1.3,
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "n-type Si80Ge20",
+          "zt_value": 0.65,
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "p-type SiGe",
+          "zt_value": 0.92,
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "n-type Si80Ge20 nanostructured alloy",
+          "zt_value": 1.5,
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "bulk SiGe alloys",
+          "zt_value": 1.3,
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "n-type SiGe–Mg2Si",
+          "zt_value": 1.3,
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "bulk n-type SiGe",
+          "zt_value": 1.3,
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "n-type SiGe",
+          "zt_value": 1.3,
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "n-type SiGe",
+          "zt_value": 1.5,
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "nanostructured n-type SiGe",
+          "zt_value": 1.8399999999999999,
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "nanostructured p-type SiGe",
+          "zt_value": 0.9500000000000001,
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "nanostructured p-type SiGe",
+          "zt_value": 1.2,
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "p-type SiGe",
+          "zt_value": 1.3,
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "SiGe nanoparticles",
+          "zt_value": 1.3,
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "n and p-type Si80Ge20",
+          "zt_value": 1.3,
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "n-type SiGe",
+          "zt_value": 1.3,
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "n-type SiGe",
+          "zt_value": 1.3,
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "n-type SiGe alloys",
+          "zt_value": 1.5,
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "nanostructured p-type SiGe",
+          "zt_value": 0.9500000000000001,
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "p-type SiGe",
+          "zt_value": 1.2,
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "p-type Si80Ge20",
+          "zt_value": 0.9500000000000001,
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "n-type Si0.8Ge0.2 alloy",
+          "zt_value": 1.5,
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "n-type nanostructured Si–Ge bulk alloy",
+          "zt_value": 1.3,
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "n-type Si80Ge20 nanostructured alloy",
+          "zt_value": 1.5,
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "n-type bulk SiGe alloys",
+          "zt_value": 1,
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "n-type Si80Ge20 alloys",
+          "zt_value": 1,
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "doped nanostructured n-type Si80Ge20 alloys",
+          "zt_value": 1.5,
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "p-type nanostructured Si80Ge20 alloys",
+          "zt_value": 1.2,
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "bulk p-type SiGe alloys",
+          "zt_value": 0.5,
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "p-type Si80Ge20 nanostructured alloys",
+          "zt_value": 0.9500000000000001,
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "nanostructured p-type Si80Ge20 alloys",
+          "zt_value": 1.2,
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "n-type Si0.8Ge0.2",
+          "zt_value": 1,
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "SiGe bulk alloy",
+          "zt_value": 1.3,
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "phosphorus-doped Si0.8Ge0.2 pellets",
+          "zt_value": 1.3,
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "SiGe",
+          "zt_value": 1.3,
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "n-type nanostructured bulk SiGe",
+          "zt_value": 1.3,
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "n-type SiGe alloys",
+          "zt_value": 1.5,
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "p-type nanostructured SiGe alloys",
+          "zt_value": 1.2,
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "p-type nanostructured bulk SiGe alloys",
+          "zt_value": 0.9500000000000001,
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "SiGe",
+          "zt_value": 1.3,
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "SiGe alloy",
+          "zt_value": 0.525,
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "Si80Ge20",
+          "zt_value": 0.5,
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "nanostructured n-type SiGe bulk alloys",
+          "zt_value": 1.8399999999999999,
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "Si0.9Ge0.1–Mg2Si 1 %",
+          "zt_value": 0.8,
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "n-type Si80Ge20 alloy",
+          "zt_value": 1,
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "n-type SiGe alloys",
+          "zt_value": 1.8,
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "p-type Si0.8Ge0.2 alloy",
+          "zt_value": 1,
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "n-type Si0.8Ge0.2 alloy",
+          "zt_value": 1.3,
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "Si0.8Ge0.2 alloy",
+          "zt_value": 1,
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "Si0.8Ge0.2 alloy",
+          "zt_value": 1.3,
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "n-type SiGe nanostructured bulk alloys",
+          "zt_value": 1.8399999999999999,
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "nanostructured bulk SiGe alloy",
+          "zt_value": 1.8399999999999999,
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "p-type SiGe alloys",
+          "zt_value": 0.65,
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "p-type nanostructured SiGe bulk alloys",
+          "zt_value": 0.9500000000000001,
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "n-type bulk SiGe alloys",
+          "zt_value": 0.5,
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "p-type SiGe films",
+          "zt_value": 0.2,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "bulk p-type SiGe",
+          "zt_value": 0.05,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Si0.5Ge0.5",
+          "zt_value": 2,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SiGe",
+          "zt_value": 2,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "doped n-type Si0.7Ge0.3 alloy",
+          "zt_value": 1,
+          "temperature": "1100.0 K"
+        },
+        {
+          "material": "p-type SiGe alloys",
+          "zt_value": 1.81,
+          "temperature": "1100.0 K"
+        },
+        {
+          "material": "SiGe with YSi2",
+          "zt_value": 1.81,
+          "temperature": "1100.0 K"
+        },
+        {
+          "material": "p-type SiGe",
+          "zt_value": 1.81,
+          "temperature": "1100.0 K"
+        },
+        {
+          "material": "n-type SiGe",
+          "zt_value": 1.8399999999999999,
+          "temperature": "1100.0 K"
+        },
+        {
+          "material": "p-type Si0.70Ge0.30 alloys",
+          "zt_value": 1,
+          "temperature": "1100.0 K"
+        },
+        {
+          "material": "SiGe",
+          "zt_value": 1.03,
+          "temperature": "1023.0 K"
+        },
+        {
+          "material": "bulk SiGe",
+          "zt_value": 1.03,
+          "temperature": "1023.0 K"
+        },
+        {
+          "material": "bulk SiGe",
+          "zt_value": 1,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "SiGe",
+          "zt_value": 1.19,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "bulk SiGe alloy",
+          "zt_value": 0.72,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "SiGe",
+          "zt_value": 0.8,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Si80Ge20",
+          "zt_value": 0.63,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Si80Ge20 doped with boron",
+          "zt_value": 0.9500000000000001,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "Si2Ge",
+          "zt_value": 2.54,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "SiGe nanowire",
+          "zt_value": 2,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "n-type SiGe nanowires",
+          "zt_value": 2.2,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "SiGe nanowire",
+          "zt_value": 2,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "SiGe bulk materials",
+          "zt_value": 1,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "n-type doped Si0.8Ge0.2",
+          "zt_value": 1,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "Si0.2Ge0.8 compound",
+          "zt_value": 1,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "SiGe",
+          "zt_value": 1.7000000000000002,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "Si(Ge)",
+          "zt_value": 0.8,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "Si95Ge5",
+          "zt_value": 0.9,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "SiGe",
+          "zt_value": 0.8,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "Si80Ge20",
+          "zt_value": 0.5,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "Si80Ge20",
+          "zt_value": 2.2,
+          "temperature": "1156.0 K"
+        },
+        {
+          "material": "n-type SiGe",
+          "zt_value": 1.07,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "p-type SiGe",
+          "zt_value": 0.46,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "p-type SiGe",
+          "zt_value": 0.46,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "SiGe material",
+          "zt_value": 1,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "SiGe alloy",
+          "zt_value": 1.4,
+          "temperature": "1200.0 K"
+        },
+        {
+          "material": "SiGe",
+          "zt_value": 1,
+          "temperature": "1200.0 K"
+        },
+        {
+          "material": "SiGe nanoparticles",
+          "zt_value": 2.5,
+          "temperature": "1200.0 K"
+        },
+        {
+          "material": "n and p-type SiGe",
+          "zt_value": 1.5,
+          "temperature": "1200.0 K"
+        },
+        {
+          "material": "p-type Si–Ge alloys",
+          "zt_value": 1,
+          "temperature": "1200.0 K"
+        },
+        {
+          "material": "p-type SiGe",
+          "zt_value": 1.7000000000000002,
+          "temperature": "1200.0 K"
+        },
+        {
+          "material": "Si95Ge5",
+          "zt_value": 0.6000000000000001,
+          "temperature": "1200.0 K"
+        },
+        {
+          "material": "p-type SiGe",
+          "zt_value": 0.6000000000000001,
+          "temperature": "1273.0 K"
+        },
+        {
+          "material": "bulk Si0.80Ge0.20",
+          "zt_value": 0.9,
+          "temperature": "1273.0 K"
+        },
+        {
+          "material": "SiGe-YSi2 nanocomposite with TAGS-85",
+          "zt_value": 1.2,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "n-type SiGe",
+          "zt_value": 0.5,
+          "temperature": "1098.0 K"
+        },
+        {
+          "material": "Sb-doped SiGe",
+          "zt_value": 0.34,
+          "temperature": "820.0 K"
+        },
+        {
+          "material": "nanostructured boron doped SiGe",
+          "zt_value": 0.32,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "p-type SiGe alloys",
+          "zt_value": 0.6000000000000001,
+          "temperature": "500.0 K"
+        },
+        {
+          "material": "p-type SiGe alloys",
+          "zt_value": 0.5,
+          "temperature": "1123.0 K"
+        },
+        {
+          "material": "Si80Ge20",
+          "zt_value": 1.7000000000000002,
+          "temperature": "850.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "Material": "Na1.2Co1.8Ag0.2O4",
+  "DOIs_Researched": [
+    "10.1016/j.matlet.2019.04.049"
+  ],
+  "Data_By_Temperature": {
+    "765.0": [
+      {
+        "Original_Name_In_Paper": "Na1.2Co1.8Ag0.2O4",
+        "Property": "Conductivity",
+        "Value": 33112.582781457,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2019.04.049"
+      }
+    ],
+    "859.0": [
+      {
+        "Original_Name_In_Paper": "Na1.2Co1.8Ag0.2O4",
+        "Property": "PF",
+        "Value": 0.000444,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2019.04.049"
+      },
+      {
+        "Original_Name_In_Paper": "Na1.2Co1.8Ag0.2O4",
+        "Property": "PF",
+        "Value": 0.000444,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2019.04.049"
+      }
+    ]
+  }
+}

@@ -1,0 +1,2745 @@
+{
+  "doi": "10.1016/j.jmat.2016.05.005",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "bulk PbTe",
+        "PbTe",
+        "PbTe + 2 % AgSbSe2",
+        "PbTe bulk",
+        "PbTe nanostructures",
+        "PbTe–3 % Sb",
+        "PbTe–12 % PbS",
+        "Tl-doped PbTe",
+        "PbTe material",
+        "PbTe : Ag nanocomposites",
+        "undoped p-type PbTe",
+        "Sn doped PbTe",
+        "mol % PbTe",
+        "Pb0.55Te0.45",
+        "PbTe alloyed with PbSe",
+        "PbTe nanocrystals",
+        "PbTe doped with cerium",
+        "PbTe with PbS",
+        "Pb–Te",
+        "PbTe-based material",
+        "pure PbTe",
+        "PbTe nanorods",
+        "PbTe without Ag",
+        "PbTe : Tl",
+        "PbTe + 3 % AgSbTe2",
+        "PbTe films",
+        "PbTe nanoparticle",
+        "Cr-doped PbTe",
+        "pure n-type PbTe",
+        "PbTe + 3 % AgSbSe2",
+        "PbTe0.9982I0.0018",
+        "PbTe0.9958I0.0042",
+        "PbTe–5 % AgSbSe2",
+        "pristine PbTe",
+        "10PbTe",
+        "PbTe materials",
+        "PbTe co-doped with Cr and I",
+        "pristine PbTe compound",
+        "PbTe–2 % AgSbSe2",
+        "PbTe / 4 % PbTe @ C",
+        "PbTe nanowires",
+        "PbTe nanocubes",
+        "PbTe / PbTe0.02Se0.98 quantum dot super-lattice",
+        "n-type PbTe ( 0.2 wt. %",
+        "p-type PbTe",
+        "Pb1.04Te",
+        "(111)PbTe–Te",
+        "n-type PbTe",
+        "PbTe nanograins",
+        "PbTe / 7 % PbTe @ C : Ag",
+        "doped PbTe",
+        "iodine doped PbTe",
+        "n-type Ag and Sb co-doped PbTe",
+        "PbTe alloyed with MnTe",
+        "pure PbTe nanostructures",
+        "PbTe @ PbS nanoparticles",
+        "PbTe matrix",
+        "antimony doped PbTe materials",
+        "2.5PbTe",
+        "doped p-type PbTe",
+        "sodium-doped PbTe",
+        "Ta doped PbTe alloys",
+        "p-type Na-doped PbTe",
+        "PbI2-doped PbTe",
+        "Ag-doped PbTe",
+        "n-type nanostructured PbTe",
+        "Na doped PbTe",
+        "PbTe with Na",
+        "PbTe–3 % AgSbSe2",
+        "In-doped PbTe",
+        "PbTeCd0.02",
+        "Tl-doped PbTe compound",
+        "nanostructured PbTe materials with Pb and Sb",
+        "nanostructured bulk PbTe",
+        "PbTe nanocomposites",
+        "Na-doped PbTe",
+        "(PbTe)m",
+        "(PbTe)0.95",
+        "bulk PbTe-based materials",
+        "PbTe based material",
+        "quantum dots (GQD)-PbTe",
+        "PbTe alloy",
+        "PbTe / 4 % PbTe @ C : Ag",
+        "nanostructured PbTe",
+        "Mg-doped PbTe",
+        "p-type PbTe endotaxially nanostructured with SrTe",
+        "12 % S-introduced PbTe",
+        "nanostructured PbTe–2 % MgTe",
+        "p type PbTe",
+        "Tl doped PbTe alloy",
+        "PbTe-4 % InSb",
+        "Tl-doped p-type PbTe",
+        "PbTe-4 % InSb composites",
+        "p-type Tl-doped Pb0.98Tl0.02Te material",
+        "Thallium doped PbTe",
+        "n-type PbTe bulk",
+        "n-type PbTe–4 % MnTe",
+        "PbTe–4 % MnTe",
+        "nanostructured p-type PbTe",
+        "doped n-type PbTe",
+        "n-type PbTe materials",
+        "Ag and Sb co-doped PbTe",
+        "La-doped PbTe",
+        "sodium doped PbTe",
+        "PbTe–4 % SrTe doped with 2 % Na",
+        "SrTe-doped PbTe",
+        "Na doped full-scale-structured PbTe",
+        "PbTe with SrTe",
+        "PbTe doped with 2 % Na",
+        "p–type PbTe",
+        "Na-doped p-type PbTe",
+        "I-doped n-type PbTe",
+        "dope lead telluride",
+        "PbTe alloys",
+        "PbTe1",
+        "Pb(Te1",
+        "PbTe bulk materials",
+        "PbTe with 2 % Na",
+        "Cl-doped PbTe",
+        "Ag / La codoped PbTe",
+        "pure PbTe nanomaterials",
+        "n-type Bi-doped PbTe nanocubes",
+        "n-type Pb0.99Bi0.01Te pellet",
+        "Bi doped PbTe nanocubes",
+        "n-type Pb0.99Bi0.01Te",
+        "Pb0.99Bi0.01Te pellet",
+        "pristine PbTe alloy",
+        "n-type PbTeCd0.02",
+        "PbTe–2 % MgTe doped with 4 % Na",
+        "Pb0.98Na0.02Te–8 % SrTe",
+        "n-type bulk PbTe",
+        "nanophase PbTe",
+        "lanthanum doped PbTe compounds",
+        "PbTe–Ag2Te nanocomposite",
+        "co-doped PbTe",
+        "p-type 2 % Na-doped PbTe",
+        "Na-doped PbTe-based",
+        "PbTe alloy endotaxially nanostructured with SrTe",
+        "Pb1−xSnxTe–PbS compounds",
+        "PbTe–PbS ( 4 % )",
+        "PbTe / TAGS materials",
+        "PbTe nanopowder",
+        "PbTe-5 vol % Cu2Se",
+        "PbTe NWs with LPNE",
+        "pure PbTe alloy"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "PbTe nanorods",
+          "value": 0.0006797999999999999,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 0.00019549999999999998,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe without Ag",
+          "value": 0.000196,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe : Tl",
+          "value": 0.00012000000000000002,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 0.00030399999999999996,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 0.000628,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 0.000185,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 0.0000698,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe + 3 % AgSbTe2",
+          "value": 0.0000942,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 0.00006149999999999999,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 0.0002,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 0.00037000000000000005,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe films",
+          "value": 0.0002,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe nanoparticle",
+          "value": -0.004088,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 0.00031309999999999997,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 0.00041000000000000005,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "PbTe nanowires",
+          "value": 0.00030000000000000003,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Pb1.04Te",
+          "value": -0.00037000000000000005,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 0.000227,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "(111)PbTe–Te",
+          "value": 0.00008,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "bulk PbTe",
+          "value": 0.000022,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "PbTe",
+          "value": -0.00023,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 0.00015000000000000001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "PbTe–5 % AgSbSe2",
+          "value": 0.0003348,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 0.00037000000000000005,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 0.000125,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 0.00034314,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "n-type PbTe",
+          "value": -0.00036,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "PbTe nanograins",
+          "value": 0.0004,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "PbTe bulk",
+          "value": 0.0001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "10PbTe",
+          "value": 0.00026000000000000003,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "10PbTe",
+          "value": 0.00026000000000000003,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "10PbTe",
+          "value": 0.00026000000000000003,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "PbTe nanocomposites",
+          "value": 0.000265,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "450.0 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 0.00024000000000000003,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "450.0 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 0.00034899999999999997,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "400.0 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 0.00043799999999999997,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "420.0 K"
+        },
+        {
+          "material": "p-type PbTe",
+          "value": 0.00027,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "doped n-type PbTe",
+          "value": -0.00018,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 0.00022,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "740.0 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 0.00022,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "740.0 K"
+        },
+        {
+          "material": "PbTe NWs with LPNE",
+          "value": -0.000041,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "453.0 K"
+        },
+        {
+          "material": "bulk PbTe",
+          "value": -0.00026000000000000003,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "453.0 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 0.00011,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "470.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "pure PbTe",
+          "value": 1111.1111111111,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure n-type PbTe",
+          "value": 37300,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 233400,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe + 3 % AgSbTe2",
+          "value": 96200,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 233400,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe + 3 % AgSbSe2",
+          "value": 71000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 61400,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe0.9982I0.0018",
+          "value": 53200,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe0.9958I0.0042",
+          "value": 165800,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe–3 % Sb",
+          "value": 380000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe films",
+          "value": 28,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe–5 % AgSbSe2",
+          "value": 120,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine PbTe",
+          "value": 253600,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Pb0.55Te0.45",
+          "value": 316905,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 10526.3157894737,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 250000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 380000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "PbTe–5 % AgSbSe2",
+          "value": 120,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "PbTe–5 % AgSbSe2",
+          "value": 115,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "PbTe / 7 % PbTe @ C : Ag",
+          "value": 44400,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "pure PbTe",
+          "value": 8100,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "bulk PbTe",
+          "value": 8000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "PbTe nanograins",
+          "value": 8000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "pure PbTe",
+          "value": 750,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 12040,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 8280,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 24500,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "325.0 K"
+        },
+        {
+          "material": "pure PbTe",
+          "value": 1000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "quantum dots (GQD)-PbTe",
+          "value": 3800,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 12000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "740.0 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 12000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "740.0 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 12700,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "670.0 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 4500,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "670.0 K"
+        },
+        {
+          "material": "co-doped PbTe",
+          "value": 146.6275659824,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "120.0 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 2370,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "710.0 K"
+        },
+        {
+          "material": "PbTe nanowires",
+          "value": 9000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "678.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "bulk PbTe",
+          "value": 1.7000000000000002,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 3.8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 3.7800000000000002,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe + 2 % AgSbSe2",
+          "value": 1.4100000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 2.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 1.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 2.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 2.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe bulk",
+          "value": 2.13,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe nanostructures",
+          "value": 1.3,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe bulk",
+          "value": 2.13,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe nanostructures",
+          "value": 1.3,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe–3 % Sb",
+          "value": 2.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe–12 % PbS",
+          "value": 0.9,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Tl-doped PbTe",
+          "value": 2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe material",
+          "value": 0.9500000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 2.85,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 0.6000000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 2.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 2.6,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 2.6,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "bulk PbTe",
+          "value": 2.85,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 0.68,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe : Ag nanocomposites",
+          "value": 1.69,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 1.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 2.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 2.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "undoped p-type PbTe",
+          "value": 2.3,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Sn doped PbTe",
+          "value": 2.1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "10PbTe",
+          "value": 3,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "550.0 K"
+        },
+        {
+          "material": "10PbTe",
+          "value": 3,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "550.0 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "500.0 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "500.0 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 1.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "500.0 K"
+        },
+        {
+          "material": "PbTe + 2 % AgSbSe2",
+          "value": 0.52,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "523.0 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 2.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 0.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 2.3,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 3,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 0.75,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "pristine PbTe compound",
+          "value": 2.17,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 2.3,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "PbTe–2 % AgSbSe2",
+          "value": 1.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "bulk PbTe",
+          "value": 2.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 0.8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "bulk PbTe",
+          "value": 2.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 0.8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 2.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 1.8599999999999999,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "PbTe / 4 % PbTe @ C",
+          "value": 1.37,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 2.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "PbTe nanowires",
+          "value": 0.84,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "PbTe nanocubes",
+          "value": 0.8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "PbTe nanocubes",
+          "value": 0.8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 3,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 0.91,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "doped PbTe",
+          "value": 1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "iodine doped PbTe",
+          "value": 1.9,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 0.868,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "doped p-type PbTe",
+          "value": 1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "715.0 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "In-doped PbTe",
+          "value": 0.85,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "pristine PbTe",
+          "value": 0.74,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 1.3,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "475.0 K"
+        },
+        {
+          "material": "nanostructured bulk PbTe",
+          "value": 0.621,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "450.0 K"
+        },
+        {
+          "material": "bulk PbTe",
+          "value": 0.42,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 0.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "325.0 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 0.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "325.0 K"
+        },
+        {
+          "material": "bulk PbTe-based materials",
+          "value": 1.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "bulk PbTe",
+          "value": 0.54,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "400.0 K"
+        },
+        {
+          "material": "bulk PbTe",
+          "value": 0.265,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "298.0 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 0.44,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "420.0 K"
+        },
+        {
+          "material": "PbTe / 4 % PbTe @ C : Ag",
+          "value": 0.39,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "nanostructured PbTe",
+          "value": 0.39,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "PbTe / 4 % PbTe @ C",
+          "value": 0.68,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "PbTe / 4 % PbTe @ C : Ag",
+          "value": 0.39,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "p-type PbTe endotaxially nanostructured with SrTe",
+          "value": 0.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "doped PbTe",
+          "value": 0.45,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "pristine PbTe",
+          "value": 2.7,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "322.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Cr-doped PbTe",
+          "value": 0.0038,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe : Ag nanocomposites",
+          "value": 0.001878,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe co-doped with Cr and I",
+          "value": 0.0056159999999999995,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "500.0 K"
+        },
+        {
+          "material": "PbTe nanograins",
+          "value": 1230,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 0.0021000000000000003,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "PbTe / 7 % PbTe @ C : Ag",
+          "value": 0.00204,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "PbTe based material",
+          "value": 700,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "PbTe / 7 % PbTe @ C : Ag",
+          "value": 0.00204,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 119760,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "nanostructured PbTe–2 % MgTe",
+          "value": 0.0022,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "n-type PbTe",
+          "value": 0.002,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "n-type PbTe materials",
+          "value": 0.0021000000000000003,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "PbTe",
+          "value": 0.0045000000000000005,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Ag / La codoped PbTe",
+          "value": 0.0022,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "720.0 K"
+        },
+        {
+          "material": "doped PbTe",
+          "value": 0.039,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "378.0 K"
+        },
+        {
+          "material": "doped PbTe",
+          "value": 0.000039,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "378.0 K"
+        },
+        {
+          "material": "PbTe-5 vol % Cu2Se",
+          "value": 0.0011200000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "760.0 K"
+        },
+        {
+          "material": "pure PbTe alloy",
+          "value": 0.0008500000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "326.0 K"
+        },
+        {
+          "material": "pristine PbTe",
+          "value": 0.25,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "657.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "PbTe",
+          "zt_value": 0.001,
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 1,
+          "temperature": "295 K"
+        },
+        {
+          "material": "mol % PbTe",
+          "zt_value": 2,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Pb0.55Te0.45",
+          "zt_value": 0.08,
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 0.07,
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 0.5,
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 0.2,
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 1.5,
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe alloyed with PbSe",
+          "zt_value": 0.7000000000000001,
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 0.87,
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 0.4,
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 1.6,
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 0.30000000000000004,
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 0.1,
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe nanocrystals",
+          "zt_value": 0.1,
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 0.87,
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 1,
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe doped with cerium",
+          "zt_value": 2,
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 0.4,
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe with PbS",
+          "zt_value": 0.5,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Pb–Te",
+          "zt_value": 2,
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 0.8,
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe-based material",
+          "zt_value": 0.55,
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 0.68,
+          "temperature": "295 K"
+        },
+        {
+          "material": "bulk PbTe",
+          "zt_value": 0.35000000000000003,
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 0.30000000000000004,
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 1,
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe materials",
+          "zt_value": 0.05,
+          "temperature": "550.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 0.31,
+          "temperature": "500.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 1.8,
+          "temperature": "500.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 2,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "PbTe nanocubes",
+          "zt_value": 0.45,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "PbTe / PbTe0.02Se0.98 quantum dot super-lattice",
+          "zt_value": 1.6,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "n-type PbTe ( 0.2 wt. %",
+          "zt_value": 0.30000000000000004,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 1,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 0.31,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 0.31,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "PbTe / PbTe0.02Se0.98 quantum dot super-lattice",
+          "zt_value": 1.6,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 1.2,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 0.8,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "p-type PbTe",
+          "zt_value": 0.30000000000000004,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "bulk PbTe",
+          "zt_value": 0.9,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 1,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 1.4,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "PbTe + 2 % AgSbSe2",
+          "zt_value": 1.3,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "PbTe + 2 % AgSbSe2",
+          "zt_value": 0.85,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "p-type PbTe",
+          "zt_value": 1.1,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 0.7000000000000001,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "n-type Ag and Sb co-doped PbTe",
+          "zt_value": 1.7000000000000002,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "PbTe materials",
+          "zt_value": 1.4,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "PbTe alloyed with MnTe",
+          "zt_value": 1.6,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 1.2,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 0.6000000000000001,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 0.03,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "n-type PbTe",
+          "zt_value": 1.7000000000000002,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 1.6,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "pure PbTe nanostructures",
+          "zt_value": 0.18,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 1.4,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "PbTe @ PbS nanoparticles",
+          "zt_value": 1.07,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 0.8,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 2.1,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "PbTe matrix",
+          "zt_value": 1.7000000000000002,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 0.92,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "PbTe alloyed with MnTe",
+          "zt_value": 1.6,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "antimony doped PbTe materials",
+          "zt_value": 1.7000000000000002,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "p-type PbTe",
+          "zt_value": 1.4,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "2.5PbTe",
+          "zt_value": 0.78,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "2.5PbTe",
+          "zt_value": 0.78,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "n-type PbTe",
+          "zt_value": 1.2,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "doped p-type PbTe",
+          "zt_value": 1.7000000000000002,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "sodium-doped PbTe",
+          "zt_value": 1.4,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "Ta doped PbTe alloys",
+          "zt_value": 1.4,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 1.5,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "n-type PbTe",
+          "zt_value": 1.4,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "n-type PbTe",
+          "zt_value": 1.4,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "p-type Na-doped PbTe",
+          "zt_value": 0.8,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "PbI2-doped PbTe",
+          "zt_value": 1.2,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "Ag-doped PbTe",
+          "zt_value": 1.4,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "PbTe matrix",
+          "zt_value": 2,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "n-type nanostructured PbTe",
+          "zt_value": 0.2,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 0.2,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "Na doped PbTe",
+          "zt_value": 1.4,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "PbTe with Na",
+          "zt_value": 1.4,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 2.2,
+          "temperature": "715.0 K"
+        },
+        {
+          "material": "PbTe–3 % AgSbSe2",
+          "zt_value": 0.45,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Tl-doped PbTe",
+          "zt_value": 1.3,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 1.4,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "PbTeCd0.02",
+          "zt_value": 0.93,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "Tl-doped PbTe compound",
+          "zt_value": 1.3,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 0.75,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 0.7000000000000001,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "nanostructured PbTe materials with Pb and Sb",
+          "zt_value": 1.4,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 1,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "n-type PbTe",
+          "zt_value": 1.2,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "n-type PbTe",
+          "zt_value": 0.8,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "Tl-doped PbTe compound",
+          "zt_value": 1.3,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "In-doped PbTe",
+          "zt_value": 0.85,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 0.1,
+          "temperature": "475.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 0.1,
+          "temperature": "475.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 0.21,
+          "temperature": "450.0 K"
+        },
+        {
+          "material": "nanostructured bulk PbTe",
+          "zt_value": 0.78,
+          "temperature": "450.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 1.5,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "Na-doped PbTe",
+          "zt_value": 1.4,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "bulk PbTe",
+          "zt_value": 0.36,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 1.7000000000000002,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "(PbTe)m",
+          "zt_value": 2.1,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "(PbTe)0.95",
+          "zt_value": 2.3,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 1.4,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 1.4,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 0.36,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "PbTe alloy",
+          "zt_value": 2,
+          "temperature": "400.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 0.8,
+          "temperature": "400.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 0.75,
+          "temperature": "400.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 1,
+          "temperature": "400.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 0.5,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 0.27,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "doped PbTe",
+          "zt_value": 1.5,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "n-type PbTe",
+          "zt_value": 1.5,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "PbTeCd0.02",
+          "zt_value": 1.5,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "PbTeCd0.02",
+          "zt_value": 1.5,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "PbTe / 7 % PbTe @ C : Ag",
+          "zt_value": 1.65,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "PbTe / 7 % PbTe @ C : Ag",
+          "zt_value": 1.65,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "PbTe / 7 % PbTe @ C : Ag",
+          "zt_value": 1.65,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 0.9400000000000001,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "pure PbTe",
+          "zt_value": 0.8,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 0.8,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "pure PbTe",
+          "zt_value": 0.8,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 0.27,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "Mg-doped PbTe",
+          "zt_value": 2,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "p-type PbTe endotaxially nanostructured with SrTe",
+          "zt_value": 2.2,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 1.8,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 1.1,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 1.1,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "12 % S-introduced PbTe",
+          "zt_value": 1.4,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 2.4,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "pure PbTe",
+          "zt_value": 1.1,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "p type PbTe",
+          "zt_value": 1.5,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 1.5,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Tl doped PbTe alloy",
+          "zt_value": 1.5,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Na-doped PbTe",
+          "zt_value": 1.5,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Na-doped PbTe",
+          "zt_value": 2,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "p-type PbTe",
+          "zt_value": 1.5,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "PbTe-4 % InSb",
+          "zt_value": 1.83,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Tl-doped p-type PbTe",
+          "zt_value": 1.5,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Na-doped PbTe",
+          "zt_value": 2,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Na-doped PbTe",
+          "zt_value": 2,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 0.8,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "PbTe-4 % InSb composites",
+          "zt_value": 1.83,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "p-type Tl-doped Pb0.98Tl0.02Te material",
+          "zt_value": 1.5,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 1.5,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "p-type PbTe",
+          "zt_value": 1.5,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "p-type PbTe",
+          "zt_value": 1.5,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "PbTe-4 % InSb",
+          "zt_value": 1.83,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 1.5,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 1.5,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 1.5,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 1.5,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Tl-doped p-type PbTe",
+          "zt_value": 1.5,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Tl-doped PbTe",
+          "zt_value": 1.5,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Na-doped PbTe",
+          "zt_value": 2,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Tl-doped PbTe",
+          "zt_value": 1.5,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "bulk PbTe",
+          "zt_value": 0.7000000000000001,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Thallium doped PbTe",
+          "zt_value": 1.5,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "p-type PbTe",
+          "zt_value": 1.8,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "n-type PbTe bulk",
+          "zt_value": 1.33,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "PbTe-4 % InSb",
+          "zt_value": 1.8,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "n-type PbTe",
+          "zt_value": 1.6,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "n-type PbTe",
+          "zt_value": 1,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "n-type PbTe–4 % MnTe",
+          "zt_value": 1.6,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "n-type PbTe–4 % MnTe",
+          "zt_value": 1,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 1,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "PbTe–4 % MnTe",
+          "zt_value": 1.6,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "p-type PbTe",
+          "zt_value": 1.5,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 1.5,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "p-type PbTe",
+          "zt_value": 1.5,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "p-type PbTe",
+          "zt_value": 1.5,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "nanostructured p-type PbTe",
+          "zt_value": 1.5,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Ag and Sb co-doped PbTe",
+          "zt_value": 1.7000000000000002,
+          "temperature": "1123.0 K"
+        },
+        {
+          "material": "Ag and Sb co-doped PbTe",
+          "zt_value": 1.7000000000000002,
+          "temperature": "1123.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 2,
+          "temperature": "775.0 K"
+        },
+        {
+          "material": "La-doped PbTe",
+          "zt_value": 1.5,
+          "temperature": "775.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 1.1,
+          "temperature": "775.0 K"
+        },
+        {
+          "material": "p-type PbTe",
+          "zt_value": 1.1,
+          "temperature": "775.0 K"
+        },
+        {
+          "material": "p-type PbTe",
+          "zt_value": 1.1,
+          "temperature": "775.0 K"
+        },
+        {
+          "material": "bulk PbTe",
+          "zt_value": 2,
+          "temperature": "775.0 K"
+        },
+        {
+          "material": "sodium doped PbTe",
+          "zt_value": 2.2,
+          "temperature": "915.0 K"
+        },
+        {
+          "material": "p-type PbTe",
+          "zt_value": 2.2,
+          "temperature": "915.0 K"
+        },
+        {
+          "material": "p-type PbTe endotaxially nanostructured with SrTe",
+          "zt_value": 2.2,
+          "temperature": "915.0 K"
+        },
+        {
+          "material": "PbTe–4 % SrTe doped with 2 % Na",
+          "zt_value": 2.2,
+          "temperature": "915.0 K"
+        },
+        {
+          "material": "SrTe-doped PbTe",
+          "zt_value": 2.2,
+          "temperature": "915.0 K"
+        },
+        {
+          "material": "Na doped full-scale-structured PbTe",
+          "zt_value": 2.2,
+          "temperature": "915.0 K"
+        },
+        {
+          "material": "p-type PbTe",
+          "zt_value": 2.2,
+          "temperature": "915.0 K"
+        },
+        {
+          "material": "PbTe with SrTe",
+          "zt_value": 2.1,
+          "temperature": "915.0 K"
+        },
+        {
+          "material": "PbTe doped with 2 % Na",
+          "zt_value": 2.2,
+          "temperature": "915.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 2.2,
+          "temperature": "915.0 K"
+        },
+        {
+          "material": "p-type PbTe",
+          "zt_value": 2.2,
+          "temperature": "915.0 K"
+        },
+        {
+          "material": "p–type PbTe",
+          "zt_value": 1.8,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "Na-doped p-type PbTe",
+          "zt_value": 1.4,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "I-doped n-type PbTe",
+          "zt_value": 1.4,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "dope lead telluride",
+          "zt_value": 1.8,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "PbTe alloys",
+          "zt_value": 1.7000000000000002,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "PbTe1",
+          "zt_value": 1.8,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "Na doped PbTe",
+          "zt_value": 1.4,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "Pb(Te1",
+          "zt_value": 1.8,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "PbTe1",
+          "zt_value": 1.8,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 1.8,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "nanostructured PbTe",
+          "zt_value": 1.9,
+          "temperature": "805.0 K"
+        },
+        {
+          "material": "PbTe bulk materials",
+          "zt_value": 2,
+          "temperature": "820.0 K"
+        },
+        {
+          "material": "Pb0.55Te0.45",
+          "zt_value": 0.37,
+          "temperature": "690.0 K"
+        },
+        {
+          "material": "Pb0.55Te0.45",
+          "zt_value": 0.37,
+          "temperature": "690.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 1,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 0.8,
+          "temperature": "770.0 K"
+        },
+        {
+          "material": "PbTe with 2 % Na",
+          "zt_value": 1.1,
+          "temperature": "770.0 K"
+        },
+        {
+          "material": "Cl-doped PbTe",
+          "zt_value": 1.2,
+          "temperature": "543.0 K"
+        },
+        {
+          "material": "Cl-doped PbTe",
+          "zt_value": 1.2,
+          "temperature": "543.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 0.8,
+          "temperature": "650.0 K"
+        },
+        {
+          "material": "Pb–Te",
+          "zt_value": 0.8,
+          "temperature": "650.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 1.35,
+          "temperature": "650.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 0.8,
+          "temperature": "650.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 1,
+          "temperature": "650.0 K"
+        },
+        {
+          "material": "bulk PbTe",
+          "zt_value": 0.8,
+          "temperature": "650.0 K"
+        },
+        {
+          "material": "Ag / La codoped PbTe",
+          "zt_value": 1.2,
+          "temperature": "720.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 2,
+          "temperature": "720.0 K"
+        },
+        {
+          "material": "pure PbTe nanomaterials",
+          "zt_value": 3,
+          "temperature": "320.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 0.8,
+          "temperature": "643.0 K"
+        },
+        {
+          "material": "n-type PbTe",
+          "zt_value": 0.8,
+          "temperature": "651.0 K"
+        },
+        {
+          "material": "n-type Bi-doped PbTe nanocubes",
+          "zt_value": 1.35,
+          "temperature": "675.0 K"
+        },
+        {
+          "material": "n-type Pb0.99Bi0.01Te pellet",
+          "zt_value": 1.35,
+          "temperature": "675.0 K"
+        },
+        {
+          "material": "Bi doped PbTe nanocubes",
+          "zt_value": 1.35,
+          "temperature": "675.0 K"
+        },
+        {
+          "material": "n-type PbTe",
+          "zt_value": 0.9,
+          "temperature": "675.0 K"
+        },
+        {
+          "material": "n-type Pb0.99Bi0.01Te",
+          "zt_value": 1.35,
+          "temperature": "675.0 K"
+        },
+        {
+          "material": "Pb0.99Bi0.01Te pellet",
+          "zt_value": 1.35,
+          "temperature": "675.0 K"
+        },
+        {
+          "material": "Pb0.99Bi0.01Te pellet",
+          "zt_value": 1.35,
+          "temperature": "675.0 K"
+        },
+        {
+          "material": "n-type Pb0.99Bi0.01Te",
+          "zt_value": 1.35,
+          "temperature": "675.0 K"
+        },
+        {
+          "material": "pristine PbTe alloy",
+          "zt_value": 0.25,
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "n-type PbTeCd0.02",
+          "zt_value": 1,
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "p-type PbTe",
+          "zt_value": 1.8,
+          "temperature": "810.0 K"
+        },
+        {
+          "material": "PbTe–2 % MgTe doped with 4 % Na",
+          "zt_value": 1.8,
+          "temperature": "810.0 K"
+        },
+        {
+          "material": "PbTe–2 % MgTe doped with 4 % Na",
+          "zt_value": 1.8,
+          "temperature": "810.0 K"
+        },
+        {
+          "material": "Pb0.98Na0.02Te–8 % SrTe",
+          "zt_value": 2.5,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 2.5,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 2.5,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "Pb0.98Na0.02Te–8 % SrTe",
+          "zt_value": 2.5,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 0.7000000000000001,
+          "temperature": "740.0 K"
+        },
+        {
+          "material": "pure PbTe nanomaterials",
+          "zt_value": 0.001,
+          "temperature": "680.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 0.42,
+          "temperature": "617.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 0.12,
+          "temperature": "570.0 K"
+        },
+        {
+          "material": "n-type bulk PbTe",
+          "zt_value": 1.19,
+          "temperature": "570.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 0.00016,
+          "temperature": "270.0 K"
+        },
+        {
+          "material": "Tl-doped PbTe",
+          "zt_value": 1.13,
+          "temperature": "683.0 K"
+        },
+        {
+          "material": "Tl-doped PbTe",
+          "zt_value": 1.13,
+          "temperature": "683.0 K"
+        },
+        {
+          "material": "Tl-doped PbTe",
+          "zt_value": 1.13,
+          "temperature": "683.0 K"
+        },
+        {
+          "material": "n-type PbTe",
+          "zt_value": 1.4,
+          "temperature": "880.0 K"
+        },
+        {
+          "material": "p-type PbTe",
+          "zt_value": 1.4,
+          "temperature": "880.0 K"
+        },
+        {
+          "material": "nanophase PbTe",
+          "zt_value": 1.26,
+          "temperature": "880.0 K"
+        },
+        {
+          "material": "lanthanum doped PbTe compounds",
+          "zt_value": 0.30000000000000004,
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 0.057,
+          "temperature": "525.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 1.2,
+          "temperature": "830.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 0.8,
+          "temperature": "580.0 K"
+        },
+        {
+          "material": "PbTe–Ag2Te nanocomposite",
+          "zt_value": 0.66,
+          "temperature": "390.0 K"
+        },
+        {
+          "material": "co-doped PbTe",
+          "zt_value": 0.055,
+          "temperature": "378.0 K"
+        },
+        {
+          "material": "doped PbTe",
+          "zt_value": 0.055,
+          "temperature": "378.0 K"
+        },
+        {
+          "material": "p-type 2 % Na-doped PbTe",
+          "zt_value": 1.74,
+          "temperature": "774.0 K"
+        },
+        {
+          "material": "Na-doped PbTe-based",
+          "zt_value": 1.74,
+          "temperature": "774.0 K"
+        },
+        {
+          "material": "p-type 2 % Na-doped PbTe",
+          "zt_value": 1.74,
+          "temperature": "774.0 K"
+        },
+        {
+          "material": "pristine PbTe",
+          "zt_value": 0.13,
+          "temperature": "350.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 2.2,
+          "temperature": "913.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 2.2,
+          "temperature": "913.0 K"
+        },
+        {
+          "material": "PbTe alloy endotaxially nanostructured with SrTe",
+          "zt_value": 0.85,
+          "temperature": "913.0 K"
+        },
+        {
+          "material": "Pb1−xSnxTe–PbS compounds",
+          "zt_value": 1.5,
+          "temperature": "642.0 K"
+        },
+        {
+          "material": "PbTe–PbS ( 4 % )",
+          "zt_value": 1.5,
+          "temperature": "642.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 1.6,
+          "temperature": "780.0 K"
+        },
+        {
+          "material": "PbTe / TAGS materials",
+          "zt_value": 1,
+          "temperature": "811.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 0.7000000000000001,
+          "temperature": "778.0 K"
+        },
+        {
+          "material": "pristine PbTe",
+          "zt_value": 0.09,
+          "temperature": "490.0 K"
+        },
+        {
+          "material": "n-type PbTe",
+          "zt_value": 1,
+          "temperature": "623.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 0.84,
+          "temperature": "648.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 1,
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "pure PbTe",
+          "zt_value": 0.8,
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 1,
+          "temperature": "613.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 0.7000000000000001,
+          "temperature": "670.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 0.8,
+          "temperature": "620.0 K"
+        },
+        {
+          "material": "PbTe",
+          "zt_value": 2,
+          "temperature": "473.0 K"
+        },
+        {
+          "material": "pure PbTe",
+          "zt_value": 0.75,
+          "temperature": "473.0 K"
+        },
+        {
+          "material": "PbTe nanopowder",
+          "zt_value": 0.1,
+          "temperature": "303.0 K"
+        },
+        {
+          "material": "PbTe-5 vol % Cu2Se",
+          "zt_value": 0.91,
+          "temperature": "760.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

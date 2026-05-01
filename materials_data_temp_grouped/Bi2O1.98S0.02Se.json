@@ -1,0 +1,46 @@
+{
+  "Material": "Bi2O1.98S0.02Se",
+  "DOIs_Researched": [
+    "10.1016/j.jeurceramsoc.2020.07.047"
+  ],
+  "Data_By_Temperature": {
+    "793.0": [
+      {
+        "Original_Name_In_Paper": "Bi2O1.98S0.02Se",
+        "Property": "ZT",
+        "Value": 0.29,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2020.07.047"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2O1.98S0.02Se",
+        "Property": "ZT",
+        "Value": 0.29,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2020.07.047"
+      }
+    ],
+    "321.0": [
+      {
+        "Original_Name_In_Paper": "Bi2O1.98S0.02Se",
+        "Property": "PF",
+        "Value": 0.00033000000000000005,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2020.07.047"
+      }
+    ],
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "Bi2O1.98S0.02Se",
+        "Property": "Conductivity",
+        "Value": 13100.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2020.07.047"
+      }
+    ]
+  }
+}

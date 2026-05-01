@@ -1,0 +1,18 @@
+{
+  "Material": "NdFe2Co2Sb11.8Ge0.2",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2018.04.058"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Nd0.9Fe2Co2Sb11.8Ge0.2",
+        "Property": "ZT",
+        "Value": 0.8200000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.04.058"
+      }
+    ]
+  }
+}

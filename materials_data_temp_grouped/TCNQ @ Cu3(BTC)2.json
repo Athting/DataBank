@@ -1,0 +1,18 @@
+{
+  "Material": "TCNQ @ Cu3(BTC)2",
+  "DOIs_Researched": [
+    "10.1557/mrs.2016.242"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "TCNQ @ Cu3(BTC)2",
+        "Property": "Conductivity",
+        "Value": 1e-09,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1557/mrs.2016.242"
+      }
+    ]
+  }
+}

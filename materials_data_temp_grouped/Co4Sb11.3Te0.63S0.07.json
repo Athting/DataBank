@@ -1,0 +1,52 @@
+{
+  "Material": "Co4Sb11.3Te0.63S0.07",
+  "DOIs_Researched": [
+    "10.1007/s10853-014-8141-3"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Co4Sb11.3Te0.63S0.07",
+        "Property": "ThermCond",
+        "Value": 2.83,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-014-8141-3"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Co4Sb11.3Te0.63S0.07",
+        "Property": "ThermCond",
+        "Value": 1.46,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-014-8141-3"
+      },
+      {
+        "Original_Name_In_Paper": "Co4Sb11.3Te0.63S0.07",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-014-8141-3"
+      },
+      {
+        "Original_Name_In_Paper": "Co4Sb11.3Te0.63S0.07",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-014-8141-3"
+      },
+      {
+        "Original_Name_In_Paper": "Co4Sb11.3Te0.63S0.07",
+        "Property": "PF",
+        "Value": 4320.0,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-014-8141-3"
+      }
+    ]
+  }
+}

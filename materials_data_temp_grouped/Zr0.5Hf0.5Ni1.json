@@ -1,0 +1,29 @@
+{
+  "Material": "Zr0.5Hf0.5Ni1",
+  "DOIs_Researched": [
+    "10.1016/j.matlet.2018.06.019",
+    "10.1557/jmr.2012.171"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "n-type Zr0.5Hf0.5Ni1",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1557/jmr.2012.171"
+      }
+    ],
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "n-type Zr0.5Hf0.5Ni1",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2018.06.019"
+      }
+    ]
+  }
+}

@@ -1,0 +1,387 @@
+{
+  "doi": "10.1039/c4dt03556a",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "CuInTe2",
+        "CuInTe2 / graphene composite",
+        "CuIn1−xCdxTe2 alloys",
+        "CuInTe2 + 6 mol % ZnS",
+        "pure CuInTe2",
+        "CuInTe2 / BST",
+        "CuInTe2 matrix",
+        "CuInTe2 / graphene",
+        "CuInTe2 / graphene composites",
+        "p-type CuInTe2",
+        "un-doped CuInTe2",
+        "CuInTe2 TE material",
+        "CuInTe2–0.5 % SnO2",
+        "CuInTe2–0.50 % SnO2",
+        "CuInTe2+6 mol % ZnS",
+        "CuInTe2-based compounds",
+        "Cu0.96InTe2",
+        "Zn-free CuInTe2",
+        "pure CuInTe2 compound",
+        "Cu-deficient CuInTe2",
+        "CuIn.99Zn.01Te2"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "CuInTe2 / BST",
+          "value": 0.000017,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "CuInTe2 + 6 mol % ZnS",
+          "value": 2133.1058020478,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure CuInTe2",
+          "value": 10000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CuInTe2",
+          "value": 3200,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CuInTe2",
+          "value": 14431,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "CuInTe2",
+          "value": 6.8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CuInTe2",
+          "value": 5.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CuInTe2",
+          "value": 7,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CuInTe2",
+          "value": 5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CuInTe2",
+          "value": 5.1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CuInTe2",
+          "value": 4.57,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CuInTe2 / graphene composite",
+          "value": 3.21,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CuInTe2",
+          "value": 3.87,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CuInTe2",
+          "value": 0.42,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "CuInTe2",
+          "value": 6,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "CuInTe2",
+          "value": 1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "pure CuInTe2",
+          "value": 1.15,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "CuInTe2 / graphene composite",
+          "value": 1.08,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "700.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "CuInTe2 / graphene composite",
+          "value": 0.000093,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CuInTe2",
+          "value": 0.0013000000000000002,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "CuInTe2",
+          "value": 0.000177,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "681.0 K"
+        },
+        {
+          "material": "Cu-deficient CuInTe2",
+          "value": 0.000923,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "681.0 K"
+        },
+        {
+          "material": "CuInTe2",
+          "value": 0.0008,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "CuIn.99Zn.01Te2",
+          "value": 0.00117,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "515.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "CuIn1−xCdxTe2 alloys",
+          "zt_value": 0.1,
+          "temperature": "295 K"
+        },
+        {
+          "material": "CuInTe2",
+          "zt_value": 0.028,
+          "temperature": "295 K"
+        },
+        {
+          "material": "CuInTe2",
+          "zt_value": 0.017,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "CuInTe2",
+          "zt_value": 1,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "CuInTe2 / graphene composite",
+          "zt_value": 0.4,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "CuInTe2 matrix",
+          "zt_value": 0.4,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "CuInTe2",
+          "zt_value": 0.39,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "CuInTe2 / graphene",
+          "zt_value": 0.4,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "pure CuInTe2",
+          "zt_value": 0.39,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "CuInTe2 / graphene composites",
+          "zt_value": 0.4,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "CuInTe2",
+          "zt_value": 1.18,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "CuInTe2",
+          "zt_value": 1.18,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "p-type CuInTe2",
+          "zt_value": 1.18,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "CuInTe2",
+          "zt_value": 1.18,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "un-doped CuInTe2",
+          "zt_value": 1.18,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "CuInTe2",
+          "zt_value": 1.18,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "CuInTe2",
+          "zt_value": 1.18,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "p-type CuInTe2",
+          "zt_value": 1.72,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "CuInTe2",
+          "zt_value": 1.18,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "p-type CuInTe2",
+          "zt_value": 1.72,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "CuInTe2",
+          "zt_value": 1,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "CuInTe2 TE material",
+          "zt_value": 1.6099999999999999,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "CuInTe2",
+          "zt_value": 1.18,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "CuInTe2",
+          "zt_value": 1.18,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "CuInTe2–0.5 % SnO2",
+          "zt_value": 1.1,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "CuInTe2–0.50 % SnO2",
+          "zt_value": 1.1,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "pure CuInTe2",
+          "zt_value": 0.8,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "CuInTe2–0.5 % SnO2",
+          "zt_value": 1.1,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "CuInTe2+6 mol % ZnS",
+          "zt_value": 1.52,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "CuInTe2-based compounds",
+          "zt_value": 1.52,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "CuInTe2",
+          "zt_value": 0.54,
+          "temperature": "710.0 K"
+        },
+        {
+          "material": "Cu0.96InTe2",
+          "zt_value": 0.8300000000000001,
+          "temperature": "820.0 K"
+        },
+        {
+          "material": "Zn-free CuInTe2",
+          "zt_value": 0.6900000000000001,
+          "temperature": "737.0 K"
+        },
+        {
+          "material": "CuInTe2",
+          "zt_value": 0.27,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "pure CuInTe2 compound",
+          "zt_value": 0.8,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "pure CuInTe2",
+          "zt_value": 0.14,
+          "temperature": "475.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

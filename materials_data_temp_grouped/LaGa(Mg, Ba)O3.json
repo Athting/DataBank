@@ -1,0 +1,18 @@
+{
+  "Material": "LaGa(Mg, Ba)O3",
+  "DOIs_Researched": [
+    "10.1039/b102987h"
+  ],
+  "Data_By_Temperature": {
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "La0.9Ba0.1Ga1\u2212xMg",
+        "Property": "Conductivity",
+        "Value": 10.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": "doping with Ba2+ and Mg2+",
+        "Source_DOI": "10.1039/b102987h"
+      }
+    ]
+  }
+}

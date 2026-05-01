@@ -1,0 +1,54 @@
+{
+  "Material": "CeCoSb12",
+  "DOIs_Researched": [
+    "10.1039/c8tc06461j",
+    "10.1016/j.ceramint.2015.01.074",
+    "10.1038/ncomms8584"
+  ],
+  "Data_By_Temperature": {
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "Ce0.17Co4Sb12",
+        "Property": "ThermCond",
+        "Value": 2.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8tc06461j"
+      },
+      {
+        "Original_Name_In_Paper": "Ce0.14Co4Sb12",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/ncomms8584"
+      },
+      {
+        "Original_Name_In_Paper": "Ce0.11Co4Sb12",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/ncomms8584"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ce0.20Co4Sb12.04",
+        "Property": "PF",
+        "Value": 2.9e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2015.01.074"
+      },
+      {
+        "Original_Name_In_Paper": "Ce0.20Co4Sb12.04",
+        "Property": "PF",
+        "Value": 2.9e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2015.01.074"
+      }
+    ]
+  }
+}

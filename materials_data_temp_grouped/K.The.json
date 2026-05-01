@@ -1,0 +1,18 @@
+{
+  "Material": "K.The",
+  "DOIs_Researched": [
+    "10.1016/j.physb.2017.05.036"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "K.The",
+        "Property": "Conductivity",
+        "Value": 74800.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2017.05.036"
+      }
+    ]
+  }
+}

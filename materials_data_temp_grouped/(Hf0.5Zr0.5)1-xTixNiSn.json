@@ -1,0 +1,18 @@
+{
+  "Material": "(Hf0.5Zr0.5)1-xTixNiSn",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2019.153413"
+  ],
+  "Data_By_Temperature": {
+    "837.0": [
+      {
+        "Original_Name_In_Paper": "(Hf0.5Zr0.5)1-xTixNiSn0.998Sb0.002",
+        "Property": "ZT",
+        "Value": 0.92,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.153413"
+      }
+    ]
+  }
+}

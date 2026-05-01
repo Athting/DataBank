@@ -1,0 +1,18 @@
+{
+  "Material": "AgGaSe5.97",
+  "DOIs_Researched": [
+    "10.1039/c7cc05935c"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ag9GaSe5.97",
+        "Property": "Conductivity",
+        "Value": 58000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cc05935c"
+      }
+    ]
+  }
+}

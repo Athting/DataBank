@@ -1,0 +1,18 @@
+{
+  "Material": "Eu5In2-xCdxSb6",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2017.08.033"
+  ],
+  "Data_By_Temperature": {
+    "709.0": [
+      {
+        "Original_Name_In_Paper": "Eu5In2-xCdxSb6",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.08.033"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Mg2Si1-xPbx",
+  "DOIs_Researched": [
+    "10.1039/c8ra02436g"
+  ],
+  "Data_By_Temperature": {
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Si1\u2212xPbx",
+        "Property": "ZT",
+        "Value": 0.67,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ra02436g"
+      }
+    ]
+  }
+}

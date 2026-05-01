@@ -1,0 +1,36 @@
+{
+  "Material": "Gd0.06Sn0.94Te",
+  "DOIs_Researched": [
+    "10.1039/c6ta01994c"
+  ],
+  "Data_By_Temperature": {
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "Gd0.06Sn0.94Te",
+        "Property": "ThermCond",
+        "Value": 1.6,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta01994c"
+      }
+    ],
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Gd0.06Sn0.94Te",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta01994c"
+      },
+      {
+        "Original_Name_In_Paper": "Gd0.06Sn0.94Te",
+        "Property": "Seebeck",
+        "Value": 0.00016,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta01994c"
+      }
+    ]
+  }
+}

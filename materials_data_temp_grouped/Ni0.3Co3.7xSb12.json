@@ -1,0 +1,18 @@
+{
+  "Material": "Ni0.3Co3.7xSb12",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2007.02.111"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ni0.3Co3.7xSb12",
+        "Property": "Conductivity",
+        "Value": 85600.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2007.02.111"
+      }
+    ]
+  }
+}

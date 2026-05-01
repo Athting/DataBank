@@ -1,0 +1,92 @@
+{
+  "Material": "Ga / Ge",
+  "DOIs_Researched": [
+    "10.1039/c7sc03482b",
+    "10.1016/j.nanoen.2012.10.005",
+    "10.1016/j.jallcom.2017.06.110",
+    "10.1016/j.jallcom.2009.04.072",
+    "10.1016/j.jallcom.2017.11.059"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Ga / Ge",
+        "Property": "ThermCond",
+        "Value": 1.55,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.11.059"
+      },
+      {
+        "Original_Name_In_Paper": "Ga / Ge",
+        "Property": "ZT",
+        "Value": 0.5720000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.11.059"
+      },
+      {
+        "Original_Name_In_Paper": "Ga / Ge",
+        "Property": "Seebeck",
+        "Value": 0.000207,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.11.059"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ga / Ge",
+        "Property": "ThermCond",
+        "Value": 1.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2012.10.005"
+      },
+      {
+        "Original_Name_In_Paper": "Ga / Ge",
+        "Property": "ZT",
+        "Value": 0.85,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2012.10.005"
+      },
+      {
+        "Original_Name_In_Paper": "Ga / Ge",
+        "Property": "Conductivity",
+        "Value": 140000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.11.059"
+      }
+    ],
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "Ga / Ge",
+        "Property": "ZT",
+        "Value": 0.93,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.04.072"
+      }
+    ],
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "Ga / Ge",
+        "Property": "ZT",
+        "Value": 0.58,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.06.110"
+      },
+      {
+        "Original_Name_In_Paper": "Ga / Ge",
+        "Property": "Conductivity",
+        "Value": 28571.4285714286,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7sc03482b"
+      }
+    ]
+  }
+}

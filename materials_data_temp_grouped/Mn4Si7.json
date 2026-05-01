@@ -1,0 +1,40 @@
+{
+  "Material": "Mn4Si7",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2013.09.069",
+    "10.1007/s10853-018-2105-y",
+    "10.1016/j.ceramint.2019.06.104"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "Mn4Si7",
+        "Property": "ZT",
+        "Value": 1.55,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.09.069"
+      }
+    ],
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "p-type Mn4Si7",
+        "Property": "ZT",
+        "Value": 0.42,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2019.06.104"
+      }
+    ],
+    "903.0": [
+      {
+        "Original_Name_In_Paper": "Mn4Si7",
+        "Property": "Conductivity",
+        "Value": 20.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-018-2105-y"
+      }
+    ]
+  }
+}

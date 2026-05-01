@@ -1,0 +1,26 @@
+{
+  "Material": "Bi2Te2.85Se0.13",
+  "DOIs_Researched": [
+    "10.1007/s10854-020-03611-4"
+  ],
+  "Data_By_Temperature": {
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Te2.85Se0.13",
+        "Property": "PF",
+        "Value": 0.13,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-020-03611-4"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Te2.85Se0.13",
+        "Property": "PF",
+        "Value": 0.13,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-020-03611-4"
+      }
+    ]
+  }
+}

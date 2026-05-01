@@ -1,0 +1,29 @@
+{
+  "Material": "DMSO-mixed PEDOT",
+  "DOIs_Researched": [
+    "10.1007/s10853-020-04949-0",
+    "10.1016/j.pmatsci.2017.09.004"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "DMSO-mixed PEDOT",
+        "Property": "ZT",
+        "Value": 0.42,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2017.09.004"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "DMSO-mixed PEDOT",
+        "Property": "ZT",
+        "Value": 0.42,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      }
+    ]
+  }
+}

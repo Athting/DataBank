@@ -1,0 +1,26 @@
+{
+  "Material": "Mn31Ru1Si56",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2013.09.069"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "Mn31Ru1Si56",
+        "Property": "ThermCond",
+        "Value": 2.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.09.069"
+      },
+      {
+        "Original_Name_In_Paper": "Mn31Ru1Si56",
+        "Property": "PF",
+        "Value": 0.0031000000000000003,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.09.069"
+      }
+    ]
+  }
+}

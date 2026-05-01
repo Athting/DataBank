@@ -1,0 +1,18 @@
+{
+  "Material": "PbTe / Ag2Te bulk composites",
+  "DOIs_Researched": [
+    "10.1007/s10854-020-04613-y"
+  ],
+  "Data_By_Temperature": {
+    "550.0": [
+      {
+        "Original_Name_In_Paper": "PbTe / Ag2Te bulk composites",
+        "Property": "ZT",
+        "Value": 0.035,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-020-04613-y"
+      }
+    ]
+  }
+}

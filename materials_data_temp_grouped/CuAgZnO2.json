@@ -1,0 +1,18 @@
+{
+  "Material": "CuAgZnO2",
+  "DOIs_Researched": [
+    "10.1016/j.mssp.2016.08.023"
+  ],
+  "Data_By_Temperature": {
+    "1373.0": [
+      {
+        "Original_Name_In_Paper": "Cu0.979Ag0.02Zn0.01O2",
+        "Property": "Conductivity",
+        "Value": 400.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2016.08.023"
+      }
+    ]
+  }
+}

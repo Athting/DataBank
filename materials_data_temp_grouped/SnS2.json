@@ -1,0 +1,229 @@
+{
+  "Material": "SnS2",
+  "DOIs_Researched": [
+    "10.1039/c5cp03700j",
+    "10.1016/j.physe.2018.12.004",
+    "10.1038/ncomms12011",
+    "10.1039/c7cp03748a",
+    "10.1039/c7cs00849j",
+    "10.1016/j.nanoen.2017.07.011",
+    "10.1007/s10854-020-03105-3",
+    "10.1007/s10854-020-03644-9",
+    "10.1038/s41598-017-09572-9",
+    "10.1016/j.mssp.2016.03.012"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "SnS2",
+        "Property": "ThermCond",
+        "Value": 0.67,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5cp03700j"
+      },
+      {
+        "Original_Name_In_Paper": "bulk SnS2",
+        "Property": "ZT",
+        "Value": 0.19,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-017-09572-9"
+      },
+      {
+        "Original_Name_In_Paper": "SnS2",
+        "Property": "ZT",
+        "Value": 0.19,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5cp03700j"
+      },
+      {
+        "Original_Name_In_Paper": "SnS2",
+        "Property": "ZT",
+        "Value": 0.15,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5cp03700j"
+      },
+      {
+        "Original_Name_In_Paper": "SnS2",
+        "Property": "ZT",
+        "Value": 0.18,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5cp03700j"
+      },
+      {
+        "Original_Name_In_Paper": "bulk single-crystal SnS2",
+        "Property": "ZT",
+        "Value": 0.13,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/ncomms12011"
+      },
+      {
+        "Original_Name_In_Paper": "SnS2",
+        "Property": "ZT",
+        "Value": 0.012,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/ncomms12011"
+      },
+      {
+        "Original_Name_In_Paper": "two-dimensional SnS2 nanosheets",
+        "Property": "Seebeck",
+        "Value": 0.0347,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/ncomms12011"
+      },
+      {
+        "Original_Name_In_Paper": "2D SnS2 materials",
+        "Property": "Seebeck",
+        "Value": 0.0347,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cs00849j"
+      },
+      {
+        "Original_Name_In_Paper": "SnS2",
+        "Property": "Conductivity",
+        "Value": 15.33,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5cp03700j"
+      },
+      {
+        "Original_Name_In_Paper": "SnS2",
+        "Property": "Conductivity",
+        "Value": 7620.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5cp03700j"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "SnS2 bulk",
+        "Property": "ThermCond",
+        "Value": 3.6,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-020-03105-3"
+      },
+      {
+        "Original_Name_In_Paper": "SnS2",
+        "Property": "ThermCond",
+        "Value": 3.45,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-020-03105-3"
+      },
+      {
+        "Original_Name_In_Paper": "monolayer SnS2",
+        "Property": "ThermCond",
+        "Value": 6.41,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cp03748a"
+      },
+      {
+        "Original_Name_In_Paper": "monolayer SnS2",
+        "Property": "ThermCond",
+        "Value": 6.41,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cp03748a"
+      },
+      {
+        "Original_Name_In_Paper": "monolayer SnS2",
+        "Property": "ThermCond",
+        "Value": 6.41,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physe.2018.12.004"
+      },
+      {
+        "Original_Name_In_Paper": "3 L SnS2 nanosheets",
+        "Property": "ZT",
+        "Value": 0.22,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-017-09572-9"
+      },
+      {
+        "Original_Name_In_Paper": "SnS2",
+        "Property": "Seebeck",
+        "Value": 0.000135,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2016.03.012"
+      }
+    ],
+    "450.0": [
+      {
+        "Original_Name_In_Paper": "SnS2",
+        "Property": "ZT",
+        "Value": 0.93,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2017.07.011"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "SnS2 nanosheet",
+        "Property": "ZT",
+        "Value": 1.87,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-017-09572-9"
+      },
+      {
+        "Original_Name_In_Paper": "SnS2",
+        "Property": "ZT",
+        "Value": 1.87,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-017-09572-9"
+      },
+      {
+        "Original_Name_In_Paper": "3 L SnS2 nanosheets",
+        "Property": "ZT",
+        "Value": 1.87,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-017-09572-9"
+      },
+      {
+        "Original_Name_In_Paper": "SnS2 nanosheets",
+        "Property": "ZT",
+        "Value": 1.87,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-017-09572-9"
+      }
+    ],
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "SnS2",
+        "Property": "Seebeck",
+        "Value": 0.000603,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-020-03644-9"
+      }
+    ],
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "SnS2 crystals",
+        "Property": "Conductivity",
+        "Value": 18.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-020-03105-3"
+      }
+    ]
+  }
+}

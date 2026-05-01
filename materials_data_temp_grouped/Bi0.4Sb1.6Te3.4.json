@@ -1,0 +1,50 @@
+{
+  "Material": "Bi0.4Sb1.6Te3.4",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2017.06.036"
+  ],
+  "Data_By_Temperature": {
+    "417.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.4Sb1.6Te3.4",
+        "Property": "ThermCond",
+        "Value": 0.42,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2017.06.036"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.4Sb1.6Te3.4",
+        "Property": "ZT",
+        "Value": 1.4100000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2017.06.036"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.4Sb1.6Te3.4",
+        "Property": "ZT",
+        "Value": 1.4100000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2017.06.036"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.4Sb1.6Te3.4",
+        "Property": "ZT",
+        "Value": 1.4100000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2017.06.036"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.4Sb1.6Te3.4",
+        "Property": "PF",
+        "Value": 0.0026300000000000004,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2017.06.036"
+      }
+    ]
+  }
+}

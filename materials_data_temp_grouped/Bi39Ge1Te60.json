@@ -1,0 +1,18 @@
+{
+  "Material": "Bi39Ge1Te60",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2018.02.310"
+  ],
+  "Data_By_Temperature": {
+    "325.0": [
+      {
+        "Original_Name_In_Paper": "Bi39Ge1Te60",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.02.310"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "Material": "MgAlSiB",
+  "DOIs_Researched": [
+    "10.1016/j.scriptamat.2016.10.010",
+    "10.1007/s13391-019-00193-0",
+    "10.1016/j.scriptamat.2016.01.027",
+    "10.1007/s10854-018-9168-z",
+    "10.1016/j.jallcom.2019.06.075"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Mg1.96Al0.04Si0.97Bi0.03",
+        "Property": "ZT",
+        "Value": 1.02,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2016.01.027"
+      },
+      {
+        "Original_Name_In_Paper": "Mg1.96Al0.04Si0.97Bi0.03",
+        "Property": "ZT",
+        "Value": 1.02,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2016.01.027"
+      },
+      {
+        "Original_Name_In_Paper": "Mg1.96Al0.04Si0.97Bi0.03",
+        "Property": "ZT",
+        "Value": 1.02,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2016.01.027"
+      },
+      {
+        "Original_Name_In_Paper": "pristine Mg1.96Al0.04Si0.97Bi0.03",
+        "Property": "ZT",
+        "Value": 0.8200000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s13391-019-00193-0"
+      },
+      {
+        "Original_Name_In_Paper": "Mg1.96Al0.04Si0.97Bi0.03",
+        "Property": "ZT",
+        "Value": 1.02,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-018-9168-z"
+      },
+      {
+        "Original_Name_In_Paper": "Mg1.96Al0.04Si0.97Bi0.03",
+        "Property": "ZT",
+        "Value": 1.02,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2016.10.010"
+      },
+      {
+        "Original_Name_In_Paper": "Mg1.96Al0.04Si0.97Bi0.03",
+        "Property": "ZT",
+        "Value": 0.98,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2016.10.010"
+      },
+      {
+        "Original_Name_In_Paper": "pristine Mg1.96Al0.04Si0.97Bi0.03",
+        "Property": "PF",
+        "Value": 0.0018200000000000002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.06.075"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "AgBiSe1.98X0.02",
+  "DOIs_Researched": [
+    "10.1039/c4ta04912h"
+  ],
+  "Data_By_Temperature": {
+    "810.0": [
+      {
+        "Original_Name_In_Paper": "AgBiSe1.98X0.02",
+        "Property": "ThermCond",
+        "Value": 0.27,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta04912h"
+      }
+    ]
+  }
+}

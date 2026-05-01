@@ -1,0 +1,77 @@
+{
+  "doi": "10.1039/c9tc03769a",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Si2Te3",
+        "n-doped Si2Te3",
+        "n-type Si2Te3",
+        "Si2Te3 nanosheets"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Si2Te3",
+          "value": 0.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "n-doped Si2Te3",
+          "value": 2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Si2Te3 nanosheets",
+          "value": 0.29,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "Si2Te3",
+          "value": 0.29,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "823.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "n-type Si2Te3",
+          "zt_value": 1.8599999999999999,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Si2Te3",
+          "zt_value": 1.65,
+          "temperature": "823.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

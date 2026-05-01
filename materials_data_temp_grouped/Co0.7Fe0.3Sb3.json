@@ -1,0 +1,26 @@
+{
+  "Material": "Co0.7Fe0.3Sb3",
+  "DOIs_Researched": [
+    "10.1039/c9ra06873b"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Co0.7Fe0.3Sb3",
+        "Property": "ThermCond",
+        "Value": 0.03,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ra06873b"
+      },
+      {
+        "Original_Name_In_Paper": "Co0.7Fe0.3Sb3",
+        "Property": "Seebeck",
+        "Value": 0.00011399999999999999,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ra06873b"
+      }
+    ]
+  }
+}

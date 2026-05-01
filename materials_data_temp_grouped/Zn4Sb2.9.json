@@ -1,0 +1,48 @@
+{
+  "Material": "Zn4Sb2.9",
+  "DOIs_Researched": [
+    "10.1016/j.ssc.2015.06.012"
+  ],
+  "Data_By_Temperature": {
+    "395.0": [
+      {
+        "Original_Name_In_Paper": "Zn4Sb2.9",
+        "Property": "ZT",
+        "Value": 0.32,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2015.06.012"
+      }
+    ],
+    "632.0": [
+      {
+        "Original_Name_In_Paper": "Zn4Sb2.9",
+        "Property": "Seebeck",
+        "Value": 0.000174,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2015.06.012"
+      }
+    ],
+    "257.0": [
+      {
+        "Original_Name_In_Paper": "Sb deficient Zn4Sb2.9",
+        "Property": "PF",
+        "Value": 0.0007300000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2015.06.012"
+      }
+    ],
+    "526.0": [
+      {
+        "Original_Name_In_Paper": "Zn4Sb2.9",
+        "Property": "PF",
+        "Value": 0.00084,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2015.06.012"
+      }
+    ]
+  }
+}

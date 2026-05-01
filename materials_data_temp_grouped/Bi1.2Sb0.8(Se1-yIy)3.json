@@ -1,0 +1,28 @@
+{
+  "Material": "Bi1.2Sb0.8(Se1-yIy)3",
+  "DOIs_Researched": [
+    "10.1039/c6ee02674e"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Bi1.2Sb0.8(Se1\u2212yIy)3",
+        "Property": "Seebeck",
+        "Value": 0.00023,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ee02674e"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Bi1.2Sb0.8(Se1\u2212yIy)3",
+        "Property": "Conductivity",
+        "Value": 25000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": "Iodine - doping",
+        "Source_DOI": "10.1039/c6ee02674e"
+      }
+    ]
+  }
+}

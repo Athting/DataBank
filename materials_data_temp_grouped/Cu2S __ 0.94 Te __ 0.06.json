@@ -1,0 +1,18 @@
+{
+  "Material": "Cu2S \\* 0.94 Te \\* 0.06",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2020.155188"
+  ],
+  "Data_By_Temperature": {
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "Cu2S0\u00b794Te0.06",
+        "Property": "ZT",
+        "Value": 1.18,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.155188"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "K1.25Pb3.5BiT.25Se15",
+  "DOIs_Researched": [
+    "10.1016/S0080-8784(01)80149-6"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "K1.25Pb3.soBiT.25Se15",
+        "Property": "Conductivity",
+        "Value": 26000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0080-8784(01)80149-6"
+      }
+    ]
+  }
+}

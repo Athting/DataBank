@@ -1,0 +1,28 @@
+{
+  "Material": "AuAlO2",
+  "DOIs_Researched": [
+    "10.1007/s12598-019-01237-y"
+  ],
+  "Data_By_Temperature": {
+    "450.0": [
+      {
+        "Original_Name_In_Paper": "p-type AuAlO2",
+        "Property": "ZT",
+        "Value": 0.964,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s12598-019-01237-y"
+      }
+    ],
+    "50.0": [
+      {
+        "Original_Name_In_Paper": "AuAlO2",
+        "Property": "ZT",
+        "Value": 0.067,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s12598-019-01237-y"
+      }
+    ]
+  }
+}

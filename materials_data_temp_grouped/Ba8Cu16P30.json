@@ -1,0 +1,56 @@
+{
+  "Material": "Ba8Cu16P30",
+  "DOIs_Researched": [
+    "10.1039/c7sc03482b",
+    "10.1038/s41598-020-59820-8",
+    "10.1016/j.chempr.2018.04.001"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "pristine Ba8Cu16P30",
+        "Property": "ThermCond",
+        "Value": 1.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.chempr.2018.04.001"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ba8Cu16P30",
+        "Property": "ThermCond",
+        "Value": 0.30000000000000004,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-020-59820-8"
+      },
+      {
+        "Original_Name_In_Paper": "Ba8Cu16P30",
+        "Property": "Seebeck",
+        "Value": 1.3e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7sc03482b"
+      }
+    ],
+    "812.0": [
+      {
+        "Original_Name_In_Paper": "Ba8Cu16P30",
+        "Property": "ZT",
+        "Value": 0.07,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7sc03482b"
+      },
+      {
+        "Original_Name_In_Paper": "Ba8Cu16P30",
+        "Property": "Conductivity",
+        "Value": 10204.0816326531,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7sc03482b"
+      }
+    ]
+  }
+}

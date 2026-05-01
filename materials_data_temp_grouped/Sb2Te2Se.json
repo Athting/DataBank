@@ -1,0 +1,36 @@
+{
+  "Material": "Sb2Te2Se",
+  "DOIs_Researched": [
+    "10.1016/j.commatsci.2020.109588"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "monolayer Sb2Te2Se",
+        "Property": "ThermCond",
+        "Value": 0.06,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2020.109588"
+      },
+      {
+        "Original_Name_In_Paper": "monolayer Sb2Te2Se",
+        "Property": "ThermCond",
+        "Value": 0.06,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2020.109588"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "monolayer Sb2Te2Se",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2020.109588"
+      }
+    ]
+  }
+}

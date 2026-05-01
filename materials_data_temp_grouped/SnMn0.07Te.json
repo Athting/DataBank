@@ -1,0 +1,26 @@
+{
+  "Material": "SnMn0.07Te",
+  "DOIs_Researched": [
+    "10.1039/c5ta05535k"
+  ],
+  "Data_By_Temperature": {
+    "920.0": [
+      {
+        "Original_Name_In_Paper": "p-type SnMn0.07Te",
+        "Property": "ZT",
+        "Value": 1.25,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta05535k"
+      },
+      {
+        "Original_Name_In_Paper": "p-type SnMn0.07Te",
+        "Property": "ZT",
+        "Value": 1.25,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta05535k"
+      }
+    ]
+  }
+}

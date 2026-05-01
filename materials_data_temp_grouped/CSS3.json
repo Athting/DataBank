@@ -1,0 +1,26 @@
+{
+  "Material": "CSS3",
+  "DOIs_Researched": [
+    "10.1016/j.matdes.2016.03.001"
+  ],
+  "Data_By_Temperature": {
+    "648.0": [
+      {
+        "Original_Name_In_Paper": "CSS3",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matdes.2016.03.001"
+      },
+      {
+        "Original_Name_In_Paper": "CSS3",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matdes.2016.03.001"
+      }
+    ]
+  }
+}

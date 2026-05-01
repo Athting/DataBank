@@ -1,0 +1,40 @@
+{
+  "Material": "Mn2CoAl",
+  "DOIs_Researched": [
+    "10.1016/bs.hmm.2016.08.001",
+    "10.1016/j.physrep.2020.08.004",
+    "10.1016/j.jmmm.2019.01.100"
+  ],
+  "Data_By_Temperature": {
+    "10.0": [
+      {
+        "Original_Name_In_Paper": "bulk Mn2CoAl",
+        "Property": "Conductivity",
+        "Value": 244000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physrep.2020.08.004"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Mn2CoAl",
+        "Property": "Conductivity",
+        "Value": 244000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmmm.2019.01.100"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Mn2CoAl",
+        "Property": "Conductivity",
+        "Value": 244000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/bs.hmm.2016.08.001"
+      }
+    ]
+  }
+}

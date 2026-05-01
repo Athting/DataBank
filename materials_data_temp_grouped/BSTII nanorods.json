@@ -1,0 +1,18 @@
+{
+  "Material": "BSTII nanorods",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2015.05.032"
+  ],
+  "Data_By_Temperature": {
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "BSTII nanorods",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2015.05.032"
+      }
+    ]
+  }
+}

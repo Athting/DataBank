@@ -1,0 +1,64 @@
+{
+  "Material": "Si3N4",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2016.04.056",
+    "10.1016/j.ceramint.2011.07.038",
+    "10.1016/j.measurement.2014.02.023"
+  ],
+  "Data_By_Temperature": {
+    "423.0": [
+      {
+        "Original_Name_In_Paper": "Si3N4 film",
+        "Property": "Conductivity",
+        "Value": 100.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.measurement.2014.02.023"
+      }
+    ],
+    "320.0": [
+      {
+        "Original_Name_In_Paper": "Si3N4",
+        "Property": "Seebeck",
+        "Value": -2.4999999999999998e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2016.04.056"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Si3N4",
+        "Property": "Seebeck",
+        "Value": -2.6e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2016.04.056"
+      },
+      {
+        "Original_Name_In_Paper": "Si3N4",
+        "Property": "Seebeck",
+        "Value": 4.9999999999999996e-06,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2016.04.056"
+      },
+      {
+        "Original_Name_In_Paper": "3 wt % Si3N4 / CNT nanocomposite",
+        "Property": "Conductivity",
+        "Value": 2.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2011.07.038"
+      },
+      {
+        "Original_Name_In_Paper": "3 wt % Si3N4 / CNT nanocomposite",
+        "Property": "Conductivity",
+        "Value": 2.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2011.07.038"
+      }
+    ]
+  }
+}

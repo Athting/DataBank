@@ -1,0 +1,50 @@
+{
+  "doi": "10.1016/j.scriptamat.2016.01.035",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Nd filled p-type Nd0.9Fe3CoSb12",
+        "Nd0.9Fe3CoSb12 compound"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Nd filled p-type Nd0.9Fe3CoSb12",
+          "zt_value": 1,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "Nd0.9Fe3CoSb12 compound",
+          "zt_value": 0.99,
+          "temperature": "770.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

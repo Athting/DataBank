@@ -1,0 +1,18 @@
+{
+  "Material": "Pr0.6Sr0.3Ag0.1MnO3",
+  "DOIs_Researched": [
+    "10.1007/s10853-020-04484-y"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Pr0.6Sr0.3Ag0.1MnO3",
+        "Property": "ThermCond",
+        "Value": 2.65,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04484-y"
+      }
+    ]
+  }
+}

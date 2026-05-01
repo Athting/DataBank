@@ -1,0 +1,62 @@
+{
+  "Material": "CO2",
+  "DOIs_Researched": [
+    "10.1016/j.jhazmat.2021.125482",
+    "10.1016/S0927-5193(07)13010-2",
+    "10.1007/s10973-019-08994-z",
+    "10.1039/c4dt03036b",
+    "10.1016/j.energy.2016.10.109"
+  ],
+  "Data_By_Temperature": {
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "CO2",
+        "Property": "ThermCond",
+        "Value": 0.048100000000000004,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10973-019-08994-z"
+      }
+    ],
+    "650.0": [
+      {
+        "Original_Name_In_Paper": "carbon dioxide",
+        "Property": "Seebeck",
+        "Value": 0.0009000000000000001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.energy.2016.10.109"
+      }
+    ],
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "CO2",
+        "Property": "Conductivity",
+        "Value": 0.24,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4dt03036b"
+      }
+    ],
+    "1173.0": [
+      {
+        "Original_Name_In_Paper": "CO2",
+        "Property": "Conductivity",
+        "Value": 0.1,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0927-5193(07)13010-2"
+      }
+    ],
+    "283.0": [
+      {
+        "Original_Name_In_Paper": "CO2",
+        "Property": "Conductivity",
+        "Value": 3.59,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jhazmat.2021.125482"
+      }
+    ]
+  }
+}

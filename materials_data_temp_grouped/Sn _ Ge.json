@@ -1,0 +1,18 @@
+{
+  "Material": "Sn / Ge",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2013.09.006"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Sn / Ge",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2013.09.006"
+      }
+    ]
+  }
+}

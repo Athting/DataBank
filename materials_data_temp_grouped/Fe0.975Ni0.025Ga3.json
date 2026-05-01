@@ -1,0 +1,44 @@
+{
+  "Material": "Fe0.975Ni0.025Ga3",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2015.08.028"
+  ],
+  "Data_By_Temperature": {
+    "620.0": [
+      {
+        "Original_Name_In_Paper": "Fe0.975Ni0.025Ga3",
+        "Property": "ZT",
+        "Value": 0.09,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2015.08.028"
+      },
+      {
+        "Original_Name_In_Paper": "Fe0.975Ni0.025Ga3",
+        "Property": "ZT",
+        "Value": 0.09,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2015.08.028"
+      },
+      {
+        "Original_Name_In_Paper": "Fe0.975Ni0.025Ga3",
+        "Property": "ZT",
+        "Value": 0.09,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2015.08.028"
+      }
+    ],
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "Fe0.975Ni0.025Ga3",
+        "Property": "Conductivity",
+        "Value": 45454.5454545454,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2015.08.028"
+      }
+    ]
+  }
+}

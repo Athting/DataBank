@@ -1,0 +1,26 @@
+{
+  "Material": "Cu26Nb2Ge5.5S32",
+  "DOIs_Researched": [
+    "10.1039/c7tc00762k"
+  ],
+  "Data_By_Temperature": {
+    "670.0": [
+      {
+        "Original_Name_In_Paper": "Cu26Nb2Ge5.5S32",
+        "Property": "Conductivity",
+        "Value": 11111.1111111111,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7tc00762k"
+      },
+      {
+        "Original_Name_In_Paper": "Cu26Nb2Ge5.5S32",
+        "Property": "PF",
+        "Value": 0.00055,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7tc00762k"
+      }
+    ]
+  }
+}

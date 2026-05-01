@@ -1,0 +1,18 @@
+{
+  "Material": "Mn2PtPd",
+  "DOIs_Researched": [
+    "10.1016/j.ssc.2018.12.013"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "Mn2PtPd",
+        "Property": "Seebeck",
+        "Value": 5.66e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2018.12.013"
+      }
+    ]
+  }
+}

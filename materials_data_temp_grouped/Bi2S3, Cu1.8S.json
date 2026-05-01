@@ -1,0 +1,18 @@
+{
+  "Material": "Bi2S3, Cu1.8S",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2017.08.224"
+  ],
+  "Data_By_Temperature": {
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "Bi2S3-added Cu1.8S",
+        "Property": "PF",
+        "Value": 0.000977,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.08.224"
+      }
+    ]
+  }
+}

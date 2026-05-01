@@ -1,0 +1,26 @@
+{
+  "Material": "La / Nb",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2020.105195"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "La / Nb",
+        "Property": "ThermCond",
+        "Value": 2.5700000000000003,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.105195"
+      },
+      {
+        "Original_Name_In_Paper": "La / Nb",
+        "Property": "ZT",
+        "Value": 0.35000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.105195"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "Material": "Ti9Ni7Sn8",
+  "DOIs_Researched": [
+    "10.1007/s10853-020-04949-0",
+    "10.1007/s40243-020-00172-8"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Ti9Ni7Sn8",
+        "Property": "ThermCond",
+        "Value": 1.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s40243-020-00172-8"
+      },
+      {
+        "Original_Name_In_Paper": "Ti9Ni7Sn8",
+        "Property": "ZT",
+        "Value": 0.32,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ti9Ni7Sn8",
+        "Property": "Seebeck",
+        "Value": -6.12e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s40243-020-00172-8"
+      },
+      {
+        "Original_Name_In_Paper": "Ti9Ni7Sn8 BNC",
+        "Property": "Seebeck",
+        "Value": -5.4399999999999994e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s40243-020-00172-8"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "CaLuMnNbO3",
+  "DOIs_Researched": [
+    "10.1016/j.materresbull.2015.10.016"
+  ],
+  "Data_By_Temperature": {
+    "950.0": [
+      {
+        "Original_Name_In_Paper": "Ca0.98Lu0.2Mn0.98Nb0.02O3",
+        "Property": "PF",
+        "Value": 0.000125,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2015.10.016"
+      }
+    ]
+  }
+}

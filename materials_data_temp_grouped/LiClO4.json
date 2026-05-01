@@ -1,0 +1,38 @@
+{
+  "Material": "LiClO4",
+  "DOIs_Researched": [
+    "10.1007/s11581-008-0309-x",
+    "10.1016/j.electacta.2017.01.019",
+    "10.1016/j.synthmet.2012.03.003"
+  ],
+  "Data_By_Temperature": {
+    "293.0": [
+      {
+        "Original_Name_In_Paper": "Lithium perchlorate ( LiClO4 )",
+        "Property": "Conductivity",
+        "Value": 0.9,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11581-008-0309-x"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "LiClO4",
+        "Property": "Conductivity",
+        "Value": 10000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.synthmet.2012.03.003"
+      },
+      {
+        "Original_Name_In_Paper": "LiClO4",
+        "Property": "Conductivity",
+        "Value": 40.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.electacta.2017.01.019"
+      }
+    ]
+  }
+}

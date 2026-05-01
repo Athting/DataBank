@@ -1,0 +1,26 @@
+{
+  "Material": "Fe / Ni",
+  "DOIs_Researched": [
+    "10.1039/c4cp00383g"
+  ],
+  "Data_By_Temperature": {
+    "748.0": [
+      {
+        "Original_Name_In_Paper": "Fe / Ni",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4cp00383g"
+      },
+      {
+        "Original_Name_In_Paper": "Fe / Ni",
+        "Property": "PF",
+        "Value": 0.0035,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4cp00383g"
+      }
+    ]
+  }
+}

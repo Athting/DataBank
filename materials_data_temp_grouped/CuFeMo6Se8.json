@@ -1,0 +1,36 @@
+{
+  "Material": "CuFeMo6Se8",
+  "DOIs_Researched": [
+    "10.1039/c7tc03977h",
+    "10.1016/S1003-6326(08)60326-X",
+    "10.1016/S0925-8388(01)01791-1"
+  ],
+  "Data_By_Temperature": {
+    "1150.0": [
+      {
+        "Original_Name_In_Paper": "Cu / FeMo6Se8",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7tc03977h"
+      },
+      {
+        "Original_Name_In_Paper": "Cu / FeMo6Se8",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(01)01791-1"
+      },
+      {
+        "Original_Name_In_Paper": "Cu / FeMo6Se8",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S1003-6326(08)60326-X"
+      }
+    ]
+  }
+}

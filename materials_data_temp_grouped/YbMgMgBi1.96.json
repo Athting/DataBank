@@ -1,0 +1,26 @@
+{
+  "Material": "YbMgMgBi1.96",
+  "DOIs_Researched": [
+    "10.1039/c8tc05424j"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Yb0.7Mg0.3Mg2Bi1.96",
+        "Property": "ThermCond",
+        "Value": 0.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8tc05424j"
+      },
+      {
+        "Original_Name_In_Paper": "Yb0.7Mg0.3Mg2Bi1.96",
+        "Property": "ThermCond",
+        "Value": 0.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8tc05424j"
+      }
+    ]
+  }
+}

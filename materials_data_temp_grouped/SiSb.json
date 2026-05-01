@@ -1,0 +1,154 @@
+{
+  "Material": "SiSb",
+  "DOIs_Researched": [
+    "10.1039/d0cp00002g",
+    "10.1016/j.mtener.2019.03.001",
+    "10.1039/c9tc02876e"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "SiSb monolayer",
+        "Property": "ThermCond",
+        "Value": 4.75,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc02876e"
+      },
+      {
+        "Original_Name_In_Paper": "SiSb",
+        "Property": "ThermCond",
+        "Value": 4.75,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc02876e"
+      },
+      {
+        "Original_Name_In_Paper": "SiSb",
+        "Property": "ThermCond",
+        "Value": 4.75,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc02876e"
+      },
+      {
+        "Original_Name_In_Paper": "SiSb monolayer",
+        "Property": "ThermCond",
+        "Value": 4.75,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc02876e"
+      },
+      {
+        "Original_Name_In_Paper": "n-type SiSb",
+        "Property": "ZT",
+        "Value": 1.01,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0cp00002g"
+      },
+      {
+        "Original_Name_In_Paper": "SiSb",
+        "Property": "ZT",
+        "Value": 1.01,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0cp00002g"
+      },
+      {
+        "Original_Name_In_Paper": "SiSb",
+        "Property": "Seebeck",
+        "Value": 0.0027619999999999997,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0cp00002g"
+      }
+    ],
+    "1173.0": [
+      {
+        "Original_Name_In_Paper": "SiSb0.02",
+        "Property": "ThermCond",
+        "Value": 6.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtener.2019.03.001"
+      },
+      {
+        "Original_Name_In_Paper": "bulk SiSb0.02",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtener.2019.03.001"
+      },
+      {
+        "Original_Name_In_Paper": "SiSb0.02",
+        "Property": "ZT",
+        "Value": 0.48,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtener.2019.03.001"
+      },
+      {
+        "Original_Name_In_Paper": "SiSb0.02",
+        "Property": "ZT",
+        "Value": 0.58,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtener.2019.03.001"
+      },
+      {
+        "Original_Name_In_Paper": "SiSb0.02",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtener.2019.03.001"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "SiSb",
+        "Property": "ZT",
+        "Value": 1.01,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0cp00002g"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "n-type SiSb",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc02876e"
+      },
+      {
+        "Original_Name_In_Paper": "SiSb",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc02876e"
+      },
+      {
+        "Original_Name_In_Paper": "n-type SiSb",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc02876e"
+      },
+      {
+        "Original_Name_In_Paper": "n-type SiSb",
+        "Property": "PF",
+        "Value": 0.025,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc02876e"
+      }
+    ]
+  }
+}

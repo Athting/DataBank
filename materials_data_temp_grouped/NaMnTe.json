@@ -1,0 +1,18 @@
+{
+  "Material": "NaMnTe",
+  "DOIs_Researched": [
+    "10.1039/c8tc00904j"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Na0.075Mn0.925Te",
+        "Property": "PF",
+        "Value": 0.0009000000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8tc00904j"
+      }
+    ]
+  }
+}

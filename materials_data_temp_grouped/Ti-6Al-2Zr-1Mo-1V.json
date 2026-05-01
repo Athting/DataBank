@@ -1,0 +1,18 @@
+{
+  "Material": "Ti-6Al-2Zr-1Mo-1V",
+  "DOIs_Researched": [
+    "10.1016/S0925-8388(10)00044-7"
+  ],
+  "Data_By_Temperature": {
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "Ti\u20136Al\u20132Zr\u20131Mo\u20131V",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(10)00044-7"
+      }
+    ]
+  }
+}

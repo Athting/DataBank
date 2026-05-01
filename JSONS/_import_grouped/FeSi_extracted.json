@@ -1,0 +1,112 @@
+{
+  "doi": "10.1016/j.jallcom.2017.06.023",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "iron disilicide bulk",
+        "Fe28.4Si71.6",
+        "Single crystal FeSi",
+        "Iron silicide, FeSi",
+        "FeSi",
+        "Fe0.96Ir0.04Si",
+        "undoped FeSi",
+        "single-crystal FeSi"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "iron disilicide bulk",
+          "value": 0.0000024,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Iron silicide, FeSi",
+          "value": 0.0005,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "50.0 K"
+        },
+        {
+          "material": "FeSi",
+          "value": 0.0009000000000000001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "35.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "single-crystal FeSi",
+          "value": 300000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Fe28.4Si71.6",
+          "value": 23,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1183.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "FeSi",
+          "value": 0.013600000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "56.0 K"
+        },
+        {
+          "material": "FeSi",
+          "value": 0.013600000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "56.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Single crystal FeSi",
+          "zt_value": 0.01,
+          "temperature": "50.0 K"
+        },
+        {
+          "material": "FeSi",
+          "zt_value": 0.01,
+          "temperature": "56.0 K"
+        },
+        {
+          "material": "Fe0.96Ir0.04Si",
+          "zt_value": 0.1,
+          "temperature": "100.0 K"
+        },
+        {
+          "material": "undoped FeSi",
+          "zt_value": 0.007,
+          "temperature": "60.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

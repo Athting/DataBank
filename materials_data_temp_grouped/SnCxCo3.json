@@ -1,0 +1,18 @@
+{
+  "Material": "SnCxCo3",
+  "DOIs_Researched": [
+    "10.1016/j.ssc.2016.05.012"
+  ],
+  "Data_By_Temperature": {
+    "250.0": [
+      {
+        "Original_Name_In_Paper": "SnCxCo3",
+        "Property": "ZT",
+        "Value": 0.035,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2016.05.012"
+      }
+    ]
+  }
+}

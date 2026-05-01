@@ -1,0 +1,153 @@
+{
+  "Material": "CdO",
+  "DOIs_Researched": [
+    "10.1016/j.matchemphys.2016.02.069",
+    "10.1016/j.scriptamat.2013.06.018",
+    "10.1016/j.apenergy.2014.12.075",
+    "10.1016/j.jeurceramsoc.2013.02.025",
+    "10.1016/j.materresbull.2015.03.070",
+    "10.1039/c6ra04175b",
+    "10.1016/j.apsusc.2007.11.013",
+    "10.1039/c6dt02348g",
+    "10.1007/s40145-015-0153-1",
+    "10.1007/s11433-014-5405-5"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "CdO",
+        "Property": "ThermCond",
+        "Value": 3.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6dt02348g"
+      },
+      {
+        "Original_Name_In_Paper": "doped CdO",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apenergy.2014.12.075"
+      },
+      {
+        "Original_Name_In_Paper": "doped CdO",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2013.06.018"
+      },
+      {
+        "Original_Name_In_Paper": "doped CdO",
+        "Property": "ZT",
+        "Value": 0.38,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2013.06.018"
+      },
+      {
+        "Original_Name_In_Paper": "CdO",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": "Pr doping",
+        "Source_DOI": "10.1016/j.scriptamat.2013.06.018"
+      },
+      {
+        "Original_Name_In_Paper": "Pure CdO",
+        "Property": "ZT",
+        "Value": 0.32,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2016.02.069"
+      },
+      {
+        "Original_Name_In_Paper": "CdO",
+        "Property": "Conductivity",
+        "Value": 53475.935828877,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6dt02348g"
+      },
+      {
+        "Original_Name_In_Paper": "Cd0.99Mg0.01O alloy",
+        "Property": "PF",
+        "Value": 0.0013000000000000002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2016.02.069"
+      },
+      {
+        "Original_Name_In_Paper": "pure CdO",
+        "Property": "PF",
+        "Value": 0.0011,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2016.02.069"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "CdO",
+        "Property": "ThermCond",
+        "Value": 8.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra04175b"
+      },
+      {
+        "Original_Name_In_Paper": "CdO film",
+        "Property": "Conductivity",
+        "Value": 0.9345794393,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2007.11.013"
+      },
+      {
+        "Original_Name_In_Paper": "CdO",
+        "Property": "Conductivity",
+        "Value": 100000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2007.11.013"
+      },
+      {
+        "Original_Name_In_Paper": "CdO",
+        "Property": "Conductivity",
+        "Value": 10200.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2015.03.070"
+      }
+    ],
+    "1023.0": [
+      {
+        "Original_Name_In_Paper": "CdO",
+        "Property": "ZT",
+        "Value": 0.34,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11433-014-5405-5"
+      },
+      {
+        "Original_Name_In_Paper": "CdO",
+        "Property": "ZT",
+        "Value": 0.34,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s40145-015-0153-1"
+      }
+    ],
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "pure CdO",
+        "Property": "Conductivity",
+        "Value": 20449.8977505112,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2013.02.025"
+      }
+    ]
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "Material": "CaCoO_3",
+  "DOIs_Researched": [
+    "10.1016/j.jeurceramsoc.2015.10.042",
+    "10.1016/j.jallcom.2009.04.144",
+    "10.1016/j.mseb.2020.114679",
+    "10.1016/j.jcrysgro.2009.06.044",
+    "10.1016/j.matlet.2014.01.074",
+    "10.1007/s10854-020-03095-2",
+    "10.1016/j.jssc.2019.06.042",
+    "10.1016/j.jallcom.2008.10.162",
+    "10.1016/j.ceramint.2018.05.132",
+    "10.1016/j.actamat.2013.10.011",
+    "10.1016/j.vacuum.2017.04.015",
+    "10.1016/j.jallcom.2011.09.008",
+    "10.1007/s10832-018-0109-2",
+    "10.1039/c4ra16187d",
+    "10.1016/j.measurement.2016.05.104"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "Ca3Co4O9 based TE oxide material",
+        "Property": "ThermCond",
+        "Value": 1.4100000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.04.144"
+      },
+      {
+        "Original_Name_In_Paper": "Ca3Co4O9 single crystal",
+        "Property": "ZT",
+        "Value": 0.87,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2019.06.042"
+      },
+      {
+        "Original_Name_In_Paper": "Ca3Co4O9 single crystal",
+        "Property": "ZT",
+        "Value": 0.87,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-020-03095-2"
+      },
+      {
+        "Original_Name_In_Paper": "Ca3Co4O9 thin film",
+        "Property": "Seebeck",
+        "Value": 0.00024000000000000003,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jcrysgro.2009.06.044"
+      },
+      {
+        "Original_Name_In_Paper": "Ca3Co4O9 based TE oxide material",
+        "Property": "Seebeck",
+        "Value": 0.00017199999999999998,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.04.144"
+      },
+      {
+        "Original_Name_In_Paper": "Ca3Co4O9 thin films",
+        "Property": "PF",
+        "Value": 0.000514,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.vacuum.2017.04.015"
+      }
+    ],
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "Ca3Co4O9 single crystals",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10832-018-0109-2"
+      },
+      {
+        "Original_Name_In_Paper": "Ca3Co4O9 single crystal",
+        "Property": "ZT",
+        "Value": 0.8300000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2011.09.008"
+      },
+      {
+        "Original_Name_In_Paper": "Ca3Co4O9 single crystal",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2008.10.162"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Ca3Co4O9 nanocomposites",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mseb.2020.114679"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Ca3Co4O9 single crystals",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2013.10.011"
+      }
+    ],
+    "318.0": [
+      {
+        "Original_Name_In_Paper": "Ca3Co4O9 single crystal",
+        "Property": "Conductivity",
+        "Value": 62500.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2015.10.042"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ca3Co4O9 thin film",
+        "Property": "Conductivity",
+        "Value": 100000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.measurement.2016.05.104"
+      },
+      {
+        "Original_Name_In_Paper": "Ca3Co4O9 thin films",
+        "Property": "Seebeck",
+        "Value": 0.00011,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jcrysgro.2009.06.044"
+      },
+      {
+        "Original_Name_In_Paper": "Ca3Co4O9 film",
+        "Property": "Seebeck",
+        "Value": 0.00012000000000000002,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra16187d"
+      }
+    ],
+    "120.0": [
+      {
+        "Original_Name_In_Paper": "Ca3Co4O9 film",
+        "Property": "Seebeck",
+        "Value": 0.0001193,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2014.01.074"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ca3Co4O9 film",
+        "Property": "Seebeck",
+        "Value": 0.0001193,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2014.01.074"
+      }
+    ],
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "Ca3Co4O9 thin films",
+        "Property": "PF",
+        "Value": 0.000118,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.05.132"
+      }
+    ]
+  }
+}

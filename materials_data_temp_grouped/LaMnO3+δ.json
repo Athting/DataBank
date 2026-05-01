@@ -1,0 +1,34 @@
+{
+  "Material": "LaMnO3+\u03b4",
+  "DOIs_Researched": [
+    "10.1016/j.jpcs.2016.01.005"
+  ],
+  "Data_By_Temperature": {
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "La0.7Sr0.3MnO3+\u03b4",
+        "Property": "Conductivity",
+        "Value": 0.053,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2016.01.005"
+      },
+      {
+        "Original_Name_In_Paper": "La0.9Sr0.1MnO3+\u03b4",
+        "Property": "Conductivity",
+        "Value": 5.899999999999999e-06,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2016.01.005"
+      },
+      {
+        "Original_Name_In_Paper": "La0.7Sr0.3MnO3+\u03b4",
+        "Property": "Conductivity",
+        "Value": 0.053,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2016.01.005"
+      }
+    ]
+  }
+}

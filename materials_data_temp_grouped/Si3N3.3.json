@@ -1,0 +1,18 @@
+{
+  "Material": "Si3N3.3",
+  "DOIs_Researched": [
+    "10.1038/s41699-019-0092-8"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Si3N3.3 films",
+        "Property": "ThermCond",
+        "Value": 1.3,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41699-019-0092-8"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "LaCo0.85Cu0.15O3\u2212\u03b4",
+  "DOIs_Researched": [
+    "10.1039/c2cp41743j"
+  ],
+  "Data_By_Temperature": {
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "LaCo0.85Cu0.15O3\u2212\u03b4",
+        "Property": "ZT",
+        "Value": 0.043000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2cp41743j"
+      }
+    ]
+  }
+}

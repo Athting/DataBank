@@ -1,0 +1,47 @@
+{
+  "Material": "GeSeAgSbTe",
+  "DOIs_Researched": [
+    "10.1039/d0ta00240b",
+    "10.1039/c8ta01393d"
+  ],
+  "Data_By_Temperature": {
+    "754.0": [
+      {
+        "Original_Name_In_Paper": "GeSeAg0.2Sb0.2Te0.4",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta01393d"
+      },
+      {
+        "Original_Name_In_Paper": "GeSeAg0.2Sb0.2Te0.4",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta00240b"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "GeSeAg0.1Sb0.1Te0.2",
+        "Property": "PF",
+        "Value": 0.0006839999999999999,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta01393d"
+      }
+    ],
+    "301.0": [
+      {
+        "Original_Name_In_Paper": "GeSeAg0.2Sb0.2Te0.4",
+        "Property": "Conductivity",
+        "Value": 16702.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta01393d"
+      }
+    ]
+  }
+}

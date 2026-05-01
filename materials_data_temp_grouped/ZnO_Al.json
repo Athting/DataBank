@@ -1,0 +1,40 @@
+{
+  "Material": "ZnO:Al",
+  "DOIs_Researched": [
+    "10.1016/j.mssp.2010.03.003",
+    "10.1016/j.vacuum.2014.04.022",
+    "10.1016/j.mssp.2016.01.013"
+  ],
+  "Data_By_Temperature": {
+    "748.0": [
+      {
+        "Original_Name_In_Paper": "ZnO : Al",
+        "Property": "Conductivity",
+        "Value": 3333.3333333333,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2010.03.003"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "ZnO : Al",
+        "Property": "Seebeck",
+        "Value": 0.000448,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2016.01.013"
+      }
+    ],
+    "473.0": [
+      {
+        "Original_Name_In_Paper": "ZnO : Al",
+        "Property": "Seebeck",
+        "Value": 3.7999999999999995e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.vacuum.2014.04.022"
+      }
+    ]
+  }
+}

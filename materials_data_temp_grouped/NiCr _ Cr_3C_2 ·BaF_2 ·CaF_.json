@@ -1,0 +1,18 @@
+{
+  "Material": "NiCr / Cr_3C_2 \u00b7BaF_2 \u00b7CaF_",
+  "DOIs_Researched": [
+    "10.1016/S0925-8388(09)00895-0"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "NiCr / Cr 3 C 2\u2013BaF 2 \u00b7CaF 2 composite coatings",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(09)00895-0"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Material": "NiSe2.01",
+  "DOIs_Researched": [
+    "10.1007/s10854-016-4847-0"
+  ],
+  "Data_By_Temperature": {
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "NiSe2.01",
+        "Property": "ThermCond",
+        "Value": 3.43,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-016-4847-0"
+      },
+      {
+        "Original_Name_In_Paper": "NiSe2.01",
+        "Property": "ThermCond",
+        "Value": 3.43,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-016-4847-0"
+      }
+    ]
+  }
+}

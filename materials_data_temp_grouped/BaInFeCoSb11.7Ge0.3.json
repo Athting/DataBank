@@ -1,0 +1,18 @@
+{
+  "Material": "BaInFeCoSb11.7Ge0.3",
+  "DOIs_Researched": [
+    "10.1007/s11664-012-2265-5"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Ba0.3In0.2FeCo3Sb11.7Ge0.3",
+        "Property": "ZT",
+        "Value": 0.54,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-012-2265-5"
+      }
+    ]
+  }
+}

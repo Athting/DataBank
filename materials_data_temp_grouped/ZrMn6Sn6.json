@@ -1,0 +1,18 @@
+{
+  "Material": "ZrMn6Sn6",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2014.05.078"
+  ],
+  "Data_By_Temperature": {
+    "80.0": [
+      {
+        "Original_Name_In_Paper": "ZrMn6Sn6",
+        "Property": "Conductivity",
+        "Value": 1000000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.05.078"
+      }
+    ]
+  }
+}

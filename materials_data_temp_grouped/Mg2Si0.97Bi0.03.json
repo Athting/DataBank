@@ -1,0 +1,34 @@
+{
+  "Material": "Mg2Si0.97Bi0.03",
+  "DOIs_Researched": [
+    "10.1016/j.jpcs.2014.04.008"
+  ],
+  "Data_By_Temperature": {
+    "810.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Si0.97Bi0.03",
+        "Property": "ZT",
+        "Value": 0.68,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2014.04.008"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si0.97Bi0.03",
+        "Property": "ZT",
+        "Value": 0.68,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2014.04.008"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si0.97Bi0.03",
+        "Property": "ZT",
+        "Value": 0.68,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2014.04.008"
+      }
+    ]
+  }
+}

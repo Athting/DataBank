@@ -1,0 +1,18 @@
+{
+  "Material": "Ba7.84Eu0.16Ga14.05Ag0.",
+  "DOIs_Researched": [
+    "10.1016/j.rinp.2018.10.017"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ba7.84Eu0.16Ga14.05Ag0.29Ge29.97",
+        "Property": "Seebeck",
+        "Value": -8e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rinp.2018.10.017"
+      }
+    ]
+  }
+}

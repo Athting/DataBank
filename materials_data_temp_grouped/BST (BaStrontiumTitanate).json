@@ -1,0 +1,18 @@
+{
+  "Material": "BST (BaStrontiumTitanate)",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2018.09.099"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ag-doped BST",
+        "Property": "Conductivity",
+        "Value": 330000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.09.099"
+      }
+    ]
+  }
+}

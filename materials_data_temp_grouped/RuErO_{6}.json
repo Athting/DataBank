@@ -1,0 +1,18 @@
+{
+  "Material": "RuErO_{6}",
+  "DOIs_Researched": [
+    "10.1016/S1005-0302(12)60013-9"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "7 vol. % Sr 2 RuErO 6 sample",
+        "Property": "ZT",
+        "Value": 2.15,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S1005-0302(12)60013-9"
+      }
+    ]
+  }
+}

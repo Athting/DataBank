@@ -1,0 +1,18 @@
+{
+  "Material": "AuTe2",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2010.02.030"
+  ],
+  "Data_By_Temperature": {
+    "320.0": [
+      {
+        "Original_Name_In_Paper": "AuTe2",
+        "Property": "PF",
+        "Value": 0.0007,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.02.030"
+      }
+    ]
+  }
+}

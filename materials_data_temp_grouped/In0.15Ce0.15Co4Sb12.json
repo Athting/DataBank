@@ -1,0 +1,18 @@
+{
+  "Material": "In0.15Ce0.15Co4Sb12",
+  "DOIs_Researched": [
+    "10.1016/j.jmat.2017.07.003"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "In0.15Ce0.15Co4Sb12",
+        "Property": "ThermCond",
+        "Value": 2.2800000000000002,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2017.07.003"
+      }
+    ]
+  }
+}

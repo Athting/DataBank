@@ -1,0 +1,57 @@
+{
+  "Material": "Ge0.87Pb0.13Te",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2016.04.306",
+    "10.1039/c6tc02501c",
+    "10.1039/c9tc03410b",
+    "10.1016/j.intermet.2014.09.004"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ge0.87Pb0.13Te",
+        "Property": "ThermCond",
+        "Value": 1.15,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6tc02501c"
+      }
+    ],
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "Ge0.87Pb0.13Te",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6tc02501c"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Ge0.87Pb0.13Te compound",
+        "Property": "ZT",
+        "Value": 1.9,
+        "Units": null,
+        "Editing": "doping of 3 mol % Bi2Te3",
+        "Source_DOI": "10.1016/j.jallcom.2016.04.306"
+      },
+      {
+        "Original_Name_In_Paper": "Ge0.87Pb0.13Te",
+        "Property": "ZT",
+        "Value": 1.9,
+        "Units": null,
+        "Editing": "introduction of 3 mol % Bi2Te3",
+        "Source_DOI": "10.1016/j.intermet.2014.09.004"
+      },
+      {
+        "Original_Name_In_Paper": "Ge0.87Pb0.13Te",
+        "Property": "ZT",
+        "Value": 1.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc03410b"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "SnSeS",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2020.105186"
+  ],
+  "Data_By_Temperature": {
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "PANI-SnSeS nanosheet",
+        "Property": "PF",
+        "Value": 0.000134,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.105186"
+      }
+    ]
+  }
+}

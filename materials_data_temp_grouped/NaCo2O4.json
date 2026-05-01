@@ -1,0 +1,741 @@
+{
+  "Material": "NaCo2O4",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2005.06.020",
+    "10.1016/j.solidstatesciences.2003.12.004",
+    "10.1533/9781845690915.3.339",
+    "10.1016/j.materresbull.2012.05.061",
+    "10.1016/S0925-8388(00)01277-9",
+    "10.1016/j.ceramint.2014.04.123",
+    "10.1016/j.ssc.2008.03.012",
+    "10.1016/j.matlet.2007.11.090",
+    "10.1016/j.jallcom.2019.02.199",
+    "10.1016/j.cap.2010.12.019",
+    "10.1039/c6ta02755e",
+    "10.1016/j.jallcom.2005.12.127",
+    "10.1007/s10853-008-2990-6",
+    "10.1016/j.jssc.2006.08.022",
+    "10.1016/j.cap.2014.12.030",
+    "10.1016/j.ssc.2016.01.003",
+    "10.1016/S0955-2219(02)00202-9",
+    "10.1016/S0272-8842(00)00083-3",
+    "10.1007/s12034-017-1498-6",
+    "10.1016/j.ceramint.2013.03.095",
+    "10.1016/j.jeurceramsoc.2017.03.019",
+    "10.1016/j.jallcom.2005.07.067",
+    "10.1016/j.physb.2007.10.010",
+    "10.1016/j.jeurceramsoc.2005.03.034",
+    "10.1016/j.jpcs.2009.01.003",
+    "10.1016/j.materresbull.2010.05.006",
+    "10.1016/j.jallcom.2004.06.089",
+    "10.1016/j.physb.2016.04.019",
+    "10.1016/j.jallcom.2014.06.190",
+    "10.1016/j.commatsci.2013.09.049",
+    "10.1016/S0167-2738(03)00108-5",
+    "10.1007/s40243-019-0163-y",
+    "10.1016/j.jssc.2004.11.021",
+    "10.1007/s10853-011-5466-z",
+    "10.1007/s10832-007-9297-x",
+    "10.1007/s10853-010-5039-6",
+    "10.1016/j.nanoen.2012.10.005",
+    "10.1039/c7ra05193j",
+    "10.1038/s41598-020-66667-6",
+    "10.1016/j.jcrysgro.2007.11.013",
+    "10.1016/j.cap.2009.10.009",
+    "10.1016/j.cap.2008.03.010",
+    "10.1016/j.mseb.2005.10.035",
+    "10.1016/j.pmatsci.2016.07.002",
+    "10.1016/j.jeurceramsoc.2007.02.030",
+    "10.1016/j.ssc.2009.06.012",
+    "10.1039/b108377p",
+    "10.1016/S0025-5408(00)00441-4",
+    "10.1016/j.mseb.2006.01.018",
+    "10.1016/j.ceramint.2004.03.045",
+    "10.1140/epjb-e2020-100614-2",
+    "10.1016/j.ceramint.2019.05.341",
+    "10.1016/j.jallcom.2009.07.041",
+    "10.1007/s00339-020-03580-9",
+    "10.1016/S0025-5408(02)00730-4",
+    "10.1016/j.jallcom.2007.01.080",
+    "10.1039/d0tc00818d",
+    "10.1016/B0-12-369401-9-00507-6",
+    "10.1016/S0038-1098(02)00555-0",
+    "10.1016/j.jcrysgro.2005.09.021"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "NaCo2O4",
+        "Property": "ThermCond",
+        "Value": 1.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2005.07.067"
+      },
+      {
+        "Original_Name_In_Paper": "NaCo2O4",
+        "Property": "ThermCond",
+        "Value": 3.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.02.199"
+      },
+      {
+        "Original_Name_In_Paper": "NaCo2O4",
+        "Property": "ThermCond",
+        "Value": 2.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ra05193j"
+      },
+      {
+        "Original_Name_In_Paper": "single crystalline NaCo2O4",
+        "Property": "ZT",
+        "Value": 0.03,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2006.08.022"
+      },
+      {
+        "Original_Name_In_Paper": "NaCo2O4",
+        "Property": "ZT",
+        "Value": 0.03,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jcrysgro.2005.09.021"
+      },
+      {
+        "Original_Name_In_Paper": "single crystal NaCo2O4",
+        "Property": "ZT",
+        "Value": 0.03,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2005.12.127"
+      },
+      {
+        "Original_Name_In_Paper": "NaCo2O4 materials",
+        "Property": "ZT",
+        "Value": 0.005,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.02.199"
+      },
+      {
+        "Original_Name_In_Paper": "NaCo2O4",
+        "Property": "Conductivity",
+        "Value": 500000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0167-2738(03)00108-5"
+      },
+      {
+        "Original_Name_In_Paper": "NaCo2O4",
+        "Property": "Seebeck",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/b108377p"
+      },
+      {
+        "Original_Name_In_Paper": "NaCo2O4",
+        "Property": "Seebeck",
+        "Value": 8.2e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2005.07.067"
+      },
+      {
+        "Original_Name_In_Paper": "p-type NaCo2O4",
+        "Property": "Seebeck",
+        "Value": 0.00011,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta02755e"
+      },
+      {
+        "Original_Name_In_Paper": "NaCo2O4",
+        "Property": "Seebeck",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0167-2738(03)00108-5"
+      },
+      {
+        "Original_Name_In_Paper": "NaCo2O4",
+        "Property": "Seebeck",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-011-5466-z"
+      },
+      {
+        "Original_Name_In_Paper": "NaCo2O4 nanofibers",
+        "Property": "Seebeck",
+        "Value": 0.00021799999999999999,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s00339-020-03580-9"
+      },
+      {
+        "Original_Name_In_Paper": "NaCo2O4",
+        "Property": "Seebeck",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jcrysgro.2007.11.013"
+      },
+      {
+        "Original_Name_In_Paper": "NaCo2O4",
+        "Property": "Seebeck",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2009.10.009"
+      },
+      {
+        "Original_Name_In_Paper": "NaCo2O4",
+        "Property": "Seebeck",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1533/9781845690915.3.339"
+      },
+      {
+        "Original_Name_In_Paper": "NaCo2O4",
+        "Property": "Seebeck",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2016.01.003"
+      },
+      {
+        "Original_Name_In_Paper": "NaCo2O4",
+        "Property": "PF",
+        "Value": 0.005,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.07.041"
+      },
+      {
+        "Original_Name_In_Paper": "NaCo2O4",
+        "Property": "PF",
+        "Value": 0.0005,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2004.03.045"
+      },
+      {
+        "Original_Name_In_Paper": "NaCo2O4",
+        "Property": "Conductivity",
+        "Value": 2000000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2009.10.009"
+      },
+      {
+        "Original_Name_In_Paper": "NaCo2O4",
+        "Property": "Conductivity",
+        "Value": 0.02,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-011-5466-z"
+      }
+    ],
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "polycrystalline NaCo2O4",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2012.10.005"
+      },
+      {
+        "Original_Name_In_Paper": "polycrystalline NaCo2O4",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2016.07.002"
+      },
+      {
+        "Original_Name_In_Paper": "polycrystalline NaCo2O4",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2005.07.067"
+      },
+      {
+        "Original_Name_In_Paper": "NaCo2O4",
+        "Property": "Seebeck",
+        "Value": 0.00011499999999999999,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2019.05.341"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "NaCo2O4 single crystal",
+        "Property": "ZT",
+        "Value": 0.75,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-010-5039-6"
+      },
+      {
+        "Original_Name_In_Paper": "NaCo2O4",
+        "Property": "ZT",
+        "Value": 0.00088,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2005.03.034"
+      },
+      {
+        "Original_Name_In_Paper": "single crystal NaCo2O4",
+        "Property": "Conductivity",
+        "Value": 500000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2013.03.095"
+      },
+      {
+        "Original_Name_In_Paper": "oxide NaCo2O4",
+        "Property": "Conductivity",
+        "Value": 500000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2007.10.010"
+      },
+      {
+        "Original_Name_In_Paper": "NaCo2O4",
+        "Property": "Conductivity",
+        "Value": 500000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10832-007-9297-x"
+      },
+      {
+        "Original_Name_In_Paper": "layered cobalt oxide NaCo2O4",
+        "Property": "Conductivity",
+        "Value": 500000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.06.190"
+      },
+      {
+        "Original_Name_In_Paper": "NaCo2O4 single crystals",
+        "Property": "Conductivity",
+        "Value": 500000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2012.05.061"
+      },
+      {
+        "Original_Name_In_Paper": "NaCo2O4 single crystal",
+        "Property": "Conductivity",
+        "Value": 500000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2005.06.020"
+      },
+      {
+        "Original_Name_In_Paper": "NaCo2O4",
+        "Property": "Conductivity",
+        "Value": 500000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2004.11.021"
+      },
+      {
+        "Original_Name_In_Paper": "NaCo2O4 single crystal",
+        "Property": "Conductivity",
+        "Value": 500000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0038-1098(02)00555-0"
+      },
+      {
+        "Original_Name_In_Paper": "NaCo2O4 single crystals",
+        "Property": "Conductivity",
+        "Value": 500000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2010.05.006"
+      },
+      {
+        "Original_Name_In_Paper": "polycrystalline NaCo2O4",
+        "Property": "Conductivity",
+        "Value": 3333.3333333333,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0tc00818d"
+      },
+      {
+        "Original_Name_In_Paper": "NaCo2O4",
+        "Property": "Conductivity",
+        "Value": 500000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2010.12.019"
+      },
+      {
+        "Original_Name_In_Paper": "single crystal NaCo2O4",
+        "Property": "Seebeck",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2013.09.049"
+      },
+      {
+        "Original_Name_In_Paper": "transition-metal oxide NaCo2O4",
+        "Property": "Seebeck",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2012.10.005"
+      },
+      {
+        "Original_Name_In_Paper": "NaCo2O4",
+        "Property": "Seebeck",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2007.01.080"
+      },
+      {
+        "Original_Name_In_Paper": "NaCo2O4",
+        "Property": "Seebeck",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2009.06.012"
+      },
+      {
+        "Original_Name_In_Paper": "NaCo2O4 single crystal",
+        "Property": "Seebeck",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2008.03.010"
+      },
+      {
+        "Original_Name_In_Paper": "NaCo2O4",
+        "Property": "Seebeck",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0025-5408(02)00730-4"
+      },
+      {
+        "Original_Name_In_Paper": "NaCo2O4",
+        "Property": "Seebeck",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mseb.2005.10.035"
+      },
+      {
+        "Original_Name_In_Paper": "NaCo2O4 single crystal",
+        "Property": "Seebeck",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2009.01.003"
+      },
+      {
+        "Original_Name_In_Paper": "NaCo2O4",
+        "Property": "Seebeck",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2003.12.004"
+      },
+      {
+        "Original_Name_In_Paper": "oxide NaCo2O4",
+        "Property": "Seebeck",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2007.10.010"
+      },
+      {
+        "Original_Name_In_Paper": "NaCo2O4",
+        "Property": "Seebeck",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2014.04.123"
+      },
+      {
+        "Original_Name_In_Paper": "NaCo2O4 nanostructured materials",
+        "Property": "Seebeck",
+        "Value": 8e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s00339-020-03580-9"
+      },
+      {
+        "Original_Name_In_Paper": "single crystal NaCo2O4",
+        "Property": "Seebeck",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2013.03.095"
+      },
+      {
+        "Original_Name_In_Paper": "NaCo2O4",
+        "Property": "Seebeck",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2016.04.019"
+      },
+      {
+        "Original_Name_In_Paper": "NaCo2O4 single crystal",
+        "Property": "Seebeck",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2005.06.020"
+      },
+      {
+        "Original_Name_In_Paper": "NaCo2O4",
+        "Property": "Seebeck",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1140/epjb-e2020-100614-2"
+      },
+      {
+        "Original_Name_In_Paper": "NaCo2O4",
+        "Property": "Seebeck",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2007.02.030"
+      },
+      {
+        "Original_Name_In_Paper": "NaCo2O4",
+        "Property": "Seebeck",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10832-007-9297-x"
+      },
+      {
+        "Original_Name_In_Paper": "layered cobalt oxide NaCo2O4",
+        "Property": "Seebeck",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.06.190"
+      },
+      {
+        "Original_Name_In_Paper": "NaCo2O4 single crystals",
+        "Property": "Seebeck",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2012.05.061"
+      },
+      {
+        "Original_Name_In_Paper": "NaCo2O4 single crystal",
+        "Property": "Seebeck",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-008-2990-6"
+      },
+      {
+        "Original_Name_In_Paper": "NaCo2O4",
+        "Property": "Seebeck",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1533/9781845690915.3.339"
+      },
+      {
+        "Original_Name_In_Paper": "NaCo2O4",
+        "Property": "Seebeck",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2005.03.034"
+      },
+      {
+        "Original_Name_In_Paper": "NaCo2O4 single crystals",
+        "Property": "Seebeck",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2017.03.019"
+      },
+      {
+        "Original_Name_In_Paper": "NaCo2O4",
+        "Property": "Seebeck",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2004.11.021"
+      },
+      {
+        "Original_Name_In_Paper": "NaCo2O4 single crystal",
+        "Property": "Seebeck",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0955-2219(02)00202-9"
+      },
+      {
+        "Original_Name_In_Paper": "NaCo2O4",
+        "Property": "Seebeck",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s12034-017-1498-6"
+      },
+      {
+        "Original_Name_In_Paper": "NaCo2O4",
+        "Property": "Seebeck",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2008.03.012"
+      },
+      {
+        "Original_Name_In_Paper": "NaCo2O4 single crystal",
+        "Property": "Seebeck",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0038-1098(02)00555-0"
+      },
+      {
+        "Original_Name_In_Paper": "NaCo2O4 single crystals",
+        "Property": "Seebeck",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2010.05.006"
+      },
+      {
+        "Original_Name_In_Paper": "NaCo2O4",
+        "Property": "PF",
+        "Value": 0.0013000000000000002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2004.06.089"
+      },
+      {
+        "Original_Name_In_Paper": "NaCo2O4",
+        "Property": "Conductivity",
+        "Value": 20000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2008.03.012"
+      }
+    ],
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "NaCo2O4",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B0-12-369401-9-00507-6"
+      }
+    ],
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "NaCo2O4",
+        "Property": "ZT",
+        "Value": 0.00088,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0272-8842(00)00083-3"
+      },
+      {
+        "Original_Name_In_Paper": "NaCo2O4 nanofibers",
+        "Property": "Seebeck",
+        "Value": 4.056e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-020-66667-6"
+      },
+      {
+        "Original_Name_In_Paper": "NaCo2O4",
+        "Property": "Seebeck",
+        "Value": 0.0002138,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mseb.2006.01.018"
+      },
+      {
+        "Original_Name_In_Paper": "ZnO-free NaCo2O4",
+        "Property": "PF",
+        "Value": 0.0004,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2007.11.090"
+      }
+    ],
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "polycrystalline NaCo2O4 with Cu",
+        "Property": "ZT",
+        "Value": 0.88,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s40243-019-0163-y"
+      },
+      {
+        "Original_Name_In_Paper": "NaCo2O4",
+        "Property": "Seebeck",
+        "Value": 7.000000000000001e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0025-5408(00)00441-4"
+      }
+    ],
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "NaCo2O4-based",
+        "Property": "ZT",
+        "Value": 0.01,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-020-66667-6"
+      },
+      {
+        "Original_Name_In_Paper": "NaCo2O4",
+        "Property": "ZT",
+        "Value": 0.01,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-020-66667-6"
+      }
+    ],
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "NaCo2O4",
+        "Property": "ZT",
+        "Value": 0.045,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(00)01277-9"
+      }
+    ],
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "single crystal NaCo2O4",
+        "Property": "Seebeck",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2014.12.030"
+      }
+    ]
+  }
+}

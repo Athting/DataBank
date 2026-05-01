@@ -1,0 +1,46 @@
+{
+  "Material": "CeCoSb3",
+  "DOIs_Researched": [
+    "10.1039/c8tc06461j",
+    "10.1016/j.jallcom.2004.08.105",
+    "10.1038/ncomms8584"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ce0.08CoSb3 compounds",
+        "Property": "ThermCond",
+        "Value": 4.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2004.08.105"
+      },
+      {
+        "Original_Name_In_Paper": "Ce-filled CoSb3",
+        "Property": "ThermCond",
+        "Value": 2.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8tc06461j"
+      }
+    ],
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "Ce-CoSb3",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/ncomms8584"
+      },
+      {
+        "Original_Name_In_Paper": "Ce-CoSb3",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/ncomms8584"
+      }
+    ]
+  }
+}

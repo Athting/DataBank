@@ -1,0 +1,60 @@
+{
+  "doi": "10.1039/c2jm16369a",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "In4Se2.32I0.03",
+        "iodine-substituted In4Se2.32I0.03 crystal"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "In4Se2.32I0.03",
+          "zt_value": 0.01,
+          "temperature": "295 K"
+        },
+        {
+          "material": "iodine-substituted In4Se2.32I0.03 crystal",
+          "zt_value": 0.33,
+          "temperature": "295 K"
+        },
+        {
+          "material": "In4Se2.32I0.03",
+          "zt_value": 1,
+          "temperature": "660.0 K"
+        },
+        {
+          "material": "In4Se2.32I0.03",
+          "zt_value": 1.2,
+          "temperature": "660.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

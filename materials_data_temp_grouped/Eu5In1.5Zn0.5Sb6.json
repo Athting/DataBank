@@ -1,0 +1,26 @@
+{
+  "Material": "Eu5In1.5Zn0.5Sb6",
+  "DOIs_Researched": [
+    "10.1039/b106812a"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Eu5In1.5Zn0.5Sb6",
+        "Property": "Seebeck",
+        "Value": 5.1e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/b106812a"
+      },
+      {
+        "Original_Name_In_Paper": "Eu5In1.5Zn0.5Sb6",
+        "Property": "Conductivity",
+        "Value": 14600.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/b106812a"
+      }
+    ]
+  }
+}

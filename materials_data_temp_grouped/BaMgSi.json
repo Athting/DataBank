@@ -1,0 +1,78 @@
+{
+  "Material": "BaMgSi",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2020.154342"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "BaMgSi",
+        "Property": "ThermCond",
+        "Value": 1.27,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154342"
+      }
+    ],
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "BaMgSi",
+        "Property": "ThermCond",
+        "Value": 0.37,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154342"
+      },
+      {
+        "Original_Name_In_Paper": "n-type BaMgSi",
+        "Property": "ZT",
+        "Value": 1.6800000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154342"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "p-type BaMgSi",
+        "Property": "ZT",
+        "Value": 2.96,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154342"
+      },
+      {
+        "Original_Name_In_Paper": "p-type BaMgSi",
+        "Property": "ZT",
+        "Value": 2.96,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154342"
+      },
+      {
+        "Original_Name_In_Paper": "p-type BaMgSi",
+        "Property": "ZT",
+        "Value": 2.96,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154342"
+      },
+      {
+        "Original_Name_In_Paper": "p-type BaMgSi",
+        "Property": "ZT",
+        "Value": 2.96,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154342"
+      },
+      {
+        "Original_Name_In_Paper": "p-type BaMgSi",
+        "Property": "ZT",
+        "Value": 2.96,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154342"
+      }
+    ]
+  }
+}

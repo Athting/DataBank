@@ -1,0 +1,18 @@
+{
+  "Material": "C4N3H",
+  "DOIs_Researched": [
+    "10.1016/j.physe.2020.114241"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "monolayer C4N3H",
+        "Property": "ThermCond",
+        "Value": 157.9,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physe.2020.114241"
+      }
+    ]
+  }
+}

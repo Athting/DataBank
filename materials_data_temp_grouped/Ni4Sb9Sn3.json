@@ -1,0 +1,18 @@
+{
+  "Material": "Ni4Sb9Sn3",
+  "DOIs_Researched": [
+    "10.1016/S0921-4526(02)01812-4"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ni4Sb9Sn3",
+        "Property": "ZT",
+        "Value": 0.014,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0921-4526(02)01812-4"
+      }
+    ]
+  }
+}

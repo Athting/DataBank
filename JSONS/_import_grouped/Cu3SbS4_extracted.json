@@ -1,0 +1,89 @@
+{
+  "doi": "10.1016/j.jallcom.2017.08.227",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Cu3SbS4",
+        "pure Cu3SbS4"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "Cu3SbS4",
+          "value": 0.00017109999999999998,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "523.0 K"
+        },
+        {
+          "material": "Cu3SbS4",
+          "value": 0.00002,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "340.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "pure Cu3SbS4",
+          "value": 6200,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "500.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Cu3SbS4",
+          "value": 0.8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "523.0 K"
+        },
+        {
+          "material": "Cu3SbS4",
+          "value": 0.8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "500.0 K"
+        },
+        {
+          "material": "Cu3SbS4",
+          "value": 1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "623.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Cu3SbS4",
+          "zt_value": 0.1,
+          "temperature": "623.0 K"
+        },
+        {
+          "material": "Cu3SbS4",
+          "zt_value": 0.1,
+          "temperature": "900.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

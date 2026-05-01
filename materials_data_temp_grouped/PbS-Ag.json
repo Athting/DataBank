@@ -1,0 +1,18 @@
+{
+  "Material": "PbS-Ag",
+  "DOIs_Researched": [
+    "10.1038/ncomms10766"
+  ],
+  "Data_By_Temperature": {
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "PbS\u2013Ag",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/ncomms10766"
+      }
+    ]
+  }
+}

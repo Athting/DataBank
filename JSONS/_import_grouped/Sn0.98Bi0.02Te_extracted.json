@@ -1,0 +1,76 @@
+{
+  "doi": "10.1016/j.jmat.2017.12.001",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Sn0.98Bi0.02Te",
+        "Sn0.98Bi0.02Te–3 % HgTe",
+        "Sn0.98Bi0.02Te–3 % CdTe"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "Sn0.98Bi0.02Te",
+          "value": 0.0000221,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Sn0.98Bi0.02Te",
+          "value": 0.00002,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "Sn0.98Bi0.02Te",
+          "value": 581500,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Sn0.98Bi0.02Te–3 % HgTe",
+          "zt_value": 1.35,
+          "temperature": "910.0 K"
+        },
+        {
+          "material": "Sn0.98Bi0.02Te–3 % HgTe",
+          "zt_value": 1.35,
+          "temperature": "910.0 K"
+        },
+        {
+          "material": "Sn0.98Bi0.02Te–3 % CdTe",
+          "zt_value": 1.05,
+          "temperature": "870.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

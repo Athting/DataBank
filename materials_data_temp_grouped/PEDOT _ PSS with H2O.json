@@ -1,0 +1,18 @@
+{
+  "Material": "PEDOT / PSS with H2O",
+  "DOIs_Researched": [
+    "10.1016/S0379-6779(01)00576-8"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "PEDOT / PSS with H2O",
+        "Property": "Conductivity",
+        "Value": 80.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0379-6779(01)00576-8"
+      }
+    ]
+  }
+}

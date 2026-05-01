@@ -1,0 +1,189 @@
+{
+  "doi": "10.1016/j.jallcom.2014.01.070",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "ZnTe nanoprecipitates",
+        "ZnTe",
+        "ZnTe nanowires",
+        "ZnTe single crystals",
+        "nondoped ZnTe",
+        "pure ZnTe",
+        "10 wt. % of ZnTe"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "ZnTe",
+          "value": 220000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "ZnTe nanoprecipitates",
+          "value": 0.62,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "ZnTe",
+          "value": 1.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "ZnTe",
+          "value": 1.75,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "ZnTe nanowires",
+          "value": 1.8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "ZnTe nanoprecipitates",
+          "value": 0.35000000000000003,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "400.0 K"
+        },
+        {
+          "material": "ZnTe nanoprecipitates",
+          "value": 0.35000000000000003,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "400.0 K"
+        },
+        {
+          "material": "ZnTe",
+          "value": 0.35000000000000003,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "400.0 K"
+        },
+        {
+          "material": "ZnTe",
+          "value": 0.62,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "ZnTe",
+          "value": 0.31,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "425.0 K"
+        },
+        {
+          "material": "ZnTe",
+          "value": 14.99,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "ZnTe single crystals",
+          "value": 18,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "ZnTe nanoprecipitates",
+          "value": 0.0045000000000000005,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "ZnTe",
+          "value": 0.00445,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "ZnTe",
+          "value": 0.0043,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "ZnTe",
+          "value": 0.0045000000000000005,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "373.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "ZnTe",
+          "zt_value": 1.4,
+          "temperature": "400.0 K"
+        },
+        {
+          "material": "ZnTe",
+          "zt_value": 1.2,
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "ZnTe",
+          "zt_value": 1.2,
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "ZnTe",
+          "zt_value": 1.4,
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "ZnTe",
+          "zt_value": 1.4,
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "ZnTe",
+          "zt_value": 1.2,
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "nondoped ZnTe",
+          "zt_value": 0.0082,
+          "temperature": "575.0 K"
+        },
+        {
+          "material": "pure ZnTe",
+          "zt_value": 2.22,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "10 wt. % of ZnTe",
+          "zt_value": 0.4,
+          "temperature": "750.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

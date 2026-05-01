@@ -1,0 +1,29 @@
+{
+  "Material": "\u03b1-CuAgSe",
+  "DOIs_Researched": [
+    "10.1039/c5nr01451d",
+    "10.1016/j.mtphys.2019.100095"
+  ],
+  "Data_By_Temperature": {
+    "623.0": [
+      {
+        "Original_Name_In_Paper": "n-type \u03b1-CuAgSe",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2019.100095"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "p-type \u03b1-CuAgSe",
+        "Property": "ZT",
+        "Value": 0.55,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5nr01451d"
+      }
+    ]
+  }
+}

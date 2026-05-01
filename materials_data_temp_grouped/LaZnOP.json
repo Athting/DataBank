@@ -1,0 +1,18 @@
+{
+  "Material": "LaZnOP",
+  "DOIs_Researched": [
+    "10.1039/d0ta00690d"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "LaZnOP",
+        "Property": "ZT",
+        "Value": 2.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta00690d"
+      }
+    ]
+  }
+}

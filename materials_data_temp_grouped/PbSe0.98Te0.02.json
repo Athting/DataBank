@@ -1,0 +1,29 @@
+{
+  "Material": "PbSe0.98Te0.02",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2012.10.005",
+    "10.1016/B978-008044964-7-50013-3"
+  ],
+  "Data_By_Temperature": {
+    "550.0": [
+      {
+        "Original_Name_In_Paper": "PbSe0.98Te0.02 / PbTe quantum dot",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2012.10.005"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "PbSe0.98Te0.02 / PbTe quantum dot superlattice thin films",
+        "Property": "ZT",
+        "Value": 1.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-008044964-7-50013-3"
+      }
+    ]
+  }
+}

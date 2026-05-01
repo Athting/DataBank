@@ -1,0 +1,27 @@
+{
+  "Material": "Zn3.2Cd0.8Sb3",
+  "DOIs_Researched": [
+    "10.1557/JMR.2009.0058",
+    "10.1007/s11665-017-2530-0"
+  ],
+  "Data_By_Temperature": {
+    "523.0": [
+      {
+        "Original_Name_In_Paper": "Zn3.2Cd0.8Sb3",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1557/JMR.2009.0058"
+      },
+      {
+        "Original_Name_In_Paper": "Zn3.2Cd0.8Sb3",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11665-017-2530-0"
+      }
+    ]
+  }
+}

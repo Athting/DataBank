@@ -1,0 +1,38 @@
+{
+  "Material": "BiCuOTe",
+  "DOIs_Researched": [
+    "10.1039/c4ta04057k",
+    "10.1039/c3ta11222e",
+    "10.1016/j.mtphys.2018.11.008"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "BiCuOTe",
+        "Property": "ThermCond",
+        "Value": 0.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2018.11.008"
+      },
+      {
+        "Original_Name_In_Paper": "Undoped BiCuOTe compound",
+        "Property": "ThermCond",
+        "Value": 0.834,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta04057k"
+      }
+    ],
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "BiCuOTe",
+        "Property": "ZT",
+        "Value": 0.81,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta11222e"
+      }
+    ]
+  }
+}

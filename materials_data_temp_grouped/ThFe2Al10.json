@@ -1,0 +1,18 @@
+{
+  "Material": "ThFe2Al10",
+  "DOIs_Researched": [
+    "10.1016/j.intermet.2019.01.011"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "ThFe2Al10",
+        "Property": "Conductivity",
+        "Value": 1666666.6666666667,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2019.01.011"
+      }
+    ]
+  }
+}

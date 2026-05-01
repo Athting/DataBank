@@ -1,0 +1,50 @@
+{
+  "Material": "Bi1.6Pb0.4Sr2Co2Oy",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2020.154065"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "Bi1.6Pb0.4Sr2Co2Oy + 0.25 wt % SiC",
+        "Property": "ZT",
+        "Value": 0.48,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154065"
+      },
+      {
+        "Original_Name_In_Paper": "Bi1.6Pb0.4Sr2Co2Oy",
+        "Property": "ZT",
+        "Value": 0.025,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154065"
+      },
+      {
+        "Original_Name_In_Paper": "Bi1.6Pb0.4Sr2Co2Oy",
+        "Property": "Seebeck",
+        "Value": 0.000223,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154065"
+      },
+      {
+        "Original_Name_In_Paper": "Bi1.6Pb0.4Sr2Co2Oy",
+        "Property": "Seebeck",
+        "Value": 0.000223,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154065"
+      },
+      {
+        "Original_Name_In_Paper": "Bi1.6Pb0.4Sr2Co2Oy",
+        "Property": "PF",
+        "Value": 0.000307,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154065"
+      }
+    ]
+  }
+}

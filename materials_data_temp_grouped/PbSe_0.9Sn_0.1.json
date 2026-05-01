@@ -1,0 +1,43 @@
+{
+  "Material": "PbSe:0.9Sn:0.1",
+  "DOIs_Researched": [
+    "10.1039/c4cp06021k",
+    "10.1016/j.mtener.2018.06.010"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Pb0.9Sn0.1Se",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4cp06021k"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.9Sn0.1Se",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": "Sn substitution",
+        "Source_DOI": "10.1039/c4cp06021k"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.9Sn0.1Se",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4cp06021k"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.9Sn0.1Se",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtener.2018.06.010"
+      }
+    ]
+  }
+}

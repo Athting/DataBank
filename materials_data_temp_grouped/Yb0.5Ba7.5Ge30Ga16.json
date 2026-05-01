@@ -1,0 +1,26 @@
+{
+  "Material": "Yb0.5Ba7.5Ge30Ga16",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2013.03.074"
+  ],
+  "Data_By_Temperature": {
+    "950.0": [
+      {
+        "Original_Name_In_Paper": "Yb0.5Ba7.5Ga16Ge30",
+        "Property": "ZT",
+        "Value": 1.09,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.03.074"
+      },
+      {
+        "Original_Name_In_Paper": "Yb0.5Ba7.5Ga16Ge30",
+        "Property": "ZT",
+        "Value": 1.09,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.03.074"
+      }
+    ]
+  }
+}

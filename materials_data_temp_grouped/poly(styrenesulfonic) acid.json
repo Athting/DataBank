@@ -1,0 +1,26 @@
+{
+  "Material": "poly(styrenesulfonic) acid",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2020.105186"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "poly(styrenesulfonic) acid",
+        "Property": "ZT",
+        "Value": 0.42,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.105186"
+      },
+      {
+        "Original_Name_In_Paper": "poly(styrenesulfonic) acid",
+        "Property": "PF",
+        "Value": 0.00046899999999999996,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.105186"
+      }
+    ]
+  }
+}

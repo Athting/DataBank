@@ -1,0 +1,46 @@
+{
+  "Material": "CoMnTiAl",
+  "DOIs_Researched": [
+    "10.1039/c6ra18934b"
+  ],
+  "Data_By_Temperature": {
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "CoMnTiAl",
+        "Property": "ZT",
+        "Value": 0.62,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra18934b"
+      }
+    ],
+    "50.0": [
+      {
+        "Original_Name_In_Paper": "CoMnTiAl",
+        "Property": "Seebeck",
+        "Value": 4.97e-06,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra18934b"
+      },
+      {
+        "Original_Name_In_Paper": "CoMnTiAl",
+        "Property": "Seebeck",
+        "Value": 0.00030000000000000003,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra18934b"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "CoMnTiAl",
+        "Property": "Seebeck",
+        "Value": 2e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra18934b"
+      }
+    ]
+  }
+}

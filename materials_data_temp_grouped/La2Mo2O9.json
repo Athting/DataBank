@@ -1,0 +1,78 @@
+{
+  "Material": "La2Mo2O9",
+  "DOIs_Researched": [
+    "10.1016/B978-0-444-53590-0.00004-2",
+    "10.1016/j.ceramint.2015.01.157",
+    "10.1039/c9dt01192g",
+    "10.1016/S0927-5193(07)13010-2",
+    "10.1039/b102987h"
+  ],
+  "Data_By_Temperature": {
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "La2Mo2O9",
+        "Property": "ThermCond",
+        "Value": 0.7000000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2015.01.157"
+      },
+      {
+        "Original_Name_In_Paper": "La2Mo2O9",
+        "Property": "ThermCond",
+        "Value": 0.8200000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2015.01.157"
+      },
+      {
+        "Original_Name_In_Paper": "La2Mo2O9",
+        "Property": "ThermCond",
+        "Value": 0.85,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9dt01192g"
+      }
+    ],
+    "1273.0": [
+      {
+        "Original_Name_In_Paper": "La2Mo2O9",
+        "Property": "ThermCond",
+        "Value": 0.8200000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9dt01192g"
+      }
+    ],
+    "1023.0": [
+      {
+        "Original_Name_In_Paper": "La2Mo2O9",
+        "Property": "Conductivity",
+        "Value": 15.9,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-444-53590-0.00004-2"
+      }
+    ],
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "La2Mo2O9",
+        "Property": "Conductivity",
+        "Value": 6.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/b102987h"
+      }
+    ],
+    "993.0": [
+      {
+        "Original_Name_In_Paper": "La2Mo2O9",
+        "Property": "Conductivity",
+        "Value": 3.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0927-5193(07)13010-2"
+      }
+    ]
+  }
+}

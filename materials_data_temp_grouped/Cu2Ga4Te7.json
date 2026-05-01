@@ -1,0 +1,75 @@
+{
+  "Material": "Cu2Ga4Te7",
+  "DOIs_Researched": [
+    "10.1038/am.2013.15",
+    "10.1016/j.ensm.2016.01.009",
+    "10.1039/c8ra03704c",
+    "10.1016/j.jssc.2013.02.008"
+  ],
+  "Data_By_Temperature": {
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "Cu2Ga4Te7",
+        "Property": "ThermCond",
+        "Value": 0.67,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2013.15"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2Ga4Te7",
+        "Property": "ZT",
+        "Value": 0.67,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2013.15"
+      }
+    ],
+    "770.0": [
+      {
+        "Original_Name_In_Paper": "Cu2Ga4Te7",
+        "Property": "ZT",
+        "Value": 0.47000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ra03704c"
+      }
+    ],
+    "803.0": [
+      {
+        "Original_Name_In_Paper": "pristine Cu2Ga4Te7",
+        "Property": "ZT",
+        "Value": 0.37,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ra03704c"
+      },
+      {
+        "Original_Name_In_Paper": "pristine Cu2Ga4Te7",
+        "Property": "ZT",
+        "Value": 0.37,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ra03704c"
+      }
+    ],
+    "940.0": [
+      {
+        "Original_Name_In_Paper": "Cu2Ga4Te7",
+        "Property": "ZT",
+        "Value": 0.67,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2013.02.008"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2Ga4Te7",
+        "Property": "ZT",
+        "Value": 0.64,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ensm.2016.01.009"
+      }
+    ]
+  }
+}

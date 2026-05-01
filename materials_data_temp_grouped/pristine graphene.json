@@ -1,0 +1,95 @@
+{
+  "Material": "pristine graphene",
+  "DOIs_Researched": [
+    "10.1039/c7nr05231f",
+    "10.1039/c9ta02138h",
+    "10.1016/j.carbon.2020.06.012",
+    "10.1016/B978-0-12-814083-3.00006-8",
+    "10.1038/srep03909",
+    "10.1038/srep05085",
+    "10.1039/c3tc32260b",
+    "10.1016/j.carbon.2016.03.007"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "pristine graphene",
+        "Property": "ThermCond",
+        "Value": 2900.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7nr05231f"
+      },
+      {
+        "Original_Name_In_Paper": "pristine graphene",
+        "Property": "ThermCond",
+        "Value": 3750.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/srep05085"
+      },
+      {
+        "Original_Name_In_Paper": "pristine graphene",
+        "Property": "ThermCond",
+        "Value": 5300.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.carbon.2020.06.012"
+      },
+      {
+        "Original_Name_In_Paper": "pristine graphene",
+        "Property": "ZT",
+        "Value": 0.00055,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-12-814083-3.00006-8"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "pristine graphene",
+        "Property": "ThermCond",
+        "Value": 269.3,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/srep03909"
+      },
+      {
+        "Original_Name_In_Paper": "pristine graphene",
+        "Property": "ThermCond",
+        "Value": 2700.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.carbon.2016.03.007"
+      },
+      {
+        "Original_Name_In_Paper": "pristine graphene",
+        "Property": "ZT",
+        "Value": 0.02,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta02138h"
+      }
+    ],
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "pristine graphene",
+        "Property": "ThermCond",
+        "Value": 1500.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.carbon.2016.03.007"
+      }
+    ],
+    "100.0": [
+      {
+        "Original_Name_In_Paper": "pristine graphene",
+        "Property": "Seebeck",
+        "Value": 0.000223,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3tc32260b"
+      }
+    ]
+  }
+}

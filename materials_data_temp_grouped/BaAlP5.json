@@ -1,0 +1,51 @@
+{
+  "Material": "BaAlP5",
+  "DOIs_Researched": [
+    "10.1016/j.solidstatesciences.2019.105942",
+    "10.1016/j.jallcom.2015.02.133"
+  ],
+  "Data_By_Temperature": {
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "p-type Ba3Al3P5",
+        "Property": "ZT",
+        "Value": 0.49,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2019.105942"
+      },
+      {
+        "Original_Name_In_Paper": "Ba3Al3P5",
+        "Property": "ZT",
+        "Value": 0.49,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.02.133"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Ba3Al3P5",
+        "Property": "ZT",
+        "Value": 0.49,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.02.133"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Ba3Al3P5",
+        "Property": "ZT",
+        "Value": 0.49,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.02.133"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Ba3Al3P5",
+        "Property": "ZT",
+        "Value": 0.49,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.02.133"
+      }
+    ]
+  }
+}

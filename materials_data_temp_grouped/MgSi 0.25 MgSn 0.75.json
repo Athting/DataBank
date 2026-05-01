@@ -1,0 +1,18 @@
+{
+  "Material": "MgSi 0.25 MgSn 0.75",
+  "DOIs_Researched": [
+    "10.1007/s11664-010-1280-7"
+  ],
+  "Data_By_Temperature": {
+    "610.0": [
+      {
+        "Original_Name_In_Paper": "Mg2.00Si0.25Sn0.75",
+        "Property": "ZT",
+        "Value": 0.32,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-010-1280-7"
+      }
+    ]
+  }
+}

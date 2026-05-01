@@ -1,0 +1,176 @@
+{
+  "Material": "ZnAlO",
+  "DOIs_Researched": [
+    "10.1007/s40243-019-0163-y",
+    "10.1016/j.jeurceramsoc.2011.07.006",
+    "10.1016/j.ssc.2010.11.020",
+    "10.1016/j.ceramint.2015.07.183",
+    "10.1039/c3ra44223c",
+    "10.1016/j.jpcs.2010.06.006",
+    "10.1016/j.jallcom.2020.156124",
+    "10.1016/j.ceramint.2018.06.259",
+    "10.1016/j.ceramint.2018.09.151",
+    "10.1016/j.jssc.2006.08.022",
+    "10.1016/j.jallcom.2006.04.065"
+  ],
+  "Data_By_Temperature": {
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "Zn0.98Al0.02O",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2011.07.006"
+      },
+      {
+        "Original_Name_In_Paper": "Zn0.98Al0.02O",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2006.04.065"
+      },
+      {
+        "Original_Name_In_Paper": "Zn0.98Al0.02O",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2010.11.020"
+      },
+      {
+        "Original_Name_In_Paper": "Zn0.98Al0.02O",
+        "Property": "PF",
+        "Value": 0.0015,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2006.04.065"
+      }
+    ],
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "Zn0.99Al0.01O",
+        "Property": "ZT",
+        "Value": 0.035,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2011.07.006"
+      }
+    ],
+    "1273.0": [
+      {
+        "Original_Name_In_Paper": "Zn0.98Al0.02O",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2015.07.183"
+      },
+      {
+        "Original_Name_In_Paper": "Zn0.98Al0.02O",
+        "Property": "ZT",
+        "Value": 0.24,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2006.08.022"
+      }
+    ],
+    "1200.0": [
+      {
+        "Original_Name_In_Paper": "Zn0.994Al0.003Zr0.003O",
+        "Property": "ZT",
+        "Value": 0.12,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s40243-019-0163-y"
+      }
+    ],
+    "1173.0": [
+      {
+        "Original_Name_In_Paper": "Zn0.997Al0.002Zr0.005O",
+        "Property": "ZT",
+        "Value": 0.12,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s40243-019-0163-y"
+      }
+    ],
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "Zn0.96Al0.04O",
+        "Property": "ZT",
+        "Value": 0.085,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2010.06.006"
+      },
+      {
+        "Original_Name_In_Paper": "Zn0.08Al0.02O",
+        "Property": "PF",
+        "Value": 0.0014500000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ra44223c"
+      }
+    ],
+    "1023.0": [
+      {
+        "Original_Name_In_Paper": "Zn0.99Al0.01O",
+        "Property": "ZT",
+        "Value": 0.07,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.156124"
+      }
+    ],
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "Zn0.98Al0.02O",
+        "Property": "PF",
+        "Value": 0.0005300000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.06.259"
+      }
+    ],
+    "970.0": [
+      {
+        "Original_Name_In_Paper": "Zn0.98Al0.02O",
+        "Property": "PF",
+        "Value": 0.001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.09.151"
+      }
+    ],
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "textured Zn0.96Al0.04O",
+        "Property": "PF",
+        "Value": 4.7,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2015.07.183"
+      }
+    ],
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "Zn0.96Al0.04O",
+        "Property": "PF",
+        "Value": 0.30000000000000004,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2015.07.183"
+      },
+      {
+        "Original_Name_In_Paper": "Zn0.96Al0.04O",
+        "Property": "Conductivity",
+        "Value": 74920.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2015.07.183"
+      }
+    ]
+  }
+}

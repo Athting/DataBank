@@ -1,0 +1,28 @@
+{
+  "Material": "Mn3Si4Al2",
+  "DOIs_Researched": [
+    "10.1557/jmr.2015.145"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Mn3Si4Al2 bulk",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1557/jmr.2015.145"
+      }
+    ],
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "Mn3Si4Al2",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1557/jmr.2015.145"
+      }
+    ]
+  }
+}

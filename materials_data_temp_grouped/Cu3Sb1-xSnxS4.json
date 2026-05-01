@@ -1,0 +1,27 @@
+{
+  "Material": "Cu3Sb1-xSnxS4",
+  "DOIs_Researched": [
+    "10.1039/c8tc02481b",
+    "10.1039/c9cp06233e"
+  ],
+  "Data_By_Temperature": {
+    "623.0": [
+      {
+        "Original_Name_In_Paper": "Cu3Sb1\u2212xSnxS4",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9cp06233e"
+      },
+      {
+        "Original_Name_In_Paper": "Cu3Sb1\u2212xSnxS4",
+        "Property": "ZT",
+        "Value": 0.72,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8tc02481b"
+      }
+    ]
+  }
+}

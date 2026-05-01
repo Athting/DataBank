@@ -1,0 +1,27 @@
+{
+  "Material": "Co4Sb11.3Te0.58Se0.12",
+  "DOIs_Researched": [
+    "10.1016/j.materresbull.2012.03.059",
+    "10.1007/s10853-014-8141-3"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Co4Sb11.3Te0.58Se0.12",
+        "Property": "ZT",
+        "Value": 1.11,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2012.03.059"
+      },
+      {
+        "Original_Name_In_Paper": "Co4Sb11.3Te0.58Se0.12",
+        "Property": "ZT",
+        "Value": 1.11,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-014-8141-3"
+      }
+    ]
+  }
+}

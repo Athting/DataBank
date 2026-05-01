@@ -1,0 +1,57 @@
+{
+  "Material": "CuInS2",
+  "DOIs_Researched": [
+    "10.1016/B978-0-12-373697-0.00006-7",
+    "10.1016/j.matchemphys.2014.03.034"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "CuInS2",
+        "Property": "ThermCond",
+        "Value": 5.71,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2014.03.034"
+      }
+    ],
+    "860.0": [
+      {
+        "Original_Name_In_Paper": "iron-substituted CuInS2 materials",
+        "Property": "ThermCond",
+        "Value": 1.28,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2014.03.034"
+      },
+      {
+        "Original_Name_In_Paper": "iron-substituted CuInS2 materials",
+        "Property": "ZT",
+        "Value": 0.91,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2014.03.034"
+      }
+    ],
+    "77.0": [
+      {
+        "Original_Name_In_Paper": "Cu-rich CuInS2 thin films",
+        "Property": "Conductivity",
+        "Value": 23.5849056604,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-12-373697-0.00006-7"
+      }
+    ],
+    "560.0": [
+      {
+        "Original_Name_In_Paper": "CuInS2",
+        "Property": "Conductivity",
+        "Value": 3.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2014.03.034"
+      }
+    ]
+  }
+}

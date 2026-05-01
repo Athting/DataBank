@@ -1,0 +1,18 @@
+{
+  "Material": "exhaust gas",
+  "DOIs_Researched": [
+    "10.1016/j.enconman.2015.12.073"
+  ],
+  "Data_By_Temperature": {
+    "623.0": [
+      {
+        "Original_Name_In_Paper": "exhaust gas",
+        "Property": "ZT",
+        "Value": 1.25,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.enconman.2015.12.073"
+      }
+    ]
+  }
+}

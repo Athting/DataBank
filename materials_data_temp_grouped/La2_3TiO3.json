@@ -1,0 +1,18 @@
+{
+  "Material": "La2/3TiO3",
+  "DOIs_Researched": [
+    "10.1039/c4ra13945c"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "pristine La2 / 3TiO3",
+        "Property": "ZT",
+        "Value": 0.18,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra13945c"
+      }
+    ]
+  }
+}

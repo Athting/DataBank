@@ -1,0 +1,162 @@
+{
+  "doi": "10.1016/j.jallcom.2017.08.216",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "NbFeSb",
+        "Co-doped NbFeSb",
+        "NbFe0.92Ir0.02Sb",
+        "NbFe0.92Ir0.08Sb",
+        "NbFe0.94Ir0.06Sb",
+        "p-type NbFeSb-based",
+        "p-type NbFeSb alloys",
+        "p-type NbFeSb"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "NbFeSb",
+          "value": 14,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Co-doped NbFeSb",
+          "value": 10,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "NbFeSb",
+          "value": 17,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "NbFe0.92Ir0.02Sb",
+          "value": 3.7,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "NbFe0.92Ir0.08Sb",
+          "value": 3.7,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "NbFeSb",
+          "value": 15.6,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "NbFeSb",
+          "value": 1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "NbFeSb",
+          "value": 7.1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "NbFeSb",
+          "value": 10,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "NbFeSb",
+          "zt_value": 1.1,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "NbFe0.94Ir0.06Sb",
+          "zt_value": 0.5,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "NbFe0.94Ir0.06Sb",
+          "zt_value": 0.5,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "NbFe0.94Ir0.06Sb",
+          "zt_value": 0.5,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "NbFe0.94Ir0.06Sb",
+          "zt_value": 0.5,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "NbFe0.94Ir0.06Sb",
+          "zt_value": 0.5,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "p-type NbFeSb-based",
+          "zt_value": 1.5,
+          "temperature": "1200.0 K"
+        },
+        {
+          "material": "NbFeSb",
+          "zt_value": 1.5,
+          "temperature": "1200.0 K"
+        },
+        {
+          "material": "p-type NbFeSb alloys",
+          "zt_value": 1.5,
+          "temperature": "1200.0 K"
+        },
+        {
+          "material": "p-type NbFeSb",
+          "zt_value": 1.6,
+          "temperature": "1200.0 K"
+        },
+        {
+          "material": "NbFeSb",
+          "zt_value": 1.5,
+          "temperature": "1200.0 K"
+        },
+        {
+          "material": "NbFeSb",
+          "zt_value": 1.1,
+          "temperature": "1100.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

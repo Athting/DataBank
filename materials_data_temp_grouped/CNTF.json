@@ -1,0 +1,26 @@
+{
+  "Material": "CNTF",
+  "DOIs_Researched": [
+    "10.1007/s10853-020-04949-0"
+  ],
+  "Data_By_Temperature": {
+    "414.0": [
+      {
+        "Original_Name_In_Paper": "CNTF",
+        "Property": "Seebeck",
+        "Value": 4.6e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      },
+      {
+        "Original_Name_In_Paper": "CNTF",
+        "Property": "PF",
+        "Value": 5.65e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      }
+    ]
+  }
+}

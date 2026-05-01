@@ -1,0 +1,18 @@
+{
+  "Material": "SnTe0.75Se0.25",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2013.10.217"
+  ],
+  "Data_By_Temperature": {
+    "548.0": [
+      {
+        "Original_Name_In_Paper": "SnTe0.75Se0.25",
+        "Property": "Seebeck",
+        "Value": 5.4999999999999995e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.10.217"
+      }
+    ]
+  }
+}

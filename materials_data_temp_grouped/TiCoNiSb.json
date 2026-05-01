@@ -1,0 +1,63 @@
+{
+  "Material": "TiCoNiSb",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2004.07.074",
+    "10.1016/j.jallcom.2005.06.036"
+  ],
+  "Data_By_Temperature": {
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "TiCo0.95Ni0.05Sb",
+        "Property": "ZT",
+        "Value": 0.27,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2005.06.036"
+      },
+      {
+        "Original_Name_In_Paper": "TiCo0.95Ni0.05Sb",
+        "Property": "ZT",
+        "Value": 0.27,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2004.07.074"
+      },
+      {
+        "Original_Name_In_Paper": "TiCo0.95Ni0.05Sb",
+        "Property": "ZT",
+        "Value": 0.27,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2004.07.074"
+      },
+      {
+        "Original_Name_In_Paper": "TiCo0.95Ni0.05Sb",
+        "Property": "PF",
+        "Value": 0.0016,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2004.07.074"
+      }
+    ],
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "TiCo0.95Ni0.05Sb",
+        "Property": "PF",
+        "Value": 0.0016,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2004.07.074"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "TiCo0.9Ni0.1Sb",
+        "Property": "Conductivity",
+        "Value": 100000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2004.07.074"
+      }
+    ]
+  }
+}

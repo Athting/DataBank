@@ -1,0 +1,29 @@
+{
+  "Material": "Bi\u2013Sb\u2013Te alloys",
+  "DOIs_Researched": [
+    "10.1039/c8ra03858a",
+    "10.1016/j.jallcom.2012.08.130"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Bi\u2013Sb\u2013Te alloys",
+        "Property": "ZT",
+        "Value": 1.56,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2012.08.130"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Bi\u2013Sb\u2013Te alloys",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ra03858a"
+      }
+    ]
+  }
+}

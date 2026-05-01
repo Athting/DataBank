@@ -1,0 +1,29 @@
+{
+  "Material": "Na2S",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2011.07.006",
+    "10.1016/j.mssp.2019.104848"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Na2S",
+        "Property": "ZT",
+        "Value": 0.78,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2019.104848"
+      }
+    ],
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "sodium\u2013sulphur",
+        "Property": "Conductivity",
+        "Value": 10.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2011.07.006"
+      }
+    ]
+  }
+}

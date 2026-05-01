@@ -1,0 +1,35 @@
+{
+  "Material": "CNT-based",
+  "DOIs_Researched": [
+    "10.1039/c7cs00505a",
+    "10.1039/c7qm00306d"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "CNT-based",
+        "Property": "PF",
+        "Value": 0.00016,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7qm00306d"
+      },
+      {
+        "Original_Name_In_Paper": "CNT-based",
+        "Property": "Conductivity",
+        "Value": 105.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7qm00306d"
+      },
+      {
+        "Original_Name_In_Paper": "CNT-based",
+        "Property": "Conductivity",
+        "Value": 0.9400000000000001,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cs00505a"
+      }
+    ]
+  }
+}

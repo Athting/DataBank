@@ -1,0 +1,18 @@
+{
+  "Material": "GeTe, Pb0.8Sm0.2Te",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2018.04.317"
+  ],
+  "Data_By_Temperature": {
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "(GeTe)0.85(Pb0.8Sm0.2Te)0.15 alloys",
+        "Property": "ZT",
+        "Value": 0.77,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.04.317"
+      }
+    ]
+  }
+}

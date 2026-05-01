@@ -1,0 +1,26 @@
+{
+  "Material": "CYCO15",
+  "DOIs_Researched": [
+    "10.1016/j.solidstatesciences.2019.106083"
+  ],
+  "Data_By_Temperature": {
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "CYCO15",
+        "Property": "PF",
+        "Value": 0.00018,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2019.106083"
+      },
+      {
+        "Original_Name_In_Paper": "CYCO15",
+        "Property": "PF",
+        "Value": 0.0002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2019.106083"
+      }
+    ]
+  }
+}

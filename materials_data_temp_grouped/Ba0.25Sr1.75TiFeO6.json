@@ -1,0 +1,18 @@
+{
+  "Material": "Ba0.25Sr1.75TiFeO6",
+  "DOIs_Researched": [
+    "10.1557/jmr.2018.376"
+  ],
+  "Data_By_Temperature": {
+    "1100.0": [
+      {
+        "Original_Name_In_Paper": "Ba0.25Sr1.75TiFeO6",
+        "Property": "Seebeck",
+        "Value": 0.0008,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1557/jmr.2018.376"
+      }
+    ]
+  }
+}

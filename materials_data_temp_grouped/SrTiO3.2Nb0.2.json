@@ -1,0 +1,63 @@
+{
+  "Material": "SrTiO3.2Nb0.2",
+  "DOIs_Researched": [
+    "10.1039/c4cp04127e",
+    "10.1007/s10853-011-5466-z",
+    "10.1557/jmr.2011.108",
+    "10.1016/j.jallcom.2009.07.041",
+    "10.1007/s10832-008-9455-9",
+    "10.1016/j.ceramint.2011.04.004"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "SrTi0.8Nb0.2O3",
+        "Property": "ZT",
+        "Value": 0.37,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-011-5466-z"
+      },
+      {
+        "Original_Name_In_Paper": "SrTi0.8Nb0.2O3",
+        "Property": "ZT",
+        "Value": 0.35000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4cp04127e"
+      },
+      {
+        "Original_Name_In_Paper": "SrTi0.8Nb0.2O3",
+        "Property": "ZT",
+        "Value": 0.37,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2011.04.004"
+      },
+      {
+        "Original_Name_In_Paper": "SrTi0.8Nb0.2O3",
+        "Property": "ZT",
+        "Value": 0.37,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.07.041"
+      },
+      {
+        "Original_Name_In_Paper": "SrTi0.8Nb0.2O3",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1557/jmr.2011.108"
+      },
+      {
+        "Original_Name_In_Paper": "SrTi0.8Nb0.2O3",
+        "Property": "PF",
+        "Value": 1500.0,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10832-008-9455-9"
+      }
+    ]
+  }
+}

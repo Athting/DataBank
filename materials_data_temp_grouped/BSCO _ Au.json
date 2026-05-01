@@ -1,0 +1,18 @@
+{
+  "Material": "BSCO : Au",
+  "DOIs_Researched": [
+    "10.1016/j.matdes.2015.10.058"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "BSCO : Au",
+        "Property": "PF",
+        "Value": 0.00092,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matdes.2015.10.058"
+      }
+    ]
+  }
+}

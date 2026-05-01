@@ -1,0 +1,18 @@
+{
+  "Material": "Al2O3/ZnO",
+  "DOIs_Researched": [
+    "10.1039/c8ta03805h"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Al2O3 / ZnO superlattice thin film",
+        "Property": "ZT",
+        "Value": 0.014,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta03805h"
+      }
+    ]
+  }
+}

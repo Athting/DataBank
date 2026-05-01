@@ -1,0 +1,18 @@
+{
+  "Material": "BaRuO3",
+  "DOIs_Researched": [
+    "10.1016/j.mseb.2008.12.026"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "BaRuO3",
+        "Property": "ThermCond",
+        "Value": 3.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mseb.2008.12.026"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Al\u2013Mn\u2013Fe\u2013Si alloy",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2016.01.030"
+  ],
+  "Data_By_Temperature": {
+    "1423.0": [
+      {
+        "Original_Name_In_Paper": "Al\u2013Mn\u2013Fe\u2013Si alloy",
+        "Property": "ZT",
+        "Value": 0.007,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.01.030"
+      }
+    ]
+  }
+}

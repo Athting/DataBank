@@ -1,0 +1,58 @@
+{
+  "Material": "ZnSe",
+  "DOIs_Researched": [
+    "10.1016/j.pmatsci.2018.04.005",
+    "10.1016/j.mtener.2018.06.010",
+    "10.1016/j.matchemphys.2014.06.054",
+    "10.1016/j.apsusc.2005.01.154",
+    "10.1016/j.jpcs.2006.05.001"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "ZnSe",
+        "Property": "ThermCond",
+        "Value": 19.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2014.06.054"
+      },
+      {
+        "Original_Name_In_Paper": "ZnSe thin film",
+        "Property": "Conductivity",
+        "Value": 0.9433962264,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2005.01.154"
+      },
+      {
+        "Original_Name_In_Paper": "ZnSe thin film",
+        "Property": "Conductivity",
+        "Value": 1e-06,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2006.05.001"
+      }
+    ],
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "ZnSe",
+        "Property": "ZT",
+        "Value": 1.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtener.2018.06.010"
+      }
+    ],
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "Zn0.01Sn0.99Se polycrystals",
+        "Property": "ZT",
+        "Value": 0.96,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2018.04.005"
+      }
+    ]
+  }
+}

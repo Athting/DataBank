@@ -1,0 +1,18 @@
+{
+  "Material": "Sm0.25Eu0.375Yb0.375M",
+  "DOIs_Researched": [
+    "10.1039/c9ta13224d"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Sm0.25Eu0.375Yb0.375Mg2Bi1.99",
+        "Property": "ThermCond",
+        "Value": 0.59,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta13224d"
+      }
+    ]
+  }
+}

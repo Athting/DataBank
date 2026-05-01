@@ -1,0 +1,35 @@
+{
+  "Material": "Sn0.97Sm0.03Se",
+  "DOIs_Researched": [
+    "10.1016/j.materresbull.2017.04.053",
+    "10.1007/s10853-020-04949-0"
+  ],
+  "Data_By_Temperature": {
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.97Sm0.03Se",
+        "Property": "ZT",
+        "Value": 0.59,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.97Sm0.03Se",
+        "Property": "PF",
+        "Value": 0.000214,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2017.04.053"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.97Sm0.03Se",
+        "Property": "PF",
+        "Value": 0.000214,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2017.04.053"
+      }
+    ]
+  }
+}

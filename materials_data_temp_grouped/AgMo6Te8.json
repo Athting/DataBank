@@ -1,0 +1,26 @@
+{
+  "Material": "AgMo6Te8",
+  "DOIs_Researched": [
+    "10.1016/S1003-6326(08)60326-X"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "AgMo6Te8",
+        "Property": "ZT",
+        "Value": 0.034,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S1003-6326(08)60326-X"
+      },
+      {
+        "Original_Name_In_Paper": "AgMo6Te8",
+        "Property": "ZT",
+        "Value": 0.034,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S1003-6326(08)60326-X"
+      }
+    ]
+  }
+}

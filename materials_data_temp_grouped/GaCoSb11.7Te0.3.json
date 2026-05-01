@@ -1,0 +1,71 @@
+{
+  "Material": "GaCoSb11.7Te0.3",
+  "DOIs_Researched": [
+    "10.1016/j.intermet.2012.03.007",
+    "10.1007/s11661-017-4058-1"
+  ],
+  "Data_By_Temperature": {
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "Ga0.3Co4Sb11.7Te0.3 compound",
+        "Property": "ThermCond",
+        "Value": 2.75,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11661-017-4058-1"
+      },
+      {
+        "Original_Name_In_Paper": "Ga0.3Co4Sb11.7Te0.3",
+        "Property": "ThermCond",
+        "Value": 2.21,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2012.03.007"
+      }
+    ],
+    "650.0": [
+      {
+        "Original_Name_In_Paper": "Ga0.3Co4Sb11.7Te0.3 compound",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2012.03.007"
+      },
+      {
+        "Original_Name_In_Paper": "Ga0.3Co4Sb11.7Te0.3",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2012.03.007"
+      },
+      {
+        "Original_Name_In_Paper": "Ga0.3Co4Sb11.7Te0.3 compound",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2012.03.007"
+      },
+      {
+        "Original_Name_In_Paper": "Ga0.3Co4Sb11.7Te0.3 compound",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11661-017-4058-1"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Ga0.2Co4Sb11.7Te0.3",
+        "Property": "Seebeck",
+        "Value": 0.000237,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2012.03.007"
+      }
+    ]
+  }
+}

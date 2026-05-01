@@ -1,0 +1,26 @@
+{
+  "Material": "Cu1.8S \\* LaCl3",
+  "DOIs_Researched": [
+    "10.1039/c8ta03195a"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "3 wt % LaCl3-doped Cu1.8S",
+        "Property": "ThermCond",
+        "Value": 1.01,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta03195a"
+      },
+      {
+        "Original_Name_In_Paper": "2 wt % LaCl3-doped Cu1.8S",
+        "Property": "PF",
+        "Value": 0.0016,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta03195a"
+      }
+    ]
+  }
+}

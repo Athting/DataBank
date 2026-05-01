@@ -1,0 +1,18 @@
+{
+  "Material": "K2CO3",
+  "DOIs_Researched": [
+    "10.1016/j.jeurceramsoc.2015.11.024"
+  ],
+  "Data_By_Temperature": {
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "K2CO3",
+        "Property": "Seebeck",
+        "Value": 0.00023,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": "K2CO3 addition",
+        "Source_DOI": "10.1016/j.jeurceramsoc.2015.11.024"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Ge0.81Mn0.15Bi0.04Te",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2019.151838"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "cubic Ge0.81Mn0.15Bi0.04Te",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.151838"
+      }
+    ]
+  }
+}

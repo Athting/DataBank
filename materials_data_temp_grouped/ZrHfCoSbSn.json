@@ -1,0 +1,89 @@
+{
+  "Material": "ZrHfCoSbSn",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2014.01.208",
+    "10.1016/j.jssc.2010.03.023",
+    "10.1016/j.jallcom.2014.10.007",
+    "10.1016/j.matlet.2018.06.019"
+  ],
+  "Data_By_Temperature": {
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "Zr0.5Hf0.5CoSb0.8Sn0.2 / HfO2",
+        "Property": "ThermCond",
+        "Value": 2.04,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.10.007"
+      },
+      {
+        "Original_Name_In_Paper": "Zr0.5Hf0.5CoSb0.8Sn0.2 / HfO2",
+        "Property": "ThermCond",
+        "Value": 2.04,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.01.208"
+      },
+      {
+        "Original_Name_In_Paper": "Zr0.5Hf0.5CoSb0.8Sn0.2 / HfO2",
+        "Property": "ThermCond",
+        "Value": 2.04,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.01.208"
+      },
+      {
+        "Original_Name_In_Paper": "Zr0.5Hf0.5CoSb0.8Sn0.2 / HfO2",
+        "Property": "ZT",
+        "Value": 0.75,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.01.208"
+      },
+      {
+        "Original_Name_In_Paper": "Zr0.5Hf0.5CoSb0.8Sn0.2 / HfO2",
+        "Property": "ZT",
+        "Value": 0.75,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.01.208"
+      },
+      {
+        "Original_Name_In_Paper": "Zr0.5Hf0.5CoSb0.8Sn0.2 / HfO2",
+        "Property": "ZT",
+        "Value": 0.75,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.01.208"
+      },
+      {
+        "Original_Name_In_Paper": "Zr0.5Hf0.5CoSb0.8Sn0.2 / HfO2",
+        "Property": "ZT",
+        "Value": 0.75,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.10.007"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Zr0.5Hf0.5CoSb0.99Sn0.01",
+        "Property": "ThermCond",
+        "Value": 6.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2010.03.023"
+      }
+    ],
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Zr0.5Hf0.5Co1.04Sb0.8Sn0.2",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2018.06.019"
+      }
+    ]
+  }
+}

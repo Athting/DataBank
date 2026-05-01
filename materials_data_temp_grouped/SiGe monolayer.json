@@ -1,0 +1,86 @@
+{
+  "Material": "SiGe monolayer",
+  "DOIs_Researched": [
+    "10.1039/c9cp03822a"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "SiGe monolayer",
+        "Property": "ThermCond",
+        "Value": 1.34,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9cp03822a"
+      },
+      {
+        "Original_Name_In_Paper": "SiGe monolayer",
+        "Property": "ThermCond",
+        "Value": 1.34,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9cp03822a"
+      },
+      {
+        "Original_Name_In_Paper": "SiGe monolayer",
+        "Property": "ThermCond",
+        "Value": 0.322,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9cp03822a"
+      },
+      {
+        "Original_Name_In_Paper": "SiGe monolayer",
+        "Property": "ZT",
+        "Value": 0.112,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9cp03822a"
+      },
+      {
+        "Original_Name_In_Paper": "SiGe monolayer",
+        "Property": "ZT",
+        "Value": 0.737,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9cp03822a"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "SiGe monolayer",
+        "Property": "ZT",
+        "Value": 0.8180000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9cp03822a"
+      },
+      {
+        "Original_Name_In_Paper": "SiGe monolayer",
+        "Property": "ZT",
+        "Value": 0.8180000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9cp03822a"
+      },
+      {
+        "Original_Name_In_Paper": "SiGe monolayer",
+        "Property": "ZT",
+        "Value": 0.23,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9cp03822a"
+      }
+    ],
+    "550.0": [
+      {
+        "Original_Name_In_Paper": "SiGe monolayer",
+        "Property": "Seebeck",
+        "Value": 0.00011,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9cp03822a"
+      }
+    ]
+  }
+}

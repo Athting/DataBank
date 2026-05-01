@@ -1,0 +1,29 @@
+{
+  "Material": "Bi2Mo2O9",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2019.08.150",
+    "10.1016/j.jallcom.2015.05.166"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Mo2O9",
+        "Property": "ThermCond",
+        "Value": 1.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.05.166"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Bi2Mo2O9",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2019.08.150"
+      }
+    ]
+  }
+}

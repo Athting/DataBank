@@ -1,0 +1,28 @@
+{
+  "Material": "Ca2.9Dy0.1Co3.95Ga0.05O",
+  "DOIs_Researched": [
+    "10.1007/s11664-013-2752-3"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ca2.9Dy0.1Co3.95 Ga0.05O9+\u03b4",
+        "Property": "ZT",
+        "Value": 0.033,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-013-2752-3"
+      }
+    ],
+    "132.0": [
+      {
+        "Original_Name_In_Paper": "Ca2.9Dy0.1Co3.95Ga0.05O9+\u03b4",
+        "Property": "PF",
+        "Value": 0.000245,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-013-2752-3"
+      }
+    ]
+  }
+}

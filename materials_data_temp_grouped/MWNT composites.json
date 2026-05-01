@@ -1,0 +1,18 @@
+{
+  "Material": "MWNT composites",
+  "DOIs_Researched": [
+    "10.1016/j.synthmet.2013.08.011"
+  ],
+  "Data_By_Temperature": {
+    "393.0": [
+      {
+        "Original_Name_In_Paper": "MWNT composites",
+        "Property": "ZT",
+        "Value": 0.0008709999999999999,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.synthmet.2013.08.011"
+      }
+    ]
+  }
+}

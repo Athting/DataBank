@@ -1,0 +1,43 @@
+{
+  "Material": "AlMgB14",
+  "DOIs_Researched": [
+    "10.1557/PROC-691-G8.7",
+    "10.1016/j.jssc.2003.02.005"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "orthorhombic AlMgB14",
+        "Property": "Seebeck",
+        "Value": 0.0005,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2003.02.005"
+      },
+      {
+        "Original_Name_In_Paper": "orthorhombic AlMgB14",
+        "Property": "Seebeck",
+        "Value": 0.0005,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1557/PROC-691-G8.7"
+      },
+      {
+        "Original_Name_In_Paper": "orthorhombic AlMgB14",
+        "Property": "Conductivity",
+        "Value": -11.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2003.02.005"
+      },
+      {
+        "Original_Name_In_Paper": "orthorhombic AlMgB14",
+        "Property": "Conductivity",
+        "Value": 1.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1557/PROC-691-G8.7"
+      }
+    ]
+  }
+}

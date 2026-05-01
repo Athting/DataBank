@@ -1,0 +1,77 @@
+{
+  "doi": "10.1038/am.2013.15",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Cu2Ga4Te7",
+        "pristine Cu2Ga4Te7"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Cu2Ga4Te7",
+          "value": 0.67,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "673.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Cu2Ga4Te7",
+          "zt_value": 0.67,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "Cu2Ga4Te7",
+          "zt_value": 0.47000000000000003,
+          "temperature": "770.0 K"
+        },
+        {
+          "material": "pristine Cu2Ga4Te7",
+          "zt_value": 0.37,
+          "temperature": "803.0 K"
+        },
+        {
+          "material": "pristine Cu2Ga4Te7",
+          "zt_value": 0.37,
+          "temperature": "803.0 K"
+        },
+        {
+          "material": "Cu2Ga4Te7",
+          "zt_value": 0.67,
+          "temperature": "940.0 K"
+        },
+        {
+          "material": "Cu2Ga4Te7",
+          "zt_value": 0.64,
+          "temperature": "940.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

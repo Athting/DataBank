@@ -1,0 +1,18 @@
+{
+  "Material": "Sr0.98Y0.02Si2",
+  "DOIs_Researched": [
+    "10.1016/B978-0-12-409547-2.11642-7"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Sr0.98Y0.02Si2",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-12-409547-2.11642-7"
+      }
+    ]
+  }
+}

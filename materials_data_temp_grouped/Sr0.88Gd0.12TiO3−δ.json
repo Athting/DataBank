@@ -1,0 +1,18 @@
+{
+  "Material": "Sr0.88Gd0.12TiO3\u2212\u03b4",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2013.11.116"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "(Sr0.88Gd0.12)TiO3\u2212\u03b4",
+        "Property": "ThermCond",
+        "Value": 2.7,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.11.116"
+      }
+    ]
+  }
+}

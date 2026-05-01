@@ -1,0 +1,18 @@
+{
+  "Material": "SLi",
+  "DOIs_Researched": [
+    "10.1016/j.jnucmat.2013.03.043"
+  ],
+  "Data_By_Temperature": {
+    "523.0": [
+      {
+        "Original_Name_In_Paper": "SLi",
+        "Property": "Seebeck",
+        "Value": 1.8999999999999998e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jnucmat.2013.03.043"
+      }
+    ]
+  }
+}

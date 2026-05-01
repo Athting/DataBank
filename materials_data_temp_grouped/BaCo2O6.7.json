@@ -1,0 +1,18 @@
+{
+  "Material": "BaCo2O6.7",
+  "DOIs_Researched": [
+    "10.1016/B978-0-444-59550-8.00013-2"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ba3Co2O6(CO3)0.7",
+        "Property": "PF",
+        "Value": 900.0,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-444-59550-8.00013-2"
+      }
+    ]
+  }
+}

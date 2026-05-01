@@ -1,0 +1,54 @@
+{
+  "Material": "Sr5Al2Sb6",
+  "DOIs_Researched": [
+    "10.1039/c3dt53487a",
+    "10.1039/c5ra02033f",
+    "10.1039/c7qm00057j"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "undoped Sr5Al2Sb6",
+        "Property": "ZT",
+        "Value": 0.05,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3dt53487a"
+      },
+      {
+        "Original_Name_In_Paper": "undoped Sr5Al2Sb6",
+        "Property": "ZT",
+        "Value": 0.05,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra02033f"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Sr5Al2Sb6",
+        "Property": "ZT",
+        "Value": 1.01,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra02033f"
+      },
+      {
+        "Original_Name_In_Paper": "Sr5Al2Sb6",
+        "Property": "Conductivity",
+        "Value": 943.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra02033f"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Sr5Al2Sb6",
+        "Property": "Conductivity",
+        "Value": 55.5555555556,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7qm00057j"
+      }
+    ]
+  }
+}

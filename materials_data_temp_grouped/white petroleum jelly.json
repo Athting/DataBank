@@ -1,0 +1,26 @@
+{
+  "Material": "white petroleum jelly",
+  "DOIs_Researched": [
+    "10.1016/j.enbuild.2019.109743"
+  ],
+  "Data_By_Temperature": {
+    "309.0": [
+      {
+        "Original_Name_In_Paper": "white petroleum jelly",
+        "Property": "ThermCond",
+        "Value": 0.18,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.enbuild.2019.109743"
+      },
+      {
+        "Original_Name_In_Paper": "white petroleum jelly",
+        "Property": "ThermCond",
+        "Value": 91.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.enbuild.2019.109743"
+      }
+    ]
+  }
+}

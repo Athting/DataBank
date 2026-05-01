@@ -1,0 +1,18 @@
+{
+  "Material": "Bi2Te3, Cu2Te",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2018.07.022"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "(Bi2Te3)1-x (Cu2Te)x",
+        "Property": "Seebeck",
+        "Value": 0.00035000000000000005,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2018.07.022"
+      }
+    ]
+  }
+}

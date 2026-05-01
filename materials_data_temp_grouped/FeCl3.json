@@ -1,0 +1,106 @@
+{
+  "Material": "FeCl3",
+  "DOIs_Researched": [
+    "10.1038/srep44704",
+    "10.1016/S0379-6779(01)00545-8",
+    "10.1016/j.progpolymsci.2011.11.003",
+    "10.1016/j.nanoen.2019.01.031",
+    "10.1039/c4ra15681a"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "FeCl3",
+        "Property": "Seebeck",
+        "Value": 0.00029,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.progpolymsci.2011.11.003"
+      },
+      {
+        "Original_Name_In_Paper": "FeCl3",
+        "Property": "Seebeck",
+        "Value": 7.4e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/srep44704"
+      },
+      {
+        "Original_Name_In_Paper": "FeCl3",
+        "Property": "PF",
+        "Value": 3.9e-06,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/srep44704"
+      },
+      {
+        "Original_Name_In_Paper": "ferric chloride",
+        "Property": "PF",
+        "Value": 3.5e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra15681a"
+      },
+      {
+        "Original_Name_In_Paper": "ferric chloride",
+        "Property": "PF",
+        "Value": 1.9e-06,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra15681a"
+      },
+      {
+        "Original_Name_In_Paper": "ferric chloride",
+        "Property": "PF",
+        "Value": 9.499999999999999e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra15681a"
+      },
+      {
+        "Original_Name_In_Paper": "FeCl3",
+        "Property": "PF",
+        "Value": 0.00084,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2019.01.031"
+      },
+      {
+        "Original_Name_In_Paper": "ferric chloride",
+        "Property": "PF",
+        "Value": 0.00084,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2019.01.031"
+      },
+      {
+        "Original_Name_In_Paper": "FeCl3",
+        "Property": "Conductivity",
+        "Value": 700.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/srep44704"
+      }
+    ],
+    "320.0": [
+      {
+        "Original_Name_In_Paper": "FeCl3",
+        "Property": "Seebeck",
+        "Value": 0.00011,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0379-6779(01)00545-8"
+      }
+    ],
+    "220.0": [
+      {
+        "Original_Name_In_Paper": "FeCl3",
+        "Property": "Conductivity",
+        "Value": 3000000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.progpolymsci.2011.11.003"
+      }
+    ]
+  }
+}

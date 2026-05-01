@@ -1,0 +1,68 @@
+{
+  "Material": "NaMgSbBi",
+  "DOIs_Researched": [
+    "10.1016/j.jmat.2020.06.004"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Na0.0075Mg2.9925Sb1.5Bi0.5",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2020.06.004"
+      },
+      {
+        "Original_Name_In_Paper": "Na0.0075Mg2.9925Sb1.5Bi0.5",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2020.06.004"
+      },
+      {
+        "Original_Name_In_Paper": "Na0.0075Mg2.9925Sb1.5Bi0.5",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2020.06.004"
+      },
+      {
+        "Original_Name_In_Paper": "Na0.0075Mg2.9925Sb1.5Bi0.5",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2020.06.004"
+      },
+      {
+        "Original_Name_In_Paper": "Na0.01Mg2.99Sb1.5Bi0.5",
+        "Property": "PF",
+        "Value": 0.00045000000000000004,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2020.06.004"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Na0.005Mg2.995Sb1.5Bi0.5",
+        "Property": "ZT",
+        "Value": 0.29,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2020.06.004"
+      },
+      {
+        "Original_Name_In_Paper": "Na0.005Mg2.995Sb1.5Bi0.5",
+        "Property": "ZT",
+        "Value": 0.29,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2020.06.004"
+      }
+    ]
+  }
+}

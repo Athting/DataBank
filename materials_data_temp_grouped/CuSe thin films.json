@@ -1,0 +1,18 @@
+{
+  "Material": "CuSe thin films",
+  "DOIs_Researched": [
+    "10.1016/S0925-8388(10)02247-4"
+  ],
+  "Data_By_Temperature": {
+    "670.0": [
+      {
+        "Original_Name_In_Paper": "CuSe thin films",
+        "Property": "ZT",
+        "Value": 0.33333333330000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(10)02247-4"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Co(SbAs)3",
+  "DOIs_Researched": [
+    "10.1038/srep07806"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Co(Sb0.9As0.1)3",
+        "Property": "ThermCond",
+        "Value": 2.6,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/srep07806"
+      }
+    ]
+  }
+}

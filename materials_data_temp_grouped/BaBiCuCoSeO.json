@@ -1,0 +1,60 @@
+{
+  "Material": "BaBiCuCoSeO",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2017.04.031"
+  ],
+  "Data_By_Temperature": {
+    "350.0": [
+      {
+        "Original_Name_In_Paper": "Ba0.125Bi0.875Cu0.85Co0.15SeO",
+        "Property": "ZT",
+        "Value": 0.082,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.04.031"
+      },
+      {
+        "Original_Name_In_Paper": "Ba0.125Bi0.875Cu0.85Co0.15SeO",
+        "Property": "ZT",
+        "Value": 0.082,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.04.031"
+      },
+      {
+        "Original_Name_In_Paper": "Ba0.125Bi0.875Cu0.85Co0.15SeO",
+        "Property": "ZT",
+        "Value": 0.082,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.04.031"
+      },
+      {
+        "Original_Name_In_Paper": "Ba0.125Bi0.875Cu0.85Co0.15SeO",
+        "Property": "PF",
+        "Value": 0.000206,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.04.031"
+      },
+      {
+        "Original_Name_In_Paper": "Ba0.125Bi0.875Cu0.85Co0.15SeO",
+        "Property": "PF",
+        "Value": 0.000206,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.04.031"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ba0.125Bi0.875Cu0.85Co0.15SeO",
+        "Property": "ZT",
+        "Value": 0.06,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.04.031"
+      }
+    ]
+  }
+}

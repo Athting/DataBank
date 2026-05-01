@@ -1,0 +1,18 @@
+{
+  "Material": "B7.7O",
+  "DOIs_Researched": [
+    "10.1016/j.solidstatesciences.2015.04.007"
+  ],
+  "Data_By_Temperature": {
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "B7.7O",
+        "Property": "Seebeck",
+        "Value": 0.00045000000000000004,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2015.04.007"
+      }
+    ]
+  }
+}

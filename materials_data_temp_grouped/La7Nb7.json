@@ -1,0 +1,48 @@
+{
+  "Material": "La7Nb7",
+  "DOIs_Researched": [
+    "10.1039/c8tc02130a"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "La7Nb7",
+        "Property": "ThermCond",
+        "Value": 4.73,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8tc02130a"
+      }
+    ],
+    "769.0": [
+      {
+        "Original_Name_In_Paper": "La7Nb7",
+        "Property": "ZT",
+        "Value": 0.41000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8tc02130a"
+      }
+    ],
+    "622.0": [
+      {
+        "Original_Name_In_Paper": "La7Nb7",
+        "Property": "PF",
+        "Value": 0.0018200000000000002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8tc02130a"
+      }
+    ],
+    "423.0": [
+      {
+        "Original_Name_In_Paper": "La7Nb7",
+        "Property": "Conductivity",
+        "Value": 106300.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8tc02130a"
+      }
+    ]
+  }
+}

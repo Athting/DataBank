@@ -1,0 +1,18 @@
+{
+  "Material": "InTe-2days",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2019.152210"
+  ],
+  "Data_By_Temperature": {
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "InTe-2days",
+        "Property": "ZT",
+        "Value": 0.26,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.152210"
+      }
+    ]
+  }
+}

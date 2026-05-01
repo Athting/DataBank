@@ -1,0 +1,18 @@
+{
+  "Material": "Ca3.95Eu0.05Mn3O10",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2009.11.004"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ca3.95Eu0.05Mn3O10",
+        "Property": "ZT",
+        "Value": 0.0058000000000000005,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2009.11.004"
+      }
+    ]
+  }
+}

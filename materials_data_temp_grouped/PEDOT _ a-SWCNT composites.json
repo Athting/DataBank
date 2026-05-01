@@ -1,0 +1,26 @@
+{
+  "Material": "PEDOT / a-SWCNT composites",
+  "DOIs_Researched": [
+    "10.1039/c9ta03153g"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "PEDOT / a-SWCNT composites",
+        "Property": "PF",
+        "Value": 0.00035000000000000005,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta03153g"
+      },
+      {
+        "Original_Name_In_Paper": "PEDOT / a-SWCNT composites",
+        "Property": "PF",
+        "Value": 0.00035000000000000005,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta03153g"
+      }
+    ]
+  }
+}

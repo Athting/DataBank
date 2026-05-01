@@ -1,0 +1,26 @@
+{
+  "Material": "CuBi2SeS2",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2015.01.020"
+  ],
+  "Data_By_Temperature": {
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "Cu0.01Bi2SeS2",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2015.01.020"
+      },
+      {
+        "Original_Name_In_Paper": "Cu0.02Bi2SeS2",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2015.01.020"
+      }
+    ]
+  }
+}

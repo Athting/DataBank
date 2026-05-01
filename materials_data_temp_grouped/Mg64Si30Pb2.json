@@ -1,0 +1,34 @@
+{
+  "Material": "Mg64Si30Pb2",
+  "DOIs_Researched": [
+    "10.1039/c8ra02436g"
+  ],
+  "Data_By_Temperature": {
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "Mg64Si30Pb2",
+        "Property": "ZT",
+        "Value": 0.67,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ra02436g"
+      },
+      {
+        "Original_Name_In_Paper": "Mg64Si30Pb2",
+        "Property": "ZT",
+        "Value": 0.67,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ra02436g"
+      },
+      {
+        "Original_Name_In_Paper": "Mg64Si30Pb2",
+        "Property": "ZT",
+        "Value": 0.67,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ra02436g"
+      }
+    ]
+  }
+}

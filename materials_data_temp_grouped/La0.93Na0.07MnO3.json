@@ -1,0 +1,18 @@
+{
+  "Material": "La0.93Na0.07MnO3",
+  "DOIs_Researched": [
+    "10.1016/j.commatsci.2009.11.012"
+  ],
+  "Data_By_Temperature": {
+    "107.0": [
+      {
+        "Original_Name_In_Paper": "La0.93Na0.07MnO3",
+        "Property": "Conductivity",
+        "Value": 999999999.9999999,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2009.11.012"
+      }
+    ]
+  }
+}

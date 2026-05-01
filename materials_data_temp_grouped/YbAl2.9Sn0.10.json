@@ -1,0 +1,18 @@
+{
+  "Material": "YbAl2.9Sn0.10",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2014.02.112"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "YbAl2.9Sn0.10",
+        "Property": "PF",
+        "Value": 0.013300000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.02.112"
+      }
+    ]
+  }
+}

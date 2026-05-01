@@ -1,0 +1,18 @@
+{
+  "Material": "KBaAlSi37",
+  "DOIs_Researched": [
+    "10.1016/j.rser.2018.10.006"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "K6.5Ba1.5Al9Si37",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rser.2018.10.006"
+      }
+    ]
+  }
+}

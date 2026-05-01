@@ -1,0 +1,34 @@
+{
+  "Material": "potassium-doped n-type fullerenes",
+  "DOIs_Researched": [
+    "10.1039/c5tc01644d"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "potassium-doped n-type fullerenes",
+        "Property": "Seebeck",
+        "Value": -2.2e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01644d"
+      },
+      {
+        "Original_Name_In_Paper": "potassium-doped n-type fullerenes",
+        "Property": "PF",
+        "Value": 2.6e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01644d"
+      },
+      {
+        "Original_Name_In_Paper": "potassium-doped n-type fullerenes",
+        "Property": "Conductivity",
+        "Value": 55000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01644d"
+      }
+    ]
+  }
+}

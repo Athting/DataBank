@@ -1,0 +1,150 @@
+{
+  "Material": "ZnAlGaO",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2016.08.139",
+    "10.1016/j.enconman.2016.02.001",
+    "10.1039/c2jm31763j",
+    "10.1039/c2ee22622g",
+    "10.1007/s10853-020-04949-0",
+    "10.1016/j.jallcom.2012.10.160",
+    "10.1016/j.matchemphys.2016.02.069",
+    "10.1039/c2ee21274a",
+    "10.1016/j.jallcom.2010.03.201",
+    "10.1016/j.physb.2019.04.019",
+    "10.1016/j.pmatsci.2013.06.003",
+    "10.1016/j.actamat.2018.02.063",
+    "10.1016/j.jallcom.2020.156124",
+    "10.1016/B978-1-78242-245-7.00014-2",
+    "10.1016/j.apsusc.2016.10.209"
+  ],
+  "Data_By_Temperature": {
+    "1247.0": [
+      {
+        "Original_Name_In_Paper": "Zn0.96Al0.02Ga0.02O",
+        "Property": "ThermCond",
+        "Value": 5.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2016.02.069"
+      },
+      {
+        "Original_Name_In_Paper": "Zn0.96Al0.02Ga0.02O",
+        "Property": "ZT",
+        "Value": 0.65,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2jm31763j"
+      },
+      {
+        "Original_Name_In_Paper": "doped Zn0.96Al0.02Ga0.02O",
+        "Property": "ZT",
+        "Value": 0.65,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2ee21274a"
+      },
+      {
+        "Original_Name_In_Paper": "Zn0.96Al0.02Ga0.02O",
+        "Property": "ZT",
+        "Value": 0.65,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2019.04.019"
+      },
+      {
+        "Original_Name_In_Paper": "Zn0.96Al0.02Ga0.02O",
+        "Property": "ZT",
+        "Value": 0.65,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2016.08.139"
+      },
+      {
+        "Original_Name_In_Paper": "Zn0.96Al0.02Ga0.02O",
+        "Property": "ZT",
+        "Value": 0.65,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.156124"
+      },
+      {
+        "Original_Name_In_Paper": "Zn0.96Al0.02Ga0.02O",
+        "Property": "ZT",
+        "Value": 0.65,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2016.10.209"
+      },
+      {
+        "Original_Name_In_Paper": "doped Zn0.96Al0.02Ga0.02O",
+        "Property": "ZT",
+        "Value": 0.65,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.03.201"
+      }
+    ],
+    "1118.0": [
+      {
+        "Original_Name_In_Paper": "Zn0.96Al0.02Ga0.02O",
+        "Property": "ThermCond",
+        "Value": 5.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2012.10.160"
+      },
+      {
+        "Original_Name_In_Paper": "Zn0.96Al0.02Ga0.02O",
+        "Property": "ThermCond",
+        "Value": 5.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2ee22622g"
+      }
+    ],
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "Zn0.96Al0.02Ga0.02O",
+        "Property": "ZT",
+        "Value": 0.47000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2013.06.003"
+      },
+      {
+        "Original_Name_In_Paper": "Zn0.96Al0.02Ga0.02O",
+        "Property": "ZT",
+        "Value": 0.47000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      }
+    ],
+    "1273.0": [
+      {
+        "Original_Name_In_Paper": "Zn0.96Al0.02Ga0.02O",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": "By doping with Al",
+        "Source_DOI": "10.1016/B978-1-78242-245-7.00014-2"
+      },
+      {
+        "Original_Name_In_Paper": "Zn0.96Al0.02Ga0.02O",
+        "Property": "ZT",
+        "Value": 0.65,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.enconman.2016.02.001"
+      },
+      {
+        "Original_Name_In_Paper": "Zn0.96Al0.02Ga0.02O",
+        "Property": "ZT",
+        "Value": 0.65,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2018.02.063"
+      }
+    ]
+  }
+}

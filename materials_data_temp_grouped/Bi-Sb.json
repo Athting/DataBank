@@ -1,0 +1,28 @@
+{
+  "Material": "Bi-Sb",
+  "DOIs_Researched": [
+    "10.1016/S0022-0248(99)00587-4"
+  ],
+  "Data_By_Temperature": {
+    "165.0": [
+      {
+        "Original_Name_In_Paper": "Bi\u2013Sb alloys with Sb",
+        "Property": "ZT",
+        "Value": 0.0001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0022-0248(99)00587-4"
+      }
+    ],
+    "100.0": [
+      {
+        "Original_Name_In_Paper": "Bi\u2013Sb alloys single crystals with Sb",
+        "Property": "ZT",
+        "Value": 0.0001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0022-0248(99)00587-4"
+      }
+    ]
+  }
+}

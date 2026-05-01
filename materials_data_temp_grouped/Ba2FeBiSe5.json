@@ -1,0 +1,18 @@
+{
+  "Material": "Ba2FeBiSe5",
+  "DOIs_Researched": [
+    "10.1016/j.matchemphys.2017.09.060"
+  ],
+  "Data_By_Temperature": {
+    "30.0": [
+      {
+        "Original_Name_In_Paper": "Ba2FeBiSe5",
+        "Property": "ThermCond",
+        "Value": 2.6,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2017.09.060"
+      }
+    ]
+  }
+}

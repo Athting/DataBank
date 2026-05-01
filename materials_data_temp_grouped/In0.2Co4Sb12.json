@@ -1,0 +1,51 @@
+{
+  "Material": "In0.2Co4Sb12",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2013.11.204",
+    "10.1557/jmr.2011.102",
+    "10.1007/s10853-020-04952-5",
+    "10.1016/j.materresbull.2011.08.058"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "In0.2Co4Sb12",
+        "Property": "ZT",
+        "Value": 1.05,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.11.204"
+      }
+    ],
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "In0.2Co4Sb12",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04952-5"
+      }
+    ],
+    "650.0": [
+      {
+        "Original_Name_In_Paper": "In0.2Co4Sb12",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2011.08.058"
+      }
+    ],
+    "350.0": [
+      {
+        "Original_Name_In_Paper": "In0.2Co4Sb12",
+        "Property": "Conductivity",
+        "Value": 95000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1557/jmr.2011.102"
+      }
+    ]
+  }
+}

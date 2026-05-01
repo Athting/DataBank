@@ -1,0 +1,18 @@
+{
+  "Material": "Ba8Au16P30",
+  "DOIs_Researched": [
+    "10.1039/c5tc01721a"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ba8Au16P30",
+        "Property": "ThermCond",
+        "Value": 0.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01721a"
+      }
+    ]
+  }
+}

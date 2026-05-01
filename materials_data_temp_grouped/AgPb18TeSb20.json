@@ -1,0 +1,18 @@
+{
+  "Material": "AgPb18TeSb20",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2010.07.121"
+  ],
+  "Data_By_Temperature": {
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "AgPb18TeSb20",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.07.121"
+      }
+    ]
+  }
+}

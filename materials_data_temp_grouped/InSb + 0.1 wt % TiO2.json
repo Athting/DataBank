@@ -1,0 +1,26 @@
+{
+  "Material": "InSb + 0.1 wt % TiO2",
+  "DOIs_Researched": [
+    "10.1039/c8ta04876b"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "InSb + 0.1 wt % TiO2",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta04876b"
+      },
+      {
+        "Original_Name_In_Paper": "InSb + 0.1 wt % TiO2",
+        "Property": "ZT",
+        "Value": 1.05,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta04876b"
+      }
+    ]
+  }
+}

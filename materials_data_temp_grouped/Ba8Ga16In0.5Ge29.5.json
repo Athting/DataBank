@@ -1,0 +1,18 @@
+{
+  "Material": "Ba8Ga16In0.5Ge29.5",
+  "DOIs_Researched": [
+    "10.1016/j.jmat.2017.11.001"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Ba8Ga16In0.5Ge29.5",
+        "Property": "Seebeck",
+        "Value": -0.00024009999999999998,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2017.11.001"
+      }
+    ]
+  }
+}

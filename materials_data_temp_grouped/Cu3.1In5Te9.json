@@ -1,0 +1,18 @@
+{
+  "Material": "Cu3.1In5Te9",
+  "DOIs_Researched": [
+    "10.1039/d0cp00626b"
+  ],
+  "Data_By_Temperature": {
+    "830.0": [
+      {
+        "Original_Name_In_Paper": "Cu3.1In5Te9",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0cp00626b"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Material": "Na0.03Sn0.97Se0.7S0.3",
+  "DOIs_Researched": [
+    "10.1016/j.jmat.2018.09.001"
+  ],
+  "Data_By_Temperature": {
+    "816.0": [
+      {
+        "Original_Name_In_Paper": "Na0.03Sn0.97Se0.7S0.3",
+        "Property": "ZT",
+        "Value": 1.35,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2018.09.001"
+      },
+      {
+        "Original_Name_In_Paper": "Na0.03Sn0.97Se0.7S0.3",
+        "Property": "ZT",
+        "Value": 1.35,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2018.09.001"
+      }
+    ]
+  }
+}

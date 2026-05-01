@@ -1,0 +1,18 @@
+{
+  "Material": "LaBaCuFeO5",
+  "DOIs_Researched": [
+    "10.1134/S0020168508070157"
+  ],
+  "Data_By_Temperature": {
+    "670.0": [
+      {
+        "Original_Name_In_Paper": "LaBaCu0.9Co0.1FeO5",
+        "Property": "Conductivity",
+        "Value": 9000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1134/S0020168508070157"
+      }
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "Material": "Bi2Te2.8Se0.2",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2020.105186",
+    "10.1016/j.matpr.2019.10.066"
+  ],
+  "Data_By_Temperature": {
+    "473.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Te2.8Se0.2",
+        "Property": "ThermCond",
+        "Value": 0.6000000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.105186"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Te2.8Se0.2",
+        "Property": "Seebeck",
+        "Value": -0.00014000000000000001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.105186"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Te2.8Se0.2",
+        "Property": "Conductivity",
+        "Value": 1041.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.105186"
+      }
+    ],
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Te2.8Se0.2 ( 0.14 wt. % CdCl2",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matpr.2019.10.066"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "n-type Bi2Te2.8Se0.2 ( 0.14 wt. % CdCl2",
+        "Property": "ZT",
+        "Value": 0.14,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matpr.2019.10.066"
+      }
+    ]
+  }
+}

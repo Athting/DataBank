@@ -1,0 +1,18 @@
+{
+  "Material": "PrFeNiSb12",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2012.03.041"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Pr0.1Fe2Ni2Sb12",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2012.03.041"
+      }
+    ]
+  }
+}

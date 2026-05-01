@@ -1,0 +1,18 @@
+{
+  "Material": "Bi2Sr2Co2O8",
+  "DOIs_Researched": [
+    "10.1007/s10853-015-9447-5"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Bi2Sr2Co2O8 / Au composite thin films",
+        "Property": "ZT",
+        "Value": 1.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-015-9447-5"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Material": "CuFeS1.8",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2012.09.067"
+  ],
+  "Data_By_Temperature": {
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "CuFeS1.8",
+        "Property": "ZT",
+        "Value": 0.21,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2012.09.067"
+      },
+      {
+        "Original_Name_In_Paper": "CuFeS1.8",
+        "Property": "ZT",
+        "Value": 0.21,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2012.09.067"
+      }
+    ]
+  }
+}

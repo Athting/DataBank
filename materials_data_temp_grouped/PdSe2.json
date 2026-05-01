@@ -1,0 +1,81 @@
+{
+  "Material": "PdSe2",
+  "DOIs_Researched": [
+    "10.1039/c9ra00586b",
+    "10.1016/j.spmi.2019.106367",
+    "10.1016/j.mtadv.2020.100076",
+    "10.1038/s41598-018-20918-9"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "monolayer PdSe2",
+        "Property": "ThermCond",
+        "Value": 7.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-018-20918-9"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "monolayer PdSe2",
+        "Property": "ThermCond",
+        "Value": 3.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-018-20918-9"
+      },
+      {
+        "Original_Name_In_Paper": "PdSe2 monolayer",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.spmi.2019.106367"
+      },
+      {
+        "Original_Name_In_Paper": "monolayer PdSe2",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-018-20918-9"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "monolayer PdSe2",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtadv.2020.100076"
+      },
+      {
+        "Original_Name_In_Paper": "monolayer PdSe2",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-018-20918-9"
+      },
+      {
+        "Original_Name_In_Paper": "monolayer PdSe2",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-018-20918-9"
+      },
+      {
+        "Original_Name_In_Paper": "monolayer PdSe2",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ra00586b"
+      }
+    ]
+  }
+}

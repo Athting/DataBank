@@ -1,0 +1,26 @@
+{
+  "Material": "RbCdGeAs2",
+  "DOIs_Researched": [
+    "10.1016/j.materresbull.2015.05.044"
+  ],
+  "Data_By_Temperature": {
+    "50.0": [
+      {
+        "Original_Name_In_Paper": "RbCdGeAs2",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2015.05.044"
+      },
+      {
+        "Original_Name_In_Paper": "RbCdGeAs2",
+        "Property": "Seebeck",
+        "Value": 0.000155,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2015.05.044"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Na0.65CoO2",
+  "DOIs_Researched": [
+    "10.1016/j.tsf.2013.08.072"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Na0.65CoO2 films",
+        "Property": "Seebeck",
+        "Value": 5.4999999999999995e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2013.08.072"
+      }
+    ]
+  }
+}

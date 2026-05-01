@@ -1,0 +1,26 @@
+{
+  "Material": "Mn2VAl",
+  "DOIs_Researched": [
+    "10.1016/j.scriptamat.2018.03.018"
+  ],
+  "Data_By_Temperature": {
+    "717.0": [
+      {
+        "Original_Name_In_Paper": "Mn2VAl",
+        "Property": "Seebeck",
+        "Value": 2.6399999999999998e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2018.03.018"
+      },
+      {
+        "Original_Name_In_Paper": "Mn2VAl",
+        "Property": "PF",
+        "Value": 0.00027,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2018.03.018"
+      }
+    ]
+  }
+}

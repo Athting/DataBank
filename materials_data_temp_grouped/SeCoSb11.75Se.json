@@ -1,0 +1,18 @@
+{
+  "Material": "SeCoSb11.75Se",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2019.07.189"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Se0.25Co4Sb11.75Se0.25",
+        "Property": "ThermCond",
+        "Value": 3.1,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.07.189"
+      }
+    ]
+  }
+}

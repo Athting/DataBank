@@ -1,0 +1,55 @@
+{
+  "doi": "10.1016/j.jallcom.2016.04.140",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "pristine Cu1.8Se",
+        "pure Cu1.8Se"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "pristine Cu1.8Se",
+          "zt_value": 0.4,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "pure Cu1.8Se",
+          "zt_value": 0.4,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "pristine Cu1.8Se",
+          "zt_value": 0.4,
+          "temperature": "773.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

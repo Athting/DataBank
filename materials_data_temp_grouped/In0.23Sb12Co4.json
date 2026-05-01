@@ -1,0 +1,18 @@
+{
+  "Material": "In0.23Sb12Co4",
+  "DOIs_Researched": [
+    "10.1016/j.jmat.2016.06.001"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "In0.23Co4Sb12",
+        "Property": "PF",
+        "Value": 0.0038,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2016.06.001"
+      }
+    ]
+  }
+}

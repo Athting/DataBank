@@ -1,0 +1,42 @@
+{
+  "Material": "Mg2.975Li0.025Sb2",
+  "DOIs_Researched": [
+    "10.1007/s10853-018-2555-2"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Mg2.975Li0.025Sb2",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-018-2555-2"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2.975Li0.025Sb2",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-018-2555-2"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2.975Li0.025Sb2",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-018-2555-2"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2.975Li0.025Sb2",
+        "Property": "PF",
+        "Value": 0.0006000000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-018-2555-2"
+      }
+    ]
+  }
+}

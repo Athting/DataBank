@@ -1,0 +1,26 @@
+{
+  "Material": "Bi2Te2.6Se0.4",
+  "DOIs_Researched": [
+    "10.1016/j.jeurceramsoc.2017.04.020"
+  ],
+  "Data_By_Temperature": {
+    "423.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Te2.6Se0.4 compound",
+        "Property": "ZT",
+        "Value": 0.84,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2017.04.020"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Te2.6Se0.4 compound",
+        "Property": "ZT",
+        "Value": 0.84,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2017.04.020"
+      }
+    ]
+  }
+}

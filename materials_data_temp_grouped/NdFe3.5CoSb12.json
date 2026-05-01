@@ -1,0 +1,18 @@
+{
+  "Material": "NdFe3.5CoSb12",
+  "DOIs_Researched": [
+    "10.1007/s11664-015-3967-2"
+  ],
+  "Data_By_Temperature": {
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "Nd0.9Fe3.5Co0.5Sb12",
+        "Property": "ZT",
+        "Value": 0.91,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-015-3967-2"
+      }
+    ]
+  }
+}

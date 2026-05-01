@@ -1,0 +1,67 @@
+{
+  "Material": "SCu",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2003.10.038",
+    "10.1016/j.scriptamat.2012.07.018",
+    "10.1039/c5nr05394c",
+    "10.1039/c8nr06415f",
+    "10.1039/c7cp02229h",
+    "10.1039/d0nr03303k"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "SCu",
+        "Property": "ZT",
+        "Value": 1.6600000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cp02229h"
+      }
+    ],
+    "293.0": [
+      {
+        "Original_Name_In_Paper": "SCu",
+        "Property": "Seebeck",
+        "Value": 1.91e-06,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2012.07.018"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "SCu",
+        "Property": "Seebeck",
+        "Value": 1.85e-06,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5nr05394c"
+      },
+      {
+        "Original_Name_In_Paper": "SCu",
+        "Property": "Seebeck",
+        "Value": 1.94e-06,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0nr03303k"
+      },
+      {
+        "Original_Name_In_Paper": "SCu",
+        "Property": "Seebeck",
+        "Value": 1.85e-06,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8nr06415f"
+      },
+      {
+        "Original_Name_In_Paper": "SCu",
+        "Property": "Seebeck",
+        "Value": 1.83e-06,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2003.10.038"
+      }
+    ]
+  }
+}

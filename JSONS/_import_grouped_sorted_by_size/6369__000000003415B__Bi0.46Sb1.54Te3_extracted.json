@@ -1,0 +1,135 @@
+{
+  "doi": "10.1016/j.materresbull.2020.110924",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Bi0.46Sb1.54Te3",
+        "pure Bi0.46Sb1.54Te3",
+        "Bi0.46Sb1.54Te3 nanostructured with ZnTe",
+        "Bi0.46Sb1.54Te3 / SiC composites"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "pure Bi0.46Sb1.54Te3",
+          "value": 85000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Bi0.46Sb1.54Te3",
+          "value": 0.35000000000000003,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "400.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Bi0.46Sb1.54Te3",
+          "value": 0.0039000000000000003,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi0.46Sb1.54Te3",
+          "value": 0.0039000000000000003,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi0.46Sb1.54Te3",
+          "value": 0.0039000000000000003,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Bi0.46Sb1.54Te3 nanostructured with ZnTe",
+          "zt_value": 1.4,
+          "temperature": "400.0 K"
+        },
+        {
+          "material": "Bi0.46Sb1.54Te3 / SiC composites",
+          "zt_value": 1.45,
+          "temperature": "325.0 K"
+        },
+        {
+          "material": "Bi0.46Sb1.54Te3",
+          "zt_value": 1.18,
+          "temperature": "325.0 K"
+        },
+        {
+          "material": "Bi0.46Sb1.54Te3",
+          "zt_value": 1.45,
+          "temperature": "325.0 K"
+        },
+        {
+          "material": "Bi0.46Sb1.54Te3",
+          "zt_value": 1.45,
+          "temperature": "325.0 K"
+        },
+        {
+          "material": "pure Bi0.46Sb1.54Te3",
+          "zt_value": 1.2,
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "Bi0.46Sb1.54Te3",
+          "zt_value": 1.5,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Bi0.46Sb1.54Te3",
+          "zt_value": 1.2,
+          "temperature": "350.0 K"
+        },
+        {
+          "material": "Bi0.46Sb1.54Te3",
+          "zt_value": 1.2,
+          "temperature": "350.0 K"
+        },
+        {
+          "material": "Bi0.46Sb1.54Te3",
+          "zt_value": 1.18,
+          "temperature": "350.0 K"
+        },
+        {
+          "material": "Bi0.46Sb1.54Te3",
+          "zt_value": 1.18,
+          "temperature": "350.0 K"
+        },
+        {
+          "material": "Bi0.46Sb1.54Te3",
+          "zt_value": 1.18,
+          "temperature": "350.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

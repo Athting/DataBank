@@ -1,0 +1,18 @@
+{
+  "Material": "Ca2Gd7Bi5O5",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2016.04.015"
+  ],
+  "Data_By_Temperature": {
+    "375.0": [
+      {
+        "Original_Name_In_Paper": "Ca2Gd7Bi5O5",
+        "Property": "ThermCond",
+        "Value": 0.01,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2016.04.015"
+      }
+    ]
+  }
+}

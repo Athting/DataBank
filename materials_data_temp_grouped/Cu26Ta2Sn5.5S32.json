@@ -1,0 +1,99 @@
+{
+  "Material": "Cu26Ta2Sn5.5S32",
+  "DOIs_Researched": [
+    "10.1039/c9tc00868c",
+    "10.1039/c7tc00762k"
+  ],
+  "Data_By_Temperature": {
+    "670.0": [
+      {
+        "Original_Name_In_Paper": "Cu26Ta2Sn5.5S32",
+        "Property": "ThermCond",
+        "Value": 0.35000000000000003,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7tc00762k"
+      },
+      {
+        "Original_Name_In_Paper": "Cu26Ta2Sn5.5S32",
+        "Property": "ThermCond",
+        "Value": 0.35000000000000003,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7tc00762k"
+      },
+      {
+        "Original_Name_In_Paper": "Cu26Ta2Sn5.5S32",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc00868c"
+      },
+      {
+        "Original_Name_In_Paper": "Cu26Ta2Sn5.5S32",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7tc00762k"
+      },
+      {
+        "Original_Name_In_Paper": "Cu26Ta2Sn5.5S32",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7tc00762k"
+      },
+      {
+        "Original_Name_In_Paper": "Cu26Ta2Sn5.5S32",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7tc00762k"
+      },
+      {
+        "Original_Name_In_Paper": "Cu26Ta2Sn5.5S32",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7tc00762k"
+      },
+      {
+        "Original_Name_In_Paper": "Cu26Ta2Sn5.5S32",
+        "Property": "PF",
+        "Value": 0.0008,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7tc00762k"
+      },
+      {
+        "Original_Name_In_Paper": "Cu26Ta2Sn5.5S32",
+        "Property": "PF",
+        "Value": 0.0008,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7tc00762k"
+      },
+      {
+        "Original_Name_In_Paper": "Cu26Ta2Sn5.5S32",
+        "Property": "PF",
+        "Value": 0.0008,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7tc00762k"
+      },
+      {
+        "Original_Name_In_Paper": "Cu26Ta2Sn5.5S32",
+        "Property": "PF",
+        "Value": 0.0008,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7tc00762k"
+      }
+    ]
+  }
+}

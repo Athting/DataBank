@@ -1,0 +1,28 @@
+{
+  "Material": "ZrTe5+\u03b4",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2018.06.115"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Te-rich ZrTe5+\u03b4",
+        "Property": "ZT",
+        "Value": 0.037,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.06.115"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "ZrTe5+\u03b4",
+        "Property": "ZT",
+        "Value": 0.037,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.06.115"
+      }
+    ]
+  }
+}

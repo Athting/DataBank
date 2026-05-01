@@ -1,0 +1,18 @@
+{
+  "Material": "FeV0.9Ti0.1Sb",
+  "DOIs_Researched": [
+    "10.1016/S0304-8853(98)00125-5"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "hole-doped FeV0.9Ti0.1Sb",
+        "Property": "Seebeck",
+        "Value": 0.000174,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0304-8853(98)00125-5"
+      }
+    ]
+  }
+}

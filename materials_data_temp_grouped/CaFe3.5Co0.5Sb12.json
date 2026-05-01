@@ -1,0 +1,18 @@
+{
+  "Material": "CaFe3.5Co0.5Sb12",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2015.03.032"
+  ],
+  "Data_By_Temperature": {
+    "733.0": [
+      {
+        "Original_Name_In_Paper": "CaFe3.5Co0.5Sb12",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2015.03.032"
+      }
+    ]
+  }
+}

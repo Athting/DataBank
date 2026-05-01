@@ -1,0 +1,18 @@
+{
+  "Material": "Bi85.6Sb14.4",
+  "DOIs_Researched": [
+    "10.1016/j.jpcs.2006.09.006"
+  ],
+  "Data_By_Temperature": {
+    "80.0": [
+      {
+        "Original_Name_In_Paper": "single crystalline Bi85.6Sb14.4",
+        "Property": "ZT",
+        "Value": 0.0068000000000000005,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2006.09.006"
+      }
+    ]
+  }
+}

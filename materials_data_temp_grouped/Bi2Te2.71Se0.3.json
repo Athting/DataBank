@@ -1,0 +1,54 @@
+{
+  "Material": "Bi2Te2.71Se0.3",
+  "DOIs_Researched": [
+    "10.1007/s10854-020-03057-8"
+  ],
+  "Data_By_Temperature": {
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Te2.71Se0.3",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-020-03057-8"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Te2.71Se0.3",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-020-03057-8"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Te2.71Se0.3",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-020-03057-8"
+      }
+    ],
+    "448.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Te2.71Se0.3",
+        "Property": "ZT",
+        "Value": 0.75,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-020-03057-8"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Te2.71Se0.3",
+        "Property": "PF",
+        "Value": 0.00267,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-020-03057-8"
+      }
+    ]
+  }
+}

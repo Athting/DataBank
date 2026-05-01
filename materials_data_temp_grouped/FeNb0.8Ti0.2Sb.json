@@ -1,0 +1,53 @@
+{
+  "Material": "FeNb0.8Ti0.2Sb",
+  "DOIs_Researched": [
+    "10.1039/c4ee03042g",
+    "10.1016/j.ensm.2017.07.014",
+    "10.1007/s10853-020-04949-0",
+    "10.1039/c5ra23091h"
+  ],
+  "Data_By_Temperature": {
+    "1100.0": [
+      {
+        "Original_Name_In_Paper": "FeNb0.8Ti0.2Sb",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra23091h"
+      },
+      {
+        "Original_Name_In_Paper": "doped FeNb0.8Ti0.2Sb",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ensm.2017.07.014"
+      },
+      {
+        "Original_Name_In_Paper": "FeNb0.8Ti0.2Sb",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ee03042g"
+      },
+      {
+        "Original_Name_In_Paper": "FeNb0.8Ti0.2Sb",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      },
+      {
+        "Original_Name_In_Paper": "p-type FeNb0.8Ti0.2Sb",
+        "Property": "PF",
+        "Value": 0.0045000000000000005,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ee03042g"
+      }
+    ]
+  }
+}

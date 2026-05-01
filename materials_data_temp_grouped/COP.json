@@ -1,0 +1,139 @@
+{
+  "Material": "COP",
+  "DOIs_Researched": [
+    "10.1016/j.desal.2015.04.013",
+    "10.1016/j.applthermaleng.2014.01.074",
+    "10.1016/B978-044452190-3.00050-1",
+    "10.1016/j.apenergy.2014.12.075",
+    "10.1016/B978-0-12-803581-8.00568-3",
+    "10.1016/j.fueleneab.2016.06.002",
+    "10.1016/j.ijthermalsci.2015.06.004",
+    "10.1016/j.enbuild.2015.05.029",
+    "10.1016/j.enconman.2014.07.051",
+    "10.1016/j.enbuild.2014.10.053",
+    "10.1016/j.cryogenics.2016.04.012",
+    "10.1039/c6nr02436j"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "COP",
+        "Property": "ZT",
+        "Value": 2.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.enconman.2014.07.051"
+      },
+      {
+        "Original_Name_In_Paper": "COP",
+        "Property": "ZT",
+        "Value": 2.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.enbuild.2014.10.053"
+      },
+      {
+        "Original_Name_In_Paper": "COP",
+        "Property": "ZT",
+        "Value": 2.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.enbuild.2015.05.029"
+      }
+    ],
+    "293.0": [
+      {
+        "Original_Name_In_Paper": "COP",
+        "Property": "ZT",
+        "Value": 1.77,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.applthermaleng.2014.01.074"
+      },
+      {
+        "Original_Name_In_Paper": "COP",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.fueleneab.2016.06.002"
+      },
+      {
+        "Original_Name_In_Paper": "COP",
+        "Property": "ZT",
+        "Value": 2.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.fueleneab.2016.06.002"
+      }
+    ],
+    "313.0": [
+      {
+        "Original_Name_In_Paper": "COP",
+        "Property": "ZT",
+        "Value": 2.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apenergy.2014.12.075"
+      }
+    ],
+    "230.0": [
+      {
+        "Original_Name_In_Paper": "COP",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cryogenics.2016.04.012"
+      }
+    ],
+    "338.0": [
+      {
+        "Original_Name_In_Paper": "COP",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ijthermalsci.2015.06.004"
+      }
+    ],
+    "353.0": [
+      {
+        "Original_Name_In_Paper": "COP",
+        "Property": "ZT",
+        "Value": 2.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-044452190-3.00050-1"
+      },
+      {
+        "Original_Name_In_Paper": "COP",
+        "Property": "ZT",
+        "Value": 2.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-12-803581-8.00568-3"
+      }
+    ],
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "COP",
+        "Property": "ZT",
+        "Value": 0.13,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6nr02436j"
+      }
+    ],
+    "343.0": [
+      {
+        "Original_Name_In_Paper": "COP",
+        "Property": "Conductivity",
+        "Value": 0.001,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.desal.2015.04.013"
+      }
+    ]
+  }
+}

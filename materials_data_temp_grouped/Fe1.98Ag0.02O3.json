@@ -1,0 +1,44 @@
+{
+  "Material": "Fe1.98Ag0.02O3",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2018.05.132"
+  ],
+  "Data_By_Temperature": {
+    "453.0": [
+      {
+        "Original_Name_In_Paper": "Fe1.98Ag0.02O3",
+        "Property": "PF",
+        "Value": 6.4e-06,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.05.132"
+      },
+      {
+        "Original_Name_In_Paper": "Fe1.98Ag0.02O3",
+        "Property": "PF",
+        "Value": 6.4e-06,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.05.132"
+      }
+    ],
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "Fe1.98Ag0.02O3",
+        "Property": "PF",
+        "Value": 6.4e-06,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.05.132"
+      },
+      {
+        "Original_Name_In_Paper": "Fe1.98Ag0.02O3",
+        "Property": "Conductivity",
+        "Value": 27.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.05.132"
+      }
+    ]
+  }
+}

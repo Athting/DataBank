@@ -1,0 +1,18 @@
+{
+  "Material": "(NH4)InAs2O7",
+  "DOIs_Researched": [
+    "10.1016/S0925-8388(06)00939-X"
+  ],
+  "Data_By_Temperature": {
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "( NH 4 )InAs 2 O 7",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(06)00939-X"
+      }
+    ]
+  }
+}

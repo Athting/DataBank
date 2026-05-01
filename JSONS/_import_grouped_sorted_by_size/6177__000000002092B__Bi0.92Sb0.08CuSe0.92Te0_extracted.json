@@ -1,0 +1,82 @@
+{
+  "doi": "10.1016/j.jssc.2018.06.011",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Bi0.92Sb0.08CuSe0.92Te0.08O",
+        "Bi0.92Sb0.08CuSe0.92Te0.08O bulk"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "Bi0.92Sb0.08CuSe0.92Te0.08O",
+          "value": 44700,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Bi0.92Sb0.08CuSe0.92Te0.08O",
+          "value": 0.00072,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Bi0.92Sb0.08CuSe0.92Te0.08O",
+          "value": 0.0006900000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Bi0.92Sb0.08CuSe0.92Te0.08O",
+          "value": 0.00072,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Bi0.92Sb0.08CuSe0.92Te0.08O bulk",
+          "value": 0.00072,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "873.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Bi0.92Sb0.08CuSe0.92Te0.08O",
+          "zt_value": 1.19,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Bi0.92Sb0.08CuSe0.92Te0.08O bulk",
+          "zt_value": 1.19,
+          "temperature": "873.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Mg3.17Y0.03Sb2",
+  "DOIs_Researched": [
+    "10.1016/j.jmat.2019.12.007"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Mg3.17Y0.03Sb2",
+        "Property": "ZT",
+        "Value": 0.8300000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2019.12.007"
+      }
+    ]
+  }
+}

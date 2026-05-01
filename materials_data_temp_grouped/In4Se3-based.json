@@ -1,0 +1,27 @@
+{
+  "Material": "In4Se3-based",
+  "DOIs_Researched": [
+    "10.1016/j.scriptamat.2010.11.026",
+    "10.1016/j.intermet.2015.01.009"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "In4Se3-based",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2015.01.009"
+      },
+      {
+        "Original_Name_In_Paper": "In4Se3-based",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2010.11.026"
+      }
+    ]
+  }
+}

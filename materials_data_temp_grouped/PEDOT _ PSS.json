@@ -1,0 +1,29 @@
+{
+  "Material": "PEDOT / PSS",
+  "DOIs_Researched": [
+    "10.1016/j.synthmet.2013.09.013",
+    "10.1016/j.synthmet.2010.09.031"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "PEDOT / PSS",
+        "Property": "ThermCond",
+        "Value": 0.04,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.synthmet.2013.09.013"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "PEDOT / PSS",
+        "Property": "Conductivity",
+        "Value": 30000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.synthmet.2010.09.031"
+      }
+    ]
+  }
+}

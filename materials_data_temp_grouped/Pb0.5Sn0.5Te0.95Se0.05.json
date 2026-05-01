@@ -1,0 +1,39 @@
+{
+  "Material": "Pb0.5Sn0.5Te0.95Se0.05",
+  "DOIs_Researched": [
+    "10.1039/c8ta00381e",
+    "10.1007/s13391-019-00130-1"
+  ],
+  "Data_By_Temperature": {
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "Pb0.5Sn0.5Te0.95Se0.05 compound",
+        "Property": "ZT",
+        "Value": 0.91,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s13391-019-00130-1"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Pb0.5Sn0.5Te0.95Se0.05 compound",
+        "Property": "ZT",
+        "Value": 1.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta00381e"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "non-doped Pb0.5Sn0.5Te0.95Se0.05 compound",
+        "Property": "PF",
+        "Value": 0.001064,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s13391-019-00130-1"
+      }
+    ]
+  }
+}

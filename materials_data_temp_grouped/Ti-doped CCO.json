@@ -1,0 +1,18 @@
+{
+  "Material": "Ti-doped CCO",
+  "DOIs_Researched": [
+    "10.1007/s40145-020-0413-6"
+  ],
+  "Data_By_Temperature": {
+    "957.0": [
+      {
+        "Original_Name_In_Paper": "Ti-doped CCO",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s40145-020-0413-6"
+      }
+    ]
+  }
+}

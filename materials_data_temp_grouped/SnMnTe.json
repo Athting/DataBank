@@ -1,0 +1,129 @@
+{
+  "Material": "SnMnTe",
+  "DOIs_Researched": [
+    "10.1039/c5ta05535k",
+    "10.1016/j.matdes.2016.06.084"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "SnMn0.07Te",
+        "Property": "ThermCond",
+        "Value": 4.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta05535k"
+      },
+      {
+        "Original_Name_In_Paper": "SnMn0.03Te",
+        "Property": "Seebeck",
+        "Value": 3.5e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta05535k"
+      },
+      {
+        "Original_Name_In_Paper": "SnMn0.07Te",
+        "Property": "Seebeck",
+        "Value": 5e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta05535k"
+      },
+      {
+        "Original_Name_In_Paper": "SnMn0.07Te",
+        "Property": "PF",
+        "Value": 0.0005,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta05535k"
+      },
+      {
+        "Original_Name_In_Paper": "SnMn0.07Te",
+        "Property": "Conductivity",
+        "Value": 200000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta05535k"
+      }
+    ],
+    "920.0": [
+      {
+        "Original_Name_In_Paper": "SnMn0.07Te",
+        "Property": "ZT",
+        "Value": 1.25,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta05535k"
+      },
+      {
+        "Original_Name_In_Paper": "SnMn0.07Te",
+        "Property": "ZT",
+        "Value": 1.25,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta05535k"
+      },
+      {
+        "Original_Name_In_Paper": "SnMn0.07Te",
+        "Property": "Seebeck",
+        "Value": 0.00027,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta05535k"
+      }
+    ],
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.9Mn0.11Te alloy",
+        "Property": "ZT",
+        "Value": 1.22,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matdes.2016.06.084"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.9Mn0.11Te alloy",
+        "Property": "ZT",
+        "Value": 1.22,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matdes.2016.06.084"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.9Mn0.11Te alloy",
+        "Property": "ZT",
+        "Value": 1.22,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matdes.2016.06.084"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.9Mn0.11Te alloy",
+        "Property": "ZT",
+        "Value": 1.22,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matdes.2016.06.084"
+      }
+    ],
+    "820.0": [
+      {
+        "Original_Name_In_Paper": "SnMn0.07Te",
+        "Property": "Seebeck",
+        "Value": 0.000225,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta05535k"
+      },
+      {
+        "Original_Name_In_Paper": "SnMn0.01Te",
+        "Property": "PF",
+        "Value": 0.00319,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta05535k"
+      }
+    ]
+  }
+}

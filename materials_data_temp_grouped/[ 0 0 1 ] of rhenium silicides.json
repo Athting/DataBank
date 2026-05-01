@@ -1,0 +1,18 @@
+{
+  "Material": "[ 0 0 1 ] of rhenium silicides",
+  "DOIs_Researched": [
+    "10.1016/j.physb.2006.07.018"
+  ],
+  "Data_By_Temperature": {
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "[ 0 0 1 ] of rhenium silicides",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2006.07.018"
+      }
+    ]
+  }
+}

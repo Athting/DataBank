@@ -1,0 +1,18 @@
+{
+  "Material": "Eu2Pb2Bi6Se",
+  "DOIs_Researched": [
+    "10.1016/S0080-8784(01)80149-6"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Eu2Pb2Bi6Se",
+        "Property": "Conductivity",
+        "Value": 40000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0080-8784(01)80149-6"
+      }
+    ]
+  }
+}

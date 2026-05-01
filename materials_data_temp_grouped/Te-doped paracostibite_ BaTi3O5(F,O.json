@@ -1,0 +1,18 @@
+{
+  "Material": "Te-doped paracostibite: BaTi3O5(F,O",
+  "DOIs_Researched": [
+    "10.1039/c9tc04840e"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Te-doped paracostibite",
+        "Property": "ZT",
+        "Value": 0.45,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc04840e"
+      }
+    ]
+  }
+}

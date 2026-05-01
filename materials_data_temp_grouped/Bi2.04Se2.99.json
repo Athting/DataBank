@@ -1,0 +1,18 @@
+{
+  "Material": "Bi2.04Se2.99",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2016.04.306"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Bi2.04Se2.99 compound",
+        "Property": "ZT",
+        "Value": 0.12,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.04.306"
+      }
+    ]
+  }
+}

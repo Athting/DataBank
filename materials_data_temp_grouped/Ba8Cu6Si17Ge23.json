@@ -1,0 +1,29 @@
+{
+  "Material": "Ba8Cu6Si17Ge23",
+  "DOIs_Researched": [
+    "10.1557/mrc.2018.242",
+    "10.1007/s11664-011-1897-1"
+  ],
+  "Data_By_Temperature": {
+    "520.0": [
+      {
+        "Original_Name_In_Paper": "Ba8Cu6Si17Ge23",
+        "Property": "ZT",
+        "Value": 0.31,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-011-1897-1"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "nanowire Ba8Cu6Si17Ge23",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1557/mrc.2018.242"
+      }
+    ]
+  }
+}

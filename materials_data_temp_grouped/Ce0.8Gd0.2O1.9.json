@@ -1,0 +1,29 @@
+{
+  "Material": "Ce0.8Gd0.2O1.9",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2009.02.023",
+    "10.1016/j.pmatsci.2015.01.001"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Ce0.8Gd0.2O1.9(CGO20)",
+        "Property": "Conductivity",
+        "Value": 0.53,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2015.01.001"
+      }
+    ],
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "Ce0.8Gd0.2O1.9",
+        "Property": "Conductivity",
+        "Value": 4.5,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2009.02.023"
+      }
+    ]
+  }
+}

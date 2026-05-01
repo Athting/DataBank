@@ -1,0 +1,18 @@
+{
+  "Material": "Bi:SnSe",
+  "DOIs_Researched": [
+    "10.1016/j.pmatsci.2018.04.005"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "n-type Bi-doped single crystal SnSe",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2018.04.005"
+      }
+    ]
+  }
+}

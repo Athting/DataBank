@@ -1,0 +1,26 @@
+{
+  "Material": "Dy2Ti2O7",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2017.02.146"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Dy2Ti2O7",
+        "Property": "ThermCond",
+        "Value": 1.92,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": "Dy substitution",
+        "Source_DOI": "10.1016/j.jallcom.2017.02.146"
+      },
+      {
+        "Original_Name_In_Paper": "Dy2Ti2O7",
+        "Property": "ThermCond",
+        "Value": 1.92,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.02.146"
+      }
+    ]
+  }
+}

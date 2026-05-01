@@ -1,0 +1,18 @@
+{
+  "Material": "Bi0.5Sb1.5Te3-xSex",
+  "DOIs_Researched": [
+    "10.1007/s12598-018-1005-2"
+  ],
+  "Data_By_Temperature": {
+    "350.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3-xSex + 3 wt %",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s12598-018-1005-2"
+      }
+    ]
+  }
+}

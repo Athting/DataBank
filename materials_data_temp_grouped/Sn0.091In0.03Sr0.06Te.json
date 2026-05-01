@@ -1,0 +1,18 @@
+{
+  "Material": "Sn0.091In0.03Sr0.06Te",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2019.104056"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Sn0.091In0.03Sr0.06Te",
+        "Property": "Conductivity",
+        "Value": 245900.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2019.104056"
+      }
+    ]
+  }
+}

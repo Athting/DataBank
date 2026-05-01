@@ -1,0 +1,43 @@
+{
+  "Material": "PEDOT:H2C(SO2)3",
+  "DOIs_Researched": [
+    "10.1016/j.orgel.2020.105682",
+    "10.1039/c9ra07648d"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "PEDOT : tosylate",
+        "Property": "ZT",
+        "Value": 0.25,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ra07648d"
+      },
+      {
+        "Original_Name_In_Paper": "PEDOT : tosylate",
+        "Property": "ZT",
+        "Value": 0.25,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.orgel.2020.105682"
+      },
+      {
+        "Original_Name_In_Paper": "PEDOT : tosylate",
+        "Property": "PF",
+        "Value": 0.00032399999999999996,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ra07648d"
+      },
+      {
+        "Original_Name_In_Paper": "PEDOT : tosylate",
+        "Property": "PF",
+        "Value": 0.00032399999999999996,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.orgel.2020.105682"
+      }
+    ]
+  }
+}

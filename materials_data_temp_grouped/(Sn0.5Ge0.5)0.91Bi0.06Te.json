@@ -1,0 +1,26 @@
+{
+  "Material": "(Sn0.5Ge0.5)0.91Bi0.06Te",
+  "DOIs_Researched": [
+    "10.1039/d0dt00544d"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "(Sn0.5Ge0.5)0.91Bi0.06Te(Cu2Te)0.05",
+        "Property": "ZT",
+        "Value": 0.99,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0dt00544d"
+      },
+      {
+        "Original_Name_In_Paper": "(Sn0.5Ge0.5)0.91Bi0.06Te(Cu2Te)0.05",
+        "Property": "ZT",
+        "Value": 0.99,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0dt00544d"
+      }
+    ]
+  }
+}

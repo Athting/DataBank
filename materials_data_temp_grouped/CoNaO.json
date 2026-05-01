@@ -1,0 +1,26 @@
+{
+  "Material": "CoNaO",
+  "DOIs_Researched": [
+    "10.1016/j.jeurceramsoc.2018.10.013"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "Co0.95Na0.05O",
+        "Property": "ZT",
+        "Value": 0.07,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2018.10.013"
+      },
+      {
+        "Original_Name_In_Paper": "Co0.95Na0.05O",
+        "Property": "ZT",
+        "Value": 0.07,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2018.10.013"
+      }
+    ]
+  }
+}

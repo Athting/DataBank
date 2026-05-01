@@ -1,0 +1,79 @@
+{
+  "Material": "SrS",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2013.09.039",
+    "10.1016/j.ssc.2019.113755"
+  ],
+  "Data_By_Temperature": {
+    "835.0": [
+      {
+        "Original_Name_In_Paper": "Sr(S)",
+        "Property": "ThermCond",
+        "Value": 2.9,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2013.09.039"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "SrS",
+        "Property": "ThermCond",
+        "Value": 10.7,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2019.113755"
+      },
+      {
+        "Original_Name_In_Paper": "SrS",
+        "Property": "ThermCond",
+        "Value": 10.7,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2019.113755"
+      },
+      {
+        "Original_Name_In_Paper": "SrS",
+        "Property": "ThermCond",
+        "Value": 10.7,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2019.113755"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "SrS",
+        "Property": "Seebeck",
+        "Value": 0.001121,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2019.113755"
+      },
+      {
+        "Original_Name_In_Paper": "SrS",
+        "Property": "Seebeck",
+        "Value": 0.0010249999999999999,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2019.113755"
+      },
+      {
+        "Original_Name_In_Paper": "SrS",
+        "Property": "PF",
+        "Value": 0.007200000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2019.113755"
+      },
+      {
+        "Original_Name_In_Paper": "SrS",
+        "Property": "PF",
+        "Value": 0.0045000000000000005,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2019.113755"
+      }
+    ]
+  }
+}

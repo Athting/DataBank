@@ -1,0 +1,195 @@
+{
+  "doi": "10.1016/j.mssp.2020.105304",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Pure Ca2Co2O5",
+        "Ca2Co2O5",
+        "pure Ca2Co2O5",
+        "Bi doped Ca2Co2O5 based",
+        "textured Ca2Co2O5"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "Ca2Co2O5",
+          "value": 0.000178,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "983.0 K"
+        },
+        {
+          "material": "pure Ca2Co2O5",
+          "value": 0.000183,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Ca2Co2O5",
+          "value": 0.00018199999999999998,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "Ca2Co2O5",
+          "value": 0.000133,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "305.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "Pure Ca2Co2O5",
+          "value": 7945,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Ca2Co2O5",
+          "value": 100000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "983.0 K"
+        },
+        {
+          "material": "pure Ca2Co2O5",
+          "value": 100000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Ca2Co2O5",
+          "value": 14240,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "pure Ca2Co2O5",
+          "value": 10900,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Ca2Co2O5",
+          "value": 0.0000970874,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "textured Ca2Co2O5",
+          "value": 0.0000925926,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "Ca2Co2O5",
+          "value": 0.0016666667,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "Ca2Co2O5",
+          "value": 7030,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "963.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Ca2Co2O5",
+          "value": 1.55,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "983.0 K"
+        },
+        {
+          "material": "pure Ca2Co2O5",
+          "value": 1.16,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "973.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "pure Ca2Co2O5",
+          "value": 0.00032,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "pure Ca2Co2O5",
+          "value": 0.000354,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Ca2Co2O5",
+          "value": 0.000124,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "862.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Ca2Co2O5",
+          "zt_value": 0.21,
+          "temperature": "983.0 K"
+        },
+        {
+          "material": "Bi doped Ca2Co2O5 based",
+          "zt_value": 1.2,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Ca2Co2O5",
+          "zt_value": 1.2,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Ca2Co2O5",
+          "zt_value": 1.2,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Ca2Co2O5",
+          "zt_value": 0.266,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "pure Ca2Co2O5",
+          "zt_value": 0.266,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "pure Ca2Co2O5",
+          "zt_value": 0.266,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Ca2Co2O5",
+          "zt_value": 1.2,
+          "temperature": "600.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

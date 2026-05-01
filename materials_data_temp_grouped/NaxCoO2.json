@@ -1,0 +1,38 @@
+{
+  "Material": "NaxCoO2",
+  "DOIs_Researched": [
+    "10.1016/j.matchemphys.2019.121983",
+    "10.1016/j.ceramint.2017.09.123",
+    "10.1039/c6ra19448f"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "NaxCoO2 cobaltates",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra19448f"
+      },
+      {
+        "Original_Name_In_Paper": "NaxCoO2 cobaltates",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2019.121983"
+      }
+    ],
+    "398.0": [
+      {
+        "Original_Name_In_Paper": "0.25 wt % MWCNTs / NaxCoO2",
+        "Property": "PF",
+        "Value": 5.5e-07,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2017.09.123"
+      }
+    ]
+  }
+}

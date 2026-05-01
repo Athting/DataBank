@@ -1,0 +1,1394 @@
+{
+  "doi": "10.1038/am.2015.91",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "I-doped polycrystalline Cu2Se",
+        "Cu2Se",
+        "pristine Cu2Se",
+        "Cu2Se polycrystals",
+        "Cu2Se_Nano_l",
+        "Cu2Se_Nano_nl",
+        "monoclinic Cu2Se",
+        "copper selenide ( Cu2Se )",
+        "iodine-doped Cu2Se",
+        "α-Cu2Se",
+        "Cu2Se-based material",
+        "Cu2Se film",
+        "Cu2Se powder",
+        "Cu2Se nanoplates",
+        "Cu2Se pellets",
+        "Cu2Se compound",
+        "Cu2Se matrix",
+        "nano-structured Cu2Se",
+        "Cu2Se nanostructures",
+        "doped Cu2Se",
+        "carbon incorporated Cu2Se composites",
+        "bulk Cu2Se",
+        "β-Cu2Se",
+        "Cu2Se nanopowder",
+        "nanostructured Cu2Se",
+        "Cu2Se nanopowders",
+        "Cu2Se + 0.8 wt % CDs",
+        "nanostructuring Cu2Se",
+        "copper selenide ( Cu2Se ) polycrystals",
+        "bulk β-Cu2Se",
+        "Cu2Se / CNT composite",
+        "pure Cu2Se",
+        "Cu2Se / CNT composites",
+        "Cu2Se / CNTs composite",
+        "Cu2Se / CNT",
+        "polycrystalline Cu2Se",
+        "Cu2Se / carbon nanotube",
+        "Bulk Cu2Se",
+        "Nanoporous Cu2Se",
+        "Cu2Se materials",
+        "Cu2Se-based materials",
+        "Cu2Se pellet",
+        "I-doped Cu2Se pellets",
+        "n-type Cu2Se",
+        "Cu2Se with 10 % Cu2Te",
+        "Cu2Se bulks",
+        "porous Cu2Se",
+        "Cu2Se bulk",
+        "SiC-free Cu2Se",
+        "Cu2Se1.15 bulk",
+        "Cu2Se-NM",
+        "Cu2Se-20 vol %",
+        "(Cu2Se)0.9925",
+        "Cu2Se 22.5 vol %",
+        "Cu2Se-22.5 vol %",
+        "nanophase Cu2Se",
+        "0.42 wt % boron doped Cu2Se",
+        "Cu2Se / PVDF composite films",
+        "Cu2Se thin film",
+        "Cu2Se thin films",
+        "Cu2-ySe"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "Cu2Se",
+          "value": 0.0001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Cu2Se",
+          "value": 0.00012000000000000002,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Cu2Se",
+          "value": 0.000035,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "bulk Cu2Se",
+          "value": 0.000296,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "copper selenide ( Cu2Se ) polycrystals",
+          "value": 0.00030000000000000003,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "value": 0.000278,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Cu2Se1.15 bulk",
+          "value": 0.000245,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "623.0 K"
+        },
+        {
+          "material": "0.42 wt % boron doped Cu2Se",
+          "value": 0.000245,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "852.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "Cu2Se",
+          "value": 117647.0588235294,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Cu2Se",
+          "value": 1000000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Cu2Se powder",
+          "value": 260000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Cu2Se",
+          "value": 100000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Cu2Se_Nano_nl",
+          "value": 17000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "Cu2Se_Nano_nl",
+          "value": 15000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "pristine Cu2Se",
+          "value": 37200,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "325.0 K"
+        },
+        {
+          "material": "Cu2Se-22.5 vol %",
+          "value": 6540,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "value": 89047.1950133571,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "1273.0 K"
+        },
+        {
+          "material": "0.42 wt % boron doped Cu2Se",
+          "value": 20700,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "852.0 K"
+        },
+        {
+          "material": "Cu2-ySe",
+          "value": 100,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "420.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "value": 18700,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "338.0 K"
+        },
+        {
+          "material": "Cu2Se1.15 bulk",
+          "value": 93100,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "423.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "I-doped polycrystalline Cu2Se",
+          "value": 0.8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "I-doped polycrystalline Cu2Se",
+          "value": 0.8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Cu2Se",
+          "value": 1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine Cu2Se",
+          "value": 1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Cu2Se polycrystals",
+          "value": 0.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Cu2Se",
+          "value": 0.98,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Cu2Se_Nano_l",
+          "value": 0.75,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Cu2Se_Nano_nl",
+          "value": 0.67,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine Cu2Se",
+          "value": 0.9,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Cu2Se",
+          "value": 0.38,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "α-Cu2Se",
+          "value": 0.27,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "value": 0.68,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "value": 0.28,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "value": 0.30000000000000004,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Cu2Se nanoplates",
+          "value": 0.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "value": 0.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "Cu2Se nanoplates",
+          "value": 0.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "Cu2Se pellets",
+          "value": 0.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "β-Cu2Se",
+          "value": 0.59,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "352.0 K"
+        },
+        {
+          "material": "Cu2Se nanopowder",
+          "value": 0.38,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "nanostructured Cu2Se",
+          "value": 0.38,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "value": 0.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "Cu2Se + 0.8 wt % CDs",
+          "value": 0.45,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "nanostructured Cu2Se",
+          "value": 0.34,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "value": 0.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "value": 0.34,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "value": 0.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "value": 0.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "pristine Cu2Se",
+          "value": 0.9,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "325.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "value": 0.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "value": 0.48,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "value": 0.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "value": 0.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "bulk β-Cu2Se",
+          "value": 0.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "value": 0.6000000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "value": 0.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Cu2Se pellet",
+          "value": 0.24,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "value": 0.58,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "500.0 K"
+        },
+        {
+          "material": "α-Cu2Se",
+          "value": 0.17,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "bulk β-Cu2Se",
+          "value": 0.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "400.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "value": 1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "value": 0.6000000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "873.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Cu2Se film",
+          "value": 0.0011,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Cu2Se",
+          "value": 0.0013000000000000002,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "value": 0.000992,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "value": 0.00099,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "value": 0.0013100000000000002,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "875.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "value": 0.0009000000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "875.0 K"
+        },
+        {
+          "material": "Cu2Se 22.5 vol %",
+          "value": 0.0002633,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "value": 0.00126,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "860.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "value": 2.3,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "350.0 K"
+        },
+        {
+          "material": "Cu2Se1.15 bulk",
+          "value": 0.0005909999999999999,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "550.0 K"
+        },
+        {
+          "material": "Cu2Se / PVDF composite films",
+          "value": 0.00025349,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "393.0 K"
+        },
+        {
+          "material": "Cu2Se thin film",
+          "value": 0.00062,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "684.0 K"
+        },
+        {
+          "material": "Cu2Se thin films",
+          "value": 0.0001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "684.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "monoclinic Cu2Se",
+          "zt_value": 0.6000000000000001,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 0.003,
+          "temperature": "295 K"
+        },
+        {
+          "material": "copper selenide ( Cu2Se )",
+          "zt_value": 0.14,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 1.6,
+          "temperature": "295 K"
+        },
+        {
+          "material": "iodine-doped Cu2Se",
+          "zt_value": 2.3,
+          "temperature": "295 K"
+        },
+        {
+          "material": "α-Cu2Se",
+          "zt_value": 0.43,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Cu2Se-based material",
+          "zt_value": 0.30000000000000004,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 2.6,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "Cu2Se compound",
+          "zt_value": 2.6,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "Cu2Se pellets",
+          "zt_value": 1.82,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "Cu2Se pellets",
+          "zt_value": 1.82,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "Cu2Se pellets",
+          "zt_value": 1.82,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "Cu2Se matrix",
+          "zt_value": 2.6,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "Cu2Se matrix",
+          "zt_value": 2.6,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "Cu2Se nanoplates",
+          "zt_value": 1.82,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "nano-structured Cu2Se",
+          "zt_value": 1.82,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 1.82,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "Cu2Se nanostructures",
+          "zt_value": 1.82,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "doped Cu2Se",
+          "zt_value": 0.30000000000000004,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "Cu2Se nanoplates",
+          "zt_value": 1.82,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 1.82,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "carbon incorporated Cu2Se composites",
+          "zt_value": 1.8,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "Cu2Se nanoplates",
+          "zt_value": 1.82,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "Cu2Se nanoplates",
+          "zt_value": 1.82,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "Cu2Se nanopowders",
+          "zt_value": 2,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "nanostructured Cu2Se",
+          "zt_value": 2,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 1.5,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 1.5,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 1.2,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 1.45,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 1.5,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 1.2,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 1.45,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 0.4,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "Cu2Se nanopowder",
+          "zt_value": 2,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 2.1,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "nanostructured Cu2Se",
+          "zt_value": 2.1,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 2.1,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 1.5,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 1.5,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 1.6,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 2.1,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "copper selenide ( Cu2Se )",
+          "zt_value": 1.6,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 1.6,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Cu2Se + 0.8 wt % CDs",
+          "zt_value": 1.98,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Cu2Se + 0.8 wt % CDs",
+          "zt_value": 1.98,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Cu2Se + 0.8 wt % CDs",
+          "zt_value": 1.98,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Cu2Se + 0.8 wt % CDs",
+          "zt_value": 1.98,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 2.1,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 2.1,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "nanostructured Cu2Se",
+          "zt_value": 2.1,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 1.6,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "nanostructuring Cu2Se",
+          "zt_value": 2.1,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "bulk Cu2Se",
+          "zt_value": 1.5,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "nanostructured Cu2Se",
+          "zt_value": 2.1,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 1.5,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "copper selenide ( Cu2Se )",
+          "zt_value": 1.6,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Cu2Se polycrystals",
+          "zt_value": 1.6,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 1.8,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 1.5,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Cu2Se / CNT composite",
+          "zt_value": 2.4,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 1.5,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "pure Cu2Se",
+          "zt_value": 1.6,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Cu2Se / CNT composites",
+          "zt_value": 2.4,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 1.5,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 1.5,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 1.5,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 1.4,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "pristine Cu2Se",
+          "zt_value": 1.5,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Cu2Se / CNTs composite",
+          "zt_value": 2.4,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Cu2Se / CNT",
+          "zt_value": 2.4,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "polycrystalline Cu2Se",
+          "zt_value": 1.5,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 1.5,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Cu2Se / carbon nanotube",
+          "zt_value": 2.4,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 1.5,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 1.5,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Bulk Cu2Se",
+          "zt_value": 1.5,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 1.5,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 2.4,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 1.5,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "β-Cu2Se",
+          "zt_value": 1.5,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 1.5,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 1.5,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 0.75,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 1.5,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 2.1,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 1.5,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 1.8,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Nanoporous Cu2Se",
+          "zt_value": 1.9,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 1.5,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "β-Cu2Se",
+          "zt_value": 1.5,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 1.6,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 2.4,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "pristine Cu2Se",
+          "zt_value": 1.5,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "bulk Cu2Se",
+          "zt_value": 1.5,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 1.5,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 1.5,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 1.5,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "pristine Cu2Se",
+          "zt_value": 1.8,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Cu2Se materials",
+          "zt_value": 1.5,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 1.5,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "bulk Cu2Se",
+          "zt_value": 1.5,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 1.5,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Cu2Se-based materials",
+          "zt_value": 2,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 1.4,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Cu2Se pellet",
+          "zt_value": 0.85,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Cu2Se pellet",
+          "zt_value": 0.85,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 1.1,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "I-doped Cu2Se pellets",
+          "zt_value": 1.13,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "pristine Cu2Se",
+          "zt_value": 0.8,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 0.38,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "pristine Cu2Se",
+          "zt_value": 2.3,
+          "temperature": "400.0 K"
+        },
+        {
+          "material": "monoclinic Cu2Se",
+          "zt_value": 0.4,
+          "temperature": "400.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 2.3,
+          "temperature": "400.0 K"
+        },
+        {
+          "material": "n-type Cu2Se",
+          "zt_value": 2.3,
+          "temperature": "400.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 2.3,
+          "temperature": "400.0 K"
+        },
+        {
+          "material": "iodine-doped Cu2Se",
+          "zt_value": 2.3,
+          "temperature": "400.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 1.5,
+          "temperature": "400.0 K"
+        },
+        {
+          "material": "n-type Cu2Se",
+          "zt_value": 2.3,
+          "temperature": "400.0 K"
+        },
+        {
+          "material": "α-Cu2Se",
+          "zt_value": 2,
+          "temperature": "400.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 1,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "Cu2Se powder",
+          "zt_value": 1.25,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 2,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 1.7000000000000002,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 0.9,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 0.6000000000000001,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Cu2Se with 10 % Cu2Te",
+          "zt_value": 1.9,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Cu2Se bulks",
+          "zt_value": 2.1,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 1.8,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "porous Cu2Se",
+          "zt_value": 2.1,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Cu2Se bulk",
+          "zt_value": 2.1,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 0.92,
+          "temperature": "783.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 0.92,
+          "temperature": "783.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 0.92,
+          "temperature": "783.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 0.92,
+          "temperature": "783.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 2,
+          "temperature": "875.0 K"
+        },
+        {
+          "material": "pure Cu2Se",
+          "zt_value": 0.7000000000000001,
+          "temperature": "875.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 2,
+          "temperature": "875.0 K"
+        },
+        {
+          "material": "SiC-free Cu2Se",
+          "zt_value": 0.7000000000000001,
+          "temperature": "875.0 K"
+        },
+        {
+          "material": "copper selenide ( Cu2Se )",
+          "zt_value": 0.14,
+          "temperature": "200.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 1.19,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "Cu2Se pellet",
+          "zt_value": 0.45,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "Cu2Se1.15 bulk",
+          "zt_value": 0.75,
+          "temperature": "623.0 K"
+        },
+        {
+          "material": "Cu2Se1.15 bulk",
+          "zt_value": 0.34,
+          "temperature": "623.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 1.2,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 1.85,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "Cu2Se-NM",
+          "zt_value": 1.85,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "Cu2Se-NM",
+          "zt_value": 1.85,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "β-Cu2Se",
+          "zt_value": 1.5,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "bulk Cu2Se",
+          "zt_value": 1,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "Cu2Se-20 vol %",
+          "zt_value": 0.44,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "(Cu2Se)0.9925",
+          "zt_value": 0.007500000000000001,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "pure Cu2Se",
+          "zt_value": 1,
+          "temperature": "473.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 2.44,
+          "temperature": "870.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 2.44,
+          "temperature": "870.0 K"
+        },
+        {
+          "material": "nanophase Cu2Se",
+          "zt_value": 1.2,
+          "temperature": "859.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 2.3,
+          "temperature": "410.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 0.6000000000000001,
+          "temperature": "650.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 0.52,
+          "temperature": "650.0 K"
+        },
+        {
+          "material": "β-Cu2Se",
+          "zt_value": 0.8200000000000001,
+          "temperature": "745.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 1.4,
+          "temperature": "825.0 K"
+        },
+        {
+          "material": "β-Cu2Se",
+          "zt_value": 0.45,
+          "temperature": "620.0 K"
+        },
+        {
+          "material": "Cu2Se",
+          "zt_value": 1.6,
+          "temperature": "860.0 K"
+        },
+        {
+          "material": "bulk Cu2Se",
+          "zt_value": 1.6,
+          "temperature": "860.0 K"
+        },
+        {
+          "material": "α-Cu2Se",
+          "zt_value": 1.16,
+          "temperature": "305.0 K"
+        },
+        {
+          "material": "bulk Cu2Se",
+          "zt_value": 0.38,
+          "temperature": "1023.0 K"
+        },
+        {
+          "material": "β-Cu2Se",
+          "zt_value": 0.53,
+          "temperature": "581.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

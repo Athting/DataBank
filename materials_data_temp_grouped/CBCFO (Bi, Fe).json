@@ -1,0 +1,18 @@
+{
+  "Material": "CBCFO (Bi, Fe)",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2014.06.190"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "Bi / Fe co-doped CBCFO",
+        "Property": "Seebeck",
+        "Value": 0.00018199999999999998,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.06.190"
+      }
+    ]
+  }
+}

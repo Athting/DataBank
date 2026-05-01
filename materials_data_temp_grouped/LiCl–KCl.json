@@ -1,0 +1,18 @@
+{
+  "Material": "LiCl\u2013KCl",
+  "DOIs_Researched": [
+    "10.1016/j.jpowsour.2006.06.013"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "LiCl\u2013KCl",
+        "Property": "Conductivity",
+        "Value": 127.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpowsour.2006.06.013"
+      }
+    ]
+  }
+}

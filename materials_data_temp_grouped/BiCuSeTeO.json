@@ -1,0 +1,18 @@
+{
+  "Material": "BiCuSeTeO",
+  "DOIs_Researched": [
+    "10.1016/j.jmat.2019.06.002"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "BiCuSe0.9Te0.1O",
+        "Property": "ThermCond",
+        "Value": 0.30000000000000004,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2019.06.002"
+      }
+    ]
+  }
+}

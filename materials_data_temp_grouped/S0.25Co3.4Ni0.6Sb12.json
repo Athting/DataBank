@@ -1,0 +1,36 @@
+{
+  "Material": "S0.25Co3.4Ni0.6Sb12",
+  "DOIs_Researched": [
+    "10.1039/c9tc01824g"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "S0.25Co3.4Ni0.6Sb12",
+        "Property": "ThermCond",
+        "Value": 2.73,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc01824g"
+      },
+      {
+        "Original_Name_In_Paper": "S0.25Co3.4Ni0.6Sb12",
+        "Property": "ThermCond",
+        "Value": 2.07,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc01824g"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "S0.25Co3.4Ni0.6Sb12",
+        "Property": "ZT",
+        "Value": 0.81,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc01824g"
+      }
+    ]
+  }
+}

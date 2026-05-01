@@ -1,0 +1,18 @@
+{
+  "Material": "Ca9Zn4.35Cu0.15Sb9",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2018.11.030"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Ca9Zn4.35Cu0.15Sb9",
+        "Property": "ZT",
+        "Value": 0.72,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2018.11.030"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Cu",
+  "DOIs_Researched": [
+    "10.1039/c8ta07344a"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "crystalline Cu-BHT",
+        "Property": "Conductivity",
+        "Value": 158000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta07344a"
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "Material": "Sb1.97Ag0.03TeSe2",
+  "DOIs_Researched": [
+    "10.1016/j.jmat.2019.08.001"
+  ],
+  "Data_By_Temperature": {
+    "680.0": [
+      {
+        "Original_Name_In_Paper": "Sb1.97Ag0.03TeSe2 alloy",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2019.08.001"
+      },
+      {
+        "Original_Name_In_Paper": "Sb1.97Ag0.03TeSe2 alloy",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2019.08.001"
+      },
+      {
+        "Original_Name_In_Paper": "Sb1.97Ag0.03TeSe2",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2019.08.001"
+      },
+      {
+        "Original_Name_In_Paper": "Sb1.97Ag0.03TeSe2",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2019.08.001"
+      }
+    ]
+  }
+}

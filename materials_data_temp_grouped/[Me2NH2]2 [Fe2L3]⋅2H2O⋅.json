@@ -1,0 +1,18 @@
+{
+  "Material": "[Me2NH2]2 [Fe2L3]\u22c52H2O\u22c5",
+  "DOIs_Researched": [
+    "10.1016/j.enchem.2020.100029"
+  ],
+  "Data_By_Temperature": {
+    "80.0": [
+      {
+        "Original_Name_In_Paper": "(Me2NH2)2 [Fe2L3]\u22c52H2O\u22c56DMF",
+        "Property": "Conductivity",
+        "Value": 1.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.enchem.2020.100029"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Al6In2N8",
+  "DOIs_Researched": [
+    "10.1039/c7cp03749j"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Al6In2N8",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cp03749j"
+      }
+    ]
+  }
+}

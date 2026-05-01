@@ -1,0 +1,28 @@
+{
+  "Material": "SnAg0.004S0.25Se0.75",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2019.104393"
+  ],
+  "Data_By_Temperature": {
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.981Ag0.004S0.25Se0.75",
+        "Property": "PF",
+        "Value": 0.000522,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2019.104393"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.981Ag0.004S0.25Se0.75",
+        "Property": "Conductivity",
+        "Value": 78.5,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2019.104393"
+      }
+    ]
+  }
+}

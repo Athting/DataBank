@@ -1,0 +1,112 @@
+{
+  "doi": "10.1016/j.apsusc.2016.12.010",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "BiSbTe3",
+        "BiSbTe3 bulk",
+        "p-type nano-grained bulk bismuth antimony telluride",
+        "bulk nanograined bismuth antimony telluride",
+        "nanostructured bismuth antimony telluride bulk",
+        "BiSbTe3 bulks",
+        "p-type (BiSb)2Te3"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "BiSbTe3",
+          "value": 0.00017099999999999998,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "BiSbTe3",
+          "value": 0.00017099999999999998,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "BiSbTe3",
+          "value": 185185.1851851852,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "320.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "BiSbTe3 bulk",
+          "value": 0.8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "432.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "BiSbTe3",
+          "zt_value": 1.4,
+          "temperature": "432.0 K"
+        },
+        {
+          "material": "BiSbTe3",
+          "zt_value": 1.4,
+          "temperature": "432.0 K"
+        },
+        {
+          "material": "BiSbTe3",
+          "zt_value": 1.4,
+          "temperature": "432.0 K"
+        },
+        {
+          "material": "p-type nano-grained bulk bismuth antimony telluride",
+          "zt_value": 1.4,
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "bulk nanograined bismuth antimony telluride",
+          "zt_value": 1.4,
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "nanostructured bismuth antimony telluride bulk",
+          "zt_value": 1.4,
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "BiSbTe3 bulks",
+          "zt_value": 1.47,
+          "temperature": "443.0 K"
+        },
+        {
+          "material": "p-type (BiSb)2Te3",
+          "zt_value": 1.47,
+          "temperature": "440.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

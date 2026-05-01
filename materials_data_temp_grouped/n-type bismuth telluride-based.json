@@ -1,0 +1,18 @@
+{
+  "Material": "n-type bismuth telluride-based",
+  "DOIs_Researched": [
+    "10.1007/s12598-018-1005-2"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "n-type bismuth telluride-based",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s12598-018-1005-2"
+      }
+    ]
+  }
+}

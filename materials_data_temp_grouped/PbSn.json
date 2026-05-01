@@ -1,0 +1,18 @@
+{
+  "Material": "PbSn",
+  "DOIs_Researched": [
+    "10.1007/s13391-019-00130-1"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "doped (Pb0.5Sn0.5)1",
+        "Property": "PF",
+        "Value": 0.000207,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s13391-019-00130-1"
+      }
+    ]
+  }
+}

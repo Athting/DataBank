@@ -482,7 +482,9 @@ async function main() {
   console.log(`Files parsed: ${parsed}`);
   console.log(`Files skipped: ${skipped}`);
   console.log(`Documents upserted: ${upserted}`);
-  console.log(`Documents rejected (<25% properties): ${rejectedByCompleteness}`);
+  console.log(
+    `Documents rejected (<25% properties): ${rejectedByCompleteness}`,
+  );
   console.log(`Documents rejected (>50% zero values): ${rejectedByZeroRatio}`);
   console.log(`Rejected documents removed from DB: ${deletedRejected}`);
 

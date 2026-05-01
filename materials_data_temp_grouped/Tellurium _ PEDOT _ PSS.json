@@ -1,0 +1,18 @@
+{
+  "Material": "Tellurium : PEDOT : PSS",
+  "DOIs_Researched": [
+    "10.1039/c6ta09781b"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "tellurium\u2013PEDOT : PSS",
+        "Property": "PF",
+        "Value": 5e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta09781b"
+      }
+    ]
+  }
+}

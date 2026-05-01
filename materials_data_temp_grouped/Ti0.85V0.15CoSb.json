@@ -1,0 +1,26 @@
+{
+  "Material": "Ti0.85V0.15CoSb",
+  "DOIs_Researched": [
+    "10.1016/j.intermet.2020.106914"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Ti0.85V0.15CoSb",
+        "Property": "ZT",
+        "Value": 0.22,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2020.106914"
+      },
+      {
+        "Original_Name_In_Paper": "Ti0.85V0.15CoSb",
+        "Property": "ZT",
+        "Value": 0.22,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2020.106914"
+      }
+    ]
+  }
+}

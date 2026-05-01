@@ -1,0 +1,105 @@
+{
+  "doi": "10.1016/j.jallcom.2013.04.196",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Mo3Sb7"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "Mo3Sb7",
+          "value": 0.000017,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Mo3Sb7",
+          "value": 0.000018,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Mo3Sb7",
+          "value": 0.000018,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "Mo3Sb7",
+          "value": 620000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Mo3Sb7",
+          "value": 7.37,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "805.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Mo3Sb7",
+          "value": 0.00020099999999999998,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Mo3Sb7",
+          "value": 0.001256,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "850.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Mo3Sb7",
+          "zt_value": 0.11,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "Mo3Sb7",
+          "zt_value": 0.11,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "Mo3Sb7",
+          "zt_value": 0.11,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "Mo3Sb7",
+          "zt_value": 0.45,
+          "temperature": "1000.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

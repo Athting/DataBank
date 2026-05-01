@@ -1,0 +1,18 @@
+{
+  "Material": "Pr0.8Sr0.2Co0.2Fe0.8O3\u2212",
+  "DOIs_Researched": [
+    "10.1039/b102987h"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "Pr0.8Sr0.2Co0.2Fe0.8O3\u2212\u03b4",
+        "Property": "Conductivity",
+        "Value": 15900.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/b102987h"
+      }
+    ]
+  }
+}

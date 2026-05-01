@@ -1,0 +1,40 @@
+{
+  "Material": "CrSi",
+  "DOIs_Researched": [
+    "10.1038/s41598-020-67617-y",
+    "10.1007/s11664-013-2510-6",
+    "10.1016/j.jallcom.2018.07.253"
+  ],
+  "Data_By_Temperature": {
+    "650.0": [
+      {
+        "Original_Name_In_Paper": "CrSi1.98",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-013-2510-6"
+      }
+    ],
+    "5.0": [
+      {
+        "Original_Name_In_Paper": "CrSi",
+        "Property": "Conductivity",
+        "Value": 124999999.99999999,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-020-67617-y"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "CrSi",
+        "Property": "Conductivity",
+        "Value": 50000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.07.253"
+      }
+    ]
+  }
+}

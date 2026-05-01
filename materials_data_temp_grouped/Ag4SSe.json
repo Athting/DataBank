@@ -1,0 +1,18 @@
+{
+  "Material": "Ag4SSe",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2013.03.267"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ag4SSe",
+        "Property": "Conductivity",
+        "Value": 50000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.03.267"
+      }
+    ]
+  }
+}

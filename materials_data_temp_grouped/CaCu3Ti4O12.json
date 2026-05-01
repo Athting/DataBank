@@ -1,0 +1,18 @@
+{
+  "Material": "CaCu3Ti4O12",
+  "DOIs_Researched": [
+    "10.1039/c3ra40216a"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "perovskite oxide CaCu3Ti4O12",
+        "Property": "Conductivity",
+        "Value": 10.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ra40216a"
+      }
+    ]
+  }
+}

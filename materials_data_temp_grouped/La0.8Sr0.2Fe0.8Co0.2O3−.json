@@ -1,0 +1,18 @@
+{
+  "Material": "La0.8Sr0.2Fe0.8Co0.2O3\u2212",
+  "DOIs_Researched": [
+    "10.1016/j.materresbull.2015.02.006"
+  ],
+  "Data_By_Temperature": {
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "La0.8Sr0.2Fe0.8Co0.2O3\u2212y",
+        "Property": "Conductivity",
+        "Value": 10000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2015.02.006"
+      }
+    ]
+  }
+}

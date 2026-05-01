@@ -1,0 +1,26 @@
+{
+  "Material": "Nb0.8Hf0.2FeSb0.88Sn0.",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2020.07.028"
+  ],
+  "Data_By_Temperature": {
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "Nb0.8Hf0.2FeSb0.88Sn0.12",
+        "Property": "ThermCond",
+        "Value": 2.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2020.07.028"
+      },
+      {
+        "Original_Name_In_Paper": "Nb0.8Hf0.2FeSb0.88Sn0.12",
+        "Property": "ThermCond",
+        "Value": 2.15,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2020.07.028"
+      }
+    ]
+  }
+}

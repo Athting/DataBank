@@ -1,0 +1,1005 @@
+{
+  "doi": "10.1016/j.matchemphys.2017.01.038",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "GeTe []",
+        "pristine GeTe",
+        "GeTe",
+        "pure GeTe",
+        "bulk GeTe",
+        "GeTe crystalline film",
+        "GeTe-based",
+        "undoped GeTe",
+        "vacancy suppressed pristine GeTe",
+        "rhombohedral GeTe alloys with Pb and Bi",
+        "Pristine GeTe",
+        "Rhombohedral GeTe",
+        "GeTe rods",
+        "Bi doped GeTe",
+        "GeTe-750",
+        "GeTe powder",
+        "germanium telluride",
+        "GeTe-900",
+        "doped GeTe",
+        "Sb-doped GeTe",
+        "rhombohedral GeTe",
+        "Pb-free GeTe",
+        "pristine GeTe alloy",
+        "rhombohedral GeTe alloys",
+        "GeTe-based materials",
+        "Bi co-doped GeTe",
+        "GeTe ( 7.4 wt. %",
+        "Pb and Bi co-doped GeTe",
+        "6 mol % Bi-doped GeTe"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "GeTe",
+          "value": 0.0000336,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "GeTe",
+          "value": 0.000024999999999999998,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine GeTe",
+          "value": 0.00006000000000000001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure GeTe",
+          "value": 0.000059,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "undoped GeTe",
+          "value": 0.000028,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine GeTe",
+          "value": 0.000031599999999999996,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "bulk GeTe",
+          "value": 0.000035,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "GeTe rods",
+          "value": 0.00017,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Pristine GeTe",
+          "value": 0.000030000000000000004,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "GeTe",
+          "value": 0.00012000000000000002,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "pristine GeTe",
+          "value": 0.000034,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "GeTe",
+          "value": 0.000032,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "pristine GeTe",
+          "value": 0.000125,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "undoped GeTe",
+          "value": 0.000039,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "GeTe",
+          "value": 0.000034,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "pristine GeTe",
+          "value": 0.000028,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "GeTe",
+          "value": 0.000083,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "GeTe",
+          "value": 0.000030000000000000004,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "GeTe",
+          "value": 0.000034,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "GeTe",
+          "value": 0.000098,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "pristine GeTe",
+          "value": 0.0001584,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "GeTe",
+          "value": 0.00016099999999999998,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "pristine GeTe",
+          "value": 0.00015000000000000001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "GeTe",
+          "value": -0.00028000000000000003,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "673.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "GeTe",
+          "value": 167869.7330871244,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure GeTe",
+          "value": 450450.4504504505,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "GeTe",
+          "value": 1000000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "GeTe",
+          "value": 500000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "rhombohedral GeTe alloys with Pb and Bi",
+          "value": 200000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "GeTe",
+          "value": 6700,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine GeTe",
+          "value": 822800,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine GeTe",
+          "value": 670400,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "GeTe",
+          "value": 807000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "GeTe",
+          "value": 807000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "GeTe",
+          "value": 850000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "GeTe",
+          "value": 714285.7142857143,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Pristine GeTe",
+          "value": 800000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "pristine GeTe",
+          "value": 806700,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "GeTe",
+          "value": 850000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Pristine GeTe",
+          "value": 806700,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "pure GeTe",
+          "value": 666666.6666666666,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "673.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "GeTe []",
+          "value": 3,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine GeTe",
+          "value": 7.6,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "GeTe",
+          "value": 3,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure GeTe",
+          "value": 2.86,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine GeTe",
+          "value": 2.6,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "bulk GeTe",
+          "value": 4.7,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "GeTe crystalline film",
+          "value": 4.35,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure GeTe",
+          "value": 7.1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine GeTe",
+          "value": 3.58,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "GeTe",
+          "value": 2.6,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "GeTe",
+          "value": 21,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine GeTe",
+          "value": 6.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine GeTe",
+          "value": 7.6,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine GeTe",
+          "value": 1.6,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "GeTe",
+          "value": 2.04,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure GeTe",
+          "value": 7.1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine GeTe",
+          "value": 8.6,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine GeTe",
+          "value": 7.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Pristine GeTe",
+          "value": 8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "GeTe",
+          "value": 0.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "pristine GeTe",
+          "value": 8.3,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "GeTe",
+          "value": 2.2800000000000002,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "GeTe",
+          "value": 1.6800000000000002,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "GeTe",
+          "value": 5.65,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "GeTe",
+          "value": 2.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "GeTe",
+          "value": 0.67,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "undoped GeTe",
+          "value": 5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "GeTe",
+          "value": 0.39,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "pristine GeTe",
+          "value": 8.8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "GeTe",
+          "value": 8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "GeTe",
+          "value": 8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "GeTe",
+          "value": 8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "pristine GeTe",
+          "value": 8.3,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "GeTe",
+          "value": 8.3,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Pristine GeTe",
+          "value": 5.6,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "GeTe",
+          "value": 2.6,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Bi doped GeTe",
+          "value": 0.38,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "GeTe",
+          "value": 0.30000000000000004,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "625.0 K"
+        },
+        {
+          "material": "GeTe",
+          "value": 5.3,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "pristine GeTe",
+          "value": 0.9,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "GeTe",
+          "value": 2.62,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "GeTe-750",
+          "value": 4.15,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "GeTe",
+          "value": 2.7,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "Bi doped GeTe",
+          "value": 1.1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "708.0 K"
+        },
+        {
+          "material": "pristine GeTe",
+          "value": 1.9,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "740.0 K"
+        },
+        {
+          "material": "GeTe",
+          "value": 8.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "330.0 K"
+        },
+        {
+          "material": "pristine GeTe",
+          "value": 2.8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "650.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "GeTe",
+          "value": 0.0010400000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "vacancy suppressed pristine GeTe",
+          "value": 0.0024000000000000002,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "GeTe",
+          "value": 0.0024500000000000004,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine GeTe",
+          "value": 0.000022,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "undoped GeTe",
+          "value": 0.0008100000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "GeTe",
+          "value": 0.00072,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "pristine GeTe",
+          "value": 0.0038,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "GeTe",
+          "value": 0.0028,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "pure GeTe",
+          "value": 0.0031500000000000005,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "pure GeTe",
+          "value": 0.004200000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "pure GeTe",
+          "value": 0.004200000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "GeTe",
+          "value": 0.004200000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "720.0 K"
+        },
+        {
+          "material": "pristine GeTe",
+          "value": 0.0041,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "720.0 K"
+        },
+        {
+          "material": "6 mol % Bi-doped GeTe",
+          "value": 0.004540000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "675.0 K"
+        },
+        {
+          "material": "undoped GeTe",
+          "value": 4200,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "658.0 K"
+        },
+        {
+          "material": "pristine GeTe",
+          "value": 0.0039000000000000003,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "775.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "GeTe",
+          "zt_value": 0.8,
+          "temperature": "295 K"
+        },
+        {
+          "material": "GeTe-based",
+          "zt_value": 2.1,
+          "temperature": "295 K"
+        },
+        {
+          "material": "GeTe",
+          "zt_value": 0.7000000000000001,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Rhombohedral GeTe",
+          "zt_value": 1.5,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "GeTe",
+          "zt_value": 0.03,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "GeTe-based",
+          "zt_value": 1.1,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "undoped GeTe",
+          "zt_value": 0.03,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Pristine GeTe",
+          "zt_value": 0.9,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "GeTe",
+          "zt_value": 1.5,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "GeTe",
+          "zt_value": 1.5,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "GeTe",
+          "zt_value": 1.72,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "GeTe powder",
+          "zt_value": 0.8,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "germanium telluride",
+          "zt_value": 2.6,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "GeTe-900",
+          "zt_value": 1.37,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "GeTe",
+          "zt_value": 1.37,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "pristine GeTe",
+          "zt_value": 1.1,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "doped GeTe",
+          "zt_value": 1.2,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Sb-doped GeTe",
+          "zt_value": 1.56,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "GeTe-based",
+          "zt_value": 1.3599999999999999,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "GeTe",
+          "zt_value": 0.30000000000000004,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "Bi doped GeTe",
+          "zt_value": 1.3,
+          "temperature": "708.0 K"
+        },
+        {
+          "material": "GeTe",
+          "zt_value": 2,
+          "temperature": "650.0 K"
+        },
+        {
+          "material": "GeTe",
+          "zt_value": 1,
+          "temperature": "650.0 K"
+        },
+        {
+          "material": "GeTe",
+          "zt_value": 0.2,
+          "temperature": "650.0 K"
+        },
+        {
+          "material": "pure GeTe",
+          "zt_value": 0.64,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "GeTe",
+          "zt_value": 1.3,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "GeTe",
+          "zt_value": 1,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "GeTe",
+          "zt_value": 0.25,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "pristine GeTe",
+          "zt_value": 0.8,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "rhombohedral GeTe",
+          "zt_value": 2.4,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "Pb-free GeTe",
+          "zt_value": 1.85,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "rhombohedral GeTe",
+          "zt_value": 2.4,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "rhombohedral GeTe",
+          "zt_value": 2.4,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "pristine GeTe alloy",
+          "zt_value": 2.3,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "rhombohedral GeTe alloys",
+          "zt_value": 2.4,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "GeTe",
+          "zt_value": 2.4,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "GeTe-based materials",
+          "zt_value": 2.1,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "GeTe",
+          "zt_value": 0.6000000000000001,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "GeTe",
+          "zt_value": 2.1,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "GeTe",
+          "zt_value": 2.2,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "pure GeTe",
+          "zt_value": 0.51,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "Bi co-doped GeTe",
+          "zt_value": 2.1,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "Bi co-doped GeTe",
+          "zt_value": 2.1,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "Bi co-doped GeTe",
+          "zt_value": 2.1,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "Bi co-doped GeTe",
+          "zt_value": 2.1,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "Bi co-doped GeTe",
+          "zt_value": 2.1,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "GeTe ( 7.4 wt. %",
+          "zt_value": 0.30000000000000004,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "GeTe",
+          "zt_value": 0.85,
+          "temperature": "550.0 K"
+        },
+        {
+          "material": "GeTe",
+          "zt_value": 0.85,
+          "temperature": "550.0 K"
+        },
+        {
+          "material": "GeTe",
+          "zt_value": 2.6,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "GeTe",
+          "zt_value": 1.3,
+          "temperature": "630.0 K"
+        },
+        {
+          "material": "pristine GeTe",
+          "zt_value": 0.9500000000000001,
+          "temperature": "720.0 K"
+        },
+        {
+          "material": "pristine GeTe",
+          "zt_value": 0.9500000000000001,
+          "temperature": "720.0 K"
+        },
+        {
+          "material": "GeTe",
+          "zt_value": 0.8,
+          "temperature": "720.0 K"
+        },
+        {
+          "material": "GeTe",
+          "zt_value": 1.85,
+          "temperature": "725.0 K"
+        },
+        {
+          "material": "GeTe",
+          "zt_value": 1.3,
+          "temperature": "725.0 K"
+        },
+        {
+          "material": "GeTe",
+          "zt_value": 1.85,
+          "temperature": "725.0 K"
+        },
+        {
+          "material": "Sb-doped GeTe",
+          "zt_value": 1.9500000000000002,
+          "temperature": "725.0 K"
+        },
+        {
+          "material": "Pb and Bi co-doped GeTe",
+          "zt_value": 1.5,
+          "temperature": "670.0 K"
+        },
+        {
+          "material": "GeTe",
+          "zt_value": 1.4,
+          "temperature": "732.0 K"
+        },
+        {
+          "material": "bulk GeTe",
+          "zt_value": 0.7000000000000001,
+          "temperature": "1350.0 K"
+        },
+        {
+          "material": "Pristine GeTe",
+          "zt_value": 0.9,
+          "temperature": "675.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

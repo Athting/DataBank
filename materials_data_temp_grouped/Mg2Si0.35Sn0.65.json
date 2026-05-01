@@ -1,0 +1,62 @@
+{
+  "Material": "Mg2Si0.35Sn0.65",
+  "DOIs_Researched": [
+    "10.1007/s10854-018-8601-7"
+  ],
+  "Data_By_Temperature": {
+    "480.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Si0.35Sn0.65 alloy",
+        "Property": "ZT",
+        "Value": 0.52,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-018-8601-7"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si0.35Sn0.65 crystal",
+        "Property": "ZT",
+        "Value": 0.52,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-018-8601-7"
+      }
+    ],
+    "450.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Si0.35Sn0.65 crystal",
+        "Property": "Seebeck",
+        "Value": -0.000518,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-018-8601-7"
+      }
+    ],
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Si0.35Sn0.65",
+        "Property": "Seebeck",
+        "Value": -0.000518,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-018-8601-7"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si0.35Sn0.65",
+        "Property": "PF",
+        "Value": 0.00256,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-018-8601-7"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si0.35Sn0.65",
+        "Property": "PF",
+        "Value": 0.00256,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-018-8601-7"
+      }
+    ]
+  }
+}

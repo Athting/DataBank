@@ -1,0 +1,35 @@
+{
+  "Material": "Si80Ge20",
+  "DOIs_Researched": [
+    "10.1039/c5nr01786f",
+    "10.1557/jmr.2011.117"
+  ],
+  "Data_By_Temperature": {
+    "1173.0": [
+      {
+        "Original_Name_In_Paper": "Si80Ge20 nanostructured matrix",
+        "Property": "ThermCond",
+        "Value": 2.04,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5nr01786f"
+      },
+      {
+        "Original_Name_In_Paper": "nanostructured Si80Ge20 alloys",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1557/jmr.2011.117"
+      },
+      {
+        "Original_Name_In_Paper": "p-type nanostructured Si80Ge20 alloy",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5nr01786f"
+      }
+    ]
+  }
+}

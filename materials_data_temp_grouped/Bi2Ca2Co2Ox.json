@@ -1,0 +1,35 @@
+{
+  "Material": "Bi2Ca2Co2Ox",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2015.09.036",
+    "10.1016/j.scriptamat.2014.01.032"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Bi2Ca2Co2Ox single crystals without Ag",
+        "Property": "Seebeck",
+        "Value": 0.00017,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2015.09.036"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Ca2Co2Ox single crystals",
+        "Property": "Seebeck",
+        "Value": 0.00015000000000000001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2014.01.032"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Ca2Co2Ox single crystals",
+        "Property": "PF",
+        "Value": 0.00015000000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2014.01.032"
+      }
+    ]
+  }
+}

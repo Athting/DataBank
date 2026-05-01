@@ -1,0 +1,18 @@
+{
+  "Material": "Sb / Se",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2017.09.136"
+  ],
+  "Data_By_Temperature": {
+    "657.0": [
+      {
+        "Original_Name_In_Paper": "Sb / Se",
+        "Property": "ThermCond",
+        "Value": 0.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": "point defects",
+        "Source_DOI": "10.1016/j.jallcom.2017.09.136"
+      }
+    ]
+  }
+}

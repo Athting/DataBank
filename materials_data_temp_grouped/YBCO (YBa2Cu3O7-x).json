@@ -1,0 +1,18 @@
+{
+  "Material": "YBCO (YBa2Cu3O7-x)",
+  "DOIs_Researched": [
+    "10.1016/j.jpcs.2019.109232"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "oxygen-rich YBCO",
+        "Property": "Seebeck",
+        "Value": 2.4999999999999998e-06,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2019.109232"
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "Material": "GdS1.43",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2007.04.078"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "GdS1.43",
+        "Property": "ZT",
+        "Value": 0.16,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2007.04.078"
+      },
+      {
+        "Original_Name_In_Paper": "GdS1.43",
+        "Property": "ZT",
+        "Value": 0.16,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2007.04.078"
+      },
+      {
+        "Original_Name_In_Paper": "GdS1.43",
+        "Property": "ZT",
+        "Value": 0.16,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2007.04.078"
+      }
+    ]
+  }
+}

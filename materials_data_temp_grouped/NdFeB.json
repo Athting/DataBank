@@ -1,0 +1,18 @@
+{
+  "Material": "NdFeB",
+  "DOIs_Researched": [
+    "10.1038/s41598-019-50325-7"
+  ],
+  "Data_By_Temperature": {
+    "125.0": [
+      {
+        "Original_Name_In_Paper": "NdFeB / BiSb / NdFeB",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-019-50325-7"
+      }
+    ]
+  }
+}

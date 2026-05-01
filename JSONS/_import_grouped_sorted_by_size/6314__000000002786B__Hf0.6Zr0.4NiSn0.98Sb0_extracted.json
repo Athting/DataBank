@@ -1,0 +1,111 @@
+{
+  "doi": "10.1007/s10853-020-04949-0",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Hf0.6Zr0.40NiSn0.98Sb0.02",
+        "Hf0.6Zr0.4NiSn0.98Sb0.02 compound",
+        "Hf0.6Zr0.4NiSn0.98Sb0.02",
+        "Hf0.6Zr0.4NiSn0.98Sb0.02 without Ti"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "Hf0.6Zr0.4NiSn0.98Sb0.02",
+          "value": -0.000164,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "790.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Hf0.6Zr0.4NiSn0.98Sb0.02",
+          "value": 0.004390000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "790.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Hf0.6Zr0.40NiSn0.98Sb0.02",
+          "zt_value": 1,
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "Hf0.6Zr0.4NiSn0.98Sb0.02 compound",
+          "zt_value": 1,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Hf0.6Zr0.4NiSn0.98Sb0.02",
+          "zt_value": 1,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Hf0.6Zr0.4NiSn0.98Sb0.02",
+          "zt_value": 1,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Hf0.6Zr0.4NiSn0.98Sb0.02",
+          "zt_value": 1,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Hf0.6Zr0.4NiSn0.98Sb0.02",
+          "zt_value": 0.9,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Hf0.6Zr0.4NiSn0.98Sb0.02 without Ti",
+          "zt_value": 1,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Hf0.6Zr0.4NiSn0.98Sb0.02",
+          "zt_value": 1,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Hf0.6Zr0.4NiSn0.98Sb0.02",
+          "zt_value": 1,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Hf0.6Zr0.4NiSn0.98Sb0.02",
+          "zt_value": 0.84,
+          "temperature": "790.0 K"
+        },
+        {
+          "material": "Hf0.6Zr0.4NiSn0.98Sb0.02",
+          "zt_value": 0.5700000000000001,
+          "temperature": "790.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

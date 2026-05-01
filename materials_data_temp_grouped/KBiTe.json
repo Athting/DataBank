@@ -1,0 +1,18 @@
+{
+  "Material": "KBiTe",
+  "DOIs_Researched": [
+    "10.1016/j.cap.2018.11.010"
+  ],
+  "Data_By_Temperature": {
+    "350.0": [
+      {
+        "Original_Name_In_Paper": "K0.06Bi2Te3.18",
+        "Property": "ZT",
+        "Value": 1.1400000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2018.11.010"
+      }
+    ]
+  }
+}

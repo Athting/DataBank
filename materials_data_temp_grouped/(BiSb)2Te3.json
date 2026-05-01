@@ -1,0 +1,18 @@
+{
+  "Material": "(BiSb)2Te3",
+  "DOIs_Researched": [
+    "10.1007/s13391-018-0094-2"
+  ],
+  "Data_By_Temperature": {
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "nanostructured bulk p-type (BiSb)2Te3 compounds",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s13391-018-0094-2"
+      }
+    ]
+  }
+}

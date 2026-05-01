@@ -1,0 +1,49 @@
+{
+  "Material": "Sn0.97Na0.03Se",
+  "DOIs_Researched": [
+    "10.1039/c6qi00263c",
+    "10.1039/c8tc06545d",
+    "10.1039/c5ee03366g",
+    "10.1016/j.mattod.2017.11.005"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.97Na0.03Se",
+        "Property": "ZT",
+        "Value": 1.17,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6qi00263c"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.97Na0.03Se",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ee03366g"
+      }
+    ],
+    "830.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.97Na0.03Se",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": "additional Te",
+        "Source_DOI": "10.1039/c8tc06545d"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Sn0.97Na0.03Se",
+        "Property": "PF",
+        "Value": 0.0028,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mattod.2017.11.005"
+      }
+    ]
+  }
+}

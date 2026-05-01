@@ -1,0 +1,44 @@
+{
+  "Material": "BiSeCux",
+  "DOIs_Researched": [
+    "10.1007/s12598-020-01491-5"
+  ],
+  "Data_By_Temperature": {
+    "467.0": [
+      {
+        "Original_Name_In_Paper": "Bi1-xCuxSe",
+        "Property": "ZT",
+        "Value": 0.29,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s12598-020-01491-5"
+      },
+      {
+        "Original_Name_In_Paper": "Bi1-xCuxSe",
+        "Property": "ZT",
+        "Value": 0.29,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s12598-020-01491-5"
+      },
+      {
+        "Original_Name_In_Paper": "Bi1-xCuxSe",
+        "Property": "ZT",
+        "Value": 0.29,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s12598-020-01491-5"
+      }
+    ],
+    "468.0": [
+      {
+        "Original_Name_In_Paper": "Bi1-xCuxSe",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s12598-020-01491-5"
+      }
+    ]
+  }
+}

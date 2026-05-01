@@ -1,0 +1,45 @@
+{
+  "Material": "In0.09Nd0.03Co4Sb12.16",
+  "DOIs_Researched": [
+    "10.1016/j.ssc.2012.10.003",
+    "10.1016/j.physb.2012.09.035"
+  ],
+  "Data_By_Temperature": {
+    "360.0": [
+      {
+        "Original_Name_In_Paper": "In0.09Nd0.03Co4Sb12.16",
+        "Property": "ZT",
+        "Value": 0.11,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2012.10.003"
+      },
+      {
+        "Original_Name_In_Paper": "In0.09Nd0.03Co4Sb12.16",
+        "Property": "ZT",
+        "Value": 0.11,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2012.10.003"
+      },
+      {
+        "Original_Name_In_Paper": "In0.09Nd0.03Co4Sb12.16",
+        "Property": "ZT",
+        "Value": 0.11,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2012.10.003"
+      }
+    ],
+    "660.0": [
+      {
+        "Original_Name_In_Paper": "In0.09Nd0.03Co4Sb12.16 material",
+        "Property": "Seebeck",
+        "Value": 0.00023,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2012.09.035"
+      }
+    ]
+  }
+}

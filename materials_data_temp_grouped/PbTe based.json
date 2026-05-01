@@ -1,0 +1,18 @@
+{
+  "Material": "PbTe based",
+  "DOIs_Researched": [
+    "10.1039/c9ta07552f"
+  ],
+  "Data_By_Temperature": {
+    "623.0": [
+      {
+        "Original_Name_In_Paper": "PbTe based",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta07552f"
+      }
+    ]
+  }
+}

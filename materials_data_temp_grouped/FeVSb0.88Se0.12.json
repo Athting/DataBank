@@ -1,0 +1,18 @@
+{
+  "Material": "FeVSb0.88Se0.12",
+  "DOIs_Researched": [
+    "10.1007/s11664-019-07653-1"
+  ],
+  "Data_By_Temperature": {
+    "847.0": [
+      {
+        "Original_Name_In_Paper": "FeVSb0.88Se0.12",
+        "Property": "ZT",
+        "Value": 0.27,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-019-07653-1"
+      }
+    ]
+  }
+}

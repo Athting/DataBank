@@ -1,0 +1,18 @@
+{
+  "Material": "Cu11Mn1.0Sb4S13",
+  "DOIs_Researched": [
+    "10.1039/c4cp04039b"
+  ],
+  "Data_By_Temperature": {
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "Cu11Mn1.0Sb4S13",
+        "Property": "ZT",
+        "Value": 0.41000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4cp04039b"
+      }
+    ]
+  }
+}

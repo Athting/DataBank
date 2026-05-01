@@ -1,0 +1,26 @@
+{
+  "Material": "Bi0.5Sb1.36Na0.04In0.1Te",
+  "DOIs_Researched": [
+    "10.1007/s12598-019-01348-6"
+  ],
+  "Data_By_Temperature": {
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.36Na0.04In0.1Te3 alloy",
+        "Property": "ZT",
+        "Value": 0.45,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s12598-019-01348-6"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.36Na0.04In0.1Te3",
+        "Property": "ZT",
+        "Value": 0.45,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s12598-019-01348-6"
+      }
+    ]
+  }
+}

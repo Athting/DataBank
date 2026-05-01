@@ -1,0 +1,18 @@
+{
+  "Material": "Yb9Zn4.2Sb9",
+  "DOIs_Researched": [
+    "10.1016/bs.hpcre.2016.05.003"
+  ],
+  "Data_By_Temperature": {
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "Yb9Zn4.2Sb9",
+        "Property": "ZT",
+        "Value": 0.18,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/bs.hpcre.2016.05.003"
+      }
+    ]
+  }
+}

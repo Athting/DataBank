@@ -1,0 +1,18 @@
+{
+  "Material": "SnCd0.09Te",
+  "DOIs_Researched": [
+    "10.1039/c6ra02658c"
+  ],
+  "Data_By_Temperature": {
+    "820.0": [
+      {
+        "Original_Name_In_Paper": "SnCd0.09Te",
+        "Property": "ZT",
+        "Value": 0.45,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra02658c"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Ca3Co3.95Fe0.05O9+\u03b4",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2015.04.121"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ca3Co3.95Fe0.05O9+\u03b4",
+        "Property": "PF",
+        "Value": 0.000146,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2015.04.121"
+      }
+    ]
+  }
+}

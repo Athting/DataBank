@@ -1,0 +1,98 @@
+{
+  "doi": "10.1016/j.jallcom.2017.03.336",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Ti4O7",
+        "Ti4O7 / C powder nanocomposite",
+        "Ti4O7 / C"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "Ti4O7",
+          "value": -0.0000338,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Ti4O7",
+          "value": -0.0001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "1000.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "Ti4O7",
+          "value": 160000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Ti4O7",
+          "value": 99200,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Ti4O7",
+          "value": 60000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "1000.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Ti4O7",
+          "zt_value": 0.16,
+          "temperature": "764.0 K"
+        },
+        {
+          "material": "Ti4O7",
+          "zt_value": 0.08,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Ti4O7 / C powder nanocomposite",
+          "zt_value": 0.04,
+          "temperature": "843.0 K"
+        },
+        {
+          "material": "Ti4O7 / C",
+          "zt_value": 0.04,
+          "temperature": "843.0 K"
+        },
+        {
+          "material": "Ti4O7 / C",
+          "zt_value": 0.04,
+          "temperature": "843.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "I. Li(CF3SO2NH)2 II. C2H2",
+  "DOIs_Researched": [
+    "10.1016/j.eurpolymj.2019.109467"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Bis(trifluoromethane)-sulfonimide lithium doped acetylenes",
+        "Property": "Conductivity",
+        "Value": 0.0001,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.eurpolymj.2019.109467"
+      }
+    ]
+  }
+}

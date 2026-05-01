@@ -1,0 +1,34 @@
+{
+  "Material": "Cu2Si",
+  "DOIs_Researched": [
+    "10.1016/j.mtphys.2020.100271"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "Cu2SI0.1",
+        "Property": "ZT",
+        "Value": 1.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2020.100271"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2SI0.1",
+        "Property": "ZT",
+        "Value": 1.62,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2020.100271"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2SI0.1",
+        "Property": "ZT",
+        "Value": 1.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2020.100271"
+      }
+    ]
+  }
+}

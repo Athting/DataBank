@@ -1,0 +1,18 @@
+{
+  "Material": "Ca2.4Sr0.6Co4O9+\u03b4",
+  "DOIs_Researched": [
+    "10.1016/j.solidstatesciences.2020.106190"
+  ],
+  "Data_By_Temperature": {
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "Ca2.4Sr0.6Co4O9+\u03b4",
+        "Property": "PF",
+        "Value": 0.00021,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2020.106190"
+      }
+    ]
+  }
+}

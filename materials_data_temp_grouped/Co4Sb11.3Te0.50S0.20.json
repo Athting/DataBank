@@ -1,0 +1,18 @@
+{
+  "Material": "Co4Sb11.3Te0.50S0.20",
+  "DOIs_Researched": [
+    "10.1007/s10853-014-8141-3"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Co4Sb11.3Te0.50S0.20",
+        "Property": "ThermCond",
+        "Value": 2.9699999999999998,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-014-8141-3"
+      }
+    ]
+  }
+}

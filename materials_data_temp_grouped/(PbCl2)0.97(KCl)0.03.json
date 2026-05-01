@@ -1,0 +1,18 @@
+{
+  "Material": "(PbCl2)0.97(KCl)0.03",
+  "DOIs_Researched": [
+    "10.1016/B0-08-043152-6-00269-2"
+  ],
+  "Data_By_Temperature": {
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "(PbCl2)0.97(KCl)0.03",
+        "Property": "Conductivity",
+        "Value": 0.30000000000000004,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B0-08-043152-6-00269-2"
+      }
+    ]
+  }
+}

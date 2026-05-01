@@ -1,0 +1,160 @@
+{
+  "Material": "Bi2Te2S",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2017.01.115",
+    "10.1016/j.materresbull.2009.05.002",
+    "10.1016/j.jallcom.2018.12.340",
+    "10.1016/j.matchemphys.2020.123598",
+    "10.1016/j.actamat.2014.11.023",
+    "10.1038/am.2016.134",
+    "10.1039/c5tc02263k",
+    "10.1016/j.jmat.2018.05.008",
+    "10.1039/c8cp05793a"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Bi2Te2S",
+        "Property": "ThermCond",
+        "Value": 3.96,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8cp05793a"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Te2S",
+        "Property": "ZT",
+        "Value": 1.12,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2020.123598"
+      }
+    ],
+    "25.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Te2S",
+        "Property": "ThermCond",
+        "Value": 3.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2009.05.002"
+      }
+    ],
+    "398.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Te2S",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.01.115"
+      }
+    ],
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "n-type Bi2Te2S",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc02263k"
+      },
+      {
+        "Original_Name_In_Paper": "n-type Bi2Te2S",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2014.11.023"
+      },
+      {
+        "Original_Name_In_Paper": "n-type Bi2Te2S",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2016.134"
+      },
+      {
+        "Original_Name_In_Paper": "n-type Bi2Te2S",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2018.05.008"
+      }
+    ],
+    "413.0": [
+      {
+        "Original_Name_In_Paper": "doped Bi2Te2S materials",
+        "Property": "ZT",
+        "Value": 0.53,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2020.123598"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Te2S",
+        "Property": "Seebeck",
+        "Value": -0.00024000000000000003,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2020.123598"
+      },
+      {
+        "Original_Name_In_Paper": "doped Bi2Te2S materials",
+        "Property": "Seebeck",
+        "Value": 0.00024000000000000003,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2020.123598"
+      }
+    ],
+    "423.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Te2S",
+        "Property": "ZT",
+        "Value": 0.58,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.12.340"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "undoped Bi2Te2S",
+        "Property": "ZT",
+        "Value": 0.26,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2009.05.002"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Te2S",
+        "Property": "ZT",
+        "Value": 0.26,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2009.05.002"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Te2S",
+        "Property": "ZT",
+        "Value": 0.26,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2009.05.002"
+      }
+    ],
+    "523.0": [
+      {
+        "Original_Name_In_Paper": "undoped Bi2Te2S",
+        "Property": "Conductivity",
+        "Value": 37735.8490566038,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.12.340"
+      }
+    ]
+  }
+}

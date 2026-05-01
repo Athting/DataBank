@@ -1,0 +1,61 @@
+{
+  "doi": "10.1016/S0925-8388(05)00965-5",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "sodium borohydride"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "sodium borohydride",
+          "value": 0.0000981,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "sodium borohydride",
+          "zt_value": 0.064,
+          "temperature": "295 K"
+        },
+        {
+          "material": "sodium borohydride",
+          "zt_value": 0.09,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "sodium borohydride",
+          "zt_value": 0.09,
+          "temperature": "773.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

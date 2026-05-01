@@ -1,0 +1,18 @@
+{
+  "Material": "Al70Pd20Mn10",
+  "DOIs_Researched": [
+    "10.1557/PROC-553-489"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Al70Pd20Mn10",
+        "Property": "Seebeck",
+        "Value": 8.499999999999999e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1557/PROC-553-489"
+      }
+    ]
+  }
+}

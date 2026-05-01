@@ -1,0 +1,18 @@
+{
+  "Material": "CoSb3-xTe",
+  "DOIs_Researched": [
+    "10.1039/c5ra03942h"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "CoSb3\u2212xTex",
+        "Property": "ZT",
+        "Value": 0.93,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra03942h"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "transition-metal",
+  "DOIs_Researched": [
+    "10.1007/s11664-019-07182-x"
+  ],
+  "Data_By_Temperature": {
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "transition-metal",
+        "Property": "Seebeck",
+        "Value": 1.2e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-019-07182-x"
+      }
+    ]
+  }
+}

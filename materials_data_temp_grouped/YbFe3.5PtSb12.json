@@ -1,0 +1,18 @@
+{
+  "Material": "YbFe3.5PtSb12",
+  "DOIs_Researched": [
+    "10.1039/c4cp00383g"
+  ],
+  "Data_By_Temperature": {
+    "740.0": [
+      {
+        "Original_Name_In_Paper": "Yb0.95Fe3.5Pt0.5Sb12",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4cp00383g"
+      }
+    ]
+  }
+}

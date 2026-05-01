@@ -1,0 +1,18 @@
+{
+  "Material": "Ag2Se(Cu2Se)x",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2019.02.037"
+  ],
+  "Data_By_Temperature": {
+    "875.0": [
+      {
+        "Original_Name_In_Paper": "(Ag2Se)1-x(nano-Cu2Se)x",
+        "Property": "ZT",
+        "Value": 0.45,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2019.02.037"
+      }
+    ]
+  }
+}

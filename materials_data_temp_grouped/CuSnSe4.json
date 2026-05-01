@@ -1,0 +1,18 @@
+{
+  "Material": "CuSnSe4",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2018.03.136"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Cu1.99SnSe4",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.03.136"
+      }
+    ]
+  }
+}

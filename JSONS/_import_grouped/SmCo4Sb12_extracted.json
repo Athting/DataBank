@@ -1,0 +1,93 @@
+{
+  "doi": "10.1016/j.jallcom.2009.12.150",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Sm0.1Co4Sb12",
+        "Sm0.6Co4Sb12",
+        "Sm0.5Co4Sb12"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Sm0.6Co4Sb12",
+          "value": 2.34,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "703.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Sm0.6Co4Sb12",
+          "value": 0.0038,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Sm0.1Co4Sb12",
+          "value": 0.00237,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "568.0 K"
+        },
+        {
+          "material": "Sm0.1Co4Sb12",
+          "value": 0.00237,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "568.0 K"
+        },
+        {
+          "material": "Sm0.5Co4Sb12",
+          "value": 0.0025,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "665.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Sm0.1Co4Sb12",
+          "zt_value": 0.08,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Sm0.5Co4Sb12",
+          "zt_value": 0.81,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "Sm0.1Co4Sb12",
+          "zt_value": 0.55,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Sm0.1Co4Sb12",
+          "zt_value": 0.55,
+          "temperature": "711.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

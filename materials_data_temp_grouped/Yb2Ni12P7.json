@@ -1,0 +1,18 @@
+{
+  "Material": "Yb2Ni12P7",
+  "DOIs_Researched": [
+    "10.1016/S0921-4526(98)00383-4"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Yb2Ni12P7",
+        "Property": "Conductivity",
+        "Value": 714285.7142857143,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0921-4526(98)00383-4"
+      }
+    ]
+  }
+}

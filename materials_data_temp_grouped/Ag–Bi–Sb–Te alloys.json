@@ -1,0 +1,18 @@
+{
+  "Material": "Ag\u2013Bi\u2013Sb\u2013Te alloys",
+  "DOIs_Researched": [
+    "10.1016/j.matlet.2005.05.039"
+  ],
+  "Data_By_Temperature": {
+    "528.0": [
+      {
+        "Original_Name_In_Paper": "Ag\u2013Bi\u2013Sb\u2013Te alloys",
+        "Property": "Seebeck",
+        "Value": 0.00016,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2005.05.039"
+      }
+    ]
+  }
+}

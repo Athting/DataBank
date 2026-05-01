@@ -1,0 +1,43 @@
+{
+  "Material": "YbAl3B",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2014.02.112",
+    "10.1016/j.jallcom.2011.10.017"
+  ],
+  "Data_By_Temperature": {
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "Yb1.05Al3B0.10",
+        "Property": "ZT",
+        "Value": 0.33,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.02.112"
+      },
+      {
+        "Original_Name_In_Paper": "Yb1.05Al3B0.10",
+        "Property": "ZT",
+        "Value": 0.33,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2011.10.017"
+      },
+      {
+        "Original_Name_In_Paper": "Yb1.05Al3B0.10",
+        "Property": "ZT",
+        "Value": 0.33,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2011.10.017"
+      },
+      {
+        "Original_Name_In_Paper": "Yb1.05Al3B0.10",
+        "Property": "ZT",
+        "Value": 0.33,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2011.10.017"
+      }
+    ]
+  }
+}

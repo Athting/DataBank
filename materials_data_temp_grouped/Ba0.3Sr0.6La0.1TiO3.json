@@ -1,0 +1,26 @@
+{
+  "Material": "Ba0.3Sr0.6La0.1TiO3",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2003.07.016"
+  ],
+  "Data_By_Temperature": {
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "Ba0.3Sr0.6La0.1TiO3",
+        "Property": "ZT",
+        "Value": 0.00030000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2003.07.016"
+      },
+      {
+        "Original_Name_In_Paper": "Ba0.3Sr0.6La0.1TiO3",
+        "Property": "ZT",
+        "Value": 0.00030000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2003.07.016"
+      }
+    ]
+  }
+}

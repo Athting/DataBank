@@ -1,0 +1,18 @@
+{
+  "Material": "In0.13Lu0.05Co4.02Sb12",
+  "DOIs_Researched": [
+    "10.1016/j.ssc.2012.10.003"
+  ],
+  "Data_By_Temperature": {
+    "365.0": [
+      {
+        "Original_Name_In_Paper": "In0.13Lu0.05Co4.02Sb12 material",
+        "Property": "ZT",
+        "Value": 0.27,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2012.10.003"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "BaBiO3",
+  "DOIs_Researched": [
+    "10.1007/s10854-015-3480-7"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "BaBiO3",
+        "Property": "Conductivity",
+        "Value": 0.0661375661,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-015-3480-7"
+      }
+    ]
+  }
+}

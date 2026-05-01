@@ -1,0 +1,144 @@
+{
+  "Material": "Tl9BiTe6",
+  "DOIs_Researched": [
+    "10.1016/B978-0-12-409547-2.11642-7",
+    "10.1016/j.jssc.2011.01.031",
+    "10.1557/PROC-626-Z3.4",
+    "10.1016/j.jallcom.2015.01.025",
+    "10.1016/j.matlet.2005.05.039",
+    "10.1007/s11837-016-2060-5",
+    "10.1039/c0dt01151g",
+    "10.1016/S0925-8388(02)01114-3",
+    "10.1039/c5tc01670c",
+    "10.1016/B978-0-08-102687-8.00002-6",
+    "10.1016/j.jallcom.2005.04.217"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Tl9BiTe6",
+        "Property": "ThermCond",
+        "Value": 0.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2011.01.031"
+      },
+      {
+        "Original_Name_In_Paper": "Tl9BiTe6",
+        "Property": "ThermCond",
+        "Value": 0.39,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01670c"
+      },
+      {
+        "Original_Name_In_Paper": "Tl9BiTe6",
+        "Property": "Seebeck",
+        "Value": 0.000185,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1557/PROC-626-Z3.4"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Tl9BiTe6",
+        "Property": "ThermCond",
+        "Value": 0.39,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(02)01114-3"
+      },
+      {
+        "Original_Name_In_Paper": "Tl9BiTe6",
+        "Property": "ThermCond",
+        "Value": 0.39,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(02)01114-3"
+      },
+      {
+        "Original_Name_In_Paper": "Tl9BiTe6",
+        "Property": "Seebeck",
+        "Value": 0.000235,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(02)01114-3"
+      },
+      {
+        "Original_Name_In_Paper": "Tl9BiTe6",
+        "Property": "Conductivity",
+        "Value": 19300.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.01.025"
+      }
+    ],
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "Tl9BiTe6",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-12-409547-2.11642-7"
+      },
+      {
+        "Original_Name_In_Paper": "Tl9BiTe6",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11837-016-2060-5"
+      }
+    ],
+    "715.0": [
+      {
+        "Original_Name_In_Paper": "Tl9BiTe6",
+        "Property": "ZT",
+        "Value": 0.86,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2005.04.217"
+      }
+    ],
+    "590.0": [
+      {
+        "Original_Name_In_Paper": "Tl9BiTe6",
+        "Property": "ZT",
+        "Value": 0.86,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c0dt01151g"
+      },
+      {
+        "Original_Name_In_Paper": "Tl9BiTe6",
+        "Property": "PF",
+        "Value": 0.00062,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(02)01114-3"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Tl9BiTe6",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-08-102687-8.00002-6"
+      }
+    ],
+    "350.0": [
+      {
+        "Original_Name_In_Paper": "Tl9BiTe6",
+        "Property": "ZT",
+        "Value": 1.15,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2005.05.039"
+      }
+    ]
+  }
+}

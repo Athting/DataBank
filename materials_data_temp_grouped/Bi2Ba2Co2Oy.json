@@ -1,0 +1,18 @@
+{
+  "Material": "Bi2Ba2Co2Oy",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2019.11.185"
+  ],
+  "Data_By_Temperature": {
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Ba2Co2Oy + 0.05 wt % SiC",
+        "Property": "ZT",
+        "Value": 0.17,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2019.11.185"
+      }
+    ]
+  }
+}

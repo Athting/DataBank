@@ -1,0 +1,18 @@
+{
+  "Material": "Polyaniline / graphite composites with 50 wt. % graphite",
+  "DOIs_Researched": [
+    "10.1016/j.synthmet.2013.08.011"
+  ],
+  "Data_By_Temperature": {
+    "393.0": [
+      {
+        "Original_Name_In_Paper": "Polyaniline / graphite composites with 50 wt. % graphite",
+        "Property": "ZT",
+        "Value": 0.0013700000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.synthmet.2013.08.011"
+      }
+    ]
+  }
+}

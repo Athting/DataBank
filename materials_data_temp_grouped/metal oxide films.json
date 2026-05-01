@@ -1,0 +1,18 @@
+{
+  "Material": "metal oxide films",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2012.04.029"
+  ],
+  "Data_By_Temperature": {
+    "1273.0": [
+      {
+        "Original_Name_In_Paper": "metal oxide films",
+        "Property": "ZT",
+        "Value": 0.34,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2012.04.029"
+      }
+    ]
+  }
+}

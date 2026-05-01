@@ -1,0 +1,18 @@
+{
+  "Material": "Mg2Ge0.97Bi0.03",
+  "DOIs_Researched": [
+    "10.1038/s41598-017-04348-7"
+  ],
+  "Data_By_Temperature": {
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Ge0.97Bi0.03",
+        "Property": "ZT",
+        "Value": 0.32,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-017-04348-7"
+      }
+    ]
+  }
+}

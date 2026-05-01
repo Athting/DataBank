@@ -1,0 +1,18 @@
+{
+  "Material": "Ca9Zn4.5Sb9",
+  "DOIs_Researched": [
+    "10.1016/j.mtphys.2017.06.003"
+  ],
+  "Data_By_Temperature": {
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "Ca9Zn4.5Sb9",
+        "Property": "ZT",
+        "Value": 0.37,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2017.06.003"
+      }
+    ]
+  }
+}

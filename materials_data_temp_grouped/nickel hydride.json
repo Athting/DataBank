@@ -1,0 +1,18 @@
+{
+  "Material": "nickel hydride",
+  "DOIs_Researched": [
+    "10.1016/S0925-8388(02)00048-8"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "nickel hydride",
+        "Property": "Conductivity",
+        "Value": 13888888.888888886,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(02)00048-8"
+      }
+    ]
+  }
+}

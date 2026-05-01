@@ -1,0 +1,18 @@
+{
+  "Material": "Ag0.5Sb0.5Te(Ag0.5Sb0.5",
+  "DOIs_Researched": [
+    "10.1016/j.intermet.2014.09.004"
+  ],
+  "Data_By_Temperature": {
+    "720.0": [
+      {
+        "Original_Name_In_Paper": "(Ag0.5Sb0.5Te)100\u2212x(Pb0.16Ge0.84Te)x",
+        "Property": "ZT",
+        "Value": 0.84,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2014.09.004"
+      }
+    ]
+  }
+}

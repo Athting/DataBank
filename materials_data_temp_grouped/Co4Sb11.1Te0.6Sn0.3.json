@@ -1,0 +1,18 @@
+{
+  "Material": "Co4Sb11.1Te0.6Sn0.3",
+  "DOIs_Researched": [
+    "10.1039/c4ta05477f"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Co4Sb11.1Te0.6Sn0.3",
+        "Property": "PF",
+        "Value": 0.001135,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta05477f"
+      }
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "Material": "Zr0.5Hf0.5CoSb0.8Sn0.2",
+  "DOIs_Researched": [
+    "10.1007/s11434-014-0237-2",
+    "10.1016/j.actamat.2012.12.028",
+    "10.1016/B978-0-12-815751-0.00009-2",
+    "10.1039/c6tc01115b",
+    "10.1016/j.matlet.2018.06.019",
+    "10.1016/j.rser.2016.06.035"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "p-type Zr0.5Hf0.5CoSb0.8Sn0.2",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2012.12.028"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Zr0.5Hf0.5CoSb0.8Sn0.2",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11434-014-0237-2"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Zr0.5Hf0.5CoSb0.8Sn0.2",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-12-815751-0.00009-2"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Zr0.5Hf0.5CoSb0.8Sn0.2",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6tc01115b"
+      }
+    ],
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "p-type nanostructured Zr0.5Hf0.5CoSb0.8Sn0.2",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rser.2016.06.035"
+      }
+    ],
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "nanostructured Zr0.5Hf0.5CoSb0.8Sn0.2",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2018.06.019"
+      }
+    ]
+  }
+}

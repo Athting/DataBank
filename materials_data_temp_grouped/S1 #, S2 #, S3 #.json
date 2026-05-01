@@ -1,0 +1,18 @@
+{
+  "Material": "S1 #, S2 #, S3 #",
+  "DOIs_Researched": [
+    "10.1016/j.intermet.2010.01.008"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "S1 #, S2 #, S3 #",
+        "Property": "Seebeck",
+        "Value": 0.000111,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2010.01.008"
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "doi": "10.1039/c6ta10827j",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "InSb",
+        "single-crystal InSb",
+        "polycrystalline InSb",
+        "nanostructured InSb",
+        "nano-structured InSb",
+        "Te-doped n-type InSb",
+        "Te doped InSb single crystals",
+        "zinc-blende InSb nanowire"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "InSb",
+          "value": 71.4285714286,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "InSb",
+          "value": 17,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "InSb",
+          "value": 17,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "InSb",
+          "value": 14.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "InSb",
+          "value": 14.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "InSb",
+          "value": 3.07,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "InSb",
+          "value": 14.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "InSb",
+          "value": 14.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "InSb",
+          "value": 7.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "InSb",
+          "value": 14.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "InSb",
+          "value": 14.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "InSb",
+          "value": 10,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "200.0 K"
+        },
+        {
+          "material": "InSb",
+          "value": 17,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "InSb",
+          "value": 15,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "InSb",
+          "value": 5.7,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "450.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "InSb",
+          "zt_value": 0.51,
+          "temperature": "550.0 K"
+        },
+        {
+          "material": "InSb",
+          "zt_value": 0.51,
+          "temperature": "550.0 K"
+        },
+        {
+          "material": "InSb",
+          "zt_value": 0.56,
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "InSb",
+          "zt_value": 0.56,
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "InSb",
+          "zt_value": 0.56,
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "single-crystal InSb",
+          "zt_value": 0.5,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "polycrystalline InSb",
+          "zt_value": 0.4,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "polycrystalline InSb",
+          "zt_value": 0.4,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "polycrystalline InSb",
+          "zt_value": 0.4,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "nanostructured InSb",
+          "zt_value": 1.26,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "InSb",
+          "zt_value": 0.9,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "nanostructured InSb",
+          "zt_value": 1.43,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "nano-structured InSb",
+          "zt_value": 1.43,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "InSb",
+          "zt_value": 1.5,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "Te-doped n-type InSb",
+          "zt_value": 0.6000000000000001,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "Te doped InSb single crystals",
+          "zt_value": 0.6000000000000001,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "InSb",
+          "zt_value": 1.07,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "InSb",
+          "zt_value": 1,
+          "temperature": "687.0 K"
+        },
+        {
+          "material": "zinc-blende InSb nanowire",
+          "zt_value": 0.01,
+          "temperature": "400.0 K"
+        },
+        {
+          "material": "InSb",
+          "zt_value": 0.54,
+          "temperature": "770.0 K"
+        },
+        {
+          "material": "InSb",
+          "zt_value": 0.54,
+          "temperature": "770.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

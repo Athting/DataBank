@@ -1,0 +1,18 @@
+{
+  "Material": "VSSL",
+  "DOIs_Researched": [
+    "10.1557/jmr.2011.194"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "VSSL",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1557/jmr.2011.194"
+      }
+    ]
+  }
+}

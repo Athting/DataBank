@@ -1,0 +1,138 @@
+{
+  "doi": "10.1039/d0cp00002g",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "SiSb",
+        "SiSb monolayer",
+        "n-type SiSb",
+        "SiSb0.02",
+        "bulk SiSb0.02"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "SiSb",
+          "value": 0.0027619999999999997,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "SiSb monolayer",
+          "value": 4.75,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SiSb",
+          "value": 4.75,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SiSb",
+          "value": 4.75,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SiSb monolayer",
+          "value": 4.75,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SiSb0.02",
+          "value": 6.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1173.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "n-type SiSb",
+          "value": 0.025,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "700.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "SiSb",
+          "zt_value": 1.01,
+          "temperature": "295 K"
+        },
+        {
+          "material": "n-type SiSb",
+          "zt_value": 1.01,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SiSb",
+          "zt_value": 1.01,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "bulk SiSb0.02",
+          "zt_value": 0.6000000000000001,
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "SiSb0.02",
+          "zt_value": 0.48,
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "SiSb0.02",
+          "zt_value": 0.58,
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "SiSb0.02",
+          "zt_value": 0.6000000000000001,
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "n-type SiSb",
+          "zt_value": 2.2,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "SiSb",
+          "zt_value": 0.4,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "n-type SiSb",
+          "zt_value": 2,
+          "temperature": "700.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

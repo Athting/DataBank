@@ -1,0 +1,18 @@
+{
+  "Material": "Sr2YRuO6",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2008.09.003"
+  ],
+  "Data_By_Temperature": {
+    "1150.0": [
+      {
+        "Original_Name_In_Paper": "Sr2YRuO6",
+        "Property": "Conductivity",
+        "Value": 4.5454545455,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2008.09.003"
+      }
+    ]
+  }
+}

@@ -1,0 +1,483 @@
+{
+  "doi": "10.1039/c6ta10770b",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "pure CuGaTe2",
+        "CuGaTe2",
+        "pristine CuGaTe2",
+        "CuGaTe2 crystal",
+        "p-type CuGaTe2",
+        "n-type CuGaTe2",
+        "n-type doped CuGaTe2",
+        "CuGaTe2 matrix",
+        "Cu0.98GaTe2",
+        "CuGa0.98Gd0.02Te2",
+        "CuGaTe2 []",
+        "Cu0.985GaTe2",
+        "non-doped CuGaTe2",
+        "CuGa0.99Gd0.01Te2",
+        "Ag-doped CuGaTe2",
+        "CuGaTe2 + 2.28 vol %",
+        "CuGaTe2 + 0.5 wt %"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "CuGaTe2",
+          "value": 0.00041299999999999996,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "p-type CuGaTe2",
+          "value": 0.00041000000000000005,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "pure CuGaTe2",
+          "value": 12706.4803049555,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CuGaTe2",
+          "value": 13000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CuGaTe2",
+          "value": 103,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Cu0.98GaTe2",
+          "value": 70000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "CuGaTe2",
+          "value": 2900,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "670.0 K"
+        },
+        {
+          "material": "CuGaTe2",
+          "value": 13500,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "670.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "pure CuGaTe2",
+          "value": 8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CuGaTe2",
+          "value": 7,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine CuGaTe2",
+          "value": 8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CuGaTe2",
+          "value": 7.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CuGaTe2 crystal",
+          "value": 24,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "p-type CuGaTe2",
+          "value": 0.9,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "950.0 K"
+        },
+        {
+          "material": "CuGaTe2",
+          "value": 2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "CuGaTe2",
+          "value": 6.7,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Cu0.98GaTe2",
+          "value": 6.62,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "CuGa0.98Gd0.02Te2",
+          "value": 0.45,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "684.0 K"
+        },
+        {
+          "material": "pure CuGaTe2",
+          "value": 1.76,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "684.0 K"
+        },
+        {
+          "material": "CuGa0.98Gd0.02Te2",
+          "value": 0.45,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "684.0 K"
+        },
+        {
+          "material": "pure CuGaTe2",
+          "value": 1.76,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "684.0 K"
+        },
+        {
+          "material": "pure CuGaTe2",
+          "value": 1.8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "610.0 K"
+        },
+        {
+          "material": "pure CuGaTe2",
+          "value": 1.8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "610.0 K"
+        },
+        {
+          "material": "CuGaTe2",
+          "value": 0.54,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "859.0 K"
+        },
+        {
+          "material": "CuGaTe2",
+          "value": 0.00135,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "923.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "CuGaTe2",
+          "value": 0.0013000000000000002,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "pure CuGaTe2",
+          "value": 0.00075,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "721.0 K"
+        },
+        {
+          "material": "pure CuGaTe2",
+          "value": 0.0008500000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "763.0 K"
+        },
+        {
+          "material": "CuGaTe2",
+          "value": 0.0009889999999999999,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "650.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "CuGaTe2",
+          "zt_value": 1.4,
+          "temperature": "950.0 K"
+        },
+        {
+          "material": "n-type CuGaTe2",
+          "zt_value": 2.1,
+          "temperature": "950.0 K"
+        },
+        {
+          "material": "p-type CuGaTe2",
+          "zt_value": 1.5,
+          "temperature": "950.0 K"
+        },
+        {
+          "material": "n-type doped CuGaTe2",
+          "zt_value": 1.2,
+          "temperature": "950.0 K"
+        },
+        {
+          "material": "CuGaTe2",
+          "zt_value": 1.69,
+          "temperature": "950.0 K"
+        },
+        {
+          "material": "CuGaTe2",
+          "zt_value": 1.4,
+          "temperature": "950.0 K"
+        },
+        {
+          "material": "CuGaTe2",
+          "zt_value": 1.4,
+          "temperature": "950.0 K"
+        },
+        {
+          "material": "CuGaTe2",
+          "zt_value": 1.4,
+          "temperature": "950.0 K"
+        },
+        {
+          "material": "CuGaTe2",
+          "zt_value": 1.2,
+          "temperature": "950.0 K"
+        },
+        {
+          "material": "CuGaTe2",
+          "zt_value": 1.69,
+          "temperature": "950.0 K"
+        },
+        {
+          "material": "CuGaTe2",
+          "zt_value": 1.4,
+          "temperature": "950.0 K"
+        },
+        {
+          "material": "CuGaTe2",
+          "zt_value": 1.4,
+          "temperature": "950.0 K"
+        },
+        {
+          "material": "p-type CuGaTe2",
+          "zt_value": 1.4,
+          "temperature": "950.0 K"
+        },
+        {
+          "material": "CuGaTe2",
+          "zt_value": 1.4,
+          "temperature": "950.0 K"
+        },
+        {
+          "material": "CuGaTe2",
+          "zt_value": 1.4,
+          "temperature": "950.0 K"
+        },
+        {
+          "material": "CuGaTe2",
+          "zt_value": 1.4,
+          "temperature": "950.0 K"
+        },
+        {
+          "material": "CuGaTe2 matrix",
+          "zt_value": 1.4,
+          "temperature": "950.0 K"
+        },
+        {
+          "material": "CuGaTe2",
+          "zt_value": 1,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "CuGaTe2",
+          "zt_value": 1,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "CuGaTe2",
+          "zt_value": 0.6000000000000001,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "CuGaTe2",
+          "zt_value": 0.31,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "CuGaTe2",
+          "zt_value": 1.2,
+          "temperature": "859.0 K"
+        },
+        {
+          "material": "CuGaTe2",
+          "zt_value": 1.35,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "CuGaTe2 []",
+          "zt_value": 1.4,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "CuGaTe2",
+          "zt_value": 0.66,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "Cu0.985GaTe2",
+          "zt_value": 0.73,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "pure CuGaTe2",
+          "zt_value": 1.4,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "CuGaTe2",
+          "zt_value": 1.2,
+          "temperature": "834.0 K"
+        },
+        {
+          "material": "CuGaTe2",
+          "zt_value": 1.2,
+          "temperature": "834.0 K"
+        },
+        {
+          "material": "CuGaTe2",
+          "zt_value": 1.2,
+          "temperature": "834.0 K"
+        },
+        {
+          "material": "non-doped CuGaTe2",
+          "zt_value": 0.5,
+          "temperature": "870.0 K"
+        },
+        {
+          "material": "CuGaTe2",
+          "zt_value": 2,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "CuGaTe2",
+          "zt_value": 0.31,
+          "temperature": "590.0 K"
+        },
+        {
+          "material": "pure CuGaTe2",
+          "zt_value": 0.17,
+          "temperature": "590.0 K"
+        },
+        {
+          "material": "CuGaTe2",
+          "zt_value": 1,
+          "temperature": "840.0 K"
+        },
+        {
+          "material": "CuGaTe2",
+          "zt_value": 1,
+          "temperature": "840.0 K"
+        },
+        {
+          "material": "CuGaTe2",
+          "zt_value": 1,
+          "temperature": "840.0 K"
+        },
+        {
+          "material": "CuGaTe2",
+          "zt_value": 1,
+          "temperature": "840.0 K"
+        },
+        {
+          "material": "CuGa0.99Gd0.01Te2",
+          "zt_value": 0.75,
+          "temperature": "737.0 K"
+        },
+        {
+          "material": "CuGa0.99Gd0.01Te2",
+          "zt_value": 0.75,
+          "temperature": "737.0 K"
+        },
+        {
+          "material": "pure CuGaTe2",
+          "zt_value": 0.34,
+          "temperature": "737.0 K"
+        },
+        {
+          "material": "CuGa0.99Gd0.01Te2",
+          "zt_value": 0.7000000000000001,
+          "temperature": "737.0 K"
+        },
+        {
+          "material": "CuGaTe2",
+          "zt_value": 1.45,
+          "temperature": "940.0 K"
+        },
+        {
+          "material": "Ag-doped CuGaTe2",
+          "zt_value": 0.30000000000000004,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "CuGaTe2",
+          "zt_value": 1.07,
+          "temperature": "721.0 K"
+        },
+        {
+          "material": "CuGaTe2 + 2.28 vol %",
+          "zt_value": 0.93,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "CuGaTe2 + 0.5 wt %",
+          "zt_value": 1,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "CuGaTe2 + 0.5 wt %",
+          "zt_value": 1,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "pure CuGaTe2",
+          "zt_value": 0.8,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "CuGaTe2 + 0.5 wt %",
+          "zt_value": 1,
+          "temperature": "873.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

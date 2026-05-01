@@ -1,0 +1,26 @@
+{
+  "Material": "Cs2InAgCl6",
+  "DOIs_Researched": [
+    "10.1016/j.cocom.2019.e00374"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Cs2InAgCl6",
+        "Property": "ZT",
+        "Value": 0.9400000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cocom.2019.e00374"
+      },
+      {
+        "Original_Name_In_Paper": "Cs2InAgCl6",
+        "Property": "ZT",
+        "Value": 0.86,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cocom.2019.e00374"
+      }
+    ]
+  }
+}

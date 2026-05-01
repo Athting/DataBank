@@ -1,0 +1,18 @@
+{
+  "Material": "Ca2.7Dy0.3Co4O9+\u03b4",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2003.12.018"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "Ca2.7Dy0.3Co4O9+\u03b4",
+        "Property": "ZT",
+        "Value": 0.27,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2003.12.018"
+      }
+    ]
+  }
+}

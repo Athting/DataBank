@@ -1,0 +1,18 @@
+{
+  "Material": "Yb5Al2Sb6",
+  "DOIs_Researched": [
+    "10.1557/PROC-1044-U06-01"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Yb5Al2Sb6",
+        "Property": "Conductivity",
+        "Value": 110000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1557/PROC-1044-U06-01"
+      }
+    ]
+  }
+}

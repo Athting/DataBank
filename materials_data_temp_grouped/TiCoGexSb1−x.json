@@ -1,0 +1,18 @@
+{
+  "Material": "TiCoGexSb1\u2212x",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2007.12.055"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "TiCoGexSb1\u2212x compounds",
+        "Property": "ThermCond",
+        "Value": 0.007,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2007.12.055"
+      }
+    ]
+  }
+}

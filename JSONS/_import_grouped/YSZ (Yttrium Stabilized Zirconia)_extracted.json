@@ -1,0 +1,148 @@
+{
+  "doi": "10.1016/B978-012654640-8-50028-6",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "YSZ"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "YSZ",
+          "value": 10,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "1273.0 K"
+        },
+        {
+          "material": "YSZ",
+          "value": 160,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "1273.0 K"
+        },
+        {
+          "material": "YSZ",
+          "value": 3,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "1273.0 K"
+        },
+        {
+          "material": "YSZ",
+          "value": 13,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "1273.0 K"
+        },
+        {
+          "material": "YSZ",
+          "value": 25,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "1273.0 K"
+        },
+        {
+          "material": "YSZ",
+          "value": 10,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "1273.0 K"
+        },
+        {
+          "material": "YSZ",
+          "value": 0.5,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "YSZ",
+          "value": 96,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "YSZ",
+          "value": 96,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "YSZ",
+          "value": 0.00001,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "YSZ",
+          "value": 1,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "YSZ",
+          "value": 36000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "YSZ",
+          "value": 3.3,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "YSZ",
+          "value": 100,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "YSZ",
+          "value": 0.01,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "770.0 K"
+        },
+        {
+          "material": "YSZ",
+          "value": 1,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "635.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "YSZ",
+          "value": 2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "YSZ",
+          "zt_value": 0.21,
+          "temperature": "900.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

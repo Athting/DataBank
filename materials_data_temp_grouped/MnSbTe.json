@@ -1,0 +1,18 @@
+{
+  "Material": "MnSbTe",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2020.155374"
+  ],
+  "Data_By_Temperature": {
+    "730.0": [
+      {
+        "Original_Name_In_Paper": "Mn0.98Sb0.02Te",
+        "Property": "PF",
+        "Value": 0.0017679999999999998,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.155374"
+      }
+    ]
+  }
+}

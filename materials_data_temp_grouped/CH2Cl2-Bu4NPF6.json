@@ -1,0 +1,18 @@
+{
+  "Material": "CH2Cl2-Bu4NPF6",
+  "DOIs_Researched": [
+    "10.1039/c5ra11849b"
+  ],
+  "Data_By_Temperature": {
+    "298.0": [
+      {
+        "Original_Name_In_Paper": "CH2Cl2\u2013Bu4NPF6",
+        "Property": "Conductivity",
+        "Value": 0.078,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra11849b"
+      }
+    ]
+  }
+}

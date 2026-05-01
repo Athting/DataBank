@@ -1,0 +1,38 @@
+{
+  "Material": "Sr2TiMoO6",
+  "DOIs_Researched": [
+    "10.1016/j.scriptamat.2016.11.033"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Sr2TiMoO6",
+        "Property": "Seebeck",
+        "Value": 2.3e-06,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2016.11.033"
+      }
+    ],
+    "1230.0": [
+      {
+        "Original_Name_In_Paper": "Sr2TiMoO6",
+        "Property": "Seebeck",
+        "Value": -1.05e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2016.11.033"
+      }
+    ],
+    "550.0": [
+      {
+        "Original_Name_In_Paper": "Sr2TiMoO6",
+        "Property": "Conductivity",
+        "Value": 105.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2016.11.033"
+      }
+    ]
+  }
+}

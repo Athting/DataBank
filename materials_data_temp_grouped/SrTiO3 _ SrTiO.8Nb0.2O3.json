@@ -1,0 +1,18 @@
+{
+  "Material": "SrTiO3 : SrTiO.8Nb0.2O3",
+  "DOIs_Researched": [
+    "10.1039/c6cp05523k"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "SrTiO3 : SrTi0.8Nb0.2O3",
+        "Property": "ZT",
+        "Value": 0.24,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6cp05523k"
+      }
+    ]
+  }
+}

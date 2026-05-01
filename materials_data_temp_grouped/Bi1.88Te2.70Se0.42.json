@@ -1,0 +1,18 @@
+{
+  "Material": "Bi1.88Te2.70Se0.42",
+  "DOIs_Researched": [
+    "10.1016/j.tsf.2018.06.001"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Bi1.88Te2.70Se0.42 film",
+        "Property": "Seebeck",
+        "Value": -5e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2018.06.001"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Mg2Sn0.735Ge0.25Sb0.01",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2015.11.006"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Mg2Sn0.735Ge0.25Sb0.015",
+        "Property": "PF",
+        "Value": 0.0045000000000000005,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2015.11.006"
+      }
+    ]
+  }
+}

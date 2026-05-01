@@ -1,0 +1,18 @@
+{
+  "Material": "pure In2O3(ZnO)5 bulk",
+  "DOIs_Researched": [
+    "10.1016/j.scriptamat.2019.01.039"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "pure In2O3(ZnO)5 bulk",
+        "Property": "ZT",
+        "Value": 0.11,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2019.01.039"
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "Material": "Co4Sb11.3Te0.7-xSex",
+  "DOIs_Researched": [
+    "10.1016/j.materresbull.2012.03.059",
+    "10.1016/j.jallcom.2014.07.173"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Co4Sb11.3Te0.7\u2212xSex",
+        "Property": "ThermCond",
+        "Value": 1.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.07.173"
+      }
+    ],
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "Co4Sb11.3Te0.7\u2212xSex",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2012.03.059"
+      }
+    ]
+  }
+}

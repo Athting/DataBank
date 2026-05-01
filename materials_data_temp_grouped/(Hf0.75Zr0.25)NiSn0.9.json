@@ -1,0 +1,18 @@
+{
+  "Material": "(Hf0.75Zr0.25)NiSn0.9",
+  "DOIs_Researched": [
+    "10.1016/j.mattod.2020.01.002"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "nanostructured (Hf0.75Zr0.25)NiSn0.99Sb0.01 compounds",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mattod.2020.01.002"
+      }
+    ]
+  }
+}

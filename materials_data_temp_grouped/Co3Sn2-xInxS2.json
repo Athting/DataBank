@@ -1,0 +1,18 @@
+{
+  "Material": "Co3Sn2-xInxS2",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2017.04.028"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Co3Sn2\u2212xInxS2",
+        "Property": "PF",
+        "Value": 0.0012000000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2017.04.028"
+      }
+    ]
+  }
+}

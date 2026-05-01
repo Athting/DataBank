@@ -1,0 +1,28 @@
+{
+  "Material": "CoAs3",
+  "DOIs_Researched": [
+    "10.1039/c9ra03882e"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "CoAs3",
+        "Property": "ThermCond",
+        "Value": 0.1218,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ra03882e"
+      }
+    ],
+    "50.0": [
+      {
+        "Original_Name_In_Paper": "CoAs3",
+        "Property": "Conductivity",
+        "Value": 15.92,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ra03882e"
+      }
+    ]
+  }
+}

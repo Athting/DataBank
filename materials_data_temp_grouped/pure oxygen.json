@@ -1,0 +1,29 @@
+{
+  "Material": "pure oxygen",
+  "DOIs_Researched": [
+    "10.1016/S0927-5193(07)13010-2",
+    "10.1016/j.snb.2008.12.024"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "pure oxygen",
+        "Property": "Seebeck",
+        "Value": 0.0004900000000000001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.snb.2008.12.024"
+      }
+    ],
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "pure oxygen",
+        "Property": "Conductivity",
+        "Value": 10.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0927-5193(07)13010-2"
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "Material": "Ba8Ge46",
+  "DOIs_Researched": [
+    "10.1016/j.intermet.2012.12.010",
+    "10.1016/j.jallcom.2013.03.074"
+  ],
+  "Data_By_Temperature": {
+    "680.0": [
+      {
+        "Original_Name_In_Paper": "Ba8AuxGe46\u2212x",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2012.12.010"
+      },
+      {
+        "Original_Name_In_Paper": "Ba8AuxGe46\u2212x",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.03.074"
+      }
+    ]
+  }
+}

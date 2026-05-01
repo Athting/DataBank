@@ -1,0 +1,26 @@
+{
+  "Material": "Pr\u2082.74Te\u2084",
+  "DOIs_Researched": [
+    "10.1016/j.joule.2018.01.013"
+  ],
+  "Data_By_Temperature": {
+    "1200.0": [
+      {
+        "Original_Name_In_Paper": "Pr2.74Te4",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2018.01.013"
+      },
+      {
+        "Original_Name_In_Paper": "Pr2.74Te4",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2018.01.013"
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "Material": "PEDOT:PSS",
+  "DOIs_Researched": [
+    "10.1039/c9qm00087a",
+    "10.1039/c8ra06094k",
+    "10.1016/j.synthmet.2013.09.046",
+    "10.1039/c5ra05551b",
+    "10.1039/c3ta14960a",
+    "10.1007/s10854-019-01721-2",
+    "10.1016/j.synthmet.2012.04.005",
+    "10.1039/c3ra42414f",
+    "10.1016/j.cej.2017.03.023",
+    "10.1016/j.synthmet.2015.03.010",
+    "10.1016/j.compscitech.2016.01.014",
+    "10.1016/j.synthmet.2020.116536",
+    "10.1007/s10965-015-0883-3",
+    "10.1016/j.jallcom.2017.11.013",
+    "10.1007/s10853-017-1166-7",
+    "10.1039/c2cp23517j",
+    "10.1016/j.orgel.2020.105682",
+    "10.1039/c7cc09595c",
+    "10.1007/s10854-015-3523-0",
+    "10.1016/j.jmat.2020.01.001"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "pure PEDOT : PSS",
+        "Property": "ThermCond",
+        "Value": 0.17,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ra42414f"
+      },
+      {
+        "Original_Name_In_Paper": "pristine PEDOT : PSS",
+        "Property": "ThermCond",
+        "Value": 0.17,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-015-3523-0"
+      },
+      {
+        "Original_Name_In_Paper": "pristine PEDOT : PSS",
+        "Property": "ZT",
+        "Value": 0.00030199999999999997,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.synthmet.2013.09.046"
+      },
+      {
+        "Original_Name_In_Paper": "dimethyl sulphoxide (DMSO)-doped PEDOT : poly(styrene sulfonic acid )",
+        "Property": "ZT",
+        "Value": 0.42,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.compscitech.2016.01.014"
+      },
+      {
+        "Original_Name_In_Paper": "pristine PEDOT : PSS nanofilms",
+        "Property": "ZT",
+        "Value": 0.007,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta14960a"
+      },
+      {
+        "Original_Name_In_Paper": "polymer PEDOT : PSS",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cej.2017.03.023"
+      },
+      {
+        "Original_Name_In_Paper": "pure PEDOT : PSS",
+        "Property": "ZT",
+        "Value": 0.0024200000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra05551b"
+      },
+      {
+        "Original_Name_In_Paper": "pristine PEDOT : PSS",
+        "Property": "Seebeck",
+        "Value": 1.7899999999999998e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-017-1166-7"
+      },
+      {
+        "Original_Name_In_Paper": "PEDOT : PSS with 29.6 wt % Ge",
+        "Property": "PF",
+        "Value": 0.000165,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.11.013"
+      },
+      {
+        "Original_Name_In_Paper": "pristine PEDOT : PSS",
+        "Property": "PF",
+        "Value": 1e-06,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2020.01.001"
+      },
+      {
+        "Original_Name_In_Paper": "PEDOT : PSS films with p-toluenesulfonic acid monohydrate",
+        "Property": "PF",
+        "Value": 0.000318,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.orgel.2020.105682"
+      },
+      {
+        "Original_Name_In_Paper": "PEDOT : PSS films with sulfuric acid",
+        "Property": "PF",
+        "Value": 0.000334,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.orgel.2020.105682"
+      },
+      {
+        "Original_Name_In_Paper": "Pristine PEDOT : PSS",
+        "Property": "Conductivity",
+        "Value": 100.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.synthmet.2020.116536"
+      },
+      {
+        "Original_Name_In_Paper": "pristine PEDOT : PSS pellet",
+        "Property": "Conductivity",
+        "Value": 900.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.synthmet.2012.04.005"
+      },
+      {
+        "Original_Name_In_Paper": "pristine PEDOT : PSS",
+        "Property": "Conductivity",
+        "Value": 105.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.synthmet.2015.03.010"
+      },
+      {
+        "Original_Name_In_Paper": "pure PEDOT : PSS film",
+        "Property": "Conductivity",
+        "Value": 20.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.synthmet.2015.03.010"
+      },
+      {
+        "Original_Name_In_Paper": "pristine PEDOT : PSS",
+        "Property": "Conductivity",
+        "Value": 31.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-017-1166-7"
+      }
+    ],
+    "348.0": [
+      {
+        "Original_Name_In_Paper": "pristine PEDOT : PSS",
+        "Property": "ZT",
+        "Value": 0.0029000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cc09595c"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "PEDOT : PSS thin film with 2 wt % graphene",
+        "Property": "ZT",
+        "Value": 0.021,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2cp23517j"
+      },
+      {
+        "Original_Name_In_Paper": "pure bulk PEDOT : PSS",
+        "Property": "ZT",
+        "Value": 0.00055,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra05551b"
+      },
+      {
+        "Original_Name_In_Paper": "pure PEDOT : PSS",
+        "Property": "Seebeck",
+        "Value": 1.6499999999999998e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9qm00087a"
+      }
+    ],
+    "423.0": [
+      {
+        "Original_Name_In_Paper": "pristine PEDOT : PSS",
+        "Property": "Seebeck",
+        "Value": 2e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-019-01721-2"
+      },
+      {
+        "Original_Name_In_Paper": "pristine PEDOT : PSS",
+        "Property": "PF",
+        "Value": 7e-08,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-019-01721-2"
+      },
+      {
+        "Original_Name_In_Paper": "pristine PEDOT : PSS",
+        "Property": "Conductivity",
+        "Value": 170.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-019-01721-2"
+      }
+    ],
+    "470.0": [
+      {
+        "Original_Name_In_Paper": "pure PEDOT : PSS film",
+        "Property": "PF",
+        "Value": 5e-09,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10965-015-0883-3"
+      }
+    ],
+    "298.0": [
+      {
+        "Original_Name_In_Paper": "PEDOT : PSS films with HNO3",
+        "Property": "Conductivity",
+        "Value": 269300.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ra06094k"
+      }
+    ]
+  }
+}

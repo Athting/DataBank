@@ -1,0 +1,42 @@
+{
+  "Material": "LaPtBi",
+  "DOIs_Researched": [
+    "10.1039/d0cp01442g"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "n-type LaPtBi",
+        "Property": "ZT",
+        "Value": 1.74,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0cp01442g"
+      },
+      {
+        "Original_Name_In_Paper": "n-type LaPtBi",
+        "Property": "ZT",
+        "Value": 1.74,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0cp01442g"
+      },
+      {
+        "Original_Name_In_Paper": "n-type LaPtBi",
+        "Property": "ZT",
+        "Value": 1.74,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0cp01442g"
+      },
+      {
+        "Original_Name_In_Paper": "p-type LaPtBi",
+        "Property": "Seebeck",
+        "Value": 0.00035000000000000005,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0cp01442g"
+      }
+    ]
+  }
+}

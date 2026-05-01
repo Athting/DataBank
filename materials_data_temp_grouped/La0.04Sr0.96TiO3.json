@@ -1,0 +1,18 @@
+{
+  "Material": "La0.04Sr0.96TiO3",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2016.07.093"
+  ],
+  "Data_By_Temperature": {
+    "150.0": [
+      {
+        "Original_Name_In_Paper": "La0.04Sr0.96TiO3",
+        "Property": "ZT",
+        "Value": 0.02,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.07.093"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Ca2Fe2O5.16",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2005.09.020"
+  ],
+  "Data_By_Temperature": {
+    "250.0": [
+      {
+        "Original_Name_In_Paper": "Ca2Fe2O5.16",
+        "Property": "Seebeck",
+        "Value": -1e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2005.09.020"
+      }
+    ]
+  }
+}

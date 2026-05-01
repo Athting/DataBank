@@ -1,0 +1,18 @@
+{
+  "Material": "Bi CCO",
+  "DOIs_Researched": [
+    "10.1016/j.jeurceramsoc.2019.03.036"
+  ],
+  "Data_By_Temperature": {
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "BiCCO pellets",
+        "Property": "Conductivity",
+        "Value": 7700.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2019.03.036"
+      }
+    ]
+  }
+}

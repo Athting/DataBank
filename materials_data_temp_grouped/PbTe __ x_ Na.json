@@ -1,0 +1,49 @@
+{
+  "Material": "PbTe \\* x: Na",
+  "DOIs_Researched": [
+    "10.1007/s10853-020-04949-0",
+    "10.1016/j.ceramint.2020.04.182"
+  ],
+  "Data_By_Temperature": {
+    "311.0": [
+      {
+        "Original_Name_In_Paper": "Pb1-xNaxTe",
+        "Property": "ThermCond",
+        "Value": 1.92,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2020.04.182"
+      }
+    ],
+    "760.0": [
+      {
+        "Original_Name_In_Paper": "Pb1-xNaxTe",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Pb1-xNaxTe",
+        "Property": "Seebeck",
+        "Value": 6.000000000000001e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2020.04.182"
+      }
+    ],
+    "530.0": [
+      {
+        "Original_Name_In_Paper": "Pb1-xNaxTe",
+        "Property": "PF",
+        "Value": 0.0026000000000000003,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2020.04.182"
+      }
+    ]
+  }
+}

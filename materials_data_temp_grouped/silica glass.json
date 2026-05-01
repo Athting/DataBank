@@ -1,0 +1,18 @@
+{
+  "Material": "silica glass",
+  "DOIs_Researched": [
+    "10.1007/s11696-016-0077-4"
+  ],
+  "Data_By_Temperature": {
+    "283.0": [
+      {
+        "Original_Name_In_Paper": "silica glass",
+        "Property": "Conductivity",
+        "Value": 242.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11696-016-0077-4"
+      }
+    ]
+  }
+}

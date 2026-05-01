@@ -1,0 +1,18 @@
+{
+  "Material": "CuSb",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2013.11.150"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Cu2Sb",
+        "Property": "Conductivity",
+        "Value": 250000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.11.150"
+      }
+    ]
+  }
+}

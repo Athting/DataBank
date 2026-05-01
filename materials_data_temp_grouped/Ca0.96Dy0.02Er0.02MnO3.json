@@ -1,0 +1,18 @@
+{
+  "Material": "Ca0.96Dy0.02Er0.02MnO3",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2014.07.028"
+  ],
+  "Data_By_Temperature": {
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "Ca0.96Dy0.02Er0.02MnO3",
+        "Property": "PF",
+        "Value": 0.00035000000000000005,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2014.07.028"
+      }
+    ]
+  }
+}

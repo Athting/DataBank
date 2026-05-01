@@ -1,0 +1,26 @@
+{
+  "Material": "HfTiCoSb0.85Sn0.15",
+  "DOIs_Researched": [
+    "10.1016/j.nimb.2020.06.013"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "p-type Hf0.5Ti0.5CoSb0.85Sn0.15",
+        "Property": "ZT",
+        "Value": 0.24,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nimb.2020.06.013"
+      },
+      {
+        "Original_Name_In_Paper": "Hf0.5Ti0.5CoSb0.85Sn0.15",
+        "Property": "ZT",
+        "Value": 0.31,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nimb.2020.06.013"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Cu26Cr2Ge6S32",
+  "DOIs_Researched": [
+    "10.1007/s10948-019-05354-8"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "thiochromate Cu26Cr2Ge6S32",
+        "Property": "PF",
+        "Value": 0.00194,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10948-019-05354-8"
+      }
+    ]
+  }
+}

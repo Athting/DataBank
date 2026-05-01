@@ -1,0 +1,26 @@
+{
+  "Material": "CuSe (Mg)",
+  "DOIs_Researched": [
+    "10.1016/j.intermet.2019.106541"
+  ],
+  "Data_By_Temperature": {
+    "860.0": [
+      {
+        "Original_Name_In_Paper": "Mg-doped Cu2Se",
+        "Property": "ZT",
+        "Value": 1.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2019.106541"
+      },
+      {
+        "Original_Name_In_Paper": "Mg-doped Cu2Se",
+        "Property": "ZT",
+        "Value": 1.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2019.106541"
+      }
+    ]
+  }
+}

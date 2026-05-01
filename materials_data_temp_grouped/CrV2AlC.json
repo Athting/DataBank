@@ -1,0 +1,42 @@
+{
+  "Material": "CrV2AlC",
+  "DOIs_Researched": [
+    "10.1016/S0925-8388(09)01720-4"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "( Cr 1H11002x V x ) 2 AlC",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(09)01720-4"
+      },
+      {
+        "Original_Name_In_Paper": "( Cr 1H11002x V x ) 2 AlC",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(09)01720-4"
+      },
+      {
+        "Original_Name_In_Paper": "( Cr 1H11002x V x ) 2 AlC",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": "Ge addition",
+        "Source_DOI": "10.1016/S0925-8388(09)01720-4"
+      },
+      {
+        "Original_Name_In_Paper": "( Cr 1H11002x V x ) 2 AlC",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(09)01720-4"
+      }
+    ]
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "Material": "Fe2O3",
+  "DOIs_Researched": [
+    "10.1007/s00339-019-2822-3",
+    "10.1016/j.jpowsour.2016.12.120",
+    "10.1039/c4ra14655g",
+    "10.1016/S0254-0584(00)00242-X",
+    "10.1016/j.pmatsci.2013.06.003",
+    "10.1016/S0925-8388(09)01720-4",
+    "10.1016/j.ceramint.2018.05.132",
+    "10.1016/j.enbuild.2017.10.032",
+    "10.1039/c5ra26138d",
+    "10.1016/j.mtener.2020.100492"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "\u03b1-Fe2O3",
+        "Property": "ThermCond",
+        "Value": 3.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.05.132"
+      },
+      {
+        "Original_Name_In_Paper": "\u03b1-Fe2O3",
+        "Property": "Seebeck",
+        "Value": -0.0006500000000000001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.05.132"
+      },
+      {
+        "Original_Name_In_Paper": "natural hematite",
+        "Property": "Conductivity",
+        "Value": 11.6,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpowsour.2016.12.120"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "iron oxide nanoparticles",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(09)01720-4"
+      }
+    ],
+    "270.0": [
+      {
+        "Original_Name_In_Paper": "Fe2O3 thin films",
+        "Property": "Seebeck",
+        "Value": 0.0016500000000000002,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2013.06.003"
+      },
+      {
+        "Original_Name_In_Paper": "Fe2O3 thin films",
+        "Property": "Seebeck",
+        "Value": 0.0016500000000000002,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra14655g"
+      },
+      {
+        "Original_Name_In_Paper": "Fe2O3 thin films",
+        "Property": "Seebeck",
+        "Value": 0.0016500000000000002,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra26138d"
+      }
+    ],
+    "343.0": [
+      {
+        "Original_Name_In_Paper": "Fe2O3",
+        "Property": "Seebeck",
+        "Value": 0.000107,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtener.2020.100492"
+      }
+    ],
+    "338.0": [
+      {
+        "Original_Name_In_Paper": "Fe2O3",
+        "Property": "Seebeck",
+        "Value": -5.4499999999999997e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.enbuild.2017.10.032"
+      }
+    ],
+    "423.0": [
+      {
+        "Original_Name_In_Paper": "ferric oxide",
+        "Property": "Seebeck",
+        "Value": 0.000158,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s00339-019-2822-3"
+      },
+      {
+        "Original_Name_In_Paper": "ferric oxide",
+        "Property": "Conductivity",
+        "Value": 0.0017000000000000001,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s00339-019-2822-3"
+      }
+    ],
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "Ag-free Fe2O3",
+        "Property": "PF",
+        "Value": 1.4e-06,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.05.132"
+      }
+    ],
+    "548.0": [
+      {
+        "Original_Name_In_Paper": "Fe2O3",
+        "Property": "Conductivity",
+        "Value": 0.013000000000000001,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0254-0584(00)00242-X"
+      }
+    ]
+  }
+}

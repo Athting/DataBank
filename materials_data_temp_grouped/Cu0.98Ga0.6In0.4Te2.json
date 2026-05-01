@@ -1,0 +1,18 @@
+{
+  "Material": "Cu0.98Ga0.6In0.4Te2",
+  "DOIs_Researched": [
+    "10.1039/c5ta09584k"
+  ],
+  "Data_By_Temperature": {
+    "650.0": [
+      {
+        "Original_Name_In_Paper": "Cu0.98(Ga0.6In0.4)Te2",
+        "Property": "PF",
+        "Value": 0.001353,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta09584k"
+      }
+    ]
+  }
+}

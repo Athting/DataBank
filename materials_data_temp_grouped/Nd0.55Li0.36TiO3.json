@@ -1,0 +1,26 @@
+{
+  "Material": "Nd0.55Li0.36TiO3",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2015.12.231"
+  ],
+  "Data_By_Temperature": {
+    "650.0": [
+      {
+        "Original_Name_In_Paper": "5 at % Nb-doped (Nd0.55Li0.36)TiO3",
+        "Property": "ZT",
+        "Value": 0.05,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.12.231"
+      },
+      {
+        "Original_Name_In_Paper": "5 at % Nb-doped (Nd0.55Li0.36)TiO3",
+        "Property": "ZT",
+        "Value": 0.05,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.12.231"
+      }
+    ]
+  }
+}

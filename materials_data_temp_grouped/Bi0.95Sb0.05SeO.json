@@ -1,0 +1,34 @@
+{
+  "Material": "Bi0.95Sb0.05SeO",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2017.04.121"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.95Sb0.05CuSeO bulk",
+        "Property": "ZT",
+        "Value": 0.73,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.04.121"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.95Sb0.05CuSeO bulk",
+        "Property": "ZT",
+        "Value": 0.73,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.04.121"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.95Sb0.05CuSeO bulk",
+        "Property": "PF",
+        "Value": 0.00036,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.04.121"
+      }
+    ]
+  }
+}

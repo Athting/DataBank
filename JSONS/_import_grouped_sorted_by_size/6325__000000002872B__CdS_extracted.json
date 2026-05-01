@@ -1,0 +1,120 @@
+{
+  "doi": "10.1016/j.ceramint.2012.01.056",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "CdS",
+        "CdS film",
+        "un-doped CdS",
+        "CdS nanoparticles",
+        "CdS nanocrystals"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "un-doped CdS",
+          "value": 0.00025,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "un-doped CdS",
+          "value": 0.00024000000000000003,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "200.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "CdS film",
+          "value": 12.6742712294,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CdS",
+          "value": 0.00006329110000000001,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CdS nanoparticles",
+          "value": 0.00015000000000000001,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CdS",
+          "value": 0.0001,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CdS",
+          "value": 0.0000028571,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "CdS",
+          "value": 0.0000066667,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "CdS",
+          "value": 0.58,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "823.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "CdS",
+          "zt_value": 0.728,
+          "temperature": "295 K"
+        },
+        {
+          "material": "CdS",
+          "zt_value": 1.3,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "CdS",
+          "zt_value": 1.3,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "CdS nanocrystals",
+          "zt_value": 2,
+          "temperature": "773.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

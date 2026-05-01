@@ -1,0 +1,18 @@
+{
+  "Material": "YbNi2\u2212xFexAl8",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2008.08.029"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "YbNi2\u2212xFexAl8",
+        "Property": "Seebeck",
+        "Value": -1e-06,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2008.08.029"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "Material": "graphene / PEDOT : PSS",
+  "DOIs_Researched": [
+    "10.1038/s41598-019-50754-4",
+    "10.1007/s10854-019-02280-2"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "graphene / PEDOT : PSS",
+        "Property": "ZT",
+        "Value": 0.021,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-019-02280-2"
+      },
+      {
+        "Original_Name_In_Paper": "graphene / PEDOT : PSS",
+        "Property": "PF",
+        "Value": 1.109e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-019-02280-2"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "graphene / PEDOT : PSS",
+        "Property": "PF",
+        "Value": 5.8e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-019-50754-4"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "p-type Pb0.98Na0.02S",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2019.153453"
+  ],
+  "Data_By_Temperature": {
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "p-type Pb0.98Na0.02S",
+        "Property": "ThermCond",
+        "Value": 0.53,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.153453"
+      }
+    ]
+  }
+}

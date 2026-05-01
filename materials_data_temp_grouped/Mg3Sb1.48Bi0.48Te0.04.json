@@ -1,0 +1,50 @@
+{
+  "Material": "Mg3Sb1.48Bi0.48Te0.04",
+  "DOIs_Researched": [
+    "10.1007/s40948-019-00134-z",
+    "10.1038/ncomms13901",
+    "10.1016/j.jssc.2018.11.030"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Mg3Sb1.48Bi0.48Te0.04",
+        "Property": "ZT",
+        "Value": 1.65,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/ncomms13901"
+      }
+    ],
+    "725.0": [
+      {
+        "Original_Name_In_Paper": "Mg3Sb1.48Bi048Te0.04",
+        "Property": "ZT",
+        "Value": 1.65,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s40948-019-00134-z"
+      }
+    ],
+    "525.0": [
+      {
+        "Original_Name_In_Paper": "Mg3Sb1.48Bi0.48Te0.04",
+        "Property": "PF",
+        "Value": 0.0013900000000000002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/ncomms13901"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Mg3Sb1.48Bi0.48Te0.04",
+        "Property": "PF",
+        "Value": 0.001414,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2018.11.030"
+      }
+    ]
+  }
+}

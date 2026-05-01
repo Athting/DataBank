@@ -1,0 +1,18 @@
+{
+  "Material": "Bi2Ca2Co2Oy",
+  "DOIs_Researched": [
+    "10.1007/s10854-017-7179-9"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Ca2Co2Oy",
+        "Property": "Seebeck",
+        "Value": 0.00017,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-017-7179-9"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "Material": "Ge0.75Pb0.2Sm0.03Te0.5Se",
+  "DOIs_Researched": [
+    "10.1007/s10853-020-04949-0",
+    "10.1016/j.matdes.2018.08.001"
+  ],
+  "Data_By_Temperature": {
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "Ge0.75Pb0.2Sm0.03Te0.5Se0.5",
+        "Property": "ThermCond",
+        "Value": 0.41000000000000003,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      },
+      {
+        "Original_Name_In_Paper": "Ge0.75Pb0.2Sm0.03Te0.5Se0.5",
+        "Property": "ZT",
+        "Value": 1.03,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      }
+    ],
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "Ge0.75Pb0.2Sm0.03Te0.5Se0.5",
+        "Property": "ZT",
+        "Value": 1.03,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matdes.2018.08.001"
+      }
+    ]
+  }
+}

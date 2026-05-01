@@ -1,0 +1,18 @@
+{
+  "Material": "Cu1-xTixS4",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2018.12.102"
+  ],
+  "Data_By_Temperature": {
+    "675.0": [
+      {
+        "Original_Name_In_Paper": "CuCoxTi2-xS4 thiospinel",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.12.102"
+      }
+    ]
+  }
+}

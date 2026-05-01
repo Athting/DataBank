@@ -1,0 +1,36 @@
+{
+  "Material": "Cu2.10Cd0.90SnSe4",
+  "DOIs_Researched": [
+    "10.1039/c5ra02030a",
+    "10.1039/c5ta09584k",
+    "10.1016/j.intermet.2012.07.013"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Cu2.10Cd0.90SnSe4",
+        "Property": "ZT",
+        "Value": 0.65,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta09584k"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2.10Cd0.90SnSe4",
+        "Property": "ZT",
+        "Value": 0.65,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2012.07.013"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2.10Cd0.90SnSe4",
+        "Property": "ZT",
+        "Value": 0.65,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra02030a"
+      }
+    ]
+  }
+}

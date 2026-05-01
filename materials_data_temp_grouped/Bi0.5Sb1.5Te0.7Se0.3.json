@@ -1,0 +1,18 @@
+{
+  "Material": "Bi0.5Sb1.5Te0.7Se0.3",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2017.02.182"
+  ],
+  "Data_By_Temperature": {
+    "503.0": [
+      {
+        "Original_Name_In_Paper": "p-type Bi0.5Sb1.5Te0.7Se0.3 alloy",
+        "Property": "ZT",
+        "Value": 0.9500000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.02.182"
+      }
+    ]
+  }
+}

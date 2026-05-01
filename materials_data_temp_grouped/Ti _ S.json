@@ -1,0 +1,36 @@
+{
+  "Material": "Ti / S",
+  "DOIs_Researched": [
+    "10.1039/c5cp01795e",
+    "10.1016/j.jeurceramsoc.2015.11.025",
+    "10.1016/j.actamat.2014.06.032"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ti / S",
+        "Property": "Seebeck",
+        "Value": -0.000156,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2015.11.025"
+      },
+      {
+        "Original_Name_In_Paper": "Ti / S",
+        "Property": "PF",
+        "Value": 0.0016600000000000002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2014.06.032"
+      },
+      {
+        "Original_Name_In_Paper": "Ti / S",
+        "Property": "PF",
+        "Value": 0.0017000000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5cp01795e"
+      }
+    ]
+  }
+}

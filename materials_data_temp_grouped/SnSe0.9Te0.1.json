@@ -1,0 +1,82 @@
+{
+  "Material": "SnSe0.9Te0.1",
+  "DOIs_Researched": [
+    "10.1039/c9cp02018g",
+    "10.1016/j.pmatsci.2018.04.005",
+    "10.1039/c7ta02677c"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "SnSe0.9Te0.1 pellet",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ta02677c"
+      },
+      {
+        "Original_Name_In_Paper": "p-type SnSe0.9Te0.1 pellet",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2018.04.005"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "SnSe0.9Te0.1 pellet",
+        "Property": "ZT",
+        "Value": 0.56,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ta02677c"
+      }
+    ],
+    "450.0": [
+      {
+        "Original_Name_In_Paper": "SnSe0.9Te0.1 pellet",
+        "Property": "PF",
+        "Value": 0.00068,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ta02677c"
+      }
+    ],
+    "550.0": [
+      {
+        "Original_Name_In_Paper": "SnSe0.9Te0.1",
+        "Property": "PF",
+        "Value": 0.00010279999999999999,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9cp02018g"
+      },
+      {
+        "Original_Name_In_Paper": "SnSe0.9Te0.1",
+        "Property": "PF",
+        "Value": 0.00010279999999999999,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9cp02018g"
+      },
+      {
+        "Original_Name_In_Paper": "SnSe0.9Te0.1",
+        "Property": "PF",
+        "Value": 0.00010279999999999999,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9cp02018g"
+      },
+      {
+        "Original_Name_In_Paper": "SnSe0.9Te0.1",
+        "Property": "PF",
+        "Value": 0.00010279999999999999,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9cp02018g"
+      }
+    ]
+  }
+}

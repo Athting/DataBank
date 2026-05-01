@@ -1,0 +1,18 @@
+{
+  "Material": "Au\u2013Al\u2013RE",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2015.08.081"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Au\u2013Al\u2013RE",
+        "Property": "ThermCond",
+        "Value": 3.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.08.081"
+      }
+    ]
+  }
+}

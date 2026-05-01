@@ -1,0 +1,98 @@
+{
+  "Material": "ZrSe2",
+  "DOIs_Researched": [
+    "10.1016/j.mtcomm.2020.101434",
+    "10.1039/d0ra02585b",
+    "10.1016/j.commatsci.2019.109109",
+    "10.1038/s41598-018-20918-9",
+    "10.1039/c9ra00586b"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "ZrSe2",
+        "Property": "ThermCond",
+        "Value": 3.55,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ra00586b"
+      },
+      {
+        "Original_Name_In_Paper": "ZrSe2",
+        "Property": "ThermCond",
+        "Value": 3.41,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtcomm.2020.101434"
+      },
+      {
+        "Original_Name_In_Paper": "ZrSe2",
+        "Property": "ZT",
+        "Value": 1.8399999999999999,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ra00586b"
+      },
+      {
+        "Original_Name_In_Paper": "p-doped ZrSe2",
+        "Property": "ZT",
+        "Value": 1.8399999999999999,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ra00586b"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "ZrSe2",
+        "Property": "ThermCond",
+        "Value": 3.29,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ra02585b"
+      },
+      {
+        "Original_Name_In_Paper": "monolayer ZrSe2",
+        "Property": "ThermCond",
+        "Value": 1.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-018-20918-9"
+      },
+      {
+        "Original_Name_In_Paper": "monolayer ZrSe2",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-018-20918-9"
+      },
+      {
+        "Original_Name_In_Paper": "ZrSe2",
+        "Property": "ZT",
+        "Value": 0.41000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ra00586b"
+      },
+      {
+        "Original_Name_In_Paper": "ZrSe2",
+        "Property": "Seebeck",
+        "Value": 6.4e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtcomm.2020.101434"
+      }
+    ],
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "n-type doped ZrSe2",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2019.109109"
+      }
+    ]
+  }
+}

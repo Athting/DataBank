@@ -1,0 +1,44 @@
+{
+  "Material": "CuMnFeS2",
+  "DOIs_Researched": [
+    "10.1039/c6ra10046e"
+  ],
+  "Data_By_Temperature": {
+    "623.0": [
+      {
+        "Original_Name_In_Paper": "Cu0.97Mn0.03FeS2",
+        "Property": "ThermCond",
+        "Value": 2.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra10046e"
+      },
+      {
+        "Original_Name_In_Paper": "Cu0.97Mn0.03FeS2",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra10046e"
+      },
+      {
+        "Original_Name_In_Paper": "Cu0.96Mn0.04FeS2",
+        "Property": "ZT",
+        "Value": 0.17,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra10046e"
+      }
+    ],
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "Cu0.95Mn0.05FeS2",
+        "Property": "ThermCond",
+        "Value": 1.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra10046e"
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "Material": "PbSe(Br, Cu2Se)",
+  "DOIs_Researched": [
+    "10.1016/j.ccr.2020.213437"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "PbSe0.998Br0.002\u22122 % Cu2Se",
+        "Property": "ThermCond",
+        "Value": 0.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ccr.2020.213437"
+      }
+    ],
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "PbSe0.998Br0.002\u22122 % Cu2Se",
+        "Property": "ZT",
+        "Value": 1.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ccr.2020.213437"
+      }
+    ],
+    "423.0": [
+      {
+        "Original_Name_In_Paper": "PbSe0.998Br0.002\u22122 % Cu2Se",
+        "Property": "PF",
+        "Value": 0.0021000000000000003,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ccr.2020.213437"
+      }
+    ]
+  }
+}

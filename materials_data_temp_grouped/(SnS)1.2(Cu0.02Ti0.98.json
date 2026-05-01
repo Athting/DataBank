@@ -1,0 +1,18 @@
+{
+  "Material": "(SnS)1.2(Cu0.02Ti0.98",
+  "DOIs_Researched": [
+    "10.1039/d0ta00240b"
+  ],
+  "Data_By_Temperature": {
+    "720.0": [
+      {
+        "Original_Name_In_Paper": "Cu doped (SnS)1.2(Cu0.02Ti0.98S2)2",
+        "Property": "ZT",
+        "Value": 0.42,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta00240b"
+      }
+    ]
+  }
+}

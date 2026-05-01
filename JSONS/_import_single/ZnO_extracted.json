@@ -1,0 +1,1873 @@
+{
+  "doi": "10.1016/j.jallcom.2016.10.076",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "ZnO",
+        "Al-doped ZnO",
+        "pristine ZnO",
+        "nanograined ZnO",
+        "Al-doped ZnO nanocomposites",
+        "pure ZnO",
+        "bulk ZnO",
+        "monolayer ZnO",
+        "ZnO single crystal",
+        "polycrystalline bulk ZnO",
+        "undoped nanobulk ZnO",
+        "Monolayer ZnO",
+        "bulk n-type ZnO",
+        "ZnO powder",
+        "pure ZnO crystal",
+        "ZnO with 2 at % Al",
+        "polycrystalline ZnO",
+        "polycrystalline ZnO thin films",
+        "Undoped ZnO",
+        "bulk ZnO-based materials",
+        "bulk ZnO material",
+        "nonnanostructured bulk ZnO",
+        "Mn doped ZnO",
+        "pure bulk ZnO",
+        "Al-doped ZnO thin films",
+        "transition metal- incorporated ZnO",
+        "ZnO films",
+        "Al : ZnO films",
+        "ZnO NWs",
+        "La-doped ZnO nanowires",
+        "n-type ZnO / Bi2Te2.7Se0.3 composite",
+        "Sb-doped ZnO film",
+        "Zinc oxide",
+        "ZnO film on glass substrate",
+        "p-type ZnO film on glass substrate with Ga and N",
+        "ZnO nanowires",
+        "ZnO : Ga matrix",
+        "ZnO : Al thin films",
+        "ZnO superlattice films",
+        "Sb-doped ZnO",
+        "undoped ZnO",
+        "ZnO sample with 1 wt. % Al2O3",
+        "ZnO / PVP",
+        "bulk ZnO materials",
+        "pure ZnO thin film",
+        "ZnO : Au film",
+        "ZnO nanorod",
+        "doped ZnO materials",
+        "ZnO lattice",
+        "ZnO superlattice",
+        "doped ZnO nanowires",
+        "10 wt % Al-doped ZnO thin films",
+        "10 wt % Al-doped ZnO thin film",
+        "Au doped ZnO",
+        "single crystal bulk ZnO",
+        "nanostructured Al-doped ZnO",
+        "Al-doped ZnO nanocrystals",
+        "Al-doped ZnO nanocomposite",
+        "doped ZnO nanoparticles",
+        "Al and Ga dually doped ZnO",
+        "ZnO nanocomposites",
+        "0.5 at % Nb-doped ZnO",
+        "Ga-doped ZnO",
+        "ZnO–2 % Al",
+        "2 wt % SWCNT / ZnO",
+        "CeO2 and Dy2O3 dual doped ZnO",
+        "Sb2O3-free ZnO",
+        "Zn0.995Dy0.005O",
+        "0.5 vol. % of ZnO",
+        "ZnO nano-composite samples with 0.25 atomic % Al",
+        "2 % Al2O3 ZnO",
+        "textured Al / Ni-doped ZnO",
+        "Al2O3 doped ZnO",
+        "ZnO nanostructures",
+        "n-type ZnO based",
+        "ZnO film",
+        "ZnO film based",
+        "bulk nanograined ZnO",
+        "Al-doped n-type Zn0.98Al0.02O",
+        "doped ZnO with Al",
+        "doped ZnO",
+        "Al-doped ZnO bulk",
+        "Ga double-doped ZnO",
+        "ZnO based",
+        "Al-doped ZnO-based systems",
+        "bulk ZnO0.09S0.01",
+        "multi-doped ZnO",
+        "InGa-doped ZnO film",
+        "pure ZnO materials",
+        "Ga dual-doped ZnO",
+        "doped ZnO with Al and Ga",
+        "Ga doped ZnO",
+        "bulk Al-doped ZnO",
+        "ZnO based composite",
+        "zinc oxide nanoparticles",
+        "n-type ZnO doped with Al and Ga",
+        "ZnO thin films",
+        "N-doped ZnO",
+        "amorphous ZnO",
+        "3 mol % Co-doped ZnO",
+        "zinc oxide",
+        "ZnO superlattice film",
+        "undoped ZnO thin films",
+        "nano-zinc oxide 420",
+        "undoped ZnO films",
+        "Al doped ZnO",
+        "nanogained ZnO",
+        "ZnO : F thin films",
+        "(ZnO)Al.03In.02 films",
+        "Ga-doped ZnO bulk",
+        "ZnO : Al film",
+        "Dy doped ZnO",
+        "undoped bulk ZnO",
+        "Ga co-doped ZnO"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "pure ZnO",
+          "value": 0.00022,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "ZnO",
+          "value": -0.00007000000000000001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "ZnO superlattice films",
+          "value": 0.00000128,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Sb-doped ZnO",
+          "value": 0.0034000000000000002,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "ZnO",
+          "value": 0.00013000000000000002,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "polycrystalline ZnO",
+          "value": -0.0004,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "ZnO : Al thin films",
+          "value": -0.00006000000000000001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "ZnO : Al thin films",
+          "value": 0.00006000000000000001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "undoped ZnO",
+          "value": -0.0005,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "ZnO sample with 1 wt. % Al2O3",
+          "value": -0.00007000000000000001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "ZnO / PVP",
+          "value": -0.0003137,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "bulk ZnO materials",
+          "value": 0.00047799999999999996,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "undoped ZnO",
+          "value": -0.00028000000000000003,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "ZnO",
+          "value": -0.0005,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "ZnO NWs",
+          "value": -0.00041000000000000005,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure ZnO thin film",
+          "value": -0.00011399999999999999,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "ZnO",
+          "value": 0.00034,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "ZnO nanowires",
+          "value": -0.000188,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "10 wt % Al-doped ZnO thin films",
+          "value": -0.000056,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Al-doped ZnO thin films",
+          "value": -0.000065,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Al-doped ZnO thin films",
+          "value": -0.00006000000000000001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "10 wt % Al-doped ZnO thin film",
+          "value": -0.000056,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "10 wt % Al-doped ZnO thin film",
+          "value": -0.000056,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "ZnO",
+          "value": 0.0001415,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "343.0 K"
+        },
+        {
+          "material": "0.5 at % Nb-doped ZnO",
+          "value": 0.00025736,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Ga-doped ZnO",
+          "value": -0.000164,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "2 % Al2O3 ZnO",
+          "value": -0.18,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "ZnO",
+          "value": -0.00036,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "ZnO",
+          "value": -0.00036,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "358.0 K"
+        },
+        {
+          "material": "ZnO",
+          "value": -0.00036,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "358.0 K"
+        },
+        {
+          "material": "ZnO",
+          "value": -0.00030000000000000003,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "358.0 K"
+        },
+        {
+          "material": "ZnO",
+          "value": -0.00036,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "358.0 K"
+        },
+        {
+          "material": "ZnO film",
+          "value": -0.000225,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "333.0 K"
+        },
+        {
+          "material": "ZnO film",
+          "value": -0.00025299999999999997,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "333.0 K"
+        },
+        {
+          "material": "ZnO",
+          "value": 0.0002,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "1273.0 K"
+        },
+        {
+          "material": "pure ZnO",
+          "value": 0.000517,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "pure ZnO",
+          "value": 0.000027,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "ZnO",
+          "value": 0.000065,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "undoped ZnO films",
+          "value": -0.0000981,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "500.0 K"
+        },
+        {
+          "material": "ZnO",
+          "value": -0.00022,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "975.0 K"
+        },
+        {
+          "material": "(ZnO)Al.03In.02 films",
+          "value": -0.00022,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "975.0 K"
+        },
+        {
+          "material": "pure ZnO",
+          "value": -0.00033000000000000005,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "473.0 K"
+        },
+        {
+          "material": "Ga-doped ZnO bulk",
+          "value": -0.00011499999999999999,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "473.0 K"
+        },
+        {
+          "material": "ZnO film",
+          "value": -0.00026199999999999997,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "630.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "n-type ZnO / Bi2Te2.7Se0.3 composite",
+          "value": 117647.0588235294,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Sb-doped ZnO film",
+          "value": 17.4216027875,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Zinc oxide",
+          "value": -25,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "ZnO film on glass substrate",
+          "value": 200,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "p-type ZnO film on glass substrate with Ga and N",
+          "value": 200,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "ZnO nanowires",
+          "value": 5263.1578947368,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Zinc oxide",
+          "value": -25,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "ZnO : Ga matrix",
+          "value": 25000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "ZnO",
+          "value": 51.2820512821,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "ZnO : Al thin films",
+          "value": 98039.2156862745,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "ZnO : Al thin films",
+          "value": 98039.2156862745,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "ZnO nanorod",
+          "value": 1900,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "ZnO nanorod",
+          "value": 1900,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "polycrystalline ZnO",
+          "value": 1000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "undoped ZnO",
+          "value": 3000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "doped ZnO nanowires",
+          "value": 38461.5384615385,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "ZnO",
+          "value": 0.30000000000000004,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "ZnO nanowires",
+          "value": 38460,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Au doped ZnO",
+          "value": 89600,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "ZnO",
+          "value": 72000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "2 % Al2O3 ZnO",
+          "value": 800,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "Al2O3 doped ZnO",
+          "value": 85000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "Al-doped ZnO",
+          "value": 100000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "ZnO film",
+          "value": 3740,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "333.0 K"
+        },
+        {
+          "material": "pure ZnO",
+          "value": 1790,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "ZnO",
+          "value": 2.5e-7,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "pure ZnO",
+          "value": 79400000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "doped ZnO",
+          "value": 5495,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "3 mol % Co-doped ZnO",
+          "value": 421,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "ZnO",
+          "value": 3000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "ZnO : F thin films",
+          "value": 16666.6666666667,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "ZnO films",
+          "value": 54.347826087,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "ZnO film",
+          "value": 1666.6666666667,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "230.0 K"
+        },
+        {
+          "material": "ZnO film",
+          "value": 0.0000033333,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "363.0 K"
+        },
+        {
+          "material": "(ZnO)Al.03In.02 films",
+          "value": 47619.0476190476,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "975.0 K"
+        },
+        {
+          "material": "ZnO",
+          "value": 58800,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "975.0 K"
+        },
+        {
+          "material": "ZnO nanostructures",
+          "value": 458.7155963303,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "180.0 K"
+        },
+        {
+          "material": "ZnO",
+          "value": 76923.0769230769,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "473.0 K"
+        },
+        {
+          "material": "Dy doped ZnO",
+          "value": 500,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "473.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "ZnO",
+          "value": 6,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "ZnO",
+          "value": 40,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Al-doped ZnO",
+          "value": 2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine ZnO",
+          "value": 24.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "nanograined ZnO",
+          "value": 3,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Al-doped ZnO nanocomposites",
+          "value": 2.8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure ZnO",
+          "value": 40,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "bulk ZnO",
+          "value": 100,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "ZnO",
+          "value": 20,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "monolayer ZnO",
+          "value": 4.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "ZnO single crystal",
+          "value": 50,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "bulk ZnO",
+          "value": 50,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "ZnO single crystal",
+          "value": 100,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "polycrystalline bulk ZnO",
+          "value": 54.1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure ZnO",
+          "value": 6.91,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "undoped nanobulk ZnO",
+          "value": 7,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Monolayer ZnO",
+          "value": 4.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "bulk n-type ZnO",
+          "value": 98,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "bulk ZnO",
+          "value": 46,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "ZnO powder",
+          "value": 49,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "ZnO powder",
+          "value": 37,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure ZnO crystal",
+          "value": 47,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "ZnO",
+          "value": 37,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "ZnO",
+          "value": 50,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "ZnO with 2 at % Al",
+          "value": 7.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "polycrystalline ZnO",
+          "value": 40,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "polycrystalline ZnO thin films",
+          "value": 43,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "ZnO",
+          "value": 4.15,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "polycrystalline ZnO thin films",
+          "value": 43,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "ZnO",
+          "value": 7.16,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "ZnO",
+          "value": 40,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Undoped ZnO",
+          "value": 40,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "ZnO",
+          "value": 12,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "bulk ZnO-based materials",
+          "value": 100,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "bulk ZnO material",
+          "value": 100,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "nonnanostructured bulk ZnO",
+          "value": 40,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "ZnO nanowires",
+          "value": 5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "ZnO",
+          "value": 10.7,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "monolayer ZnO",
+          "value": 4.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "monolayer ZnO",
+          "value": 4.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "doped ZnO materials",
+          "value": 40,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "bulk ZnO",
+          "value": 54,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "ZnO lattice",
+          "value": 46,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "bulk ZnO",
+          "value": 0.1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Al-doped ZnO thin films",
+          "value": 0.5700000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "pure ZnO",
+          "value": 42,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "ZnO",
+          "value": 45,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "ZnO",
+          "value": 13,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "ZnO films",
+          "value": 40,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "single crystal bulk ZnO",
+          "value": 5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "343.0 K"
+        },
+        {
+          "material": "Al-doped ZnO",
+          "value": 1.9,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "ZnO",
+          "value": 125,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "ZnO",
+          "value": 5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "ZnO",
+          "value": 125,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "pure ZnO",
+          "value": 40.7,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "Al-doped ZnO",
+          "value": 5.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "ZnO–2 % Al",
+          "value": 0.86,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "pure ZnO",
+          "value": 40,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "pure ZnO",
+          "value": 7.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "ZnO",
+          "value": 3.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "2 wt % SWCNT / ZnO",
+          "value": 0.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "ZnO",
+          "value": 3.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "0.5 vol. % of ZnO",
+          "value": 0.33,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "ZnO nano-composite samples with 0.25 atomic % Al",
+          "value": 2.3,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "ZnO nanostructures",
+          "value": 0.34,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "298.0 K"
+        },
+        {
+          "material": "ZnO",
+          "value": 0.5700000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "298.0 K"
+        },
+        {
+          "material": "Al-doped ZnO",
+          "value": 3,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "ZnO",
+          "value": 15,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "ZnO superlattice",
+          "value": 0.96,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "40.0 K"
+        },
+        {
+          "material": "ZnO superlattice films",
+          "value": 0.96,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "40.0 K"
+        },
+        {
+          "material": "ZnO",
+          "value": 15,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "358.0 K"
+        },
+        {
+          "material": "ZnO",
+          "value": 15,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "358.0 K"
+        },
+        {
+          "material": "ZnO",
+          "value": 43,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "348.0 K"
+        },
+        {
+          "material": "ZnO film",
+          "value": 3.6,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "333.0 K"
+        },
+        {
+          "material": "ZnO film",
+          "value": 3.6,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "333.0 K"
+        },
+        {
+          "material": "ZnO film",
+          "value": 135.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "333.0 K"
+        },
+        {
+          "material": "ZnO film based",
+          "value": 2.74,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "693.0 K"
+        },
+        {
+          "material": "bulk nanograined ZnO",
+          "value": 31,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "350.0 K"
+        },
+        {
+          "material": "Al-doped n-type Zn0.98Al0.02O",
+          "value": 54,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1273.0 K"
+        },
+        {
+          "material": "Al-doped ZnO",
+          "value": 5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1273.0 K"
+        },
+        {
+          "material": "ZnO",
+          "value": 7.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1023.0 K"
+        },
+        {
+          "material": "bulk ZnO0.09S0.01",
+          "value": 4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "ZnO",
+          "value": 0.61,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "370.0 K"
+        },
+        {
+          "material": "ZnO",
+          "value": 2.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "383.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "ZnO",
+          "value": 0.00008,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Al-doped ZnO thin films",
+          "value": 0.00001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "ZnO : Au film",
+          "value": 0.000035799999999999996,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Al-doped ZnO",
+          "value": 39000,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "ZnO",
+          "value": 0.000028,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "343.0 K"
+        },
+        {
+          "material": "0.5 at % Nb-doped ZnO",
+          "value": 0.000484,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "CeO2 and Dy2O3 dual doped ZnO",
+          "value": 44600,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "Sb2O3-free ZnO",
+          "value": 0.00007000000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "Zn0.995Dy0.005O",
+          "value": 0.000446,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "ZnO",
+          "value": 0.000008,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "Zn0.995Dy0.005O",
+          "value": 0.000446,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "Zn0.995Dy0.005O",
+          "value": 0.000446,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "Zn0.995Dy0.005O",
+          "value": 0.000446,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "ZnO",
+          "value": 0.000008,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "textured Al / Ni-doped ZnO",
+          "value": 61600,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "ZnO films",
+          "value": 0.00018,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "333.0 K"
+        },
+        {
+          "material": "ZnO",
+          "value": 0.0004,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1273.0 K"
+        },
+        {
+          "material": "ZnO",
+          "value": 0.000368,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1273.0 K"
+        },
+        {
+          "material": "ZnO",
+          "value": 0.0000886,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "383.0 K"
+        },
+        {
+          "material": "InGa-doped ZnO film",
+          "value": 0.000035799999999999996,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "383.0 K"
+        },
+        {
+          "material": "Al-doped ZnO",
+          "value": 0.0005300000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "Al-doped ZnO",
+          "value": 0.0015,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "ZnO",
+          "value": 0.000014,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "(ZnO)Al.03In.02 films",
+          "value": 0.00221,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "975.0 K"
+        },
+        {
+          "material": "ZnO : Al film",
+          "value": 0.000636,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "473.0 K"
+        },
+        {
+          "material": "ZnO thin films",
+          "value": 0.00018,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "643.0 K"
+        },
+        {
+          "material": "undoped bulk ZnO",
+          "value": 0.00013199999999999998,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "325.0 K"
+        },
+        {
+          "material": "Ga doped ZnO",
+          "value": 0.000918,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1050.0 K"
+        },
+        {
+          "material": "undoped ZnO",
+          "value": 0.0007260999999999999,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "965.1 K"
+        },
+        {
+          "material": "Ga co-doped ZnO",
+          "value": 0.0007209,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "965.2 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Mn doped ZnO",
+          "zt_value": 2,
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure ZnO",
+          "zt_value": 1.4,
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure ZnO",
+          "zt_value": 0.01,
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure ZnO",
+          "zt_value": 0.001,
+          "temperature": "295 K"
+        },
+        {
+          "material": "ZnO",
+          "zt_value": 0.1,
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure bulk ZnO",
+          "zt_value": 0.00014000000000000001,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Al-doped ZnO thin films",
+          "zt_value": 0.1,
+          "temperature": "295 K"
+        },
+        {
+          "material": "transition metal- incorporated ZnO",
+          "zt_value": 2,
+          "temperature": "295 K"
+        },
+        {
+          "material": "ZnO films",
+          "zt_value": 0.02,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Al : ZnO films",
+          "zt_value": 0.1,
+          "temperature": "295 K"
+        },
+        {
+          "material": "ZnO NWs",
+          "zt_value": 0.1,
+          "temperature": "295 K"
+        },
+        {
+          "material": "ZnO",
+          "zt_value": 0.8,
+          "temperature": "295 K"
+        },
+        {
+          "material": "La-doped ZnO nanowires",
+          "zt_value": 2,
+          "temperature": "295 K"
+        },
+        {
+          "material": "La-doped ZnO nanowires",
+          "zt_value": 1,
+          "temperature": "295 K"
+        },
+        {
+          "material": "ZnO nanowires",
+          "zt_value": 0.00017,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "ZnO superlattice films",
+          "zt_value": 0.014,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "ZnO films",
+          "zt_value": 0.007,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "ZnO superlattice",
+          "zt_value": 0.014,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "ZnO superlattice films",
+          "zt_value": 0.014,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "ZnO superlattice films",
+          "zt_value": 0.014,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "ZnO films",
+          "zt_value": 0.007,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "ZnO nanowires",
+          "zt_value": 0.00017,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "ZnO",
+          "zt_value": 0.42,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "nanostructured Al-doped ZnO",
+          "zt_value": 0.44,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Al-doped ZnO nanocrystals",
+          "zt_value": 0.44,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Al-doped ZnO",
+          "zt_value": 0.30000000000000004,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Al-doped ZnO nanocomposite",
+          "zt_value": 0.44,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "polycrystalline ZnO",
+          "zt_value": 0.47000000000000003,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "ZnO",
+          "zt_value": 0.44,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "doped ZnO nanoparticles",
+          "zt_value": 0.44,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Al-doped ZnO",
+          "zt_value": 0.59,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Al-doped ZnO",
+          "zt_value": 0.44,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Al-doped ZnO nanocomposites",
+          "zt_value": 0.44,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "ZnO",
+          "zt_value": 0.5,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "doped ZnO nanoparticles",
+          "zt_value": 0.44,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Al and Ga dually doped ZnO",
+          "zt_value": 0.47000000000000003,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "ZnO nanocomposites",
+          "zt_value": 2,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Al-doped ZnO nanocrystals",
+          "zt_value": 0.44,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "ZnO",
+          "zt_value": 0.17,
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "pure ZnO",
+          "zt_value": 0.02,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "Al-doped ZnO",
+          "zt_value": 0.085,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "Ga-doped ZnO",
+          "zt_value": 0.114,
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "n-type ZnO based",
+          "zt_value": 0.186,
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "ZnO film",
+          "zt_value": 0.017,
+          "temperature": "333.0 K"
+        },
+        {
+          "material": "pure ZnO",
+          "zt_value": 0.017,
+          "temperature": "333.0 K"
+        },
+        {
+          "material": "ZnO film",
+          "zt_value": 2.9,
+          "temperature": "333.0 K"
+        },
+        {
+          "material": "ZnO film",
+          "zt_value": 0.0172,
+          "temperature": "333.0 K"
+        },
+        {
+          "material": "pure ZnO",
+          "zt_value": 0.07200000000000001,
+          "temperature": "693.0 K"
+        },
+        {
+          "material": "ZnO film based",
+          "zt_value": 0.07200000000000001,
+          "temperature": "693.0 K"
+        },
+        {
+          "material": "ZnO film",
+          "zt_value": 0.07,
+          "temperature": "693.0 K"
+        },
+        {
+          "material": "ZnO film",
+          "zt_value": 0.07200000000000001,
+          "temperature": "693.0 K"
+        },
+        {
+          "material": "ZnO",
+          "zt_value": 0.07200000000000001,
+          "temperature": "693.0 K"
+        },
+        {
+          "material": "Al-doped ZnO",
+          "zt_value": 0.30000000000000004,
+          "temperature": "1273.0 K"
+        },
+        {
+          "material": "doped ZnO with Al",
+          "zt_value": 0.30000000000000004,
+          "temperature": "1273.0 K"
+        },
+        {
+          "material": "ZnO",
+          "zt_value": 0.74,
+          "temperature": "1273.0 K"
+        },
+        {
+          "material": "ZnO",
+          "zt_value": 0.4,
+          "temperature": "1273.0 K"
+        },
+        {
+          "material": "Al-doped n-type Zn0.98Al0.02O",
+          "zt_value": 0.30000000000000004,
+          "temperature": "1273.0 K"
+        },
+        {
+          "material": "doped ZnO",
+          "zt_value": 0.65,
+          "temperature": "1273.0 K"
+        },
+        {
+          "material": "ZnO",
+          "zt_value": 0.45,
+          "temperature": "1273.0 K"
+        },
+        {
+          "material": "Al-doped ZnO bulk",
+          "zt_value": 0.30000000000000004,
+          "temperature": "1273.0 K"
+        },
+        {
+          "material": "Ga double-doped ZnO",
+          "zt_value": 0.65,
+          "temperature": "1273.0 K"
+        },
+        {
+          "material": "ZnO based",
+          "zt_value": 0.30000000000000004,
+          "temperature": "1273.0 K"
+        },
+        {
+          "material": "ZnO",
+          "zt_value": 0.0015,
+          "temperature": "1273.0 K"
+        },
+        {
+          "material": "Al-doped ZnO-based systems",
+          "zt_value": 0.55,
+          "temperature": "1273.0 K"
+        },
+        {
+          "material": "ZnO",
+          "zt_value": 0.65,
+          "temperature": "1273.0 K"
+        },
+        {
+          "material": "multi-doped ZnO",
+          "zt_value": 0.09,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "undoped ZnO",
+          "zt_value": 0.038,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Al-doped ZnO",
+          "zt_value": 0.15,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "ZnO",
+          "zt_value": 0.78,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "pure ZnO materials",
+          "zt_value": 0.011,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "Al-doped ZnO",
+          "zt_value": 0.1,
+          "temperature": "1473.0 K"
+        },
+        {
+          "material": "bulk ZnO",
+          "zt_value": 0.65,
+          "temperature": "1247.0 K"
+        },
+        {
+          "material": "Ga dual-doped ZnO",
+          "zt_value": 0.65,
+          "temperature": "1247.0 K"
+        },
+        {
+          "material": "doped ZnO with Al and Ga",
+          "zt_value": 0.65,
+          "temperature": "1247.0 K"
+        },
+        {
+          "material": "Ga doped ZnO",
+          "zt_value": 0.62,
+          "temperature": "1247.0 K"
+        },
+        {
+          "material": "Al and Ga dually doped ZnO",
+          "zt_value": 0.65,
+          "temperature": "1247.0 K"
+        },
+        {
+          "material": "doped ZnO",
+          "zt_value": 0.65,
+          "temperature": "1247.0 K"
+        },
+        {
+          "material": "Al and Ga dually doped ZnO",
+          "zt_value": 0.65,
+          "temperature": "1247.0 K"
+        },
+        {
+          "material": "bulk Al-doped ZnO",
+          "zt_value": 0.2,
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "nanostructured Al-doped ZnO",
+          "zt_value": 0.0013000000000000002,
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "Al-doped ZnO",
+          "zt_value": 1.5,
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "ZnO based composite",
+          "zt_value": 0.28,
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "zinc oxide nanoparticles",
+          "zt_value": 0.7000000000000001,
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "ZnO",
+          "zt_value": 0.16,
+          "temperature": "1223.0 K"
+        },
+        {
+          "material": "pristine ZnO",
+          "zt_value": 0.32,
+          "temperature": "460.0 K"
+        },
+        {
+          "material": "ZnO",
+          "zt_value": 0.2,
+          "temperature": "460.0 K"
+        },
+        {
+          "material": "n-type ZnO doped with Al and Ga",
+          "zt_value": 0.65,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "ZnO films",
+          "zt_value": 1,
+          "temperature": "399.15 K"
+        },
+        {
+          "material": "ZnO",
+          "zt_value": 0.11,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "ZnO",
+          "zt_value": 0.00014000000000000001,
+          "temperature": "572.0 K"
+        },
+        {
+          "material": "ZnO thin films",
+          "zt_value": 0.05,
+          "temperature": "698.0 K"
+        },
+        {
+          "material": "N-doped ZnO",
+          "zt_value": 0.02,
+          "temperature": "400.0 K"
+        },
+        {
+          "material": "amorphous ZnO",
+          "zt_value": 0.2,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "ZnO",
+          "zt_value": 1.21,
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "zinc oxide",
+          "zt_value": 0.1,
+          "temperature": "500.0 K"
+        },
+        {
+          "material": "ZnO superlattice film",
+          "zt_value": 0.19,
+          "temperature": "500.0 K"
+        },
+        {
+          "material": "undoped ZnO thin films",
+          "zt_value": 0.000014,
+          "temperature": "500.0 K"
+        },
+        {
+          "material": "nano-zinc oxide 420",
+          "zt_value": 2.9,
+          "temperature": "500.0 K"
+        },
+        {
+          "material": "Al doped ZnO",
+          "zt_value": 0.035,
+          "temperature": "1033.0 K"
+        },
+        {
+          "material": "ZnO superlattice films",
+          "zt_value": 0.00017,
+          "temperature": "77.0 K"
+        },
+        {
+          "material": "ZnO superlattice films",
+          "zt_value": 0.00017,
+          "temperature": "77.0 K"
+        },
+        {
+          "material": "nano-zinc oxide 420",
+          "zt_value": 0.7000000000000001,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "nano-zinc oxide 420",
+          "zt_value": 2,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "zinc oxide nanoparticles",
+          "zt_value": 2,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "pure ZnO",
+          "zt_value": 0.17500000000000002,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "nanogained ZnO",
+          "zt_value": 0.07,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "ZnO",
+          "zt_value": 1,
+          "temperature": "200.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

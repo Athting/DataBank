@@ -1,0 +1,58 @@
+{
+  "Material": "PbTe-PbSe",
+  "DOIs_Researched": [
+    "10.1016/j.physb.2018.08.041",
+    "10.1016/j.jallcom.2015.10.021",
+    "10.1016/j.jallcom.2017.06.296",
+    "10.1038/am.2014.39",
+    "10.1016/j.cej.2016.06.049"
+  ],
+  "Data_By_Temperature": {
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "PbTe\u2013PbSe",
+        "Property": "ZT",
+        "Value": 1.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.10.021"
+      },
+      {
+        "Original_Name_In_Paper": "PbTe-PbSe",
+        "Property": "ZT",
+        "Value": 1.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.06.296"
+      },
+      {
+        "Original_Name_In_Paper": "PbTe-PbSe",
+        "Property": "ZT",
+        "Value": 1.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2018.08.041"
+      }
+    ],
+    "670.0": [
+      {
+        "Original_Name_In_Paper": "PbTe-PbSe",
+        "Property": "ZT",
+        "Value": 0.35000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2014.39"
+      }
+    ],
+    "680.0": [
+      {
+        "Original_Name_In_Paper": "PbTe-PbSe",
+        "Property": "ZT",
+        "Value": 0.35000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cej.2016.06.049"
+      }
+    ]
+  }
+}

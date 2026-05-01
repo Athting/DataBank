@@ -1,0 +1,37 @@
+{
+  "Material": "PbTeSe",
+  "DOIs_Researched": [
+    "10.1016/j.jcrysgro.2016.01.012",
+    "10.1039/c5tc02537k"
+  ],
+  "Data_By_Temperature": {
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "PbTeSe",
+        "Property": "ZT",
+        "Value": 1.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc02537k"
+      }
+    ],
+    "698.0": [
+      {
+        "Original_Name_In_Paper": "Tl-doped PbTeSe",
+        "Property": "ZT",
+        "Value": 1.63,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jcrysgro.2016.01.012"
+      },
+      {
+        "Original_Name_In_Paper": "Tl-doped PbTeSe",
+        "Property": "ZT",
+        "Value": 1.63,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jcrysgro.2016.01.012"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "doi": "10.1039/c6qi00383d",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Cd3As2",
+        "pristine Cd3As2",
+        "n-type Cd3As2",
+        "p-type Cd3As2"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "pristine Cd3As2",
+          "value": 2620000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "pristine Cd3As2",
+          "value": 6700,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Cd3As2",
+          "zt_value": 0.5,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "pristine Cd3As2",
+          "zt_value": 0.15,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "n-type Cd3As2",
+          "zt_value": 0.5,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "pristine Cd3As2",
+          "zt_value": 0.15,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "Cd3As2",
+          "zt_value": 0.5,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "Cd3As2",
+          "zt_value": 0.5,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "p-type Cd3As2",
+          "zt_value": 0.5,
+          "temperature": "500.0 K"
+        },
+        {
+          "material": "p-type Cd3As2",
+          "zt_value": 0.5,
+          "temperature": "500.0 K"
+        },
+        {
+          "material": "p-type Cd3As2",
+          "zt_value": 0.5,
+          "temperature": "500.0 K"
+        },
+        {
+          "material": "p-type Cd3As2",
+          "zt_value": 0.5,
+          "temperature": "500.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

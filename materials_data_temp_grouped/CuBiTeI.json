@@ -1,0 +1,18 @@
+{
+  "Material": "CuBiTeI",
+  "DOIs_Researched": [
+    "10.1038/srep14319"
+  ],
+  "Data_By_Temperature": {
+    "520.0": [
+      {
+        "Original_Name_In_Paper": "Cu0.05BiTe0.98I1.02",
+        "Property": "ThermCond",
+        "Value": 0.36,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/srep14319"
+      }
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "Material": "HfZrCoSbSn",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2011.10.001",
+    "10.1134/S1995078019040049",
+    "10.1016/j.materresbull.2015.11.032",
+    "10.1016/j.jallcom.2019.153413",
+    "10.1016/j.nimb.2020.06.013"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "p-type Hf0.5Zr0.5CoSb0.8Sn0.2",
+        "Property": "ThermCond",
+        "Value": 2.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.153413"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Hf0.5Zr0.5CoSb0.8Sn0.2",
+        "Property": "ThermCond",
+        "Value": 2.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2015.11.032"
+      }
+    ],
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "p-type Hf0.5Zr0.5CoSb0.8Sn0.2",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2011.10.001"
+      },
+      {
+        "Original_Name_In_Paper": "p-type nanostructured Hf0.5Zr0.5CoSb0.8Sn0.2",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1134/S1995078019040049"
+      }
+    ],
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "p-type Hf0.5Zr0.5CoSb0.85Sn0.15",
+        "Property": "ZT",
+        "Value": 0.47000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nimb.2020.06.013"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Hf0.5Zr0.5CoSb0.85Sn0.15",
+        "Property": "PF",
+        "Value": 0.00202,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nimb.2020.06.013"
+      }
+    ],
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "pristine Hf0.5Zr0.5CoSb0.85Sn0.15",
+        "Property": "Conductivity",
+        "Value": 31540.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nimb.2020.06.013"
+      }
+    ]
+  }
+}

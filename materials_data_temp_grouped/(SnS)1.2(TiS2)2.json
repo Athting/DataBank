@@ -1,0 +1,74 @@
+{
+  "Material": "(SnS)1.2(TiS2)2",
+  "DOIs_Researched": [
+    "10.1039/c8ta08426b",
+    "10.1039/d0ta00240b",
+    "10.1016/j.jallcom.2020.155756"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "(SnS)1.2(TiS2)2",
+        "Property": "ThermCond",
+        "Value": 2.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta00240b"
+      }
+    ],
+    "720.0": [
+      {
+        "Original_Name_In_Paper": "misfit-layered (SnS)1.2(TiS2)2",
+        "Property": "ZT",
+        "Value": 0.42,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta08426b"
+      },
+      {
+        "Original_Name_In_Paper": "Cu-substituted (SnS)1.2(TiS2)2",
+        "Property": "ZT",
+        "Value": 0.42,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta08426b"
+      },
+      {
+        "Original_Name_In_Paper": "misfit-layered (SnS)1.2(TiS2)2",
+        "Property": "ZT",
+        "Value": 0.42,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta08426b"
+      },
+      {
+        "Original_Name_In_Paper": "(SnS)1.2(TiS2)2-2 % SnCl2",
+        "Property": "ZT",
+        "Value": 0.45,
+        "Units": null,
+        "Editing": "doping (SnS)1.2(TiS2)2-2 % SnCl2",
+        "Source_DOI": "10.1016/j.jallcom.2020.155756"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "(SnS)1.2(TiS2)2",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta00240b"
+      }
+    ],
+    "625.0": [
+      {
+        "Original_Name_In_Paper": "(SnS)1.2(TiS2)2",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta00240b"
+      }
+    ]
+  }
+}

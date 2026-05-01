@@ -1,0 +1,18 @@
+{
+  "Material": "Cu1.94S0.5Se0.5",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2018.10.049"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "Cu1.94S0.5Se0.5",
+        "Property": "ZT",
+        "Value": 2.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2018.10.049"
+      }
+    ]
+  }
+}

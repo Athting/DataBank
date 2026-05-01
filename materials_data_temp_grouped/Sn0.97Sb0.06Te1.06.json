@@ -1,0 +1,18 @@
+{
+  "Material": "Sn0.97Sb0.06Te1.06",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2020.155568"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Sn0.97Sb0.06Te1.06",
+        "Property": "ThermCond",
+        "Value": 1.46,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.155568"
+      }
+    ]
+  }
+}

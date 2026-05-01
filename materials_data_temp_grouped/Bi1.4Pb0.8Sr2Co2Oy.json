@@ -1,0 +1,18 @@
+{
+  "Material": "Bi1.4Pb0.8Sr2Co2Oy",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2020.154065"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "Bi1.4Pb0.8Sr2Co2Oy",
+        "Property": "ZT",
+        "Value": 0.26,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154065"
+      }
+    ]
+  }
+}

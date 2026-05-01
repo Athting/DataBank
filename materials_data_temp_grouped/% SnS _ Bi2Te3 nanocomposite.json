@@ -1,0 +1,18 @@
+{
+  "Material": "% SnS : Bi2Te3 nanocomposite",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2020.156233"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "% SnS : Bi2Te3 nanocomposite",
+        "Property": "ThermCond",
+        "Value": 0.68,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.156233"
+      }
+    ]
+  }
+}

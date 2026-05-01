@@ -1,0 +1,18 @@
+{
+  "Material": "Mo2.9Sb7",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2015.08.017"
+  ],
+  "Data_By_Temperature": {
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "Mo2.9Fe0.1Sb7",
+        "Property": "PF",
+        "Value": 0.00119,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2015.08.017"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "In0.2Sn6Bi1.8Se9",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2010.04.035"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "In0.2Sn6Bi1.8Se9",
+        "Property": "Conductivity",
+        "Value": 1974.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2010.04.035"
+      }
+    ]
+  }
+}

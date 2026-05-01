@@ -1,0 +1,18 @@
+{
+  "Material": "PEDOT : poly(styrenesulfonate)",
+  "DOIs_Researched": [
+    "10.1038/srep44704"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "PEDOT : poly(styrenesulfonate)",
+        "Property": "PF",
+        "Value": 0.00046899999999999996,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/srep44704"
+      }
+    ]
+  }
+}

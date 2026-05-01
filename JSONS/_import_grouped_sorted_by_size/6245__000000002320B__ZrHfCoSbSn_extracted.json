@@ -1,0 +1,91 @@
+{
+  "doi": "10.1016/j.jallcom.2014.01.208",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Zr0.5Hf0.5CoSb0.8Sn0.2 / HfO2",
+        "Zr0.5Hf0.5CoSb0.99Sn0.01",
+        "Zr0.5Hf0.5Co1.04Sb0.8Sn0.2"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Zr0.5Hf0.5CoSb0.8Sn0.2 / HfO2",
+          "value": 2.04,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "Zr0.5Hf0.5CoSb0.8Sn0.2 / HfO2",
+          "value": 2.04,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "Zr0.5Hf0.5CoSb0.8Sn0.2 / HfO2",
+          "value": 2.04,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "Zr0.5Hf0.5CoSb0.99Sn0.01",
+          "value": 6.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Zr0.5Hf0.5CoSb0.8Sn0.2 / HfO2",
+          "zt_value": 0.75,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "Zr0.5Hf0.5CoSb0.8Sn0.2 / HfO2",
+          "zt_value": 0.75,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "Zr0.5Hf0.5CoSb0.8Sn0.2 / HfO2",
+          "zt_value": 0.75,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "Zr0.5Hf0.5CoSb0.8Sn0.2 / HfO2",
+          "zt_value": 0.75,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "Zr0.5Hf0.5Co1.04Sb0.8Sn0.2",
+          "zt_value": 1,
+          "temperature": "873.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

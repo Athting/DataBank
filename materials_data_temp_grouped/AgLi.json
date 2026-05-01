@@ -1,0 +1,26 @@
+{
+  "Material": "AgLi",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2011.03.014"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ag(Li1",
+        "Property": "Conductivity",
+        "Value": 900.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2011.03.014"
+      },
+      {
+        "Original_Name_In_Paper": "Ag(Li1",
+        "Property": "Conductivity",
+        "Value": 1.7000000000000002,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2011.03.014"
+      }
+    ]
+  }
+}

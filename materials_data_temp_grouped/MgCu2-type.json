@@ -1,0 +1,18 @@
+{
+  "Material": "MgCu2-type",
+  "DOIs_Researched": [
+    "10.1007/s10765-020-02715-7"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "MgCu2-type",
+        "Property": "ZT",
+        "Value": 0.99,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10765-020-02715-7"
+      }
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "Material": "AgCuTeI",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2020.105297"
+  ],
+  "Data_By_Temperature": {
+    "303.0": [
+      {
+        "Original_Name_In_Paper": "AgCuTe0.9I0.1",
+        "Property": "ThermCond",
+        "Value": 0.30000000000000004,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.105297"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "AgCuTe0.9I0.1",
+        "Property": "ZT",
+        "Value": 0.35000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.105297"
+      },
+      {
+        "Original_Name_In_Paper": "AgCuTe0.9I0.1",
+        "Property": "ZT",
+        "Value": 0.32,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.105297"
+      },
+      {
+        "Original_Name_In_Paper": "AgCuTe0.925I0.075",
+        "Property": "Conductivity",
+        "Value": 19700.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.105297"
+      }
+    ],
+    "463.0": [
+      {
+        "Original_Name_In_Paper": "AgCuTe0.9I0.1",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.105297"
+      },
+      {
+        "Original_Name_In_Paper": "AgCuTe0.9I0.1",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.105297"
+      },
+      {
+        "Original_Name_In_Paper": "AgCuTe0.9I0.1",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.105297"
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "doi": "10.1007/s11664-017-5840-y",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Cu0.1Bi0.4Sb1.5Te3 alloy",
+        "Cu0.003Bi0.4Sb1.6Te3",
+        "Cu0.0025Bi0.38Sb1.62Te3",
+        "Cu0.008Bi0.6Sb1.4Te3",
+        "Cu0.005Bi0.5Sb1.495Te3"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "Cu0.1Bi0.4Sb1.5Te3 alloy",
+          "value": 190000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Cu0.003Bi0.4Sb1.6Te3",
+          "value": 1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "373.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Cu0.1Bi0.4Sb1.5Te3 alloy",
+          "value": 0.0019,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "450.0 K"
+        },
+        {
+          "material": "Cu0.1Bi0.4Sb1.5Te3 alloy",
+          "value": 0.0019,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "450.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Cu0.0025Bi0.38Sb1.62Te3",
+          "zt_value": 1.16,
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "Cu0.008Bi0.6Sb1.4Te3",
+          "zt_value": 0.98,
+          "temperature": "360.0 K"
+        },
+        {
+          "material": "Cu0.005Bi0.5Sb1.495Te3",
+          "zt_value": 1.2,
+          "temperature": "473.0 K"
+        },
+        {
+          "material": "Cu0.005Bi0.5Sb1.495Te3",
+          "zt_value": 1.2,
+          "temperature": "473.0 K"
+        },
+        {
+          "material": "Cu0.005Bi0.5Sb1.495Te3",
+          "zt_value": 1.17,
+          "temperature": "473.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

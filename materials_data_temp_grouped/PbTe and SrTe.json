@@ -1,0 +1,18 @@
+{
+  "Material": "PbTe and SrTe",
+  "DOIs_Researched": [
+    "10.1039/c3ta14129b"
+  ],
+  "Data_By_Temperature": {
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "PbTe nanocomposites with SrTe",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta14129b"
+      }
+    ]
+  }
+}

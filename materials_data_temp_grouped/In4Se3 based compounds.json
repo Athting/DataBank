@@ -1,0 +1,18 @@
+{
+  "Material": "In4Se3 based compounds",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2015.08.022"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "In4Se3 based compounds",
+        "Property": "ZT",
+        "Value": 1.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2015.08.022"
+      }
+    ]
+  }
+}

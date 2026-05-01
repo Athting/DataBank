@@ -1,0 +1,37 @@
+{
+  "Material": "Sb37Te63",
+  "DOIs_Researched": [
+    "10.1039/c8tc00140e",
+    "10.1038/s41598-019-45697-9"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Sb37Te63 films",
+        "Property": "ThermCond",
+        "Value": 0.36,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8tc00140e"
+      }
+    ],
+    "353.0": [
+      {
+        "Original_Name_In_Paper": "Sb37Te63 films",
+        "Property": "ZT",
+        "Value": 0.35000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8tc00140e"
+      },
+      {
+        "Original_Name_In_Paper": "Sb37Te63 films",
+        "Property": "ZT",
+        "Value": 0.35000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-019-45697-9"
+      }
+    ]
+  }
+}

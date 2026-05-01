@@ -1,0 +1,18 @@
+{
+  "Material": "Sr2Nb1.97Ti0.03O7",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2015.01.157"
+  ],
+  "Data_By_Temperature": {
+    "473.0": [
+      {
+        "Original_Name_In_Paper": "Sr2Nb1.97Ti0.03O7",
+        "Property": "Seebeck",
+        "Value": 2.557e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2015.01.157"
+      }
+    ]
+  }
+}

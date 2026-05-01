@@ -1,0 +1,18 @@
+{
+  "Material": "Zr-poor \u03b2-rh B",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2016.10.014"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Zr-poor \u03b2-rh B",
+        "Property": "Seebeck",
+        "Value": 0.0006000000000000001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2016.10.014"
+      }
+    ]
+  }
+}

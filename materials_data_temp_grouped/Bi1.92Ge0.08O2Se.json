@@ -1,0 +1,52 @@
+{
+  "Material": "Bi1.92Ge0.08O2Se",
+  "DOIs_Researched": [
+    "10.1016/j.jeurceramsoc.2018.02.005"
+  ],
+  "Data_By_Temperature": {
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "Bi1.92Ge0.08O2Se",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2018.02.005"
+      },
+      {
+        "Original_Name_In_Paper": "Bi1.92Ge0.08O2Se",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2018.02.005"
+      },
+      {
+        "Original_Name_In_Paper": "Bi1.92Ge0.08O2Se",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2018.02.005"
+      },
+      {
+        "Original_Name_In_Paper": "Bi1.92Ge0.08O2Se",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2018.02.005"
+      }
+    ],
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "Bi1.92Ge0.08O2Se",
+        "Property": "PF",
+        "Value": 0.00043299999999999995,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2018.02.005"
+      }
+    ]
+  }
+}

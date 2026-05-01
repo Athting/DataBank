@@ -1,0 +1,39 @@
+{
+  "Material": "ZrHfTiNiSnSb",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2015.11.022",
+    "10.1016/j.jallcom.2017.03.119"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Zr0.25Hf0.25Ti0.5NiSn0.994Sb0.006",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.03.119"
+      }
+    ],
+    "703.0": [
+      {
+        "Original_Name_In_Paper": "Zr0.25Hf0.25Ti0.5NiSn0.994Sb0.006",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.03.119"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Zr0.25Hf0.25Ti0.5NiSn0.998Sb0.002",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2015.11.022"
+      }
+    ]
+  }
+}

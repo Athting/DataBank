@@ -1,0 +1,18 @@
+{
+  "Material": "graphene / CNT",
+  "DOIs_Researched": [
+    "10.1007/s41918-018-0016-x"
+  ],
+  "Data_By_Temperature": {
+    "1223.0": [
+      {
+        "Original_Name_In_Paper": "graphene / CNT",
+        "Property": "Conductivity",
+        "Value": 313000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s41918-018-0016-x"
+      }
+    ]
+  }
+}

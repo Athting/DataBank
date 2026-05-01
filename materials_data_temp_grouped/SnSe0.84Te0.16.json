@@ -1,0 +1,54 @@
+{
+  "Material": "SnSe0.84Te0.16",
+  "DOIs_Researched": [
+    "10.1039/c9tc01994d",
+    "10.1039/c7ta09941j",
+    "10.1039/c5cp05510e"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.99Na0.01Se0.84Te0.16",
+        "Property": "ZT",
+        "Value": 0.72,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ta09941j"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.99Na0.01Se0.84Te0.16",
+        "Property": "ZT",
+        "Value": 0.72,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5cp05510e"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.99Na0.01Se0.84Te0.16",
+        "Property": "ZT",
+        "Value": 0.72,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5cp05510e"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.99Na0.01Se0.84Te0.16",
+        "Property": "ZT",
+        "Value": 0.72,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5cp05510e"
+      }
+    ],
+    "473.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.99Na0.01Se0.84Te0.16",
+        "Property": "PF",
+        "Value": 0.00033000000000000005,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc01994d"
+      }
+    ]
+  }
+}

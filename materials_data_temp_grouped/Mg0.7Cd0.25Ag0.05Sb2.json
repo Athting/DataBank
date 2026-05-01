@@ -1,0 +1,44 @@
+{
+  "Material": "Mg0.7Cd0.25Ag0.05Sb2",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2009.04.130"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "(Mg0.7Cd0.25Ag0.05)3Sb2",
+        "Property": "ZT",
+        "Value": 0.01,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.04.130"
+      },
+      {
+        "Original_Name_In_Paper": "(Mg0.7Cd0.25Ag0.05)3Sb2",
+        "Property": "ZT",
+        "Value": 0.01,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.04.130"
+      },
+      {
+        "Original_Name_In_Paper": "(Mg0.7Cd0.25Ag0.05)3Sb2",
+        "Property": "Conductivity",
+        "Value": 1666.6666666667,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.04.130"
+      }
+    ],
+    "310.0": [
+      {
+        "Original_Name_In_Paper": "(Mg0.7Cd0.25Ag0.05)3Sb2",
+        "Property": "ZT",
+        "Value": 0.01,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.04.130"
+      }
+    ]
+  }
+}

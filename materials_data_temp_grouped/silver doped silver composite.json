@@ -1,0 +1,18 @@
+{
+  "Material": "silver doped silver composite",
+  "DOIs_Researched": [
+    "10.1016/j.matchemphys.2017.05.050"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "silver doped silver composite",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2017.05.050"
+      }
+    ]
+  }
+}

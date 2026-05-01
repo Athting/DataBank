@@ -1,0 +1,18 @@
+{
+  "Material": "CaPd3V4O12",
+  "DOIs_Researched": [
+    "10.1016/j.physb.2018.06.042"
+  ],
+  "Data_By_Temperature": {
+    "250.0": [
+      {
+        "Original_Name_In_Paper": "CaPd3V4O12",
+        "Property": "ZT",
+        "Value": 0.04,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2018.06.042"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Pb0.94Mg0.06Te",
+  "DOIs_Researched": [
+    "10.1016/j.jmat.2016.05.005"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Pb0.94Mg0.06Te",
+        "Property": "ThermCond",
+        "Value": 1.78,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2016.05.005"
+      }
+    ]
+  }
+}

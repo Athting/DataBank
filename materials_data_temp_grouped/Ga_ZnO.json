@@ -1,0 +1,28 @@
+{
+  "Material": "Ga:ZnO",
+  "DOIs_Researched": [
+    "10.1557/jmr.2012.220"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ga : ZnO",
+        "Property": "ThermCond",
+        "Value": 27.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1557/jmr.2012.220"
+      }
+    ],
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "Ga : ZnO",
+        "Property": "Conductivity",
+        "Value": 117000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1557/jmr.2012.220"
+      }
+    ]
+  }
+}

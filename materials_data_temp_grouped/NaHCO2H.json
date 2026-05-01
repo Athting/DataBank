@@ -1,0 +1,18 @@
+{
+  "Material": "NaHCO2H",
+  "DOIs_Researched": [
+    "10.1016/j.cap.2016.06.006"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Sodium formate",
+        "Property": "Conductivity",
+        "Value": 5.4945000000000005e-06,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2016.06.006"
+      }
+    ]
+  }
+}

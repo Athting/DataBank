@@ -1,0 +1,181 @@
+{
+  "Material": "YSZ (Yttrium Stabilized Zirconia)",
+  "DOIs_Researched": [
+    "10.1016/B978-012654640-8-50028-6",
+    "10.1007/s11837-014-1218-2",
+    "10.1016/j.ijhydene.2015.01.148",
+    "10.1039/c9ee02230a",
+    "10.1016/j.jpowsour.2016.12.120",
+    "10.1016/j.actaastro.2016.06.005",
+    "10.1007/s11666-007-9039-2",
+    "10.1007/s11581-006-0013-7",
+    "10.1016/j.ijhydene.2018.05.171",
+    "10.1016/j.jpowsour.2007.05.085",
+    "10.1016/j.jpcs.2016.01.005",
+    "10.1016/j.pmatsci.2015.01.001",
+    "10.1016/j.ceramint.2016.05.088",
+    "10.1039/c5fd00026b"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "YSZ",
+        "Property": "ThermCond",
+        "Value": 2.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2016.05.088"
+      }
+    ],
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "YSZ",
+        "Property": "ZT",
+        "Value": 0.21,
+        "Units": null,
+        "Editing": "YSZ inclusions",
+        "Source_DOI": "10.1007/s11837-014-1218-2"
+      }
+    ],
+    "1273.0": [
+      {
+        "Original_Name_In_Paper": "YSZ",
+        "Property": "Conductivity",
+        "Value": 10.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpowsour.2007.05.085"
+      },
+      {
+        "Original_Name_In_Paper": "YSZ",
+        "Property": "Conductivity",
+        "Value": 160.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ijhydene.2018.05.171"
+      },
+      {
+        "Original_Name_In_Paper": "YSZ",
+        "Property": "Conductivity",
+        "Value": 3.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11666-007-9039-2"
+      },
+      {
+        "Original_Name_In_Paper": "YSZ",
+        "Property": "Conductivity",
+        "Value": 13.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2015.01.001"
+      },
+      {
+        "Original_Name_In_Paper": "YSZ",
+        "Property": "Conductivity",
+        "Value": 25.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-012654640-8-50028-6"
+      },
+      {
+        "Original_Name_In_Paper": "YSZ",
+        "Property": "Conductivity",
+        "Value": 10.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actaastro.2016.06.005"
+      }
+    ],
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "YSZ",
+        "Property": "Conductivity",
+        "Value": 0.5,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpowsour.2016.12.120"
+      },
+      {
+        "Original_Name_In_Paper": "YSZ",
+        "Property": "Conductivity",
+        "Value": 96.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ee02230a"
+      },
+      {
+        "Original_Name_In_Paper": "YSZ",
+        "Property": "Conductivity",
+        "Value": 96.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ee02230a"
+      }
+    ],
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "YSZ",
+        "Property": "Conductivity",
+        "Value": 1e-05,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": "addition of YSZ",
+        "Source_DOI": "10.1039/c5fd00026b"
+      },
+      {
+        "Original_Name_In_Paper": "YSZ",
+        "Property": "Conductivity",
+        "Value": 1.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2015.01.001"
+      },
+      {
+        "Original_Name_In_Paper": "YSZ",
+        "Property": "Conductivity",
+        "Value": 36000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11581-006-0013-7"
+      },
+      {
+        "Original_Name_In_Paper": "YSZ",
+        "Property": "Conductivity",
+        "Value": 3.3,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2016.01.005"
+      }
+    ],
+    "1173.0": [
+      {
+        "Original_Name_In_Paper": "YSZ",
+        "Property": "Conductivity",
+        "Value": 100.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2015.01.001"
+      }
+    ],
+    "770.0": [
+      {
+        "Original_Name_In_Paper": "YSZ",
+        "Property": "Conductivity",
+        "Value": 0.01,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ijhydene.2015.01.148"
+      }
+    ],
+    "635.0": [
+      {
+        "Original_Name_In_Paper": "YSZ",
+        "Property": "Conductivity",
+        "Value": 1.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ee02230a"
+      }
+    ]
+  }
+}

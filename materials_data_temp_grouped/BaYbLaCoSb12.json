@@ -1,0 +1,18 @@
+{
+  "Material": "BaYbLaCoSb12",
+  "DOIs_Researched": [
+    "10.1016/j.pmatsci.2016.07.002"
+  ],
+  "Data_By_Temperature": {
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "Ba0.08Yb0.04La0.05Co4Sb12",
+        "Property": "ZT",
+        "Value": 1.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2016.07.002"
+      }
+    ]
+  }
+}

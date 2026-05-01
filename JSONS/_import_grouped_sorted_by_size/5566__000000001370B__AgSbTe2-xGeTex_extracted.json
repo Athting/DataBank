@@ -1,0 +1,60 @@
+{
+  "doi": "10.1016/j.jallcom.2013.09.104",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "(AgSbTe2)1−x(GeTe)x",
+        "(AgSbTe2)1-x(GeTe)x"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "(AgSbTe2)1−x(GeTe)x",
+          "zt_value": 1.3599999999999999,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "(AgSbTe2)1−x(GeTe)x",
+          "zt_value": 1.3599999999999999,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "(AgSbTe2)1−x(GeTe)x",
+          "zt_value": 1.3599999999999999,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "(AgSbTe2)1-x(GeTe)x",
+          "zt_value": 1.3599999999999999,
+          "temperature": "700.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

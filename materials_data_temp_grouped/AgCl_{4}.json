@@ -1,0 +1,50 @@
+{
+  "Material": "AgCl_{4}",
+  "DOIs_Researched": [
+    "10.1039/c9ta01678c"
+  ],
+  "Data_By_Temperature": {
+    "789.0": [
+      {
+        "Original_Name_In_Paper": "Ag3Cl4",
+        "Property": "ThermCond",
+        "Value": 0.42,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta01678c"
+      },
+      {
+        "Original_Name_In_Paper": "Ag3Cl4",
+        "Property": "ThermCond",
+        "Value": 0.5700000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta01678c"
+      },
+      {
+        "Original_Name_In_Paper": "Ag3Cl4",
+        "Property": "ZT",
+        "Value": 1.03,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta01678c"
+      },
+      {
+        "Original_Name_In_Paper": "Ag3Cl4",
+        "Property": "PF",
+        "Value": 0.0007459999999999999,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta01678c"
+      },
+      {
+        "Original_Name_In_Paper": "Ag3Cl4",
+        "Property": "PF",
+        "Value": 0.0007459999999999999,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta01678c"
+      }
+    ]
+  }
+}

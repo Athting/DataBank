@@ -1,0 +1,18 @@
+{
+  "Material": "Fe",
+  "DOIs_Researched": [
+    "10.1016/j.tsf.2017.09.025"
+  ],
+  "Data_By_Temperature": {
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "Fe1 \u2212 xSix films",
+        "Property": "Conductivity",
+        "Value": 13.3333333333,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2017.09.025"
+      }
+    ]
+  }
+}

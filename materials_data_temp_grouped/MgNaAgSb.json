@@ -1,0 +1,26 @@
+{
+  "Material": "MgNaAgSb",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2014.11.027"
+  ],
+  "Data_By_Temperature": {
+    "523.0": [
+      {
+        "Original_Name_In_Paper": "Mg0.925Na0.075Ag0.97Sb0.99",
+        "Property": "ZT",
+        "Value": 1.26,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2014.11.027"
+      },
+      {
+        "Original_Name_In_Paper": "Mg0.9925Na0.0075Ag0.97Sb0.99",
+        "Property": "ZT",
+        "Value": 1.26,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2014.11.027"
+      }
+    ]
+  }
+}

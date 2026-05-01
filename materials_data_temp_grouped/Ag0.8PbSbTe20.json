@@ -1,0 +1,18 @@
+{
+  "Material": "Ag0.8PbSbTe20",
+  "DOIs_Researched": [
+    "10.1007/s11434-007-0124-1"
+  ],
+  "Data_By_Temperature": {
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "Ag0.8Pb18+xSbTe20",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11434-007-0124-1"
+      }
+    ]
+  }
+}

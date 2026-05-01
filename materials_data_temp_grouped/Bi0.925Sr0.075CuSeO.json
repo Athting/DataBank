@@ -1,0 +1,38 @@
+{
+  "Material": "Bi0.925Sr0.075CuSeO",
+  "DOIs_Researched": [
+    "10.1039/c2ee21274a",
+    "10.1039/c2ee22622g",
+    "10.1016/j.ceramint.2017.02.005"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.925Sr0.075CuSeO",
+        "Property": "ZT",
+        "Value": 0.76,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2ee22622g"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.925Sr0.075CuSeO",
+        "Property": "ZT",
+        "Value": 0.76,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2017.02.005"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Sr-doped Bi0.925Sr0.075CuSeO composite",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2ee21274a"
+      }
+    ]
+  }
+}

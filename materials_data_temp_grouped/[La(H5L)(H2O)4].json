@@ -1,0 +1,18 @@
+{
+  "Material": "[La(H5L)(H2O)4]",
+  "DOIs_Researched": [
+    "10.1016/j.enchem.2020.100029"
+  ],
+  "Data_By_Temperature": {
+    "333.0": [
+      {
+        "Original_Name_In_Paper": "[La(H5L)(H2O)4]",
+        "Property": "Conductivity",
+        "Value": 0.25,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.enchem.2020.100029"
+      }
+    ]
+  }
+}

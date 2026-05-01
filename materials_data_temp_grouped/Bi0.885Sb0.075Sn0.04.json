@@ -1,0 +1,27 @@
+{
+  "Material": "Bi0.885Sb0.075Sn0.04",
+  "DOIs_Researched": [
+    "10.1016/j.ijheatmasstransfer.2015.01.107",
+    "10.1016/j.jallcom.2008.12.071"
+  ],
+  "Data_By_Temperature": {
+    "200.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.885Sb0.075Sn0.04",
+        "Property": "ZT",
+        "Value": 0.08,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2008.12.071"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Bi0.885Sb0.075Sn0.04",
+        "Property": "ZT",
+        "Value": 0.08,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ijheatmasstransfer.2015.01.107"
+      }
+    ]
+  }
+}

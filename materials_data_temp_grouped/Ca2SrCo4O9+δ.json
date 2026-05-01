@@ -1,0 +1,38 @@
+{
+  "Material": "Ca2SrCo4O9+\u03b4",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2017.08.191",
+    "10.1016/j.ceramint.2018.01.030",
+    "10.1016/S0272-8842(00)00083-3"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Ca2SrCo4O9+\u03b4",
+        "Property": "ZT",
+        "Value": 0.078,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.01.030"
+      },
+      {
+        "Original_Name_In_Paper": "Ca2SrCo4O9+\u03b4",
+        "Property": "ZT",
+        "Value": 9e-05,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0272-8842(00)00083-3"
+      }
+    ],
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "Ca2SrCo4O9+\u03b4",
+        "Property": "PF",
+        "Value": 0.000121,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2017.08.191"
+      }
+    ]
+  }
+}

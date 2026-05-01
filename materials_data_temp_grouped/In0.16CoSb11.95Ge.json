@@ -1,0 +1,18 @@
+{
+  "Material": "In0.16CoSb11.95Ge",
+  "DOIs_Researched": [
+    "10.1007/s10854-014-2109-6"
+  ],
+  "Data_By_Temperature": {
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "p-type In0.16Co4Sb11.95Ge",
+        "Property": "ZT",
+        "Value": 0.58,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-014-2109-6"
+      }
+    ]
+  }
+}

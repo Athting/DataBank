@@ -1,0 +1,340 @@
+{
+  "doi": "10.1039/c9ce01139k",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "CCO without Bi–O / Bi–O",
+        "pristine CCO",
+        "CCO",
+        "bulk CCO single crystal",
+        "CCO-30-35-10 nanocomposite",
+        "CCO-30-35-10",
+        "pure CCO",
+        "single crystalline CCO",
+        "single crystal CCO",
+        "undoped CCO",
+        "polycrystalline CCO"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "CCO",
+          "value": 0.00009,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CCO",
+          "value": 0.00015000000000000001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CCO",
+          "value": 0.0001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CCO",
+          "value": 0.0001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CCO",
+          "value": 0.00018099999999999998,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "CCO",
+          "value": 0.00030000000000000003,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "CCO",
+          "value": 0.000125,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "CCO",
+          "value": 0.00013000000000000002,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "CCO",
+          "value": 6200,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CCO",
+          "value": 6200,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CCO",
+          "value": 10000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "bulk CCO single crystal",
+          "value": 2500,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CCO-30-35-10",
+          "value": 11600,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "CCO",
+          "value": 4800,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "pure CCO",
+          "value": 1000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "CCO",
+          "value": 10000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "CCO",
+          "value": 11800,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "CCO",
+          "value": 300,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "CCO",
+          "value": 5000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "400.0 K"
+        },
+        {
+          "material": "CCO",
+          "value": 8854,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "1026.0 K"
+        },
+        {
+          "material": "CCO",
+          "value": 5600,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "1193.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "CCO without Bi–O / Bi–O",
+          "value": 1.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine CCO",
+          "value": 3.14,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CCO",
+          "value": 0.55,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "CCO-30-35-10 nanocomposite",
+          "value": 1.96,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "CCO",
+          "value": 1.18,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1000.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "CCO",
+          "value": 0.000013,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CCO",
+          "value": 0.00042,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "CCO-30-35-10 nanocomposite",
+          "value": 0.0006500000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "CCO",
+          "value": 0.0001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "CCO",
+          "value": 0.00017,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "CCO",
+          "value": 0.000075,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "CCO",
+          "zt_value": 0.37,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "CCO",
+          "zt_value": 0.11,
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "CCO",
+          "zt_value": 0.30000000000000004,
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "CCO-30-35-10",
+          "zt_value": 0.31,
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "CCO",
+          "zt_value": 0.36,
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "CCO",
+          "zt_value": 0.2,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "single crystalline CCO",
+          "zt_value": 0.87,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "single crystalline CCO",
+          "zt_value": 1,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "pure CCO",
+          "zt_value": 0.0027700000000000003,
+          "temperature": "350.0 K"
+        },
+        {
+          "material": "single crystal CCO",
+          "zt_value": 1,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "undoped CCO",
+          "zt_value": 0.17500000000000002,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "polycrystalline CCO",
+          "zt_value": 0.87,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "CCO",
+          "zt_value": 0.87,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "CCO",
+          "zt_value": 0.87,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "CCO",
+          "zt_value": 0.24,
+          "temperature": "954.0 K"
+        },
+        {
+          "material": "CCO",
+          "zt_value": 0.06,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "CCO",
+          "zt_value": 0.26,
+          "temperature": "1055.0 K"
+        },
+        {
+          "material": "CCO",
+          "zt_value": 0.19,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "CCO",
+          "zt_value": 0.61,
+          "temperature": "1118.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

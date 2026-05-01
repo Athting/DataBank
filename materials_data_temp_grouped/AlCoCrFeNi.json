@@ -1,0 +1,18 @@
+{
+  "Material": "AlCoCrFeNi",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2017.09.274"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Al2CoCrFeNi",
+        "Property": "Conductivity",
+        "Value": 442791.3567127169,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.09.274"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Material": "Ag0.995Sn0.005Se",
+  "DOIs_Researched": [
+    "10.1016/j.pmatsci.2018.04.005"
+  ],
+  "Data_By_Temperature": {
+    "875.0": [
+      {
+        "Original_Name_In_Paper": "0.5 mol % SnTe / Ag0.005Sn0.995Se composites",
+        "Property": "PF",
+        "Value": 0.0011,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2018.04.005"
+      },
+      {
+        "Original_Name_In_Paper": "0.5 mol % SnTe / Ag0.005Sn0.995Se composites",
+        "Property": "Conductivity",
+        "Value": 11230.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2018.04.005"
+      }
+    ]
+  }
+}

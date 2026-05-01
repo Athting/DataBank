@@ -1,0 +1,27 @@
+{
+  "Material": "TE oxides",
+  "DOIs_Researched": [
+    "10.1038/asiamat.2010.138",
+    "10.1016/j.nanoen.2018.02.054"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "TE oxides",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2018.02.054"
+      },
+      {
+        "Original_Name_In_Paper": "TE oxides",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": "including Zn1",
+        "Source_DOI": "10.1038/asiamat.2010.138"
+      }
+    ]
+  }
+}

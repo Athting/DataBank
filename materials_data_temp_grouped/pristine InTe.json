@@ -1,0 +1,65 @@
+{
+  "Material": "pristine InTe",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2019.152210",
+    "10.1039/c9ta00475k"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "pristine InTe",
+        "Property": "ThermCond",
+        "Value": 0.87,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.152210"
+      },
+      {
+        "Original_Name_In_Paper": "pristine InTe",
+        "Property": "Conductivity",
+        "Value": 4000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.152210"
+      },
+      {
+        "Original_Name_In_Paper": "pristine InTe",
+        "Property": "Conductivity",
+        "Value": 4000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.152210"
+      }
+    ],
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "pristine InTe",
+        "Property": "ThermCond",
+        "Value": 0.9,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.152210"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "pristine InTe",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.152210"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "pristine InTe",
+        "Property": "Seebeck",
+        "Value": 0.000118,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta00475k"
+      }
+    ]
+  }
+}

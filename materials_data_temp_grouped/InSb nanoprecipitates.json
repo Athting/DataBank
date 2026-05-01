@@ -1,0 +1,18 @@
+{
+  "Material": "InSb nanoprecipitates",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2017.11.195"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "InSb nanoprecipitates",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.11.195"
+      }
+    ]
+  }
+}

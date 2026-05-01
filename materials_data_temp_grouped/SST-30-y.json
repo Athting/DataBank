@@ -1,0 +1,18 @@
+{
+  "Material": "SST-30-y",
+  "DOIs_Researched": [
+    "10.1016/j.cej.2020.126274"
+  ],
+  "Data_By_Temperature": {
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "SST-30-y",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cej.2020.126274"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "FeVSb1-xSnx",
+  "DOIs_Researched": [
+    "10.1007/s42341-018-0024-x"
+  ],
+  "Data_By_Temperature": {
+    "553.0": [
+      {
+        "Original_Name_In_Paper": "FeVSb1-xSnx",
+        "Property": "ZT",
+        "Value": 0.06,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s42341-018-0024-x"
+      }
+    ]
+  }
+}

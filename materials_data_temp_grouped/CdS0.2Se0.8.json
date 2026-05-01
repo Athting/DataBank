@@ -1,0 +1,18 @@
+{
+  "Material": "CdS0.2Se0.8",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2010.09.130"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "pure CdS0.2Se0.8 thin film",
+        "Property": "Conductivity",
+        "Value": 0.0006172840000000001,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.09.130"
+      }
+    ]
+  }
+}

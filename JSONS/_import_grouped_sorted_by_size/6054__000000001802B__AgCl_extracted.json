@@ -1,0 +1,78 @@
+{
+  "doi": "10.1016/j.susmat.2020.e00183",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Ag0Cl0",
+        "AgCl",
+        "Ag3Cl0"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "AgCl",
+          "value": 180,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "555.0 K"
+        },
+        {
+          "material": "Ag0Cl0",
+          "value": 1602,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "727.0 K"
+        },
+        {
+          "material": "Ag3Cl0",
+          "value": 2823,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "727.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Ag0Cl0",
+          "value": 1.6600000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "325.0 K"
+        },
+        {
+          "material": "Ag0Cl0",
+          "value": 0.85,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "689.0 K"
+        },
+        {
+          "material": "AgCl",
+          "value": 0.31,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "775.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": []
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Material": "composite In1.8Ge0.2O3",
+  "DOIs_Researched": [
+    "10.1016/j.ssc.2007.12.033"
+  ],
+  "Data_By_Temperature": {
+    "1273.0": [
+      {
+        "Original_Name_In_Paper": "composite In1.8Ge0.2O3",
+        "Property": "ZT",
+        "Value": 0.46,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2007.12.033"
+      },
+      {
+        "Original_Name_In_Paper": "composite In1.8Ge0.2O3",
+        "Property": "ZT",
+        "Value": 0.45,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2007.12.033"
+      }
+    ]
+  }
+}

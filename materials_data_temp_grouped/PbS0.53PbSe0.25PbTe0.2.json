@@ -1,0 +1,18 @@
+{
+  "Material": "PbS0.53PbSe0.25PbTe0.2",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2018.02.152"
+  ],
+  "Data_By_Temperature": {
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "n-type (PbS)0.53(PbSe)0.25(PbTe)0.2Sb0.02",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.02.152"
+      }
+    ]
+  }
+}

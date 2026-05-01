@@ -1,0 +1,18 @@
+{
+  "Material": "Li2Si2O5",
+  "DOIs_Researched": [
+    "10.1016/j.jnoncrysol.2006.02.172"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Li2Si2O5",
+        "Property": "Conductivity",
+        "Value": 10.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jnoncrysol.2006.02.172"
+      }
+    ]
+  }
+}

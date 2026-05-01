@@ -1,0 +1,126 @@
+{
+  "Material": "TiC",
+  "DOIs_Researched": [
+    "10.1038/am.2015.36",
+    "10.1016/j.jallcom.2010.06.195",
+    "10.1016/S0925-8388(10)00044-7",
+    "10.1007/s00339-014-8515-z",
+    "10.1038/s41598-019-41818-6"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "TiC0.5O0.5 @ TiOy- 5wt. % TiO2 bulk",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2015.36"
+      },
+      {
+        "Original_Name_In_Paper": "TiC0.1O0.9 @ TiOy-5wt. % TiO2",
+        "Property": "ZT",
+        "Value": 0.84,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2015.36"
+      },
+      {
+        "Original_Name_In_Paper": "TiC0.1O0.9 @ TiOy-5wt. % TiO2",
+        "Property": "ZT",
+        "Value": 0.84,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2015.36"
+      },
+      {
+        "Original_Name_In_Paper": "TiC0.5O0.5 @ TiOy",
+        "Property": "Seebeck",
+        "Value": 7.3e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2015.36"
+      },
+      {
+        "Original_Name_In_Paper": "TiC0.5O0.5 @ TiOy-5wt. % TiO2 bulks",
+        "Property": "PF",
+        "Value": 103400.0,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2015.36"
+      },
+      {
+        "Original_Name_In_Paper": "TiC0.1O0.9 @ TiOy-5wt. % TiO2 bulk",
+        "Property": "PF",
+        "Value": 142300.0,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2015.36"
+      },
+      {
+        "Original_Name_In_Paper": "TiC0.5O0.5 @ TiOy",
+        "Property": "PF",
+        "Value": 38000.0,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2015.36"
+      },
+      {
+        "Original_Name_In_Paper": "TiC0.1O0.9 @ TiOy-5wt. % TiO2",
+        "Property": "PF",
+        "Value": 142300.0,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2015.36"
+      }
+    ],
+    "1050.0": [
+      {
+        "Original_Name_In_Paper": "TiC",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s00339-014-8515-z"
+      },
+      {
+        "Original_Name_In_Paper": "TiC",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s00339-014-8515-z"
+      }
+    ],
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "TiC / Ti",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(10)00044-7"
+      }
+    ],
+    "860.0": [
+      {
+        "Original_Name_In_Paper": "TiC",
+        "Property": "ZT",
+        "Value": 0.047,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-019-41818-6"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "titanium carbide",
+        "Property": "Conductivity",
+        "Value": 10400.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": "In addition",
+        "Source_DOI": "10.1016/j.jallcom.2010.06.195"
+      }
+    ]
+  }
+}

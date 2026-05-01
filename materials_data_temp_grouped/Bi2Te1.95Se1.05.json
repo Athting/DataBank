@@ -1,0 +1,18 @@
+{
+  "Material": "Bi2Te1.95Se1.05",
+  "DOIs_Researched": [
+    "10.1007/s11664-020-08258-9"
+  ],
+  "Data_By_Temperature": {
+    "523.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Te1.95Se1.05",
+        "Property": "ZT",
+        "Value": 0.76,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-020-08258-9"
+      }
+    ]
+  }
+}

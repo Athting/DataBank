@@ -1,0 +1,18 @@
+{
+  "Material": "Ce38Si48Ge13",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2005.07.053"
+  ],
+  "Data_By_Temperature": {
+    "380.0": [
+      {
+        "Original_Name_In_Paper": "Ce38Si48Ge13",
+        "Property": "Seebeck",
+        "Value": -4.2999999999999995e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2005.07.053"
+      }
+    ]
+  }
+}

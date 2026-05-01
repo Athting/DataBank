@@ -1,0 +1,18 @@
+{
+  "Material": "Cu1.6915Zn0.0085Bi4.7Se",
+  "DOIs_Researched": [
+    "10.1039/c5tc02388b"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "doped Cu1.6915Zn0.0085Bi4.7Se8",
+        "Property": "ThermCond",
+        "Value": 0.56,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc02388b"
+      }
+    ]
+  }
+}

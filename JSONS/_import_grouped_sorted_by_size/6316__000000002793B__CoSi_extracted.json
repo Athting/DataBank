@@ -1,0 +1,117 @@
+{
+  "doi": "10.1016/j.jallcom.2017.01.217",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "CoSi",
+        "polycrystalline CoSi",
+        "pure CoSi",
+        "Cobalt monosilicide",
+        "0.2 mol % Ni-doped CoSi"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "CoSi",
+          "value": -0.00008,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CoSi",
+          "value": 0.000083,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "0.2 mol % Ni-doped CoSi",
+          "value": 0.00008599999999999999,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "CoSi",
+          "value": -0.00008,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "773.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "pure CoSi",
+          "value": 0.0063,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CoSi",
+          "value": 0.0045000000000000005,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Cobalt monosilicide",
+          "value": 0.006,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "CoSi",
+          "zt_value": 0.06,
+          "temperature": "295 K"
+        },
+        {
+          "material": "CoSi",
+          "zt_value": 0.06,
+          "temperature": "295 K"
+        },
+        {
+          "material": "CoSi",
+          "zt_value": 0.06,
+          "temperature": "295 K"
+        },
+        {
+          "material": "polycrystalline CoSi",
+          "zt_value": 0.005,
+          "temperature": "295 K"
+        },
+        {
+          "material": "CoSi",
+          "zt_value": 0.2,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "CoSi",
+          "zt_value": 0.2,
+          "temperature": "600.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "Material": "PbTe1\u2212xSex",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2015.10.021",
+    "10.1039/c6ra11299d",
+    "10.1016/j.mattod.2013.05.004",
+    "10.1039/c3ta11825h",
+    "10.1039/c5ra01000d"
+  ],
+  "Data_By_Temperature": {
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "Na doped PbTe1\u2212xSex alloy",
+        "Property": "ZT",
+        "Value": 1.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.10.021"
+      },
+      {
+        "Original_Name_In_Paper": "doped PbTe1\u2212xSex alloys",
+        "Property": "ZT",
+        "Value": 1.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mattod.2013.05.004"
+      },
+      {
+        "Original_Name_In_Paper": "Na doped PbTe1\u2212xSex alloy",
+        "Property": "ZT",
+        "Value": 1.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra01000d"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.98Na0.02Te1\u2212xSex alloys",
+        "Property": "ZT",
+        "Value": 1.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta11825h"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "doped PbTe1\u2212xSex",
+        "Property": "ZT",
+        "Value": 1.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra11299d"
+      }
+    ]
+  }
+}

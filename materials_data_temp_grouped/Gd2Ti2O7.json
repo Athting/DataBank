@@ -1,0 +1,18 @@
+{
+  "Material": "Gd2Ti2O7",
+  "DOIs_Researched": [
+    "10.1016/S0927-5193(07)13010-2"
+  ],
+  "Data_By_Temperature": {
+    "1273.0": [
+      {
+        "Original_Name_In_Paper": "Gd2Ti2O7",
+        "Property": "Conductivity",
+        "Value": 510.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": "doping with 8 mol % Ca",
+        "Source_DOI": "10.1016/S0927-5193(07)13010-2"
+      }
+    ]
+  }
+}

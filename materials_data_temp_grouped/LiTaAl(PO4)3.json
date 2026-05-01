@@ -1,0 +1,18 @@
+{
+  "Material": "LiTaAl(PO4)3",
+  "DOIs_Researched": [
+    "10.1039/b002696o"
+  ],
+  "Data_By_Temperature": {
+    "623.0": [
+      {
+        "Original_Name_In_Paper": "LiTaAl(PO4)3",
+        "Property": "Conductivity",
+        "Value": 1.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/b002696o"
+      }
+    ]
+  }
+}

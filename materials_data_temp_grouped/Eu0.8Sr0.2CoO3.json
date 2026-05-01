@@ -1,0 +1,18 @@
+{
+  "Material": "Eu0.8Sr0.2CoO3",
+  "DOIs_Researched": [
+    "10.1016/j.materresbull.2017.03.067"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Eu0.8Sr0.2CoO3",
+        "Property": "Conductivity",
+        "Value": 0.30000000000000004,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2017.03.067"
+      }
+    ]
+  }
+}

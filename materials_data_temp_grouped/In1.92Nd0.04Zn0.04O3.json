@@ -1,0 +1,26 @@
+{
+  "Material": "In1.92Nd0.04Zn0.04O3",
+  "DOIs_Researched": [
+    "10.1007/s11664-011-1546-8"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "In1.92Nd0.04Zn0.04O3",
+        "Property": "ZT",
+        "Value": 0.25,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-011-1546-8"
+      },
+      {
+        "Original_Name_In_Paper": "In1.92Nd0.04Zn0.04O3",
+        "Property": "PF",
+        "Value": 53000.0,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-011-1546-8"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Nb0.8Ti0.2FeSb",
+  "DOIs_Researched": [
+    "10.1016/j.intermet.2019.04.011"
+  ],
+  "Data_By_Temperature": {
+    "1200.0": [
+      {
+        "Original_Name_In_Paper": "(Nb0.8Ti0.2)FeSb",
+        "Property": "ZT",
+        "Value": 1.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2019.04.011"
+      }
+    ]
+  }
+}

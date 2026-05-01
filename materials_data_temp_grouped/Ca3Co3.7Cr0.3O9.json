@@ -1,0 +1,18 @@
+{
+  "Material": "Ca3Co3.7Cr0.3O9",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2014.05.220"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ca3Co3.7Cr0.3O9",
+        "Property": "Seebeck",
+        "Value": 0.00014000000000000001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.05.220"
+      }
+    ]
+  }
+}

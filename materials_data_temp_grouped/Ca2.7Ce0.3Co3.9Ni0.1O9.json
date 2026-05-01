@@ -1,0 +1,29 @@
+{
+  "Material": "Ca2.7Ce0.3Co3.9Ni0.1O9",
+  "DOIs_Researched": [
+    "10.1007/s10853-014-8737-7",
+    "10.1016/j.ceramint.2015.02.021"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ca2.7Ce0.3Co3.9Ni0.1O9+\u03b4",
+        "Property": "Seebeck",
+        "Value": 0.000133,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-014-8737-7"
+      }
+    ],
+    "350.0": [
+      {
+        "Original_Name_In_Paper": "Ca2.7Ce0.3Co3.9Ni0.1O9+\u03b4",
+        "Property": "Seebeck",
+        "Value": 0.00013749999999999998,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2015.02.021"
+      }
+    ]
+  }
+}

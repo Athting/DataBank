@@ -1,0 +1,18 @@
+{
+  "Material": "Yb14MnS11",
+  "DOIs_Researched": [
+    "10.1039/c9tc05710b"
+  ],
+  "Data_By_Temperature": {
+    "1200.0": [
+      {
+        "Original_Name_In_Paper": "Yb14MnS11",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc05710b"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "Material": "QL-SiTe",
+  "DOIs_Researched": [
+    "10.1039/c8ra02270d"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "QL-SiTe",
+        "Property": "ThermCond",
+        "Value": 1.315,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ra02270d"
+      }
+    ],
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "QL-SiTe",
+        "Property": "ZT",
+        "Value": 0.58,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ra02270d"
+      }
+    ]
+  }
+}

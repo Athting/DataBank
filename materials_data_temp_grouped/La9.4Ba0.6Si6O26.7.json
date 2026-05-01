@@ -1,0 +1,18 @@
+{
+  "Material": "La9.4Ba0.6Si6O26.7",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2019.10.299"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "La9.4Ba0.6Si6O26.7",
+        "Property": "Conductivity",
+        "Value": 0.033100000000000004,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2019.10.299"
+      }
+    ]
+  }
+}

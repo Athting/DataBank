@@ -1,0 +1,27 @@
+{
+  "Material": "Ca0.84Ce0.16Sb0.87",
+  "DOIs_Researched": [
+    "10.1039/c8qi00293b",
+    "10.1016/j.jssc.2018.11.030"
+  ],
+  "Data_By_Temperature": {
+    "1079.0": [
+      {
+        "Original_Name_In_Paper": "Ca0.84Ce0.16Ag0.87Sb",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8qi00293b"
+      },
+      {
+        "Original_Name_In_Paper": "Ca0.84Ce0.16Ag0.87Sb",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2018.11.030"
+      }
+    ]
+  }
+}

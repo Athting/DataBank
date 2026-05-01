@@ -1,0 +1,18 @@
+{
+  "Material": "Se / Sn",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2020.155680"
+  ],
+  "Data_By_Temperature": {
+    "650.0": [
+      {
+        "Original_Name_In_Paper": "Se / Sn",
+        "Property": "Conductivity",
+        "Value": 2220.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.155680"
+      }
+    ]
+  }
+}

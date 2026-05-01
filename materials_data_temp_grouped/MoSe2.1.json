@@ -1,0 +1,18 @@
+{
+  "Material": "MoSe2.1",
+  "DOIs_Researched": [
+    "10.1007/s11664-016-4334-7"
+  ],
+  "Data_By_Temperature": {
+    "888.0": [
+      {
+        "Original_Name_In_Paper": "MoSe2.1",
+        "Property": "ZT",
+        "Value": 0.01,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-016-4334-7"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "PbTe_1.2HgTe_0.01Na2Te",
+  "DOIs_Researched": [
+    "10.1016/j.intermet.2017.09.018"
+  ],
+  "Data_By_Temperature": {
+    "770.0": [
+      {
+        "Original_Name_In_Paper": "p-type PbTe-2 % HgTe-1 % Na2Te bulk",
+        "Property": "ZT",
+        "Value": 1.6400000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2017.09.018"
+      }
+    ]
+  }
+}

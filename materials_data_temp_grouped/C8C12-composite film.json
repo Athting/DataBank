@@ -1,0 +1,18 @@
+{
+  "Material": "C8C12-composite film",
+  "DOIs_Researched": [
+    "10.1016/j.jpowsour.2018.11.028"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "C8C12-composite film",
+        "Property": "PF",
+        "Value": 0.00015879999999999998,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpowsour.2018.11.028"
+      }
+    ]
+  }
+}

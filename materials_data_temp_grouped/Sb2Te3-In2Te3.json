@@ -1,0 +1,18 @@
+{
+  "Material": "Sb2Te3-In2Te3",
+  "DOIs_Researched": [
+    "10.1016/j.spmi.2019.05.036"
+  ],
+  "Data_By_Temperature": {
+    "320.0": [
+      {
+        "Original_Name_In_Paper": "25 % Sb2Te3-In2Te3 films",
+        "Property": "PF",
+        "Value": 5.857e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.spmi.2019.05.036"
+      }
+    ]
+  }
+}

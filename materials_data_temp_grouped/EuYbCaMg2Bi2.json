@@ -1,0 +1,73 @@
+{
+  "Material": "EuYbCaMg2Bi2",
+  "DOIs_Researched": [
+    "10.1016/j.mtphys.2017.06.003",
+    "10.1016/j.jmst.2020.04.052",
+    "10.1039/c8ra02270d",
+    "10.1016/j.mtphys.2017.07.002"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Eu0.2Yb0.2Ca0.6Mg2Bi2",
+        "Property": "ThermCond",
+        "Value": 0.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2017.06.003"
+      },
+      {
+        "Original_Name_In_Paper": "Eu0.2Yb0.2Ca0.6Mg2Bi2",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2017.07.002"
+      },
+      {
+        "Original_Name_In_Paper": "Eu0.3Yb0.3Ca0.4Mg2Bi2",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2017.07.002"
+      },
+      {
+        "Original_Name_In_Paper": "Eu0.2Yb0.2Ca0.6Mg2Bi2",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2017.06.003"
+      },
+      {
+        "Original_Name_In_Paper": "Eu0.2Yb0.2Ca0.6Mg2Bi2",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmst.2020.04.052"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Eu0.2Yb0.2Ca0.6Mg2Bi2",
+        "Property": "ThermCond",
+        "Value": 1.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2017.06.003"
+      }
+    ],
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "Eu0.2Yb0.2Ca0.6Mg2Bi2",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ra02270d"
+      }
+    ]
+  }
+}

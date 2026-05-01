@@ -1,0 +1,18 @@
+{
+  "Material": "YbZn2\u2212xMnxSb2",
+  "DOIs_Researched": [
+    "10.1039/b914172c"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "YbZn2\u2212xMnxSb2",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/b914172c"
+      }
+    ]
+  }
+}

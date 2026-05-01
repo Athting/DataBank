@@ -1,0 +1,54 @@
+{
+  "Material": "BaCu2Te2",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2011.08.021",
+    "10.1016/j.jssc.2008.05.003",
+    "10.1039/d0ta00245c"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "BaCu2Te2",
+        "Property": "ThermCond",
+        "Value": 0.9500000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta00245c"
+      },
+      {
+        "Original_Name_In_Paper": "BaCu2Te2",
+        "Property": "ThermCond",
+        "Value": 2.25,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2011.08.021"
+      },
+      {
+        "Original_Name_In_Paper": "BaCu2Te2",
+        "Property": "Seebeck",
+        "Value": 8.8e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2008.05.003"
+      },
+      {
+        "Original_Name_In_Paper": "BaCu2Te2",
+        "Property": "Seebeck",
+        "Value": 8.829999999999999e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2011.08.021"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "BaCu2Te2",
+        "Property": "ThermCond",
+        "Value": 0.6000000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta00245c"
+      }
+    ]
+  }
+}

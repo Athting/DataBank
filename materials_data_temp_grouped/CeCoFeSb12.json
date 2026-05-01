@@ -1,0 +1,29 @@
+{
+  "Material": "CeCoFeSb12",
+  "DOIs_Researched": [
+    "10.1016/j.ssc.2004.07.068",
+    "10.1016/j.mssp.2010.10.016"
+  ],
+  "Data_By_Temperature": {
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "p-type Ce0.45Co2.5Fe1.5Sb12 materials",
+        "Property": "ZT",
+        "Value": 0.68,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2010.10.016"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ce0.9CoFe3Sb12",
+        "Property": "Seebeck",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2004.07.068"
+      }
+    ]
+  }
+}

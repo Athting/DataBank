@@ -1,0 +1,134 @@
+{
+  "Material": "Sb2Se3",
+  "DOIs_Researched": [
+    "10.1016/j.physb.2018.06.030",
+    "10.1039/c5tc01364j",
+    "10.1007/s00339-018-1741-z",
+    "10.1039/c6ee02674e",
+    "10.1016/j.physb.2011.07.005",
+    "10.1016/j.colsurfa.2011.09.018",
+    "10.1039/c5tc90161h"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Sb2Se3",
+        "Property": "ThermCond",
+        "Value": 1.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ee02674e"
+      },
+      {
+        "Original_Name_In_Paper": "Te-doped Sb2Se3",
+        "Property": "Seebeck",
+        "Value": -0.000145,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01364j"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Se3 nanocrystals",
+        "Property": "Seebeck",
+        "Value": -0.00075,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01364j"
+      },
+      {
+        "Original_Name_In_Paper": "Te-doped Sb2Se3",
+        "Property": "PF",
+        "Value": 0.001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01364j"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "n-type Sb2Se3",
+        "Property": "ZT",
+        "Value": 1.12,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2018.06.030"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Se3",
+        "Property": "ZT",
+        "Value": 1.12,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2018.06.030"
+      },
+      {
+        "Original_Name_In_Paper": "n-type Sb2Se3",
+        "Property": "ZT",
+        "Value": 1.12,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2018.06.030"
+      }
+    ],
+    "100.0": [
+      {
+        "Original_Name_In_Paper": "Sb2Se3",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2018.06.030"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "pure Sb2Se3",
+        "Property": "Conductivity",
+        "Value": 5.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2011.07.005"
+      },
+      {
+        "Original_Name_In_Paper": "pure Sb2Se3",
+        "Property": "Conductivity",
+        "Value": 5.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.colsurfa.2011.09.018"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Se3 NW",
+        "Property": "Seebeck",
+        "Value": 0.000661,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s00339-018-1741-z"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Se3",
+        "Property": "Seebeck",
+        "Value": 0.0018000000000000002,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01364j"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Se3 nanowires",
+        "Property": "Seebeck",
+        "Value": -0.00075,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01364j"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Se3",
+        "Property": "PF",
+        "Value": 2e-06,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc90161h"
+      }
+    ]
+  }
+}

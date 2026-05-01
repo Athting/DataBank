@@ -1,0 +1,28 @@
+{
+  "Material": "YB41Si1.3",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2015.10.006"
+  ],
+  "Data_By_Temperature": {
+    "990.0": [
+      {
+        "Original_Name_In_Paper": "YB41Si1.3 single crystals",
+        "Property": "ZT",
+        "Value": 0.033,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2015.10.006"
+      }
+    ],
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "YB41Si1.3 single crystal",
+        "Property": "PF",
+        "Value": 0.000138,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2015.10.006"
+      }
+    ]
+  }
+}

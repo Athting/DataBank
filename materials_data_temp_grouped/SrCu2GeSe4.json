@@ -1,0 +1,18 @@
+{
+  "Material": "SrCu2GeSe4",
+  "DOIs_Researched": [
+    "10.1039/c8ta09660k"
+  ],
+  "Data_By_Temperature": {
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "SrCu2GeSe4",
+        "Property": "PF",
+        "Value": 0.0008500000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta09660k"
+      }
+    ]
+  }
+}

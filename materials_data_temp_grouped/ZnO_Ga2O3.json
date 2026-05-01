@@ -1,0 +1,18 @@
+{
+  "Material": "ZnO_Ga2O3",
+  "DOIs_Researched": [
+    "10.1016/j.optmat.2014.08.010"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "ZnO film doped with 5 % Ga2O3",
+        "Property": "Conductivity",
+        "Value": 8700.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.optmat.2014.08.010"
+      }
+    ]
+  }
+}

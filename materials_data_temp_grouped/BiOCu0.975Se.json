@@ -1,0 +1,28 @@
+{
+  "Material": "BiOCu0.975Se",
+  "DOIs_Researched": [
+    "10.1016/j.matchemphys.2016.03.045"
+  ],
+  "Data_By_Temperature": {
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "Cu-deficient BiOCu0.975Se",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2016.03.045"
+      }
+    ],
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "Cu-deficient BiOCu0.975Se",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2016.03.045"
+      }
+    ]
+  }
+}

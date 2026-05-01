@@ -1,0 +1,18 @@
+{
+  "Material": "layered calcium cobaltite-based",
+  "DOIs_Researched": [
+    "10.1134/S0020168520110059"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "layered calcium cobaltite-based",
+        "Property": "ZT",
+        "Value": 0.0228,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1134/S0020168520110059"
+      }
+    ]
+  }
+}

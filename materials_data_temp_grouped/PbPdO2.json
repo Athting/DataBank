@@ -1,0 +1,26 @@
+{
+  "Material": "PbPdO2",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2004.06.089"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "PbPdO2",
+        "Property": "Conductivity",
+        "Value": 133.3333333333,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2004.06.089"
+      },
+      {
+        "Original_Name_In_Paper": "PbPdO2",
+        "Property": "PF",
+        "Value": 1.2e-06,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2004.06.089"
+      }
+    ]
+  }
+}

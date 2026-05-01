@@ -1,0 +1,94 @@
+{
+  "doi": "10.1016/j.cej.2020.124763",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Ag2S",
+        "Ag2S-1",
+        "Ag2S-1.1",
+        "Ag2(S",
+        "Ag2S nanocrystalline film"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "Ag2S nanocrystalline film",
+          "value": -0.000198,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "400.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "Ag2S",
+          "value": 0.1,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Ag2S",
+          "value": 100,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "420.0 K"
+        },
+        {
+          "material": "Ag2S-1",
+          "value": 102000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "480.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Ag2S-1",
+          "value": 1.31,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "540.0 K"
+        },
+        {
+          "material": "Ag2(S",
+          "value": 0.30000000000000004,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Ag2S-1.1",
+          "value": 0.0006500000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "540.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Ag2S-1.1",
+          "zt_value": 0.27,
+          "temperature": "540.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

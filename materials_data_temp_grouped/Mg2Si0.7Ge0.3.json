@@ -1,0 +1,18 @@
+{
+  "Material": "Mg2Si0.7Ge0.3",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2015.04.190"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Si0.7Ge0.3",
+        "Property": "Conductivity",
+        "Value": 59000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.04.190"
+      }
+    ]
+  }
+}

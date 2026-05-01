@@ -1,0 +1,26 @@
+{
+  "Material": "Ti0.12Zr0.44Hf0.44CoSb",
+  "DOIs_Researched": [
+    "10.1039/c5tc01196e"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "Ti0.12Zr0.44Hf0.44CoSb0.8Sn0.2",
+        "Property": "ZT",
+        "Value": 0.98,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01196e"
+      },
+      {
+        "Original_Name_In_Paper": "Ti0.12Zr0.44Hf0.44CoSb0.8Sn0.2",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01196e"
+      }
+    ]
+  }
+}

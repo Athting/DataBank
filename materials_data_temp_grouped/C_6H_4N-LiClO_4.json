@@ -1,0 +1,18 @@
+{
+  "Material": "C_6H_4N-LiClO_4",
+  "DOIs_Researched": [
+    "10.1039/c8ee01419a"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "polyacrylonitrile-LiClO4",
+        "Property": "Conductivity",
+        "Value": 2.4,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": "adding 15 wt % of Li70.33La0.557TiO3",
+        "Source_DOI": "10.1039/c8ee01419a"
+      }
+    ]
+  }
+}

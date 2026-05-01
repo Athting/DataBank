@@ -1,0 +1,18 @@
+{
+  "Material": "YbCoSb12, AgSbTe2",
+  "DOIs_Researched": [
+    "10.1016/j.intermet.2013.07.009"
+  ],
+  "Data_By_Temperature": {
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "Yb0.2Co4Sb12 / 4wt % AgSbTe2",
+        "Property": "ZT",
+        "Value": 1.27,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2013.07.009"
+      }
+    ]
+  }
+}

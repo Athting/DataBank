@@ -1,0 +1,28 @@
+{
+  "Material": "Cu1.15In2.29Te4",
+  "DOIs_Researched": [
+    "10.1039/c8ta10741f"
+  ],
+  "Data_By_Temperature": {
+    "822.0": [
+      {
+        "Original_Name_In_Paper": "Cu1.15In2.29Te4",
+        "Property": "ZT",
+        "Value": 0.53,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta10741f"
+      }
+    ],
+    "825.0": [
+      {
+        "Original_Name_In_Paper": "pristine Cu1.15In2.29Te4",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": "Cu2Te doping",
+        "Source_DOI": "10.1039/c8ta10741f"
+      }
+    ]
+  }
+}

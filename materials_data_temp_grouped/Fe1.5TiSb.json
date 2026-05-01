@@ -1,0 +1,26 @@
+{
+  "Material": "Fe1.5TiSb",
+  "DOIs_Researched": [
+    "10.1016/j.matpr.2020.04.072"
+  ],
+  "Data_By_Temperature": {
+    "473.0": [
+      {
+        "Original_Name_In_Paper": "Fe1.5TiSb",
+        "Property": "ZT",
+        "Value": 0.14,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matpr.2020.04.072"
+      },
+      {
+        "Original_Name_In_Paper": "undoped Fe1.5TiSb",
+        "Property": "ZT",
+        "Value": 0.14,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matpr.2020.04.072"
+      }
+    ]
+  }
+}

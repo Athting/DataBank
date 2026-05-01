@@ -1,0 +1,54 @@
+{
+  "Material": "HfZrTiCoSbSn",
+  "DOIs_Researched": [
+    "10.1016/j.materresbull.2015.06.022",
+    "10.1039/c4ra14343d",
+    "10.1016/j.materresbull.2015.11.032"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "Hf0.19Zr0.76Ti0.05CoSb0.8Sn0.2",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2015.11.032"
+      },
+      {
+        "Original_Name_In_Paper": "Hf0.19Zr0.76Ti0.05CoSb0.8Sn0.2",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra14343d"
+      },
+      {
+        "Original_Name_In_Paper": "Hf0.44Zr0.44Ti0.12CoSb0.8Sn0.2",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra14343d"
+      },
+      {
+        "Original_Name_In_Paper": "Hf0.19Zr0.76Ti0.05CoSb0.8Sn0.2",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra14343d"
+      }
+    ],
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "p-type Hf0.44Zr0.44Ti0.12CoSb0.8Sn0.2",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2015.06.022"
+      }
+    ]
+  }
+}

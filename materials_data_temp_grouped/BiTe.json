@@ -1,0 +1,173 @@
+{
+  "Material": "BiTe",
+  "DOIs_Researched": [
+    "10.1016/j.apmt.2019.04.007",
+    "10.1039/c3nr00876b",
+    "10.1039/c3ta11457k",
+    "10.1016/j.scriptamat.2017.10.009",
+    "10.1007/s00542-012-1687-6",
+    "10.1007/s10853-006-0600-z",
+    "10.1016/j.apenergy.2014.12.075",
+    "10.1007/s10098-015-1088-5",
+    "10.1557/opl.2013.948",
+    "10.1016/j.ssc.2008.03.012",
+    "10.1007/s10853-006-1410-z",
+    "10.1007/s10853-006-0810-4",
+    "10.1039/c6ce02191c",
+    "10.1039/c8tc00140e"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "n-type BiTe(Se)",
+        "Property": "ThermCond",
+        "Value": 0.65,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1557/opl.2013.948"
+      },
+      {
+        "Original_Name_In_Paper": "Bi\u2013Te",
+        "Property": "ThermCond",
+        "Value": 0.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8tc00140e"
+      },
+      {
+        "Original_Name_In_Paper": "Bi\u2013Te",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2008.03.012"
+      },
+      {
+        "Original_Name_In_Paper": "BiTe-based materials",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2017.10.009"
+      },
+      {
+        "Original_Name_In_Paper": "Bi\u2013Te",
+        "Property": "ZT",
+        "Value": 1.8599999999999999,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apmt.2019.04.007"
+      },
+      {
+        "Original_Name_In_Paper": "Bi\u2013Te based material",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apenergy.2014.12.075"
+      },
+      {
+        "Original_Name_In_Paper": "n-type BiTe(Se)",
+        "Property": "ZT",
+        "Value": 0.85,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1557/opl.2013.948"
+      },
+      {
+        "Original_Name_In_Paper": "BiTe-based materials",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10098-015-1088-5"
+      },
+      {
+        "Original_Name_In_Paper": "BiTe-based material",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10098-015-1088-5"
+      },
+      {
+        "Original_Name_In_Paper": "pure BiTe thin films",
+        "Property": "PF",
+        "Value": 0.0001096,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ce02191c"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "BiTe",
+        "Property": "ThermCond",
+        "Value": 4.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3nr00876b"
+      },
+      {
+        "Original_Name_In_Paper": "Bi\u2013Te",
+        "Property": "ThermCond",
+        "Value": 1.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta11457k"
+      },
+      {
+        "Original_Name_In_Paper": "BiTe material",
+        "Property": "ZT",
+        "Value": 2.01,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s00542-012-1687-6"
+      }
+    ],
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "BiTe",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3nr00876b"
+      },
+      {
+        "Original_Name_In_Paper": "BiTe",
+        "Property": "Seebeck",
+        "Value": -4e-06,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3nr00876b"
+      }
+    ],
+    "298.0": [
+      {
+        "Original_Name_In_Paper": "n-type Bi\u2013Te compounds",
+        "Property": "Seebeck",
+        "Value": 0.00021099999999999998,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-006-0810-4"
+      },
+      {
+        "Original_Name_In_Paper": "Bi\u2013Te compounds",
+        "Property": "Seebeck",
+        "Value": -0.000205,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-006-0600-z"
+      },
+      {
+        "Original_Name_In_Paper": "Bi\u2013Te compounds",
+        "Property": "Seebeck",
+        "Value": -0.000205,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-006-1410-z"
+      }
+    ]
+  }
+}

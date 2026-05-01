@@ -1,0 +1,47 @@
+{
+  "Material": "Na0.95Pb20SbTe22",
+  "DOIs_Researched": [
+    "10.1007/s11837-016-2060-5",
+    "10.1016/B978-0-12-409547-2.11642-7",
+    "10.1038/asiamat.2010.138",
+    "10.1016/j.enconman.2018.08.095"
+  ],
+  "Data_By_Temperature": {
+    "650.0": [
+      {
+        "Original_Name_In_Paper": "Na0.95Pb20SbTe22",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-12-409547-2.11642-7"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Na0.95Pb20SbTe22",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/asiamat.2010.138"
+      },
+      {
+        "Original_Name_In_Paper": "Na0.95Pb20SbTe22",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11837-016-2060-5"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Na0.95Pb20SbTe22",
+        "Property": "ZT",
+        "Value": 1.087,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.enconman.2018.08.095"
+      }
+    ]
+  }
+}

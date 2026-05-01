@@ -1,0 +1,18 @@
+{
+  "Material": "CuAgSe and CuSe",
+  "DOIs_Researched": [
+    "10.1016/j.nantod.2020.100938"
+  ],
+  "Data_By_Temperature": {
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "(Cu0.99Ag0.01)2Se0.99S0.01",
+        "Property": "ThermCond",
+        "Value": 0.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nantod.2020.100938"
+      }
+    ]
+  }
+}

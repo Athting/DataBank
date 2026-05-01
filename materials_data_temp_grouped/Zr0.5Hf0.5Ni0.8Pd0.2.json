@@ -1,0 +1,18 @@
+{
+  "Material": "Zr0.5Hf0.5Ni0.8Pd0.2",
+  "DOIs_Researched": [
+    "10.1016/j.cap.2019.03.020"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Zr0.5Hf0.5Ni0.8Pd0.2Sn0.99Sb0.1 compound",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2019.03.020"
+      }
+    ]
+  }
+}

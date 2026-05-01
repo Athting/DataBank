@@ -1,0 +1,27 @@
+{
+  "Material": "n-type Cu / Bi-Te / Cu composites",
+  "DOIs_Researched": [
+    "10.1007/s10853-007-1637-3",
+    "10.1007/s10853-006-0600-z"
+  ],
+  "Data_By_Temperature": {
+    "298.0": [
+      {
+        "Original_Name_In_Paper": "n-type Cu / Bi-Te / Cu composites",
+        "Property": "Seebeck",
+        "Value": 0.000263,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-006-0600-z"
+      },
+      {
+        "Original_Name_In_Paper": "n-type Cu / Bi-Te / Cu composites",
+        "Property": "Seebeck",
+        "Value": 0.000263,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-007-1637-3"
+      }
+    ]
+  }
+}

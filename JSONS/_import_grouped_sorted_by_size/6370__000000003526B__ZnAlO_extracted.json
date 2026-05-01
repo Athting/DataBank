@@ -1,0 +1,139 @@
+{
+  "doi": "10.1007/s40243-019-0163-y",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Zn0.98Al0.02O",
+        "Zn0.99Al0.01O",
+        "Zn0.994Al0.003Zr0.003O",
+        "Zn0.997Al0.002Zr0.005O",
+        "Zn0.96Al0.04O",
+        "Zn0.08Al0.02O",
+        "textured Zn0.96Al0.04O"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "Zn0.96Al0.04O",
+          "value": 74920,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "373.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Zn0.98Al0.02O",
+          "value": 0.0015,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "Zn0.08Al0.02O",
+          "value": 0.0014500000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "Zn0.98Al0.02O",
+          "value": 0.0005300000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "Zn0.98Al0.02O",
+          "value": 0.001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "970.0 K"
+        },
+        {
+          "material": "textured Zn0.96Al0.04O",
+          "value": 4.7,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "Zn0.96Al0.04O",
+          "value": 0.30000000000000004,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "373.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Zn0.98Al0.02O",
+          "zt_value": 0.2,
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "Zn0.98Al0.02O",
+          "zt_value": 0.2,
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "Zn0.98Al0.02O",
+          "zt_value": 0.2,
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "Zn0.99Al0.01O",
+          "zt_value": 0.035,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Zn0.98Al0.02O",
+          "zt_value": 0.30000000000000004,
+          "temperature": "1273.0 K"
+        },
+        {
+          "material": "Zn0.98Al0.02O",
+          "zt_value": 0.24,
+          "temperature": "1273.0 K"
+        },
+        {
+          "material": "Zn0.994Al0.003Zr0.003O",
+          "zt_value": 0.12,
+          "temperature": "1200.0 K"
+        },
+        {
+          "material": "Zn0.997Al0.002Zr0.005O",
+          "zt_value": 0.12,
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "Zn0.96Al0.04O",
+          "zt_value": 0.085,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "Zn0.99Al0.01O",
+          "zt_value": 0.07,
+          "temperature": "1023.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

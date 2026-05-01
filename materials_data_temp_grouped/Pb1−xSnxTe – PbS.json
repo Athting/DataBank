@@ -1,0 +1,18 @@
+{
+  "Material": "Pb1\u2212xSnxTe \u2013 PbS",
+  "DOIs_Researched": [
+    "10.1039/c1ee01314a"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "nanostructured Pb1\u2212xSnxTe\u2013PbS doped with 0.055 mol % PbI2",
+        "Property": "ThermCond",
+        "Value": 1.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c1ee01314a"
+      }
+    ]
+  }
+}

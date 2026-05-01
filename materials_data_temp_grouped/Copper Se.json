@@ -1,0 +1,18 @@
+{
+  "Material": "Copper Se",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2017.12.067"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "polycrystalline copper selenide thin films",
+        "Property": "Conductivity",
+        "Value": 41000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.12.067"
+      }
+    ]
+  }
+}

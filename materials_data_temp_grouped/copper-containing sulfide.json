@@ -1,0 +1,18 @@
+{
+  "Material": "copper-containing sulfide",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2015.06.046"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "copper-containing sulfide",
+        "Property": "ThermCond",
+        "Value": 1.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2015.06.046"
+      }
+    ]
+  }
+}

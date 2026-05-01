@@ -1,0 +1,18 @@
+{
+  "Material": "Zn / Sn",
+  "DOIs_Researched": [
+    "10.1007/s11665-017-2530-0"
+  ],
+  "Data_By_Temperature": {
+    "598.0": [
+      {
+        "Original_Name_In_Paper": "Zn / Sn",
+        "Property": "PF",
+        "Value": 1400.0,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11665-017-2530-0"
+      }
+    ]
+  }
+}

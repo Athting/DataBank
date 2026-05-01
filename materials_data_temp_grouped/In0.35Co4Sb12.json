@@ -1,0 +1,18 @@
+{
+  "Material": "In0.35Co4Sb12",
+  "DOIs_Researched": [
+    "10.1007/s11664-012-2290-4"
+  ],
+  "Data_By_Temperature": {
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "In0.35Co4Sb12",
+        "Property": "ZT",
+        "Value": 0.67,
+        "Units": null,
+        "Editing": "In addition",
+        "Source_DOI": "10.1007/s11664-012-2290-4"
+      }
+    ]
+  }
+}

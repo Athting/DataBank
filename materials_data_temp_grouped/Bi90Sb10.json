@@ -1,0 +1,29 @@
+{
+  "Material": "Bi90Sb10",
+  "DOIs_Researched": [
+    "10.1007/s10853-019-04113-3",
+    "10.1016/j.physb.2009.11.051"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Bi90Sb10",
+        "Property": "ZT",
+        "Value": 2.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-019-04113-3"
+      }
+    ],
+    "473.0": [
+      {
+        "Original_Name_In_Paper": "Bi90Sb10",
+        "Property": "Seebeck",
+        "Value": -4.4999999999999996e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2009.11.051"
+      }
+    ]
+  }
+}

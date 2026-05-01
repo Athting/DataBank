@@ -1,0 +1,44 @@
+{
+  "Material": "Sn0.848Sb0.14Te0.012",
+  "DOIs_Researched": [
+    "10.1007/s10853-019-03502-y"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.848Sb0.14In0.012Te",
+        "Property": "ThermCond",
+        "Value": 0.96,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-019-03502-y"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.848Sb0.14In0.012Te alloys",
+        "Property": "ThermCond",
+        "Value": 0.96,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-019-03502-y"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.848Sb0.14In0.012Te alloy",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-019-03502-y"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Sn0.848Sb0.14In0.012Te alloy",
+        "Property": "ThermCond",
+        "Value": 2.02,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-019-03502-y"
+      }
+    ]
+  }
+}

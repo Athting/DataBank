@@ -1,0 +1,18 @@
+{
+  "Material": "p-type calcium cobaltates",
+  "DOIs_Researched": [
+    "10.1039/c6ta03126a"
+  ],
+  "Data_By_Temperature": {
+    "1118.0": [
+      {
+        "Original_Name_In_Paper": "p-type calcium cobaltates",
+        "Property": "ZT",
+        "Value": 0.61,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta03126a"
+      }
+    ]
+  }
+}

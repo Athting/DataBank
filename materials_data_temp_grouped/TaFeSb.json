@@ -1,0 +1,48 @@
+{
+  "Material": "TaFeSb",
+  "DOIs_Researched": [
+    "10.1016/j.intermet.2019.04.011",
+    "10.1039/c9tc06318h",
+    "10.1038/s41467-018-08223-5"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "TaFeSb",
+        "Property": "ThermCond",
+        "Value": 8.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41467-018-08223-5"
+      }
+    ],
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "p-type TaFeSb-based",
+        "Property": "ZT",
+        "Value": 1.52,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc06318h"
+      },
+      {
+        "Original_Name_In_Paper": "p-type TaFeSb-based",
+        "Property": "ZT",
+        "Value": 1.52,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41467-018-08223-5"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "TaFeSb",
+        "Property": "Conductivity",
+        "Value": 103734.4398340249,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2019.04.011"
+      }
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "Material": "CaMnO3.96Nb0.02Ta0.02",
+  "DOIs_Researched": [
+    "10.1039/c6ra06032c"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "CaMn0.96Nb0.02Ta0.02O3",
+        "Property": "ThermCond",
+        "Value": 1.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra06032c"
+      },
+      {
+        "Original_Name_In_Paper": "CaMn0.96Nb0.02Ta0.02O3",
+        "Property": "ZT",
+        "Value": 0.15,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra06032c"
+      },
+      {
+        "Original_Name_In_Paper": "CaMn0.96Nb0.02Ta0.02O3",
+        "Property": "ZT",
+        "Value": 0.15,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra06032c"
+      },
+      {
+        "Original_Name_In_Paper": "CaMn0.96Nb0.02Ta0.02O3",
+        "Property": "Seebeck",
+        "Value": -0.000176,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra06032c"
+      }
+    ],
+    "950.0": [
+      {
+        "Original_Name_In_Paper": "CaMn0.96Nb0.02Ta0.02O3",
+        "Property": "Seebeck",
+        "Value": -0.000176,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra06032c"
+      },
+      {
+        "Original_Name_In_Paper": "CaMn0.96Nb0.02Ta0.02O3",
+        "Property": "PF",
+        "Value": 0.0002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra06032c"
+      }
+    ]
+  }
+}

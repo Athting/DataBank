@@ -1,0 +1,42 @@
+{
+  "Material": "ZnBiO",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2009.06.021"
+  ],
+  "Data_By_Temperature": {
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "Zn0.9975Bi0.0025O",
+        "Property": "Seebeck",
+        "Value": 0.000484,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.06.021"
+      },
+      {
+        "Original_Name_In_Paper": "Zn0.9975Bi0.0025O",
+        "Property": "PF",
+        "Value": 0.000306,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.06.021"
+      },
+      {
+        "Original_Name_In_Paper": "Zn0.9975Bi0.0025O",
+        "Property": "PF",
+        "Value": 0.000306,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.06.021"
+      },
+      {
+        "Original_Name_In_Paper": "Zn0.9975Bi0.0025O",
+        "Property": "PF",
+        "Value": 0.000306,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.06.021"
+      }
+    ]
+  }
+}

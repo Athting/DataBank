@@ -1,0 +1,18 @@
+{
+  "Material": "Sn0.84Sb0.16Te",
+  "DOIs_Researched": [
+    "10.1039/c6ee00728g"
+  ],
+  "Data_By_Temperature": {
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.84Sb0.16Te",
+        "Property": "PF",
+        "Value": 0.0025,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ee00728g"
+      }
+    ]
+  }
+}

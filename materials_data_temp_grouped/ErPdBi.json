@@ -1,0 +1,18 @@
+{
+  "Material": "ErPdBi",
+  "DOIs_Researched": [
+    "10.1016/S0168-1273(06)36001-1"
+  ],
+  "Data_By_Temperature": {
+    "160.0": [
+      {
+        "Original_Name_In_Paper": "ErPdBi",
+        "Property": "Conductivity",
+        "Value": 100000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0168-1273(06)36001-1"
+      }
+    ]
+  }
+}

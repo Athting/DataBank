@@ -1,0 +1,78 @@
+{
+  "doi": "10.1007/s00339-014-8515-z",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Nb2O5",
+        "Pure Nb2O5 materials",
+        "niobium oxide"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "Pure Nb2O5 materials",
+          "value": 0.00022,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "1000.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "Pure Nb2O5 materials",
+          "value": 2600,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "1000.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "niobium oxide",
+          "value": 0.00000208,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "328.5 K"
+        },
+        {
+          "material": "niobium oxide",
+          "value": 0.00000638,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "352.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Nb2O5",
+          "zt_value": 0.30000000000000004,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "Nb2O5",
+          "zt_value": 1.2,
+          "temperature": "723.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

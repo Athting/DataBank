@@ -1,0 +1,28 @@
+{
+  "Material": "In2Ge2Te6",
+  "DOIs_Researched": [
+    "10.1039/c7ta04810f"
+  ],
+  "Data_By_Temperature": {
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "In2Ge2Te6",
+        "Property": "ThermCond",
+        "Value": 0.35000000000000003,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ta04810f"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "In2Ge2Te6",
+        "Property": "Conductivity",
+        "Value": 0.2173913043,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ta04810f"
+      }
+    ]
+  }
+}

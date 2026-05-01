@@ -1,0 +1,18 @@
+{
+  "Material": "CaFe2Co2Sb12",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2015.03.032"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "CaFe2Co2Sb12",
+        "Property": "Seebeck",
+        "Value": 0.00017,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2015.03.032"
+      }
+    ]
+  }
+}

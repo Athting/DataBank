@@ -1,0 +1,26 @@
+{
+  "Material": "CaAlSnO3.3",
+  "DOIs_Researched": [
+    "10.1007/s00339-019-2548-2"
+  ],
+  "Data_By_Temperature": {
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "Ca12Al12.8Sn1.2O33 / Mg(10)",
+        "Property": "Conductivity",
+        "Value": 765.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s00339-019-2548-2"
+      },
+      {
+        "Original_Name_In_Paper": "Ca12Al12.8Sn1.2O33 / Mg(10)",
+        "Property": "Conductivity",
+        "Value": 765.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s00339-019-2548-2"
+      }
+    ]
+  }
+}

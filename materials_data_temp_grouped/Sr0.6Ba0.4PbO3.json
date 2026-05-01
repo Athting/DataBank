@@ -1,0 +1,59 @@
+{
+  "Material": "Sr0.6Ba0.4PbO3",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2004.07.061",
+    "10.1016/j.ssc.2008.04.009"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Sr0.6Ba0.4PbO3",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2004.07.061"
+      },
+      {
+        "Original_Name_In_Paper": "Sr0.6Ba0.4PbO3",
+        "Property": "PF",
+        "Value": 0.00043000000000000004,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2008.04.009"
+      },
+      {
+        "Original_Name_In_Paper": "undoped Sr0.6Ba0.4PbO3",
+        "Property": "PF",
+        "Value": 0.00031,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2004.07.061"
+      },
+      {
+        "Original_Name_In_Paper": "Sr0.6Ba0.4PbO3",
+        "Property": "PF",
+        "Value": 0.00043000000000000004,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2004.07.061"
+      },
+      {
+        "Original_Name_In_Paper": "undoped Sr0.6Ba0.4PbO3",
+        "Property": "PF",
+        "Value": 0.00031,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2004.07.061"
+      },
+      {
+        "Original_Name_In_Paper": "undoped Sr0.6Ba0.4PbO3",
+        "Property": "PF",
+        "Value": 0.00031,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2004.07.061"
+      }
+    ]
+  }
+}

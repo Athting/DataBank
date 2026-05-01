@@ -1,0 +1,18 @@
+{
+  "Material": "(NDC(SO3H5)2)3",
+  "DOIs_Researched": [
+    "10.1016/j.enchem.2020.100029"
+  ],
+  "Data_By_Temperature": {
+    "353.0": [
+      {
+        "Original_Name_In_Paper": "O)(H2O)3(NDC(SO3H5 / 6 )2)3 ( ( BUT-8(Cr) A )",
+        "Property": "Conductivity",
+        "Value": 12.7,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.enchem.2020.100029"
+      }
+    ]
+  }
+}

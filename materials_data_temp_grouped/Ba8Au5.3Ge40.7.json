@@ -1,0 +1,39 @@
+{
+  "Material": "Ba8Au5.3Ge40.7",
+  "DOIs_Researched": [
+    "10.1016/j.pmatsci.2016.07.002",
+    "10.1016/j.jallcom.2013.10.104"
+  ],
+  "Data_By_Temperature": {
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "single-crystal Ba8Au5.3Ge40.7",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2016.07.002"
+      }
+    ],
+    "680.0": [
+      {
+        "Original_Name_In_Paper": "Ba8Au5.3Ge40.7",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.10.104"
+      }
+    ],
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "polycrystalline Ba8Au5.3Ge40.7",
+        "Property": "PF",
+        "Value": 0.0011,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.10.104"
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "Material": "CoTiS2",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2016.07.093",
+    "10.1007/s11664-010-1474-z"
+  ],
+  "Data_By_Temperature": {
+    "150.0": [
+      {
+        "Original_Name_In_Paper": "Co0.3Ti0.7S2",
+        "Property": "ZT",
+        "Value": 0.001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.07.093"
+      }
+    ],
+    "310.0": [
+      {
+        "Original_Name_In_Paper": "Co0.3Ti0.7S2",
+        "Property": "ZT",
+        "Value": 0.03,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-010-1474-z"
+      }
+    ]
+  }
+}

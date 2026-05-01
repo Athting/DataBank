@@ -1,0 +1,128 @@
+{
+  "Material": "ZrCoSb",
+  "DOIs_Researched": [
+    "10.1016/j.mser.2018.09.001",
+    "10.1007/s10853-020-04949-0",
+    "10.1039/c8ta07411a",
+    "10.1016/j.mtphys.2020.100250",
+    "10.1038/s41467-018-04958-3",
+    "10.1016/j.jallcom.2013.09.097",
+    "10.1016/j.jssc.2010.03.023",
+    "10.1016/j.mtphys.2020.100251",
+    "10.1016/j.mtphys.2017.05.002"
+  ],
+  "Data_By_Temperature": {
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "ZrCo0.92Ni0.08Sb",
+        "Property": "ThermCond",
+        "Value": 0.0018000000000000002,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      },
+      {
+        "Original_Name_In_Paper": "ZrCo0.92Ni0.08Sb",
+        "Property": "ZT",
+        "Value": 0.24,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "ZrCoSb",
+        "Property": "ThermCond",
+        "Value": 2.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2020.100251"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "ZrCoSb",
+        "Property": "ThermCond",
+        "Value": 19.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41467-018-04958-3"
+      },
+      {
+        "Original_Name_In_Paper": "ZrCo0.9Ni0.1Sb",
+        "Property": "ThermCond",
+        "Value": 12.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2017.05.002"
+      },
+      {
+        "Original_Name_In_Paper": "ZrCoSb",
+        "Property": "Seebeck",
+        "Value": -8e-06,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": "10 % Sn substitution",
+        "Source_DOI": "10.1016/j.jssc.2010.03.023"
+      }
+    ],
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "Ni-doped ZrCoSb",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2017.05.002"
+      },
+      {
+        "Original_Name_In_Paper": "Ta-doped ZrCoSb",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2020.100250"
+      }
+    ],
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "ZrCoSb-based samples",
+        "Property": "ZT",
+        "Value": 0.43,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta07411a"
+      }
+    ],
+    "743.0": [
+      {
+        "Original_Name_In_Paper": "doped ZrCoSb",
+        "Property": "ZT",
+        "Value": 0.42,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mser.2018.09.001"
+      }
+    ],
+    "350.0": [
+      {
+        "Original_Name_In_Paper": "ordered ZrCoSb",
+        "Property": "Seebeck",
+        "Value": -4.68e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.09.097"
+      }
+    ],
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "ZrCo0.9Ni0.1Sb",
+        "Property": "PF",
+        "Value": 0.0033,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2017.05.002"
+      }
+    ]
+  }
+}

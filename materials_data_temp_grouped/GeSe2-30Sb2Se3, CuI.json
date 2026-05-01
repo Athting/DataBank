@@ -1,0 +1,18 @@
+{
+  "Material": "GeSe2-30Sb2Se3, CuI",
+  "DOIs_Researched": [
+    "10.1007/s10854-019-02683-1"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "20 mol % CuI-doped 70GeSe2-30Sb2Se3",
+        "Property": "Conductivity",
+        "Value": 500.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-019-02683-1"
+      }
+    ]
+  }
+}

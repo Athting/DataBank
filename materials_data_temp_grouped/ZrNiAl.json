@@ -1,0 +1,38 @@
+{
+  "Material": "ZrNiAl",
+  "DOIs_Researched": [
+    "10.1016/j.matchemphys.2017.01.056"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Zr2NiAl",
+        "Property": "Seebeck",
+        "Value": 2.56e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2017.01.056"
+      }
+    ],
+    "150.0": [
+      {
+        "Original_Name_In_Paper": "Zr2NiAl",
+        "Property": "Seebeck",
+        "Value": 4.73e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2017.01.056"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Zr2NiAl",
+        "Property": "Seebeck",
+        "Value": 4.28e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2017.01.056"
+      }
+    ]
+  }
+}

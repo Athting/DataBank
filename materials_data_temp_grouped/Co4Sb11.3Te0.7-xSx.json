@@ -1,0 +1,36 @@
+{
+  "Material": "Co4Sb11.3Te0.7-xSx",
+  "DOIs_Researched": [
+    "10.1007/s10853-014-8141-3"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Co4Sb11.3Te0.7-xSx",
+        "Property": "ThermCond",
+        "Value": 1.46,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-014-8141-3"
+      },
+      {
+        "Original_Name_In_Paper": "Co4Sb11.3Te0.7-xSx",
+        "Property": "ThermCond",
+        "Value": 1.46,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-014-8141-3"
+      }
+    ],
+    "725.0": [
+      {
+        "Original_Name_In_Paper": "Co4Sb11.3Te0.7-xSx",
+        "Property": "ThermCond",
+        "Value": 2.7800000000000002,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-014-8141-3"
+      }
+    ]
+  }
+}

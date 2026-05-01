@@ -1,0 +1,48 @@
+{
+  "Material": "Ti2O7",
+  "DOIs_Researched": [
+    "10.1016/j.proeng.2011.12.430"
+  ],
+  "Data_By_Temperature": {
+    "919.0": [
+      {
+        "Original_Name_In_Paper": "Ti 2 O 7",
+        "Property": "ZT",
+        "Value": 0.9500000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.proeng.2011.12.430"
+      }
+    ],
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "Ti 2 O 7",
+        "Property": "ZT",
+        "Value": 0.24,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.proeng.2011.12.430"
+      }
+    ],
+    "301.78": [
+      {
+        "Original_Name_In_Paper": "Ti 2 O 7 .For",
+        "Property": "ZT",
+        "Value": 0.9500000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.proeng.2011.12.430"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ti 2 O 7",
+        "Property": "ZT",
+        "Value": 0.024,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.proeng.2011.12.430"
+      }
+    ]
+  }
+}

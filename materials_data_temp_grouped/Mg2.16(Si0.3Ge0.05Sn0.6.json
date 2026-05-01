@@ -1,0 +1,18 @@
+{
+  "Material": "Mg2.16(Si0.3Ge0.05Sn0.6",
+  "DOIs_Researched": [
+    "10.1038/s41524-020-0316-7"
+  ],
+  "Data_By_Temperature": {
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "Mg2.16(Si0.3Ge0.05Sn0.65)0.98Sb0.02",
+        "Property": "ZT",
+        "Value": 1.45,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41524-020-0316-7"
+      }
+    ]
+  }
+}

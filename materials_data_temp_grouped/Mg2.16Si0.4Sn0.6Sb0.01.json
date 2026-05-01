@@ -1,0 +1,44 @@
+{
+  "Material": "Mg2.16Si0.4Sn0.6Sb0.01",
+  "DOIs_Researched": [
+    "10.1039/c2jm31919e"
+  ],
+  "Data_By_Temperature": {
+    "740.0": [
+      {
+        "Original_Name_In_Paper": "Mg2.16(Si0.4Sn0.6)0.985Sb0.015",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2jm31919e"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2.16(Si0.4Sn0.6)0.985Sb0.015",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2jm31919e"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2.16(Si0.4Sn0.6)0.985Sb0.015",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2jm31919e"
+      }
+    ],
+    "760.0": [
+      {
+        "Original_Name_In_Paper": "Mg2.16(Si0.4Sn0.6)0.985Sb0.015",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2jm31919e"
+      }
+    ]
+  }
+}

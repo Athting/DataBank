@@ -1,0 +1,18 @@
+{
+  "Material": "NiCoP",
+  "DOIs_Researched": [
+    "10.1016/S0925-8388(10)00044-7"
+  ],
+  "Data_By_Temperature": {
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "Ni\u2013Co\u2013P",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(10)00044-7"
+      }
+    ]
+  }
+}

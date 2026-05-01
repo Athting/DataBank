@@ -1,0 +1,167 @@
+{
+  "Material": "BaLaYCoSb12",
+  "DOIs_Researched": [
+    "10.1039/c5ra03942h",
+    "10.1016/j.mser.2018.09.001",
+    "10.1016/B978-0-12-409547-2.11642-7",
+    "10.1016/j.jallcom.2017.11.195",
+    "10.1557/jmr.2011.84",
+    "10.1016/j.actamat.2013.09.039",
+    "10.1016/j.nanoen.2011.10.001",
+    "10.1007/s10853-012-6891-3",
+    "10.1016/j.nanoen.2015.09.003",
+    "10.1007/s11837-016-2060-5",
+    "10.1016/j.intermet.2011.10.023",
+    "10.1016/j.jallcom.2016.09.094",
+    "10.1016/j.scriptamat.2018.11.052",
+    "10.1039/c4ra05322b",
+    "10.1016/j.pmatsci.2016.07.002",
+    "10.1016/j.pnsc.2012.11.011"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Ba0.08La0.05Yb0.04Co4Sb12",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.09.094"
+      }
+    ],
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "n-type Ba0.08La0.05Yb0.04Co4Sb12",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2011.10.001"
+      },
+      {
+        "Original_Name_In_Paper": "Ba0.08La0.05Yb0.04Co4Sb12",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-12-409547-2.11642-7"
+      },
+      {
+        "Original_Name_In_Paper": "Ba0.08La0.05Yb0.04Co4Sb12",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pnsc.2012.11.011"
+      },
+      {
+        "Original_Name_In_Paper": "Ba0.08La0.05Yb0.04Co4Sb12",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2011.10.023"
+      },
+      {
+        "Original_Name_In_Paper": "Ba0.08La0.05Yb0.04Co4Sb12",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1557/jmr.2011.84"
+      },
+      {
+        "Original_Name_In_Paper": "n-type Ba0.08La0.05Yb0.04Co4Sb12",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra05322b"
+      },
+      {
+        "Original_Name_In_Paper": "Ba0.08La0.05Yb0.04Co4Sb12 compound",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra03942h"
+      },
+      {
+        "Original_Name_In_Paper": "n-type Ba0.08La0.05Yb0.04Co4Sb12",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-012-6891-3"
+      },
+      {
+        "Original_Name_In_Paper": "Ba0.08La0.05Yb0.04Co4Sb12",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.11.195"
+      },
+      {
+        "Original_Name_In_Paper": "Ba0.08La0.05Yb0.04Co4Sb12",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2016.07.002"
+      },
+      {
+        "Original_Name_In_Paper": "Ba0.08La0.05Yb0.04Co4Sb12",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11837-016-2060-5"
+      },
+      {
+        "Original_Name_In_Paper": "Ba0.08La0.05Yb0.04Co4Sb12",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mser.2018.09.001"
+      },
+      {
+        "Original_Name_In_Paper": "Ba0.08La0.05Yb0.04Co4Sb12",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2013.09.039"
+      },
+      {
+        "Original_Name_In_Paper": "Ba0.1La0.05Yb0.07Co4Sb12",
+        "Property": "PF",
+        "Value": 0.0055000000000000005,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2015.09.003"
+      }
+    ],
+    "835.0": [
+      {
+        "Original_Name_In_Paper": "Ba0.08La0.05Yb0.04Co4Sb12",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2018.11.052"
+      }
+    ],
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "Ba0.08La0.05Yb0.04Co4Sb12",
+        "Property": "PF",
+        "Value": 0.0055000000000000005,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2013.09.039"
+      }
+    ]
+  }
+}

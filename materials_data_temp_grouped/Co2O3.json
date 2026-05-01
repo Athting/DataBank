@@ -1,0 +1,18 @@
+{
+  "Material": "Co2O3",
+  "DOIs_Researched": [
+    "10.1007/s10854-011-0574-8"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "5.0 mol % Co2O3",
+        "Property": "PF",
+        "Value": 1.2000000000000002e-07,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-011-0574-8"
+      }
+    ]
+  }
+}

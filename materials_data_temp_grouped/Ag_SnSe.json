@@ -1,0 +1,58 @@
+{
+  "Material": "Ag_SnSe",
+  "DOIs_Researched": [
+    "10.1016/j.matlet.2017.01.079",
+    "10.1016/j.jallcom.2017.08.223",
+    "10.1016/j.jallcom.2016.01.190",
+    "10.1039/c5ra23742d",
+    "10.1039/c5ta08847j"
+  ],
+  "Data_By_Temperature": {
+    "810.0": [
+      {
+        "Original_Name_In_Paper": "Ag-doped SnSe",
+        "Property": "ZT",
+        "Value": 0.74,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2017.01.079"
+      }
+    ],
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "Ag doped polycrystalline SnSe",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.01.190"
+      },
+      {
+        "Original_Name_In_Paper": "Ag-doped SnSe",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.08.223"
+      },
+      {
+        "Original_Name_In_Paper": "Ag doped polycrystalline SnSe",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra23742d"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Ag-doped SnSe",
+        "Property": "ZT",
+        "Value": 0.27,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta08847j"
+      }
+    ]
+  }
+}

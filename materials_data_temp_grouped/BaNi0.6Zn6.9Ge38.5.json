@@ -1,0 +1,18 @@
+{
+  "Material": "BaNi0.6Zn6.9Ge38.5",
+  "DOIs_Researched": [
+    "10.1039/c2dt32049e"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Ba8Ni0.6Zn6.9Ge38.5",
+        "Property": "ZT",
+        "Value": 0.65,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2dt32049e"
+      }
+    ]
+  }
+}

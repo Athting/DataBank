@@ -1,0 +1,29 @@
+{
+  "Material": "FeNb0.84Hf0.1Ti0.06",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2019.01.013",
+    "10.1016/j.ensm.2017.07.014"
+  ],
+  "Data_By_Temperature": {
+    "1200.0": [
+      {
+        "Original_Name_In_Paper": "FeNb0.84Hf0.1Ti0.06Sb compound",
+        "Property": "ZT",
+        "Value": 1.32,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2019.01.013"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "FeNb0.84Hf0.1Ti0.06Sb",
+        "Property": "Seebeck",
+        "Value": 0.0002,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ensm.2017.07.014"
+      }
+    ]
+  }
+}

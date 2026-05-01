@@ -1,0 +1,37 @@
+{
+  "Material": "Bi0.85Ba0.15CuSeO",
+  "DOIs_Researched": [
+    "10.1039/c2ee22622g",
+    "10.1016/j.jallcom.2012.10.160"
+  ],
+  "Data_By_Temperature": {
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.85Ba0.15CuSeO",
+        "Property": "ThermCond",
+        "Value": 0.52,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2012.10.160"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.85Ba0.15CuSeO",
+        "Property": "ThermCond",
+        "Value": 0.31,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2012.10.160"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.85Ba0.15CuSeO",
+        "Property": "Seebeck",
+        "Value": 6.9e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2ee22622g"
+      }
+    ]
+  }
+}

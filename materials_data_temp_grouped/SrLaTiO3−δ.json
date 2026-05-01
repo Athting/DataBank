@@ -1,0 +1,18 @@
+{
+  "Material": "SrLaTiO3\u2212\u03b4",
+  "DOIs_Researched": [
+    "10.1039/c2ee22622g"
+  ],
+  "Data_By_Temperature": {
+    "1118.0": [
+      {
+        "Original_Name_In_Paper": "Sr0.9La0.1TiO3\u2212\u03b4",
+        "Property": "ThermCond",
+        "Value": 3.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2ee22622g"
+      }
+    ]
+  }
+}

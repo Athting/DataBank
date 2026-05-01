@@ -1,0 +1,18 @@
+{
+  "Material": "Nb0.8Co0.92Ni0.08Sb",
+  "DOIs_Researched": [
+    "10.1039/c8ee03654c"
+  ],
+  "Data_By_Temperature": {
+    "1123.0": [
+      {
+        "Original_Name_In_Paper": "Nb0.8Co0.92Ni0.08Sb",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee03654c"
+      }
+    ]
+  }
+}

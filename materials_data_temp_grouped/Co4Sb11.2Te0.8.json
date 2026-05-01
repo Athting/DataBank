@@ -1,0 +1,18 @@
+{
+  "Material": "Co4Sb11.2Te0.8",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2017.11.003"
+  ],
+  "Data_By_Temperature": {
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "Co4Sb11.2Te0.8",
+        "Property": "ZT",
+        "Value": 0.98,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2017.11.003"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Mg2.475Cd0.5Sb2",
+  "DOIs_Researched": [
+    "10.1007/s10853-018-2555-2"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Mg2.475Cd0.5Li0.025Sb2",
+        "Property": "ThermCond",
+        "Value": 0.9,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-018-2555-2"
+      }
+    ]
+  }
+}

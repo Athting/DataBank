@@ -1,0 +1,34 @@
+{
+  "Material": "Co2.4Fe0.6Sn2S2",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2017.04.028"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Co2.4Fe0.6Sn2S2",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2017.04.028"
+      },
+      {
+        "Original_Name_In_Paper": "Co2.4Fe0.6Sn2S2",
+        "Property": "PF",
+        "Value": 0.00103,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2017.04.028"
+      },
+      {
+        "Original_Name_In_Paper": "Co2.4Fe0.6Sn2S2",
+        "Property": "PF",
+        "Value": 0.00103,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2017.04.028"
+      }
+    ]
+  }
+}

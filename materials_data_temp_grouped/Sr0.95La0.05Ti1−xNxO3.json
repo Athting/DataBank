@@ -1,0 +1,18 @@
+{
+  "Material": "Sr0.95La0.05Ti1\u2212xNxO3",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2010.03.049"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "Sr0.95La0.05Ti1\u2212xNbxO3",
+        "Property": "ZT",
+        "Value": 0.21,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.03.049"
+      }
+    ]
+  }
+}

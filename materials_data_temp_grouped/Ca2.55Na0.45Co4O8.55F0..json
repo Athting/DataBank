@@ -1,0 +1,18 @@
+{
+  "Material": "Ca2.55Na0.45Co4O8.55F0.",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2016.11.405"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Ca2.55Na0.45Co4\u041e8.55F0.45",
+        "Property": "ZT",
+        "Value": 0.13,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.11.405"
+      }
+    ]
+  }
+}

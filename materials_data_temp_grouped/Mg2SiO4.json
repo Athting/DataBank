@@ -1,0 +1,29 @@
+{
+  "Material": "Mg2SiO4",
+  "DOIs_Researched": [
+    "10.1016/j.snb.2015.02.083",
+    "10.1016/S0079-6727(02)00016-2"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "forsterite Mg2SiO4",
+        "Property": "ThermCond",
+        "Value": 3.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.snb.2015.02.083"
+      }
+    ],
+    "293.0": [
+      {
+        "Original_Name_In_Paper": "Cr4+ : forsterite crystal",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0079-6727(02)00016-2"
+      }
+    ]
+  }
+}

@@ -1,0 +1,302 @@
+{
+  "doi": "10.1038/am.2015.91",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Cu2S",
+        "pure Cu2S",
+        "γ-Cu2S",
+        "Cu2S1",
+        "Polycrystalline Cu2Sex bulk materials",
+        "polycrystalline Cu2Sex bulk materials",
+        "Cu2S–2 % In2S3",
+        "undoped Cu2S",
+        "Undoped Cu2S",
+        "hole-doped Cu2S crystal",
+        "p-type γ-Cu2S",
+        "pristine Cu2S",
+        "Cu2S without CNTs"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "Cu2S",
+          "value": 0.00030000000000000003,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Cu2S without CNTs",
+          "value": 0.00030000000000000003,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "450.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "Cu2S",
+          "value": 9000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Cu2S–2 % In2S3",
+          "value": 85400,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "570.0 K"
+        },
+        {
+          "material": "Cu2S",
+          "value": 10000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "570.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Cu2S",
+          "value": 0.36,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure Cu2S",
+          "value": 0.44,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "γ-Cu2S",
+          "value": 0.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "γ-Cu2S",
+          "value": 0.19,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "Cu2S1",
+          "value": 0.03,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "10.0 K"
+        },
+        {
+          "material": "Cu2S",
+          "value": 0.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "400.0 K"
+        },
+        {
+          "material": "Cu2S",
+          "value": 0.33,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "448.0 K"
+        },
+        {
+          "material": "Cu2S",
+          "value": 0.6000000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "923.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Cu2S",
+          "value": 0.000003,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Cu2S",
+          "value": 0.001361,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "Cu2S–2 % In2S3",
+          "value": 0.001361,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "Cu2S–2 % In2S3",
+          "value": 0.001361,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "850.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "γ-Cu2S",
+          "zt_value": 2.5,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "Cu2S",
+          "zt_value": 0.6000000000000001,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "Cu2S",
+          "zt_value": 1.2,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "Cu2S",
+          "zt_value": 1.2,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "Polycrystalline Cu2Sex bulk materials",
+          "zt_value": 0.75,
+          "temperature": "623.0 K"
+        },
+        {
+          "material": "polycrystalline Cu2Sex bulk materials",
+          "zt_value": 0.75,
+          "temperature": "623.0 K"
+        },
+        {
+          "material": "Cu2S",
+          "zt_value": 1.7000000000000002,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Cu2S",
+          "zt_value": 0.7000000000000001,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Cu2S",
+          "zt_value": 0.6000000000000001,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Cu2S",
+          "zt_value": 1.5,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Cu2S",
+          "zt_value": 1.5,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Cu2S–2 % In2S3",
+          "zt_value": 1.23,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "undoped Cu2S",
+          "zt_value": 0.34,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "Cu2S",
+          "zt_value": 0.6000000000000001,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Cu2S",
+          "zt_value": 0.65,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Cu2S",
+          "zt_value": 0.65,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Cu2S",
+          "zt_value": 0.9,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "pure Cu2S",
+          "zt_value": 0.56,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "pure Cu2S",
+          "zt_value": 0.74,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "Cu2S",
+          "zt_value": 1,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Undoped Cu2S",
+          "zt_value": 0.9,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Cu2S",
+          "zt_value": 0.5,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "Cu2S",
+          "zt_value": 1.7000000000000002,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "hole-doped Cu2S crystal",
+          "zt_value": 1.2,
+          "temperature": "500.0 K"
+        },
+        {
+          "material": "p-type γ-Cu2S",
+          "zt_value": 1.2,
+          "temperature": "500.0 K"
+        },
+        {
+          "material": "γ-Cu2S",
+          "zt_value": 1.2,
+          "temperature": "500.0 K"
+        },
+        {
+          "material": "pristine Cu2S",
+          "zt_value": 0.32,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "Cu2S",
+          "zt_value": 0.32,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "pristine Cu2S",
+          "zt_value": 0.32,
+          "temperature": "723.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

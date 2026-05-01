@@ -1,0 +1,18 @@
+{
+  "Material": "% Y2O3",
+  "DOIs_Researched": [
+    "10.1016/S0925-8388(02)00964-7"
+  ],
+  "Data_By_Temperature": {
+    "651.0": [
+      {
+        "Original_Name_In_Paper": "% Y2O3",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(02)00964-7"
+      }
+    ]
+  }
+}

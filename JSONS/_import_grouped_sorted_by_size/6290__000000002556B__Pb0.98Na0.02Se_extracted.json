@@ -1,0 +1,102 @@
+{
+  "doi": "10.1039/c9ta13927c",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Pb0.98Na0.02Se"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "Pb0.98Na0.02Se",
+          "value": 0.000018999999999999998,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "310.0 K"
+        },
+        {
+          "material": "Pb0.98Na0.02Se",
+          "value": 0.000168,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "860.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "Pb0.98Na0.02Se",
+          "value": 114100,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Pb0.98Na0.02Se",
+          "value": 4.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "310.0 K"
+        },
+        {
+          "material": "Pb0.98Na0.02Se",
+          "value": 2.8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "310.0 K"
+        },
+        {
+          "material": "Pb0.98Na0.02Se",
+          "value": 0.6900000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "860.0 K"
+        },
+        {
+          "material": "Pb0.98Na0.02Se",
+          "value": 1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "860.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Pb0.98Na0.02Se",
+          "value": 0.00014000000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "310.0 K"
+        },
+        {
+          "material": "Pb0.98Na0.02Se",
+          "value": 0.0018200000000000002,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "860.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Pb0.98Na0.02Se",
+          "zt_value": 0.87,
+          "temperature": "860.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "AgSbMnTe2.05",
+  "DOIs_Researched": [
+    "10.1038/srep05774"
+  ],
+  "Data_By_Temperature": {
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "Ag0.9SbMn0.1Te2.05",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/srep05774"
+      }
+    ]
+  }
+}

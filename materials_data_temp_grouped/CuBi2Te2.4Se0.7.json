@@ -1,0 +1,34 @@
+{
+  "Material": "CuBi2Te2.4Se0.7",
+  "DOIs_Researched": [
+    "10.1007/s13391-018-0021-6"
+  ],
+  "Data_By_Temperature": {
+    "473.0": [
+      {
+        "Original_Name_In_Paper": "Cu0.01Bi2Te2.4Se0.7",
+        "Property": "ZT",
+        "Value": 0.92,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s13391-018-0021-6"
+      },
+      {
+        "Original_Name_In_Paper": "Cu0.01Bi2Te2.4Se0.7",
+        "Property": "ZT",
+        "Value": 0.92,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s13391-018-0021-6"
+      },
+      {
+        "Original_Name_In_Paper": "Cu0.01Bi2Te2.4Se0.7",
+        "Property": "ZT",
+        "Value": 0.92,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s13391-018-0021-6"
+      }
+    ]
+  }
+}

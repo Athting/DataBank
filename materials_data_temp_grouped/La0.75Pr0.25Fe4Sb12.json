@@ -1,0 +1,26 @@
+{
+  "Material": "La0.75Pr0.25Fe4Sb12",
+  "DOIs_Researched": [
+    "10.1007/s11664-015-3952-9"
+  ],
+  "Data_By_Temperature": {
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "La0.75Pr0.25Fe4Sb12",
+        "Property": "ZT",
+        "Value": 0.8300000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-015-3952-9"
+      },
+      {
+        "Original_Name_In_Paper": "La0.75Pr0.25Fe4Sb12",
+        "Property": "PF",
+        "Value": 0.0031000000000000003,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-015-3952-9"
+      }
+    ]
+  }
+}

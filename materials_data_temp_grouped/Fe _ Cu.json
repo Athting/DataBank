@@ -1,0 +1,18 @@
+{
+  "Material": "Fe / Cu",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2017.10.033"
+  ],
+  "Data_By_Temperature": {
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "Fe / Cu",
+        "Property": "Conductivity",
+        "Value": 135135.1351351351,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.10.033"
+      }
+    ]
+  }
+}

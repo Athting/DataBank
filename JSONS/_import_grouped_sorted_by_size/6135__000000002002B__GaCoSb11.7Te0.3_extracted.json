@@ -1,0 +1,81 @@
+{
+  "doi": "10.1016/j.intermet.2012.03.007",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Ga0.3Co4Sb11.7Te0.3 compound",
+        "Ga0.3Co4Sb11.7Te0.3",
+        "Ga0.2Co4Sb11.7Te0.3"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "Ga0.2Co4Sb11.7Te0.3",
+          "value": 0.000237,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "800.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Ga0.3Co4Sb11.7Te0.3 compound",
+          "value": 2.75,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "Ga0.3Co4Sb11.7Te0.3",
+          "value": 2.21,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "600.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Ga0.3Co4Sb11.7Te0.3 compound",
+          "zt_value": 0.6000000000000001,
+          "temperature": "650.0 K"
+        },
+        {
+          "material": "Ga0.3Co4Sb11.7Te0.3",
+          "zt_value": 0.6000000000000001,
+          "temperature": "650.0 K"
+        },
+        {
+          "material": "Ga0.3Co4Sb11.7Te0.3 compound",
+          "zt_value": 0.6000000000000001,
+          "temperature": "650.0 K"
+        },
+        {
+          "material": "Ga0.3Co4Sb11.7Te0.3 compound",
+          "zt_value": 0.6000000000000001,
+          "temperature": "650.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

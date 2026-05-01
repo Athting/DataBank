@@ -1,0 +1,36 @@
+{
+  "Material": "CdTe",
+  "DOIs_Researched": [
+    "10.1039/c9ra04748d",
+    "10.1039/c0cp00079e",
+    "10.1016/j.ssc.2014.07.018"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "bulk CdTe",
+        "Property": "ThermCond",
+        "Value": 2.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c0cp00079e"
+      },
+      {
+        "Original_Name_In_Paper": "CdTe",
+        "Property": "ThermCond",
+        "Value": 6.14,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ra04748d"
+      },
+      {
+        "Original_Name_In_Paper": "CdTe : Ge crystals",
+        "Property": "Conductivity",
+        "Value": 0.9174311927000001,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2014.07.018"
+      }
+    ]
+  }
+}

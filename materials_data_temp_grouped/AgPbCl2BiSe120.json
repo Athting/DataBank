@@ -1,0 +1,18 @@
+{
+  "Material": "AgPbCl2BiSe120",
+  "DOIs_Researched": [
+    "10.1007/s10854-015-4081-1"
+  ],
+  "Data_By_Temperature": {
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "PbCl2 doped Ag10Pb100Bi10Se120",
+        "Property": "ZT",
+        "Value": 0.86,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-015-4081-1"
+      }
+    ]
+  }
+}

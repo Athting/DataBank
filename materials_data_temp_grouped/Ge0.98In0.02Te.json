@@ -1,0 +1,28 @@
+{
+  "Material": "Ge0.98In0.02Te",
+  "DOIs_Researched": [
+    "10.1016/j.joule.2019.08.017"
+  ],
+  "Data_By_Temperature": {
+    "725.0": [
+      {
+        "Original_Name_In_Paper": "Ge0.98In0.02Te",
+        "Property": "ZT",
+        "Value": 1.31,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2019.08.017"
+      }
+    ],
+    "675.0": [
+      {
+        "Original_Name_In_Paper": "Ge0.98In0.02Te",
+        "Property": "PF",
+        "Value": 0.0051600000000000005,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2019.08.017"
+      }
+    ]
+  }
+}

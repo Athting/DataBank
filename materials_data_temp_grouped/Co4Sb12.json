@@ -1,0 +1,45 @@
+{
+  "Material": "Co4Sb12",
+  "DOIs_Researched": [
+    "10.1007/s11661-017-4058-1",
+    "10.1016/j.actamat.2013.07.032"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "unfilled Co4Sb12",
+        "Property": "ThermCond",
+        "Value": 10.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11661-017-4058-1"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "undoped Co4Sb12",
+        "Property": "Conductivity",
+        "Value": 14285.7142857143,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2013.07.032"
+      },
+      {
+        "Original_Name_In_Paper": "undoped Co4Sb12",
+        "Property": "Conductivity",
+        "Value": 14285.7142857143,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2013.07.032"
+      },
+      {
+        "Original_Name_In_Paper": "undoped Co4Sb12",
+        "Property": "Conductivity",
+        "Value": 16666.6666666667,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2013.07.032"
+      }
+    ]
+  }
+}

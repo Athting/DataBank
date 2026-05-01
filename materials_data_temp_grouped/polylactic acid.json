@@ -1,0 +1,18 @@
+{
+  "Material": "polylactic acid",
+  "DOIs_Researched": [
+    "10.1039/d0ma00278j"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "polylactic acid",
+        "Property": "ZT",
+        "Value": 0.011,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ma00278j"
+      }
+    ]
+  }
+}

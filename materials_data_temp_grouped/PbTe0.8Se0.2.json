@@ -1,0 +1,35 @@
+{
+  "Material": "PbTe0.8Se0.2",
+  "DOIs_Researched": [
+    "10.1016/j.jmat.2016.05.005",
+    "10.1016/j.jmat.2016.05.002"
+  ],
+  "Data_By_Temperature": {
+    "820.0": [
+      {
+        "Original_Name_In_Paper": "PbTe0.8Se0.2 with 8 % MgTe",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2016.05.005"
+      },
+      {
+        "Original_Name_In_Paper": "PbTe0.8Se0.2 with 8 % MgTe",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2016.05.005"
+      },
+      {
+        "Original_Name_In_Paper": "PbTe0.8Se0.2 with MgTe",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2016.05.002"
+      }
+    ]
+  }
+}

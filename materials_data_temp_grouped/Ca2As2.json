@@ -1,0 +1,26 @@
+{
+  "Material": "Ca2As2",
+  "DOIs_Researched": [
+    "10.1016/bs.hpcre.2016.05.003"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "\u03b1-Ca2CdAs2",
+        "Property": "ZT",
+        "Value": 0.96,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/bs.hpcre.2016.05.003"
+      },
+      {
+        "Original_Name_In_Paper": "\u03b1-Ca2CdAs2",
+        "Property": "Seebeck",
+        "Value": 0.000266,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/bs.hpcre.2016.05.003"
+      }
+    ]
+  }
+}

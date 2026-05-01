@@ -1,0 +1,18 @@
+{
+  "Material": "14600 S m\u22121",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2015.01.020"
+  ],
+  "Data_By_Temperature": {
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "14600 S m\u22121",
+        "Property": "Conductivity",
+        "Value": 39500.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2015.01.020"
+      }
+    ]
+  }
+}

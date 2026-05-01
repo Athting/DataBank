@@ -1,0 +1,76 @@
+{
+  "doi": "10.1016/j.jallcom.2013.03.206",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Co0.94Ni0.06Sb3",
+        "Co0.95Ni0.05−0.06Sb3",
+        "Co0.95Ni0.05Sb3–Co0.94Ni0.06Sb3",
+        "Co0.95Ni0.05Sb3",
+        "Co0.9Ni0.1Sb3"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Co0.95Ni0.05−0.06Sb3",
+          "value": 0.0034000000000000002,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "Co0.95Ni0.05Sb3–Co0.94Ni0.06Sb3",
+          "value": 0.0024500000000000004,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "700.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Co0.94Ni0.06Sb3",
+          "zt_value": 0.7000000000000001,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "Co0.95Ni0.05Sb3",
+          "zt_value": 0.0002,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Co0.9Ni0.1Sb3",
+          "zt_value": 0.08,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Co0.9Ni0.1Sb3",
+          "zt_value": 0.55,
+          "temperature": "773.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "NdIn0.1Co4Sb12.12",
+  "DOIs_Researched": [
+    "10.1016/j.physb.2012.09.035"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Nd double-filled In0.1Nd0.05Co4Sb12.12",
+        "Property": "Conductivity",
+        "Value": 92700.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2012.09.035"
+      }
+    ]
+  }
+}

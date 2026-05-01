@@ -1,0 +1,18 @@
+{
+  "Material": "Ti0.1Zr0.9NiSn",
+  "DOIs_Researched": [
+    "10.1039/c4dt00430b"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "undoped Ti0.1Zr0.9NiSn matrix",
+        "Property": "Seebeck",
+        "Value": -7.8e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4dt00430b"
+      }
+    ]
+  }
+}

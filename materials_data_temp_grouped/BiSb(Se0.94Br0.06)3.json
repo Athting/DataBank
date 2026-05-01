@@ -1,0 +1,84 @@
+{
+  "Material": "BiSb(Se0.94Br0.06)3",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2020.155473"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "nanostructured BiSb(Se0.94Br0.06)3",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.155473"
+      },
+      {
+        "Original_Name_In_Paper": "BiSb(Se0.94Br0.06)3",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.155473"
+      },
+      {
+        "Original_Name_In_Paper": "BiSb(Se0.94Br0.06)3",
+        "Property": "ZT",
+        "Value": 1.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.155473"
+      },
+      {
+        "Original_Name_In_Paper": "BiSb(Se0.94Br0.06)3",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.155473"
+      },
+      {
+        "Original_Name_In_Paper": "BiSb(Se0.94Br0.06)3",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.155473"
+      },
+      {
+        "Original_Name_In_Paper": "BiSb(Se0.94Br0.06)3-0C",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.155473"
+      },
+      {
+        "Original_Name_In_Paper": "BiSb(Se0.94Br0.06)3",
+        "Property": "PF",
+        "Value": 0.0006000000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.155473"
+      },
+      {
+        "Original_Name_In_Paper": "BiSb(Se0.94Br0.06)3-0C",
+        "Property": "PF",
+        "Value": 0.00046,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.155473"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "BiSb(Se0.94Br0.06)3-0C",
+        "Property": "Conductivity",
+        "Value": 15300.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.155473"
+      }
+    ]
+  }
+}

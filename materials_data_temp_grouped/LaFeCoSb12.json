@@ -1,0 +1,56 @@
+{
+  "Material": "LaFeCoSb12",
+  "DOIs_Researched": [
+    "10.1016/j.msea.2005.12.060",
+    "10.1007/s11661-017-4058-1",
+    "10.1016/j.jallcom.2005.11.023"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "La0.6FeCo3Sb12",
+        "Property": "ThermCond",
+        "Value": 1.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11661-017-4058-1"
+      },
+      {
+        "Original_Name_In_Paper": "La0.4FeCo3Sb12",
+        "Property": "ThermCond",
+        "Value": 2.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.msea.2005.12.060"
+      }
+    ],
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "La0.4FeCo3Sb12 skutterudite",
+        "Property": "ZT",
+        "Value": 0.32,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2005.11.023"
+      },
+      {
+        "Original_Name_In_Paper": "La0.4FeCo3Sb12 skutterudite",
+        "Property": "ZT",
+        "Value": 0.32,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2005.11.023"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "La0.6Fe0.5Co3.5Sb12",
+        "Property": "ZT",
+        "Value": 0.22,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11661-017-4058-1"
+      }
+    ]
+  }
+}

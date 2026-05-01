@@ -1,0 +1,145 @@
+{
+  "Material": "NiSn",
+  "DOIs_Researched": [
+    "10.1016/j.enconman.2009.05.023",
+    "10.1039/c5cc09635a",
+    "10.1007/s10853-020-04949-0",
+    "10.1016/j.nanoen.2011.10.001",
+    "10.1557/jmr.2011.329",
+    "10.1016/j.materresbull.2015.11.032",
+    "10.1016/j.jallcom.2019.153413",
+    "10.1039/c6ta04957e",
+    "10.1039/c6tc04259g",
+    "10.1557/jmr.2011.82",
+    "10.1016/S0925-8388(05)00965-5",
+    "10.1016/j.pmatsci.2016.07.002"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Hf)NiSn",
+        "Property": "ThermCond",
+        "Value": 3.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": "substituting Ti",
+        "Source_DOI": "10.1557/jmr.2011.82"
+      },
+      {
+        "Original_Name_In_Paper": "n-type Hf0.75Zr0.25NiSn0.99Sb0.01",
+        "Property": "ThermCond",
+        "Value": 3.1,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.153413"
+      },
+      {
+        "Original_Name_In_Paper": "n-type Hf0.75Zr0.25NiSn0.99Sb0.01",
+        "Property": "ThermCond",
+        "Value": 3.1,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2015.11.032"
+      }
+    ],
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "n-type Hf0.75Zr0.25NiSn0.99Sb0.01",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2011.10.001"
+      },
+      {
+        "Original_Name_In_Paper": "n-type Hf0.75Zr0.25NiSn0.99Sb0.01",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2016.07.002"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Hf)NiSn",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": "substitution of Zr",
+        "Source_DOI": "10.1016/S0925-8388(05)00965-5"
+      },
+      {
+        "Original_Name_In_Paper": "Hf)NiSn",
+        "Property": "ZT",
+        "Value": 0.685,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(05)00965-5"
+      }
+    ],
+    "830.0": [
+      {
+        "Original_Name_In_Paper": "n-type (Hf0.25Zr0.25Ti0.5)NiSn0.998Sb0.002",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta04957e"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Zr / Hf / Ti)NiSn",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6tc04259g"
+      },
+      {
+        "Original_Name_In_Paper": "Hf)NiSn",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5cc09635a"
+      },
+      {
+        "Original_Name_In_Paper": "n-type ( Zr\u2013Hf)NiSn",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.enconman.2009.05.023"
+      }
+    ],
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "n-type Hf0.6Zr0.4NiSn0.995Sb0.005",
+        "Property": "ZT",
+        "Value": 1.05,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2016.07.002"
+      }
+    ],
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "n-type Hf0.6Zr0.4NiSn0.995Sb0.005",
+        "Property": "ZT",
+        "Value": 1.05,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1557/jmr.2011.329"
+      },
+      {
+        "Original_Name_In_Paper": "n-type Hf0.25Zr0.75NiSn0.97Sb0.03",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      }
+    ]
+  }
+}

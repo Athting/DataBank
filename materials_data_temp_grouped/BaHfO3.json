@@ -1,0 +1,28 @@
+{
+  "Material": "BaHfO3",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2005.06.030"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "BaHfO3",
+        "Property": "ThermCond",
+        "Value": 10.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2005.06.030"
+      }
+    ],
+    "1076.0": [
+      {
+        "Original_Name_In_Paper": "BaHfO3",
+        "Property": "ThermCond",
+        "Value": 4.44,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2005.06.030"
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "Material": "BiCuSO",
+  "DOIs_Researched": [
+    "10.1016/j.ssc.2018.04.013"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "BiCuSO",
+        "Property": "ThermCond",
+        "Value": 1.13,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2018.04.013"
+      },
+      {
+        "Original_Name_In_Paper": "doped BiCuSO",
+        "Property": "Seebeck",
+        "Value": 0.0007251100000000001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2018.04.013"
+      },
+      {
+        "Original_Name_In_Paper": "BiCu0.95SO",
+        "Property": "PF",
+        "Value": 2.5e-07,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2018.04.013"
+      }
+    ],
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "BiCuSO",
+        "Property": "ZT",
+        "Value": 0.14,
+        "Units": null,
+        "Editing": "Pb doping",
+        "Source_DOI": "10.1016/j.ssc.2018.04.013"
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "Material": "transition metal",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2013.10.104",
+    "10.1016/j.scriptamat.2020.07.036"
+  ],
+  "Data_By_Temperature": {
+    "720.0": [
+      {
+        "Original_Name_In_Paper": "transition metal",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2020.07.036"
+      }
+    ],
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "transition metal",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.10.104"
+      }
+    ]
+  }
+}

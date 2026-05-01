@@ -1,0 +1,18 @@
+{
+  "Material": "Sr0.5La0.2Ba0.3Nb2O6\u2212\u03b4",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2015.09.041"
+  ],
+  "Data_By_Temperature": {
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "lanthanum doped Sr0.50La0.20Ba0.30Nb2O6\u2212\u03b4",
+        "Property": "ZT",
+        "Value": 0.22,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2015.09.041"
+      }
+    ]
+  }
+}

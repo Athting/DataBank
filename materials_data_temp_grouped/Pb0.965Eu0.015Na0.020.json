@@ -1,0 +1,18 @@
+{
+  "Material": "Pb0.965Eu0.015Na0.020",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2018.09.363"
+  ],
+  "Data_By_Temperature": {
+    "760.0": [
+      {
+        "Original_Name_In_Paper": "Pb0.965Eu0.015Na0.020Te",
+        "Property": "ZT",
+        "Value": 2.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.09.363"
+      }
+    ]
+  }
+}

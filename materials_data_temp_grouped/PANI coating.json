@@ -1,0 +1,18 @@
+{
+  "Material": "PANI coating",
+  "DOIs_Researched": [
+    "10.1007/s40820-020-0374-x"
+  ],
+  "Data_By_Temperature": {
+    "450.0": [
+      {
+        "Original_Name_In_Paper": "PANI coating",
+        "Property": "ZT",
+        "Value": 0.078,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s40820-020-0374-x"
+      }
+    ]
+  }
+}

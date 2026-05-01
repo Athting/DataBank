@@ -1,0 +1,28 @@
+{
+  "Material": "TbMnO3",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2016.08.167"
+  ],
+  "Data_By_Temperature": {
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "TbMnO3",
+        "Property": "ZT",
+        "Value": 0.88,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.08.167"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "TbMnO3",
+        "Property": "Seebeck",
+        "Value": 0.00036,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.08.167"
+      }
+    ]
+  }
+}

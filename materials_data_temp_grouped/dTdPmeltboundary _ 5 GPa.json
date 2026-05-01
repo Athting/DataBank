@@ -1,0 +1,18 @@
+{
+  "Material": "dTdPmeltboundary < 5 GPa",
+  "DOIs_Researched": [
+    "10.1016/j.pepi.2017.01.005"
+  ],
+  "Data_By_Temperature": {
+    "35.0": [
+      {
+        "Original_Name_In_Paper": "dTdPmeltboundary < 5 GPa",
+        "Property": "Conductivity",
+        "Value": 1000000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pepi.2017.01.005"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Material": "Ca0.9Dy0.1MnO3",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2014.09.089"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "Ca0.9Dy0.1MnO3",
+        "Property": "ThermCond",
+        "Value": 1.9,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2014.09.089"
+      },
+      {
+        "Original_Name_In_Paper": "Ca0.9Dy0.1MnO3",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2014.09.089"
+      }
+    ]
+  }
+}

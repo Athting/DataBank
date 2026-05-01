@@ -1,0 +1,26 @@
+{
+  "Material": "FeCo",
+  "DOIs_Researched": [
+    "10.1016/S0925-8388(05)01104-7"
+  ],
+  "Data_By_Temperature": {
+    "753.0": [
+      {
+        "Original_Name_In_Paper": "Fe 1 H11002 x Co",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(05)01104-7"
+      },
+      {
+        "Original_Name_In_Paper": "Fe 1 H11002 x Co",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(05)01104-7"
+      }
+    ]
+  }
+}

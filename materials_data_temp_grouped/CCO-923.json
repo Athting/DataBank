@@ -1,0 +1,18 @@
+{
+  "Material": "CCO-923",
+  "DOIs_Researched": [
+    "10.1007/s10971-012-2894-4"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "CCO-923",
+        "Property": "ThermCond",
+        "Value": 1.7000000000000002,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10971-012-2894-4"
+      }
+    ]
+  }
+}

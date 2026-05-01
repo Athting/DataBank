@@ -1,0 +1,18 @@
+{
+  "Material": "diethyl ether",
+  "DOIs_Researched": [
+    "10.1007/s10008-010-1095-8"
+  ],
+  "Data_By_Temperature": {
+    "298.0": [
+      {
+        "Original_Name_In_Paper": "diethyl ether",
+        "Property": "Conductivity",
+        "Value": 2970000.0000000005,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10008-010-1095-8"
+      }
+    ]
+  }
+}

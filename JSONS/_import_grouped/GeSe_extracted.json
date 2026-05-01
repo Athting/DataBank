@@ -1,0 +1,268 @@
+{
+  "doi": "10.1016/j.jechem.2019.09.021",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "GeSe",
+        "pristine GeSe",
+        "rhombohedral GeSe",
+        "GeSe bilayers",
+        "polycrystalline GeSe",
+        "p-type GeSe",
+        "orthorhombic GeSe",
+        "hole doped GeSe",
+        "hole-doped GeSe",
+        "GeSe crystallizes",
+        "n-type GeSe",
+        "doped orthorhombic GeSe",
+        "monolayer GeSe",
+        "hole doped bulk GeSe",
+        "GeSe monolayer",
+        "GQD @ GeSe monolayer"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "pristine GeSe",
+          "value": 0.0006000000000000001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "GeSe",
+          "value": 0.000306,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "rhombohedral GeSe",
+          "value": 0.000177,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "GeSe monolayer",
+          "value": 0.000122,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "500.0 K"
+        },
+        {
+          "material": "GQD @ GeSe monolayer",
+          "value": 0.000139,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "600.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "p-type GeSe",
+          "value": 61200,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "orthorhombic GeSe",
+          "value": 0.0045000000000000005,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "GeSe",
+          "value": 1.76,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine GeSe",
+          "value": 2.9,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "rhombohedral GeSe",
+          "value": 3.58,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "GeSe bilayers",
+          "value": 3.58,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "GeSe",
+          "value": 0.85,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "polycrystalline GeSe",
+          "value": 1.8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "hole doped GeSe",
+          "value": 0.39,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "GeSe",
+          "value": 0.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "800.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "pristine GeSe",
+          "value": 1.8e-9,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "p-type GeSe",
+          "value": 0.004050000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "n-type GeSe",
+          "value": 0.00445,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "pristine GeSe",
+          "value": 0.000056,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "710.0 K"
+        },
+        {
+          "material": "GeSe",
+          "value": 0.0021249999999999997,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "hole-doped GeSe",
+          "zt_value": 0.8,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "GeSe crystallizes",
+          "zt_value": 0.8,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "GeSe",
+          "zt_value": 2.5,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "GeSe",
+          "zt_value": 2.5,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "orthorhombic GeSe",
+          "zt_value": 2.5,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "hole doped GeSe",
+          "zt_value": 2.5,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "polycrystalline GeSe",
+          "zt_value": 0.2,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "orthorhombic GeSe",
+          "zt_value": 0.2,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "GeSe",
+          "zt_value": 1.99,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "GeSe",
+          "zt_value": 1.99,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "GeSe",
+          "zt_value": 0.6000000000000001,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "polycrystalline GeSe",
+          "zt_value": 0.6000000000000001,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "GeSe",
+          "zt_value": 0.2,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "doped orthorhombic GeSe",
+          "zt_value": 0.2,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "monolayer GeSe",
+          "zt_value": 0.8,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "GeSe",
+          "zt_value": 0.86,
+          "temperature": "710.0 K"
+        },
+        {
+          "material": "pristine GeSe",
+          "zt_value": 0.046,
+          "temperature": "710.0 K"
+        },
+        {
+          "material": "hole doped bulk GeSe",
+          "zt_value": 0.8,
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "Material": "NaMgX",
+  "DOIs_Researched": [
+    "10.1039/c6tc00461j",
+    "10.1007/s12598-019-01235-0"
+  ],
+  "Data_By_Temperature": {
+    "1200.0": [
+      {
+        "Original_Name_In_Paper": "NaMgX",
+        "Property": "ZT",
+        "Value": 2.39,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s12598-019-01235-0"
+      }
+    ],
+    "1195.0": [
+      {
+        "Original_Name_In_Paper": "n-type NaMgX",
+        "Property": "ZT",
+        "Value": 1.38,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6tc00461j"
+      },
+      {
+        "Original_Name_In_Paper": "p-type NaMgX compounds",
+        "Property": "ZT",
+        "Value": 0.71,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6tc00461j"
+      }
+    ]
+  }
+}

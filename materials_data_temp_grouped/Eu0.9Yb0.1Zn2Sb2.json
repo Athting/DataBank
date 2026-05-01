@@ -1,0 +1,26 @@
+{
+  "Material": "Eu0.9Yb0.1Zn2Sb2",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2017.01.350"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Eu0.9Yb0.1Zn2Sb2",
+        "Property": "ZT",
+        "Value": 0.68,
+        "Units": null,
+        "Editing": "10 % Yb substitution",
+        "Source_DOI": "10.1016/j.jallcom.2017.01.350"
+      },
+      {
+        "Original_Name_In_Paper": "Eu0.9Yb0.1Zn2Sb2",
+        "Property": "ZT",
+        "Value": 0.68,
+        "Units": null,
+        "Editing": "Yb substitution",
+        "Source_DOI": "10.1016/j.jallcom.2017.01.350"
+      }
+    ]
+  }
+}

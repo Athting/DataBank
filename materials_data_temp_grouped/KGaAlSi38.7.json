@@ -1,0 +1,36 @@
+{
+  "Material": "KGaAlSi38.7",
+  "DOIs_Researched": [
+    "10.1016/j.intermet.2016.11.006"
+  ],
+  "Data_By_Temperature": {
+    "550.0": [
+      {
+        "Original_Name_In_Paper": "K7.5Ga4.8Al3.0Si38.7",
+        "Property": "ZT",
+        "Value": 0.066,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2016.11.006"
+      },
+      {
+        "Original_Name_In_Paper": "K7.6Ga3.1Al4.6Si38.7",
+        "Property": "ZT",
+        "Value": 0.066,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2016.11.006"
+      }
+    ],
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "K7.5Ga4.8Al3.0Si38.7",
+        "Property": "ZT",
+        "Value": 0.061,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2016.11.006"
+      }
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "Material": "Bi2Te1.5Se1.5",
+  "DOIs_Researched": [
+    "10.1039/c8ra09280j",
+    "10.1038/am.2016.134",
+    "10.1016/j.actamat.2014.11.023",
+    "10.1039/c5tc02263k",
+    "10.1016/j.jmat.2018.05.008"
+  ],
+  "Data_By_Temperature": {
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Te1.5Se1.5 doped with I",
+        "Property": "ZT",
+        "Value": 0.86,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc02263k"
+      },
+      {
+        "Original_Name_In_Paper": "I-doped n-type Bi2Te1.5Se1.5 zone",
+        "Property": "ZT",
+        "Value": 0.86,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2014.11.023"
+      },
+      {
+        "Original_Name_In_Paper": "n-type Bi2Te1.5Se1.5",
+        "Property": "ZT",
+        "Value": 0.86,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2016.134"
+      },
+      {
+        "Original_Name_In_Paper": "n-type Bi2Te1.5Se1.5 with I",
+        "Property": "ZT",
+        "Value": 0.86,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ra09280j"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Te1.5Se1.5",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2018.05.008"
+      }
+    ]
+  }
+}

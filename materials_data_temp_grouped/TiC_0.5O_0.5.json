@@ -1,0 +1,18 @@
+{
+  "Material": "TiC_0.5O_0.5",
+  "DOIs_Researched": [
+    "10.1038/am.2015.36"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "TiC0.5O0.5",
+        "Property": "PF",
+        "Value": 36000.0,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2015.36"
+      }
+    ]
+  }
+}

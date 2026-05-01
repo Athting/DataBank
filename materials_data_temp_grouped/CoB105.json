@@ -1,0 +1,18 @@
+{
+  "Material": "CoB105",
+  "DOIs_Researched": [
+    "10.1006/jssc.2000.8804"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "p-type Co1.0B105",
+        "Property": "ZT",
+        "Value": 1e-06,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1006/jssc.2000.8804"
+      }
+    ]
+  }
+}

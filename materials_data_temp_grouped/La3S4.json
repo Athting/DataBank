@@ -1,0 +1,18 @@
+{
+  "Material": "La3S4",
+  "DOIs_Researched": [
+    "10.1016/j.solidstatesciences.2010.01.031"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "\u03b3-La3\u2013\u03b4S4",
+        "Property": "ZT",
+        "Value": 0.33,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2010.01.031"
+      }
+    ]
+  }
+}

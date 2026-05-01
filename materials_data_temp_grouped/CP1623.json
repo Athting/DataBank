@@ -1,0 +1,18 @@
+{
+  "Material": "CP1623",
+  "DOIs_Researched": [
+    "10.1016/j.materresbull.2010.01.023"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "CP1623",
+        "Property": "ZT",
+        "Value": 0.01,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2010.01.023"
+      }
+    ]
+  }
+}

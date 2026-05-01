@@ -1,0 +1,28 @@
+{
+  "Material": "MnSi1.74",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2019.152577"
+  ],
+  "Data_By_Temperature": {
+    "320.0": [
+      {
+        "Original_Name_In_Paper": "MnSi1.74",
+        "Property": "ThermCond",
+        "Value": 2.3,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.152577"
+      }
+    ],
+    "740.0": [
+      {
+        "Original_Name_In_Paper": "MnSi1.74",
+        "Property": "PF",
+        "Value": 0.0013000000000000002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.152577"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "decanoic acid",
+  "DOIs_Researched": [
+    "10.1016/j.apenergy.2016.01.115"
+  ],
+  "Data_By_Temperature": {
+    "328.5": [
+      {
+        "Original_Name_In_Paper": "decanoic acid",
+        "Property": "ThermCond",
+        "Value": 0.152,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apenergy.2016.01.115"
+      }
+    ]
+  }
+}

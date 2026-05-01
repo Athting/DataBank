@@ -1,0 +1,18 @@
+{
+  "Material": "La2.27Ca0.73S4",
+  "DOIs_Researched": [
+    "10.1016/S0925-8388(01)00926-4"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "La2.27Ca0.73S4",
+        "Property": "ZT",
+        "Value": 0.00029,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(01)00926-4"
+      }
+    ]
+  }
+}

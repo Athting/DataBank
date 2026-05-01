@@ -1,0 +1,58 @@
+{
+  "Material": "Mg2Si1-x",
+  "DOIs_Researched": [
+    "10.1007/s12648-017-1028-9"
+  ],
+  "Data_By_Temperature": {
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Si1-x",
+        "Property": "ZT",
+        "Value": 0.56,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s12648-017-1028-9"
+      }
+    ],
+    "620.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Si1-x",
+        "Property": "ZT",
+        "Value": 0.55,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s12648-017-1028-9"
+      }
+    ],
+    "864.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Si1-x",
+        "Property": "ZT",
+        "Value": 0.68,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s12648-017-1028-9"
+      }
+    ],
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Si1-x",
+        "Property": "ZT",
+        "Value": 0.56,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s12648-017-1028-9"
+      }
+    ],
+    "663.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Si1-x",
+        "Property": "ZT",
+        "Value": 1.07,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s12648-017-1028-9"
+      }
+    ]
+  }
+}

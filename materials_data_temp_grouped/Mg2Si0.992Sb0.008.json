@@ -1,0 +1,18 @@
+{
+  "Material": "Mg2Si0.992Sb0.008",
+  "DOIs_Researched": [
+    "10.1016/j.mseb.2018.10.004"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Si0.992Sb0.008",
+        "Property": "ThermCond",
+        "Value": 9.1,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mseb.2018.10.004"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Cu\u2013Sn\u2013S TE",
+  "DOIs_Researched": [
+    "10.1039/c7ta05253g"
+  ],
+  "Data_By_Temperature": {
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "Cu\u2013Sn\u2013S TE",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ta05253g"
+      }
+    ]
+  }
+}

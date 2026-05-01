@@ -1,0 +1,18 @@
+{
+  "Material": "Cu-Si-Te",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2009.12.141"
+  ],
+  "Data_By_Temperature": {
+    "490.0": [
+      {
+        "Original_Name_In_Paper": "Cu\u2013Si telluride",
+        "Property": "Seebeck",
+        "Value": 0.000488,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.12.141"
+      }
+    ]
+  }
+}

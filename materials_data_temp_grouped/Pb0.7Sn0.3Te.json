@@ -1,0 +1,18 @@
+{
+  "Material": "Pb0.7Sn0.3Te",
+  "DOIs_Researched": [
+    "10.1016/S0022-4596(03)00417-1"
+  ],
+  "Data_By_Temperature": {
+    "350.0": [
+      {
+        "Original_Name_In_Paper": "Pb0.7Sn0.3Te alloy",
+        "Property": "ZT",
+        "Value": 0.0012000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0022-4596(03)00417-1"
+      }
+    ]
+  }
+}

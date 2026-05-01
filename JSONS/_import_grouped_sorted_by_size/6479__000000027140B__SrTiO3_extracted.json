@@ -1,0 +1,976 @@
+{
+  "doi": "10.1016/j.jallcom.2017.10.033",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "SrTiO3 bulk crystal",
+        "Nb-doped SrTiO3",
+        "SrTiO3",
+        "undoped SrTiO3",
+        "electron-doped SrTiO3",
+        "SrTiO3 bulk crystals",
+        "vacancy-doped SrTiO3 crystals",
+        "doped SrTiO3",
+        "strontium titanate",
+        "bulk SrTiO3",
+        "La doped SrTiO3",
+        "SrTiO3 superlattice",
+        "Nb-doped SrTiO3 single crystals",
+        "5 % La doped STO",
+        "bulk single-crystal SrTiO3",
+        "pristine SrTiO3",
+        "Donor-doped strontium titanate",
+        "single-crystal SrTiO3",
+        "bulk La-doped SrTiO3",
+        "La-doped SrTiO3",
+        "BST / SrTiO3−x",
+        "La-doped SrTiO3 single crystal",
+        "La-doped SrTiO3 ceramic",
+        "n-type TE oxide SrTiO3",
+        "Bi-codoped SrTiO3",
+        "Sr0.9Sm0.1TiO3",
+        "Doped SrTiO3",
+        "Nb-doped SrTiO3 bulk",
+        "SrTiO3 single crystal",
+        "strontium titanate perovskite",
+        "polycrystalline SrTiO3",
+        "niobium-doped SrTiO3",
+        "SrTiO3 doped with Nb",
+        "(Sr0.9Eu0.1)3Ti2O7",
+        "SrTiO3 films",
+        "SrTiO3 based polycrystalline materials",
+        "doped-SrTiO3",
+        "SrTiO3 bulk materials",
+        "SrTiO3 bulks",
+        "single-doped SrTiO3 bulk materials",
+        "La10Nb10 co-doped SrTiO3 bulks",
+        "La doped STO",
+        "n-type SrTiO3",
+        "donor doped SrTiO3",
+        "SrTiO3nanowire",
+        "SrTiO3..",
+        "perovskite oxide SrTiO3",
+        "n-type bulk SrTiO3",
+        "La–Nb co-doped SrTiO3 bulk materials",
+        "Sr0.9Nd0.1TiO3 bulk",
+        "SrTiO3 materials",
+        "Sr0.9Dy0.1TiO3",
+        "nanostructured La-doped SrTiO3 bulk",
+        "Nanostructured La-doped SrTiO3",
+        "SrTiO3 thin films",
+        "rare-earth substituted SrTiO3 ceramics",
+        "rare-earth substituted titanates Sr0.9R0.1TiO3",
+        "SrTiO3-based",
+        "SrTiO3 doped with 12 % Dy",
+        "SrTiO3 doped with 12 % dysprosium",
+        "Sr0.9Gd0.1TiO3",
+        "pure SrTiO3 containing RGO",
+        "Sr0.9Y0.1TiO3 *process*",
+        "Y-doped SrTiO3",
+        "Nb-doped SrTiO3 composite",
+        "Nb-doped polycrystalline SrTiO3",
+        "Nb-doped SrTiO3 polycrystalline",
+        "co-doped SrTiO3 material",
+        "pure SrTiO3",
+        "20 % Nb doped SrTiO3",
+        "La and Nb co-doped nanostructured SrTiO3",
+        "Nb doped SrTiO3",
+        "SrTiO3-based materials",
+        "SrTiO3 composite",
+        "7 mol % Nb-doped SrTiO3"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "bulk SrTiO3",
+          "value": -0.000198,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine SrTiO3",
+          "value": -0.00038112,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Donor-doped strontium titanate",
+          "value": -0.0004,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "single-crystal SrTiO3",
+          "value": 0.0010500000000000002,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SrTiO3 single crystal",
+          "value": -0.000328,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "SrTiO3 single crystal",
+          "value": -0.000328,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "SrTiO3",
+          "value": 0.0008500000000000001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "90.0 K"
+        },
+        {
+          "material": "SrTiO3",
+          "value": 0.0008500000000000001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "90.0 K"
+        },
+        {
+          "material": "SrTiO3",
+          "value": 0.000328,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "1027.0 K"
+        },
+        {
+          "material": "SrTiO3",
+          "value": 0.00005,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "373.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "SrTiO3",
+          "value": 0,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine SrTiO3",
+          "value": 1225,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "strontium titanate perovskite",
+          "value": 6400,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "SrTiO3",
+          "value": 6400,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "Nb-doped SrTiO3",
+          "value": 20000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "SrTiO3 composite",
+          "value": 2020,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "570.0 K"
+        },
+        {
+          "material": "SrTiO3",
+          "value": 10,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "1273.0 K"
+        },
+        {
+          "material": "Nb-doped SrTiO3",
+          "value": 12000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "1273.0 K"
+        },
+        {
+          "material": "SrTiO3",
+          "value": 1507,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "473.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "SrTiO3 bulk crystal",
+          "value": 12,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Nb-doped SrTiO3",
+          "value": 4.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SrTiO3",
+          "value": 12,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "undoped SrTiO3",
+          "value": 6,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SrTiO3",
+          "value": 11.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SrTiO3 bulk crystal",
+          "value": 12,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Nb-doped SrTiO3",
+          "value": 1.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "electron-doped SrTiO3",
+          "value": 9,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SrTiO3 bulk crystals",
+          "value": 12,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "vacancy-doped SrTiO3 crystals",
+          "value": 4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SrTiO3",
+          "value": 1.09,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Nb-doped SrTiO3",
+          "value": 0.91,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "doped SrTiO3",
+          "value": 5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "undoped SrTiO3",
+          "value": 11,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "strontium titanate",
+          "value": 1.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "bulk SrTiO3",
+          "value": 4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SrTiO3",
+          "value": 12,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "La-doped SrTiO3 ceramic",
+          "value": 2.1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "SrTiO3",
+          "value": 10,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "polycrystalline SrTiO3",
+          "value": 3,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "niobium-doped SrTiO3",
+          "value": 3,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "SrTiO3nanowire",
+          "value": 2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "109.0 K"
+        },
+        {
+          "material": "SrTiO3",
+          "value": 3,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SrTiO3",
+          "value": 1.09,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SrTiO3",
+          "value": 2.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SrTiO3..",
+          "value": 1.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SrTiO3",
+          "value": 12,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "bulk SrTiO3",
+          "value": 1.97,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1050.0 K"
+        },
+        {
+          "material": "n-type bulk SrTiO3",
+          "value": 1.97,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1050.0 K"
+        },
+        {
+          "material": "La–Nb co-doped SrTiO3 bulk materials",
+          "value": 1.97,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1050.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "bulk La-doped SrTiO3",
+          "value": 2.8,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "bulk La-doped SrTiO3",
+          "value": 0.0028,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "La-doped SrTiO3",
+          "value": 0.0036000000000000003,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "BST / SrTiO3−x",
+          "value": 0.37,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "La-doped SrTiO3 single crystal",
+          "value": 0.0028,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "La doped SrTiO3",
+          "value": 0.0028,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SrTiO3",
+          "value": 0.002,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "SrTiO3 films",
+          "value": 0.0015,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "perovskite oxide SrTiO3",
+          "value": 0.0028,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "doped SrTiO3",
+          "value": 0.0015500000000000002,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "SrTiO3-based",
+          "value": 0.002,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "500.0 K"
+        },
+        {
+          "material": "SrTiO3-based materials",
+          "value": 0.00135,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "400.0 K"
+        },
+        {
+          "material": "(Sr0.9Eu0.1)3Ti2O7",
+          "value": 0.0003981,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "329.0 K"
+        },
+        {
+          "material": "SrTiO3",
+          "value": 0.001318,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "570.0 K"
+        },
+        {
+          "material": "7 mol % Nb-doped SrTiO3",
+          "value": 0.0018200000000000002,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "622.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "La doped SrTiO3",
+          "zt_value": 0.42,
+          "temperature": "295 K"
+        },
+        {
+          "material": "SrTiO3",
+          "zt_value": 2,
+          "temperature": "295 K"
+        },
+        {
+          "material": "SrTiO3 superlattice",
+          "zt_value": 2.4,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Nb-doped SrTiO3",
+          "zt_value": 2.4,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Nb-doped SrTiO3 single crystals",
+          "zt_value": 0.1,
+          "temperature": "295 K"
+        },
+        {
+          "material": "strontium titanate",
+          "zt_value": 0.08,
+          "temperature": "295 K"
+        },
+        {
+          "material": "SrTiO3 superlattice",
+          "zt_value": 2.4,
+          "temperature": "295 K"
+        },
+        {
+          "material": "SrTiO3 superlattice",
+          "zt_value": 2.4,
+          "temperature": "295 K"
+        },
+        {
+          "material": "5 % La doped STO",
+          "zt_value": 0.18,
+          "temperature": "295 K"
+        },
+        {
+          "material": "bulk single-crystal SrTiO3",
+          "zt_value": 2.4,
+          "temperature": "295 K"
+        },
+        {
+          "material": "SrTiO3",
+          "zt_value": 0.03,
+          "temperature": "295 K"
+        },
+        {
+          "material": "n-type TE oxide SrTiO3",
+          "zt_value": 0.37,
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "Bi-codoped SrTiO3",
+          "zt_value": 0.269,
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "Sr0.9Sm0.1TiO3",
+          "zt_value": 0.24,
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "Sr0.9Sm0.1TiO3",
+          "zt_value": 0.24,
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "La-doped SrTiO3 single crystal",
+          "zt_value": 0.27,
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "Doped SrTiO3",
+          "zt_value": 0.41000000000000003,
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "Nb-doped SrTiO3 bulk",
+          "zt_value": 0.27,
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "Nb-doped SrTiO3",
+          "zt_value": 0.1,
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "SrTiO3",
+          "zt_value": 0.34,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "SrTiO3 doped with Nb",
+          "zt_value": 0.35000000000000003,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "(Sr0.9Eu0.1)3Ti2O7",
+          "zt_value": 0.061,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "(Sr0.9Eu0.1)3Ti2O7",
+          "zt_value": 0.061,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Nb-doped SrTiO3",
+          "zt_value": 0.39,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "SrTiO3 films",
+          "zt_value": 0.30000000000000004,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "niobium-doped SrTiO3",
+          "zt_value": 0.37,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "polycrystalline SrTiO3",
+          "zt_value": 0.30000000000000004,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "SrTiO3 based polycrystalline materials",
+          "zt_value": 0.35000000000000003,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "SrTiO3",
+          "zt_value": 0.37,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "doped-SrTiO3",
+          "zt_value": 0.4,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "SrTiO3",
+          "zt_value": 0.21,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "SrTiO3",
+          "zt_value": 0.35000000000000003,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Nb-doped SrTiO3",
+          "zt_value": 0.37,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "SrTiO3 bulk materials",
+          "zt_value": 0.6000000000000001,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "SrTiO3 bulks",
+          "zt_value": 0.4,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "single-doped SrTiO3 bulk materials",
+          "zt_value": 0.4,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "La10Nb10 co-doped SrTiO3 bulks",
+          "zt_value": 0.6000000000000001,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "electron-doped SrTiO3",
+          "zt_value": 0.37,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "La doped STO",
+          "zt_value": 0.38,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "n-type SrTiO3",
+          "zt_value": 0.37,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "SrTiO3",
+          "zt_value": 0.34,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Nb-doped SrTiO3",
+          "zt_value": 0.37,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Nb-doped SrTiO3",
+          "zt_value": 0.6000000000000001,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "n-type SrTiO3",
+          "zt_value": 0.37,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "donor doped SrTiO3",
+          "zt_value": 0.6000000000000001,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "La-doped SrTiO3",
+          "zt_value": 0.12,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SrTiO3",
+          "zt_value": 0.8,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SrTiO3",
+          "zt_value": 2.4,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SrTiO3",
+          "zt_value": 0.30000000000000004,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "bulk SrTiO3",
+          "zt_value": 0.31,
+          "temperature": "1050.0 K"
+        },
+        {
+          "material": "n-type bulk SrTiO3",
+          "zt_value": 0.31,
+          "temperature": "1050.0 K"
+        },
+        {
+          "material": "La–Nb co-doped SrTiO3 bulk materials",
+          "zt_value": 0.31,
+          "temperature": "1050.0 K"
+        },
+        {
+          "material": "Sr0.9Nd0.1TiO3 bulk",
+          "zt_value": 0.4,
+          "temperature": "1223.0 K"
+        },
+        {
+          "material": "SrTiO3",
+          "zt_value": 0.19,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "doped SrTiO3",
+          "zt_value": 0.39,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "La-doped SrTiO3",
+          "zt_value": 0.37,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "La-doped SrTiO3",
+          "zt_value": 0.37,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "SrTiO3 materials",
+          "zt_value": 0.41000000000000003,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Sr0.9Dy0.1TiO3",
+          "zt_value": 0.25,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Sr0.9Dy0.1TiO3",
+          "zt_value": 0.25,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "nanostructured La-doped SrTiO3 bulk",
+          "zt_value": 0.37,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Nanostructured La-doped SrTiO3",
+          "zt_value": 0.37,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "La-doped SrTiO3",
+          "zt_value": 0.41000000000000003,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "La-doped SrTiO3",
+          "zt_value": 0.37,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "doped SrTiO3",
+          "zt_value": 0.35000000000000003,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "SrTiO3",
+          "zt_value": 0.29,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "SrTiO3 thin films",
+          "zt_value": 0.28,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "rare-earth substituted SrTiO3 ceramics",
+          "zt_value": 0.42,
+          "temperature": "1190.0 K"
+        },
+        {
+          "material": "rare-earth substituted titanates Sr0.9R0.1TiO3",
+          "zt_value": 0.42,
+          "temperature": "1190.0 K"
+        },
+        {
+          "material": "SrTiO3-based",
+          "zt_value": 0.42,
+          "temperature": "1190.0 K"
+        },
+        {
+          "material": "SrTiO3 doped with 12 % Dy",
+          "zt_value": 0.36,
+          "temperature": "1076.0 K"
+        },
+        {
+          "material": "SrTiO3 doped with 12 % dysprosium",
+          "zt_value": 0.36,
+          "temperature": "1076.0 K"
+        },
+        {
+          "material": "SrTiO3 doped with 12 % Dy",
+          "zt_value": 0.36,
+          "temperature": "1076.0 K"
+        },
+        {
+          "material": "Sr0.9Dy0.1TiO3",
+          "zt_value": 0.22,
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "Sr0.9Dy0.1TiO3",
+          "zt_value": 0.22,
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "Sr0.9Dy0.1TiO3",
+          "zt_value": 0.000384,
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "Sr0.9Dy0.1TiO3",
+          "zt_value": 0.000384,
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "Sr0.9Gd0.1TiO3",
+          "zt_value": 0.37,
+          "temperature": "1006.0 K"
+        },
+        {
+          "material": "bulk SrTiO3",
+          "zt_value": 0.4,
+          "temperature": "769.0 K"
+        },
+        {
+          "material": "Nb-doped SrTiO3",
+          "zt_value": 0.4,
+          "temperature": "1100.0 K"
+        },
+        {
+          "material": "Nb-doped SrTiO3",
+          "zt_value": 0.4,
+          "temperature": "1100.0 K"
+        },
+        {
+          "material": "pure SrTiO3 containing RGO",
+          "zt_value": 0.09,
+          "temperature": "760.0 K"
+        },
+        {
+          "material": "Nb-doped SrTiO3",
+          "zt_value": 0.29,
+          "temperature": "1160.0 K"
+        },
+        {
+          "material": "La-doped SrTiO3 single crystal",
+          "zt_value": 0.146,
+          "temperature": "870.0 K"
+        },
+        {
+          "material": "Sr0.9Y0.1TiO3 *process*",
+          "zt_value": 0.146,
+          "temperature": "870.0 K"
+        },
+        {
+          "material": "Y-doped SrTiO3",
+          "zt_value": 0.146,
+          "temperature": "870.0 K"
+        },
+        {
+          "material": "SrTiO3",
+          "zt_value": 0.7000000000000001,
+          "temperature": "1400.0 K"
+        },
+        {
+          "material": "Nb-doped SrTiO3 composite",
+          "zt_value": 0.165,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "Nb-doped polycrystalline SrTiO3",
+          "zt_value": 0.33,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "Nb-doped SrTiO3 polycrystalline",
+          "zt_value": 2,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "co-doped SrTiO3 material",
+          "zt_value": 0.24,
+          "temperature": "875.0 K"
+        },
+        {
+          "material": "pure SrTiO3",
+          "zt_value": 1,
+          "temperature": "500.0 K"
+        },
+        {
+          "material": "20 % Nb doped SrTiO3",
+          "zt_value": 0.000083,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "La and Nb co-doped nanostructured SrTiO3",
+          "zt_value": 0.6000000000000001,
+          "temperature": "1150.0 K"
+        },
+        {
+          "material": "Nb doped SrTiO3",
+          "zt_value": 0.2,
+          "temperature": "800.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

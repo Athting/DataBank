@@ -1,0 +1,219 @@
+{
+  "doi": "10.1039/c3ta14901c",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "AgBiSe2",
+        "hexagonal AgBiSe2",
+        "pristine AgBiSe2",
+        "AgBiSe2-3 % Bi",
+        "Pristine AgBiSe2",
+        "I doped AgBiSe2",
+        "silver bismuth diselenide",
+        "AgBiSe2 compound",
+        "n-type AgBiSe2",
+        "n-type Nb-doped bulk AgBiSe2",
+        "n-type Nb doped bulk AgBiSe2",
+        "nanocrystalline AgBiSe2"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "pristine AgBiSe2",
+          "value": -0.00013099999999999999,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "AgBiSe2-3 % Bi",
+          "value": -0.0000825,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "Pristine AgBiSe2",
+          "value": 6300,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "I doped AgBiSe2",
+          "value": 33700,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "AgBiSe2",
+          "value": 34000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine AgBiSe2",
+          "value": 6300,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "AgBiSe2",
+          "value": 19.6078431373,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "AgBiSe2",
+          "value": 2400,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "585.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "AgBiSe2",
+          "value": 0.62,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "silver bismuth diselenide",
+          "value": 1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "AgBiSe2",
+          "value": 0.45,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "AgBiSe2-3 % Bi",
+          "value": 0.00026000000000000003,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "AgBiSe2-3 % Bi",
+          "value": 0.0006349999999999999,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "AgBiSe2-3 % Bi",
+          "value": 0.0006349999999999999,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "AgBiSe2",
+          "value": 0.000207,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "480.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "AgBiSe2",
+          "zt_value": 0.7000000000000001,
+          "temperature": "295 K"
+        },
+        {
+          "material": "hexagonal AgBiSe2",
+          "zt_value": 0.30000000000000004,
+          "temperature": "295 K"
+        },
+        {
+          "material": "AgBiSe2 compound",
+          "zt_value": 1,
+          "temperature": "733.0 K"
+        },
+        {
+          "material": "n-type AgBiSe2",
+          "zt_value": 0.5,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "n-type Nb-doped bulk AgBiSe2",
+          "zt_value": 1,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "n-type Nb doped bulk AgBiSe2",
+          "zt_value": 1,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "n-type AgBiSe2",
+          "zt_value": 0.5,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "AgBiSe2",
+          "zt_value": 1,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "n-type Nb doped bulk AgBiSe2",
+          "zt_value": 1,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "pristine AgBiSe2",
+          "zt_value": 0.30000000000000004,
+          "temperature": "748.0 K"
+        },
+        {
+          "material": "AgBiSe2",
+          "zt_value": 0.03,
+          "temperature": "550.0 K"
+        },
+        {
+          "material": "nanocrystalline AgBiSe2",
+          "zt_value": 1.5,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "nanocrystalline AgBiSe2",
+          "zt_value": 1.5,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "pristine AgBiSe2",
+          "zt_value": 0.31,
+          "temperature": "708.0 K"
+        },
+        {
+          "material": "n-type AgBiSe2",
+          "zt_value": 0.9,
+          "temperature": "810.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

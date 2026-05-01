@@ -1,0 +1,575 @@
+{
+  "Material": "Ag2Te",
+  "DOIs_Researched": [
+    "10.1016/j.cej.2020.124763",
+    "10.1039/c3ta01455j",
+    "10.1038/s41598-017-04885-1",
+    "10.1039/c8ce01863d",
+    "10.1016/j.actamat.2012.09.037",
+    "10.1039/c7ta07601k",
+    "10.1016/j.jallcom.2018.06.359",
+    "10.1007/s40948-019-00134-z",
+    "10.1016/j.jallcom.2004.06.054",
+    "10.1016/j.jallcom.2004.10.002",
+    "10.1039/c0jm00138d",
+    "10.1016/j.matchemphys.2017.01.019",
+    "10.1007/s10853-020-04949-0",
+    "10.1039/c2nr30469d",
+    "10.1016/j.materresbull.2015.06.040",
+    "10.1039/c3nj01303k",
+    "10.1039/c2ce06280a",
+    "10.1016/j.jmat.2019.01.008",
+    "10.1039/c5ra03942h",
+    "10.1016/j.jallcom.2015.10.160",
+    "10.1016/j.ceramint.2017.05.163",
+    "10.1016/j.jallcom.2010.06.195",
+    "10.1039/c5tc01623a",
+    "10.1016/j.jallcom.2017.07.153",
+    "10.1039/c3ee43099e",
+    "10.1038/nmat2358"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ag2Te",
+        "Property": "ThermCond",
+        "Value": 0.93,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/nmat2358"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Te",
+        "Property": "ThermCond",
+        "Value": 0.93,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2004.10.002"
+      },
+      {
+        "Original_Name_In_Paper": "50 wt % Ag2Te NWs",
+        "Property": "ZT",
+        "Value": 0.005,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2017.01.019"
+      },
+      {
+        "Original_Name_In_Paper": "50 wt % Ag2Te NW composite",
+        "Property": "ZT",
+        "Value": 0.005,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2017.01.019"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Te-Ag composite",
+        "Property": "ZT",
+        "Value": 0.68,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.06.359"
+      },
+      {
+        "Original_Name_In_Paper": "\u03b1-Ag2Te",
+        "Property": "Seebeck",
+        "Value": -0.000128,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2004.06.054"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Te",
+        "Property": "Conductivity",
+        "Value": 105.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2ce06280a"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Te",
+        "Property": "Conductivity",
+        "Value": 104.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2ce06280a"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Te nanowires",
+        "Property": "Conductivity",
+        "Value": 102.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2ce06280a"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Te nanosheets",
+        "Property": "Conductivity",
+        "Value": 10210.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2015.06.040"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Te",
+        "Property": "Conductivity",
+        "Value": 300000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.10.160"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Te",
+        "Property": "Conductivity",
+        "Value": 26700.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2012.09.037"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Te",
+        "Property": "Conductivity",
+        "Value": 30000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c0jm00138d"
+      },
+      {
+        "Original_Name_In_Paper": "\u03b2-Ag2Te",
+        "Property": "Conductivity",
+        "Value": 40000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01623a"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Te",
+        "Property": "Conductivity",
+        "Value": 20000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2017.05.163"
+      }
+    ],
+    "523.0": [
+      {
+        "Original_Name_In_Paper": "pristine Ag2Te",
+        "Property": "ThermCond",
+        "Value": 0.37,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2019.01.008"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ag2Te-Ag composite",
+        "Property": "ThermCond",
+        "Value": 0.5700000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.06.359"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Te nanowires",
+        "Property": "ThermCond",
+        "Value": 0.93,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.07.153"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Te",
+        "Property": "ThermCond",
+        "Value": 0.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2012.09.037"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Te",
+        "Property": "ThermCond",
+        "Value": 0.01,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2012.09.037"
+      },
+      {
+        "Original_Name_In_Paper": "50 wt % Ag2Te NW",
+        "Property": "ZT",
+        "Value": 0.005,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Te-Ag composite",
+        "Property": "Seebeck",
+        "Value": -8.91e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.06.359"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Te",
+        "Property": "PF",
+        "Value": 0.00134,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3nj01303k"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Te",
+        "Property": "Conductivity",
+        "Value": 183200.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01623a"
+      }
+    ],
+    "650.0": [
+      {
+        "Original_Name_In_Paper": "Ag2Te-1.075",
+        "Property": "ThermCond",
+        "Value": 0.53,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cej.2020.124763"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Te",
+        "Property": "ZT",
+        "Value": 0.59,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cej.2020.124763"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Te-1.075",
+        "Property": "ZT",
+        "Value": 0.59,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cej.2020.124763"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Te",
+        "Property": "ZT",
+        "Value": 0.59,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cej.2020.124763"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Te",
+        "Property": "Conductivity",
+        "Value": 104.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2ce06280a"
+      }
+    ],
+    "550.0": [
+      {
+        "Original_Name_In_Paper": "nanostructured Ag2Te",
+        "Property": "ZT",
+        "Value": 0.62,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cej.2020.124763"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Te nanoparticles",
+        "Property": "ZT",
+        "Value": 0.62,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2nr30469d"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Te nanoparticles",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2nr30469d"
+      },
+      {
+        "Original_Name_In_Paper": "bulk Ag2Te",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2nr30469d"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Te nanoparticle pellet",
+        "Property": "ZT",
+        "Value": 0.62,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2nr30469d"
+      },
+      {
+        "Original_Name_In_Paper": "bulk Ag2Te",
+        "Property": "ZT",
+        "Value": 0.47000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2nr30469d"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Te",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2nr30469d"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Te nanoparticles",
+        "Property": "ZT",
+        "Value": 0.62,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2nr30469d"
+      }
+    ],
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "nanostructured Ag2Te",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-017-04885-1"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Te",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s40948-019-00134-z"
+      }
+    ],
+    "450.0": [
+      {
+        "Original_Name_In_Paper": "Ag2Te",
+        "Property": "ZT",
+        "Value": 0.66,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta01455j"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Te-1.075 pellet",
+        "Property": "PF",
+        "Value": 0.00047000000000000004,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cej.2020.124763"
+      }
+    ],
+    "775.0": [
+      {
+        "Original_Name_In_Paper": "Ag2Te",
+        "Property": "ZT",
+        "Value": 1.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra03942h"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Te nanostructures",
+        "Property": "ZT",
+        "Value": 1.6,
+        "Units": null,
+        "Editing": "introducing Ag2Te",
+        "Source_DOI": "10.1039/c3ee43099e"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Te",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.10.160"
+      }
+    ],
+    "370.0": [
+      {
+        "Original_Name_In_Paper": "Ag2Te",
+        "Property": "ZT",
+        "Value": 0.27,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2004.10.002"
+      }
+    ],
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "nanostructured Ag2Te",
+        "Property": "ZT",
+        "Value": 1.53,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.06.195"
+      }
+    ],
+    "575.0": [
+      {
+        "Original_Name_In_Paper": "Ag2Te",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.10.160"
+      }
+    ],
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "Ag2Te-Ag composite",
+        "Property": "ZT",
+        "Value": 0.68,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.06.359"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Te-Ag nanocomposite",
+        "Property": "ZT",
+        "Value": 0.68,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.06.359"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Te-Ag composite",
+        "Property": "ZT",
+        "Value": 0.68,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.06.359"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Te-Ag composite",
+        "Property": "ZT",
+        "Value": 0.68,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.06.359"
+      }
+    ],
+    "623.0": [
+      {
+        "Original_Name_In_Paper": "pure Ag2Te",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ce01863d"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "pristine Ag2Te",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ce01863d"
+      }
+    ],
+    "630.0": [
+      {
+        "Original_Name_In_Paper": "pristine Ag2Te bulk",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ce01863d"
+      },
+      {
+        "Original_Name_In_Paper": "pure Ag2Te",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ce01863d"
+      }
+    ],
+    "436.0": [
+      {
+        "Original_Name_In_Paper": "Ag2Te NWs",
+        "Property": "Seebeck",
+        "Value": -0.00014199999999999998,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2017.01.019"
+      }
+    ],
+    "468.0": [
+      {
+        "Original_Name_In_Paper": "Ag2Te NWs film",
+        "Property": "Seebeck",
+        "Value": -0.00014199999999999998,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ta07601k"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Te NWs film",
+        "Property": "Seebeck",
+        "Value": -0.00014199999999999998,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ta07601k"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Te NWs film",
+        "Property": "Conductivity",
+        "Value": 9530.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ta07601k"
+      }
+    ],
+    "340.0": [
+      {
+        "Original_Name_In_Paper": "Ag2Te",
+        "Property": "PF",
+        "Value": 0.0005989999999999999,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2ce06280a"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Te",
+        "Property": "PF",
+        "Value": 0.000901,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3nj01303k"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Te",
+        "Property": "PF",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2004.10.002"
+      }
+    ],
+    "570.0": [
+      {
+        "Original_Name_In_Paper": "Ag2Te nanoparticles",
+        "Property": "PF",
+        "Value": 0.000477,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2nr30469d"
+      }
+    ]
+  }
+}

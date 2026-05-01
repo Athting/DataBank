@@ -1,0 +1,27 @@
+{
+  "Material": "HfTiZrNiSnSb",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2012.07.020",
+    "10.1016/j.materresbull.2015.11.032"
+  ],
+  "Data_By_Temperature": {
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "Hf0.5Ti0.25Zr0.25NiSn0.99Sb0.01",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2015.11.032"
+      },
+      {
+        "Original_Name_In_Paper": "Hf0.5Ti0.25Zr0.25NiSn0.99Sb0.01",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2012.07.020"
+      }
+    ]
+  }
+}

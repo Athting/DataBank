@@ -1,0 +1,18 @@
+{
+  "Material": "SrBiMTiO6",
+  "DOIs_Researched": [
+    "10.1007/s11581-015-1389-z"
+  ],
+  "Data_By_Temperature": {
+    "1123.0": [
+      {
+        "Original_Name_In_Paper": "SrBiMTiO6",
+        "Property": "Conductivity",
+        "Value": 19.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11581-015-1389-z"
+      }
+    ]
+  }
+}

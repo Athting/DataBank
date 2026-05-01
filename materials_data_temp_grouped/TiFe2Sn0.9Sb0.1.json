@@ -1,0 +1,26 @@
+{
+  "Material": "TiFe2Sn0.9Sb0.1",
+  "DOIs_Researched": [
+    "10.1007/s11665-018-3744-5"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "TiFe2Sn0.9Sb0.1",
+        "Property": "Seebeck",
+        "Value": 1.8e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11665-018-3744-5"
+      },
+      {
+        "Original_Name_In_Paper": "TiFe2Sn0.9Sb0.1",
+        "Property": "Conductivity",
+        "Value": 3300.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11665-018-3744-5"
+      }
+    ]
+  }
+}

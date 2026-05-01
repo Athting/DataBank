@@ -1,0 +1,66 @@
+{
+  "Material": "Bi0.995Cs0.005CuSeO",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2017.11.104"
+  ],
+  "Data_By_Temperature": {
+    "680.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.995Cs0.005CuSeO",
+        "Property": "ThermCond",
+        "Value": 0.35000000000000003,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.11.104"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.995Cs0.005CuSeO",
+        "Property": "ZT",
+        "Value": 0.66,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.11.104"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.995Cs0.005CuSeO",
+        "Property": "ZT",
+        "Value": 0.66,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.11.104"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.995Cs0.005CuSeO",
+        "Property": "ZT",
+        "Value": 0.66,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.11.104"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.995Cs0.005CuSeO",
+        "Property": "ZT",
+        "Value": 0.66,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.11.104"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.995Cs0.005CuSeO",
+        "Property": "PF",
+        "Value": 0.00034,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.11.104"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.995Cs0.005CuSeO",
+        "Property": "Conductivity",
+        "Value": 2500.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.11.104"
+      }
+    ]
+  }
+}

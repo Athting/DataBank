@@ -1,0 +1,18 @@
+{
+  "Material": "Brillouin zone",
+  "DOIs_Researched": [
+    "10.1038/s41524-020-00355-x"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Brillouin zone",
+        "Property": "ThermCond",
+        "Value": 0.78,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": "In addition",
+        "Source_DOI": "10.1038/s41524-020-00355-x"
+      }
+    ]
+  }
+}

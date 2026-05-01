@@ -1,0 +1,204 @@
+{
+  "doi": "10.1039/c9qm00087a",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "pure PEDOT : PSS",
+        "pristine PEDOT : PSS",
+        "dimethyl sulphoxide (DMSO)-doped PEDOT : poly(styrene sulfonic acid )",
+        "pristine PEDOT : PSS nanofilms",
+        "polymer PEDOT : PSS",
+        "PEDOT : PSS with 29.6 wt % Ge",
+        "PEDOT : PSS films with p-toluenesulfonic acid monohydrate",
+        "PEDOT : PSS films with sulfuric acid",
+        "Pristine PEDOT : PSS",
+        "pristine PEDOT : PSS pellet",
+        "pure PEDOT : PSS film",
+        "PEDOT : PSS thin film with 2 wt % graphene",
+        "pure bulk PEDOT : PSS",
+        "PEDOT : PSS films with HNO3"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "pristine PEDOT : PSS",
+          "value": 0.000017899999999999998,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure PEDOT : PSS",
+          "value": 0.000016499999999999998,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "pristine PEDOT : PSS",
+          "value": 0.00002,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "423.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "Pristine PEDOT : PSS",
+          "value": 100,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine PEDOT : PSS pellet",
+          "value": 900,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine PEDOT : PSS",
+          "value": 105,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure PEDOT : PSS film",
+          "value": 20,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine PEDOT : PSS",
+          "value": 31,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine PEDOT : PSS",
+          "value": 170,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "423.0 K"
+        },
+        {
+          "material": "PEDOT : PSS films with HNO3",
+          "value": 269300,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "298.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "pure PEDOT : PSS",
+          "value": 0.17,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine PEDOT : PSS",
+          "value": 0.17,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "PEDOT : PSS with 29.6 wt % Ge",
+          "value": 0.000165,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine PEDOT : PSS",
+          "value": 0.000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PEDOT : PSS films with p-toluenesulfonic acid monohydrate",
+          "value": 0.000318,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PEDOT : PSS films with sulfuric acid",
+          "value": 0.000334,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine PEDOT : PSS",
+          "value": 7e-8,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "423.0 K"
+        },
+        {
+          "material": "pure PEDOT : PSS film",
+          "value": 5e-9,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "470.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "pristine PEDOT : PSS",
+          "zt_value": 0.00030199999999999997,
+          "temperature": "295 K"
+        },
+        {
+          "material": "dimethyl sulphoxide (DMSO)-doped PEDOT : poly(styrene sulfonic acid )",
+          "zt_value": 0.42,
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine PEDOT : PSS nanofilms",
+          "zt_value": 0.007,
+          "temperature": "295 K"
+        },
+        {
+          "material": "polymer PEDOT : PSS",
+          "zt_value": 0.1,
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure PEDOT : PSS",
+          "zt_value": 0.0024200000000000003,
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine PEDOT : PSS",
+          "zt_value": 0.0029000000000000002,
+          "temperature": "348.0 K"
+        },
+        {
+          "material": "PEDOT : PSS thin film with 2 wt % graphene",
+          "zt_value": 0.021,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "pure bulk PEDOT : PSS",
+          "zt_value": 0.00055,
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

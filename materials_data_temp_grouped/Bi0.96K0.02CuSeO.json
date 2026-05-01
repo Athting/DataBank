@@ -1,0 +1,18 @@
+{
+  "Material": "Bi0.96K0.02CuSeO",
+  "DOIs_Researched": [
+    "10.1007/s10853-017-1323-z"
+  ],
+  "Data_By_Temperature": {
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.96K0.02CuSeO",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-017-1323-z"
+      }
+    ]
+  }
+}

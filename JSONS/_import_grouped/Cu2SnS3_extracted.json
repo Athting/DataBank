@@ -1,0 +1,113 @@
+{
+  "doi": "10.1016/j.jallcom.2016.02.185",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "pristine Cu2SnS3",
+        "Cu2SnS3",
+        "Zn(In)-doped Cu2SnS3",
+        "Zn-doped Cu2SnS3",
+        "undoped Cu2SnS3 bulk"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "Cu2SnS3",
+          "value": 0.00008669999999999999,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Cu2SnS3",
+          "value": 0.00008669999999999999,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "pristine Cu2SnS3",
+          "value": 0.00030000000000000003,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "700.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "undoped Cu2SnS3 bulk",
+          "value": 200,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "323.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "pristine Cu2SnS3",
+          "value": 1.8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine Cu2SnS3",
+          "value": 2.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Cu2SnS3",
+          "value": 0.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "723.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Cu2SnS3",
+          "zt_value": 0.85,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "Zn(In)-doped Cu2SnS3",
+          "zt_value": 0.58,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "Zn-doped Cu2SnS3",
+          "zt_value": 0.58,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "Cu2SnS3",
+          "zt_value": 0.68,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "pristine Cu2SnS3",
+          "zt_value": 0.22,
+          "temperature": "773.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "FeCoB",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2016.10.114"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "wt. % Fe2.25Co0.75B",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.10.114"
+      }
+    ]
+  }
+}

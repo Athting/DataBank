@@ -1,0 +1,34 @@
+{
+  "Material": "Yb0.17La0.68Fe2.7Co1.3S",
+  "DOIs_Researched": [
+    "10.1016/j.intermet.2012.08.005"
+  ],
+  "Data_By_Temperature": {
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "Yb0.17La0.68Fe2.7Co1.3Sb12",
+        "Property": "PF",
+        "Value": 0.0027,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2012.08.005"
+      },
+      {
+        "Original_Name_In_Paper": "Yb0.17La0.68Fe2.7Co1.3Sb12",
+        "Property": "PF",
+        "Value": 0.0027,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2012.08.005"
+      },
+      {
+        "Original_Name_In_Paper": "Yb0.17La0.68Fe2.7Co1.3Sb12",
+        "Property": "PF",
+        "Value": 0.0027,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2012.08.005"
+      }
+    ]
+  }
+}

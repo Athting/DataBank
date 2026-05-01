@@ -1,0 +1,18 @@
+{
+  "Material": "YbH_{3}ErH_{3}TmH_{3}",
+  "DOIs_Researched": [
+    "10.1016/S0925-8388(09)00895-0"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Yb 3H11001\u2013Er 3H11001\u2013Tm 3H11001",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(09)00895-0"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Ba3Re2O9",
+  "DOIs_Researched": [
+    "10.1016/B978-0-444-59550-8.00011-9"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ba3Re2O9",
+        "Property": "Conductivity",
+        "Value": 0.9345794393,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-444-59550-8.00011-9"
+      }
+    ]
+  }
+}

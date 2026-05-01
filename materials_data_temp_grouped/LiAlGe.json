@@ -1,0 +1,27 @@
+{
+  "Material": "LiAlGe",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2017.12.014",
+    "10.1007/s11664-010-1076-9"
+  ],
+  "Data_By_Temperature": {
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "LiAlGe",
+        "Property": "ThermCond",
+        "Value": 2.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-010-1076-9"
+      },
+      {
+        "Original_Name_In_Paper": "LiAlGe",
+        "Property": "ZT",
+        "Value": 0.03,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2017.12.014"
+      }
+    ]
+  }
+}

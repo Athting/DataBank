@@ -1,0 +1,18 @@
+{
+  "Material": "Co3.8Sb11.4Te0.6",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2013.07.032"
+  ],
+  "Data_By_Temperature": {
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "Co3.8Sb11.4Te0.6",
+        "Property": "ZT",
+        "Value": 0.93,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2013.07.032"
+      }
+    ]
+  }
+}

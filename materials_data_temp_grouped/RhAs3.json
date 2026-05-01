@@ -1,0 +1,46 @@
+{
+  "Material": "RhAs3",
+  "DOIs_Researched": [
+    "10.1039/c9ra03882e"
+  ],
+  "Data_By_Temperature": {
+    "50.0": [
+      {
+        "Original_Name_In_Paper": "RhAs3 material",
+        "Property": "ThermCond",
+        "Value": 0.44776000000000005,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ra03882e"
+      },
+      {
+        "Original_Name_In_Paper": "RhAs3",
+        "Property": "Conductivity",
+        "Value": 356670.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ra03882e"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "RhAs3",
+        "Property": "Seebeck",
+        "Value": 2.6473e-06,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ra03882e"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "RhAs3",
+        "Property": "Conductivity",
+        "Value": 373614.9,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ra03882e"
+      }
+    ]
+  }
+}

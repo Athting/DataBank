@@ -1,0 +1,18 @@
+{
+  "Material": "Se / SnSe",
+  "DOIs_Researched": [
+    "10.1038/s41598-017-18508-2"
+  ],
+  "Data_By_Temperature": {
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "Se / SnSe",
+        "Property": "Seebeck",
+        "Value": 0.00055,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-017-18508-2"
+      }
+    ]
+  }
+}

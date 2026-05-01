@@ -1,0 +1,18 @@
+{
+  "Material": "(SnTe)0.94(Cu2Te)0.06",
+  "DOIs_Researched": [
+    "10.1039/c7ta09941j"
+  ],
+  "Data_By_Temperature": {
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "(SnTe)0.94(Cu2Te)0.06",
+        "Property": "ThermCond",
+        "Value": 0.48,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ta09941j"
+      }
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "Material": "In4Se3\u2212x",
+  "DOIs_Researched": [
+    "10.1039/c4dt03432e",
+    "10.1039/c9qi00210c"
+  ],
+  "Data_By_Temperature": {
+    "705.0": [
+      {
+        "Original_Name_In_Paper": "In4Se3\u2212x",
+        "Property": "ThermCond",
+        "Value": 0.74,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9qi00210c"
+      },
+      {
+        "Original_Name_In_Paper": "Single-crystalline In4Se3\u2212x",
+        "Property": "ZT",
+        "Value": 1.48,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4dt03432e"
+      },
+      {
+        "Original_Name_In_Paper": "In4Se3\u2212x",
+        "Property": "ZT",
+        "Value": 1.48,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9qi00210c"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Ca0.96Bi0.04MnO3\u2212\u03b4",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2012.10.078"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ca0.96Bi0.04MnO3\u2212\u03b4",
+        "Property": "ThermCond",
+        "Value": 3.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2012.10.078"
+      }
+    ]
+  }
+}

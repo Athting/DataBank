@@ -1,0 +1,93 @@
+{
+  "Material": "Si",
+  "DOIs_Researched": [
+    "10.1007/s11434-014-0237-2",
+    "10.1016/j.mssp.2017.11.039",
+    "10.1016/j.matpr.2015.05.069",
+    "10.1016/j.matpr.2015.05.085",
+    "10.1016/B978-0-12-815751-0.00009-2",
+    "10.1016/j.nanoen.2019.104191"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "boron doped Si nanowires",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matpr.2015.05.085"
+      },
+      {
+        "Original_Name_In_Paper": "boron doped Si nanowires",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matpr.2015.05.085"
+      },
+      {
+        "Original_Name_In_Paper": "phenyl acetylene-capped silicon",
+        "Property": "ZT",
+        "Value": 0.5700000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matpr.2015.05.069"
+      },
+      {
+        "Original_Name_In_Paper": "B-doped Si nanowires",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11434-014-0237-2"
+      },
+      {
+        "Original_Name_In_Paper": "B-doped Si nanowires",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-12-815751-0.00009-2"
+      },
+      {
+        "Original_Name_In_Paper": "boron doped Si bulk",
+        "Property": "Conductivity",
+        "Value": 27000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2019.104191"
+      }
+    ],
+    "1173.0": [
+      {
+        "Original_Name_In_Paper": "GaP and P co-doped Si",
+        "Property": "ZT",
+        "Value": 0.9400000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11434-014-0237-2"
+      }
+    ],
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "nanocrystalline B-doped Si",
+        "Property": "ZT",
+        "Value": 0.32,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2017.11.039"
+      }
+    ],
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "B-doped Si",
+        "Property": "ZT",
+        "Value": 0.23,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2017.11.039"
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "Material": "Cu2Sn0.90In0.10Se3",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2013.01.131",
+    "10.1016/j.actamat.2013.04.003",
+    "10.1016/j.intermet.2014.05.006"
+  ],
+  "Data_By_Temperature": {
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "Cu2Sn0.90In0.10Se3",
+        "Property": "ZT",
+        "Value": 1.1400000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2014.05.006"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2Sn0.90In0.10Se3",
+        "Property": "ZT",
+        "Value": 1.1400000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.01.131"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Cu2Sn0.90In0.10Se3",
+        "Property": "ZT",
+        "Value": 0.43,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2013.04.003"
+      }
+    ]
+  }
+}

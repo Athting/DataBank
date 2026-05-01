@@ -1,0 +1,18 @@
+{
+  "Material": "NdSe",
+  "DOIs_Researched": [
+    "10.1016/j.jpcs.2019.01.010"
+  ],
+  "Data_By_Temperature": {
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "NdSe",
+        "Property": "ZT",
+        "Value": 0.93,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2019.01.010"
+      }
+    ]
+  }
+}

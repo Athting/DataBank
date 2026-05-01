@@ -1,0 +1,57 @@
+{
+  "Material": "Ba8Al14Si31",
+  "DOIs_Researched": [
+    "10.1557/jmr.2011.193",
+    "10.1016/j.jssc.2011.03.038",
+    "10.1039/b612878p",
+    "10.1016/j.matdes.2015.08.096"
+  ],
+  "Data_By_Temperature": {
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "Ba8Al14Si31",
+        "Property": "ThermCond",
+        "Value": 2.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2011.03.038"
+      }
+    ],
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "Ba8Al14Si31",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matdes.2015.08.096"
+      },
+      {
+        "Original_Name_In_Paper": "Doped Ba8Al14Si31",
+        "Property": "ZT",
+        "Value": 0.08,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matdes.2015.08.096"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ba8Al14Si31",
+        "Property": "Seebeck",
+        "Value": 2.62e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1557/jmr.2011.193"
+      },
+      {
+        "Original_Name_In_Paper": "Ba8Al14Si31",
+        "Property": "Seebeck",
+        "Value": -4.9e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/b612878p"
+      }
+    ]
+  }
+}

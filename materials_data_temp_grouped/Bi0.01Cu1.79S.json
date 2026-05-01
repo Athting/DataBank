@@ -1,0 +1,36 @@
+{
+  "Material": "Bi0.01Cu1.79S",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2017.02.295"
+  ],
+  "Data_By_Temperature": {
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.01Cu1.79S",
+        "Property": "ZT",
+        "Value": 0.61,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.02.295"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.01Cu1.79S",
+        "Property": "ZT",
+        "Value": 0.61,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.02.295"
+      }
+    ],
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.01Cu1.79S",
+        "Property": "Conductivity",
+        "Value": 364000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.02.295"
+      }
+    ]
+  }
+}

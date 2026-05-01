@@ -1,0 +1,29 @@
+{
+  "Material": "TaRuSb",
+  "DOIs_Researched": [
+    "10.1016/j.jpcs.2017.05.006",
+    "10.1016/j.commatsci.2018.12.039"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "TaRuSb",
+        "Property": "ThermCond",
+        "Value": 17.18,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2018.12.039"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "TaRuSb",
+        "Property": "Seebeck",
+        "Value": 0.00019988000000000002,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2017.05.006"
+      }
+    ]
+  }
+}

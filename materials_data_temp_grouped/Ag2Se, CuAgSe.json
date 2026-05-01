@@ -1,0 +1,26 @@
+{
+  "Material": "Ag2Se, CuAgSe",
+  "DOIs_Researched": [
+    "10.1016/j.mtphys.2020.100223"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ag2Se / CuAgSe",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2020.100223"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Se / CuAgSe",
+        "Property": "PF",
+        "Value": 0.0016029999999999998,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2020.100223"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Bi / Sb-based materials",
+  "DOIs_Researched": [
+    "10.1039/c8ra07395c"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Bi / Sb-based materials",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ra07395c"
+      }
+    ]
+  }
+}

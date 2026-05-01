@@ -1,0 +1,18 @@
+{
+  "Material": "ErFeSbGe",
+  "DOIs_Researched": [
+    "10.1016/j.nimb.2009.01.107"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Er0.1Fe1.9SbGe0.4",
+        "Property": "Conductivity",
+        "Value": 232558.1395348837,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nimb.2009.01.107"
+      }
+    ]
+  }
+}

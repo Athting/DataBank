@@ -1,0 +1,36 @@
+{
+  "Material": "Si0.7Ge0.3",
+  "DOIs_Researched": [
+    "10.1016/j.mser.2009.10.001"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Si0.7Ge0.3 alloy",
+        "Property": "ThermCond",
+        "Value": 10.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mser.2009.10.001"
+      }
+    ],
+    "1100.0": [
+      {
+        "Original_Name_In_Paper": "Si0.7Ge0.3",
+        "Property": "ThermCond",
+        "Value": 4.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mser.2009.10.001"
+      },
+      {
+        "Original_Name_In_Paper": "Bulk Si0.7Ge0.3",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mser.2009.10.001"
+      }
+    ]
+  }
+}

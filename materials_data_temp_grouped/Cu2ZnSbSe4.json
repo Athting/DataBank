@@ -1,0 +1,18 @@
+{
+  "Material": "Cu2ZnSbSe4",
+  "DOIs_Researched": [
+    "10.1039/c5ra21165d"
+  ],
+  "Data_By_Temperature": {
+    "475.0": [
+      {
+        "Original_Name_In_Paper": "Cu2ZnSbSe4",
+        "Property": "Seebeck",
+        "Value": 0.0005600000000000001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra21165d"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "Material": "DyCuTe2",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2019.03.009",
+    "10.1039/c5ta10330d"
+  ],
+  "Data_By_Temperature": {
+    "745.0": [
+      {
+        "Original_Name_In_Paper": "DyCuTe2",
+        "Property": "ZT",
+        "Value": 0.81,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta10330d"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "DyCuTe2",
+        "Property": "Seebeck",
+        "Value": 3.9e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2019.03.009"
+      },
+      {
+        "Original_Name_In_Paper": "DyCuTe2",
+        "Property": "Conductivity",
+        "Value": 1250.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2019.03.009"
+      }
+    ]
+  }
+}

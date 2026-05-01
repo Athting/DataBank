@@ -1,0 +1,69 @@
+{
+  "Material": "FeSe",
+  "DOIs_Researched": [
+    "10.1016/S0022-3093(99)00261-6",
+    "10.1038/s41467-019-08784-z",
+    "10.1007/s10909-019-02198-3",
+    "10.1016/j.jpcs.2013.05.006"
+  ],
+  "Data_By_Temperature": {
+    "473.0": [
+      {
+        "Original_Name_In_Paper": "p-type FeSe film",
+        "Property": "Conductivity",
+        "Value": 0.00125,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2013.05.006"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "FeSe thin films",
+        "Property": "Conductivity",
+        "Value": 0.9615384615,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2013.05.006"
+      }
+    ],
+    "113.0": [
+      {
+        "Original_Name_In_Paper": "FeSe",
+        "Property": "Seebeck",
+        "Value": -1.027e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10909-019-02198-3"
+      }
+    ],
+    "1373.0": [
+      {
+        "Original_Name_In_Paper": "FeSe",
+        "Property": "Seebeck",
+        "Value": -8e-06,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0022-3093(99)00261-6"
+      }
+    ],
+    "280.0": [
+      {
+        "Original_Name_In_Paper": "monolayer FeSe",
+        "Property": "Seebeck",
+        "Value": 4.9999999999999996e-06,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41467-019-08784-z"
+      },
+      {
+        "Original_Name_In_Paper": "FeSe ultrathin film",
+        "Property": "PF",
+        "Value": 0.026000000000000002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41467-019-08784-z"
+      }
+    ]
+  }
+}

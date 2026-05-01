@@ -1,0 +1,28 @@
+{
+  "Material": "PrMnO3",
+  "DOIs_Researched": [
+    "10.1039/c6ra19448f"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "PrMnO3",
+        "Property": "ZT",
+        "Value": 0.24,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra19448f"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "PrMnO3",
+        "Property": "Seebeck",
+        "Value": 0.0005200000000000001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra19448f"
+      }
+    ]
+  }
+}

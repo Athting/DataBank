@@ -1,0 +1,18 @@
+{
+  "Material": "Ti(ZrHf)0.49Nb0.01Ni0",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2010.05.086"
+  ],
+  "Data_By_Temperature": {
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "Ti0.5(ZrHf)0.49Nb0.01Ni0.9Pd0.1Sn0.98Sb0.02 alloys",
+        "Property": "ZT",
+        "Value": 0.66,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.05.086"
+      }
+    ]
+  }
+}

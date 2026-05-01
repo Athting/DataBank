@@ -1,0 +1,18 @@
+{
+  "Material": "Cu3Sb0.99Sn0.01Se3",
+  "DOIs_Researched": [
+    "10.1007/s10854-019-02038-w"
+  ],
+  "Data_By_Temperature": {
+    "374.0": [
+      {
+        "Original_Name_In_Paper": "Cu3Sb0.99Sn0.01Se3",
+        "Property": "ZT",
+        "Value": 0.127,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-019-02038-w"
+      }
+    ]
+  }
+}

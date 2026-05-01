@@ -1,0 +1,81 @@
+{
+  "Material": "BaTiO3",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2019.121050",
+    "10.1016/j.jssc.2011.09.008",
+    "10.1016/S0925-8388(10)02247-4",
+    "10.1016/j.jeurceramsoc.2020.07.070"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "tetragonal BaTiO 3 513",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(10)02247-4"
+      },
+      {
+        "Original_Name_In_Paper": "tetragonal BaTiO 3 513",
+        "Property": "ZT",
+        "Value": 0.33333333330000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(10)02247-4"
+      },
+      {
+        "Original_Name_In_Paper": "BaTiO3",
+        "Property": "Conductivity",
+        "Value": 0.9174311927000001,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2020.07.070"
+      },
+      {
+        "Original_Name_In_Paper": "La doped BaTiO3 thin film",
+        "Property": "Conductivity",
+        "Value": 0.6711409396,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2019.121050"
+      },
+      {
+        "Original_Name_In_Paper": "La doped BaTiO3 thin film",
+        "Property": "Seebeck",
+        "Value": -0.00030000000000000003,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2019.121050"
+      }
+    ],
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "BaTiO3",
+        "Property": "Conductivity",
+        "Value": 0.0988142292,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2019.121050"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ba2Ti13O22",
+        "Property": "Seebeck",
+        "Value": -1.25e-06,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2011.09.008"
+      },
+      {
+        "Original_Name_In_Paper": "Ba2Ti13O22",
+        "Property": "Conductivity",
+        "Value": 32050.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2011.09.008"
+      }
+    ]
+  }
+}

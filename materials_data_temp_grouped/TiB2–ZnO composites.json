@@ -1,0 +1,18 @@
+{
+  "Material": "TiB2\u2013ZnO composites",
+  "DOIs_Researched": [
+    "10.1016/j.jeurceramsoc.2011.07.006"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "TiB2\u2013ZnO composites",
+        "Property": "ZT",
+        "Value": 0.024,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2011.07.006"
+      }
+    ]
+  }
+}

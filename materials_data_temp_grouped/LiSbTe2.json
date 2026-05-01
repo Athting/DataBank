@@ -1,0 +1,18 @@
+{
+  "Material": "LiSbTe2",
+  "DOIs_Researched": [
+    "10.1039/c6tc02501c"
+  ],
+  "Data_By_Temperature": {
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "LiSbTe2 with GeTe",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6tc02501c"
+      }
+    ]
+  }
+}

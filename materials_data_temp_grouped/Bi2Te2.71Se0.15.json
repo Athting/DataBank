@@ -1,0 +1,18 @@
+{
+  "Material": "Bi2Te2.71Se0.15",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2019.01.301"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Te2.71Se0.15 thin film",
+        "Property": "Conductivity",
+        "Value": 134100.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.01.301"
+      }
+    ]
+  }
+}

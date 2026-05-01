@@ -1,0 +1,123 @@
+{
+  "Material": "Cu2SnS3",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2016.02.185",
+    "10.1016/j.jpcs.2013.11.012",
+    "10.1016/j.jallcom.2018.11.329",
+    "10.1016/j.jallcom.2017.08.227",
+    "10.1039/c7ta05253g",
+    "10.1038/s41598-018-26362-z",
+    "10.1007/s00339-014-8484-2",
+    "10.1039/c7ta07140j"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "pristine Cu2SnS3",
+        "Property": "ThermCond",
+        "Value": 1.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.02.185"
+      },
+      {
+        "Original_Name_In_Paper": "pristine Cu2SnS3",
+        "Property": "ThermCond",
+        "Value": 2.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.08.227"
+      }
+    ],
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "Cu2SnS3",
+        "Property": "ThermCond",
+        "Value": 0.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.08.227"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2SnS3",
+        "Property": "ZT",
+        "Value": 0.85,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ta07140j"
+      },
+      {
+        "Original_Name_In_Paper": "Zn(In)-doped Cu2SnS3",
+        "Property": "ZT",
+        "Value": 0.58,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ta05253g"
+      },
+      {
+        "Original_Name_In_Paper": "Zn-doped Cu2SnS3",
+        "Property": "ZT",
+        "Value": 0.58,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-018-26362-z"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2SnS3",
+        "Property": "ZT",
+        "Value": 0.68,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.11.329"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "pristine Cu2SnS3",
+        "Property": "ZT",
+        "Value": 0.22,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.02.185"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Cu2SnS3",
+        "Property": "Seebeck",
+        "Value": 8.669999999999999e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s00339-014-8484-2"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2SnS3",
+        "Property": "Seebeck",
+        "Value": 8.669999999999999e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2013.11.012"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "pristine Cu2SnS3",
+        "Property": "Seebeck",
+        "Value": 0.00030000000000000003,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.02.185"
+      }
+    ],
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "undoped Cu2SnS3 bulk",
+        "Property": "Conductivity",
+        "Value": 200.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.08.227"
+      }
+    ]
+  }
+}

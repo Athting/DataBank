@@ -1,0 +1,26 @@
+{
+  "Material": "ZnAlTe",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2015.09.032"
+  ],
+  "Data_By_Temperature": {
+    "575.0": [
+      {
+        "Original_Name_In_Paper": "Zn0.85Al0.15Te",
+        "Property": "ZT",
+        "Value": 0.075,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2015.09.032"
+      },
+      {
+        "Original_Name_In_Paper": "Zn0.85Al0.15Te",
+        "Property": "PF",
+        "Value": 1.52e-06,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2015.09.032"
+      }
+    ]
+  }
+}

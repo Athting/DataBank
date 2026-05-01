@@ -1,0 +1,18 @@
+{
+  "Material": "Bi0.95Na0.05CuSeO0.95F0",
+  "DOIs_Researched": [
+    "10.1007/s11664-015-4181-y"
+  ],
+  "Data_By_Temperature": {
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.95Na0.05CuSeO0.95F0.05",
+        "Property": "PF",
+        "Value": 0.000212,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-015-4181-y"
+      }
+    ]
+  }
+}

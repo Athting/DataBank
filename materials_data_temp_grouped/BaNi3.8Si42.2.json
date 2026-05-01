@@ -1,0 +1,26 @@
+{
+  "Material": "BaNi3.8Si42.2",
+  "DOIs_Researched": [
+    "10.1039/c2dt30279a"
+  ],
+  "Data_By_Temperature": {
+    "790.0": [
+      {
+        "Original_Name_In_Paper": "Ba8Ni3.8Si42.2",
+        "Property": "ZT",
+        "Value": 0.14,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2dt30279a"
+      },
+      {
+        "Original_Name_In_Paper": "Ba8Ni3.8Si42.2",
+        "Property": "ZT",
+        "Value": 0.14,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2dt30279a"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "BaCu6-xSeTe5-I",
+  "DOIs_Researched": [
+    "10.1039/c7qi00210f"
+  ],
+  "Data_By_Temperature": {
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "BaCu6\u2212xSeTe5-I",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7qi00210f"
+      }
+    ]
+  }
+}

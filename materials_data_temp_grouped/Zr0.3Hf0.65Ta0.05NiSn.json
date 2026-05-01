@@ -1,0 +1,18 @@
+{
+  "Material": "Zr0.3Hf0.65Ta0.05NiSn",
+  "DOIs_Researched": [
+    "10.1007/s10853-020-04949-0"
+  ],
+  "Data_By_Temperature": {
+    "870.0": [
+      {
+        "Original_Name_In_Paper": "Zr0.3Hf0.65Ta0.05NiSn",
+        "Property": "ZT",
+        "Value": 0.85,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      }
+    ]
+  }
+}

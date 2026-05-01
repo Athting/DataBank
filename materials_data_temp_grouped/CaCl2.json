@@ -1,0 +1,26 @@
+{
+  "Material": "CaCl2",
+  "DOIs_Researched": [
+    "10.1016/j.ijheatmasstransfer.2019.118915"
+  ],
+  "Data_By_Temperature": {
+    "283.0": [
+      {
+        "Original_Name_In_Paper": "CaCl2",
+        "Property": "ThermCond",
+        "Value": 4.76,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ijheatmasstransfer.2019.118915"
+      },
+      {
+        "Original_Name_In_Paper": "CaCl2",
+        "Property": "ThermCond",
+        "Value": 0.35000000000000003,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ijheatmasstransfer.2019.118915"
+      }
+    ]
+  }
+}

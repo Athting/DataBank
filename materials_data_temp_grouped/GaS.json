@@ -1,0 +1,64 @@
+{
+  "Material": "GaS",
+  "DOIs_Researched": [
+    "10.1039/c9cp04666f",
+    "10.1039/c8cp04723e",
+    "10.1016/S0921-4526(99)00106-4"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "GaS",
+        "Property": "ZT",
+        "Value": 0.85,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8cp04723e"
+      },
+      {
+        "Original_Name_In_Paper": "GaS",
+        "Property": "ZT",
+        "Value": 0.85,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9cp04666f"
+      },
+      {
+        "Original_Name_In_Paper": "GaS",
+        "Property": "Seebeck",
+        "Value": 0.00028761,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9cp04666f"
+      },
+      {
+        "Original_Name_In_Paper": "GaS",
+        "Property": "Seebeck",
+        "Value": 0.00030898,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8cp04723e"
+      }
+    ],
+    "293.0": [
+      {
+        "Original_Name_In_Paper": "GaS",
+        "Property": "Conductivity",
+        "Value": 1e-10,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0921-4526(99)00106-4"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "2D GaS",
+        "Property": "Seebeck",
+        "Value": 0.00025,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9cp04666f"
+      }
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "Material": "CuO",
+  "DOIs_Researched": [
+    "10.1039/c6ra24107g",
+    "10.1016/j.materresbull.2018.08.020",
+    "10.1016/j.jeurceramsoc.2019.04.036",
+    "10.1016/j.pmatsci.2013.06.003",
+    "10.1016/j.mssp.2017.08.012",
+    "10.1016/S0040-6090(97)00757-8",
+    "10.1016/j.apsusc.2019.03.312",
+    "10.1016/j.snb.2003.10.012"
+  ],
+  "Data_By_Temperature": {
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "CuO",
+        "Property": "ZT",
+        "Value": 0.05,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2019.04.036"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "undoped CuO thin films",
+        "Property": "Conductivity",
+        "Value": 0.0666666667,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0040-6090(97)00757-8"
+      },
+      {
+        "Original_Name_In_Paper": "CuO thin film",
+        "Property": "Seebeck",
+        "Value": 0.0005,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2018.08.020"
+      }
+    ],
+    "298.0": [
+      {
+        "Original_Name_In_Paper": "non-doped Cu2O",
+        "Property": "Conductivity",
+        "Value": 0.7692307692,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2019.03.312"
+      }
+    ],
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "single crystal Cu2O",
+        "Property": "Seebeck",
+        "Value": 0.0010500000000000002,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2013.06.003"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "CuO",
+        "Property": "Seebeck",
+        "Value": 2.4e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra24107g"
+      }
+    ],
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "pure CuO",
+        "Property": "Conductivity",
+        "Value": 0.98,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2017.08.012"
+      }
+    ],
+    "310.0": [
+      {
+        "Original_Name_In_Paper": "CuO",
+        "Property": "Conductivity",
+        "Value": 22.2,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2019.04.036"
+      }
+    ],
+    "667.0": [
+      {
+        "Original_Name_In_Paper": "CuO",
+        "Property": "Conductivity",
+        "Value": 3.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.snb.2003.10.012"
+      }
+    ]
+  }
+}

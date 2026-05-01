@@ -1,0 +1,18 @@
+{
+  "Material": "PbS nanostructured with SrS and CaS",
+  "DOIs_Researched": [
+    "10.1039/c3cp50920f"
+  ],
+  "Data_By_Temperature": {
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "PbS nanostructured with SrS and CaS",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3cp50920f"
+      }
+    ]
+  }
+}

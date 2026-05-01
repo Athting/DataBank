@@ -1,0 +1,42 @@
+{
+  "Material": "CuCrS2.01",
+  "DOIs_Researched": [
+    "10.1007/s10853-013-7220-1"
+  ],
+  "Data_By_Temperature": {
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "CuCrS2.01 bulk",
+        "Property": "ThermCond",
+        "Value": 0.48,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": "In addition",
+        "Source_DOI": "10.1007/s10853-013-7220-1"
+      },
+      {
+        "Original_Name_In_Paper": "CuCrS2.01 bulk",
+        "Property": "ZT",
+        "Value": 0.15,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-013-7220-1"
+      },
+      {
+        "Original_Name_In_Paper": "CuCrS2.01 bulk",
+        "Property": "ZT",
+        "Value": 0.15,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-013-7220-1"
+      },
+      {
+        "Original_Name_In_Paper": "CuCrS2.01",
+        "Property": "Conductivity",
+        "Value": 2980.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-013-7220-1"
+      }
+    ]
+  }
+}

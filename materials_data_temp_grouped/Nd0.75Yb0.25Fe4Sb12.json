@@ -1,0 +1,18 @@
+{
+  "Material": "Nd0.75Yb0.25Fe4Sb12",
+  "DOIs_Researched": [
+    "10.3938/jkps.68.875"
+  ],
+  "Data_By_Temperature": {
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "Nd0.75Yb0.25Fe4Sb12",
+        "Property": "ZT",
+        "Value": 0.81,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.3938/jkps.68.875"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Material": "CeFe4As12",
+  "DOIs_Researched": [
+    "10.1007/s10765-016-2112-7"
+  ],
+  "Data_By_Temperature": {
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "CeFe4As12",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10765-016-2112-7"
+      },
+      {
+        "Original_Name_In_Paper": "CeFe4As12",
+        "Property": "Seebeck",
+        "Value": 0.04,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10765-016-2112-7"
+      }
+    ]
+  }
+}

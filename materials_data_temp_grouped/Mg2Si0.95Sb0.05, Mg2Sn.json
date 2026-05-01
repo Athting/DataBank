@@ -1,0 +1,18 @@
+{
+  "Material": "Mg2Si0.95Sb0.05, Mg2Sn",
+  "DOIs_Researched": [
+    "10.1016/j.rser.2014.05.060"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "(Mg2Si0.95Sb0.05)0.4(Mg2Sn)0.6",
+        "Property": "ZT",
+        "Value": 1.22,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rser.2014.05.060"
+      }
+    ]
+  }
+}

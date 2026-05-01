@@ -1,0 +1,59 @@
+{
+  "Material": "Mo3Te4",
+  "DOIs_Researched": [
+    "10.1016/S0925-8388(02)01002-2",
+    "10.1016/j.jallcom.2013.07.033"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "Mo3Te4",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.07.033"
+      },
+      {
+        "Original_Name_In_Paper": "Mo3Te4",
+        "Property": "ZT",
+        "Value": 0.015,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(02)01002-2"
+      },
+      {
+        "Original_Name_In_Paper": "Mo3Te4",
+        "Property": "ZT",
+        "Value": 0.015,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(02)01002-2"
+      },
+      {
+        "Original_Name_In_Paper": "Mo3Te4",
+        "Property": "ZT",
+        "Value": 0.015,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(02)01002-2"
+      },
+      {
+        "Original_Name_In_Paper": "Mo3Te4",
+        "Property": "Seebeck",
+        "Value": 2.4999999999999998e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(02)01002-2"
+      },
+      {
+        "Original_Name_In_Paper": "Mo3Te4",
+        "Property": "PF",
+        "Value": 8e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(02)01002-2"
+      }
+    ]
+  }
+}

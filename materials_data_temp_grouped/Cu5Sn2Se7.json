@@ -1,0 +1,52 @@
+{
+  "Material": "Cu5Sn2Se7",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2020.154154"
+  ],
+  "Data_By_Temperature": {
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "Cu5Sn2Se7",
+        "Property": "ZT",
+        "Value": 0.12,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154154"
+      },
+      {
+        "Original_Name_In_Paper": "Cu5Sn2Se7",
+        "Property": "ZT",
+        "Value": 0.51,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154154"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "pristine Cu5Sn2Se7",
+        "Property": "Seebeck",
+        "Value": 1.4e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154154"
+      },
+      {
+        "Original_Name_In_Paper": "Cu5Sn2Se7",
+        "Property": "Conductivity",
+        "Value": 1080000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154154"
+      },
+      {
+        "Original_Name_In_Paper": "pristine Cu5Sn2Se7",
+        "Property": "Conductivity",
+        "Value": 1080000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154154"
+      }
+    ]
+  }
+}

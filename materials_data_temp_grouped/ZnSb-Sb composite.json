@@ -1,0 +1,34 @@
+{
+  "Material": "ZnSb-Sb composite",
+  "DOIs_Researched": [
+    "10.1016/j.jeurceramsoc.2019.06.033"
+  ],
+  "Data_By_Temperature": {
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "ZnSb-Sb composite",
+        "Property": "ZT",
+        "Value": 1.18,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2019.06.033"
+      },
+      {
+        "Original_Name_In_Paper": "ZnSb-Sb composite",
+        "Property": "ZT",
+        "Value": 1.18,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2019.06.033"
+      },
+      {
+        "Original_Name_In_Paper": "ZnSb-Sb composite",
+        "Property": "ZT",
+        "Value": 1.18,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2019.06.033"
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "Material": "FeVSb based",
+  "DOIs_Researched": [
+    "10.1039/c4ee03042g"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "FeVSb based",
+        "Property": "ThermCond",
+        "Value": 10.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ee03042g"
+      },
+      {
+        "Original_Name_In_Paper": "FeVSb based",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ee03042g"
+      },
+      {
+        "Original_Name_In_Paper": "FeVSb based",
+        "Property": "PF",
+        "Value": 0.0045000000000000005,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ee03042g"
+      }
+    ]
+  }
+}

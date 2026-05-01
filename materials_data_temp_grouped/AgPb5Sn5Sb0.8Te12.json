@@ -1,0 +1,36 @@
+{
+  "Material": "AgPb5Sn5Sb0.8Te12",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2016.03.018"
+  ],
+  "Data_By_Temperature": {
+    "660.0": [
+      {
+        "Original_Name_In_Paper": "Ag0.9Pb5Sn5Sb0.8Te12",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2016.03.018"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ag0.9Pb5Sn5Sb0.8Te12",
+        "Property": "Seebeck",
+        "Value": 0.00023,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2016.03.018"
+      },
+      {
+        "Original_Name_In_Paper": "Ag0.9Pb5Sn5Sb0.8Te12",
+        "Property": "Conductivity",
+        "Value": 100000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2016.03.018"
+      }
+    ]
+  }
+}

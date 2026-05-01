@@ -1,0 +1,26 @@
+{
+  "Material": "PbSnTe : Te",
+  "DOIs_Researched": [
+    "10.1007/s11664-010-1435-6"
+  ],
+  "Data_By_Temperature": {
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "Pb0.5Sn0.5Te : Te",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-010-1435-6"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.5Sn0.5Te : Te",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-010-1435-6"
+      }
+    ]
+  }
+}

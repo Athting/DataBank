@@ -1,0 +1,18 @@
+{
+  "Material": "BaSrYbCo4Sb12",
+  "DOIs_Researched": [
+    "10.1016/j.matlet.2019.126960"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Ba0.05Sr0.025Yb0.1Co4Sb12",
+        "Property": "ZT",
+        "Value": 1.44,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2019.126960"
+      }
+    ]
+  }
+}

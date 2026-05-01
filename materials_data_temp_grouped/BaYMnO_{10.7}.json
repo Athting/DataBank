@@ -1,0 +1,18 @@
+{
+  "Material": "BaYMnO_{10.7}",
+  "DOIs_Researched": [
+    "10.1039/c2jm15845k"
+  ],
+  "Data_By_Temperature": {
+    "303.0": [
+      {
+        "Original_Name_In_Paper": "Ba4YMn3O10.7 material",
+        "Property": "Conductivity",
+        "Value": 0.9345794393,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2jm15845k"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "Material": "Ba2Co9O14",
+  "DOIs_Researched": [
+    "10.1016/j.jeurceramsoc.2017.01.034"
+  ],
+  "Data_By_Temperature": {
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "Ba2Co9O14",
+        "Property": "ThermCond",
+        "Value": 3.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2017.01.034"
+      }
+    ],
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "Ba2Co9O14",
+        "Property": "ZT",
+        "Value": 0.04,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2017.01.034"
+      }
+    ]
+  }
+}

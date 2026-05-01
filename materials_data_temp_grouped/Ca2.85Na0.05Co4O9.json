@@ -1,0 +1,26 @@
+{
+  "Material": "Ca2.85Na0.05Co4O9",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2012.02.112"
+  ],
+  "Data_By_Temperature": {
+    "1054.0": [
+      {
+        "Original_Name_In_Paper": "Ca2.85Na0.05Co4O9",
+        "Property": "Seebeck",
+        "Value": 0.000274,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": "doping by Na",
+        "Source_DOI": "10.1016/j.jallcom.2012.02.112"
+      },
+      {
+        "Original_Name_In_Paper": "Ca2.85Na0.05Co4O9",
+        "Property": "Conductivity",
+        "Value": 3360.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": "doping by Na",
+        "Source_DOI": "10.1016/j.jallcom.2012.02.112"
+      }
+    ]
+  }
+}

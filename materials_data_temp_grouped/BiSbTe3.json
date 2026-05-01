@@ -1,0 +1,122 @@
+{
+  "Material": "BiSbTe3",
+  "DOIs_Researched": [
+    "10.1016/j.apsusc.2016.12.010",
+    "10.1016/j.jmat.2016.08.002",
+    "10.1016/j.jallcom.2010.06.195",
+    "10.1039/c3ce40780b",
+    "10.1039/c5ra24236c",
+    "10.1039/c4ra05322b",
+    "10.1039/c1nr11366f"
+  ],
+  "Data_By_Temperature": {
+    "432.0": [
+      {
+        "Original_Name_In_Paper": "BiSbTe3 bulk",
+        "Property": "ThermCond",
+        "Value": 0.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ce40780b"
+      },
+      {
+        "Original_Name_In_Paper": "BiSbTe3",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ce40780b"
+      },
+      {
+        "Original_Name_In_Paper": "BiSbTe3",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ce40780b"
+      },
+      {
+        "Original_Name_In_Paper": "BiSbTe3",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ce40780b"
+      }
+    ],
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "p-type nano-grained bulk bismuth antimony telluride",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c1nr11366f"
+      },
+      {
+        "Original_Name_In_Paper": "bulk nanograined bismuth antimony telluride",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.06.195"
+      },
+      {
+        "Original_Name_In_Paper": "nanostructured bismuth antimony telluride bulk",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra24236c"
+      }
+    ],
+    "443.0": [
+      {
+        "Original_Name_In_Paper": "BiSbTe3 bulks",
+        "Property": "ZT",
+        "Value": 1.47,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2016.08.002"
+      }
+    ],
+    "440.0": [
+      {
+        "Original_Name_In_Paper": "p-type (BiSb)2Te3",
+        "Property": "ZT",
+        "Value": 1.47,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra05322b"
+      }
+    ],
+    "320.0": [
+      {
+        "Original_Name_In_Paper": "BiSbTe3",
+        "Property": "Conductivity",
+        "Value": 185185.1851851852,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ce40780b"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "BiSbTe3",
+        "Property": "Seebeck",
+        "Value": 0.00017099999999999998,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2016.12.010"
+      },
+      {
+        "Original_Name_In_Paper": "BiSbTe3",
+        "Property": "Seebeck",
+        "Value": 0.00017099999999999998,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2016.12.010"
+      }
+    ]
+  }
+}

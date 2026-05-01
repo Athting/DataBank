@@ -1,0 +1,18 @@
+{
+  "Material": "LaB6O11",
+  "DOIs_Researched": [
+    "10.1038/nmat3756"
+  ],
+  "Data_By_Temperature": {
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "p-type La\u2013BAS",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/nmat3756"
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "Material": "SSR",
+  "DOIs_Researched": [
+    "10.1016/j.scriptamat.2014.09.009",
+    "10.1007/s11664-017-5582-x",
+    "10.1016/j.jallcom.2017.11.104",
+    "10.1039/c0jm00138d",
+    "10.1039/b309804d",
+    "10.1016/j.ceramint.2019.06.104",
+    "10.1016/j.jallcom.2013.11.116",
+    "10.1016/j.solidstatesciences.2007.12.031",
+    "10.1016/j.ceramint.2015.07.183",
+    "10.1038/npjcompumats.2016.23",
+    "10.1007/s10853-008-2561-x",
+    "10.1039/c5tc01536g"
+  ],
+  "Data_By_Temperature": {
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "SSR",
+        "Property": "ThermCond",
+        "Value": 2.8200000000000003,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2019.06.104"
+      },
+      {
+        "Original_Name_In_Paper": "SSR",
+        "Property": "ThermCond",
+        "Value": 2.87,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2019.06.104"
+      },
+      {
+        "Original_Name_In_Paper": "SSR",
+        "Property": "Conductivity",
+        "Value": 63690.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2015.07.183"
+      },
+      {
+        "Original_Name_In_Paper": "SSR",
+        "Property": "Conductivity",
+        "Value": 63690.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2015.07.183"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "SSR",
+        "Property": "ThermCond",
+        "Value": 0.7000000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c0jm00138d"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "SSR",
+        "Property": "ThermCond",
+        "Value": 3.6,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/npjcompumats.2016.23"
+      }
+    ],
+    "315.0": [
+      {
+        "Original_Name_In_Paper": "SSR",
+        "Property": "ThermCond",
+        "Value": 0.84,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.11.104"
+      }
+    ],
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "SSR",
+        "Property": "ZT",
+        "Value": 0.51,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-017-5582-x"
+      },
+      {
+        "Original_Name_In_Paper": "SSR",
+        "Property": "PF",
+        "Value": 0.00051,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-017-5582-x"
+      }
+    ],
+    "675.0": [
+      {
+        "Original_Name_In_Paper": "SSR",
+        "Property": "ZT",
+        "Value": 0.09,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.11.104"
+      }
+    ],
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "SSR",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2014.09.009"
+      },
+      {
+        "Original_Name_In_Paper": "SSR",
+        "Property": "PF",
+        "Value": 0.005180000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2014.09.009"
+      },
+      {
+        "Original_Name_In_Paper": "SSR",
+        "Property": "PF",
+        "Value": 0.0013200000000000002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.11.116"
+      }
+    ],
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "SSR",
+        "Property": "ZT",
+        "Value": 0.45,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01536g"
+      },
+      {
+        "Original_Name_In_Paper": "SSR",
+        "Property": "ZT",
+        "Value": 0.5700000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01536g"
+      }
+    ],
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "SSR",
+        "Property": "ZT",
+        "Value": 0.29,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-008-2561-x"
+      },
+      {
+        "Original_Name_In_Paper": "SSR",
+        "Property": "PF",
+        "Value": 0.0004,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-008-2561-x"
+      },
+      {
+        "Original_Name_In_Paper": "SSR",
+        "Property": "PF",
+        "Value": 0.00033000000000000005,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-008-2561-x"
+      }
+    ],
+    "30.0": [
+      {
+        "Original_Name_In_Paper": "SSR",
+        "Property": "Conductivity",
+        "Value": 0.1671681712,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2007.12.031"
+      }
+    ],
+    "775.0": [
+      {
+        "Original_Name_In_Paper": "SSR",
+        "Property": "PF",
+        "Value": 0.000174,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.11.104"
+      },
+      {
+        "Original_Name_In_Paper": "SSR",
+        "Property": "Conductivity",
+        "Value": 1000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.11.104"
+      }
+    ],
+    "1060.0": [
+      {
+        "Original_Name_In_Paper": "SSR",
+        "Property": "Conductivity",
+        "Value": 4600.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/b309804d"
+      }
+    ],
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "SSR",
+        "Property": "Conductivity",
+        "Value": 50250.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2015.07.183"
+      }
+    ]
+  }
+}

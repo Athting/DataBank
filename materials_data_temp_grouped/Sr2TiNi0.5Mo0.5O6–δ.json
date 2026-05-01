@@ -1,0 +1,27 @@
+{
+  "Material": "Sr2TiNi0.5Mo0.5O6\u2013\u03b4",
+  "DOIs_Researched": [
+    "10.1016/j.ijhydene.2019.06.023",
+    "10.1016/j.ijhydene.2017.12.134"
+  ],
+  "Data_By_Temperature": {
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "Sr2TiNi0.5Mo0.5O6\u2013\u03b4",
+        "Property": "Conductivity",
+        "Value": 1750.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ijhydene.2019.06.023"
+      },
+      {
+        "Original_Name_In_Paper": "Sr2TiNi0.5Mo0.5O6\u2013\u03b4",
+        "Property": "Conductivity",
+        "Value": 1750.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ijhydene.2017.12.134"
+      }
+    ]
+  }
+}

@@ -1,0 +1,722 @@
+{
+  "Material": "MgSi",
+  "DOIs_Researched": [
+    "10.1557/PROC-1166-N03-21",
+    "10.1016/j.intermet.2011.06.013",
+    "10.1557/PROC-1166-N03-17",
+    "10.1016/j.ceramint.2016.03.161",
+    "10.1016/j.jallcom.2013.11.092",
+    "10.1039/c5ta03751d",
+    "10.1557/opl.2012.1732",
+    "10.1016/j.jallcom.2007.11.029",
+    "10.1016/j.mtla.2019.100375",
+    "10.1016/j.scriptamat.2016.06.001",
+    "10.1016/j.scriptamat.2018.11.052",
+    "10.1039/c7ta10415d",
+    "10.1039/c9ra04800f",
+    "10.1016/j.jallcom.2018.12.103",
+    "10.1016/j.jallcom.2018.01.260",
+    "10.1016/j.jma.2019.06.001",
+    "10.1039/c4cp03468f",
+    "10.1016/j.jallcom.2007.09.101",
+    "10.1016/j.jallcom.2016.08.095",
+    "10.1007/s12648-016-0876-z",
+    "10.1016/j.mser.2018.09.001",
+    "10.1016/j.intermet.2012.08.026",
+    "10.1007/s10853-018-2185-8",
+    "10.1016/j.pnsc.2016.11.003",
+    "10.1007/s12540-020-00609-9",
+    "10.1557/jmr.2011.385",
+    "10.1016/j.ceramint.2017.06.002",
+    "10.1016/j.enconman.2017.02.070",
+    "10.1016/j.scriptamat.2016.10.010",
+    "10.1016/j.apsusc.2016.06.041",
+    "10.1186/s11671-017-2120-y",
+    "10.1016/j.jallcom.2015.04.190",
+    "10.1007/s11837-016-2060-5",
+    "10.1007/s12648-017-1028-9",
+    "10.1039/c5ra12225b",
+    "10.1016/j.elspec.2015.11.002",
+    "10.1039/c5tc90161h",
+    "10.1016/j.jssc.2013.03.014",
+    "10.1016/j.jallcom.2015.07.291",
+    "10.1016/j.tsf.2004.02.072",
+    "10.1016/j.intermet.2007.02.009",
+    "10.1016/j.jssc.2014.12.014",
+    "10.1016/j.matchemphys.2015.03.017",
+    "10.1557/adv.2016.374",
+    "10.1016/j.jallcom.2011.05.033",
+    "10.1039/c2jm16694a",
+    "10.1007/s11837-013-0609-0",
+    "10.1016/j.jallcom.2017.04.267",
+    "10.1134/S1063782619130098",
+    "10.1016/j.actamat.2015.04.059",
+    "10.1016/j.physb.2005.04.017",
+    "10.1016/j.matchemphys.2019.122407",
+    "10.1016/j.jallcom.2014.11.073"
+  ],
+  "Data_By_Temperature": {
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "bulk Mg2Si",
+        "Property": "ThermCond",
+        "Value": 5.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2014.12.014"
+      },
+      {
+        "Original_Name_In_Paper": "Y-doped Mg2Si",
+        "Property": "ZT",
+        "Value": 0.23,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2011.05.033"
+      },
+      {
+        "Original_Name_In_Paper": "0.5 wt % Sb-doped Mg2Si",
+        "Property": "Seebeck",
+        "Value": -0.00068,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2007.02.009"
+      },
+      {
+        "Original_Name_In_Paper": "Bi-doped Mg2Si",
+        "Property": "PF",
+        "Value": 0.003,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-018-2185-8"
+      }
+    ],
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "n-type Mg2Si doped with Al",
+        "Property": "ThermCond",
+        "Value": 2.01,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2019.122407"
+      },
+      {
+        "Original_Name_In_Paper": "n-type Mg2Si doped with Al",
+        "Property": "ZT",
+        "Value": 0.03,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2019.122407"
+      },
+      {
+        "Original_Name_In_Paper": "undoped Mg2Si",
+        "Property": "Seebeck",
+        "Value": 0.00035000000000000005,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2019.122407"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si doped with Al",
+        "Property": "Conductivity",
+        "Value": 10010.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2019.122407"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Bi doped Mg2Si",
+        "Property": "ThermCond",
+        "Value": 3.9,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.04.190"
+      },
+      {
+        "Original_Name_In_Paper": "tin doped magnesium silicide",
+        "Property": "ZT",
+        "Value": 1.55,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2016.03.161"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si1-xSnx-based",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1557/jmr.2011.385"
+      },
+      {
+        "Original_Name_In_Paper": "Bi-doped Mg2Si",
+        "Property": "ZT",
+        "Value": 1.82,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ta10415d"
+      },
+      {
+        "Original_Name_In_Paper": "Bi doped Mg2Si",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": "Ge substitution",
+        "Source_DOI": "10.1016/j.jallcom.2015.04.190"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si1\u2212xSnx based",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ra04800f"
+      },
+      {
+        "Original_Name_In_Paper": "doped Mg2Si1",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2016.10.010"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "magnesium silicide",
+        "Property": "ThermCond",
+        "Value": 7.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.04.190"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si / Si nanocomposites",
+        "Property": "ThermCond",
+        "Value": 6.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra12225b"
+      },
+      {
+        "Original_Name_In_Paper": "undoped Mg2Si",
+        "Property": "ThermCond",
+        "Value": 11.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.04.267"
+      },
+      {
+        "Original_Name_In_Paper": "undoped Mg2Si",
+        "Property": "ThermCond",
+        "Value": 11.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jma.2019.06.001"
+      },
+      {
+        "Original_Name_In_Paper": "Bi-doped Mg2Si",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.08.095"
+      },
+      {
+        "Original_Name_In_Paper": "magnesium silicide",
+        "Property": "ZT",
+        "Value": 1.988,
+        "Units": null,
+        "Editing": "In addition",
+        "Source_DOI": "10.1016/j.intermet.2011.06.013"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si compound with PbCl2-type",
+        "Property": "ZT",
+        "Value": 0.003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s12648-016-0876-z"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si-coated CNTs",
+        "Property": "Seebeck",
+        "Value": -30000000.0,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1186/s11671-017-2120-y"
+      },
+      {
+        "Original_Name_In_Paper": "Bi doped Mg2Si",
+        "Property": "Conductivity",
+        "Value": 300.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra12225b"
+      },
+      {
+        "Original_Name_In_Paper": "undoped Mg2Si",
+        "Property": "Conductivity",
+        "Value": 300.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11837-016-2060-5"
+      },
+      {
+        "Original_Name_In_Paper": "undoped Mg2Si",
+        "Property": "Conductivity",
+        "Value": 1400.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2jm16694a"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si-coated CNTs",
+        "Property": "Conductivity",
+        "Value": 0.98,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1186/s11671-017-2120-y"
+      }
+    ],
+    "862.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Si material",
+        "Property": "ZT",
+        "Value": 0.86,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pnsc.2016.11.003"
+      },
+      {
+        "Original_Name_In_Paper": "Bi-doped Mg2Si",
+        "Property": "ZT",
+        "Value": 0.86,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2005.04.017"
+      }
+    ],
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Al and Bi co-doped Mg2Si",
+        "Property": "ZT",
+        "Value": 1.02,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2017.06.002"
+      },
+      {
+        "Original_Name_In_Paper": "doped Mg2Si",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s12540-020-00609-9"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si-based material",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s12540-020-00609-9"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si nano-powder",
+        "Property": "ZT",
+        "Value": 0.67,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1557/opl.2012.1732"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si powder",
+        "Property": "ZT",
+        "Value": 1.15,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1557/adv.2016.374"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si-based",
+        "Property": "ZT",
+        "Value": 1.88,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2018.11.052"
+      }
+    ],
+    "840.0": [
+      {
+        "Original_Name_In_Paper": "Ag-doped Mg2Si single crystals",
+        "Property": "ZT",
+        "Value": 0.65,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.08.095"
+      }
+    ],
+    "770.0": [
+      {
+        "Original_Name_In_Paper": "p-type Mg2Si-based materials",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11837-013-0609-0"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Mg2Si based materials",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2013.03.014"
+      }
+    ],
+    "883.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Si compounds",
+        "Property": "ZT",
+        "Value": 0.98,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-018-2185-8"
+      }
+    ],
+    "740.0": [
+      {
+        "Original_Name_In_Paper": "magnesium silicide",
+        "Property": "ZT",
+        "Value": 0.9500000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc90161h"
+      }
+    ],
+    "856.0": [
+      {
+        "Original_Name_In_Paper": "Al-doped Mg2Si",
+        "Property": "ZT",
+        "Value": 0.5700000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2005.04.017"
+      },
+      {
+        "Original_Name_In_Paper": "Al-doped Mg2Si",
+        "Property": "ZT",
+        "Value": 0.5700000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2005.04.017"
+      },
+      {
+        "Original_Name_In_Paper": "Al-doped Mg2Si",
+        "Property": "ZT",
+        "Value": 0.5700000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2007.11.029"
+      }
+    ],
+    "810.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Si-based materials",
+        "Property": "ZT",
+        "Value": 0.81,
+        "Units": null,
+        "Editing": "addition of TiO2",
+        "Source_DOI": "10.1016/j.intermet.2012.08.026"
+      }
+    ],
+    "864.0": [
+      {
+        "Original_Name_In_Paper": "Sb doped Mg2Si",
+        "Property": "ZT",
+        "Value": 0.72,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1557/PROC-1166-N03-21"
+      }
+    ],
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "% Al-doped Mg2Si",
+        "Property": "ZT",
+        "Value": 0.77,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1557/PROC-1166-N03-17"
+      }
+    ],
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "p-type magnesium silicide-based materials",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4cp03468f"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Mg2Si1\u2212xSnx alloys",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4cp03468f"
+      },
+      {
+        "Original_Name_In_Paper": "Magnesium Silicide",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.enconman.2017.02.070"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Sn doped Mg2Si",
+        "Property": "ZT",
+        "Value": 1.11,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s12648-017-1028-9"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si-based compounds",
+        "Property": "ZT",
+        "Value": 1.22,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.elspec.2015.11.002"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si with Sn",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": "doping Mg2Si with Sn",
+        "Source_DOI": "10.1016/j.jallcom.2014.11.073"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si : Bi",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mser.2018.09.001"
+      }
+    ],
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "Sn doped Mg2Si",
+        "Property": "ZT",
+        "Value": 0.25,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s12648-017-1028-9"
+      },
+      {
+        "Original_Name_In_Paper": "undoped Mg2Si",
+        "Property": "PF",
+        "Value": 0.0014,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.01.260"
+      }
+    ],
+    "610.0": [
+      {
+        "Original_Name_In_Paper": "Ge doped Mg2Si",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s12648-017-1028-9"
+      }
+    ],
+    "660.0": [
+      {
+        "Original_Name_In_Paper": "Mg1.99Ca0.01Si",
+        "Property": "ZT",
+        "Value": 0.34,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2007.09.101"
+      }
+    ],
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "n-type Mg2Si",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.07.291"
+      }
+    ],
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "B-doped Mg2Si",
+        "Property": "ZT",
+        "Value": 0.68,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2016.06.001"
+      },
+      {
+        "Original_Name_In_Paper": "B-doped Mg2Si",
+        "Property": "ZT",
+        "Value": 0.68,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2016.06.001"
+      }
+    ],
+    "775.0": [
+      {
+        "Original_Name_In_Paper": "Bi-doped Mg2Si",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.11.073"
+      }
+    ],
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "magnesium silicide",
+        "Property": "ZT",
+        "Value": 1.99,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1134/S1063782619130098"
+      }
+    ],
+    "844.0": [
+      {
+        "Original_Name_In_Paper": "Al-doped Mg2Si",
+        "Property": "ZT",
+        "Value": 0.58,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.11.092"
+      },
+      {
+        "Original_Name_In_Paper": "n-type Al-doped Mg2Si material",
+        "Property": "ZT",
+        "Value": 0.58,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.11.092"
+      }
+    ],
+    "783.0": [
+      {
+        "Original_Name_In_Paper": "Mg / Si",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2015.04.059"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Si : Bi",
+        "Property": "Conductivity",
+        "Value": 60975.6097560976,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pnsc.2016.11.003"
+      },
+      {
+        "Original_Name_In_Paper": "undoped Mg2Si",
+        "Property": "PF",
+        "Value": 0.0018000000000000002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2015.03.017"
+      },
+      {
+        "Original_Name_In_Paper": "doped Mg2Si",
+        "Property": "Conductivity",
+        "Value": 250000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta03751d"
+      }
+    ],
+    "350.0": [
+      {
+        "Original_Name_In_Paper": "bulk Mg2Si",
+        "Property": "Seebeck",
+        "Value": 0.001098,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2014.12.014"
+      }
+    ],
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "Mg / Si",
+        "Property": "Seebeck",
+        "Value": -0.00047000000000000004,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2004.02.072"
+      }
+    ],
+    "560.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Si film",
+        "Property": "PF",
+        "Value": 0.00012000000000000002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtla.2019.100375"
+      }
+    ],
+    "623.0": [
+      {
+        "Original_Name_In_Paper": "doped Mg2Si",
+        "Property": "PF",
+        "Value": 0.003,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.12.103"
+      }
+    ],
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "Al-doped Mg2Si thin film with 1.56 at. % Al",
+        "Property": "PF",
+        "Value": 0.0038,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2016.06.041"
+      },
+      {
+        "Original_Name_In_Paper": "undoped Mg2Si thin film",
+        "Property": "PF",
+        "Value": 0.0028,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2016.06.041"
+      },
+      {
+        "Original_Name_In_Paper": "Al-doped Mg2Si thin film with 1.56 at. % Al",
+        "Property": "PF",
+        "Value": 0.0038,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2016.06.041"
+      }
+    ]
+  }
+}

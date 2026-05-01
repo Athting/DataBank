@@ -1,0 +1,27 @@
+{
+  "Material": "Yb14Mn1-xAlxSb11",
+  "DOIs_Researched": [
+    "10.1016/j.mtphys.2017.06.003",
+    "10.1016/j.jssc.2018.11.030"
+  ],
+  "Data_By_Temperature": {
+    "1223.0": [
+      {
+        "Original_Name_In_Paper": "Yb14Mn1-xAlxSb11",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2017.06.003"
+      },
+      {
+        "Original_Name_In_Paper": "Yb14Mn1-xAlxSb11",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2018.11.030"
+      }
+    ]
+  }
+}

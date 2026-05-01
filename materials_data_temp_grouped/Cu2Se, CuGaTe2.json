@@ -1,0 +1,18 @@
+{
+  "Material": "Cu2Se, CuGaTe2",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2016.07.060"
+  ],
+  "Data_By_Temperature": {
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "Cu2Se-incorporated CuGaTe2",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2016.07.060"
+      }
+    ]
+  }
+}

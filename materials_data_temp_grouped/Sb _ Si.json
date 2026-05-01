@@ -1,0 +1,18 @@
+{
+  "Material": "Sb / Si",
+  "DOIs_Researched": [
+    "10.1039/c6ra11367b"
+  ],
+  "Data_By_Temperature": {
+    "870.0": [
+      {
+        "Original_Name_In_Paper": "Sb / Si",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra11367b"
+      }
+    ]
+  }
+}

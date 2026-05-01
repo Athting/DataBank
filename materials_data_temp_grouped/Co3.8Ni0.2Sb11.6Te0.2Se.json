@@ -1,0 +1,44 @@
+{
+  "Material": "Co3.8Ni0.2Sb11.6Te0.2Se",
+  "DOIs_Researched": [
+    "10.1016/j.physb.2013.05.026"
+  ],
+  "Data_By_Temperature": {
+    "775.0": [
+      {
+        "Original_Name_In_Paper": "Co3.8Ni0.2Sb11.6Te0.2Se0.2",
+        "Property": "ThermCond",
+        "Value": 1.85,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2013.05.026"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Co3.8Ni0.2Sb11.6Te0.2Se0.2",
+        "Property": "ZT",
+        "Value": 0.8300000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2013.05.026"
+      },
+      {
+        "Original_Name_In_Paper": "Co3.8Ni0.2Sb11.6Te0.2Se0.2",
+        "Property": "ZT",
+        "Value": 0.8300000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2013.05.026"
+      },
+      {
+        "Original_Name_In_Paper": "Co3.8Ni0.2Sb11.6Te0.2Se0.2",
+        "Property": "ZT",
+        "Value": 0.8300000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2013.05.026"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Ti:Cu3Sb0.93Ti0.07Se4",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2018.04.035"
+  ],
+  "Data_By_Temperature": {
+    "623.0": [
+      {
+        "Original_Name_In_Paper": "Ti-doped Cu3Sb0.93Ti0.07Se4",
+        "Property": "ThermCond",
+        "Value": 0.38,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2018.04.035"
+      }
+    ]
+  }
+}

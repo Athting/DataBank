@@ -1,0 +1,18 @@
+{
+  "Material": "transition metal compounds",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2003.07.008"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "transition metal compounds",
+        "Property": "Conductivity",
+        "Value": 1470588.2352941176,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2003.07.008"
+      }
+    ]
+  }
+}

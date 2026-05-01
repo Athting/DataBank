@@ -1,0 +1,18 @@
+{
+  "Material": "Zn0.8Mg0.2Al0.02O",
+  "DOIs_Researched": [
+    "10.1039/c3ra44223c"
+  ],
+  "Data_By_Temperature": {
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "(Zn0.8Mg0.2)0.98Al0.02O",
+        "Property": "PF",
+        "Value": 0.00032,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ra44223c"
+      }
+    ]
+  }
+}

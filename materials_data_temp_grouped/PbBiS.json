@@ -1,0 +1,63 @@
+{
+  "Material": "PbBiS",
+  "DOIs_Researched": [
+    "10.1016/j.jeurceramsoc.2018.03.046",
+    "10.1039/c6dt04177a"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Pb0.98Bi0.02S",
+        "Property": "ThermCond",
+        "Value": 2.01,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2018.03.046"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.975Bi0.025S",
+        "Property": "Conductivity",
+        "Value": 68200.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6dt04177a"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.975Bi0.025S",
+        "Property": "Conductivity",
+        "Value": 68200.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2018.03.046"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Pb0.99Bi0.01S",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6dt04177a"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.995Bi0.005S",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6dt04177a"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Pb0.995Bi0.005S",
+        "Property": "PF",
+        "Value": 0.000883,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6dt04177a"
+      }
+    ]
+  }
+}

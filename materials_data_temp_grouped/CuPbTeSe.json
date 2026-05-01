@@ -1,0 +1,18 @@
+{
+  "Material": "CuPbTeSe",
+  "DOIs_Researched": [
+    "10.1016/j.chempr.2020.01.002"
+  ],
+  "Data_By_Temperature": {
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "Cu0.0045PbTe0.75Se0.25",
+        "Property": "ZT",
+        "Value": 1.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.chempr.2020.01.002"
+      }
+    ]
+  }
+}

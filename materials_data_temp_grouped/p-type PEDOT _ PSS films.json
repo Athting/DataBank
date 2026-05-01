@@ -1,0 +1,18 @@
+{
+  "Material": "p-type PEDOT : PSS films",
+  "DOIs_Researched": [
+    "10.1039/c9ta13152c"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "p-type PEDOT : PSS films",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta13152c"
+      }
+    ]
+  }
+}

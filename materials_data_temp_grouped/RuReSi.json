@@ -1,0 +1,18 @@
+{
+  "Material": "RuReSi",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2009.07.005"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "Ru0.40Re0.60Si1.663 alloy",
+        "Property": "ZT",
+        "Value": 0.56,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2009.07.005"
+      }
+    ]
+  }
+}

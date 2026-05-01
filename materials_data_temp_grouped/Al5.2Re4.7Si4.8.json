@@ -1,0 +1,18 @@
+{
+  "Material": "Al5.2Re4.7Si4.8",
+  "DOIs_Researched": [
+    "10.1039/c5tc01608h"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "Al5.2Re4.7Si4.8",
+        "Property": "ZT",
+        "Value": 0.19,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01608h"
+      }
+    ]
+  }
+}

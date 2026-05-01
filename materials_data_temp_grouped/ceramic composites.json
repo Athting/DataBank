@@ -1,0 +1,18 @@
+{
+  "Material": "ceramic composites",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2016.04.056"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "ceramic composites",
+        "Property": "Seebeck",
+        "Value": 1.2e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2016.04.056"
+      }
+    ]
+  }
+}

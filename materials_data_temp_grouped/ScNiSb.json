@@ -1,0 +1,108 @@
+{
+  "Material": "ScNiSb",
+  "DOIs_Researched": [
+    "10.1016/j.matchemphys.2019.01.056",
+    "10.1016/j.jallcom.2019.152596",
+    "10.1016/j.jallcom.2005.04.012"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "ScNiSb",
+        "Property": "ThermCond",
+        "Value": 6.3,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.152596"
+      },
+      {
+        "Original_Name_In_Paper": "ScNiSb",
+        "Property": "ThermCond",
+        "Value": 6.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2019.01.056"
+      },
+      {
+        "Original_Name_In_Paper": "ScNiSb",
+        "Property": "Seebeck",
+        "Value": 6.52e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2019.01.056"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "ScNiSb",
+        "Property": "ZT",
+        "Value": 0.003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2019.01.056"
+      },
+      {
+        "Original_Name_In_Paper": "ScNi0.86Sb",
+        "Property": "Seebeck",
+        "Value": 4.2e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2005.04.012"
+      },
+      {
+        "Original_Name_In_Paper": "ScNiSb",
+        "Property": "PF",
+        "Value": 0.0014,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.152596"
+      }
+    ],
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "ScNiSb",
+        "Property": "ZT",
+        "Value": 0.24,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.152596"
+      },
+      {
+        "Original_Name_In_Paper": "ScNiSb",
+        "Property": "ZT",
+        "Value": 0.24,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.152596"
+      },
+      {
+        "Original_Name_In_Paper": "ScNiSb",
+        "Property": "ZT",
+        "Value": 0.24,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.152596"
+      }
+    ],
+    "523.0": [
+      {
+        "Original_Name_In_Paper": "ScNiSb",
+        "Property": "Seebeck",
+        "Value": 0.00016,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.152596"
+      }
+    ],
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "ScNiSb",
+        "Property": "PF",
+        "Value": 0.0014,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.152596"
+      }
+    ]
+  }
+}

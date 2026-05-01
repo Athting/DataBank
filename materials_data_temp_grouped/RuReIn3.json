@@ -1,0 +1,18 @@
+{
+  "Material": "RuReIn3",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2014.04.009"
+  ],
+  "Data_By_Temperature": {
+    "785.0": [
+      {
+        "Original_Name_In_Paper": "Ru0.95Re0.05In3",
+        "Property": "ZT",
+        "Value": 0.15,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2014.04.009"
+      }
+    ]
+  }
+}

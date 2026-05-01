@@ -1,0 +1,54 @@
+{
+  "doi": "10.1016/j.jmat.2018.12.004",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Sr0.93Bi0.07TiO3-δ"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Sr0.93Bi0.07TiO3-δ",
+          "zt_value": 0.13,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Sr0.93Bi0.07TiO3-δ",
+          "zt_value": 0.13,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Sr0.93Bi0.07TiO3-δ",
+          "zt_value": 0.13,
+          "temperature": "1000.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

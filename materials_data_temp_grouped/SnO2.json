@@ -1,0 +1,129 @@
+{
+  "Material": "SnO2",
+  "DOIs_Researched": [
+    "10.1007/s12043-016-1237-3",
+    "10.1016/j.scriptamat.2012.10.046",
+    "10.1016/j.matdes.2016.04.092",
+    "10.1016/j.physb.2010.06.067",
+    "10.1016/j.matpr.2015.05.090",
+    "10.1016/j.solmat.2007.04.031",
+    "10.1016/j.joule.2019.03.001",
+    "10.1016/j.joule.2019.01.001",
+    "10.1007/s10854-013-1430-9",
+    "10.1016/j.vacuum.2020.109308",
+    "10.1016/j.apsusc.2016.10.209",
+    "10.1016/S0040-6090(98)01485-0"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "SnO2",
+        "Property": "ThermCond",
+        "Value": 30.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2016.10.209"
+      },
+      {
+        "Original_Name_In_Paper": "tetragonal SnO2",
+        "Property": "ThermCond",
+        "Value": 55.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2019.01.001"
+      },
+      {
+        "Original_Name_In_Paper": "SnO2",
+        "Property": "ThermCond",
+        "Value": 55.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2019.03.001"
+      },
+      {
+        "Original_Name_In_Paper": "SnO2 thin films",
+        "Property": "Conductivity",
+        "Value": 1000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matpr.2015.05.090"
+      },
+      {
+        "Original_Name_In_Paper": "SnO2 nanoparticles",
+        "Property": "Seebeck",
+        "Value": -0.00029,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matdes.2016.04.092"
+      }
+    ],
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "SnO2 : F films",
+        "Property": "Conductivity",
+        "Value": 100000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solmat.2007.04.031"
+      }
+    ],
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "Non doped SnO2 films",
+        "Property": "Conductivity",
+        "Value": 35714.2857142857,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0040-6090(98)01485-0"
+      }
+    ],
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "SnO2 based",
+        "Property": "Conductivity",
+        "Value": 2958.5798816568,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2012.10.046"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "SnO2",
+        "Property": "Conductivity",
+        "Value": 0.9433962264,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.vacuum.2020.109308"
+      }
+    ],
+    "450.0": [
+      {
+        "Original_Name_In_Paper": "undoped SnO2 thin film",
+        "Property": "Seebeck",
+        "Value": 0.00023,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s12043-016-1237-3"
+      },
+      {
+        "Original_Name_In_Paper": "SnO2 : Co films",
+        "Property": "Seebeck",
+        "Value": 0.00046199999999999995,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2010.06.067"
+      }
+    ],
+    "1023.0": [
+      {
+        "Original_Name_In_Paper": "10.0 mol % SnO2",
+        "Property": "PF",
+        "Value": 7.77e-06,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-013-1430-9"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "SnReSeCl",
+  "DOIs_Researched": [
+    "10.1007/s10853-020-04949-0"
+  ],
+  "Data_By_Temperature": {
+    "798.0": [
+      {
+        "Original_Name_In_Paper": "n-type Sn0.97Re0.03Se0.93Cl0.02",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      }
+    ]
+  }
+}

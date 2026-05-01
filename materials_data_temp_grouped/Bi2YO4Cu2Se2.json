@@ -1,0 +1,34 @@
+{
+  "Material": "Bi2YO4Cu2Se2",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2016.03.032"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Bi2YO4Cu2Se2",
+        "Property": "ThermCond",
+        "Value": 1.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2016.03.032"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2YO4Cu2Se2",
+        "Property": "Seebeck",
+        "Value": 2e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2016.03.032"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2YO4Cu2Se2",
+        "Property": "Conductivity",
+        "Value": 85000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2016.03.032"
+      }
+    ]
+  }
+}

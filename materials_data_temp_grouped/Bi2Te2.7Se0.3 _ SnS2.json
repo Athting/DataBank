@@ -1,0 +1,18 @@
+{
+  "Material": "Bi2Te2.7Se0.3 / SnS2",
+  "DOIs_Researched": [
+    "10.1039/c8ta00525g"
+  ],
+  "Data_By_Temperature": {
+    "450.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Te2.7Se0.3 / SnS2 nanocomposites",
+        "Property": "ZT",
+        "Value": 0.93,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta00525g"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "yttrium-substituted In2O3(ZnO)5",
+  "DOIs_Researched": [
+    "10.1016/j.jeurceramsoc.2020.07.021"
+  ],
+  "Data_By_Temperature": {
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "yttrium-substituted In2O3(ZnO)5",
+        "Property": "ZT",
+        "Value": 0.33,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2020.07.021"
+      }
+    ]
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "doi": "10.1039/c8ta03805h",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "FeVSb",
+        "FeVSb alloy",
+        "pure FeVSb",
+        "crystalline bulk FeVSb",
+        "(FeVSb)0.94Ti0.06 film",
+        "non-doped FeVSb film",
+        "amorphous FeVSb",
+        "FeVSb bulk alloys",
+        "FeVSb compound",
+        "p-type Ti-doped FeVSb alloys"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "FeVSb",
+          "value": 0.00011,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "FeVSb alloy",
+          "value": 0.00011,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "FeVSb",
+          "value": -0.000165,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "non-doped FeVSb film",
+          "value": -0.000049,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "FeVSb",
+          "value": 0.000126,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "956.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "pure FeVSb",
+          "value": 7500000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "non-doped FeVSb film",
+          "value": 197690,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "FeVSb bulk alloys",
+          "value": 95000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "FeVSb",
+          "value": 10,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "FeVSb",
+          "value": 10.46,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "FeVSb",
+          "value": 10,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "FeVSb",
+          "value": 10.46,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "FeVSb",
+          "value": 4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "FeVSb",
+          "value": 1.18,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "FeVSb",
+          "value": 1.18,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "crystalline bulk FeVSb",
+          "value": 2.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "(FeVSb)0.94Ti0.06 film",
+          "value": 0.93,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "non-doped FeVSb film",
+          "value": 1.18,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "FeVSb",
+          "zt_value": 0.09,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "amorphous FeVSb",
+          "zt_value": 2,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "non-doped FeVSb film",
+          "zt_value": 0.09,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "FeVSb compound",
+          "zt_value": 0.31,
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "pure FeVSb",
+          "zt_value": 0.25,
+          "temperature": "550.0 K"
+        },
+        {
+          "material": "pure FeVSb",
+          "zt_value": 0.25,
+          "temperature": "550.0 K"
+        },
+        {
+          "material": "pure FeVSb",
+          "zt_value": 0.25,
+          "temperature": "550.0 K"
+        },
+        {
+          "material": "p-type Ti-doped FeVSb alloys",
+          "zt_value": 0.43,
+          "temperature": "773.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

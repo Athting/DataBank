@@ -1,0 +1,18 @@
+{
+  "Material": "(Hf0.25Zr0.75)NiSn0.9",
+  "DOIs_Researched": [
+    "10.1016/j.mattod.2020.01.002"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "(Hf0.25Zr0.75)NiSn0.99Sb0.01",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": "Nb alloying",
+        "Source_DOI": "10.1016/j.mattod.2020.01.002"
+      }
+    ]
+  }
+}

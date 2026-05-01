@@ -1,0 +1,18 @@
+{
+  "Material": "Bi2Te3, MnTe2",
+  "DOIs_Researched": [
+    "10.1039/c3ce40643a"
+  ],
+  "Data_By_Temperature": {
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "nanostructured Bi2Te3 / MnTe2 composite",
+        "Property": "ZT",
+        "Value": 0.24,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ce40643a"
+      }
+    ]
+  }
+}

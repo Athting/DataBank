@@ -1,0 +1,51 @@
+{
+  "Material": "Ge0.9Sb0.1Te1.03",
+  "DOIs_Researched": [
+    "10.1007/s10853-020-04949-0",
+    "10.1016/j.jallcom.2018.09.144"
+  ],
+  "Data_By_Temperature": {
+    "760.0": [
+      {
+        "Original_Name_In_Paper": "Ge0.9Sb0.1Te1.03",
+        "Property": "ZT",
+        "Value": 1.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.09.144"
+      },
+      {
+        "Original_Name_In_Paper": "Ge0.9Sb0.1Te1.03",
+        "Property": "ZT",
+        "Value": 1.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.09.144"
+      },
+      {
+        "Original_Name_In_Paper": "Ge0.9Sb0.1Te1.03",
+        "Property": "ZT",
+        "Value": 1.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.09.144"
+      },
+      {
+        "Original_Name_In_Paper": "Ge0.9Sb0.1Te1.03",
+        "Property": "ZT",
+        "Value": 1.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.09.144"
+      },
+      {
+        "Original_Name_In_Paper": "Ge0.9Sb0.1Te1.03",
+        "Property": "ZT",
+        "Value": 1.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      }
+    ]
+  }
+}

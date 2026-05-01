@@ -1,0 +1,27 @@
+{
+  "Material": "Bi2Te3, CaSiO3",
+  "DOIs_Researched": [
+    "10.1007/s10853-020-04949-0",
+    "10.1016/j.jallcom.2018.07.324"
+  ],
+  "Data_By_Temperature": {
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Te3-CaSiO3 composite",
+        "Property": "ZT",
+        "Value": 0.72,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.07.324"
+      },
+      {
+        "Original_Name_In_Paper": "85 wt % Bi2Te3 / CaSiO3 composite",
+        "Property": "ZT",
+        "Value": 0.72,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      }
+    ]
+  }
+}

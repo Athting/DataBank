@@ -1,0 +1,44 @@
+{
+  "Material": "graphite-PEDOT : PSS",
+  "DOIs_Researched": [
+    "10.1007/s10854-016-6250-2"
+  ],
+  "Data_By_Temperature": {
+    "298.0": [
+      {
+        "Original_Name_In_Paper": "graphite-PEDOT : PSS",
+        "Property": "Seebeck",
+        "Value": 2.211e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-016-6250-2"
+      },
+      {
+        "Original_Name_In_Paper": "graphite-PEDOT : PSS",
+        "Property": "Seebeck",
+        "Value": 1.628e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-016-6250-2"
+      }
+    ],
+    "398.0": [
+      {
+        "Original_Name_In_Paper": "graphite-PEDOT : PSS",
+        "Property": "PF",
+        "Value": 2.5000000000000002e-08,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-016-6250-2"
+      },
+      {
+        "Original_Name_In_Paper": "graphite-PEDOT : PSS",
+        "Property": "PF",
+        "Value": 2.5000000000000002e-08,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-016-6250-2"
+      }
+    ]
+  }
+}

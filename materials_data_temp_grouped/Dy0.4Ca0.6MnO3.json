@@ -1,0 +1,18 @@
+{
+  "Material": "Dy0.4Ca0.6MnO3",
+  "DOIs_Researched": [
+    "10.1016/S1293-2558(03)00146-8"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Dy0.4Ca0.60MnO3",
+        "Property": "Conductivity",
+        "Value": 3400.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S1293-2558(03)00146-8"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Ru2Ge3",
+  "DOIs_Researched": [
+    "10.1006/jssc.2002.9611"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ru2Ge3",
+        "Property": "ZT",
+        "Value": 0.0032,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1006/jssc.2002.9611"
+      }
+    ]
+  }
+}

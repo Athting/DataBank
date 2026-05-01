@@ -1,0 +1,86 @@
+{
+  "Material": "PbS \\* 0.98: NaS \\* 0.02",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2019.153453"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Pb0.98Na0.02S\u20132 % Cu2S",
+        "Property": "ThermCond",
+        "Value": 2.7,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.153453"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.98Na0.02S-2.5 % Cu2S",
+        "Property": "Conductivity",
+        "Value": 185000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.153453"
+      }
+    ],
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "Pb0.98Na0.02S\u20132 % Cu2S",
+        "Property": "ThermCond",
+        "Value": 0.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.153453"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.98Na0.02S\u20132.5 % Cu2S",
+        "Property": "ThermCond",
+        "Value": 0.11,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.153453"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.98Na0.02S-1.5 % Cu2S",
+        "Property": "ThermCond",
+        "Value": 0.7000000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.153453"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.98Na0.02S\u20132 % Cu2S",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.153453"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.98Na0.02S\u20132 % Cu2S",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.153453"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.98Na0.02S\u20132 % Cu2S",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.153453"
+      }
+    ],
+    "310.0": [
+      {
+        "Original_Name_In_Paper": "Pb0.98Na0.02S\u20132 % Cu2S",
+        "Property": "PF",
+        "Value": 0.0005239999999999999,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.153453"
+      }
+    ]
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "Material": "BST",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2015.10.160",
+    "10.1016/j.nanoen.2012.07.004",
+    "10.1016/j.jallcom.2017.01.340",
+    "10.1016/j.intermet.2017.10.015",
+    "10.1007/s11664-016-4962-y",
+    "10.1016/j.scriptamat.2018.05.026",
+    "10.1016/j.jallcom.2018.10.408",
+    "10.1016/j.jallcom.2019.01.084",
+    "10.1039/c8cp06534a",
+    "10.1016/j.jallcom.2018.05.035",
+    "10.1007/s13391-018-0021-6",
+    "10.1016/j.nanoen.2018.10.069",
+    "10.1016/j.joule.2017.11.011",
+    "10.1016/j.actamat.2018.07.067",
+    "10.1016/j.jmat.2020.02.010",
+    "10.1016/j.jallcom.2017.10.016",
+    "10.1016/j.apsusc.2014.10.038"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "BST",
+        "Property": "ThermCond",
+        "Value": 1.76,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2018.07.067"
+      },
+      {
+        "Original_Name_In_Paper": "BST",
+        "Property": "ZT",
+        "Value": 1.45,
+        "Units": null,
+        "Editing": "incorporation of 0.2 wt % CuInTe2",
+        "Source_DOI": "10.1016/j.jallcom.2018.05.035"
+      },
+      {
+        "Original_Name_In_Paper": "BST",
+        "Property": "ZT",
+        "Value": 0.01,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2020.02.010"
+      },
+      {
+        "Original_Name_In_Paper": "BST",
+        "Property": "Seebeck",
+        "Value": 0.000258,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2018.10.069"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "BST",
+        "Property": "ThermCond",
+        "Value": 1.51,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2014.10.038"
+      },
+      {
+        "Original_Name_In_Paper": "BST",
+        "Property": "ThermCond",
+        "Value": 0.30000000000000004,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.10.408"
+      },
+      {
+        "Original_Name_In_Paper": "BST",
+        "Property": "ThermCond",
+        "Value": 0.54,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.10.408"
+      },
+      {
+        "Original_Name_In_Paper": "BST",
+        "Property": "ZT",
+        "Value": 1.38,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.01.340"
+      },
+      {
+        "Original_Name_In_Paper": "BST",
+        "Property": "ZT",
+        "Value": 1.38,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.01.340"
+      },
+      {
+        "Original_Name_In_Paper": "BST",
+        "Property": "ZT",
+        "Value": 0.98,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.10.408"
+      },
+      {
+        "Original_Name_In_Paper": "BST",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2017.10.015"
+      },
+      {
+        "Original_Name_In_Paper": "BST",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2017.10.015"
+      },
+      {
+        "Original_Name_In_Paper": "BST",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8cp06534a"
+      },
+      {
+        "Original_Name_In_Paper": "BST",
+        "Property": "Seebeck",
+        "Value": 0.00029499999999999996,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.01.340"
+      },
+      {
+        "Original_Name_In_Paper": "BST",
+        "Property": "Seebeck",
+        "Value": 0.000194,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.01.340"
+      },
+      {
+        "Original_Name_In_Paper": "BST",
+        "Property": "PF",
+        "Value": 0.0046700000000000005,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2017.11.011"
+      },
+      {
+        "Original_Name_In_Paper": "BST",
+        "Property": "PF",
+        "Value": 0.0048000000000000004,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2014.10.038"
+      }
+    ],
+    "350.0": [
+      {
+        "Original_Name_In_Paper": "BST",
+        "Property": "ThermCond",
+        "Value": 0.73,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.10.408"
+      },
+      {
+        "Original_Name_In_Paper": "BST",
+        "Property": "Seebeck",
+        "Value": 0.00023799999999999998,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.10.408"
+      },
+      {
+        "Original_Name_In_Paper": "BST",
+        "Property": "Seebeck",
+        "Value": 0.00019899999999999999,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.10.408"
+      }
+    ],
+    "320.0": [
+      {
+        "Original_Name_In_Paper": "BST",
+        "Property": "ZT",
+        "Value": 1.8599999999999999,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.10.016"
+      }
+    ],
+    "444.0": [
+      {
+        "Original_Name_In_Paper": "BST",
+        "Property": "ZT",
+        "Value": 1.1400000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2012.07.004"
+      }
+    ],
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "BST",
+        "Property": "ZT",
+        "Value": 0.78,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2018.10.069"
+      }
+    ],
+    "298.0": [
+      {
+        "Original_Name_In_Paper": "BST",
+        "Property": "ZT",
+        "Value": 0.9400000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2018.07.067"
+      }
+    ],
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "BST",
+        "Property": "ZT",
+        "Value": 1.34,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2018.07.067"
+      }
+    ],
+    "375.0": [
+      {
+        "Original_Name_In_Paper": "BST",
+        "Property": "ZT",
+        "Value": 1.17,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-016-4962-y"
+      }
+    ],
+    "575.0": [
+      {
+        "Original_Name_In_Paper": "BST",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.10.160"
+      }
+    ],
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "BST",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s13391-018-0021-6"
+      }
+    ],
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "BST",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2018.05.026"
+      }
+    ],
+    "325.0": [
+      {
+        "Original_Name_In_Paper": "BST",
+        "Property": "ZT",
+        "Value": 1.45,
+        "Units": null,
+        "Editing": "addition of 0.2 wt % SiC",
+        "Source_DOI": "10.1016/j.jallcom.2019.01.084"
+      }
+    ]
+  }
+}

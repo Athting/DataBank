@@ -1,0 +1,18 @@
+{
+  "Material": "B4.30C",
+  "DOIs_Researched": [
+    "10.1016/j.solidstatesciences.2015.04.007"
+  ],
+  "Data_By_Temperature": {
+    "1473.0": [
+      {
+        "Original_Name_In_Paper": "B4.30C",
+        "Property": "ZT",
+        "Value": 0.032,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2015.04.007"
+      }
+    ]
+  }
+}

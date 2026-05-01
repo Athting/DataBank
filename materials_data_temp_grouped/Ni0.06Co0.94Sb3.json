@@ -1,0 +1,18 @@
+{
+  "Material": "Ni0.06Co0.94Sb3",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2019.04.324"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Ni0.06Co0.94Sb3",
+        "Property": "PF",
+        "Value": 0.0035,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.04.324"
+      }
+    ]
+  }
+}

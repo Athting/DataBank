@@ -1,0 +1,29 @@
+{
+  "Material": "HfO2",
+  "DOIs_Researched": [
+    "10.1039/c2ra21003g",
+    "10.1016/j.ceramint.2018.07.266"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "HfO2",
+        "Property": "ThermCond",
+        "Value": 11.43,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2ra21003g"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "HfO2",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.07.266"
+      }
+    ]
+  }
+}

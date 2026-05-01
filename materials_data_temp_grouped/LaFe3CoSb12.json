@@ -1,0 +1,87 @@
+{
+  "Material": "LaFe3CoSb12",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2016.11.404",
+    "10.1016/j.matchemphys.2009.08.018",
+    "10.1039/c0jm01969k",
+    "10.1038/srep07806",
+    "10.1039/b107468g",
+    "10.1038/35098012"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "LaFe3CoSb12",
+        "Property": "ThermCond",
+        "Value": 0.9,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/srep07806"
+      },
+      {
+        "Original_Name_In_Paper": "LaFe3CoSb12",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/srep07806"
+      }
+    ],
+    "1003.0": [
+      {
+        "Original_Name_In_Paper": "LaFe3CoSb12",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/b107468g"
+      }
+    ],
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "LaFe3CoSb12",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.11.404"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "LaFe3CoSb12",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c0jm01969k"
+      },
+      {
+        "Original_Name_In_Paper": "LaFe3CoSb12",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/35098012"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "La0.75Fe3CoSb12",
+        "Property": "ZT",
+        "Value": 0.003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2009.08.018"
+      },
+      {
+        "Original_Name_In_Paper": "La0.75Fe3CoSb12",
+        "Property": "ZT",
+        "Value": 0.003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2009.08.018"
+      }
+    ]
+  }
+}

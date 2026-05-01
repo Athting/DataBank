@@ -1,0 +1,18 @@
+{
+  "Material": "wt % NaBH4 / DMSO treated PEDOT",
+  "DOIs_Researched": [
+    "10.1016/j.orgel.2014.12.007"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "wt % NaBH4 / DMSO treated PEDOT",
+        "Property": "ZT",
+        "Value": 0.04,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.orgel.2014.12.007"
+      }
+    ]
+  }
+}

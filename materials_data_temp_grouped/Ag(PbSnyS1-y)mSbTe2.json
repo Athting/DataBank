@@ -1,0 +1,18 @@
+{
+  "Material": "Ag(PbSnyS1-y)mSbTe2",
+  "DOIs_Researched": [
+    "10.1016/B978-0-12-803581-8.12112-5"
+  ],
+  "Data_By_Temperature": {
+    "630.0": [
+      {
+        "Original_Name_In_Paper": "Ag(Pb1\u2212ySny)mSbTe2+m",
+        "Property": "ZT",
+        "Value": 1.45,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-12-803581-8.12112-5"
+      }
+    ]
+  }
+}

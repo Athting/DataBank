@@ -1,0 +1,18 @@
+{
+  "Material": "La0.7Ca0.3CrO3",
+  "DOIs_Researched": [
+    "10.1016/B978-0-444-59550-8.00010-7"
+  ],
+  "Data_By_Temperature": {
+    "1123.0": [
+      {
+        "Original_Name_In_Paper": "La0.7Ca0.3CrO3",
+        "Property": "Conductivity",
+        "Value": 6200.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-444-59550-8.00010-7"
+      }
+    ]
+  }
+}

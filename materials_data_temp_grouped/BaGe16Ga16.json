@@ -1,0 +1,18 @@
+{
+  "Material": "BaGe16Ga16",
+  "DOIs_Researched": [
+    "10.1016/j.physb.2016.01.017"
+  ],
+  "Data_By_Temperature": {
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "Ba8Ge30Ga16 single crystal",
+        "Property": "ZT",
+        "Value": 1.35,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2016.01.017"
+      }
+    ]
+  }
+}

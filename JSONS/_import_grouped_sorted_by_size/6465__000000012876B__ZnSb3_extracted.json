@@ -1,0 +1,484 @@
+{
+  "doi": "10.1016/j.jeurceramsoc.2019.06.033",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Zn4Sb3 thin films",
+        "β-Zn4Sb3",
+        "β-Zn4Sb3–Zn",
+        "undoped β-Zn4Sb3",
+        "un-doped β-Zn4Sb3",
+        "pure β-Zn4Sb3",
+        "undoped Zn4Sb3",
+        "Zn4 Sb3 compound",
+        "β-Zn4Sb3 compound",
+        "β-Zn4Sb3 nano-wires",
+        "β-Zn4Sb3 with 5 vol. % of Cu3SbSe4",
+        "β-Zn4Sb3-based materials",
+        "Zn4Sb3 compound",
+        "Zn4Sb3 material doped with Ag",
+        "In-doped Zn4Sb3 compounds",
+        "Zn4Sb3 compounds",
+        "Zn4Sb3 film"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "β-Zn4Sb3",
+          "value": 0.00011499999999999999,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "β-Zn4Sb3",
+          "value": 0.0001108,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "β-Zn4Sb3",
+          "value": 0.00011499999999999999,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "β-Zn4Sb3",
+          "value": 0.00016,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "β-Zn4Sb3",
+          "value": 0.0001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "β-Zn4Sb3",
+          "value": 0.000117,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "β-Zn4Sb3",
+          "value": 0.000041,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "β-Zn4Sb3",
+          "value": 0.00011499999999999999,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "β-Zn4Sb3",
+          "value": 0.000041,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "β-Zn4Sb3",
+          "value": 0.000117,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "β-Zn4Sb3",
+          "value": 0.000188,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "β-Zn4Sb3",
+          "value": 0.000188,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "β-Zn4Sb3",
+          "value": 0.00036,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "β-Zn4Sb3",
+          "value": 0.00012749999999999998,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "430.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "β-Zn4Sb3",
+          "value": 45454.5454545454,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "β-Zn4Sb3",
+          "value": 0.2,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "β-Zn4Sb3",
+          "value": 36363.6363636364,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "β-Zn4Sb3",
+          "value": 36363.6363636364,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "β-Zn4Sb3",
+          "value": 14727.5405007364,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "573.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Zn4Sb3 thin films",
+          "value": 0.56,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "β-Zn4Sb3",
+          "value": 0.65,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "β-Zn4Sb3",
+          "value": 0.65,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "β-Zn4Sb3",
+          "value": 0.65,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "β-Zn4Sb3",
+          "value": 1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "β-Zn4Sb3",
+          "value": 1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "β-Zn4Sb3–Zn",
+          "value": 116,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "undoped β-Zn4Sb3",
+          "value": 1.1400000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "β-Zn4Sb3",
+          "value": 0.74,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "un-doped β-Zn4Sb3",
+          "value": 1.3,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure β-Zn4Sb3",
+          "value": 1.3,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "β-Zn4Sb3",
+          "value": 0.14,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "β-Zn4Sb3",
+          "value": 0.65,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "β-Zn4Sb3",
+          "value": 0.65,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "β-Zn4Sb3",
+          "value": 0.65,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "β-Zn4Sb3",
+          "value": 0.65,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "β-Zn4Sb3",
+          "value": 1.05,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "β-Zn4Sb3",
+          "value": 0.7000000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "670.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "β-Zn4Sb3",
+          "value": 0.0012900000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "β-Zn4Sb3",
+          "value": 1.06,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "680.0 K"
+        },
+        {
+          "material": "β-Zn4Sb3",
+          "value": 1.06,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "680.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "undoped Zn4Sb3",
+          "zt_value": 0.14,
+          "temperature": "295 K"
+        },
+        {
+          "material": "β-Zn4Sb3",
+          "zt_value": 1.21,
+          "temperature": "295 K"
+        },
+        {
+          "material": "β-Zn4Sb3",
+          "zt_value": 1.3,
+          "temperature": "295 K"
+        },
+        {
+          "material": "undoped Zn4Sb3",
+          "zt_value": 0.30000000000000004,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "β-Zn4Sb3",
+          "zt_value": 1.3,
+          "temperature": "670.0 K"
+        },
+        {
+          "material": "β-Zn4Sb3",
+          "zt_value": 1.3,
+          "temperature": "670.0 K"
+        },
+        {
+          "material": "β-Zn4Sb3",
+          "zt_value": 1.3,
+          "temperature": "670.0 K"
+        },
+        {
+          "material": "Zn4 Sb3 compound",
+          "zt_value": 1.3,
+          "temperature": "670.0 K"
+        },
+        {
+          "material": "β-Zn4Sb3",
+          "zt_value": 1.3,
+          "temperature": "670.0 K"
+        },
+        {
+          "material": "undoped Zn4Sb3",
+          "zt_value": 0.65,
+          "temperature": "675.0 K"
+        },
+        {
+          "material": "β-Zn4Sb3 compound",
+          "zt_value": 1.3,
+          "temperature": "675.0 K"
+        },
+        {
+          "material": "β-Zn4Sb3 nano-wires",
+          "zt_value": 1.5899999999999999,
+          "temperature": "675.0 K"
+        },
+        {
+          "material": "β-Zn4Sb3",
+          "zt_value": 1.3,
+          "temperature": "675.0 K"
+        },
+        {
+          "material": "β-Zn4Sb3",
+          "zt_value": 1.23,
+          "temperature": "648.0 K"
+        },
+        {
+          "material": "β-Zn4Sb3",
+          "zt_value": 0.75,
+          "temperature": "648.0 K"
+        },
+        {
+          "material": "β-Zn4Sb3",
+          "zt_value": 1.23,
+          "temperature": "648.0 K"
+        },
+        {
+          "material": "β-Zn4Sb3 with 5 vol. % of Cu3SbSe4",
+          "zt_value": 1.37,
+          "temperature": "648.0 K"
+        },
+        {
+          "material": "β-Zn4Sb3",
+          "zt_value": 1.3,
+          "temperature": "450.0 K"
+        },
+        {
+          "material": "β-Zn4Sb3",
+          "zt_value": 1.3,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "β-Zn4Sb3-based materials",
+          "zt_value": 1.3,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "β-Zn4Sb3",
+          "zt_value": 1.2,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "β-Zn4Sb3",
+          "zt_value": 1.3,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "Zn4Sb3 compound",
+          "zt_value": 1.3,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "β-Zn4Sb3",
+          "zt_value": 1.3,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "β-Zn4Sb3",
+          "zt_value": 1.3,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "undoped Zn4Sb3",
+          "zt_value": 0.8,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "Zn4Sb3 material doped with Ag",
+          "zt_value": 1.2,
+          "temperature": "575.0 K"
+        },
+        {
+          "material": "undoped Zn4Sb3",
+          "zt_value": 0.93,
+          "temperature": "575.0 K"
+        },
+        {
+          "material": "β-Zn4Sb3",
+          "zt_value": 0.7000000000000001,
+          "temperature": "654.0 K"
+        },
+        {
+          "material": "β-Zn4Sb3",
+          "zt_value": 1.3,
+          "temperature": "473.0 K"
+        },
+        {
+          "material": "In-doped Zn4Sb3 compounds",
+          "zt_value": 1.4100000000000001,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "β-Zn4Sb3 compound",
+          "zt_value": 1.16,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "Zn4Sb3 compounds",
+          "zt_value": 1.1,
+          "temperature": "615.0 K"
+        },
+        {
+          "material": "β-Zn4Sb3",
+          "zt_value": 1,
+          "temperature": "623.0 K"
+        },
+        {
+          "material": "pure β-Zn4Sb3",
+          "zt_value": 1,
+          "temperature": "623.0 K"
+        },
+        {
+          "material": "Zn4Sb3 film",
+          "zt_value": 1.2,
+          "temperature": "460.0 K"
+        },
+        {
+          "material": "Zn4Sb3 film",
+          "zt_value": 1.2,
+          "temperature": "460.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

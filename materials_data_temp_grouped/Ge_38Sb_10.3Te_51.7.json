@@ -1,0 +1,26 @@
+{
+  "Material": "Ge_38Sb_10.3Te_51.7",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2019.05.119"
+  ],
+  "Data_By_Temperature": {
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "Ge38Sb10.3Te51.7",
+        "Property": "ZT",
+        "Value": 0.55,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2019.05.119"
+      },
+      {
+        "Original_Name_In_Paper": "Ge38Sb10.3Te51.7",
+        "Property": "ZT",
+        "Value": 0.55,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2019.05.119"
+      }
+    ]
+  }
+}

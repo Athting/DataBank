@@ -1,0 +1,18 @@
+{
+  "Material": "Sr0.95Sm0.0125Dy0.0125",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2020.105195"
+  ],
+  "Data_By_Temperature": {
+    "820.0": [
+      {
+        "Original_Name_In_Paper": "polycrystalline Sr0.95Sm0.0125Dy0.0125Ti0.90Nb0.10O3",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.105195"
+      }
+    ]
+  }
+}

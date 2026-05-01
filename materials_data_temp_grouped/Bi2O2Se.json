@@ -1,0 +1,357 @@
+{
+  "Material": "Bi2O2Se",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2019.104394",
+    "10.1016/j.mattod.2019.07.003",
+    "10.1016/j.matchemphys.2009.08.067",
+    "10.1007/s10832-014-9969-2",
+    "10.1007/s10853-020-04949-0",
+    "10.1039/c9tc02188d",
+    "10.1016/j.ensm.2019.03.021",
+    "10.1016/j.commatsci.2016.04.007",
+    "10.1039/c9ra07828b",
+    "10.1016/j.jmat.2016.04.002",
+    "10.1039/c9cp03394g",
+    "10.1039/c9cp01867k",
+    "10.1016/j.scriptamat.2019.12.003",
+    "10.1007/s10832-016-0038-x",
+    "10.1039/c9cp02204j",
+    "10.1016/j.jeurceramsoc.2020.07.047",
+    "10.1039/d0ta00240b",
+    "10.1016/j.jssc.2015.02.026",
+    "10.1039/c9ra02584g",
+    "10.1016/j.jcrysgro.2018.07.004"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Bi2O2Se monolayer",
+        "Property": "ThermCond",
+        "Value": 0.74,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ra07828b"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2O2Se nanosheet",
+        "Property": "ThermCond",
+        "Value": 0.66,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mattod.2019.07.003"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2O2Se",
+        "Property": "ZT",
+        "Value": 0.007,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2016.04.002"
+      },
+      {
+        "Original_Name_In_Paper": "p-type doped bilayer Bi2O2Se",
+        "Property": "ZT",
+        "Value": 1.8599999999999999,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc02188d"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Bi2O2Se",
+        "Property": "ThermCond",
+        "Value": 0.7000000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9cp01867k"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2O2Se",
+        "Property": "ThermCond",
+        "Value": 0.7000000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10832-014-9969-2"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2O2Se",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ra02584g"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2O2Se",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc02188d"
+      },
+      {
+        "Original_Name_In_Paper": "p-type doped Bi2O2Se",
+        "Property": "ZT",
+        "Value": 1.42,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc02188d"
+      },
+      {
+        "Original_Name_In_Paper": "doped monolayer Bi2O2Se",
+        "Property": "ZT",
+        "Value": 0.9500000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc02188d"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2O2Se",
+        "Property": "ZT",
+        "Value": 0.13,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2016.04.007"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2O2Se",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2009.08.067"
+      },
+      {
+        "Original_Name_In_Paper": "bulk Bi2O2Se",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9cp01867k"
+      },
+      {
+        "Original_Name_In_Paper": "polycrystaline Bi2O2Se",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": "substitution of Bi",
+        "Source_DOI": "10.1016/j.jcrysgro.2018.07.004"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2O2Se",
+        "Property": "ZT",
+        "Value": 0.19,
+        "Units": null,
+        "Editing": "Ag addition",
+        "Source_DOI": "10.1007/s10832-016-0038-x"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "nanosized Bi2O2Se",
+        "Property": "ThermCond",
+        "Value": 0.5700000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": "point defects",
+        "Source_DOI": "10.1016/j.nanoen.2019.104394"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2O2Se",
+        "Property": "ThermCond",
+        "Value": 0.5700000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2019.104394"
+      },
+      {
+        "Original_Name_In_Paper": "Sn-doped Bi2O2Se",
+        "Property": "ThermCond",
+        "Value": 0.63,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10832-014-9969-2"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2O2Se",
+        "Property": "ZT",
+        "Value": 0.36,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta00240b"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2O2Se",
+        "Property": "ZT",
+        "Value": 0.36,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta00240b"
+      },
+      {
+        "Original_Name_In_Paper": "undoped Bi2O2Se",
+        "Property": "Conductivity",
+        "Value": 13500.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2019.104394"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Bi2O2Se",
+        "Property": "ThermCond",
+        "Value": 1.1,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2015.02.026"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2O2Se monolayer",
+        "Property": "ThermCond",
+        "Value": 0.8300000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9cp02204j"
+      },
+      {
+        "Original_Name_In_Paper": "bulk Bi2O2Se",
+        "Property": "ThermCond",
+        "Value": 1.1400000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9cp02204j"
+      },
+      {
+        "Original_Name_In_Paper": "bulk Bi2O2Se",
+        "Property": "ThermCond",
+        "Value": 1.1,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc02188d"
+      },
+      {
+        "Original_Name_In_Paper": "bilayer Bi2O2Se",
+        "Property": "ThermCond",
+        "Value": 0.55,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc02188d"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2O2Se",
+        "Property": "ThermCond",
+        "Value": 1.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9cp03394g"
+      },
+      {
+        "Original_Name_In_Paper": "bulk Bi2O2Se",
+        "Property": "ThermCond",
+        "Value": 1.1,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ensm.2019.03.021"
+      },
+      {
+        "Original_Name_In_Paper": "bulk Bi2O2Se",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ensm.2019.03.021"
+      },
+      {
+        "Original_Name_In_Paper": "bulk Bi2O2Se",
+        "Property": "PF",
+        "Value": 0.0009500000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9cp02204j"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2O2Se monolayer",
+        "Property": "PF",
+        "Value": 0.00371,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9cp02204j"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2O2-xSe1+x",
+        "Property": "Conductivity",
+        "Value": 54700.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2019.12.003"
+      }
+    ],
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "Bi2O2Se",
+        "Property": "ZT",
+        "Value": 0.07,
+        "Units": null,
+        "Editing": "introduction of Ag",
+        "Source_DOI": "10.1039/c9tc02188d"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2O2Se",
+        "Property": "ZT",
+        "Value": 0.07200000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      }
+    ],
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "La-doped Bi2O2Se",
+        "Property": "ZT",
+        "Value": 0.35000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc02188d"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2O2Se",
+        "Property": "ZT",
+        "Value": 0.12,
+        "Units": null,
+        "Editing": "introducing Bi",
+        "Source_DOI": "10.1007/s10832-016-0038-x"
+      }
+    ],
+    "665.0": [
+      {
+        "Original_Name_In_Paper": "Bi2O2Se",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2015.02.026"
+      }
+    ],
+    "523.0": [
+      {
+        "Original_Name_In_Paper": "pure Bi2O2Se",
+        "Property": "Seebeck",
+        "Value": -0.000542,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10832-014-9969-2"
+      }
+    ],
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "pristine Bi2O2Se",
+        "Property": "Conductivity",
+        "Value": 13.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2020.07.047"
+      }
+    ]
+  }
+}

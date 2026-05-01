@@ -1,0 +1,36 @@
+{
+  "Material": "Bi0.94Pb0.06Cu0.99Fe0.",
+  "DOIs_Researched": [
+    "10.1039/c8ta03521k"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.94Pb0.06Cu0.99Fe0.01SeO",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta03521k"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.94Pb0.06Cu0.99Fe0.01SeO",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta03521k"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Bi0.94Pb0.06Cu0.99Fe0.01SeO",
+        "Property": "PF",
+        "Value": 0.0009000000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta03521k"
+      }
+    ]
+  }
+}

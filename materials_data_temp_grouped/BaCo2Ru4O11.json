@@ -1,0 +1,42 @@
+{
+  "Material": "BaCo2Ru4O11",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2010.10.153"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "BaCo2Ru4O11",
+        "Property": "PF",
+        "Value": 2e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.10.153"
+      },
+      {
+        "Original_Name_In_Paper": "BaCo2Ru4O11",
+        "Property": "PF",
+        "Value": 2e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.10.153"
+      },
+      {
+        "Original_Name_In_Paper": "BaCo2Ru4O11",
+        "Property": "PF",
+        "Value": 2e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.10.153"
+      },
+      {
+        "Original_Name_In_Paper": "BaCo2Ru4O11 compound",
+        "Property": "PF",
+        "Value": 2e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.10.153"
+      }
+    ]
+  }
+}

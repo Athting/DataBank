@@ -1,0 +1,96 @@
+{
+  "doi": "10.1016/j.jallcom.2019.153453",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Pb0.98Na0.02S–2 % Cu2S",
+        "Pb0.98Na0.02S-2.5 % Cu2S",
+        "Pb0.98Na0.02S–2.5 % Cu2S",
+        "Pb0.98Na0.02S-1.5 % Cu2S"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "Pb0.98Na0.02S-2.5 % Cu2S",
+          "value": 185000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Pb0.98Na0.02S–2 % Cu2S",
+          "value": 2.7,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Pb0.98Na0.02S–2 % Cu2S",
+          "value": 0.8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "Pb0.98Na0.02S–2.5 % Cu2S",
+          "value": 0.11,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "Pb0.98Na0.02S-1.5 % Cu2S",
+          "value": 0.7000000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "823.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Pb0.98Na0.02S–2 % Cu2S",
+          "value": 0.0005239999999999999,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "310.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Pb0.98Na0.02S–2 % Cu2S",
+          "zt_value": 1.2,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "Pb0.98Na0.02S–2 % Cu2S",
+          "zt_value": 1.2,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "Pb0.98Na0.02S–2 % Cu2S",
+          "zt_value": 1.2,
+          "temperature": "823.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

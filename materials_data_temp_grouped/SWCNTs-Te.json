@@ -1,0 +1,18 @@
+{
+  "Material": "SWCNTs-Te",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2017.06.253"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "SWCNTs-Te",
+        "Property": "PF",
+        "Value": 3.3999999999999996e-06,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.06.253"
+      }
+    ]
+  }
+}

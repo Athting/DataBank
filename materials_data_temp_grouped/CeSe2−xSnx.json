@@ -1,0 +1,18 @@
+{
+  "Material": "CeSe2\u2212xSnx",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2014.08.130"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "CeSe2\u2212xSnx",
+        "Property": "ThermCond",
+        "Value": 0.13,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.08.130"
+      }
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "doi": "10.1016/j.msea.2005.12.060",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "La0.6FeCo3Sb12",
+        "La0.4FeCo3Sb12",
+        "La0.4FeCo3Sb12 skutterudite",
+        "La0.6Fe0.5Co3.5Sb12"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "La0.6FeCo3Sb12",
+          "value": 1.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "La0.4FeCo3Sb12",
+          "value": 2.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "La0.4FeCo3Sb12 skutterudite",
+          "zt_value": 0.32,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "La0.4FeCo3Sb12 skutterudite",
+          "zt_value": 0.32,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "La0.6Fe0.5Co3.5Sb12",
+          "zt_value": 0.22,
+          "temperature": "773.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

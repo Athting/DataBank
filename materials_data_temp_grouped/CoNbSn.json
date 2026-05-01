@@ -1,0 +1,18 @@
+{
+  "Material": "CoNbSn",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2004.02.017"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "CoNbSn",
+        "Property": "ZT",
+        "Value": 0.085,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2004.02.017"
+      }
+    ]
+  }
+}

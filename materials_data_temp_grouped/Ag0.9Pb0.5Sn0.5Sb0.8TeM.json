@@ -1,0 +1,18 @@
+{
+  "Material": "Ag0.9Pb0.5Sn0.5Sb0.8TeM",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2016.03.018"
+  ],
+  "Data_By_Temperature": {
+    "660.0": [
+      {
+        "Original_Name_In_Paper": "Ag0.9(Pb0.5Sn0.5)mSb0.8Tem+2",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2016.03.018"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "Material": "PbTe1-xSe x",
+  "DOIs_Researched": [
+    "10.1038/nature09996"
+  ],
+  "Data_By_Temperature": {
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "doped PbTe1-xSe x alloys",
+        "Property": "ZT",
+        "Value": 1.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/nature09996"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "PbTe1-xSe x alloys",
+        "Property": "ZT",
+        "Value": 1.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/nature09996"
+      }
+    ]
+  }
+}

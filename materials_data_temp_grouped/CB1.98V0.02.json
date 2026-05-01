@@ -1,0 +1,18 @@
+{
+  "Material": "CB1.98V0.02",
+  "DOIs_Researched": [
+    "10.1016/j.physb.2017.05.007"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "CB1.98V0.02TS",
+        "Property": "ZT",
+        "Value": 0.85,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2017.05.007"
+      }
+    ]
+  }
+}

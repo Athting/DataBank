@@ -1,0 +1,216 @@
+{
+  "Material": "CaCoO_9 + \u03b4",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2014.06.190",
+    "10.1016/j.jeurceramsoc.2013.10.022",
+    "10.1016/j.enconman.2013.07.009",
+    "10.1016/j.jallcom.2009.11.009",
+    "10.1016/S0272-8842(00)00083-3",
+    "10.1007/s10854-013-1488-4",
+    "10.1016/j.ceramint.2017.06.029",
+    "10.1016/j.ceramint.2014.04.076",
+    "10.1016/j.ceramint.2013.11.040",
+    "10.1016/j.jallcom.2003.12.018",
+    "10.1016/j.ssc.2003.11.045",
+    "10.1016/j.cap.2008.03.010",
+    "10.1007/s10853-010-4461-0",
+    "10.1016/j.ssc.2012.06.014",
+    "10.1016/j.jallcom.2013.11.034"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "Ca3Co4O9+\u03b4",
+        "Property": "ZT",
+        "Value": 0.87,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.11.034"
+      },
+      {
+        "Original_Name_In_Paper": "Ca3Co4O9+\u03b4 single crystal",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2012.06.014"
+      },
+      {
+        "Original_Name_In_Paper": "Ca3Co4O9+\u03b4 single crystals",
+        "Property": "ZT",
+        "Value": 0.8300000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.06.190"
+      },
+      {
+        "Original_Name_In_Paper": "Ca3Co4O9+\u03b4",
+        "Property": "Seebeck",
+        "Value": 0.000118,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0272-8842(00)00083-3"
+      },
+      {
+        "Original_Name_In_Paper": "Ca3Co4O9+\u03b4",
+        "Property": "PF",
+        "Value": 0.00012000000000000002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0272-8842(00)00083-3"
+      },
+      {
+        "Original_Name_In_Paper": "Ca3Co4O9+\u03b4",
+        "Property": "Conductivity",
+        "Value": 8340.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0272-8842(00)00083-3"
+      }
+    ],
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "Ca3Co4O9+\u03b4",
+        "Property": "ZT",
+        "Value": 0.8300000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2013.10.022"
+      },
+      {
+        "Original_Name_In_Paper": "Ca3Co4O9+\u03b4",
+        "Property": "ZT",
+        "Value": 0.000198,
+        "Units": null,
+        "Editing": "Ga substitution",
+        "Source_DOI": "10.1016/j.jallcom.2009.11.009"
+      },
+      {
+        "Original_Name_In_Paper": "Ca3Co4O9+\u03b4",
+        "Property": "ZT",
+        "Value": 0.000198,
+        "Units": null,
+        "Editing": "Ga substitution",
+        "Source_DOI": "10.1016/j.jallcom.2009.11.009"
+      }
+    ],
+    "335.0": [
+      {
+        "Original_Name_In_Paper": "Ca3Co4O9+\u03b4",
+        "Property": "ZT",
+        "Value": 0.007,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-010-4461-0"
+      },
+      {
+        "Original_Name_In_Paper": "Ca3Co4O9+\u03b4",
+        "Property": "ZT",
+        "Value": 0.007,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-010-4461-0"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ca3Co4O9+\u03b4",
+        "Property": "ZT",
+        "Value": 0.03,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-013-1488-4"
+      },
+      {
+        "Original_Name_In_Paper": "Ca3Co4O9+\u03b4",
+        "Property": "Seebeck",
+        "Value": 0.00013000000000000002,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.enconman.2013.07.009"
+      },
+      {
+        "Original_Name_In_Paper": "Ca3Co4O9+\u03b4",
+        "Property": "Seebeck",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2014.04.076"
+      },
+      {
+        "Original_Name_In_Paper": "Ca3Co4O9+\u03b4",
+        "Property": "PF",
+        "Value": 0.00018,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2013.11.040"
+      },
+      {
+        "Original_Name_In_Paper": "Ca3Co4O9+\u03b4",
+        "Property": "PF",
+        "Value": 0.00018,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.enconman.2013.07.009"
+      }
+    ],
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Ca3Co4O9+\u03b4",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2008.03.010"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ca3Co4O9+\u03b4",
+        "Property": "Seebeck",
+        "Value": 0.00013199999999999998,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-013-1488-4"
+      }
+    ],
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "Ca3Co4O9+\u03b4",
+        "Property": "Seebeck",
+        "Value": 0.00017,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2003.12.018"
+      },
+      {
+        "Original_Name_In_Paper": "Ca3Co4O9+\u03b4",
+        "Property": "Seebeck",
+        "Value": 0.00017,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2003.11.045"
+      }
+    ],
+    "318.0": [
+      {
+        "Original_Name_In_Paper": "Ca3Co4O9+\u03b4",
+        "Property": "Seebeck",
+        "Value": 0.000127,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2017.06.029"
+      }
+    ],
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "Ca3Co4O9+\u03b4",
+        "Property": "PF",
+        "Value": 0.000283,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-013-1488-4"
+      }
+    ]
+  }
+}

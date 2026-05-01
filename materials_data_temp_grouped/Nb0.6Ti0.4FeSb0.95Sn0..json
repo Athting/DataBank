@@ -1,0 +1,74 @@
+{
+  "Material": "Nb0.6Ti0.4FeSb0.95Sn0.",
+  "DOIs_Researched": [
+    "10.1038/srep33120",
+    "10.1016/j.cocom.2017.10.002",
+    "10.1039/c4ee02180k",
+    "10.1016/j.actamat.2020.07.028",
+    "10.1039/c5ra23091h"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "p-type Nb0.6Ti0.4FeSb0.95Sn0.05",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cocom.2017.10.002"
+      },
+      {
+        "Original_Name_In_Paper": "nanostructured p-type Nb0.6Ti0.4FeSb0.95Sn0.05",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra23091h"
+      },
+      {
+        "Original_Name_In_Paper": "nanostructured p-type Nb0.6Ti0.4FeSb0.95Sn0.05",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ee02180k"
+      },
+      {
+        "Original_Name_In_Paper": "Nb0.6Ti0.4FeSb0.95Sn0.05",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ee02180k"
+      },
+      {
+        "Original_Name_In_Paper": "Nb0.6Ti0.4FeSb0.95Sn0.05",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ee02180k"
+      }
+    ],
+    "975.0": [
+      {
+        "Original_Name_In_Paper": "Nb0.6Ti0.4FeSb0.95Sn0.05",
+        "Property": "ZT",
+        "Value": 0.9500000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2020.07.028"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "nanostructured p-type Nb0.6Ti0.4FeSb0.95Sn0.05",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/srep33120"
+      }
+    ]
+  }
+}

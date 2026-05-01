@@ -1,0 +1,18 @@
+{
+  "Material": "Bi0.42Sb1.5535Ga0.025Ag",
+  "DOIs_Researched": [
+    "10.1007/s11664-014-3446-1"
+  ],
+  "Data_By_Temperature": {
+    "360.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.42Sb1.5535Ga0.025Ag0.0015Te3",
+        "Property": "ZT",
+        "Value": 1.15,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-014-3446-1"
+      }
+    ]
+  }
+}

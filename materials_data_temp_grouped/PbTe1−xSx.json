@@ -1,0 +1,18 @@
+{
+  "Material": "PbTe1\u2212xSx",
+  "DOIs_Researched": [
+    "10.1039/c5tc01623a"
+  ],
+  "Data_By_Temperature": {
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "PbTe1\u2212xSex",
+        "Property": "ZT",
+        "Value": 1.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01623a"
+      }
+    ]
+  }
+}

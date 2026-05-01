@@ -1,0 +1,18 @@
+{
+  "Material": "GeSi alloys",
+  "DOIs_Researched": [
+    "10.1016/S0022-3697(01)00026-9"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "GeSi alloys",
+        "Property": "ThermCond",
+        "Value": 8.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0022-3697(01)00026-9"
+      }
+    ]
+  }
+}

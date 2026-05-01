@@ -1,0 +1,34 @@
+{
+  "Material": "Bi85Sb15\u2212xAgx",
+  "DOIs_Researched": [
+    "10.1016/j.jpcs.2007.02.047"
+  ],
+  "Data_By_Temperature": {
+    "160.0": [
+      {
+        "Original_Name_In_Paper": "Bi85Sb15\u2212xAgx",
+        "Property": "Seebeck",
+        "Value": 0.00012000000000000002,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2007.02.047"
+      },
+      {
+        "Original_Name_In_Paper": "Bi85Sb15\u2212xAgx",
+        "Property": "Seebeck",
+        "Value": 0.00012000000000000002,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2007.02.047"
+      },
+      {
+        "Original_Name_In_Paper": "Bi85Sb15\u2212xAgx",
+        "Property": "Seebeck",
+        "Value": 0.00012000000000000002,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2007.02.047"
+      }
+    ]
+  }
+}

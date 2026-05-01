@@ -1,0 +1,330 @@
+{
+  "doi": "10.1039/c6cp01786j",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "TiNiSn",
+        "undoped TiNiSn compounds",
+        "TiNiSn1",
+        "pure TiNiSn",
+        "(TiNiSn)0.95",
+        "undoped TiNiSn compound polycrystals",
+        "Sb-doped TiNiSn",
+        "undoped TiNiSn",
+        "microcrystalline TiNiSn"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "TiNiSn",
+          "value": -0.000425,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "TiNiSn1",
+          "value": 0.00004,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "undoped TiNiSn compounds",
+          "value": 200000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "TiNiSn",
+          "value": 6060.6060606061,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "TiNiSn",
+          "value": 3,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "TiNiSn",
+          "value": 9,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "TiNiSn",
+          "value": 13.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "TiNiSn",
+          "value": 7,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "TiNiSn",
+          "value": 6.9,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "TiNiSn",
+          "value": 5.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "TiNiSn",
+          "value": 5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "TiNiSn",
+          "value": 7,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "TiNiSn",
+          "value": 6.9,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "TiNiSn",
+          "value": 5.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "TiNiSn",
+          "value": 8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "TiNiSn",
+          "value": 7.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "TiNiSn",
+          "value": 7,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "TiNiSn",
+          "value": 6,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "TiNiSn",
+          "value": 1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "TiNiSn",
+          "value": 3.42,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "TiNiSn",
+          "value": 0.001805,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "TiNiSn",
+          "value": 0.001143,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "(TiNiSn)0.95",
+          "value": 0.0045000000000000005,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "Sb-doped TiNiSn",
+          "value": 7,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "650.0 K"
+        },
+        {
+          "material": "Sb-doped TiNiSn",
+          "value": 0.007,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "650.0 K"
+        },
+        {
+          "material": "TiNiSn",
+          "value": 0.0011200000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "830.0 K"
+        },
+        {
+          "material": "TiNiSn",
+          "value": 0.0011200000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "830.0 K"
+        },
+        {
+          "material": "undoped TiNiSn",
+          "value": 0.001125,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "830.0 K"
+        },
+        {
+          "material": "microcrystalline TiNiSn",
+          "value": 0.0021000000000000003,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "800.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "TiNiSn",
+          "zt_value": 2,
+          "temperature": "295 K"
+        },
+        {
+          "material": "TiNiSn",
+          "zt_value": 2,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "TiNiSn",
+          "zt_value": 0.41000000000000003,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "TiNiSn",
+          "zt_value": 0.41000000000000003,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "TiNiSn",
+          "zt_value": 0.41000000000000003,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "TiNiSn",
+          "zt_value": 0.2,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "TiNiSn",
+          "zt_value": 0.41000000000000003,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "TiNiSn",
+          "zt_value": 0.42,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "TiNiSn",
+          "zt_value": 0.5,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "TiNiSn",
+          "zt_value": 0.12,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "pure TiNiSn",
+          "zt_value": 0.30000000000000004,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "TiNiSn",
+          "zt_value": 0.30000000000000004,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "TiNiSn",
+          "zt_value": 0.30000000000000004,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "TiNiSn",
+          "zt_value": 0.5,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "(TiNiSn)0.95",
+          "zt_value": 0.63,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "TiNiSn",
+          "zt_value": 0.30000000000000004,
+          "temperature": "770.0 K"
+        },
+        {
+          "material": "undoped TiNiSn compound polycrystals",
+          "zt_value": 0.32,
+          "temperature": "785.0 K"
+        },
+        {
+          "material": "undoped TiNiSn compounds",
+          "zt_value": 0.32,
+          "temperature": "785.0 K"
+        },
+        {
+          "material": "Sb-doped TiNiSn",
+          "zt_value": 0.45,
+          "temperature": "650.0 K"
+        },
+        {
+          "material": "(TiNiSn)0.95",
+          "zt_value": 0.63,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "TiNiSn",
+          "zt_value": 1,
+          "temperature": "823.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

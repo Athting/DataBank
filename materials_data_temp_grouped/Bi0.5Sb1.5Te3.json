@@ -1,0 +1,1898 @@
+{
+  "Material": "Bi0.5Sb1.5Te3",
+  "DOIs_Researched": [
+    "10.1007/s10854-016-4920-8",
+    "10.1016/j.materresbull.2016.05.030",
+    "10.1016/j.matchemphys.2007.02.043",
+    "10.1007/s11664-010-1463-2",
+    "10.1039/c6ee02017h",
+    "10.1016/j.ceramint.2018.03.090",
+    "10.1016/j.nanoen.2018.06.020",
+    "10.1016/j.tsf.2011.02.066",
+    "10.1016/j.cap.2016.03.028",
+    "10.1007/s12598-019-01235-0",
+    "10.1134/S1995078019040098",
+    "10.1016/j.nanoen.2020.104854",
+    "10.1039/c7tc04573e",
+    "10.1007/s12598-019-01348-6",
+    "10.1039/c8ta00553b",
+    "10.1016/j.jmat.2016.08.002",
+    "10.1038/s41598-017-07654-2",
+    "10.1016/j.tsf.2007.04.037",
+    "10.1007/s11664-012-1913-0",
+    "10.1016/j.tsf.2014.04.043",
+    "10.1016/j.vacuum.2020.109384",
+    "10.1016/j.cplett.2014.07.049",
+    "10.1016/j.actamat.2018.07.067",
+    "10.1039/c9ta13152c",
+    "10.1016/j.actamat.2018.08.027",
+    "10.1016/j.jallcom.2013.11.065",
+    "10.1016/j.matlet.2006.03.080",
+    "10.1016/j.nanoen.2015.02.001",
+    "10.1016/j.nanoen.2020.105228",
+    "10.1016/j.jmat.2020.02.010",
+    "10.1016/j.jpowsour.2019.226758",
+    "10.1016/j.jssc.2012.03.065",
+    "10.1016/j.scriptamat.2016.03.006",
+    "10.1016/j.nanoen.2017.09.019",
+    "10.1016/j.enconman.2016.01.065",
+    "10.1007/s11595-018-1896-7",
+    "10.1016/j.tsf.2014.02.041",
+    "10.1007/s13391-018-0094-2",
+    "10.1016/j.mser.2015.08.001",
+    "10.1039/c9ra01738k",
+    "10.1016/j.mssp.2018.07.019",
+    "10.1007/s11661-012-1587-5",
+    "10.1007/s10854-020-03396-6",
+    "10.1039/c9ee03446c",
+    "10.1016/j.mser.2018.09.001",
+    "10.1016/j.jallcom.2016.09.106",
+    "10.1007/s10853-020-04949-0",
+    "10.1039/c6ra24107g",
+    "10.1016/j.electacta.2008.06.015",
+    "10.1039/c8ta07161f",
+    "10.1016/j.materresbull.2005.04.012",
+    "10.1016/j.energy.2019.116892",
+    "10.1016/j.jallcom.2020.154625",
+    "10.1016/j.jallcom.2016.04.308",
+    "10.1016/j.intermet.2007.05.004",
+    "10.1016/j.jallcom.2020.155804",
+    "10.1016/j.matchemphys.2020.123427",
+    "10.1016/j.intermet.2017.10.015",
+    "10.1016/j.jallcom.2017.05.204",
+    "10.1039/c7tc01797a",
+    "10.1016/j.jallcom.2020.153863",
+    "10.1016/j.jallcom.2017.08.103",
+    "10.1016/j.jallcom.2013.05.228",
+    "10.1016/j.nanoen.2015.05.032",
+    "10.1039/c5tc01721a",
+    "10.1016/j.pmatsci.2016.07.002",
+    "10.1016/j.mseb.2015.12.001",
+    "10.1016/j.apt.2014.09.010",
+    "10.1039/c5tc01644d",
+    "10.1007/s12540-018-0029-3",
+    "10.1016/j.energy.2017.12.063",
+    "10.1016/S0080-8784(01)80126-5",
+    "10.1016/j.applthermaleng.2017.10.158",
+    "10.1016/j.jallcom.2020.154732",
+    "10.1007/s10854-020-04128-6",
+    "10.1039/c9ee01609k",
+    "10.1016/j.jallcom.2017.02.181",
+    "10.1016/j.nanoen.2017.03.020",
+    "10.1016/j.nanoen.2019.02.015",
+    "10.1016/j.nanoen.2015.05.022",
+    "10.1016/j.nanoen.2015.12.009",
+    "10.1039/c7sc03482b",
+    "10.1039/c7ta08748a",
+    "10.1016/j.jallcom.2018.10.408",
+    "10.1016/j.ceramint.2018.10.228",
+    "10.1007/s11664-013-2846-y",
+    "10.1039/c9ta11901a",
+    "10.1016/j.mtphys.2018.07.002",
+    "10.1039/c5ra24236c",
+    "10.1039/d0ta00240b",
+    "10.1039/c4cp05386a",
+    "10.1016/j.scriptamat.2019.01.046",
+    "10.1016/j.intermet.2012.02.018",
+    "10.1134/S1063782619070066",
+    "10.1016/j.actamat.2017.01.030",
+    "10.1038/s41598-019-45697-9",
+    "10.1016/j.materresbull.2010.11.024",
+    "10.1016/j.actamat.2019.02.041",
+    "10.1038/35098012",
+    "10.1039/c3ra23197f",
+    "10.1007/s10853-012-6895-z",
+    "10.1039/c7ee02677c",
+    "10.1134/S002016852003005X",
+    "10.1016/j.jssc.2018.11.037",
+    "10.1039/c8ra09771b",
+    "10.1016/j.matdes.2018.08.035",
+    "10.1016/j.jallcom.2005.04.217",
+    "10.1038/am.2013.86",
+    "10.1039/c8qi00288f",
+    "10.1016/j.apsusc.2007.06.040",
+    "10.1039/c4ra05322b",
+    "10.1039/c5mh00299k",
+    "10.1007/s10854-018-9161-6",
+    "10.1039/c0jm01424a",
+    "10.1016/j.matlet.2005.05.039",
+    "10.1016/j.jssc.2018.04.038",
+    "10.1039/c2jm15185e",
+    "10.1038/srep03212",
+    "10.1016/j.intermet.2013.07.007",
+    "10.1016/j.jssc.2012.05.005",
+    "10.1016/j.jssc.2006.08.016",
+    "10.1016/j.mssp.2020.105292",
+    "10.1186/1556-276X-7-2",
+    "10.1016/j.apenergy.2020.115037",
+    "10.1016/B978-0-08-102687-8.00002-6",
+    "10.3938/jkps.65.2066",
+    "10.1016/j.nanoen.2020.105379"
+  ],
+  "Data_By_Temperature": {
+    "320.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ThermCond",
+        "Value": 0.30000000000000004,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta00240b"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 alloy",
+        "Property": "ThermCond",
+        "Value": 0.33,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2018.08.027"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ThermCond",
+        "Value": 0.33,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.05.204"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 bulk alloys",
+        "Property": "ThermCond",
+        "Value": 0.33,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2019.02.041"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 1.85,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-020-03396-6"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5 Te3",
+        "Property": "ZT",
+        "Value": 1.85,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2019.02.015"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 1.8599999999999999,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.05.204"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 pellet",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2015.12.009"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 1.8599999999999999,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2018.11.037"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 1.8599999999999999,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2016.08.002"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 1.8599999999999999,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2017.10.015"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 1.8599999999999999,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apenergy.2020.115037"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 bulks with 25 wt % Te",
+        "Property": "ZT",
+        "Value": 1.8599999999999999,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2016.05.030"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 bulk alloys",
+        "Property": "ZT",
+        "Value": 1.8599999999999999,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2019.02.041"
+      },
+      {
+        "Original_Name_In_Paper": "nanostructured bulk Bi0.5Sb1.5Te3 compounds",
+        "Property": "ZT",
+        "Value": 1.87,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s13391-018-0094-2"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 1.8599999999999999,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5mh00299k"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 1.8599999999999999,
+        "Units": null,
+        "Editing": "point defect",
+        "Source_DOI": "10.1016/j.pmatsci.2016.07.002"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Bi0.5Sb1.5Te3 matrix",
+        "Property": "ZT",
+        "Value": 1.8599999999999999,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2019.01.046"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 1.8599999999999999,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matdes.2018.08.035"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 1.8599999999999999,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.08.103"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 1.8599999999999999,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.enconman.2016.01.065"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Bi0.5Sb1.5Te3 bulks",
+        "Property": "ZT",
+        "Value": 1.8599999999999999,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-016-4920-8"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 1.8599999999999999,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta00240b"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 alloy",
+        "Property": "ZT",
+        "Value": 1.8599999999999999,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2018.08.027"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 1.8599999999999999,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.155804"
+      },
+      {
+        "Original_Name_In_Paper": "bulk Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 1.8599999999999999,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.104854"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 1.8599999999999999,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra24236c"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 1.8599999999999999,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ra01738k"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 1.8599999999999999,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154625"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 1.8599999999999999,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7tc04573e"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ThermCond",
+        "Value": 1.1,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.11.065"
+      },
+      {
+        "Original_Name_In_Paper": "nano-bulk Bi0.5Sb1.5Te3",
+        "Property": "ThermCond",
+        "Value": 1.1,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apt.2014.09.010"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ThermCond",
+        "Value": 0.98,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apt.2014.09.010"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ThermCond",
+        "Value": 0.30000000000000004,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.energy.2017.12.063"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ThermCond",
+        "Value": 1.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154732"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 + 3 wt %",
+        "Property": "ThermCond",
+        "Value": 1.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154732"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ThermCond",
+        "Value": 0.9400000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2018.04.038"
+      },
+      {
+        "Original_Name_In_Paper": "nanocrystalline Bi0.5Sb1.5Te3 compound",
+        "Property": "ThermCond",
+        "Value": 1.1,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2011.02.066"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3-based",
+        "Property": "ThermCond",
+        "Value": 0.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta13152c"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 thin film",
+        "Property": "ThermCond",
+        "Value": 1.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4cp05386a"
+      },
+      {
+        "Original_Name_In_Paper": "graphene / Bi0.5Sb1.5Te3 composite",
+        "Property": "ThermCond",
+        "Value": 0.7000000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ta08748a"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 ingot",
+        "Property": "ThermCond",
+        "Value": 1.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ta08748a"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/srep03212"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 powder",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-013-2846-y"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 alloys",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.105228"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Bi0.5Sb1.5Te3 bulk",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ra23197f"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 alloy",
+        "Property": "ZT",
+        "Value": 1.42,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta07161f"
+      },
+      {
+        "Original_Name_In_Paper": "nanostructured Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-019-45697-9"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 0.89,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7tc01797a"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 0.89,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7tc01797a"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 alloy",
+        "Property": "ZT",
+        "Value": 0.39,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2006.03.080"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 0.39,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2006.03.080"
+      },
+      {
+        "Original_Name_In_Paper": "crystalline Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.105379"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 crystal",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.105379"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 crystal",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.105379"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 0.39,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2005.05.039"
+      },
+      {
+        "Original_Name_In_Paper": "polycrystalline p-type Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mser.2015.08.001"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mser.2015.08.001"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 1.8599999999999999,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.04.308"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 alloy",
+        "Property": "ZT",
+        "Value": 0.0027,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2013.07.007"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 alloy",
+        "Property": "ZT",
+        "Value": 0.0027,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2013.07.007"
+      },
+      {
+        "Original_Name_In_Paper": "% Cu-doped Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 1.17,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2018.07.067"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 0.65,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-017-07654-2"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 0.77,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-017-07654-2"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2014.04.043"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 alloy",
+        "Property": "ZT",
+        "Value": 0.58,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2006.08.016"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 alloy",
+        "Property": "ZT",
+        "Value": 0.58,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2006.08.016"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0080-8784(01)80126-5"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 alloys",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2013.86"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.electacta.2008.06.015"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 / PLA composite",
+        "Property": "ZT",
+        "Value": 0.006,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2020.02.010"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2010.11.024"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3p-type",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2016.03.028"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2007.04.037"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2007.06.040"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 alloys",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.155804"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 bulk materials",
+        "Property": "ZT",
+        "Value": 0.87,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2018.07.019"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apt.2014.09.010"
+      },
+      {
+        "Original_Name_In_Paper": "nano-bulk Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apt.2014.09.010"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 1.15,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apt.2014.09.010"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "Conductivity",
+        "Value": 207039.3374741201,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2017.01.030"
+      },
+      {
+        "Original_Name_In_Paper": "nano-bulk Bi0.5Sb1.5Te3",
+        "Property": "Seebeck",
+        "Value": 0.000215,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apt.2014.09.010"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "Seebeck",
+        "Value": 0.0002,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apt.2014.09.010"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 material",
+        "Property": "Seebeck",
+        "Value": 0.000157,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1134/S1063782619070066"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 alloy",
+        "Property": "Seebeck",
+        "Value": 0.000234,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.05.228"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 alloy",
+        "Property": "Seebeck",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2005.04.217"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "PF",
+        "Value": 0.004,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.energy.2017.12.063"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 alloys",
+        "Property": "PF",
+        "Value": 0.0025,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8qi00288f"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3-based",
+        "Property": "PF",
+        "Value": 0.00232,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta13152c"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 / epoxy resin composite film",
+        "Property": "PF",
+        "Value": 0.00084,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ee01609k"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 alloy",
+        "Property": "Conductivity",
+        "Value": 37000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2007.05.004"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "Conductivity",
+        "Value": 0.0005,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1186/1556-276X-7-2"
+      },
+      {
+        "Original_Name_In_Paper": "amorphous Bi0.5Sb1.5Te3 film",
+        "Property": "Conductivity",
+        "Value": 19000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.105379"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5 Te3 thin films",
+        "Property": "Conductivity",
+        "Value": 65700.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.105379"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 single crystal",
+        "Property": "Conductivity",
+        "Value": 158400.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-020-04128-6"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 with 0.67wt % Cu",
+        "Property": "Conductivity",
+        "Value": 334100.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11595-018-1896-7"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 film",
+        "Property": "Conductivity",
+        "Value": 22000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2017.03.020"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "Conductivity",
+        "Value": 40000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-020-03396-6"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "Conductivity",
+        "Value": 40000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-020-03396-6"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ThermCond",
+        "Value": 0.7000000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7sc03482b"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ThermCond",
+        "Value": 0.7000000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta00553b"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 thin film",
+        "Property": "ThermCond",
+        "Value": 0.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Bi0.5Sb1.5Te3 + 3 wt %",
+        "Property": "ThermCond",
+        "Value": 0.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154732"
+      },
+      {
+        "Original_Name_In_Paper": "pure Bi0.5Sb1.5Te3",
+        "Property": "ThermCond",
+        "Value": 0.98,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2015.02.001"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Bi0.5Sb1.5Te3-based",
+        "Property": "ThermCond",
+        "Value": 0.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta13152c"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ThermCond",
+        "Value": 0.7000000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01721a"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apenergy.2020.115037"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 alloy",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2005.04.012"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2007.02.043"
+      },
+      {
+        "Original_Name_In_Paper": "Bi.5Sb1.5Te3 nanocomposites",
+        "Property": "ZT",
+        "Value": 1.38,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.03.090"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Bi0.5Sb1.5Te3 ingots",
+        "Property": "ZT",
+        "Value": 0.96,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta11901a"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 alloy",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/35098012"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 + 0.5 wt %",
+        "Property": "ZT",
+        "Value": 0.003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2020.123427"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 film",
+        "Property": "Seebeck",
+        "Value": 0.0001381,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2014.02.041"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 film",
+        "Property": "Seebeck",
+        "Value": 0.000198,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2014.02.041"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Bi0.5Sb1.5Te3",
+        "Property": "Seebeck",
+        "Value": 0.00015000000000000001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2017.09.019"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "Seebeck",
+        "Value": 0.00025,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-018-9161-6"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 pellet",
+        "Property": "Seebeck",
+        "Value": 0.000168,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2015.05.022"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 / epoxy",
+        "Property": "PF",
+        "Value": 0.00084,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2018.06.020"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 / epoxy",
+        "Property": "PF",
+        "Value": 0.00084,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2018.06.020"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 / epoxy",
+        "Property": "PF",
+        "Value": 0.00084,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2018.06.020"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 / epoxy",
+        "Property": "PF",
+        "Value": 0.00084,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2018.06.020"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 thin film",
+        "Property": "PF",
+        "Value": 0.00232,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Bi0.5Sb1.5Te3-based",
+        "Property": "PF",
+        "Value": 0.00232,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta13152c"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 matrix",
+        "Property": "Conductivity",
+        "Value": 101100.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ee03446c"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "Conductivity",
+        "Value": 56800.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2015.02.001"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3-EG 0.1 vol % )",
+        "Property": "Conductivity",
+        "Value": 64500.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2015.02.001"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "Conductivity",
+        "Value": 80000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.10.228"
+      }
+    ],
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 matrix",
+        "Property": "ThermCond",
+        "Value": 0.62,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7tc04573e"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 matrix",
+        "Property": "ThermCond",
+        "Value": 0.58,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ee02017h"
+      }
+    ],
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "nanostructured p-type Bi0.5Sb1.5Te3",
+        "Property": "ThermCond",
+        "Value": 1.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01644d"
+      },
+      {
+        "Original_Name_In_Paper": "Cu-doped Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 1.08,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s12540-018-0029-3"
+      },
+      {
+        "Original_Name_In_Paper": "nanocrystalline Bi0.5Sb1.5Te3 bulk alloys",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2018.11.037"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 / Cu",
+        "Property": "ZT",
+        "Value": 1.08,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2016.03.006"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra05322b"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 1.43,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2018.07.002"
+      },
+      {
+        "Original_Name_In_Paper": "Cu(OAc)2 added Bi0.5Sb1.5Te3 nanocomposite",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1186/1556-276X-7-2"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 alloys",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.02.181"
+      },
+      {
+        "Original_Name_In_Paper": "nanostructured p-type Bi0.5Sb1.5Te3",
+        "Property": "PF",
+        "Value": 0.004,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01644d"
+      }
+    ],
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ThermCond",
+        "Value": 0.6000000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2018.11.037"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ThermCond",
+        "Value": 0.67,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s12540-018-0029-3"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 1.56,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2018.11.037"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 0.88,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-08-102687-8.00002-6"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 1.8599999999999999,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2018.07.002"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 1.01,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s12598-019-01348-6"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 1.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mser.2018.09.001"
+      },
+      {
+        "Original_Name_In_Paper": "polycrystalline Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 1.71,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2015.05.032"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 0.86,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.3938/jkps.65.2066"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "Seebeck",
+        "Value": 0.000254,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2012.02.018"
+      }
+    ],
+    "348.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ThermCond",
+        "Value": 1.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ee02677c"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ThermCond",
+        "Value": 1.25,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.09.106"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ee02677c"
+      }
+    ],
+    "375.0": [
+      {
+        "Original_Name_In_Paper": "nanostructured bulk Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 0.51,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2015.05.022"
+      },
+      {
+        "Original_Name_In_Paper": "nanostructured bulk Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 0.51,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2015.05.022"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 pellets",
+        "Property": "ZT",
+        "Value": 0.51,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2015.05.022"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 pellet",
+        "Property": "ZT",
+        "Value": 0.51,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2015.05.022"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 pellet",
+        "Property": "Seebeck",
+        "Value": 0.000193,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2015.05.022"
+      }
+    ],
+    "310.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 0.71,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-020-03396-6"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3(\u03b1",
+        "Property": "Seebeck",
+        "Value": 0.00011,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-020-03396-6"
+      }
+    ],
+    "450.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 composite",
+        "Property": "ZT",
+        "Value": 1.17,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2012.03.065"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 composite",
+        "Property": "ZT",
+        "Value": 1.17,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2012.03.065"
+      }
+    ],
+    "330.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 alloys",
+        "Property": "ZT",
+        "Value": 1.05,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.105228"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-012-6895-z"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 1.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.applthermaleng.2017.10.158"
+      },
+      {
+        "Original_Name_In_Paper": "pure Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 0.78,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2015.02.001"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 0.98,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2015.02.001"
+      },
+      {
+        "Original_Name_In_Paper": "pure Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 0.78,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2015.02.001"
+      }
+    ],
+    "360.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 0.05,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1134/S002016852003005X"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ra09771b"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Bi0.5Sb1.5Te3 nanograin",
+        "Property": "ZT",
+        "Value": 1.3599999999999999,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2016.07.002"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 ingot powders",
+        "Property": "ZT",
+        "Value": 1.24,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2015.02.001"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3-EG composite",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2015.02.001"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3-EG composite",
+        "Property": "ZT",
+        "Value": 0.77,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2015.02.001"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3-EG 0.1 vol %",
+        "Property": "ZT",
+        "Value": 1.24,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2015.02.001"
+      }
+    ],
+    "442.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2005.04.217"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 0.74,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2005.04.217"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 0.74,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2005.04.217"
+      }
+    ],
+    "510.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 bulk",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2016.08.002"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cplett.2014.07.049"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cplett.2014.07.049"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cplett.2014.07.049"
+      }
+    ],
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 1.35,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-012-1913-0"
+      }
+    ],
+    "358.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 bulk alloys",
+        "Property": "ZT",
+        "Value": 1.47,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mseb.2015.12.001"
+      },
+      {
+        "Original_Name_In_Paper": "C60-contained Bi0.5Sb1.5Te3 alloy",
+        "Property": "ZT",
+        "Value": 1.47,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.153863"
+      }
+    ],
+    "350.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 1.07,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.10.408"
+      },
+      {
+        "Original_Name_In_Paper": "Se-doped Bi0.5Sb1.5Te3 alloys",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s12598-019-01235-0"
+      }
+    ],
+    "573.4": [
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 with 0.15wt % Cu",
+        "Property": "ZT",
+        "Value": 0.81,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11595-018-1896-7"
+      }
+    ],
+    "486.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 material",
+        "Property": "ZT",
+        "Value": 0.8300000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2020.105292"
+      },
+      {
+        "Original_Name_In_Paper": "pristine Bi0.5Sb1.5Te3",
+        "Property": "Seebeck",
+        "Value": 0.000128,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2020.105292"
+      }
+    ],
+    "423.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-010-1463-2"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2012.02.018"
+      }
+    ],
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1134/S1995078019040098"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 sample without PVP",
+        "Property": "Seebeck",
+        "Value": 0.000256,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c0jm01424a"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "Seebeck",
+        "Value": 5e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c0jm01424a"
+      }
+    ],
+    "340.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 nanocomposites with 3 vol % of TiO2",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2016.07.002"
+      }
+    ],
+    "498.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 lead",
+        "Property": "ZT",
+        "Value": 0.9500000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra24107g"
+      }
+    ],
+    "295.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3nanocrystal powders",
+        "Property": "ZT",
+        "Value": 0.37,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2jm15185e"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 nanocrystal powders",
+        "Property": "ZT",
+        "Value": 0.93,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2012.05.005"
+      }
+    ],
+    "318.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 alloy",
+        "Property": "ZT",
+        "Value": 0.58,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2006.08.016"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 alloy",
+        "Property": "Conductivity",
+        "Value": 156000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2006.08.016"
+      }
+    ],
+    "398.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 1.25,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cplett.2014.07.049"
+      }
+    ],
+    "390.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 alloy",
+        "Property": "ZT",
+        "Value": 1.3900000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.05.228"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 alloys",
+        "Property": "ZT",
+        "Value": 1.3900000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.05.228"
+      }
+    ],
+    "298.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 0.011,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.energy.2019.116892"
+      }
+    ],
+    "327.0": [
+      {
+        "Original_Name_In_Paper": "porous Bi0.5Sb1.5Te3 material",
+        "Property": "ZT",
+        "Value": 1.29,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.vacuum.2020.109384"
+      }
+    ],
+    "370.0": [
+      {
+        "Original_Name_In_Paper": "p-type Bi0.5Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 1.5899999999999999,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      }
+    ],
+    "523.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 thin films",
+        "Property": "Seebeck",
+        "Value": 0.0002565,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11661-012-1587-5"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 thin films",
+        "Property": "Seebeck",
+        "Value": 0.0002565,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11661-012-1587-5"
+      }
+    ],
+    "303.0": [
+      {
+        "Original_Name_In_Paper": "12.5 wt % of Bi0.5Sb1.5Te3",
+        "Property": "Seebeck",
+        "Value": 2e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpowsour.2019.226758"
+      }
+    ],
+    "475.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 nanopillars",
+        "Property": "PF",
+        "Value": 0.000383,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.10.228"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.5Sb1.5Te3 film",
+        "Property": "PF",
+        "Value": 0.000383,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.10.228"
+      }
+    ],
+    "313.0": [
+      {
+        "Original_Name_In_Paper": "bulk single-crystal Bi0.5Sb1.5Te3",
+        "Property": "Conductivity",
+        "Value": 40000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-020-04128-6"
+      }
+    ]
+  }
+}

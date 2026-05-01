@@ -1,0 +1,18 @@
+{
+  "Material": "Hf)NiSn based",
+  "DOIs_Researched": [
+    "10.1039/c4ee03042g"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "Hf)NiSn based",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ee03042g"
+      }
+    ]
+  }
+}

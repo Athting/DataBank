@@ -1,0 +1,18 @@
+{
+  "Material": "Mg3Sb0.6Bi1.4",
+  "DOIs_Researched": [
+    "10.1039/c8ee03374a"
+  ],
+  "Data_By_Temperature": {
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "n-type Mg3Sb0.6Bi1.4",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee03374a"
+      }
+    ]
+  }
+}

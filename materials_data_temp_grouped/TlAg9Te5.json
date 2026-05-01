@@ -1,0 +1,27 @@
+{
+  "Material": "TlAg9Te5",
+  "DOIs_Researched": [
+    "10.1007/s11837-016-2060-5",
+    "10.1016/B978-0-12-409547-2.11642-7"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "TlAg9Te5",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-12-409547-2.11642-7"
+      },
+      {
+        "Original_Name_In_Paper": "TlAg9Te5",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11837-016-2060-5"
+      }
+    ]
+  }
+}

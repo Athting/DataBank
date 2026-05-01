@@ -1,0 +1,18 @@
+{
+  "Material": "\u03b2-rh B with 2.74% Zr",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2016.10.014"
+  ],
+  "Data_By_Temperature": {
+    "473.0": [
+      {
+        "Original_Name_In_Paper": "2.74 at. % Zr-doped \u03b2-rh B",
+        "Property": "Seebeck",
+        "Value": -0.00067,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2016.10.014"
+      }
+    ]
+  }
+}

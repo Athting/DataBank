@@ -1,0 +1,18 @@
+{
+  "Material": "porous Ni\u2013Al",
+  "DOIs_Researched": [
+    "10.1016/S0925-8388(09)01720-4"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "porous Ni\u2013Al",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(09)01720-4"
+      }
+    ]
+  }
+}

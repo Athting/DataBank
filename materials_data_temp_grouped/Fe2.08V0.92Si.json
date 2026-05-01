@@ -1,0 +1,26 @@
+{
+  "Material": "Fe2.08V0.92Si",
+  "DOIs_Researched": [
+    "10.1016/S0925-8388(03)00024-0"
+  ],
+  "Data_By_Temperature": {
+    "662.0": [
+      {
+        "Original_Name_In_Paper": "Fe2.08V0.92Si",
+        "Property": "ZT",
+        "Value": 0.063,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(03)00024-0"
+      },
+      {
+        "Original_Name_In_Paper": "Fe2.08V0.92Si",
+        "Property": "ZT",
+        "Value": 0.063,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(03)00024-0"
+      }
+    ]
+  }
+}

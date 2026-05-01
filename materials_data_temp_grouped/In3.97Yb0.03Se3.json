@@ -1,0 +1,18 @@
+{
+  "Material": "In3.97Yb0.03Se3",
+  "DOIs_Researched": [
+    "10.1039/d0ta00240b"
+  ],
+  "Data_By_Temperature": {
+    "703.0": [
+      {
+        "Original_Name_In_Paper": "In3.97Yb0.03Se3",
+        "Property": "ZT",
+        "Value": 0.81,
+        "Units": null,
+        "Editing": "Yb doping",
+        "Source_DOI": "10.1039/d0ta00240b"
+      }
+    ]
+  }
+}

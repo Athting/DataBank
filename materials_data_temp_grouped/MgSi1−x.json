@@ -1,0 +1,18 @@
+{
+  "Material": "MgSi1\u2212x",
+  "DOIs_Researched": [
+    "10.1016/j.jma.2019.06.001"
+  ],
+  "Data_By_Temperature": {
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "Bi doped Mg2Si1\u2212x",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jma.2019.06.001"
+      }
+    ]
+  }
+}

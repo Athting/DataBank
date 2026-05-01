@@ -1,0 +1,26 @@
+{
+  "Material": "Ba0.25Sr1.75Ti0.8Fe0.8",
+  "DOIs_Researched": [
+    "10.1039/c6cp06273c"
+  ],
+  "Data_By_Temperature": {
+    "935.3": [
+      {
+        "Original_Name_In_Paper": "Ba0.25Sr1.75Ti0.8Fe0.8Nb0.4O6",
+        "Property": "Seebeck",
+        "Value": 0.0006211999999999999,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6cp06273c"
+      },
+      {
+        "Original_Name_In_Paper": "Ba0.25Sr1.75Ti0.8Fe0.8Nb0.4O6",
+        "Property": "Seebeck",
+        "Value": 0.0011459999999999999,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6cp06273c"
+      }
+    ]
+  }
+}

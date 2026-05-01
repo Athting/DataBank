@@ -1,0 +1,18 @@
+{
+  "Material": "SnS0.1Se0.9\u2212xTe",
+  "DOIs_Researched": [
+    "10.1039/c9tc01994d"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "SnS0.1Se0.9\u2212xTex",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc01994d"
+      }
+    ]
+  }
+}

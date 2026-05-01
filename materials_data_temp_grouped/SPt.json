@@ -1,0 +1,18 @@
+{
+  "Material": "SPt",
+  "DOIs_Researched": [
+    "10.1016/j.matpr.2020.09.158"
+  ],
+  "Data_By_Temperature": {
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "SPt",
+        "Property": "Seebeck",
+        "Value": -1.566e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matpr.2020.09.158"
+      }
+    ]
+  }
+}

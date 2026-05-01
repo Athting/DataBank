@@ -1,0 +1,18 @@
+{
+  "Material": "Bi0.82Sb0.18",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2016.09.008"
+  ],
+  "Data_By_Temperature": {
+    "493.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.82Sb0.18 alloy",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.09.008"
+      }
+    ]
+  }
+}

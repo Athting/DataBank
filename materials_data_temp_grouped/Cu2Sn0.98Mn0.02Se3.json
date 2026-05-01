@@ -1,0 +1,18 @@
+{
+  "Material": "Cu2Sn0.98Mn0.02Se3",
+  "DOIs_Researched": [
+    "10.1007/s00339-017-1540-y"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Cu2Sn0.98Mn0.02Se3",
+        "Property": "ZT",
+        "Value": 0.47000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s00339-017-1540-y"
+      }
+    ]
+  }
+}

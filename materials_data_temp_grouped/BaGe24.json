@@ -1,0 +1,37 @@
+{
+  "Material": "BaGe24",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2005.12.032",
+    "10.1016/j.jssc.2017.06.025"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ba24Ge100",
+        "Property": "ThermCond",
+        "Value": 2.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2017.06.025"
+      },
+      {
+        "Original_Name_In_Paper": "Ba24Ge100",
+        "Property": "Conductivity",
+        "Value": 200000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2017.06.025"
+      }
+    ],
+    "943.0": [
+      {
+        "Original_Name_In_Paper": "Ba24Ge100",
+        "Property": "ZT",
+        "Value": 0.14,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2005.12.032"
+      }
+    ]
+  }
+}

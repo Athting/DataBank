@@ -1,0 +1,18 @@
+{
+  "Material": "Cu2Se based",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2018.09.041"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Cu2Se based",
+        "Property": "ZT",
+        "Value": 2.44,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2018.09.041"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Tb4O7",
+  "DOIs_Researched": [
+    "10.1007/s10854-013-1353-5"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "2.0 mol % Tb4O7",
+        "Property": "PF",
+        "Value": 2.88e-06,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-013-1353-5"
+      }
+    ]
+  }
+}

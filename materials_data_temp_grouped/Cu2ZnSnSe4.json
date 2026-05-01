@@ -1,0 +1,148 @@
+{
+  "Material": "Cu2ZnSnSe4",
+  "DOIs_Researched": [
+    "10.1016/j.intermet.2016.01.004",
+    "10.1016/j.intermet.2014.06.014",
+    "10.1016/j.jallcom.2013.01.131",
+    "10.1016/j.intermet.2014.10.015",
+    "10.1016/j.ensm.2016.01.009",
+    "10.1039/c5ta09584k",
+    "10.1039/c5dt00910c",
+    "10.1016/j.intermet.2012.07.013",
+    "10.1016/j.matdes.2015.12.172"
+  ],
+  "Data_By_Temperature": {
+    "720.0": [
+      {
+        "Original_Name_In_Paper": "Cu2ZnSnSe4",
+        "Property": "ThermCond",
+        "Value": 0.11,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2014.06.014"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Cu2ZnSnSe4",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5dt00910c"
+      }
+    ],
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "Cu2ZnSn0.9In0.1Se4",
+        "Property": "ZT",
+        "Value": 0.9500000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2014.06.014"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2ZnSn0.90In0.10Se4",
+        "Property": "ZT",
+        "Value": 0.9500000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta09584k"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2ZnSnSe4",
+        "Property": "ZT",
+        "Value": 0.9500000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2012.07.013"
+      },
+      {
+        "Original_Name_In_Paper": "quaternary chalcogenide Cu2ZnSnSe4",
+        "Property": "ZT",
+        "Value": 0.9500000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ensm.2016.01.009"
+      },
+      {
+        "Original_Name_In_Paper": "Indium-doped Cu2ZnSnSe4",
+        "Property": "ZT",
+        "Value": 0.9500000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ensm.2016.01.009"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2ZnSn0.9In0.1Se4",
+        "Property": "ZT",
+        "Value": 0.9500000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ensm.2016.01.009"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2ZnSn0.9In0.1Se4",
+        "Property": "ZT",
+        "Value": 0.9500000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2016.01.004"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2ZnSn0.90In0.10Se4",
+        "Property": "ZT",
+        "Value": 0.9500000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.01.131"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Cu2ZnSn0.9In0.1Se4",
+        "Property": "ZT",
+        "Value": 0.59,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matdes.2015.12.172"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2ZnSn0.9In0.1Se4",
+        "Property": "ZT",
+        "Value": 0.59,
+        "Units": null,
+        "Editing": "By In-doping",
+        "Source_DOI": "10.1016/j.matdes.2015.12.172"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2ZnSn0.9In0.1Se4",
+        "Property": "ZT",
+        "Value": 0.59,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matdes.2015.12.172"
+      }
+    ],
+    "860.0": [
+      {
+        "Original_Name_In_Paper": "Cu2ZnSn0.9In0.1Se4",
+        "Property": "ZT",
+        "Value": 0.91,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2014.10.015"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Cu2ZnSnSe4",
+        "Property": "Conductivity",
+        "Value": 15300.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2014.06.014"
+      }
+    ]
+  }
+}

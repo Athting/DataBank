@@ -1,0 +1,18 @@
+{
+  "Material": "CNTcC",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2014.09.015"
+  ],
+  "Data_By_Temperature": {
+    "350.0": [
+      {
+        "Original_Name_In_Paper": "1CNTdCCO",
+        "Property": "ZT",
+        "Value": 0.0022800000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2014.09.015"
+      }
+    ]
+  }
+}

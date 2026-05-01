@@ -1,0 +1,100 @@
+{
+  "Material": "In4Se2.35",
+  "DOIs_Researched": [
+    "10.1039/c6qi00340k",
+    "10.1038/nature08088",
+    "10.1039/c4ta05508j",
+    "10.1039/c2jm16369a",
+    "10.1039/d0ta00240b"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "In4Se2.35",
+        "Property": "ThermCond",
+        "Value": 1.1,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2jm16369a"
+      },
+      {
+        "Original_Name_In_Paper": "In4Se2.35",
+        "Property": "ZT",
+        "Value": 0.005,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta00240b"
+      },
+      {
+        "Original_Name_In_Paper": "In4Se2.35",
+        "Property": "PF",
+        "Value": 0.00117,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2jm16369a"
+      },
+      {
+        "Original_Name_In_Paper": "In4Se2.35",
+        "Property": "Conductivity",
+        "Value": 18830.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2jm16369a"
+      }
+    ],
+    "660.0": [
+      {
+        "Original_Name_In_Paper": "In4Se2.35",
+        "Property": "ThermCond",
+        "Value": 0.6000000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2jm16369a"
+      },
+      {
+        "Original_Name_In_Paper": "In4Se2.35",
+        "Property": "PF",
+        "Value": 0.0009400000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2jm16369a"
+      },
+      {
+        "Original_Name_In_Paper": "In4Se2.35",
+        "Property": "Conductivity",
+        "Value": 8260.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2jm16369a"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "In4Se2.35",
+        "Property": "ThermCond",
+        "Value": 1.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/nature08088"
+      }
+    ],
+    "705.0": [
+      {
+        "Original_Name_In_Paper": "single crystal In4Se2.35",
+        "Property": "ZT",
+        "Value": 1.48,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta05508j"
+      },
+      {
+        "Original_Name_In_Paper": "In4Se2.35",
+        "Property": "ZT",
+        "Value": 1.48,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6qi00340k"
+      }
+    ]
+  }
+}

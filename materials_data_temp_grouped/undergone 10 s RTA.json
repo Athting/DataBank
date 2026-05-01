@@ -1,0 +1,18 @@
+{
+  "Material": "undergone 10 s RTA",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2015.07.007"
+  ],
+  "Data_By_Temperature": {
+    "360.0": [
+      {
+        "Original_Name_In_Paper": "undergone 10 s RTA",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2015.07.007"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Material": "PbCl0.005S0.995",
+  "DOIs_Researched": [
+    "10.1016/j.jeurceramsoc.2018.03.046"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "PbCl0.005S0.995",
+        "Property": "ThermCond",
+        "Value": 0.42,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2018.03.046"
+      },
+      {
+        "Original_Name_In_Paper": "PbCl0.005S0.995",
+        "Property": "Conductivity",
+        "Value": 26300.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2018.03.046"
+      }
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "doi": "10.1039/b102987h",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "LaCrO3",
+        "(La0.9Sr0.1)CrO3"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "LaCrO3",
+          "value": 33.00330033,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "756.0 K"
+        },
+        {
+          "material": "(La0.9Sr0.1)CrO3",
+          "value": 1500,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "1773.0 K"
+        },
+        {
+          "material": "LaCrO3",
+          "value": 100,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "1273.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": []
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

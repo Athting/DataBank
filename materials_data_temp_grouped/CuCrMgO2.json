@@ -1,0 +1,86 @@
+{
+  "Material": "CuCrMgO2",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2012.03.054",
+    "10.1016/j.ssc.2009.02.026",
+    "10.1007/s10948-015-3352-7",
+    "10.1016/j.jssc.2011.07.005",
+    "10.1016/j.jallcom.2020.156119"
+  ],
+  "Data_By_Temperature": {
+    "748.0": [
+      {
+        "Original_Name_In_Paper": "CuCr0.85Mg0.15O2",
+        "Property": "ZT",
+        "Value": 0.028,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.156119"
+      },
+      {
+        "Original_Name_In_Paper": "CuCr0.85Mg0.15O2",
+        "Property": "ZT",
+        "Value": 0.028,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.156119"
+      },
+      {
+        "Original_Name_In_Paper": "CuCr0.85Mg0.15O2",
+        "Property": "ZT",
+        "Value": 0.028,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.156119"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "CuCr0.97Mg0.03O2",
+        "Property": "ZT",
+        "Value": 0.04,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10948-015-3352-7"
+      },
+      {
+        "Original_Name_In_Paper": "CuCr0.97Mg0.03O2",
+        "Property": "ZT",
+        "Value": 0.04,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2011.07.005"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "CuCr0.98Mg0.02O2",
+        "Property": "Conductivity",
+        "Value": 100.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2009.02.026"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "CuCr0.99Mg0.01O2",
+        "Property": "Conductivity",
+        "Value": 333.3333333333,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2009.02.026"
+      }
+    ],
+    "950.0": [
+      {
+        "Original_Name_In_Paper": "CuCr0.97Mg0.03O2",
+        "Property": "PF",
+        "Value": 0.0002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2012.03.054"
+      }
+    ]
+  }
+}

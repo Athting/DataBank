@@ -1,0 +1,18 @@
+{
+  "Material": "BaTiS3",
+  "DOIs_Researched": [
+    "10.1038/s41467-020-19872-w"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "BaTiS3",
+        "Property": "ThermCond",
+        "Value": 0.39,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41467-020-19872-w"
+      }
+    ]
+  }
+}

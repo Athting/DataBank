@@ -1,0 +1,18 @@
+{
+  "Material": "Tin Seleenide (SnSe)",
+  "DOIs_Researched": [
+    "10.1039/c7cp00815e"
+  ],
+  "Data_By_Temperature": {
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "bulk tin selenide",
+        "Property": "ZT",
+        "Value": 2.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cp00815e"
+      }
+    ]
+  }
+}

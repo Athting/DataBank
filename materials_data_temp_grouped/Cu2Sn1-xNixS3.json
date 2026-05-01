@@ -1,0 +1,36 @@
+{
+  "Material": "Cu2Sn1-xNixS3",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2017.08.227"
+  ],
+  "Data_By_Temperature": {
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "Cu2Sn1-xNixS3",
+        "Property": "PF",
+        "Value": 0.00076,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.08.227"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Cu2Sn1-xNixS3",
+        "Property": "PF",
+        "Value": 0.00076,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.08.227"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2Sn1-xNixS3",
+        "Property": "Conductivity",
+        "Value": 142180.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.08.227"
+      }
+    ]
+  }
+}

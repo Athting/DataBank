@@ -1,0 +1,18 @@
+{
+  "Material": "Nd-doped STO",
+  "DOIs_Researched": [
+    "10.1016/j.jeurceramsoc.2019.09.024"
+  ],
+  "Data_By_Temperature": {
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "Nd-doped STO",
+        "Property": "Conductivity",
+        "Value": 110000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2019.09.024"
+      }
+    ]
+  }
+}

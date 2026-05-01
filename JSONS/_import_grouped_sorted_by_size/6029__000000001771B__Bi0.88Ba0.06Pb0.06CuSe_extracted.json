@@ -1,0 +1,73 @@
+{
+  "doi": "10.1016/j.matlet.2018.01.074",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Bi0.88Ba0.06Pb0.06CuSeO",
+        "Bi0.88Ba0.06Pb0.06CuSeO bulk"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Bi0.88Ba0.06Pb0.06CuSeO",
+          "value": 0.0006600000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Bi0.88Ba0.06Pb0.06CuSeO bulk",
+          "value": 0.0006600000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "873.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Bi0.88Ba0.06Pb0.06CuSeO",
+          "zt_value": 1.01,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Bi0.88Ba0.06Pb0.06CuSeO",
+          "zt_value": 1.01,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Bi0.88Ba0.06Pb0.06CuSeO bulk",
+          "zt_value": 1.01,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Bi0.88Ba0.06Pb0.06CuSeO bulk",
+          "zt_value": 1.01,
+          "temperature": "873.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

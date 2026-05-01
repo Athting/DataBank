@@ -1,0 +1,94 @@
+{
+  "Material": "CeFeCoSb12",
+  "DOIs_Researched": [
+    "10.1016/j.tsf.2013.09.068",
+    "10.1039/c3ta13024j",
+    "10.1039/c8ta07445c",
+    "10.1016/j.jallcom.2007.12.065",
+    "10.1016/j.jallcom.2016.12.040"
+  ],
+  "Data_By_Temperature": {
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "Ce0.8Fe3CoSb12 alloy",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta07445c"
+      },
+      {
+        "Original_Name_In_Paper": "Ce0.8Fe3CoSb12 alloy",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta07445c"
+      },
+      {
+        "Original_Name_In_Paper": "Ce0.8Fe3CoSb12 alloy",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta07445c"
+      },
+      {
+        "Original_Name_In_Paper": "Ce0.46Fe1.45Co2.56Sb12",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2007.12.065"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Ce0.9Fe3.4Co0.6Sb12 compound",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta13024j"
+      }
+    ],
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "bulk Ce0.12Fe0.71Co3.29Sb12",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2013.09.068"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "bulk Ce0.12Fe0.71Co3.29Sb12",
+        "Property": "ZT",
+        "Value": 0.05,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2013.09.068"
+      },
+      {
+        "Original_Name_In_Paper": "bulk Ce0.12Fe0.71Co3.29Sb12",
+        "Property": "ZT",
+        "Value": 0.05,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2013.09.068"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Ce0.28Fe1.5Co2.5Sb12",
+        "Property": "ZT",
+        "Value": 0.36,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.12.040"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "K3Bi2P3O12",
+  "DOIs_Researched": [
+    "10.1016/j.materresbull.2005.01.008"
+  ],
+  "Data_By_Temperature": {
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "crystalline K3Bi2P3O12",
+        "Property": "Conductivity",
+        "Value": 8.1e-07,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2005.01.008"
+      }
+    ]
+  }
+}

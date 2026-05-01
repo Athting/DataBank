@@ -1,0 +1,18 @@
+{
+  "Material": "SrPd4SnxSb12-x",
+  "DOIs_Researched": [
+    "10.1007/s11664-013-2899-y"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "SrPd4SnxSb12-x",
+        "Property": "ThermCond",
+        "Value": 3.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-013-2899-y"
+      }
+    ]
+  }
+}

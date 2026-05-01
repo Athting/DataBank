@@ -1,0 +1,18 @@
+{
+  "Material": "Al\u2013Si coating",
+  "DOIs_Researched": [
+    "10.1016/j.jmatprotec.2017.11.009"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Al\u2013Si coating",
+        "Property": "Conductivity",
+        "Value": 130000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmatprotec.2017.11.009"
+      }
+    ]
+  }
+}

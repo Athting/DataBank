@@ -1,0 +1,18 @@
+{
+  "Material": "Bi0.92Na0.08CuSeO",
+  "DOIs_Researched": [
+    "10.1007/s10853-017-1323-z"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.92Na0.08CuSeO",
+        "Property": "ZT",
+        "Value": 0.97,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-017-1323-z"
+      }
+    ]
+  }
+}

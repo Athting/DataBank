@@ -1,0 +1,18 @@
+{
+  "Material": "Ba8Ag3.4Ge41.5",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2010.12.033"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ba8Ag3.4Ge41.5\u25a11.1",
+        "Property": "ThermCond",
+        "Value": 1.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2010.12.033"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "doi": "10.1016/S0022-0248(99)00587-4",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Bi–Sb alloys with Sb",
+        "Bi–Sb alloys single crystals with Sb"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Bi–Sb alloys with Sb",
+          "zt_value": 0.0001,
+          "temperature": "165.0 K"
+        },
+        {
+          "material": "Bi–Sb alloys single crystals with Sb",
+          "zt_value": 0.0001,
+          "temperature": "100.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

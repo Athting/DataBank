@@ -1,0 +1,18 @@
+{
+  "Material": "YbMg1.2Zn0.8Sb2",
+  "DOIs_Researched": [
+    "10.1016/j.jmat.2019.08.002"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "YbMg1.2Zn0.8Sb2",
+        "Property": "ThermCond",
+        "Value": 0.75,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2019.08.002"
+      }
+    ]
+  }
+}

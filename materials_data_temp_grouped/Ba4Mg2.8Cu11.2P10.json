@@ -1,0 +1,18 @@
+{
+  "Material": "Ba4Mg2.8Cu11.2P10",
+  "DOIs_Researched": [
+    "10.1039/c6qi00475j"
+  ],
+  "Data_By_Temperature": {
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "Ba4Mg2.8Cu11.2P10",
+        "Property": "ThermCond",
+        "Value": 13.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6qi00475j"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "SrLaDyTiO3",
+  "DOIs_Researched": [
+    "10.1016/j.jmst.2020.02.065"
+  ],
+  "Data_By_Temperature": {
+    "550.0": [
+      {
+        "Original_Name_In_Paper": "Sr0.9La0.05Dy0.05Ti1-xNbxO3",
+        "Property": "PF",
+        "Value": 0.00125,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmst.2020.02.065"
+      }
+    ]
+  }
+}

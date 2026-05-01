@@ -1,0 +1,179 @@
+{
+  "Material": "AgSbTe",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2010.03.170",
+    "10.1007/s11664-010-1278-1",
+    "10.1016/j.actamat.2010.04.007",
+    "10.1016/j.physleta.2007.07.044",
+    "10.1016/j.jssc.2006.08.016",
+    "10.1016/j.jallcom.2010.10.131",
+    "10.1038/s41598-019-45697-9",
+    "10.1557/PROC-1267-DD06-04"
+  ],
+  "Data_By_Temperature": {
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "Ag0.71Sb1.29Te2.29",
+        "Property": "ThermCond",
+        "Value": 0.6000000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2010.04.007"
+      },
+      {
+        "Original_Name_In_Paper": "Ag0.71Sb1.29Te2.29",
+        "Property": "ZT",
+        "Value": 1.37,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2010.04.007"
+      },
+      {
+        "Original_Name_In_Paper": "Ag0.71Sb1.29Te2.29",
+        "Property": "ZT",
+        "Value": 1.37,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2010.04.007"
+      },
+      {
+        "Original_Name_In_Paper": "Ag0.71Sb1.29Te2.29",
+        "Property": "ZT",
+        "Value": 1.37,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2010.04.007"
+      },
+      {
+        "Original_Name_In_Paper": "Ag0.71Sb1.29Te2.29",
+        "Property": "Seebeck",
+        "Value": 0.00025,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2010.04.007"
+      },
+      {
+        "Original_Name_In_Paper": "Ag0.65Sb1.35Te2.35",
+        "Property": "PF",
+        "Value": 0.0017000000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2010.04.007"
+      }
+    ],
+    "475.0": [
+      {
+        "Original_Name_In_Paper": "Ag0.71Sb1.29Te2.29",
+        "Property": "ThermCond",
+        "Value": 0.58,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2010.04.007"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ag3.9Sb33.6Te62.5",
+        "Property": "ThermCond",
+        "Value": 0.24,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-019-45697-9"
+      },
+      {
+        "Original_Name_In_Paper": "Ag3.9Sb33.6Te62.5",
+        "Property": "ZT",
+        "Value": 0.9500000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-019-45697-9"
+      },
+      {
+        "Original_Name_In_Paper": "Ag0.208Sb0.275Te0.517",
+        "Property": "ZT",
+        "Value": 0.44,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physleta.2007.07.044"
+      },
+      {
+        "Original_Name_In_Paper": "Ag0.84Sb1.16Te2.16",
+        "Property": "Seebeck",
+        "Value": 0.00030000000000000003,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.03.170"
+      },
+      {
+        "Original_Name_In_Paper": "Ag3.9Sb33.6Te62.5",
+        "Property": "PF",
+        "Value": 2.3e-06,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-019-45697-9"
+      },
+      {
+        "Original_Name_In_Paper": "Ag0.98Na0.02SbTe2.02",
+        "Property": "PF",
+        "Value": 1.27,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.10.131"
+      }
+    ],
+    "551.0": [
+      {
+        "Original_Name_In_Paper": "Ag0.365Sb0.558Te",
+        "Property": "ZT",
+        "Value": 0.6900000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-010-1278-1"
+      }
+    ],
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "Ag0.84Sb1.16Te2.16",
+        "Property": "ZT",
+        "Value": 1.53,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1557/PROC-1267-DD06-04"
+      },
+      {
+        "Original_Name_In_Paper": "Ag0.84Sb1.16Te2.16",
+        "Property": "ZT",
+        "Value": 1.53,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.03.170"
+      },
+      {
+        "Original_Name_In_Paper": "Ag0.84Sb1.16Te2.16",
+        "Property": "ZT",
+        "Value": 1.53,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.03.170"
+      },
+      {
+        "Original_Name_In_Paper": "Ag0.365Sb0.558Te",
+        "Property": "Seebeck",
+        "Value": 0.000164,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2006.08.016"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ag0.84Sb1.16Te2.16",
+        "Property": "PF",
+        "Value": 0.00235,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.03.170"
+      }
+    ]
+  }
+}

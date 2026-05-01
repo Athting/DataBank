@@ -1,0 +1,18 @@
+{
+  "Material": "Ni / Au",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2019.152731"
+  ],
+  "Data_By_Temperature": {
+    "1233.0": [
+      {
+        "Original_Name_In_Paper": "Ni / Au",
+        "Property": "ThermCond",
+        "Value": 150.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.152731"
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "Material": "CeNiAl4",
+  "DOIs_Researched": [
+    "10.1016/j.ssc.2004.08.034",
+    "10.1016/j.ssc.2007.08.041",
+    "10.1016/j.jmmm.2015.05.052"
+  ],
+  "Data_By_Temperature": {
+    "100.0": [
+      {
+        "Original_Name_In_Paper": "CeNiAl4",
+        "Property": "Conductivity",
+        "Value": 577034.0450086554,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2007.08.041"
+      }
+    ],
+    "40.0": [
+      {
+        "Original_Name_In_Paper": "CeNiAl4",
+        "Property": "Seebeck",
+        "Value": 4.2e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmmm.2015.05.052"
+      }
+    ],
+    "150.0": [
+      {
+        "Original_Name_In_Paper": "CeNiAl4",
+        "Property": "Seebeck",
+        "Value": 3.0000000000000004e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2004.08.034"
+      }
+    ]
+  }
+}

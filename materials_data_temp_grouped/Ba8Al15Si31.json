@@ -1,0 +1,18 @@
+{
+  "Material": "Ba8Al15Si31",
+  "DOIs_Researched": [
+    "10.1016/j.matdes.2015.08.096"
+  ],
+  "Data_By_Temperature": {
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "Ba8Al15Si31",
+        "Property": "ZT",
+        "Value": 0.09,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matdes.2015.08.096"
+      }
+    ]
+  }
+}

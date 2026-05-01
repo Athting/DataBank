@@ -1,0 +1,82 @@
+{
+  "Material": "SrO",
+  "DOIs_Researched": [
+    "10.1016/j.jeurceramsoc.2015.12.001",
+    "10.1007/s10853-016-0048-8",
+    "10.1016/j.physe.2020.113965"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "STNO : SrO",
+        "Property": "ThermCond",
+        "Value": 5.9,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-016-0048-8"
+      },
+      {
+        "Original_Name_In_Paper": "STNO : SrO",
+        "Property": "Seebeck",
+        "Value": -4.49e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-016-0048-8"
+      },
+      {
+        "Original_Name_In_Paper": "STNO : SrO",
+        "Property": "Conductivity",
+        "Value": 6050.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-016-0048-8"
+      }
+    ],
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "SrO",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physe.2020.113965"
+      },
+      {
+        "Original_Name_In_Paper": "SrO",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physe.2020.113965"
+      }
+    ],
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "STNO : SrO",
+        "Property": "ZT",
+        "Value": 0.05,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-016-0048-8"
+      },
+      {
+        "Original_Name_In_Paper": "SrO",
+        "Property": "ZT",
+        "Value": 0.03,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-016-0048-8"
+      }
+    ],
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "SrO",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2015.12.001"
+      }
+    ]
+  }
+}

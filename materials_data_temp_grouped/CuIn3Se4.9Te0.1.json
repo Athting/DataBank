@@ -1,0 +1,18 @@
+{
+  "Material": "CuIn3Se4.9Te0.1",
+  "DOIs_Researched": [
+    "10.1016/j.matlet.2020.128251"
+  ],
+  "Data_By_Temperature": {
+    "930.0": [
+      {
+        "Original_Name_In_Paper": "CuIn3Se4.9Te0.1",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2020.128251"
+      }
+    ]
+  }
+}

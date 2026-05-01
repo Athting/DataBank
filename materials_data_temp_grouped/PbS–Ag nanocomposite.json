@@ -1,0 +1,18 @@
+{
+  "Material": "PbS\u2013Ag nanocomposite",
+  "DOIs_Researched": [
+    "10.1039/c6dt04177a"
+  ],
+  "Data_By_Temperature": {
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "PbS\u2013Ag nanocomposite",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6dt04177a"
+      }
+    ]
+  }
+}

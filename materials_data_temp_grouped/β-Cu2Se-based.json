@@ -1,0 +1,18 @@
+{
+  "Material": "\u03b2-Cu2Se-based",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2015.08.154"
+  ],
+  "Data_By_Temperature": {
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "\u03b2-Cu2Se-based",
+        "Property": "ZT",
+        "Value": 1.29,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.08.154"
+      }
+    ]
+  }
+}

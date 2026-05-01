@@ -1,0 +1,26 @@
+{
+  "Material": "Ca1.55Na0.45Co2O5",
+  "DOIs_Researched": [
+    "10.1016/j.physb.2007.10.010"
+  ],
+  "Data_By_Temperature": {
+    "950.0": [
+      {
+        "Original_Name_In_Paper": "Ca1.55Na0.45Co2O5",
+        "Property": "Seebeck",
+        "Value": 0.000165,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2007.10.010"
+      },
+      {
+        "Original_Name_In_Paper": "Ca1.55Na0.45Co2O5",
+        "Property": "Conductivity",
+        "Value": 6890.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2007.10.010"
+      }
+    ]
+  }
+}

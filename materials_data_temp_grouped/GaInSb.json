@@ -1,0 +1,27 @@
+{
+  "Material": "GaInSb",
+  "DOIs_Researched": [
+    "10.1016/j.intermet.2019.106528",
+    "10.1016/j.ceramint.2018.08.193"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ga0.15In0.85Sb",
+        "Property": "ThermCond",
+        "Value": 6.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2019.106528"
+      },
+      {
+        "Original_Name_In_Paper": "Ga0.8In0.2Sb",
+        "Property": "ThermCond",
+        "Value": 7.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.08.193"
+      }
+    ]
+  }
+}

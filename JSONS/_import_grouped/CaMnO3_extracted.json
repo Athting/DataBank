@@ -1,0 +1,413 @@
+{
+  "doi": "10.1016/j.jallcom.2017.04.121",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "pure CaMnO3",
+        "pure CaMnO3 film",
+        "CaMnO3",
+        "undoped CaMnO3",
+        "undoped CaMnO3 nanoparticle",
+        "Undoped CaMnO3",
+        "CaMnO3 films",
+        "pure CaMnO3 thin film",
+        "Un-doped CaMnO3",
+        "doped CaMnO3 compounds",
+        "Dy / Yb dual-doped CaMnO3",
+        "Nb-doped CaMnO3",
+        "Gd-doped CaMnO3",
+        "CaMnO3-based",
+        "electron-doped CaMnO3",
+        "CaMnO3-based compound",
+        "Doped-CaMnO3",
+        "CaMnO3 perovskite type",
+        "Yb-doped CaMnO3",
+        "doped CaMnO3",
+        "un-doped CaMnO3",
+        "CaMn0.9In0.1O3",
+        "Perovskite oxide CaMnO3",
+        "0.9Ca0.1MnO3"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "pure CaMnO3 film",
+          "value": -0.00027,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CaMnO3",
+          "value": -0.0002,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CaMnO3 films",
+          "value": -0.000145,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure CaMnO3 thin film",
+          "value": -0.00027,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CaMnO3",
+          "value": -0.000312,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CaMnO3",
+          "value": -0.000312,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CaMnO3",
+          "value": -0.000312,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CaMnO3",
+          "value": -0.00035000000000000005,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "undoped CaMnO3",
+          "value": 0.00046,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CaMnO3",
+          "value": -0.00025,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "CaMnO3",
+          "value": -0.0008,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "CaMnO3",
+          "value": -0.0008,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "doped CaMnO3 compounds",
+          "value": -0.0001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "CaMnO3",
+          "value": -0.000192,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "undoped CaMnO3",
+          "value": -0.000192,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "Perovskite oxide CaMnO3",
+          "value": -0.00030000000000000003,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "1200.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "CaMnO3",
+          "value": 50,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure CaMnO3 film",
+          "value": 37.037037037,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure CaMnO3",
+          "value": 37.037037037,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "undoped CaMnO3",
+          "value": 12.5,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "undoped CaMnO3 nanoparticle",
+          "value": -9.4339622642,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Undoped CaMnO3",
+          "value": 333.3333333333,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CaMnO3",
+          "value": 10,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "CaMnO3",
+          "value": 10,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "undoped CaMnO3",
+          "value": 4800,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "CaMnO3",
+          "value": 500,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "0.9Ca0.1MnO3",
+          "value": 1000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "330.0 K"
+        },
+        {
+          "material": "Gd-doped CaMnO3",
+          "value": 11340,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "950.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "pure CaMnO3",
+          "value": 2.7,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure CaMnO3 film",
+          "value": 2.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CaMnO3",
+          "value": 3.6,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Un-doped CaMnO3",
+          "value": 3.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "undoped CaMnO3",
+          "value": 3.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "pure CaMnO3",
+          "value": 7.8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Dy / Yb dual-doped CaMnO3",
+          "value": 1.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "Nb-doped CaMnO3",
+          "value": 0.73,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "Gd-doped CaMnO3",
+          "value": 1.3,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "973.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "pure CaMnO3",
+          "value": 0.0000028,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure CaMnO3 thin film",
+          "value": 0.0000027,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "undoped CaMnO3",
+          "value": 0.00006000000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "doped CaMnO3 compounds",
+          "value": 0.00025,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "undoped CaMnO3",
+          "value": 0.00039000000000000005,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1073.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "undoped CaMnO3",
+          "zt_value": 0.06,
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "CaMnO3",
+          "zt_value": 0.25,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "CaMnO3-based",
+          "zt_value": 0.25,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "CaMnO3",
+          "zt_value": 0.09,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "CaMnO3",
+          "zt_value": 0.25,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "pure CaMnO3",
+          "zt_value": 0.038,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "CaMnO3",
+          "zt_value": 0.16,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "CaMnO3",
+          "zt_value": 0.21,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "electron-doped CaMnO3",
+          "zt_value": 0.2,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "CaMnO3-based compound",
+          "zt_value": 1.15,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Doped-CaMnO3",
+          "zt_value": 0.30000000000000004,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "CaMnO3",
+          "zt_value": 0.30000000000000004,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "CaMnO3 perovskite type",
+          "zt_value": 1.15,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Yb-doped CaMnO3",
+          "zt_value": 0.16,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "CaMnO3",
+          "zt_value": 0.30000000000000004,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "undoped CaMnO3",
+          "zt_value": 0.085,
+          "temperature": "947.0 K"
+        },
+        {
+          "material": "doped CaMnO3",
+          "zt_value": 0.15,
+          "temperature": "947.0 K"
+        },
+        {
+          "material": "un-doped CaMnO3",
+          "zt_value": 0.065,
+          "temperature": "473.0 K"
+        },
+        {
+          "material": "CaMn0.9In0.1O3",
+          "zt_value": 0.16,
+          "temperature": "1173.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

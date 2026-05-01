@@ -1,0 +1,38 @@
+{
+  "Material": "TiO1.1",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2018.07.246",
+    "10.1016/j.tsf.2013.12.009",
+    "10.1007/s00339-014-8515-z"
+  ],
+  "Data_By_Temperature": {
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "TiO1.1",
+        "Property": "ZT",
+        "Value": 1.6400000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2013.12.009"
+      },
+      {
+        "Original_Name_In_Paper": "TiO1.1",
+        "Property": "ZT",
+        "Value": 1.6400000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.07.246"
+      }
+    ],
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "TiO1.1",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s00339-014-8515-z"
+      }
+    ]
+  }
+}

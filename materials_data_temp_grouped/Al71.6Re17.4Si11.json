@@ -1,0 +1,18 @@
+{
+  "Material": "Al71.6Re17.4Si11",
+  "DOIs_Researched": [
+    "10.1557/PROC-805-LL3.3"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Al71.6Re17.4Si11",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1557/PROC-805-LL3.3"
+      }
+    ]
+  }
+}

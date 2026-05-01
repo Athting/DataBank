@@ -1,0 +1,38 @@
+{
+  "Material": "BaCrSe8",
+  "DOIs_Researched": [
+    "10.1039/c6dt02166b"
+  ],
+  "Data_By_Temperature": {
+    "830.0": [
+      {
+        "Original_Name_In_Paper": "Ba0.5Cr5Se8",
+        "Property": "ZT",
+        "Value": 0.12,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6dt02166b"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Ba0.5Cr5Se8",
+        "Property": "ZT",
+        "Value": 0.12,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6dt02166b"
+      }
+    ],
+    "635.0": [
+      {
+        "Original_Name_In_Paper": "Ba0.5Cr5Se8",
+        "Property": "Seebeck",
+        "Value": 0.00031499999999999996,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6dt02166b"
+      }
+    ]
+  }
+}

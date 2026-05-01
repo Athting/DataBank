@@ -1,0 +1,18 @@
+{
+  "Material": "Sr1.97La0.03Nb2O7",
+  "DOIs_Researched": [
+    "10.1007/s11664-015-4053-5"
+  ],
+  "Data_By_Temperature": {
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "Sr1.97La0.03Nb2O7",
+        "Property": "Conductivity",
+        "Value": 4366812227.074236,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-015-4053-5"
+      }
+    ]
+  }
+}

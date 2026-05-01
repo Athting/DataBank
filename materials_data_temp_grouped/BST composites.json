@@ -1,0 +1,47 @@
+{
+  "Material": "BST composites",
+  "DOIs_Researched": [
+    "10.1007/s11664-017-5908-8",
+    "10.1016/j.nanoen.2018.10.069"
+  ],
+  "Data_By_Temperature": {
+    "298.0": [
+      {
+        "Original_Name_In_Paper": "BST composites",
+        "Property": "ThermCond",
+        "Value": 0.55,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2018.10.069"
+      },
+      {
+        "Original_Name_In_Paper": "BST composites",
+        "Property": "PF",
+        "Value": 0.001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2018.10.069"
+      }
+    ],
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "BST composites",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2018.10.069"
+      }
+    ],
+    "320.0": [
+      {
+        "Original_Name_In_Paper": "BST composites",
+        "Property": "ZT",
+        "Value": 1.05,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-017-5908-8"
+      }
+    ]
+  }
+}

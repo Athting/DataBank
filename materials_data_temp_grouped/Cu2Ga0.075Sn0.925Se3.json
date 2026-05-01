@@ -1,0 +1,46 @@
+{
+  "Material": "Cu2Ga0.075Sn0.925Se3",
+  "DOIs_Researched": [
+    "10.1039/c5nj03345d",
+    "10.1016/j.actamat.2013.04.003",
+    "10.1016/j.intermet.2014.05.006"
+  ],
+  "Data_By_Temperature": {
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "Cu2Ga0.075Sn0.925Se3",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2014.05.006"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2Ga0.075Sn0.925Se3",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5nj03345d"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Cu2Ga0.075Sn0.925Se3",
+        "Property": "ZT",
+        "Value": 0.43,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2013.04.003"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2Ga0.075Sn0.925Se3",
+        "Property": "ZT",
+        "Value": 0.43,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2013.04.003"
+      }
+    ]
+  }
+}

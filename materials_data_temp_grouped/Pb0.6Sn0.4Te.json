@@ -1,0 +1,50 @@
+{
+  "Material": "Pb0.6Sn0.4Te",
+  "DOIs_Researched": [
+    "10.1039/c8ta00381e",
+    "10.1039/c8ta08731h",
+    "10.1016/j.mtphys.2018.02.001"
+  ],
+  "Data_By_Temperature": {
+    "856.0": [
+      {
+        "Original_Name_In_Paper": "TCI Pb0.6Sn0.4Te",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": "Na doping",
+        "Source_DOI": "10.1039/c8ta00381e"
+      }
+    ],
+    "475.0": [
+      {
+        "Original_Name_In_Paper": "undoped Pb0.6Sn0.4Te",
+        "Property": "ZT",
+        "Value": 0.38,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta00381e"
+      }
+    ],
+    "840.0": [
+      {
+        "Original_Name_In_Paper": "Mg doped Pb0.6Sn0.4Te",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2018.02.001"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "undoped Pb0.6Sn0.4Te",
+        "Property": "Conductivity",
+        "Value": 172500.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta08731h"
+      }
+    ]
+  }
+}

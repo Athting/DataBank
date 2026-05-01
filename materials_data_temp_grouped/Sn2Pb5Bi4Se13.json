@@ -1,0 +1,18 @@
+{
+  "Material": "Sn2Pb5Bi4Se13",
+  "DOIs_Researched": [
+    "10.1016/j.solidstatesciences.2009.05.033"
+  ],
+  "Data_By_Temperature": {
+    "308.0": [
+      {
+        "Original_Name_In_Paper": "Sn2Pb5Bi4Se13",
+        "Property": "Seebeck",
+        "Value": -8e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2009.05.033"
+      }
+    ]
+  }
+}

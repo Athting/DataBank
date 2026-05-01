@@ -1,0 +1,18 @@
+{
+  "Material": "SmEuGdS4",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2009.04.076"
+  ],
+  "Data_By_Temperature": {
+    "950.0": [
+      {
+        "Original_Name_In_Paper": "SmEuGdS4",
+        "Property": "PF",
+        "Value": 9.2e-07,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.04.076"
+      }
+    ]
+  }
+}

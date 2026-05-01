@@ -1,0 +1,38 @@
+{
+  "Material": "Gd2Zr2O7",
+  "DOIs_Researched": [
+    "10.1038/am.2013.15",
+    "10.1039/c4ee00997e",
+    "10.1016/j.pmatsci.2015.01.001"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Gd2Zr2O7",
+        "Property": "ThermCond",
+        "Value": 1.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2013.15"
+      },
+      {
+        "Original_Name_In_Paper": "Gd2Zr2O7",
+        "Property": "ThermCond",
+        "Value": 2.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ee00997e"
+      }
+    ],
+    "1273.0": [
+      {
+        "Original_Name_In_Paper": "Gd2Zr2O7",
+        "Property": "Conductivity",
+        "Value": 5.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2015.01.001"
+      }
+    ]
+  }
+}

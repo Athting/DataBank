@@ -1,0 +1,18 @@
+{
+  "Material": "CCO-based",
+  "DOIs_Researched": [
+    "10.1016/j.mattod.2019.07.003"
+  ],
+  "Data_By_Temperature": {
+    "1118.0": [
+      {
+        "Original_Name_In_Paper": "CCO-based",
+        "Property": "ZT",
+        "Value": 0.61,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mattod.2019.07.003"
+      }
+    ]
+  }
+}

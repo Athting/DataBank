@@ -1,0 +1,18 @@
+{
+  "Material": "Sr7.92Ga15.04Sn0.35Ge30.",
+  "DOIs_Researched": [
+    "10.1007/s11664-016-4865-y"
+  ],
+  "Data_By_Temperature": {
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "single-crystal Sr7.92Ga15.04Sn0.35Ge30.69",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-016-4865-y"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "CdSn",
+  "DOIs_Researched": [
+    "10.1039/c9ta11180h"
+  ],
+  "Data_By_Temperature": {
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "CdSn",
+        "Property": "ZT",
+        "Value": 1.42,
+        "Units": null,
+        "Editing": "CdSn substitution",
+        "Source_DOI": "10.1039/c9ta11180h"
+      }
+    ]
+  }
+}

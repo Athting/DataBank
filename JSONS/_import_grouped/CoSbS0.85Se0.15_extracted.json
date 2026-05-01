@@ -1,0 +1,60 @@
+{
+  "doi": "10.1007/s12598-017-0990-x",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Co0.95Zn0.05SbS0.85Se0.15",
+        "CoSbS0.85Se0.15"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Co0.95Zn0.05SbS0.85Se0.15",
+          "zt_value": 0.34,
+          "temperature": "875.0 K"
+        },
+        {
+          "material": "CoSbS0.85Se0.15",
+          "zt_value": 0.34,
+          "temperature": "875.0 K"
+        },
+        {
+          "material": "Co0.95Zn0.05SbS0.85Se0.15",
+          "zt_value": 0.34,
+          "temperature": "875.0 K"
+        },
+        {
+          "material": "Co0.95Zn0.05SbS0.85Se0.15",
+          "zt_value": 0.17,
+          "temperature": "875.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

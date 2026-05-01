@@ -1,0 +1,58 @@
+{
+  "doi": "10.1016/j.nanoen.2019.104092",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "p-type polycrystalline ZrTe5",
+        "ZrTe5 ribbon",
+        "polycrystalline ZrTe5"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "p-type polycrystalline ZrTe5",
+          "value": 2.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "ZrTe5 ribbon",
+          "zt_value": 1,
+          "temperature": "295 K"
+        },
+        {
+          "material": "polycrystalline ZrTe5",
+          "zt_value": 0.026000000000000002,
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

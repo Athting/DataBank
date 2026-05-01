@@ -1,0 +1,18 @@
+{
+  "Material": "Co3.922Ni0.078Sb12",
+  "DOIs_Researched": [
+    "10.1007/s10854-019-00892-2"
+  ],
+  "Data_By_Temperature": {
+    "475.0": [
+      {
+        "Original_Name_In_Paper": "Co3.922Ni0.078Sb12",
+        "Property": "PF",
+        "Value": 0.001365,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-019-00892-2"
+      }
+    ]
+  }
+}

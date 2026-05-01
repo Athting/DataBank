@@ -1,0 +1,37 @@
+{
+  "Material": "Co4Sb12-xTe",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2013.07.032",
+    "10.1016/j.jallcom.2014.03.017"
+  ],
+  "Data_By_Temperature": {
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "Co4Sb12\u2212xTex",
+        "Property": "ZT",
+        "Value": 0.72,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.03.017"
+      }
+    ],
+    "820.0": [
+      {
+        "Original_Name_In_Paper": "Co4Sb12\u2212xTex",
+        "Property": "ZT",
+        "Value": 0.93,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2013.07.032"
+      },
+      {
+        "Original_Name_In_Paper": "Co4Sb12\u2212xTex",
+        "Property": "ZT",
+        "Value": 0.93,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2013.07.032"
+      }
+    ]
+  }
+}

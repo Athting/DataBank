@@ -1,0 +1,134 @@
+{
+  "Material": "CuBiTeSe",
+  "DOIs_Researched": [
+    "10.1016/j.physb.2018.10.009",
+    "10.1016/j.cap.2014.12.006",
+    "10.1016/j.physb.2017.05.007",
+    "10.1016/j.scriptamat.2019.04.006",
+    "10.1039/c5tc01731a"
+  ],
+  "Data_By_Temperature": {
+    "440.0": [
+      {
+        "Original_Name_In_Paper": "Cu0.008Bi2-xNbxTe2.7Se0.3",
+        "Property": "ThermCond",
+        "Value": 0.32,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2018.10.009"
+      }
+    ],
+    "350.0": [
+      {
+        "Original_Name_In_Paper": "Cu0.008Bi2Te2.7Se0.3",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2019.04.006"
+      },
+      {
+        "Original_Name_In_Paper": "Cu0.008Bi2Te2.7Se0.3",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2019.04.006"
+      },
+      {
+        "Original_Name_In_Paper": "Cu0.008Bi2Te2.7Se0.3",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2019.04.006"
+      }
+    ],
+    "320.0": [
+      {
+        "Original_Name_In_Paper": "Cu0.008Bi1.99Au0.01Te2.7Se0.3",
+        "Property": "ZT",
+        "Value": 0.91,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01731a"
+      },
+      {
+        "Original_Name_In_Paper": "Au-doped Cu0.008Bi2Te2.7Se0.3",
+        "Property": "ZT",
+        "Value": 0.91,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01731a"
+      },
+      {
+        "Original_Name_In_Paper": "Cu0.008Bi1.99Au0.01Te2.7Se0.3",
+        "Property": "ZT",
+        "Value": 0.91,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01731a"
+      },
+      {
+        "Original_Name_In_Paper": "Cu0.008Bi1.99Au0.01Te2.7Se0.3",
+        "Property": "ZT",
+        "Value": 0.91,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01731a"
+      }
+    ],
+    "360.0": [
+      {
+        "Original_Name_In_Paper": "Cu0.008Bi1.98Al0.02Te2.7Se0.3",
+        "Property": "ZT",
+        "Value": 0.81,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2014.12.006"
+      },
+      {
+        "Original_Name_In_Paper": "Cu0.008Bi1.98Al0.02Te2.7Se0.3",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2014.12.006"
+      },
+      {
+        "Original_Name_In_Paper": "Cu0.008Bi1.98V0.02Te2.7Se0.3",
+        "Property": "ZT",
+        "Value": 0.88,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2017.05.007"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Cu0.008Bi1.98V0.02Te2.7Se0.3",
+        "Property": "ZT",
+        "Value": 0.85,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2017.05.007"
+      },
+      {
+        "Original_Name_In_Paper": "Cu0.008Bi1.99Au0.01Te2.7Se0.3",
+        "Property": "PF",
+        "Value": 0.00301,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01731a"
+      },
+      {
+        "Original_Name_In_Paper": "Cu0.008Bi1.99Au0.01Te2.7Se0.3",
+        "Property": "Conductivity",
+        "Value": 78000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01731a"
+      }
+    ]
+  }
+}

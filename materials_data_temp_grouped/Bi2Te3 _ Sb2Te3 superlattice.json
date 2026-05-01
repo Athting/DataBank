@@ -1,0 +1,91 @@
+{
+  "Material": "Bi2Te3 / Sb2Te3 superlattice",
+  "DOIs_Researched": [
+    "10.1007/s10853-020-04949-0",
+    "10.1016/S0040-6090(03)00855-1",
+    "10.1016/B978-044453122-3.50009-X",
+    "10.1016/j.apsusc.2017.06.260",
+    "10.1016/j.materresbull.2012.02.045",
+    "10.1016/j.jallcom.2016.05.330",
+    "10.1016/j.jelechem.2005.07.016",
+    "10.1007/s12598-018-1006-1"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Te3 / Sb2Te3 superlattice",
+        "Property": "ZT",
+        "Value": 2.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-044453122-3.50009-X"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Te3 / Sb2Te3 superlattice",
+        "Property": "ZT",
+        "Value": 2.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.05.330"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Te3 / Sb2Te3 superlattice",
+        "Property": "ZT",
+        "Value": 2.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2012.02.045"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Te3 / Sb2Te3 superlattice",
+        "Property": "ZT",
+        "Value": 2.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jelechem.2005.07.016"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Te3 / Sb2Te3 superlattice",
+        "Property": "ZT",
+        "Value": 2.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Te3 / Sb2Te3 superlattice",
+        "Property": "ZT",
+        "Value": 2.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0040-6090(03)00855-1"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Bi2Te3 / Sb2Te3 superlattice",
+        "Property": "ZT",
+        "Value": 2.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s12598-018-1006-1"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Te3 / Sb2Te3 superlattice",
+        "Property": "ZT",
+        "Value": 2.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2017.06.260"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Te3 / Sb2Te3 superlattice",
+        "Property": "ZT",
+        "Value": 2.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0040-6090(03)00855-1"
+      }
+    ]
+  }
+}

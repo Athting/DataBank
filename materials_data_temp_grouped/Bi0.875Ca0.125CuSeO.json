@@ -1,0 +1,28 @@
+{
+  "Material": "Bi0.875Ca0.125CuSeO",
+  "DOIs_Researched": [
+    "10.1039/c3ta11806a"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.875Ca0.125CuSeO",
+        "Property": "ThermCond",
+        "Value": 0.75,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta11806a"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.875Ca0.125CuSeO",
+        "Property": "Conductivity",
+        "Value": 50900.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta11806a"
+      }
+    ]
+  }
+}

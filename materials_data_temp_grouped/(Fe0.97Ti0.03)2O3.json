@@ -1,0 +1,18 @@
+{
+  "Material": "(Fe0.97Ti0.03)2O3",
+  "DOIs_Researched": [
+    "10.1016/S0925-8388(01)01804-7"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "(Fe0.97Ti0.03)2O3",
+        "Property": "ZT",
+        "Value": 4.28e-05,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(01)01804-7"
+      }
+    ]
+  }
+}

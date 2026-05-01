@@ -1,0 +1,42 @@
+{
+  "Material": "K8Ga8Sn38",
+  "DOIs_Researched": [
+    "10.1039/b914382c"
+  ],
+  "Data_By_Temperature": {
+    "490.0": [
+      {
+        "Original_Name_In_Paper": "K8Ga8Sn38",
+        "Property": "ZT",
+        "Value": 0.27,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/b914382c"
+      },
+      {
+        "Original_Name_In_Paper": "K8Ga8Sn38",
+        "Property": "ZT",
+        "Value": 0.27,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/b914382c"
+      },
+      {
+        "Original_Name_In_Paper": "K8Ga8Sn38",
+        "Property": "Seebeck",
+        "Value": -0.00026199999999999997,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/b914382c"
+      },
+      {
+        "Original_Name_In_Paper": "K8Ga8Sn38",
+        "Property": "Conductivity",
+        "Value": 9600.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/b914382c"
+      }
+    ]
+  }
+}

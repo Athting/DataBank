@@ -1,0 +1,199 @@
+{
+  "Material": "NbFeSb",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2017.08.216",
+    "10.1016/j.jallcom.2017.05.005",
+    "10.1039/c8ta07411a",
+    "10.1016/j.mtphys.2019.01.004",
+    "10.1007/s00339-018-2259-0",
+    "10.1038/s41467-018-08223-5",
+    "10.1016/j.scriptamat.2018.08.008",
+    "10.1038/s41467-018-04958-3",
+    "10.1016/j.actamat.2020.07.028",
+    "10.1016/j.mtphys.2020.100200"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "NbFeSb",
+        "Property": "ThermCond",
+        "Value": 14.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41467-018-08223-5"
+      },
+      {
+        "Original_Name_In_Paper": "Co-doped NbFeSb",
+        "Property": "ThermCond",
+        "Value": 10.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2019.01.004"
+      },
+      {
+        "Original_Name_In_Paper": "NbFeSb",
+        "Property": "ThermCond",
+        "Value": 17.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41467-018-04958-3"
+      },
+      {
+        "Original_Name_In_Paper": "NbFeSb",
+        "Property": "PF",
+        "Value": 10.0,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2019.01.004"
+      }
+    ],
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "NbFe0.92Ir0.02Sb",
+        "Property": "ThermCond",
+        "Value": 3.7,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2019.01.004"
+      },
+      {
+        "Original_Name_In_Paper": "NbFe0.92Ir0.08Sb",
+        "Property": "ThermCond",
+        "Value": 3.7,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2019.01.004"
+      },
+      {
+        "Original_Name_In_Paper": "NbFeSb",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": "doping 20 % Ti",
+        "Source_DOI": "10.1016/j.scriptamat.2018.08.008"
+      },
+      {
+        "Original_Name_In_Paper": "NbFe0.94Ir0.06Sb",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2019.01.004"
+      },
+      {
+        "Original_Name_In_Paper": "NbFe0.94Ir0.06Sb",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2019.01.004"
+      },
+      {
+        "Original_Name_In_Paper": "NbFe0.94Ir0.06Sb",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2019.01.004"
+      },
+      {
+        "Original_Name_In_Paper": "NbFe0.94Ir0.06Sb",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2019.01.004"
+      },
+      {
+        "Original_Name_In_Paper": "NbFe0.94Ir0.06Sb",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2019.01.004"
+      }
+    ],
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "NbFeSb",
+        "Property": "ThermCond",
+        "Value": 15.6,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2020.07.028"
+      }
+    ],
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "NbFeSb",
+        "Property": "ThermCond",
+        "Value": 1.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2020.07.028"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "NbFeSb",
+        "Property": "ThermCond",
+        "Value": 7.1,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2020.100200"
+      }
+    ],
+    "1200.0": [
+      {
+        "Original_Name_In_Paper": "p-type NbFeSb-based",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s00339-018-2259-0"
+      },
+      {
+        "Original_Name_In_Paper": "NbFeSb",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.05.005"
+      },
+      {
+        "Original_Name_In_Paper": "p-type NbFeSb alloys",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2020.100200"
+      },
+      {
+        "Original_Name_In_Paper": "p-type NbFeSb",
+        "Property": "ZT",
+        "Value": 1.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2019.01.004"
+      },
+      {
+        "Original_Name_In_Paper": "NbFeSb",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.08.216"
+      }
+    ],
+    "1100.0": [
+      {
+        "Original_Name_In_Paper": "NbFeSb",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta07411a"
+      }
+    ]
+  }
+}

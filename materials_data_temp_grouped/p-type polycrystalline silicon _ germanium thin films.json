@@ -1,0 +1,18 @@
+{
+  "Material": "p-type polycrystalline silicon / germanium thin films",
+  "DOIs_Researched": [
+    "10.1039/c7cp04638c"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "p-type polycrystalline silicon / germanium thin films",
+        "Property": "ZT",
+        "Value": 2.03,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cp04638c"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "Material": "CoTiSb",
+  "DOIs_Researched": [
+    "10.1016/j.scriptamat.2010.08.039"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "CoTiSb",
+        "Property": "ThermCond",
+        "Value": 11.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2010.08.039"
+      }
+    ],
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "Pure CoTiSb",
+        "Property": "Seebeck",
+        "Value": -0.00018,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2010.08.039"
+      }
+    ]
+  }
+}

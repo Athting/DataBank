@@ -1,0 +1,76 @@
+{
+  "Material": "AgSb0.98Cd0.02Se2",
+  "DOIs_Researched": [
+    "10.1039/c4ra00969j"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "AgSb0.98Cd0.02Se2",
+        "Property": "ThermCond",
+        "Value": 0.36,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra00969j"
+      },
+      {
+        "Original_Name_In_Paper": "AgSb0.98Cd0.02Se2",
+        "Property": "ThermCond",
+        "Value": 0.34,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra00969j"
+      },
+      {
+        "Original_Name_In_Paper": "AgSb0.98Cd0.02Se2",
+        "Property": "Seebeck",
+        "Value": 0.000242,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra00969j"
+      },
+      {
+        "Original_Name_In_Paper": "AgSb0.98Cd0.02Se2",
+        "Property": "PF",
+        "Value": 0.00019,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra00969j"
+      },
+      {
+        "Original_Name_In_Paper": "AgSb0.98Cd0.02Se2",
+        "Property": "Conductivity",
+        "Value": 3300.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra00969j"
+      }
+    ],
+    "640.0": [
+      {
+        "Original_Name_In_Paper": "AgSb0.98Cd0.02Se2",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra00969j"
+      },
+      {
+        "Original_Name_In_Paper": "AgSb0.98Cd0.02Se2",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra00969j"
+      },
+      {
+        "Original_Name_In_Paper": "AgSb0.98Cd0.02Se2",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra00969j"
+      }
+    ]
+  }
+}

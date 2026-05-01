@@ -1,0 +1,18 @@
+{
+  "Material": "(SnTe)0.90(AgCl)0.10.",
+  "DOIs_Researched": [
+    "10.1016/j.susmat.2020.e00183"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "(SnTe)0.90(AgCl)0.10.",
+        "Property": "Conductivity",
+        "Value": 531800.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.susmat.2020.e00183"
+      }
+    ]
+  }
+}

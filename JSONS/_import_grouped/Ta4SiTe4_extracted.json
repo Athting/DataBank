@@ -1,0 +1,82 @@
+{
+  "doi": "10.1039/c9ee03776d",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "PVDF / Ta4SiTe4 composite film with 50 wt % Ta4SiTe4",
+        "Ta4SiTe4",
+        "PVDF / Ta4SiTe4 ( 50 wt % )",
+        "PVDF / Ta4SiTe4 composite films",
+        "PVDF / Ta4SiTe4 composite"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "Ta4SiTe4",
+          "value": -0.0002,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "PVDF / Ta4SiTe4 composite films",
+          "value": 9000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "PVDF / Ta4SiTe4 composite film with 50 wt % Ta4SiTe4",
+          "value": 1.7000000000000002,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Ta4SiTe4",
+          "value": 0.004,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PVDF / Ta4SiTe4 ( 50 wt % )",
+          "value": 0.000576,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "PVDF / Ta4SiTe4 composite",
+          "value": 0.0010600000000000002,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "220.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": []
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

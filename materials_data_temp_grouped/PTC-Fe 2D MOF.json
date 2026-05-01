@@ -1,0 +1,18 @@
+{
+  "Material": "PTC-Fe 2D MOF",
+  "DOIs_Researched": [
+    "10.1039/d0tc01778g"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "PTC-Fe 2D MOF",
+        "Property": "Conductivity",
+        "Value": 1000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0tc01778g"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "Material": "AgPb18SbTe18Se2",
+  "DOIs_Researched": [
+    "10.1016/j.cap.2011.05.035"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "AgPb18SbTe18Se2",
+        "Property": "ThermCond",
+        "Value": 0.78,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2011.05.035"
+      }
+    ],
+    "523.0": [
+      {
+        "Original_Name_In_Paper": "AgPb18SbTe18Se2",
+        "Property": "ZT",
+        "Value": 0.8200000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2011.05.035"
+      }
+    ]
+  }
+}

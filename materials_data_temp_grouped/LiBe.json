@@ -1,0 +1,18 @@
+{
+  "Material": "LiBe",
+  "DOIs_Researched": [
+    "10.1007/s11664-016-4791-z"
+  ],
+  "Data_By_Temperature": {
+    "50.0": [
+      {
+        "Original_Name_In_Paper": "LiBe",
+        "Property": "Seebeck",
+        "Value": -0.00046,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-016-4791-z"
+      }
+    ]
+  }
+}

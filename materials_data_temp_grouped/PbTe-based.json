@@ -1,0 +1,38 @@
+{
+  "Material": "PbTe-based",
+  "DOIs_Researched": [
+    "10.1016/B978-0-12-803581-8.00771-2",
+    "10.1557/jmr.2010.96",
+    "10.1016/B978-0-44-453153-7.00070-5"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "PbTe-based",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-44-453153-7.00070-5"
+      },
+      {
+        "Original_Name_In_Paper": "PbTe-based",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-12-803581-8.00771-2"
+      }
+    ],
+    "650.0": [
+      {
+        "Original_Name_In_Paper": "PbTe-based",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1557/jmr.2010.96"
+      }
+    ]
+  }
+}

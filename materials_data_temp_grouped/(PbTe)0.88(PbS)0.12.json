@@ -1,0 +1,28 @@
+{
+  "Material": "(PbTe)0.88(PbS)0.12",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2012.08.041"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "(PbTe)0.88(PbS)0.12",
+        "Property": "Conductivity",
+        "Value": 7299.2700729927,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2012.08.041"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "(PbTe)0.88(PbS)0.12",
+        "Property": "Seebeck",
+        "Value": 0.000196,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2012.08.041"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Material": "MgAgSb0.975In0.01",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2019.02.045"
+  ],
+  "Data_By_Temperature": {
+    "525.0": [
+      {
+        "Original_Name_In_Paper": "\u03b1-MgAgSb0.975In0.01",
+        "Property": "ThermCond",
+        "Value": 1.25,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2019.02.045"
+      },
+      {
+        "Original_Name_In_Paper": "\u03b1-MgAgSb0.975In0.01",
+        "Property": "PF",
+        "Value": 0.0025,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": "In doping",
+        "Source_DOI": "10.1016/j.nanoen.2019.02.045"
+      }
+    ]
+  }
+}

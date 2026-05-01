@@ -1,0 +1,18 @@
+{
+  "Material": "SiC / Si composite",
+  "DOIs_Researched": [
+    "10.1134/S1063782619020052"
+  ],
+  "Data_By_Temperature": {
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "SiC / Si composite",
+        "Property": "Conductivity",
+        "Value": 2.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1134/S1063782619020052"
+      }
+    ]
+  }
+}

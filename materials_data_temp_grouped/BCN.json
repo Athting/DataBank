@@ -1,0 +1,46 @@
+{
+  "Material": "BCN",
+  "DOIs_Researched": [
+    "10.1007/s11051-020-05025-z",
+    "10.1039/c9nr07586k",
+    "10.1016/j.nanoen.2017.06.003"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "BC2N monolayer",
+        "Property": "ThermCond",
+        "Value": 806.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2017.06.003"
+      },
+      {
+        "Original_Name_In_Paper": "BCN",
+        "Property": "ThermCond",
+        "Value": 90.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9nr07586k"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "BCN",
+        "Property": "ThermCond",
+        "Value": 90.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9nr07586k"
+      },
+      {
+        "Original_Name_In_Paper": "BCNNT",
+        "Property": "Seebeck",
+        "Value": 0.00020899999999999998,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11051-020-05025-z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Bi1.6Pb0.4Ba2Co2Oy",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2016.08.202"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Bi1.6Pb0.4Ba2Co2Oy",
+        "Property": "Seebeck",
+        "Value": 0.000135,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2016.08.202"
+      }
+    ]
+  }
+}

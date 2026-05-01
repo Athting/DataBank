@@ -1,0 +1,26 @@
+{
+  "Material": "FeAl0.05Si2",
+  "DOIs_Researched": [
+    "10.1016/j.intermet.2004.12.019"
+  ],
+  "Data_By_Temperature": {
+    "743.0": [
+      {
+        "Original_Name_In_Paper": "FeAl0.05Si2",
+        "Property": "ZT",
+        "Value": 0.000155,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2004.12.019"
+      },
+      {
+        "Original_Name_In_Paper": "FeAl0.05Si2",
+        "Property": "ZT",
+        "Value": 0.000155,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2004.12.019"
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "Material": "alkaline-earth silicides",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2016.12.023",
+    "10.1039/c9tc05710b"
+  ],
+  "Data_By_Temperature": {
+    "330.0": [
+      {
+        "Original_Name_In_Paper": "alkaline-earth silicides",
+        "Property": "ThermCond",
+        "Value": 10.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2016.12.023"
+      }
+    ],
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "alkaline-earth silicides",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": "In addition",
+        "Source_DOI": "10.1039/c9tc05710b"
+      }
+    ]
+  }
+}

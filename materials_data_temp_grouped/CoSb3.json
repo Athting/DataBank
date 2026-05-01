@@ -1,0 +1,1939 @@
+{
+  "Material": "CoSb3",
+  "DOIs_Researched": [
+    "10.1039/c4ta05083e",
+    "10.1016/j.ssc.2011.06.008",
+    "10.1016/j.ceramint.2018.03.090",
+    "10.1016/j.jallcom.2006.11.037",
+    "10.1007/s11664-014-3546-y",
+    "10.1016/j.intermet.2011.10.023",
+    "10.1039/c8cp04301a",
+    "10.1039/c9ra06873b",
+    "10.1039/c2jm15010g",
+    "10.1016/j.actamat.2010.05.002",
+    "10.1007/s11434-014-0237-2",
+    "10.1016/j.jelechem.2014.03.025",
+    "10.1016/j.mtchem.2019.100223",
+    "10.1016/j.jssc.2006.04.004",
+    "10.1016/j.physleta.2019.05.048",
+    "10.1038/srep07806",
+    "10.1016/j.matchemphys.2008.05.017",
+    "10.1007/s42247-020-00092-3",
+    "10.1016/j.jallcom.2017.11.030",
+    "10.1039/c5ra03942h",
+    "10.1016/j.jallcom.2016.11.024",
+    "10.1016/j.jallcom.2007.02.111",
+    "10.1016/j.jallcom.2005.07.057",
+    "10.1016/j.jallcom.2017.10.207",
+    "10.1007/s10854-014-2411-3",
+    "10.1016/j.jallcom.2012.11.167",
+    "10.1039/c4tc00260a",
+    "10.1016/j.jmat.2016.06.001",
+    "10.1039/c9tc03839f",
+    "10.1039/c9ra03882e",
+    "10.1007/s11664-015-4037-5",
+    "10.1007/s10854-017-8031-y",
+    "10.1007/s00339-016-9685-7",
+    "10.1016/j.matchemphys.2007.10.021",
+    "10.1016/j.commatsci.2017.01.041",
+    "10.1016/j.jallcom.2014.09.096",
+    "10.1007/s10854-016-4271-5",
+    "10.1039/c4ta07100j",
+    "10.1016/j.mser.2018.09.001",
+    "10.1016/j.tsf.2019.04.008",
+    "10.1039/c5tc01509j",
+    "10.1039/c4ta02780a",
+    "10.1039/c9tc02188d",
+    "10.1007/s10854-017-6603-5",
+    "10.1016/j.vacuum.2019.02.003",
+    "10.1016/j.mssp.2014.07.052",
+    "10.1039/c6ta02116f",
+    "10.1038/am.2017.1",
+    "10.1016/j.actamat.2014.11.022",
+    "10.1016/j.jallcom.2016.11.404",
+    "10.1039/c6ta04011j",
+    "10.1038/srep03449",
+    "10.1016/j.pmatsci.2016.07.002",
+    "10.1016/j.jallcom.2014.03.017",
+    "10.1557/jmr.2011.84",
+    "10.1039/c9tc01824g",
+    "10.1016/j.jallcom.2009.12.150",
+    "10.1016/j.jmat.2015.03.008",
+    "10.1016/j.matlet.2006.09.034",
+    "10.1016/j.materresbull.2004.10.023",
+    "10.1039/c5tc01739d",
+    "10.1016/j.nanoen.2016.11.041",
+    "10.1016/j.jallcom.2014.05.119",
+    "10.1016/j.mtphys.2017.12.004",
+    "10.1039/c9cp05939c",
+    "10.1007/s10854-017-7652-5",
+    "10.1016/j.apsusc.2017.02.210",
+    "10.1016/j.intermet.2013.04.011",
+    "10.1016/j.physb.2006.03.068",
+    "10.1039/c6ee00322b",
+    "10.1016/j.jcrysgro.2017.03.020",
+    "10.1016/j.jallcom.2018.09.114",
+    "10.1038/asiamat.2010.138",
+    "10.1039/c7ta08748a",
+    "10.1016/j.jallcom.2009.02.070",
+    "10.1016/S0080-8784(01)80151-4",
+    "10.1038/s41578-019-0160-x",
+    "10.1016/j.jallcom.2006.08.368",
+    "10.1016/j.jallcom.2015.03.149",
+    "10.1557/jmr.2011.102",
+    "10.1016/j.jallcom.2019.03.232",
+    "10.1016/j.mtphys.2018.05.001",
+    "10.1039/c7ra01740e",
+    "10.1016/S0921-5093(00)00773-5",
+    "10.1039/c7ta08545a",
+    "10.1016/j.jallcom.2016.09.094",
+    "10.1016/j.matlet.2003.11.032",
+    "10.1038/ncomms8584",
+    "10.1016/j.ceramint.2015.02.145",
+    "10.1039/d0ra02699a",
+    "10.1016/j.apt.2016.03.006",
+    "10.1038/ncomms7197",
+    "10.1007/s11661-017-4058-1",
+    "10.1016/j.intermet.2020.106796",
+    "10.1016/j.tsf.2015.01.037",
+    "10.1016/B978-0-12-803581-8.12112-5",
+    "10.1016/j.actamat.2019.02.041",
+    "10.1016/j.jallcom.2007.11.144",
+    "10.1007/s10854-013-1373-1",
+    "10.1016/j.matlet.2020.127478",
+    "10.1039/c9ra04748d",
+    "10.1039/c8tc06461j",
+    "10.1039/c8se00395e",
+    "10.1039/c9tc06318h",
+    "10.1016/B978-0-12-815751-0.00009-2",
+    "10.1039/c7cp03527f",
+    "10.1016/j.jallcom.2005.09.033",
+    "10.1016/j.calphad.2018.08.006",
+    "10.1016/S0025-5408(01)00758-9",
+    "10.1016/j.jallcom.2004.08.105",
+    "10.1039/c3ee43240h",
+    "10.1016/j.rser.2013.03.008",
+    "10.1007/s10854-016-4582-6",
+    "10.1016/j.jallcom.2010.05.160",
+    "10.1016/j.tsf.2017.04.044",
+    "10.1016/j.jssc.2008.01.025",
+    "10.1007/s10904-011-9583-6",
+    "10.1007/s10854-017-6824-7",
+    "10.1016/j.jallcom.2006.08.296",
+    "10.1016/j.nanoen.2012.10.005",
+    "10.1039/c3ta13202a",
+    "10.1016/j.jallcom.2013.11.204",
+    "10.1016/j.jallcom.2019.04.324",
+    "10.1016/j.jallcom.2010.09.207",
+    "10.1016/j.jeurceramsoc.2019.06.044",
+    "10.1557/PROC-793-S5.1"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ThermCond",
+        "Value": 8.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ee00322b"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ThermCond",
+        "Value": 10.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ee00322b"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ThermCond",
+        "Value": 3.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": "substitution of Fe and Ni",
+        "Source_DOI": "10.1016/j.jallcom.2006.11.037"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ThermCond",
+        "Value": 9.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2006.11.037"
+      },
+      {
+        "Original_Name_In_Paper": "pristine CoSb3",
+        "Property": "ThermCond",
+        "Value": 1.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta04011j"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ThermCond",
+        "Value": 10.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.vacuum.2019.02.003"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ThermCond",
+        "Value": 10.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11661-017-4058-1"
+      },
+      {
+        "Original_Name_In_Paper": "pure CoSb3",
+        "Property": "ThermCond",
+        "Value": 10.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta02780a"
+      },
+      {
+        "Original_Name_In_Paper": "Pure CoSb3",
+        "Property": "ThermCond",
+        "Value": 6.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta02116f"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ThermCond",
+        "Value": 8.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2010.05.002"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ThermCond",
+        "Value": 8.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.11.024"
+      },
+      {
+        "Original_Name_In_Paper": "pristine CoSb3",
+        "Property": "ThermCond",
+        "Value": 1.33,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4tc00260a"
+      },
+      {
+        "Original_Name_In_Paper": "pristine CoSb3",
+        "Property": "ThermCond",
+        "Value": 3.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4tc00260a"
+      },
+      {
+        "Original_Name_In_Paper": "nano-sized p-type CoSb3",
+        "Property": "ThermCond",
+        "Value": 1.94,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4tc00260a"
+      },
+      {
+        "Original_Name_In_Paper": "cobalt skutterudite compounds",
+        "Property": "ThermCond",
+        "Value": 1.33,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4tc00260a"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3 film",
+        "Property": "ThermCond",
+        "Value": 1.1,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1557/PROC-793-S5.1"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ThermCond",
+        "Value": 6.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.02.070"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ThermCond",
+        "Value": 10.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-017-8031-y"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ThermCond",
+        "Value": 8.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ta08545a"
+      },
+      {
+        "Original_Name_In_Paper": "undoped CoSb3",
+        "Property": "ThermCond",
+        "Value": 8.71,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-014-2411-3"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ThermCond",
+        "Value": 8.68,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-014-2411-3"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ThermCond",
+        "Value": 10.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2004.08.105"
+      },
+      {
+        "Original_Name_In_Paper": "undoped CoSb3",
+        "Property": "ThermCond",
+        "Value": 10.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01509j"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3 / 1 % WO3 composite",
+        "Property": "ThermCond",
+        "Value": 3.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2013.04.011"
+      },
+      {
+        "Original_Name_In_Paper": "pure CoSb3",
+        "Property": "ThermCond",
+        "Value": 8.21,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-016-4582-6"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ThermCond",
+        "Value": 8.15,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-016-4582-6"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ThermCond",
+        "Value": 10.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01739d"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ThermCond",
+        "Value": 10.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2007.11.144"
+      },
+      {
+        "Original_Name_In_Paper": "pure CoSb3",
+        "Property": "ThermCond",
+        "Value": 8.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2017.1"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ThermCond",
+        "Value": 6.97,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-016-4271-5"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ThermCond",
+        "Value": 14.231,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8cp04301a"
+      },
+      {
+        "Original_Name_In_Paper": "pure CoSb3",
+        "Property": "ThermCond",
+        "Value": 8.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8tc06461j"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3 film",
+        "Property": "ThermCond",
+        "Value": 1.1,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jelechem.2014.03.025"
+      },
+      {
+        "Original_Name_In_Paper": "nanocrytalline CoSb3",
+        "Property": "ThermCond",
+        "Value": 0.6000000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2014.07.052"
+      },
+      {
+        "Original_Name_In_Paper": "single crystalline CoSb3",
+        "Property": "ThermCond",
+        "Value": 11.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2019.02.041"
+      },
+      {
+        "Original_Name_In_Paper": "unfilled CoSb3",
+        "Property": "ThermCond",
+        "Value": 10.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2016.06.001"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ThermCond",
+        "Value": 2.1,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ta08748a"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "Conductivity",
+        "Value": 52631.5789473684,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2006.04.004"
+      },
+      {
+        "Original_Name_In_Paper": "undoped CoSb3",
+        "Property": "Conductivity",
+        "Value": 100.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2006.09.034"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "Seebeck",
+        "Value": 0.00023,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2004.10.023"
+      },
+      {
+        "Original_Name_In_Paper": "undoped CoSb3",
+        "Property": "Seebeck",
+        "Value": -0.000177,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2006.08.368"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "Seebeck",
+        "Value": 0.0,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0080-8784(01)80151-4"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "Seebeck",
+        "Value": 0.00011,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.05.119"
+      },
+      {
+        "Original_Name_In_Paper": "n-type polycrystalline CoSb3 thin films",
+        "Property": "Seebeck",
+        "Value": -0.00025,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ra06873b"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3 matrix",
+        "Property": "Seebeck",
+        "Value": 0.00011,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2013.04.011"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3 thin film",
+        "Property": "Seebeck",
+        "Value": 5.8e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2017.02.210"
+      },
+      {
+        "Original_Name_In_Paper": "p-type post-annealed CoSb3",
+        "Property": "Seebeck",
+        "Value": 0.00019,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2005.07.057"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "Seebeck",
+        "Value": 0.000557,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8cp04301a"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "Seebeck",
+        "Value": 0.000215,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ra03882e"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3 thin films",
+        "Property": "PF",
+        "Value": 0.0007059999999999999,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ra01740e"
+      },
+      {
+        "Original_Name_In_Paper": "pristine CoSb3",
+        "Property": "Conductivity",
+        "Value": 64000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.03.090"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "Conductivity",
+        "Value": 119000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.03.090"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "Conductivity",
+        "Value": 4000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2006.08.296"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "Conductivity",
+        "Value": 28100.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2007.02.111"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ThermCond",
+        "Value": 10.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2012.11.167"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3 crystals",
+        "Property": "ThermCond",
+        "Value": 4.67,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc01824g"
+      },
+      {
+        "Original_Name_In_Paper": "bulk CoSb3 skutterudite",
+        "Property": "ThermCond",
+        "Value": 9.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta04011j"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ThermCond",
+        "Value": 10.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/ncomms8584"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ThermCond",
+        "Value": 10.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ee43240h"
+      },
+      {
+        "Original_Name_In_Paper": "bulk CoSb3 material",
+        "Property": "ThermCond",
+        "Value": 5.3,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s00339-016-9685-7"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ThermCond",
+        "Value": 11.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9cp05939c"
+      },
+      {
+        "Original_Name_In_Paper": "pure CoSb3",
+        "Property": "ThermCond",
+        "Value": 9.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2007.02.111"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ThermCond",
+        "Value": 11.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ra04748d"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ThermCond",
+        "Value": 5.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta07100j"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ThermCond",
+        "Value": 11.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2007.10.021"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ThermCond",
+        "Value": 11.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physleta.2019.05.048"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ThermCond",
+        "Value": 10.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2011.10.023"
+      },
+      {
+        "Original_Name_In_Paper": "pure CoSb3",
+        "Property": "ThermCond",
+        "Value": 10.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2014.07.052"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ThermCond",
+        "Value": 155.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/srep07806"
+      },
+      {
+        "Original_Name_In_Paper": "bulk CoSb3",
+        "Property": "ThermCond",
+        "Value": 9.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/srep07806"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ThermCond",
+        "Value": 0.44515000000000005,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ra03882e"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ThermCond",
+        "Value": 9.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.09.094"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ThermCond",
+        "Value": 1.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.09.094"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ThermCond",
+        "Value": 10.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2015.03.008"
+      },
+      {
+        "Original_Name_In_Paper": "Ga-filled CoSb3",
+        "Property": "ThermCond",
+        "Value": 5.16,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/ncomms7197"
+      },
+      {
+        "Original_Name_In_Paper": "pure CoSb3",
+        "Property": "ZT",
+        "Value": 0.02,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta05083e"
+      },
+      {
+        "Original_Name_In_Paper": "bulk CoSb3 material",
+        "Property": "ZT",
+        "Value": 0.02,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s00339-016-9685-7"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "Seebeck",
+        "Value": 8e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cp03527f"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "Seebeck",
+        "Value": 0.0002,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2006.03.068"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3 thin films",
+        "Property": "Conductivity",
+        "Value": 35000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": "substitution of Sb",
+        "Source_DOI": "10.1039/d0ra02699a"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "Conductivity",
+        "Value": 60000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.05.119"
+      },
+      {
+        "Original_Name_In_Paper": "pure CoSb3",
+        "Property": "Conductivity",
+        "Value": 75000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.05.119"
+      }
+    ],
+    "650.0": [
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ThermCond",
+        "Value": 5.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2012.11.167"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3 nanostructured",
+        "Property": "ZT",
+        "Value": 0.15,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.05.119"
+      },
+      {
+        "Original_Name_In_Paper": "undoped CoSb3",
+        "Property": "ZT",
+        "Value": 0.15,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.05.119"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ZT",
+        "Value": 0.08,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-017-6824-7"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ZT",
+        "Value": 0.45,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.03.090"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "PF",
+        "Value": 0.00125,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.03.090"
+      }
+    ],
+    "320.0": [
+      {
+        "Original_Name_In_Paper": "CoSb3 crystal",
+        "Property": "ThermCond",
+        "Value": 2.9699999999999998,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.09.207"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ThermCond",
+        "Value": 10.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2008.01.025"
+      }
+    ],
+    "575.0": [
+      {
+        "Original_Name_In_Paper": "pristine CoSb3",
+        "Property": "ThermCond",
+        "Value": 0.76,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta04011j"
+      },
+      {
+        "Original_Name_In_Paper": "unfilled CoSb3 composites",
+        "Property": "ZT",
+        "Value": 0.78,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta04011j"
+      },
+      {
+        "Original_Name_In_Paper": "cobalt skutterudite",
+        "Property": "ZT",
+        "Value": 0.78,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta04011j"
+      },
+      {
+        "Original_Name_In_Paper": "single In-filled CoSb3",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2014.11.022"
+      },
+      {
+        "Original_Name_In_Paper": "pristine CoSb3",
+        "Property": "PF",
+        "Value": 0.00185,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta04011j"
+      }
+    ],
+    "12.0": [
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ThermCond",
+        "Value": 49.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2018.05.001"
+      }
+    ],
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ThermCond",
+        "Value": 3.24,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-017-6824-7"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ThermCond",
+        "Value": 1.99,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-017-6824-7"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3 with Ga",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": "doping CoSb3 with Ga",
+        "Source_DOI": "10.1038/srep07806"
+      },
+      {
+        "Original_Name_In_Paper": "pristine bulk CoSb3",
+        "Property": "ZT",
+        "Value": 0.08,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2014.07.052"
+      },
+      {
+        "Original_Name_In_Paper": "Undoped CoSb3",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2017.1"
+      },
+      {
+        "Original_Name_In_Paper": "undoped CoSb3",
+        "Property": "ZT",
+        "Value": 0.05,
+        "Units": null,
+        "Editing": "Sn doping",
+        "Source_DOI": "10.1016/j.jallcom.2006.08.368"
+      },
+      {
+        "Original_Name_In_Paper": "doped n-type single crystalline CoSb3",
+        "Property": "ZT",
+        "Value": 0.52,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0025-5408(01)00758-9"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ZT",
+        "Value": 0.14,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2017.12.004"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "PF",
+        "Value": 0.00254,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.11.030"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "nanocrystalline CoSb3",
+        "Property": "ThermCond",
+        "Value": 1.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2jm15010g"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": "introduction of In",
+        "Source_DOI": "10.1016/j.jallcom.2013.11.204"
+      },
+      {
+        "Original_Name_In_Paper": "n-type CoSb3 nanocomposites",
+        "Property": "ZT",
+        "Value": 0.71,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/srep03449"
+      },
+      {
+        "Original_Name_In_Paper": "Te-doped CoSb3",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1557/jmr.2011.84"
+      },
+      {
+        "Original_Name_In_Paper": "Fe doped CoSb3",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2020.106796"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "Conductivity",
+        "Value": 80000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": "Fe and Ni substitution",
+        "Source_DOI": "10.1016/j.jallcom.2006.11.037"
+      }
+    ],
+    "293.0": [
+      {
+        "Original_Name_In_Paper": "polycrystalline CoSb3",
+        "Property": "ThermCond",
+        "Value": 9.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.04.324"
+      }
+    ],
+    "298.0": [
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ThermCond",
+        "Value": 10.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.11.404"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ThermCond",
+        "Value": 9.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtchem.2019.100223"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "PF",
+        "Value": 0.003,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.11.404"
+      }
+    ],
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "undoped bulk CoSb3",
+        "Property": "ThermCond",
+        "Value": 4.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-015-4037-5"
+      },
+      {
+        "Original_Name_In_Paper": "polycrystalline CoSb3",
+        "Property": "ZT",
+        "Value": 0.051000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apt.2016.03.006"
+      },
+      {
+        "Original_Name_In_Paper": "polycrystalline CoSb3",
+        "Property": "ZT",
+        "Value": 0.051000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.05.119"
+      }
+    ],
+    "675.0": [
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ThermCond",
+        "Value": 7.74,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.09.114"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ThermCond",
+        "Value": 8.13,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.09.114"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1557/jmr.2011.102"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "unfilled CoSb3 skutterudite",
+        "Property": "ThermCond",
+        "Value": 1.6,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8tc06461j"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ZT",
+        "Value": 0.06,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apt.2016.03.006"
+      },
+      {
+        "Original_Name_In_Paper": "Y filled CoSb3",
+        "Property": "ZT",
+        "Value": 0.07,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2020.127478"
+      },
+      {
+        "Original_Name_In_Paper": "n-type Co0.8Ni0.2Sb3",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rser.2013.03.008"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "PF",
+        "Value": 7.762e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2020.127478"
+      }
+    ],
+    "611.0": [
+      {
+        "Original_Name_In_Paper": "pure nanocrystalline CoSb3",
+        "Property": "ThermCond",
+        "Value": 0.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/srep07806"
+      },
+      {
+        "Original_Name_In_Paper": "unfilled CoSb3",
+        "Property": "ZT",
+        "Value": 0.17,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apt.2016.03.006"
+      },
+      {
+        "Original_Name_In_Paper": "pure nanocrystalline CoSb3",
+        "Property": "ZT",
+        "Value": 0.17,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/srep07806"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ZT",
+        "Value": 0.17,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2005.09.033"
+      },
+      {
+        "Original_Name_In_Paper": "pure CoSb3",
+        "Property": "ZT",
+        "Value": 0.17,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.05.119"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ZT",
+        "Value": 0.17,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2008.05.017"
+      }
+    ],
+    "883.0": [
+      {
+        "Original_Name_In_Paper": "Ba-filled CoSb3",
+        "Property": "ThermCond",
+        "Value": 4.89,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-017-6603-5"
+      }
+    ],
+    "50.0": [
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ThermCond",
+        "Value": 0.0064600000000000005,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ra03882e"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "Conductivity",
+        "Value": 2385.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ra03882e"
+      }
+    ],
+    "660.0": [
+      {
+        "Original_Name_In_Paper": "doped CoSb3",
+        "Property": "ZT",
+        "Value": 0.47000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jcrysgro.2017.03.020"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3 bulk material",
+        "Property": "ZT",
+        "Value": 0.47000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jcrysgro.2017.03.020"
+      },
+      {
+        "Original_Name_In_Paper": "bulk CoSb3",
+        "Property": "ZT",
+        "Value": 0.47000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jcrysgro.2017.03.020"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3 bulk material",
+        "Property": "Seebeck",
+        "Value": 0.000155,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jcrysgro.2017.03.020"
+      },
+      {
+        "Original_Name_In_Paper": "bulk CoSb3",
+        "Property": "Seebeck",
+        "Value": 0.000155,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jcrysgro.2017.03.020"
+      }
+    ],
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "CoSb3 bulk material",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jcrysgro.2017.03.020"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2012.10.005"
+      },
+      {
+        "Original_Name_In_Paper": "Yb-filled CoSb3",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2015.03.008"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ZT",
+        "Value": 1.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc02188d"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.10.207"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3 filled Ba0.08La0.05Yb0.04",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.03.149"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2017.01.041"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11434-014-0237-2"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ZT",
+        "Value": 1.26,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/ncomms8584"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41578-019-0160-x"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-12-815751-0.00009-2"
+      },
+      {
+        "Original_Name_In_Paper": "Yb-filled CoSb3",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s42247-020-00092-3"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": "introduction of Yb",
+        "Source_DOI": "10.1016/j.jeurceramsoc.2019.06.044"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2019.06.044"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3 filled Ba0.08La0.05Yb0.04",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.09.096"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": "introduction of Yb",
+        "Source_DOI": "10.1016/j.tsf.2019.04.008"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2019.04.008"
+      },
+      {
+        "Original_Name_In_Paper": "Yb-filled CoSb3",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10904-011-9583-6"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc06318h"
+      }
+    ],
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "CoSb3 skutterudite",
+        "Property": "ZT",
+        "Value": 1.53,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2020.127478"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "PF",
+        "Value": 0.00079,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta13202a"
+      }
+    ],
+    "610.0": [
+      {
+        "Original_Name_In_Paper": "undoped CoSb3",
+        "Property": "ZT",
+        "Value": 0.17,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2020.127478"
+      },
+      {
+        "Original_Name_In_Paper": "undoped CoSb3",
+        "Property": "ZT",
+        "Value": 0.17,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra03942h"
+      }
+    ],
+    "825.0": [
+      {
+        "Original_Name_In_Paper": "n-type CoSb3",
+        "Property": "ZT",
+        "Value": 1.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8se00395e"
+      }
+    ],
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ZT",
+        "Value": 1.54,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc03839f"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ZT",
+        "Value": 1.54,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc03839f"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ZT",
+        "Value": 0.28,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc03839f"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ZT",
+        "Value": 1.54,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc03839f"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3 compound",
+        "Property": "ZT",
+        "Value": 0.095,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2003.11.032"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3 compound",
+        "Property": "ZT",
+        "Value": 0.095,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2003.11.032"
+      },
+      {
+        "Original_Name_In_Paper": "doped n-type CoSb3",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0921-5093(00)00773-5"
+      },
+      {
+        "Original_Name_In_Paper": "doped n-type CoSb3 single crystals",
+        "Property": "ZT",
+        "Value": 0.52,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mser.2018.09.001"
+      }
+    ],
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra03942h"
+      },
+      {
+        "Original_Name_In_Paper": "single crystal CoSb3 co-doped with Pt and Pd",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mser.2018.09.001"
+      }
+    ],
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ZT",
+        "Value": 0.59,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2020.106796"
+      }
+    ],
+    "870.0": [
+      {
+        "Original_Name_In_Paper": "p-type Fe and Se co-substituted CoSb3",
+        "Property": "ZT",
+        "Value": 0.54,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2020.106796"
+      }
+    ],
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "pure CoSb3",
+        "Property": "ZT",
+        "Value": 0.113,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.12.150"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "indium and cerium co-filled CoSb3 nanocomposite",
+        "Property": "ZT",
+        "Value": 1.43,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/asiamat.2010.138"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ZT",
+        "Value": 1.43,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/ncomms8584"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.04.324"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2014.11.022"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ZT",
+        "Value": 0.61,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta13202a"
+      },
+      {
+        "Original_Name_In_Paper": "graphene-free CoSb3",
+        "Property": "ZT",
+        "Value": 0.26,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta13202a"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3 / graphene",
+        "Property": "PF",
+        "Value": 0.0008,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ra01740e"
+      }
+    ],
+    "820.0": [
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/asiamat.2010.138"
+      }
+    ],
+    "803.0": [
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ZT",
+        "Value": 1.43,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rser.2013.03.008"
+      }
+    ],
+    "710.0": [
+      {
+        "Original_Name_In_Paper": "pure CoSb3",
+        "Property": "ZT",
+        "Value": 0.67,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.03.017"
+      }
+    ],
+    "596.0": [
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2016.07.002"
+      }
+    ],
+    "540.0": [
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ZT",
+        "Value": 0.15,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2016.11.041"
+      }
+    ],
+    "720.0": [
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-12-803581-8.12112-5"
+      }
+    ],
+    "550.0": [
+      {
+        "Original_Name_In_Paper": "CoSb3(1+\u03b4)",
+        "Property": "ZT",
+        "Value": 0.07,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2015.02.145"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3(1+\u03b4)",
+        "Property": "ZT",
+        "Value": 0.07,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2015.02.145"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "PF",
+        "Value": 0.0016,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2005.09.033"
+      }
+    ],
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ZT",
+        "Value": 0.24,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.05.160"
+      }
+    ],
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ZT",
+        "Value": 0.005,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.calphad.2018.08.006"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "ZT",
+        "Value": 0.007,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.calphad.2018.08.006"
+      }
+    ],
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "Conductivity",
+        "Value": 621.1180124224,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2011.06.008"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3 thin films",
+        "Property": "Seebeck",
+        "Value": -8.8e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-014-3546-y"
+      }
+    ],
+    "525.0": [
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "Seebeck",
+        "Value": -9.34e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ra02699a"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "PF",
+        "Value": 0.00021,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ra02699a"
+      }
+    ],
+    "473.0": [
+      {
+        "Original_Name_In_Paper": "n-type CoSb3 thin films",
+        "Property": "Seebeck",
+        "Value": -0.00025,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2017.04.044"
+      },
+      {
+        "Original_Name_In_Paper": "n-type CoSb3 films",
+        "Property": "Seebeck",
+        "Value": -0.00025,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2015.01.037"
+      },
+      {
+        "Original_Name_In_Paper": "n-type CoSb3 films",
+        "Property": "Seebeck",
+        "Value": -0.00025,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2017.02.210"
+      }
+    ],
+    "350.0": [
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "Seebeck",
+        "Value": 0.00042579,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2011.06.008"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3(1+\u03b4)",
+        "Property": "Seebeck",
+        "Value": 5.1e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2015.02.145"
+      }
+    ],
+    "523.0": [
+      {
+        "Original_Name_In_Paper": "CoSb3 thin film",
+        "Property": "Seebeck",
+        "Value": 4.6899999999999995e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-017-7652-5"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3 thin film",
+        "Property": "Conductivity",
+        "Value": 0.000233,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-017-7652-5"
+      }
+    ],
+    "1023.0": [
+      {
+        "Original_Name_In_Paper": "p-type CoSb3 films",
+        "Property": "Seebeck",
+        "Value": 0.0006000000000000001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2015.01.037"
+      }
+    ],
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "p-type CoSb3 films",
+        "Property": "Seebeck",
+        "Value": 0.0006000000000000001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2017.02.210"
+      },
+      {
+        "Original_Name_In_Paper": "Te-doped CoSb3",
+        "Property": "PF",
+        "Value": 0.0038400000000000005,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-013-1373-1"
+      }
+    ],
+    "615.0": [
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "Seebeck",
+        "Value": 0.000147,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.09.114"
+      }
+    ],
+    "450.0": [
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "Seebeck",
+        "Value": 0.000367,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.03.232"
+      }
+    ],
+    "707.0": [
+      {
+        "Original_Name_In_Paper": "nanocrystalline CoSb3",
+        "Property": "PF",
+        "Value": 0.000312,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2014.07.052"
+      }
+    ],
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "CoSb3",
+        "Property": "PF",
+        "Value": 0.001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.04.324"
+      }
+    ]
+  }
+}

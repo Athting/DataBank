@@ -1,0 +1,70 @@
+{
+  "Material": "CBTS",
+  "DOIs_Researched": [
+    "10.1016/j.physb.2017.05.007",
+    "10.1016/j.scriptamat.2019.04.006",
+    "10.1039/c5tc01731a"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "CBTS",
+        "Property": "ThermCond",
+        "Value": 0.68,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": "doping of Sc",
+        "Source_DOI": "10.1016/j.physb.2017.05.007"
+      },
+      {
+        "Original_Name_In_Paper": "CBTS",
+        "Property": "Conductivity",
+        "Value": 86500.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2017.05.007"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "CBTS",
+        "Property": "ZT",
+        "Value": 0.73,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01731a"
+      },
+      {
+        "Original_Name_In_Paper": "pristine CBTS",
+        "Property": "PF",
+        "Value": 0.0027500000000000003,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2017.05.007"
+      },
+      {
+        "Original_Name_In_Paper": "CBTS",
+        "Property": "Conductivity",
+        "Value": 86000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01731a"
+      },
+      {
+        "Original_Name_In_Paper": "CBTS",
+        "Property": "Conductivity",
+        "Value": 42200.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2019.04.006"
+      },
+      {
+        "Original_Name_In_Paper": "CBTS",
+        "Property": "Conductivity",
+        "Value": 100000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": "incorporation of Cu",
+        "Source_DOI": "10.1016/j.scriptamat.2019.04.006"
+      }
+    ]
+  }
+}

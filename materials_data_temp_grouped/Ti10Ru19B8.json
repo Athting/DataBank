@@ -1,0 +1,37 @@
+{
+  "Material": "Ti10Ru19B8",
+  "DOIs_Researched": [
+    "10.1016/j.solidstatesciences.2015.02.008",
+    "10.1007/s11664-014-3423-8"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ti10Ru19B8",
+        "Property": "ThermCond",
+        "Value": 8.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2015.02.008"
+      },
+      {
+        "Original_Name_In_Paper": "Ti10Ru19B8",
+        "Property": "Conductivity",
+        "Value": 500000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2015.02.008"
+      }
+    ],
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "Ti10Ru19B8",
+        "Property": "ZT",
+        "Value": 0.09,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-014-3423-8"
+      }
+    ]
+  }
+}

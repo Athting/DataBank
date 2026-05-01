@@ -1,0 +1,35 @@
+{
+  "Material": "Li10SnP2S12",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2018.02.278",
+    "10.1016/j.joule.2018.08.017"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Li10SnP2S12",
+        "Property": "Conductivity",
+        "Value": 0.6000000000000001,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2018.08.017"
+      },
+      {
+        "Original_Name_In_Paper": "Li10SnP2S12",
+        "Property": "Conductivity",
+        "Value": 0.7000000000000001,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2018.08.017"
+      },
+      {
+        "Original_Name_In_Paper": "Li10SnP2S12",
+        "Property": "Conductivity",
+        "Value": 0.4,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.02.278"
+      }
+    ]
+  }
+}

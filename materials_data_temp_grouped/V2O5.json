@@ -1,0 +1,168 @@
+{
+  "Material": "V2O5",
+  "DOIs_Researched": [
+    "10.1016/j.tsf.2018.01.053",
+    "10.1007/s00339-020-04023-1",
+    "10.1016/j.cap.2009.07.015",
+    "10.1016/j.bios.2009.10.011",
+    "10.1016/j.apsusc.2020.145280",
+    "10.1016/j.tca.2013.11.026",
+    "10.1016/S0925-8388(09)00895-0",
+    "10.1016/j.matpr.2020.05.104",
+    "10.1016/j.jeurceramsoc.2016.11.021",
+    "10.1016/S0254-0584(97)02052-X",
+    "10.1016/j.apsusc.2013.06.016"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "V2O5",
+        "Property": "ZT",
+        "Value": 0.45,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2013.06.016"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "V 2 O 5 652",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": "Cr doping",
+        "Source_DOI": "10.1016/S0925-8388(09)00895-0"
+      },
+      {
+        "Original_Name_In_Paper": "bulk amorphous V2O5",
+        "Property": "Conductivity",
+        "Value": 0.0006500000000000001,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2016.11.021"
+      },
+      {
+        "Original_Name_In_Paper": "V2O5",
+        "Property": "Conductivity",
+        "Value": 0.048,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2016.11.021"
+      },
+      {
+        "Original_Name_In_Paper": "V2O5",
+        "Property": "Conductivity",
+        "Value": 0.01,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2016.11.021"
+      },
+      {
+        "Original_Name_In_Paper": "V2O5 thin films",
+        "Property": "Conductivity",
+        "Value": 1e-05,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2016.11.021"
+      },
+      {
+        "Original_Name_In_Paper": "V2O5",
+        "Property": "Conductivity",
+        "Value": 50.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matpr.2020.05.104"
+      },
+      {
+        "Original_Name_In_Paper": "V2O5",
+        "Property": "Conductivity",
+        "Value": 50.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2009.07.015"
+      },
+      {
+        "Original_Name_In_Paper": "Vanadium pentoxide",
+        "Property": "Conductivity",
+        "Value": 50.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.bios.2009.10.011"
+      }
+    ],
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "V2O5 film",
+        "Property": "Conductivity",
+        "Value": 0.0001593372,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2018.01.053"
+      }
+    ],
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "V2O5 thin film",
+        "Property": "Conductivity",
+        "Value": 17.9856115108,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s00339-020-04023-1"
+      }
+    ],
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "V2O5",
+        "Property": "Seebeck",
+        "Value": -0.00099,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2016.11.021"
+      },
+      {
+        "Original_Name_In_Paper": "V2O5",
+        "Property": "Conductivity",
+        "Value": 0.01,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2020.145280"
+      },
+      {
+        "Original_Name_In_Paper": "V2O5",
+        "Property": "Conductivity",
+        "Value": 1.4,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2020.145280"
+      }
+    ],
+    "410.0": [
+      {
+        "Original_Name_In_Paper": "crystalline V2O5 films",
+        "Property": "PF",
+        "Value": 5.8e-09,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tca.2013.11.026"
+      },
+      {
+        "Original_Name_In_Paper": "crystalline V2O5 films",
+        "Property": "PF",
+        "Value": 5.8e-09,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tca.2013.11.026"
+      }
+    ],
+    "405.0": [
+      {
+        "Original_Name_In_Paper": "V2O5",
+        "Property": "Conductivity",
+        "Value": 0.0013000000000000002,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0254-0584(97)02052-X"
+      }
+    ]
+  }
+}

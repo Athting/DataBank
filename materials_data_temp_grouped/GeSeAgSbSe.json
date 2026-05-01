@@ -1,0 +1,18 @@
+{
+  "Material": "GeSeAgSbSe",
+  "DOIs_Researched": [
+    "10.1039/c8ta01393d"
+  ],
+  "Data_By_Temperature": {
+    "754.0": [
+      {
+        "Original_Name_In_Paper": "GeSeAg0.2Sb0.2Se0.4",
+        "Property": "ZT",
+        "Value": 0.41000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta01393d"
+      }
+    ]
+  }
+}

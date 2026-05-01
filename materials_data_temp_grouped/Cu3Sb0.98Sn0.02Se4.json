@@ -1,0 +1,77 @@
+{
+  "Material": "Cu3Sb0.98Sn0.02Se4",
+  "DOIs_Researched": [
+    "10.1039/c3dt52447g",
+    "10.1039/c5ra02030a",
+    "10.1007/s11051-015-3094-2",
+    "10.1039/c6ta08467b"
+  ],
+  "Data_By_Temperature": {
+    "690.0": [
+      {
+        "Original_Name_In_Paper": "Cu3Sb0.98Sn0.02Se4",
+        "Property": "ZT",
+        "Value": 1.05,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3dt52447g"
+      }
+    ],
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "Cu3Sb0.98Sn0.02Se4",
+        "Property": "ZT",
+        "Value": 0.97,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta08467b"
+      },
+      {
+        "Original_Name_In_Paper": "Cu3Sb0.98Sn0.02Se4",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra02030a"
+      },
+      {
+        "Original_Name_In_Paper": "Cu3Sb0.98Sn0.02Se4",
+        "Property": "PF",
+        "Value": 0.0011400000000000002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta08467b"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Cu3Sb0.98Sn0.02Se4",
+        "Property": "Conductivity",
+        "Value": 64516.1290322581,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3dt52447g"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Cu3Sb0.98Sn0.02Se4",
+        "Property": "PF",
+        "Value": 1310.0,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11051-015-3094-2"
+      }
+    ],
+    "640.0": [
+      {
+        "Original_Name_In_Paper": "Cu3Sb0.98Sn0.02Se4",
+        "Property": "PF",
+        "Value": 0.0016200000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3dt52447g"
+      }
+    ]
+  }
+}

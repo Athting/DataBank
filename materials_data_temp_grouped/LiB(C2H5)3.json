@@ -1,0 +1,26 @@
+{
+  "Material": "LiB(C2H5)3",
+  "DOIs_Researched": [
+    "10.1016/j.synthmet.2016.12.001"
+  ],
+  "Data_By_Temperature": {
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "Lithium triethylborohydride",
+        "Property": "ZT",
+        "Value": 0.06,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.synthmet.2016.12.001"
+      },
+      {
+        "Original_Name_In_Paper": "Lithium triethylborohydride",
+        "Property": "Conductivity",
+        "Value": 31440.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.synthmet.2016.12.001"
+      }
+    ]
+  }
+}

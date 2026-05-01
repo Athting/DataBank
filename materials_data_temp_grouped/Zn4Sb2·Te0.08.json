@@ -1,0 +1,18 @@
+{
+  "Material": "Zn4Sb2\u00b7Te0.08",
+  "DOIs_Researched": [
+    "10.1016/j.mtener.2017.02.005"
+  ],
+  "Data_By_Temperature": {
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "Zn4Sb2\u00b792Te0.08",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtener.2017.02.005"
+      }
+    ]
+  }
+}

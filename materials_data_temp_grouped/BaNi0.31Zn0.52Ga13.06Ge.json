@@ -1,0 +1,18 @@
+{
+  "Material": "BaNi0.31Zn0.52Ga13.06Ge",
+  "DOIs_Researched": [
+    "10.1039/c4dt03827d"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "Ba8Ni0.31Zn0.52Ga13.06Ge32.2",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4dt03827d"
+      }
+    ]
+  }
+}

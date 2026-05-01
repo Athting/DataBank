@@ -1,0 +1,18 @@
+{
+  "Material": "BT3",
+  "DOIs_Researched": [
+    "10.1016/j.matchemphys.2014.01.053"
+  ],
+  "Data_By_Temperature": {
+    "120.0": [
+      {
+        "Original_Name_In_Paper": "BT3",
+        "Property": "Conductivity",
+        "Value": 90909.0909090909,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2014.01.053"
+      }
+    ]
+  }
+}

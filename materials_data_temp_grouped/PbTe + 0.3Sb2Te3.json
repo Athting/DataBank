@@ -1,0 +1,18 @@
+{
+  "Material": "PbTe + 0.3Sb2Te3",
+  "DOIs_Researched": [
+    "10.1016/j.intermet.2013.04.018"
+  ],
+  "Data_By_Temperature": {
+    "550.0": [
+      {
+        "Original_Name_In_Paper": "0.7PbTe-0.3Sb2Te3 nanocomposite",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2013.04.018"
+      }
+    ]
+  }
+}

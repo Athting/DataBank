@@ -1,0 +1,18 @@
+{
+  "Material": "PbTe / CdTe",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2010.06.195"
+  ],
+  "Data_By_Temperature": {
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "PbTe / CdTe",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.06.195"
+      }
+    ]
+  }
+}

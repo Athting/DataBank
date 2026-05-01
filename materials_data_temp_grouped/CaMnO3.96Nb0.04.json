@@ -1,0 +1,27 @@
+{
+  "Material": "CaMnO3.96Nb0.04",
+  "DOIs_Researched": [
+    "10.1039/c5tc02318a",
+    "10.1016/j.jeurceramsoc.2019.08.021"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "CaMn0.96Nb0.04O3",
+        "Property": "ZT",
+        "Value": 0.08,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2019.08.021"
+      },
+      {
+        "Original_Name_In_Paper": "CaMn0.96Nb0.04O3",
+        "Property": "ZT",
+        "Value": 0.08,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc02318a"
+      }
+    ]
+  }
+}

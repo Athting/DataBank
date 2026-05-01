@@ -1,0 +1,102 @@
+{
+  "Material": "Ti4O7",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2017.03.336",
+    "10.1007/s00339-014-8515-z",
+    "10.1016/j.cep.2018.01.002",
+    "10.1016/j.jssc.2015.04.037",
+    "10.1016/j.jeurceramsoc.2017.09.040"
+  ],
+  "Data_By_Temperature": {
+    "764.0": [
+      {
+        "Original_Name_In_Paper": "Ti4O7",
+        "Property": "ZT",
+        "Value": 0.16,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2017.09.040"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Ti4O7",
+        "Property": "ZT",
+        "Value": 0.08,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.03.336"
+      }
+    ],
+    "843.0": [
+      {
+        "Original_Name_In_Paper": "Ti4O7 / C powder nanocomposite",
+        "Property": "ZT",
+        "Value": 0.04,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.03.336"
+      },
+      {
+        "Original_Name_In_Paper": "Ti4O7 / C",
+        "Property": "ZT",
+        "Value": 0.04,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2015.04.037"
+      },
+      {
+        "Original_Name_In_Paper": "Ti4O7 / C",
+        "Property": "ZT",
+        "Value": 0.04,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2015.04.037"
+      }
+    ],
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "Ti4O7",
+        "Property": "Seebeck",
+        "Value": -0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s00339-014-8515-z"
+      },
+      {
+        "Original_Name_In_Paper": "Ti4O7",
+        "Property": "Conductivity",
+        "Value": 60000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s00339-014-8515-z"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ti4O7",
+        "Property": "Seebeck",
+        "Value": -3.38e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2017.09.040"
+      },
+      {
+        "Original_Name_In_Paper": "Ti4O7",
+        "Property": "Conductivity",
+        "Value": 160000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cep.2018.01.002"
+      },
+      {
+        "Original_Name_In_Paper": "Ti4O7",
+        "Property": "Conductivity",
+        "Value": 99200.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2017.09.040"
+      }
+    ]
+  }
+}

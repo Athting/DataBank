@@ -1,0 +1,18 @@
+{
+  "Material": "CoSb2.9Se0.1",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2015.05.171"
+  ],
+  "Data_By_Temperature": {
+    "640.0": [
+      {
+        "Original_Name_In_Paper": "CoSb2.9Se0.1",
+        "Property": "ZT",
+        "Value": 0.42,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.05.171"
+      }
+    ]
+  }
+}

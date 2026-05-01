@@ -1,0 +1,36 @@
+{
+  "Material": "BST composite",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2018.10.069"
+  ],
+  "Data_By_Temperature": {
+    "298.0": [
+      {
+        "Original_Name_In_Paper": "BST composite",
+        "Property": "ThermCond",
+        "Value": 0.78,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2018.10.069"
+      },
+      {
+        "Original_Name_In_Paper": "BST composite",
+        "Property": "Conductivity",
+        "Value": 58000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2018.10.069"
+      }
+    ],
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "BST composite",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2018.10.069"
+      }
+    ]
+  }
+}

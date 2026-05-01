@@ -1,0 +1,37 @@
+{
+  "Material": "BaCd2Sb2",
+  "DOIs_Researched": [
+    "10.1039/c5cp02344k",
+    "10.1016/j.mtphys.2018.11.008"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "BaCd2Sb2",
+        "Property": "ThermCond",
+        "Value": 0.9500000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2018.11.008"
+      },
+      {
+        "Original_Name_In_Paper": "BaCd2Sb2",
+        "Property": "ThermCond",
+        "Value": 0.9500000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5cp02344k"
+      }
+    ],
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "n-doped BaCd2Sb2",
+        "Property": "ZT",
+        "Value": 1.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5cp02344k"
+      }
+    ]
+  }
+}

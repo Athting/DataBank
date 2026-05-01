@@ -1,0 +1,28 @@
+{
+  "Material": "Ca2.95Yb0.05Co4O9+\u03b4",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2013.11.040"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ca2.95Yb0.05Co4O9+\u03b4",
+        "Property": "ZT",
+        "Value": 0.037,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2013.11.040"
+      }
+    ],
+    "156.0": [
+      {
+        "Original_Name_In_Paper": "Ca2.95Yb0.05Co4O9+\u03b4",
+        "Property": "PF",
+        "Value": 0.00024000000000000003,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2013.11.040"
+      }
+    ]
+  }
+}

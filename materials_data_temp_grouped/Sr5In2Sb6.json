@@ -1,0 +1,18 @@
+{
+  "Material": "Sr5In2Sb6",
+  "DOIs_Researched": [
+    "10.1039/c5ta01967b"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Zn-doped Sr5In2Sb6",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta01967b"
+      }
+    ]
+  }
+}

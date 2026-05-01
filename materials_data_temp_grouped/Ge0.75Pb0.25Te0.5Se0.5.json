@@ -1,0 +1,68 @@
+{
+  "Material": "Ge0.75Pb0.25Te0.5Se0.5",
+  "DOIs_Researched": [
+    "10.1039/c6tc02501c",
+    "10.1007/s10853-020-04949-0",
+    "10.1016/j.actamat.2014.04.036"
+  ],
+  "Data_By_Temperature": {
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "Ge0.75Pb0.25Te0.5Se0.5",
+        "Property": "ThermCond",
+        "Value": 0.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2014.04.036"
+      },
+      {
+        "Original_Name_In_Paper": "Ge0.75Pb0.25Te0.5Se0.5",
+        "Property": "ZT",
+        "Value": 1.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2014.04.036"
+      },
+      {
+        "Original_Name_In_Paper": "Ge0.75Pb0.25Te0.5Se0.5",
+        "Property": "ZT",
+        "Value": 1.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2014.04.036"
+      },
+      {
+        "Original_Name_In_Paper": "Ge0.75Pb0.25Te0.5Se0.5",
+        "Property": "ZT",
+        "Value": 1.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2014.04.036"
+      },
+      {
+        "Original_Name_In_Paper": "Ge0.75Pb0.25Te0.5Se0.5",
+        "Property": "ZT",
+        "Value": 1.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2014.04.036"
+      },
+      {
+        "Original_Name_In_Paper": "Ge0.75Pb0.25Te0.5Se0.5",
+        "Property": "ZT",
+        "Value": 1.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6tc02501c"
+      },
+      {
+        "Original_Name_In_Paper": "Ge0.75Pb0.25Te0.5Se0.5",
+        "Property": "ZT",
+        "Value": 1.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      }
+    ]
+  }
+}

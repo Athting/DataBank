@@ -1,0 +1,18 @@
+{
+  "Material": "MgSi0.55Sn0.45",
+  "DOIs_Researched": [
+    "10.1557/jmr.2011.385"
+  ],
+  "Data_By_Temperature": {
+    "550.0": [
+      {
+        "Original_Name_In_Paper": "undoped Mg2Si0.55Sn0.45",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1557/jmr.2011.385"
+      }
+    ]
+  }
+}

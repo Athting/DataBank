@@ -1,0 +1,18 @@
+{
+  "Material": "Cu1.9SnSe3",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2017.02.126"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Cu1.9SnSe3",
+        "Property": "ZT",
+        "Value": 0.84,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2017.02.126"
+      }
+    ]
+  }
+}

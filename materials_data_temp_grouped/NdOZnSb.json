@@ -1,0 +1,18 @@
+{
+  "Material": "NdOZnSb",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2020.155497"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "NdOZnSb",
+        "Property": "PF",
+        "Value": 0.00030000000000000003,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.155497"
+      }
+    ]
+  }
+}

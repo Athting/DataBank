@@ -1,0 +1,95 @@
+{
+  "doi": "10.1016/j.ceramint.2019.02.003",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "BiCuTeO",
+        "BiCuTeO1.00",
+        "BiCuTeO0.88"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "BiCuTeO",
+          "value": 0.000166,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "BiCuTeO",
+          "value": 0.0005369999999999999,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "723.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "BiCuTeO",
+          "zt_value": 0.65,
+          "temperature": "650.0 K"
+        },
+        {
+          "material": "BiCuTeO",
+          "zt_value": 0.6000000000000001,
+          "temperature": "650.0 K"
+        },
+        {
+          "material": "BiCuTeO",
+          "zt_value": 0.63,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "BiCuTeO",
+          "zt_value": 0.6900000000000001,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "BiCuTeO1.00",
+          "zt_value": 0.71,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "BiCuTeO0.88",
+          "zt_value": 1.06,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "BiCuTeO0.88",
+          "zt_value": 1.06,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "BiCuTeO",
+          "zt_value": 0.66,
+          "temperature": "673.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "Material": "ZnNbO",
+  "DOIs_Researched": [
+    "10.1016/j.jpcs.2013.07.012"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "Zn0.995Nb0.005O",
+        "Property": "ZT",
+        "Value": 0.066,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2013.07.012"
+      },
+      {
+        "Original_Name_In_Paper": "Zn0.995Nb0.005O",
+        "Property": "ZT",
+        "Value": 0.066,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2013.07.012"
+      },
+      {
+        "Original_Name_In_Paper": "Zn0.995Nb0.005O",
+        "Property": "Seebeck",
+        "Value": -0.000263,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2013.07.012"
+      },
+      {
+        "Original_Name_In_Paper": "Zn0.995Nb0.005O",
+        "Property": "PF",
+        "Value": 0.000484,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2013.07.012"
+      },
+      {
+        "Original_Name_In_Paper": "Zn0.995Nb0.005O",
+        "Property": "PF",
+        "Value": 0.000484,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2013.07.012"
+      }
+    ]
+  }
+}

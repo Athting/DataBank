@@ -1,0 +1,18 @@
+{
+  "Material": "CuP2",
+  "DOIs_Researched": [
+    "10.1038/s41467-020-19044-w"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "CuP2",
+        "Property": "Conductivity",
+        "Value": 809.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41467-020-19044-w"
+      }
+    ]
+  }
+}

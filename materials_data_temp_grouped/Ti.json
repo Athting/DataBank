@@ -1,0 +1,68 @@
+{
+  "Material": "Ti",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2020.105195",
+    "10.1016/j.tsf.2018.03.002",
+    "10.1016/j.tsf.2016.11.005",
+    "10.1016/j.actamat.2019.09.004",
+    "10.1016/j.mtphys.2020.100200"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Ti1",
+        "Property": "ZT",
+        "Value": 1.09,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2019.09.004"
+      }
+    ],
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "Ti1",
+        "Property": "ZT",
+        "Value": 0.25,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2020.100200"
+      },
+      {
+        "Original_Name_In_Paper": "Ti1",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2020.100200"
+      }
+    ],
+    "1230.0": [
+      {
+        "Original_Name_In_Paper": "10 % Ta on Ti",
+        "Property": "ZT",
+        "Value": 0.29,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.105195"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "pure Ti",
+        "Property": "Conductivity",
+        "Value": 1818181.8181818181,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2018.03.002"
+      },
+      {
+        "Original_Name_In_Paper": "polycrystalline Ti",
+        "Property": "Conductivity",
+        "Value": 2564102.5641025645,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2016.11.005"
+      }
+    ]
+  }
+}

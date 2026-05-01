@@ -1,0 +1,18 @@
+{
+  "Material": "CC-1",
+  "DOIs_Researched": [
+    "10.1007/s10854-019-00816-0"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "CC-1",
+        "Property": "ZT",
+        "Value": 0.265,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-019-00816-0"
+      }
+    ]
+  }
+}

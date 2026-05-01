@@ -1,0 +1,27 @@
+{
+  "Material": "KPbTeSe",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2015.02.026",
+    "10.1016/j.rser.2018.10.006"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "K0.02Pb0.98Te0.15Se0.85",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2015.02.026"
+      },
+      {
+        "Original_Name_In_Paper": "K0.02Pb0.98Te0.15Se0.85",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rser.2018.10.006"
+      }
+    ]
+  }
+}

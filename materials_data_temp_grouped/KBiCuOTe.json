@@ -1,0 +1,18 @@
+{
+  "Material": "KBiCuOTe",
+  "DOIs_Researched": [
+    "10.1007/s11664-016-4945-z"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "K0.01Bi0.99CuOTe",
+        "Property": "ZT",
+        "Value": 0.6900000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-016-4945-z"
+      }
+    ]
+  }
+}

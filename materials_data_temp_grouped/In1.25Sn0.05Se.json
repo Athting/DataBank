@@ -1,0 +1,18 @@
+{
+  "Material": "In1.25Sn0.05Se",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2012.11.139"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "In1.25Sn0.05Se",
+        "Property": "ZT",
+        "Value": 0.66,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2012.11.139"
+      }
+    ]
+  }
+}

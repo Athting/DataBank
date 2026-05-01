@@ -1,0 +1,18 @@
+{
+  "Material": "Lu2Zr2O7",
+  "DOIs_Researched": [
+    "10.1016/j.scriptamat.2019.12.006"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Lu2Zr2O7",
+        "Property": "ThermCond",
+        "Value": 2.6,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2019.12.006"
+      }
+    ]
+  }
+}

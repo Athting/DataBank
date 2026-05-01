@@ -1,0 +1,904 @@
+{
+  "doi": "10.1039/c9sc00485h",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "PbSe",
+        "2D PbSe",
+        "Ga- doped PbSe",
+        "CdSe-free PbSe",
+        "PbSe–4 % CdSe",
+        "PbSe matrix",
+        "pure PbSe",
+        "Cr-doped PbSe",
+        "undoped PbSe",
+        "pristine PbSe",
+        "wt % ) of Tl doped PbSe",
+        "PbSe NW",
+        "% Mo-doped PbSe",
+        "single crystal PbSe",
+        "PbSe nanowires",
+        "indium-doped PbSe thin film",
+        "PbSe films",
+        "( 0.01 wt % ) of Tl doped PbSe",
+        "1 % Mo-doped PbSe",
+        "PbSe single crystal",
+        "PbSe film",
+        "PbSe–16 % PbS",
+        "Zn-free PbSe",
+        "n-type PbSe–3 % CdSe",
+        "n-type PbSe",
+        "pure PbSe compound",
+        "PbSe–20 % PbS",
+        "p-type PbSe",
+        "doped p-type PbSe",
+        "doped n-type PbSe",
+        "PbSe0.998Br0.002",
+        "PbSe-Cl",
+        "PbSe-Tl",
+        "In-doped PbSe",
+        "Br-doped PbSe",
+        "PbSe–3 % CdSe",
+        "2 at % B doped PbSe",
+        "Pb0.96Se",
+        "8 % Sr-doped PbSe",
+        "Sb-doped PbSe",
+        "PbSe : Tl",
+        "PbSe co-doped with Ag and Sb",
+        "n-type GeSe-alloyed PbSe",
+        "hole-doped PbSe",
+        "PbSeAl0.01",
+        "aluminum doped PbSe",
+        "n-type Br doped PbSe",
+        "Na-doped p-type PbSe",
+        "Al-doped n-type PbSe",
+        "PbSe-Br",
+        "Aluminum doped PbSe",
+        "Na doped PbSe",
+        "Na doped-PbSe compound",
+        "doped PbSe with Na",
+        "PbSe doped with Na",
+        "antimony-doped lead selenide",
+        "PbSe with 5 vol % SiC",
+        "PbSe-Ag",
+        "Nb-doped Pb1.04Se",
+        "Nb-doped PbSe",
+        "10 wt % TiB2 incorporated PbSe",
+        "PbSe ( with 2 % Na",
+        "PbSe-SrSe alloy with 6 % Sr",
+        "n-type PbSe-based materials",
+        "PbSe alloy",
+        "Polycrystalline n-type PbSe",
+        "0.01 wt % of Tl doped PbSe",
+        "PbSe–12 % PbS",
+        "PbSe thin film"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "( 0.01 wt % ) of Tl doped PbSe",
+          "value": 0.0000828,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbSe",
+          "value": 0.000335,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbSe–20 % PbS",
+          "value": -0.00005,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "PbSe",
+          "value": 0.000202,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "pristine PbSe",
+          "value": 0.0002,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "pristine PbSe",
+          "value": -0.00035000000000000005,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "p-type PbSe",
+          "value": 0.00025,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "doped n-type PbSe",
+          "value": -0.0001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "2 at % B doped PbSe",
+          "value": -0.00027,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "In-doped PbSe",
+          "value": -0.000186,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "8 % Sr-doped PbSe",
+          "value": 0.00028000000000000003,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "10 wt % TiB2 incorporated PbSe",
+          "value": -0.00034199999999999996,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "550.0 K"
+        },
+        {
+          "material": "0.01 wt % of Tl doped PbSe",
+          "value": 0.000248,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "PbSe thin film",
+          "value": 0.000137,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "293.0 K"
+        },
+        {
+          "material": "PbSe",
+          "value": -0.0005126,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "380.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "indium-doped PbSe thin film",
+          "value": 112.3595505618,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbSe films",
+          "value": 250,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbSe single crystal",
+          "value": 105300,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbSe film",
+          "value": 0.08,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbSe",
+          "value": 301,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbSe",
+          "value": 14705.8823529412,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "pure PbSe compound",
+          "value": 0.005988024000000001,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "PbSe",
+          "value": 105300,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "PbSe",
+          "value": 14700,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "PbSe",
+          "value": 120,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "400.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "PbSe",
+          "value": 1.7000000000000002,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "2D PbSe",
+          "value": 0.26,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Ga- doped PbSe",
+          "value": 4.6,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CdSe-free PbSe",
+          "value": 2.6,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbSe–4 % CdSe",
+          "value": 1.47,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbSe matrix",
+          "value": 1.3,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbSe",
+          "value": 1.7000000000000002,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure PbSe",
+          "value": 1.81,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbSe",
+          "value": 2.14,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Cr-doped PbSe",
+          "value": 2.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure PbSe",
+          "value": 1.8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "undoped PbSe",
+          "value": 1.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine PbSe",
+          "value": 1.81,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbSe",
+          "value": 1.6,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbSe",
+          "value": 1.6,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "pristine PbSe",
+          "value": 4.1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "pristine PbSe",
+          "value": 1.6,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "PbSe–16 % PbS",
+          "value": 1.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "CdSe-free PbSe",
+          "value": 4.54,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "PbSe–4 % CdSe",
+          "value": 2.08,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "PbSe nanowires",
+          "value": 0.8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Zn-free PbSe",
+          "value": 2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "pristine PbSe",
+          "value": 2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "PbSe–16 % PbS",
+          "value": 0.9,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "PbSe",
+          "value": 0.7000000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "PbSe0.998Br0.002",
+          "value": 0.8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "PbSe",
+          "value": 0.9500000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Pb0.96Se",
+          "value": 0.6000000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "Sb-doped PbSe",
+          "value": 0.36,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "PbSe",
+          "value": 0.38,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "PbSe",
+          "value": 0.36,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "PbSe",
+          "value": 0.9390000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "623.0 K"
+        },
+        {
+          "material": "undoped PbSe",
+          "value": 0.75,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "600.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "1 % Mo-doped PbSe",
+          "value": 0.0033,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbSe–16 % PbS",
+          "value": 0.0014600000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "PbSe",
+          "value": 0.0012000000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "PbSe–12 % PbS",
+          "value": 0.0017200000000000002,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "PbSe",
+          "value": 0.00009499999999999999,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "460.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "wt % ) of Tl doped PbSe",
+          "zt_value": 0.01,
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbSe NW",
+          "zt_value": 0.12,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Cr-doped PbSe",
+          "zt_value": 0.4,
+          "temperature": "295 K"
+        },
+        {
+          "material": "% Mo-doped PbSe",
+          "zt_value": 0.5,
+          "temperature": "295 K"
+        },
+        {
+          "material": "single crystal PbSe",
+          "zt_value": 1.25,
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbSe nanowires",
+          "zt_value": 0.12,
+          "temperature": "295 K"
+        },
+        {
+          "material": "2D PbSe",
+          "zt_value": 0.26,
+          "temperature": "295 K"
+        },
+        {
+          "material": "n-type PbSe–3 % CdSe",
+          "zt_value": 1.4,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "n-type PbSe",
+          "zt_value": 1.25,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "p-type PbSe",
+          "zt_value": 1.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "p-type PbSe",
+          "zt_value": 1.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "doped p-type PbSe",
+          "zt_value": 1.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "PbSe-Cl",
+          "zt_value": 0.8,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "PbSe-Tl",
+          "zt_value": 1,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "Cr-doped PbSe",
+          "zt_value": 1,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "PbSe",
+          "zt_value": 1,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "In-doped PbSe",
+          "zt_value": 1.2,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Br-doped PbSe",
+          "zt_value": 2,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "n-type PbSe",
+          "zt_value": 1.5,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Zn-free PbSe",
+          "zt_value": 0.8,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "CdSe-free PbSe",
+          "zt_value": 0.9,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "PbSe–3 % CdSe",
+          "zt_value": 1.4,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "In-doped PbSe",
+          "zt_value": 1.4,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "In-doped PbSe",
+          "zt_value": 1.2,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "n-type PbSe",
+          "zt_value": 0.9,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "PbSe",
+          "zt_value": 1.3,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "p-type PbSe",
+          "zt_value": 1.1,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "PbSe",
+          "zt_value": 2,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "p-type PbSe",
+          "zt_value": 1.7000000000000002,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "PbSe",
+          "zt_value": 1.65,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "8 % Sr-doped PbSe",
+          "zt_value": 1.5,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "p-type PbSe",
+          "zt_value": 1.7000000000000002,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "Cr-doped PbSe",
+          "zt_value": 1,
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "PbSe : Tl",
+          "zt_value": 0.8,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "PbSe co-doped with Ag and Sb",
+          "zt_value": 1.03,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "n-type GeSe-alloyed PbSe",
+          "zt_value": 1.54,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "n-type PbSe",
+          "zt_value": 1.54,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "PbSe",
+          "zt_value": 0.6000000000000001,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "hole-doped PbSe",
+          "zt_value": 2,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "doped p-type PbSe",
+          "zt_value": 2,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "p-type PbSe",
+          "zt_value": 2,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "hole-doped PbSe",
+          "zt_value": 2,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "PbSeAl0.01",
+          "zt_value": 1.3,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "aluminum doped PbSe",
+          "zt_value": 1.3,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "n-type Br doped PbSe",
+          "zt_value": 1,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "Na-doped p-type PbSe",
+          "zt_value": 1.2,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "Al-doped n-type PbSe",
+          "zt_value": 1.3,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "Br-doped PbSe",
+          "zt_value": 1.2,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "Br-doped PbSe",
+          "zt_value": 1.2,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "PbSe-Br",
+          "zt_value": 1.2,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "p-type PbSe",
+          "zt_value": 1.2,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "Aluminum doped PbSe",
+          "zt_value": 1.3,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "PbSe",
+          "zt_value": 1.3,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "PbSe",
+          "zt_value": 1,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "Na doped PbSe",
+          "zt_value": 1.2,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "PbSe",
+          "zt_value": 1.3,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "Na doped-PbSe compound",
+          "zt_value": 1.2,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "n-type PbSe",
+          "zt_value": 1.3,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "PbSe",
+          "zt_value": 1.2,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "doped PbSe with Na",
+          "zt_value": 1.2,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "PbSe",
+          "zt_value": 1.2,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "PbSe doped with Na",
+          "zt_value": 1.2,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "p-type PbSe",
+          "zt_value": 1.2,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "PbSe",
+          "zt_value": 1,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "PbSe",
+          "zt_value": 2,
+          "temperature": "77.0 K"
+        },
+        {
+          "material": "PbSe",
+          "zt_value": 0.28,
+          "temperature": "450.0 K"
+        },
+        {
+          "material": "antimony-doped lead selenide",
+          "zt_value": 1.5,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "PbSe with 5 vol % SiC",
+          "zt_value": 1,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "PbSe-Ag",
+          "zt_value": 1,
+          "temperature": "770.0 K"
+        },
+        {
+          "material": "Nb-doped Pb1.04Se",
+          "zt_value": 1.1,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "Nb-doped PbSe",
+          "zt_value": 1.1,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "pristine PbSe",
+          "zt_value": 0.5700000000000001,
+          "temperature": "550.0 K"
+        },
+        {
+          "material": "PbSe",
+          "zt_value": 1.5,
+          "temperature": "930.0 K"
+        },
+        {
+          "material": "PbSe ( with 2 % Na",
+          "zt_value": 0.58,
+          "temperature": "813.0 K"
+        },
+        {
+          "material": "PbSe ( with 2 % Na",
+          "zt_value": 0.58,
+          "temperature": "813.0 K"
+        },
+        {
+          "material": "PbSe-SrSe alloy with 6 % Sr",
+          "zt_value": 0.8,
+          "temperature": "813.0 K"
+        },
+        {
+          "material": "PbSe",
+          "zt_value": 1.45,
+          "temperature": "813.0 K"
+        },
+        {
+          "material": "n-type PbSe-based materials",
+          "zt_value": 1.45,
+          "temperature": "813.0 K"
+        },
+        {
+          "material": "PbSe alloy",
+          "zt_value": 1.2,
+          "temperature": "875.0 K"
+        },
+        {
+          "material": "p-type PbSe",
+          "zt_value": 1,
+          "temperature": "650.0 K"
+        },
+        {
+          "material": "Polycrystalline n-type PbSe",
+          "zt_value": 1.8,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "PbSe",
+          "zt_value": 1.6,
+          "temperature": "775.0 K"
+        },
+        {
+          "material": "pristine PbSe",
+          "zt_value": 1.65,
+          "temperature": "858.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

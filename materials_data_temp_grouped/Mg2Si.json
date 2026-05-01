@@ -1,0 +1,693 @@
+{
+  "Material": "Mg2Si",
+  "DOIs_Researched": [
+    "10.1016/j.mser.2016.08.001",
+    "10.1039/c2jm35257e",
+    "10.1016/j.apenergy.2014.12.075",
+    "10.1007/s13391-019-00193-0",
+    "10.1016/j.jallcom.2013.11.092",
+    "10.1039/c5ta03751d",
+    "10.1007/s10854-018-9168-z",
+    "10.1039/c5cp06163f",
+    "10.1016/j.jallcom.2018.12.103",
+    "10.1007/s11664-014-3419-4",
+    "10.1016/j.rser.2014.05.060",
+    "10.1007/s11664-011-1786-7",
+    "10.1016/j.jallcom.2007.09.101",
+    "10.1007/s11434-014-0237-2",
+    "10.1016/j.actamat.2016.08.057",
+    "10.1016/j.actamat.2016.10.077",
+    "10.1016/j.tsf.2012.08.037",
+    "10.1039/c8ra02436g",
+    "10.1016/j.cap.2011.03.017",
+    "10.1007/s10853-012-6959-0",
+    "10.1016/j.cap.2015.04.034",
+    "10.1016/j.jeurceramsoc.2019.05.008",
+    "10.1016/j.jallcom.2018.10.066",
+    "10.1016/j.mseb.2006.09.011",
+    "10.1016/j.pnsc.2016.11.003",
+    "10.1007/s12540-020-00609-9",
+    "10.1016/j.egypro.2018.11.280",
+    "10.1016/j.commatsci.2018.02.056",
+    "10.1016/j.apsusc.2016.06.041",
+    "10.1007/s11595-009-6912-5",
+    "10.1016/j.jmat.2018.11.004",
+    "10.1007/s40243-019-0159-7",
+    "10.1016/j.scriptamat.2015.03.007",
+    "10.1016/j.jallcom.2015.04.190",
+    "10.1007/s11837-016-2060-5",
+    "10.1016/j.tsf.2011.05.031",
+    "10.1016/j.cap.2011.01.031",
+    "10.1016/j.jallcom.2018.12.037",
+    "10.1016/j.commatsci.2014.11.015",
+    "10.1016/j.mseb.2008.12.029",
+    "10.1016/j.commatsci.2015.03.014",
+    "10.1016/j.matchemphys.2015.03.017",
+    "10.1039/c9tc05710b",
+    "10.1016/j.jallcom.2011.05.033",
+    "10.1039/c6ra04986a",
+    "10.1039/c5ra27171a",
+    "10.1016/j.jssc.2014.08.026",
+    "10.1016/j.actamat.2019.02.041",
+    "10.1016/j.matchemphys.2019.122407",
+    "10.1016/j.jssc.2016.10.011"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Si",
+        "Property": "ThermCond",
+        "Value": 8.75,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-014-3419-4"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si",
+        "Property": "ThermCond",
+        "Value": 12.14,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": "introduction of Pb",
+        "Source_DOI": "10.1039/c8ra02436g"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si",
+        "Property": "ThermCond",
+        "Value": 9.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s40243-019-0159-7"
+      },
+      {
+        "Original_Name_In_Paper": "single-crystal Mg2Si",
+        "Property": "ThermCond",
+        "Value": 106.72,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2018.02.056"
+      },
+      {
+        "Original_Name_In_Paper": "polycrystalline Mg2Si",
+        "Property": "ThermCond",
+        "Value": 1.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2018.02.056"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si",
+        "Property": "ThermCond",
+        "Value": 2.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.egypro.2018.11.280"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si",
+        "Property": "ThermCond",
+        "Value": 7.9,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2014.08.026"
+      },
+      {
+        "Original_Name_In_Paper": "nanotwinned Mg2Si",
+        "Property": "ThermCond",
+        "Value": 1.42,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2019.02.041"
+      },
+      {
+        "Original_Name_In_Paper": "single crystalline Mg2Si",
+        "Property": "ThermCond",
+        "Value": 11.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2019.02.041"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si",
+        "Property": "ThermCond",
+        "Value": 150.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2015.03.017"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Mg2Si",
+        "Property": "ThermCond",
+        "Value": 10.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11837-016-2060-5"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si",
+        "Property": "ThermCond",
+        "Value": 6.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": "Si additions",
+        "Source_DOI": "10.1007/s11837-016-2060-5"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si",
+        "Property": "ThermCond",
+        "Value": 10.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2015.04.034"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si",
+        "Property": "ThermCond",
+        "Value": 10.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.04.190"
+      },
+      {
+        "Original_Name_In_Paper": "polycrystalline Mg2Si",
+        "Property": "ThermCond",
+        "Value": 10.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2018.02.056"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si",
+        "Property": "ZT",
+        "Value": 0.14,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-012-6959-0"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si",
+        "Property": "Seebeck",
+        "Value": -0.00075,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mseb.2006.09.011"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si",
+        "Property": "Seebeck",
+        "Value": 0.0005700000000000001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mseb.2008.12.029"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si",
+        "Property": "Conductivity",
+        "Value": 260000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta03751d"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si",
+        "Property": "Conductivity",
+        "Value": 5680.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rser.2014.05.060"
+      }
+    ],
+    "310.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Si",
+        "Property": "ThermCond",
+        "Value": 5.6,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta03751d"
+      }
+    ],
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "pure Mg2Si",
+        "Property": "ZT",
+        "Value": 0.0018300000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pnsc.2016.11.003"
+      }
+    ],
+    "840.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Si",
+        "Property": "ZT",
+        "Value": 0.74,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pnsc.2016.11.003"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si",
+        "Property": "ZT",
+        "Value": 0.74,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2011.01.031"
+      }
+    ],
+    "550.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Si",
+        "Property": "ZT",
+        "Value": 1.08,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2012.08.037"
+      }
+    ],
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Si",
+        "Property": "ZT",
+        "Value": 0.47000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-011-1786-7"
+      },
+      {
+        "Original_Name_In_Paper": "nanostuctured Mg2Si",
+        "Property": "ZT",
+        "Value": 0.36,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11595-009-6912-5"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra04986a"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si",
+        "Property": "ZT",
+        "Value": 0.04,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2011.03.017"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2011.03.017"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si",
+        "Property": "ZT",
+        "Value": 0.11,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2019.122407"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si",
+        "Property": "ZT",
+        "Value": 0.11,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2019.122407"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si",
+        "Property": "Seebeck",
+        "Value": 0.00028000000000000003,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2019.122407"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si",
+        "Property": "PF",
+        "Value": 0.0018000000000000002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2016.06.041"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si",
+        "Property": "Conductivity",
+        "Value": 4980.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2019.122407"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si",
+        "Property": "Conductivity",
+        "Value": 5250.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2019.122407"
+      }
+    ],
+    "675.0": [
+      {
+        "Original_Name_In_Paper": "p-type Mg2Si",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s12540-020-00609-9"
+      }
+    ],
+    "775.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Si",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2jm35257e"
+      },
+      {
+        "Original_Name_In_Paper": "Pure Mg2Si",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5cp06163f"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": "Bi doping",
+        "Source_DOI": "10.1016/j.jssc.2016.10.011"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Si",
+        "Property": "ZT",
+        "Value": 1.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2jm35257e"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2018.11.004"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": "co-doping of 0.2 % Yb",
+        "Source_DOI": "10.1016/j.jssc.2016.10.011"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra04986a"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra04986a"
+      },
+      {
+        "Original_Name_In_Paper": "Sn-doped Mg2Si",
+        "Property": "ZT",
+        "Value": 0.78,
+        "Units": null,
+        "Editing": "Bi addition",
+        "Source_DOI": "10.1016/j.jallcom.2011.05.033"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mser.2016.08.001"
+      }
+    ],
+    "770.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Si",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s13391-019-00193-0"
+      }
+    ],
+    "653.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Si",
+        "Property": "ZT",
+        "Value": 0.13,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mseb.2006.09.011"
+      }
+    ],
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Si",
+        "Property": "ZT",
+        "Value": 0.75,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5cp06163f"
+      },
+      {
+        "Original_Name_In_Paper": "Undoped Mg2Si",
+        "Property": "ZT",
+        "Value": 0.06,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2014.11.015"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": "including Mg2Si",
+        "Source_DOI": "10.1039/c5ra27171a"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si",
+        "Property": "PF",
+        "Value": 0.0033,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": "By multi-doping",
+        "Source_DOI": "10.1016/j.actamat.2016.10.077"
+      }
+    ],
+    "862.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Si",
+        "Property": "ZT",
+        "Value": 0.86,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apenergy.2014.12.075"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si",
+        "Property": "ZT",
+        "Value": 0.86,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-018-9168-z"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Si",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rser.2014.05.060"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si",
+        "Property": "ZT",
+        "Value": 0.16,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2019.05.008"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc05710b"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2(Si",
+        "Property": "PF",
+        "Value": 0.0017000000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2016.08.057"
+      }
+    ],
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "p-type Mg2Si",
+        "Property": "ZT",
+        "Value": 0.11,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2015.03.014"
+      },
+      {
+        "Original_Name_In_Paper": "pure Mg2Si",
+        "Property": "ZT",
+        "Value": 0.74,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.10.066"
+      }
+    ],
+    "660.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Si",
+        "Property": "ZT",
+        "Value": 0.41000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2007.09.101"
+      },
+      {
+        "Original_Name_In_Paper": "pure Mg2Si",
+        "Property": "ZT",
+        "Value": 0.41000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2007.09.101"
+      },
+      {
+        "Original_Name_In_Paper": "pure Mg2Si",
+        "Property": "ZT",
+        "Value": 0.41000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2007.09.101"
+      }
+    ],
+    "811.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Si",
+        "Property": "ZT",
+        "Value": 0.36,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11434-014-0237-2"
+      }
+    ],
+    "860.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Si",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2011.05.031"
+      }
+    ],
+    "870.0": [
+      {
+        "Original_Name_In_Paper": "n-type Mg2(Si",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.12.037"
+      }
+    ],
+    "803.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Si",
+        "Property": "ZT",
+        "Value": 1.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2015.03.007"
+      }
+    ],
+    "844.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Si",
+        "Property": "ZT",
+        "Value": 0.29,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.11.092"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Si",
+        "Property": "ZT",
+        "Value": 0.67,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.12.103"
+      }
+    ],
+    "623.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Si",
+        "Property": "Seebeck",
+        "Value": 0.000388,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2019.122407"
+      }
+    ],
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Si",
+        "Property": "PF",
+        "Value": 0.0029000000000000002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta03751d"
+      }
+    ],
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Si",
+        "Property": "Conductivity",
+        "Value": 63000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2011.03.017"
+      }
+    ]
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "doi": "10.3938/jkps.64.1004",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "La0.5Co4Sb12",
+        "La0.4Co4Sb12",
+        "La0.25Co4Sb12",
+        "La0.23Co4Sb12",
+        "La0.2Co4Sb12",
+        "La0.29Co4Sb12"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "La0.5Co4Sb12",
+          "value": 0.000154,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "La0.5Co4Sb12",
+          "value": 3174.6031746032,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "La0.5Co4Sb12",
+          "value": 2.25,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "La0.4Co4Sb12",
+          "value": 4.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "La0.25Co4Sb12",
+          "value": 3,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "La0.25Co4Sb12",
+          "value": 2.39,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "780.0 K"
+        },
+        {
+          "material": "La0.25Co4Sb12",
+          "value": 2.39,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "780.0 K"
+        },
+        {
+          "material": "La0.23Co4Sb12",
+          "value": 4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "400.0 K"
+        },
+        {
+          "material": "La0.23Co4Sb12",
+          "value": 4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "400.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "La0.25Co4Sb12",
+          "value": 0.002,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "657.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "La0.25Co4Sb12",
+          "zt_value": 0.51,
+          "temperature": "780.0 K"
+        },
+        {
+          "material": "La0.2Co4Sb12",
+          "zt_value": 0.35000000000000003,
+          "temperature": "623.0 K"
+        },
+        {
+          "material": "La0.2Co4Sb12",
+          "zt_value": 0.35000000000000003,
+          "temperature": "623.0 K"
+        },
+        {
+          "material": "La0.29Co4Sb12",
+          "zt_value": 1.06,
+          "temperature": "863.0 K"
+        },
+        {
+          "material": "La0.29Co4Sb12",
+          "zt_value": 1.06,
+          "temperature": "863.0 K"
+        },
+        {
+          "material": "La0.29Co4Sb12",
+          "zt_value": 1.06,
+          "temperature": "863.0 K"
+        },
+        {
+          "material": "La0.29Co4Sb12",
+          "zt_value": 1.06,
+          "temperature": "863.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

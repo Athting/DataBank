@@ -1,0 +1,18 @@
+{
+  "Material": "transition-metal-substituted tetrahedrite compounds",
+  "DOIs_Researched": [
+    "10.1039/c6cc09904a"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "transition-metal-substituted tetrahedrite compounds",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6cc09904a"
+      }
+    ]
+  }
+}

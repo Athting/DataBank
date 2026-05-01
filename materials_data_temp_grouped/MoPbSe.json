@@ -1,0 +1,26 @@
+{
+  "Material": "MoPbSe",
+  "DOIs_Researched": [
+    "10.1016/j.mtphys.2018.06.004"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Mo0.01Pb0.99Se",
+        "Property": "ThermCond",
+        "Value": 2.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2018.06.004"
+      },
+      {
+        "Original_Name_In_Paper": "Mo0.01Pb0.99Se",
+        "Property": "Conductivity",
+        "Value": 90000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2018.06.004"
+      }
+    ]
+  }
+}

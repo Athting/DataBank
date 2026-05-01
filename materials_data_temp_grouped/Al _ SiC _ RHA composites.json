@@ -1,0 +1,18 @@
+{
+  "Material": "Al / SiC / RHA composites",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2016.12.339"
+  ],
+  "Data_By_Temperature": {
+    "1573.0": [
+      {
+        "Original_Name_In_Paper": "Al / SiC / RHA composites",
+        "Property": "Conductivity",
+        "Value": 495.0495049505,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.12.339"
+      }
+    ]
+  }
+}

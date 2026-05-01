@@ -1,0 +1,44 @@
+{
+  "Material": "In4Se2.32I0.03",
+  "DOIs_Researched": [
+    "10.1039/c2jm16369a"
+  ],
+  "Data_By_Temperature": {
+    "660.0": [
+      {
+        "Original_Name_In_Paper": "In4Se2.32I0.03",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2jm16369a"
+      },
+      {
+        "Original_Name_In_Paper": "In4Se2.32I0.03",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2jm16369a"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "In4Se2.32I0.03",
+        "Property": "ZT",
+        "Value": 0.01,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2jm16369a"
+      },
+      {
+        "Original_Name_In_Paper": "iodine-substituted In4Se2.32I0.03 crystal",
+        "Property": "ZT",
+        "Value": 0.33,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2jm16369a"
+      }
+    ]
+  }
+}

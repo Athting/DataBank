@@ -1,0 +1,18 @@
+{
+  "Material": "poly(EDOT-co-EDOT-AA) : PSS",
+  "DOIs_Researched": [
+    "10.1039/c4ra10970h"
+  ],
+  "Data_By_Temperature": {
+    "283.0": [
+      {
+        "Original_Name_In_Paper": "poly(EDOT-co-EDOT-AA) : PSS",
+        "Property": "Conductivity",
+        "Value": 15.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra10970h"
+      }
+    ]
+  }
+}

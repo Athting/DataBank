@@ -1,0 +1,26 @@
+{
+  "Material": "T = 700 K, S = 393 \u03bcV",
+  "DOIs_Researched": [
+    "10.1016/j.cplett.2012.04.025"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "T = 700 K, S = 393 \u03bcV",
+        "Property": "Seebeck",
+        "Value": 0.00039299999999999996,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cplett.2012.04.025"
+      },
+      {
+        "Original_Name_In_Paper": "T = 700 K, S = 393 \u03bcV",
+        "Property": "Conductivity",
+        "Value": 2132.2,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cplett.2012.04.025"
+      }
+    ]
+  }
+}

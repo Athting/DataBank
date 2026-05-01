@@ -1,0 +1,18 @@
+{
+  "Material": "p-type BST",
+  "DOIs_Researched": [
+    "10.1016/j.mtphys.2020.100215"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "p-type BST",
+        "Property": "PF",
+        "Value": 0.004,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2020.100215"
+      }
+    ]
+  }
+}

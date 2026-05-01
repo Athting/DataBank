@@ -1,0 +1,18 @@
+{
+  "Material": "CeRu4P12",
+  "DOIs_Researched": [
+    "10.1007/s10853-016-0446-y"
+  ],
+  "Data_By_Temperature": {
+    "160.0": [
+      {
+        "Original_Name_In_Paper": "CeRu4P12",
+        "Property": "Seebeck",
+        "Value": 0.00029299999999999997,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-016-0446-y"
+      }
+    ]
+  }
+}

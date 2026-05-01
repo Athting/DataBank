@@ -1,0 +1,4301 @@
+{
+  "doi": "10.1016/j.jallcom.2015.08.154",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "SnSe",
+        "Tin selenide ( SnSe )",
+        "SnSe bilayer",
+        "pristine SnSe",
+        "single crystalline SnSe",
+        "SnSe crystals",
+        "SnSe0.95–3 % PbBr2",
+        "bilayer SnSe",
+        "undoped SnSe",
+        "polycrystalline SnSe",
+        "SnSe single crystals",
+        "Na-doped SnSe single crystals",
+        "SnSe / S compound",
+        "SnSe crystal",
+        "SnSe nanosheets composite films",
+        "single-crystal SnSe",
+        "Na-doped SnSe single crystal",
+        "crystal SnSe",
+        "Na-doped polycrystalline SnSe",
+        "SnSe films",
+        "SnSe SC",
+        "SnSe thin films",
+        "Na-doped SnSe",
+        "n-type single-layered SnSe",
+        "pristine polycrystalline SnSe",
+        "doped p-type SnSe single crystals",
+        "oxygen-isolated SnSe",
+        "n-type SnSe",
+        "pure SnSe",
+        "11.8 % Cu-doped SnSe",
+        "n-type Cl-doped SnSe",
+        "bulk polycrystalline SnSe",
+        "SnSe matrix",
+        "1 % PbSe / SnSe composites",
+        "co-doped SnSe",
+        "3 % Ge-doped SnSe nanoplates",
+        "textured polycrystalline SnSe",
+        "polycrystalline Sn0.95Se",
+        "Sn0.95Se",
+        "p-type SnSe doped with Zn",
+        "p-type polycrystalline SnSe",
+        "SnSe poly-crystals",
+        "undoped polycrystalline SnSe",
+        "nanocrystalline SnSe",
+        "Ge-doped SnSe",
+        "Pb-doped polycrystalline SnSe",
+        "textured polycrystalline SnSe ingot",
+        "Bi-doped SnSe",
+        "SnSe single crystal",
+        "single crystal SnSe",
+        "SnSe monolayer",
+        "single-crystalline SnSe",
+        "textured polycrystalline SnSe ingots",
+        "SnSe powder",
+        "SnSe-30",
+        "single layer SnSe",
+        "hole-doped SnSe crystals",
+        "SnSe thin film",
+        "p-type SnSe",
+        "Na doped SnSe single crystal",
+        "SnSe based",
+        "hole-doped single-crystal SnSe",
+        "hole-doped SnSe",
+        "Na-doped single crystalline SnSe",
+        "Na-doped p-type SnSe",
+        "3 at % Na-doped SnSe",
+        "p-type single crystal SnSe",
+        "p-type crystalline SnSe",
+        "SnSe0.95–4 % PbBr2",
+        "SnSe-0",
+        "H2 treated polycrystalline SnSe",
+        "doped SnSe",
+        "1.5 % Ag-doped nanolaminar SnSe polycrystals",
+        "3 % I doped SnSe",
+        "SnSe : Bi 8 %",
+        "polycrystalline hole-doped SnSe alloyed with 5 % lead selenide",
+        "polycrystalline SnSe-based materials",
+        "potassium-doped SnSe polycrystals",
+        "n-type polycrystalline SnSe",
+        "SnSe-30 pellet",
+        "Cu doped SnSe",
+        "SnSe / rGO",
+        "n-type SnSe0.8",
+        "SnSe bulk",
+        "n-type Br-doped polycrystalline SnSe",
+        "SnSe0.98",
+        "SnSe0.95-1 % MoCl5",
+        "n-type SnSe crystals",
+        "un-doped polycrystalline SnSe",
+        "Cu doped SnSe alloys",
+        "Al doped SnSe",
+        "un-doped SnSe",
+        "Cu-doped SnSe",
+        "SnSe doped with 3 % Br",
+        "SnSe alloyed with 10 % Pb",
+        "n-type doped SnSe",
+        "n-type SnSe single crystals",
+        "bromine (Br)-doped SnSe",
+        "polycrystalline SnSe with PbSe and Na",
+        "n-type SnSe polycrystals",
+        "oxygen-isolated SnSe with 3 % Br",
+        "3 % Br-doped SnSe polycrystals",
+        "layered SnSe compound",
+        "SnSe0.95 + 2 % PbBr2",
+        "nanostructured SnSe",
+        "polycrystalline SnSe with 5 % PbSe",
+        "doped polycrystalline SnSe",
+        "doped polycrystalline SnSe compounds",
+        "p-type Na doped polycrystalline SnSe",
+        "n-type SnSe crystals doped with Br",
+        "polycrystalline hole-doped SnSe alloyed with 5 % PbSe",
+        "iodine-doped n-type SnSe",
+        "SnSe nanowires",
+        "hole-doped SnSe via 1.5 % Na",
+        "3 % Br doped SnSe",
+        "undoped SnSe single crystals",
+        "3 % Br-doped SnSe",
+        "SnSe nanotubes",
+        "SnSe nanotube",
+        "silver doped polycrystalline SnSe",
+        "Single crystal SnSe",
+        "p-type polycrystalline SnSe doped with Ag",
+        "Ag-doped p-type SnSe",
+        "doped p-type SnSe",
+        "p-type Ag-doped polycrystalline SnSe",
+        "Sn0.98Se-based",
+        "polycrystalline p-type SnSe",
+        "SnSe / carbon black composites",
+        "Sn0.98Se",
+        "pure polycrystalline SnSe",
+        "undoped SnSe compound",
+        "undoped SnSe compounds",
+        "un-doped p-type polycrystalline SnSe",
+        "Polycrystalline SnSe",
+        "Tin selenide ( SnSe ) single crystals",
+        "bulk SnSe",
+        "SnSe nanoprecipitates",
+        "polycrystalline SnSe material",
+        "undoped p-type SnSe crystals",
+        "3 % Ag-doped SnSe",
+        "hole doped SnSe crystals",
+        "pristine SnSe composite",
+        "monolayer SnSe",
+        "3.2 wt % MoS2 / graphene / SnSe composites",
+        "SnSe + 3.2 wt % MoS2",
+        "SnSe composite with 3.2 % MoS2",
+        "undoped single crystal SnSe",
+        "bulk SnSe crystal",
+        "monocrystalline SnSe",
+        "p-type SnSe crystals",
+        "SnSe compound",
+        "single-crystal SnSe compound",
+        "undoped monocrystalline SnSe",
+        "Single crystalline SnSe",
+        "p-type SnSe single crystal",
+        "single crystalline SnSe compound",
+        "crystalline SnSe",
+        "Single-crystal SnSe",
+        "p-type SnSe single crystals",
+        "SnSe compounds",
+        "p-type vacancy doped SnSe",
+        "n-type single-crystal SnSe",
+        "hole-doped SnSe single crystal",
+        "p-type single-crystalline SnSe",
+        "pristine p-type SnSe",
+        "orthorhombic SnSe single crystal",
+        "0.5 wt % graphene added SnSe",
+        "SnSe nanosheets",
+        "SnSe film",
+        "textured SnSe thin film",
+        "p-type SnSe thin films",
+        "bulk SnSe crystals",
+        "n-type SnSe bilayer",
+        "K doped SnSe",
+        "α-SnSe",
+        "SnSe0.95–2 % PbBr2",
+        "SnSe0.95–0.4 % BiCl3",
+        "SnSe0.95-3 % PbBr2",
+        "polycrystalline SnSe bulk material",
+        "6 % Bi-doped SnSe nanosheets",
+        "SnSe nanomaterial",
+        "bulk SnSe material",
+        "SnSe nanobelt bulk material",
+        "Bi doped n-type SnSe",
+        "(Bi)-doped n-type SnSe",
+        "Bi-doped n-type SnSe single crystals",
+        "doped n-type SnSe",
+        "n-type SnSe single crystal",
+        "Sn0.98Se compound",
+        "SnSe : Bi 6 %",
+        "12 % PbSe doped SnSe single crystals",
+        "hole doped SnSe single crystals",
+        "polycrystalline SnSe thin film",
+        "Te-doped SnSe nanomaterials",
+        "undoped SnSe matrix",
+        "polycrystalline SnSe-based",
+        "polycrystalline SnSe based composites with PbTe",
+        "nanocomposite 1.5 vol % PbTe / SnSe",
+        "doped p–type SnSe materials",
+        "camphorsulfonic acid (CSA)-doped-PANi-coated SnSe0.8S0.2 nanosheet",
+        "2.6 at. % Mo-doped SnSe thin film",
+        "polycrystalline un-doped SnSe"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "SnSe",
+          "value": 0.0005200000000000001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnSe",
+          "value": 0.000503,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnSe SC",
+          "value": 0.0005,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnSe thin films",
+          "value": 0.0002622,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnSe",
+          "value": 0.00051,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnSe",
+          "value": 0.0005200000000000001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnSe",
+          "value": 0.0002,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnSe",
+          "value": 0.00051,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Na-doped SnSe",
+          "value": 0.0002,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "n-type single-layered SnSe",
+          "value": 0.0020800000000000003,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Tin selenide ( SnSe )",
+          "value": 0.0005200000000000001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine polycrystalline SnSe",
+          "value": 0.000547,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnSe",
+          "value": 0.0005200000000000001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SnSe",
+          "value": -0.00015099999999999998,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SnSe-30",
+          "value": 0.000184,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "hole-doped SnSe",
+          "value": 0.00016,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "p-type single crystal SnSe",
+          "value": 0.0005,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "p-type crystalline SnSe",
+          "value": 0.000167,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SnSe0.95–4 % PbBr2",
+          "value": -0.00019329999999999998,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "un-doped SnSe",
+          "value": 0.000358,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "pristine SnSe composite",
+          "value": 0.000321,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "pristine SnSe",
+          "value": 0.000374,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "SnSe0.95–3 % PbBr2",
+          "value": -0.000363,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "793.0 K"
+        },
+        {
+          "material": "SnSe compound",
+          "value": 0.0005,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "675.0 K"
+        },
+        {
+          "material": "undoped SnSe",
+          "value": 0.000479,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "298.0 K"
+        },
+        {
+          "material": "SnSe thin films",
+          "value": 0.007863,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "42.0 K"
+        },
+        {
+          "material": "SnSe thin films",
+          "value": 0.0006277,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "SnSe single crystal",
+          "value": 0.000566,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "580.0 K"
+        },
+        {
+          "material": "pure SnSe",
+          "value": 0.00058,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "310.0 K"
+        },
+        {
+          "material": "SnSe",
+          "value": 0.0002,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "308.0 K"
+        },
+        {
+          "material": "SnSe-0",
+          "value": 0.000296,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "473.0 K"
+        },
+        {
+          "material": "pure SnSe",
+          "value": 0.000516,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "326.0 K"
+        },
+        {
+          "material": "SnSe",
+          "value": 0.0004107,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "623.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "SnSe films",
+          "value": 5.5555555556,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "undoped SnSe",
+          "value": 0.02,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Na-doped SnSe",
+          "value": 83000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "oxygen-isolated SnSe",
+          "value": 0.01,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "n-type SnSe",
+          "value": 0.1,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure SnSe",
+          "value": 38,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "11.8 % Cu-doped SnSe",
+          "value": 416.6,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnSe",
+          "value": 416.6,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure SnSe",
+          "value": 38,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure SnSe",
+          "value": 38,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "n-type Cl-doped SnSe",
+          "value": 4,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "bulk polycrystalline SnSe",
+          "value": 90,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "polycrystalline SnSe",
+          "value": 730,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "textured polycrystalline SnSe ingot",
+          "value": 6190,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "pure SnSe",
+          "value": 2883,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "SnSe",
+          "value": 27.027027027,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SnSe",
+          "value": 100000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "single-crystal SnSe",
+          "value": 600,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SnSe",
+          "value": 6200,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SnSe0.95–4 % PbBr2",
+          "value": 940,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SnSe-30",
+          "value": 1611,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SnSe-0",
+          "value": 457,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SnSe",
+          "value": 646,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "SnSe",
+          "value": 1280,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "SnSe : Bi 8 %",
+          "value": 1285,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "SnSe : Bi 8 %",
+          "value": 646,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "SnSe",
+          "value": 2981,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "SnSe crystals",
+          "value": 7240,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "SnSe",
+          "value": 6600,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "Polycrystalline SnSe",
+          "value": 6000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "SnSe",
+          "value": 3960,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "SnSe films",
+          "value": 0.4389815628,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "polycrystalline SnSe",
+          "value": 9010,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "SnSe single crystal",
+          "value": 3960,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "580.0 K"
+        },
+        {
+          "material": "pure SnSe",
+          "value": 0.1290322581,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "310.0 K"
+        },
+        {
+          "material": "undoped SnSe",
+          "value": 4000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "713.0 K"
+        },
+        {
+          "material": "undoped SnSe",
+          "value": 160,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "575.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "SnSe",
+          "value": 1.7000000000000002,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Tin selenide ( SnSe )",
+          "value": 1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnSe",
+          "value": 0.6900000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnSe bilayer",
+          "value": 0.9,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnSe",
+          "value": 0.46,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnSe",
+          "value": 1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine SnSe",
+          "value": 1.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "single crystalline SnSe",
+          "value": 0.46,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnSe",
+          "value": 1.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnSe",
+          "value": 0.7000000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnSe",
+          "value": 0.8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnSe crystals",
+          "value": 0.6000000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnSe0.95–3 % PbBr2",
+          "value": 1.23,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnSe",
+          "value": 0.46,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "bilayer SnSe",
+          "value": 0.9,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnSe bilayer",
+          "value": 0.9,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnSe",
+          "value": 0.30000000000000004,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "undoped SnSe",
+          "value": 0.46,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "polycrystalline SnSe",
+          "value": 0.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnSe matrix",
+          "value": 0.18,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "1 % PbSe / SnSe composites",
+          "value": 0.25,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "pure SnSe",
+          "value": 0.367,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Bi-doped SnSe",
+          "value": 0.30000000000000004,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SnSe",
+          "value": 0.9,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SnSe single crystal",
+          "value": 0.7000000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SnSe",
+          "value": 0.76,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SnSe single crystal",
+          "value": 0.7000000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "single crystal SnSe",
+          "value": 1.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SnSe monolayer",
+          "value": 3,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "single-crystalline SnSe",
+          "value": 1.9,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "single crystal SnSe",
+          "value": 1.8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "single-crystalline SnSe",
+          "value": 1.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SnSe",
+          "value": 1.25,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "textured polycrystalline SnSe ingots",
+          "value": 1.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SnSe",
+          "value": 0.7000000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SnSe",
+          "value": 1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SnSe powder",
+          "value": 98,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SnSe",
+          "value": 0.1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SnSe",
+          "value": 0.61,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SnSe",
+          "value": 0.45,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SnSe-30",
+          "value": 1.55,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "single layer SnSe",
+          "value": 0.46,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SnSe single crystal",
+          "value": 0.7000000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "single-crystal SnSe",
+          "value": 0.46,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "H2 treated polycrystalline SnSe",
+          "value": 0.11,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "SnSe",
+          "value": 0.6000000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "doped SnSe",
+          "value": 0.29,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "polycrystalline SnSe",
+          "value": 0.29,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "1.5 % Ag-doped nanolaminar SnSe polycrystals",
+          "value": 0.23,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "3 % I doped SnSe",
+          "value": 0.30000000000000004,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "SnSe : Bi 8 %",
+          "value": 0.81,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "SnSe : Bi 8 %",
+          "value": 0.81,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "SnSe : Bi 8 %",
+          "value": 0.6000000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "polycrystalline hole-doped SnSe alloyed with 5 % lead selenide",
+          "value": 0.11,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "polycrystalline SnSe-based materials",
+          "value": 0.21,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "p-type SnSe",
+          "value": 0.23,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "potassium-doped SnSe polycrystals",
+          "value": 0.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "pristine polycrystalline SnSe",
+          "value": 0.11,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "n-type polycrystalline SnSe",
+          "value": 0.26,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "SnSe",
+          "value": 0.45,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "SnSe-0",
+          "value": 2.04,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "SnSe-30 pellet",
+          "value": 1.08,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "pristine SnSe",
+          "value": 0.88,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Cu doped SnSe",
+          "value": 0.27,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "SnSe / rGO",
+          "value": 0.36,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "SnSe / rGO",
+          "value": 0.36,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "polycrystalline SnSe",
+          "value": 0.25,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "SnSe single crystals",
+          "value": 0.35000000000000003,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "polycrystalline SnSe",
+          "value": 0.30000000000000004,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "SnSe nanotubes",
+          "value": 0.18,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "polycrystalline SnSe",
+          "value": 0.55,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "SnSe nanotube",
+          "value": 0.18,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "SnSe",
+          "value": 0.26,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "SnSe",
+          "value": 0.24,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "SnSe crystals",
+          "value": 0.42,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "Sn0.98Se-based",
+          "value": 0.42,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "SnSe single crystal",
+          "value": 0.35000000000000003,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "Tin selenide ( SnSe ) single crystals",
+          "value": 0.35000000000000003,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "950.0 K"
+        },
+        {
+          "material": "SnSe",
+          "value": 0.23,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "single crystal SnSe",
+          "value": 0.23,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "SnSe",
+          "value": 0.23,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "single-crystal SnSe",
+          "value": 0.23,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "SnSe crystals",
+          "value": 0.23,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "single crystal SnSe",
+          "value": 0.23,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "SnSe",
+          "value": 0.23,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "SnSe",
+          "value": 0.23,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "SnSe",
+          "value": 0.23,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "SnSe nanoprecipitates",
+          "value": 0.19,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "polycrystalline SnSe",
+          "value": 0.26,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "single crystal SnSe",
+          "value": 1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "SnSe",
+          "value": 0.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "SnSe",
+          "value": 0.30000000000000004,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "SnSe",
+          "value": 0.01,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "SnSe",
+          "value": 0.1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "395.0 K"
+        },
+        {
+          "material": "3.2 wt % MoS2 / graphene / SnSe composites",
+          "value": 0.39,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "810.0 K"
+        },
+        {
+          "material": "SnSe + 3.2 wt % MoS2",
+          "value": 0.30000000000000004,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "810.0 K"
+        },
+        {
+          "material": "single-crystal SnSe",
+          "value": 0.30000000000000004,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "810.0 K"
+        },
+        {
+          "material": "SnSe + 3.2 wt % MoS2",
+          "value": 0.30000000000000004,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "810.0 K"
+        },
+        {
+          "material": "SnSe",
+          "value": 0.35000000000000003,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "single-crystal SnSe",
+          "value": 0.25,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe",
+          "value": 0.23,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "single-crystalline SnSe",
+          "value": 0.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe single crystals",
+          "value": 0.23,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe",
+          "value": 0.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe single crystal",
+          "value": 0.23,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe single crystals",
+          "value": 0.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe",
+          "value": 0.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe",
+          "value": 0.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe single crystals",
+          "value": 0.23,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe single crystals",
+          "value": 0.23,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "n-type SnSe",
+          "value": 0.23,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "0.5 wt % graphene added SnSe",
+          "value": 0.44,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "294.0 K"
+        },
+        {
+          "material": "SnSe",
+          "value": 0.62,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "775.0 K"
+        },
+        {
+          "material": "SnSe nanosheets",
+          "value": 0.09,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "550.0 K"
+        },
+        {
+          "material": "pure SnSe",
+          "value": 0.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1033.0 K"
+        },
+        {
+          "material": "bulk SnSe crystals",
+          "value": 0.25,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "935.0 K"
+        },
+        {
+          "material": "SnSe",
+          "value": 0.25,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "SnSe0.95–2 % PbBr2",
+          "value": 0.6000000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "793.0 K"
+        },
+        {
+          "material": "SnSe",
+          "value": 0.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "SnSe",
+          "value": 0.26,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "770.0 K"
+        },
+        {
+          "material": "single crystal SnSe",
+          "value": 0.30000000000000004,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "875.0 K"
+        },
+        {
+          "material": "single crystal SnSe",
+          "value": 0.35000000000000003,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "875.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "SnSe",
+          "value": 0.00101,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Na-doped SnSe single crystal",
+          "value": 0.004,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "doped p-type SnSe single crystals",
+          "value": 0.003,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "textured polycrystalline SnSe ingot",
+          "value": 0.0008300000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "1 % PbSe / SnSe composites",
+          "value": 0.0008900000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "polycrystalline SnSe",
+          "value": 0.000982,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "textured polycrystalline SnSe ingots",
+          "value": 0.0002,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "p-type SnSe",
+          "value": 0.004,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SnSe",
+          "value": 0.004,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SnSe thin films",
+          "value": 0.000016,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SnSe thin film",
+          "value": 0.000013,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "hole-doped SnSe",
+          "value": 0.004,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Na doped SnSe single crystal",
+          "value": 0.004,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SnSe",
+          "value": 0.0018000000000000002,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "3 % Br doped SnSe",
+          "value": 0.0005,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "doped polycrystalline SnSe",
+          "value": 0.00039000000000000005,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "SnSe",
+          "value": 0.0009000000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "SnSe",
+          "value": 0.00038,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "1.5 % Ag-doped nanolaminar SnSe polycrystals",
+          "value": 0.0006000000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "3 % I doped SnSe",
+          "value": 0.00039000000000000005,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "hole-doped SnSe",
+          "value": 0.0014,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "undoped SnSe",
+          "value": 0.00064,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "polycrystalline SnSe",
+          "value": 0.0004,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "undoped SnSe single crystals",
+          "value": 0.0006000000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "3 % Br-doped SnSe",
+          "value": 0.000138,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "SnSe",
+          "value": 0.000193,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "SnSe",
+          "value": 0.0001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "SnSe",
+          "value": 0.0005300000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "SnSe single crystal",
+          "value": 0.00101,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "monolayer SnSe",
+          "value": 0.025,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "undoped SnSe",
+          "value": 0.000183,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "810.0 K"
+        },
+        {
+          "material": "SnSe films",
+          "value": 0.00032199999999999997,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "550.0 K"
+        },
+        {
+          "material": "SnSe films",
+          "value": 0.00032199999999999997,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "550.0 K"
+        },
+        {
+          "material": "SnSe films",
+          "value": 0.00032199999999999997,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "550.0 K"
+        },
+        {
+          "material": "textured SnSe thin film",
+          "value": 0.00042699999999999997,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "550.0 K"
+        },
+        {
+          "material": "p-type SnSe thin films",
+          "value": 0.00042699999999999997,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "550.0 K"
+        },
+        {
+          "material": "SnSe single crystals",
+          "value": 0.0006000000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "α-SnSe",
+          "value": 0.0008,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "hole-doped SnSe",
+          "value": 0.0009000000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "SnSe0.95–3 % PbBr2",
+          "value": 0.00048000000000000007,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "793.0 K"
+        },
+        {
+          "material": "SnSe0.95–3 % PbBr2",
+          "value": 0.00048000000000000007,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "793.0 K"
+        },
+        {
+          "material": "SnSe0.95-3 % PbBr2",
+          "value": 0.48,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "793.0 K"
+        },
+        {
+          "material": "p-type polycrystalline SnSe",
+          "value": 0.000753,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "793.0 K"
+        },
+        {
+          "material": "p-type SnSe",
+          "value": 0.0017400000000000002,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "770.0 K"
+        },
+        {
+          "material": "bulk polycrystalline SnSe",
+          "value": 0.00016,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "675.0 K"
+        },
+        {
+          "material": "SnSe thin film",
+          "value": 0.00072,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "42.0 K"
+        },
+        {
+          "material": "SnSe thin film",
+          "value": 0.00013000000000000002,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "500.0 K"
+        },
+        {
+          "material": "SnSe single crystals",
+          "value": 0.00101,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "SnSe films",
+          "value": 0.00039799999999999997,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "SnSe thin films",
+          "value": 0.00039799999999999997,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "SnSe films",
+          "value": 0.00039799999999999997,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "SnSe",
+          "value": 0.00007000000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "SnSe",
+          "value": 0.00007000000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "Te-doped SnSe nanomaterials",
+          "value": 0.00007000000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "SnSe",
+          "value": 0.001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "pure SnSe",
+          "value": 4.3e-8,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "310.0 K"
+        },
+        {
+          "material": "SnSe-30",
+          "value": 0.0006100000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "623.0 K"
+        },
+        {
+          "material": "pristine SnSe",
+          "value": 0.0007700000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "650.0 K"
+        },
+        {
+          "material": "SnSe single crystal",
+          "value": 0.0002,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "450.0 K"
+        },
+        {
+          "material": "SnSe",
+          "value": 0.0005700000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "915.0 K"
+        },
+        {
+          "material": "pristine SnSe",
+          "value": 0.00029,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "523.0 K"
+        },
+        {
+          "material": "camphorsulfonic acid (CSA)-doped-PANi-coated SnSe0.8S0.2 nanosheet",
+          "value": 0.000118,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "400.0 K"
+        },
+        {
+          "material": "undoped SnSe",
+          "value": 0.00029,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "798.0 K"
+        },
+        {
+          "material": "SnSe film",
+          "value": 0.00185,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "478.0 K"
+        },
+        {
+          "material": "2.6 at. % Mo-doped SnSe thin film",
+          "value": 0.000044,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "576.0 K"
+        },
+        {
+          "material": "SnSe thin film",
+          "value": 1e-7,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "4.0 K"
+        },
+        {
+          "material": "SnSe thin film",
+          "value": 0.000012,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "320.0 K"
+        },
+        {
+          "material": "SnSe films",
+          "value": 0.000011,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "505.0 K"
+        },
+        {
+          "material": "SnSe",
+          "value": 0.000224,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "290.0 K"
+        },
+        {
+          "material": "polycrystalline un-doped SnSe",
+          "value": 0.0002,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "780.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "SnSe",
+          "zt_value": 2.6,
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.6,
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnSe single crystals",
+          "zt_value": 2.66,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Na-doped SnSe single crystals",
+          "zt_value": 0.7000000000000001,
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnSe / S compound",
+          "zt_value": 0.15,
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.6,
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 1.5,
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.6,
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnSe crystal",
+          "zt_value": 0.12,
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 0.34,
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.6,
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnSe crystals",
+          "zt_value": 2.6,
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnSe nanosheets composite films",
+          "zt_value": 0.32,
+          "temperature": "295 K"
+        },
+        {
+          "material": "single-crystal SnSe",
+          "zt_value": 2.6,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Na-doped SnSe single crystal",
+          "zt_value": 0.7000000000000001,
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnSe single crystals",
+          "zt_value": 2.6,
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnSe single crystals",
+          "zt_value": 2.6,
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 0.12,
+          "temperature": "295 K"
+        },
+        {
+          "material": "crystal SnSe",
+          "zt_value": 0.72,
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 0.7000000000000001,
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnSe bilayer",
+          "zt_value": 0.9,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Na-doped polycrystalline SnSe",
+          "zt_value": 0.87,
+          "temperature": "295 K"
+        },
+        {
+          "material": "co-doped SnSe",
+          "zt_value": 1.7000000000000002,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 0.92,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "3 % Ge-doped SnSe nanoplates",
+          "zt_value": 2.1,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "textured polycrystalline SnSe",
+          "zt_value": 0.92,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "polycrystalline Sn0.95Se",
+          "zt_value": 2.1,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 0.92,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Sn0.95Se",
+          "zt_value": 2.1,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 0.9,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "p-type SnSe doped with Zn",
+          "zt_value": 0.96,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "pure SnSe",
+          "zt_value": 0.68,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "SnSe single crystals",
+          "zt_value": 0.92,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "p-type polycrystalline SnSe",
+          "zt_value": 1.05,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 0.92,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "pure SnSe",
+          "zt_value": 0.68,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "pure SnSe",
+          "zt_value": 0.68,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "pure SnSe",
+          "zt_value": 0.63,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "SnSe poly-crystals",
+          "zt_value": 1.7000000000000002,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "undoped polycrystalline SnSe",
+          "zt_value": 1.1,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "nanocrystalline SnSe",
+          "zt_value": 2.2,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Ge-doped SnSe",
+          "zt_value": 2.1,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Pb-doped polycrystalline SnSe",
+          "zt_value": 1.7000000000000002,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Sn0.95Se",
+          "zt_value": 2.1,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 1.7000000000000002,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "textured polycrystalline SnSe ingot",
+          "zt_value": 1.1,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "hole-doped SnSe crystals",
+          "zt_value": 1.34,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SnSe thin films",
+          "zt_value": 0.35000000000000003,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SnSe thin film",
+          "zt_value": 0.35000000000000003,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "p-type SnSe",
+          "zt_value": 2.6,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SnSe single crystal",
+          "zt_value": 0.7000000000000001,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Na doped SnSe single crystal",
+          "zt_value": 0.7000000000000001,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 0.1,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SnSe based",
+          "zt_value": 1.53,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "pure SnSe",
+          "zt_value": 2,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "hole-doped single-crystal SnSe",
+          "zt_value": 0.7000000000000001,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "single crystalline SnSe",
+          "zt_value": 0.9,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 0.42,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "hole-doped SnSe",
+          "zt_value": 1.34,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Na-doped single crystalline SnSe",
+          "zt_value": 0.7000000000000001,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Na-doped p-type SnSe",
+          "zt_value": 0.7000000000000001,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SnSe crystals",
+          "zt_value": 0.8,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "3 at % Na-doped SnSe",
+          "zt_value": 1.17,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "p-type polycrystalline SnSe",
+          "zt_value": 0.39,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "p-type polycrystalline SnSe",
+          "zt_value": 0.5,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "doped SnSe",
+          "zt_value": 1.1,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Na-doped SnSe",
+          "zt_value": 2.7,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "pristine polycrystalline SnSe",
+          "zt_value": 0.15,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "n-type SnSe0.8",
+          "zt_value": 0.05,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "SnSe bulk",
+          "zt_value": 0.67,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "undoped SnSe",
+          "zt_value": 0.65,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "n-type Br-doped polycrystalline SnSe",
+          "zt_value": 1.2,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "SnSe0.98",
+          "zt_value": 0.07,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "SnSe0.98",
+          "zt_value": 0.07,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "polycrystalline SnSe",
+          "zt_value": 0.81,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "SnSe0.95-1 % MoCl5",
+          "zt_value": 0.66,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "n-type SnSe crystals",
+          "zt_value": 2.8,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 1,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "SnSe / rGO",
+          "zt_value": 0.30000000000000004,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "SnSe single crystals",
+          "zt_value": 2,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "un-doped polycrystalline SnSe",
+          "zt_value": 0.6000000000000001,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "SnSe-30",
+          "zt_value": 0.78,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "SnSe-30",
+          "zt_value": 0.59,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "SnSe-30 pellet",
+          "zt_value": 1.08,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "SnSe-0",
+          "zt_value": 0.11,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "SnSe-30",
+          "zt_value": 0.78,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Cu doped SnSe",
+          "zt_value": 0.7000000000000001,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Cu doped SnSe alloys",
+          "zt_value": 0.7000000000000001,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Al doped SnSe",
+          "zt_value": 0.6000000000000001,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Cu doped SnSe",
+          "zt_value": 0.7000000000000001,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "un-doped SnSe",
+          "zt_value": 0.37,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Cu-doped SnSe",
+          "zt_value": 0.7000000000000001,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "doped SnSe",
+          "zt_value": 0.2,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "n-type polycrystalline SnSe",
+          "zt_value": 1.2,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "n-type polycrystalline SnSe",
+          "zt_value": 0.8,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "SnSe doped with 3 % Br",
+          "zt_value": 1.1,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "SnSe alloyed with 10 % Pb",
+          "zt_value": 1.2,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "n-type polycrystalline SnSe",
+          "zt_value": 1.2,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "n-type doped SnSe",
+          "zt_value": 2.7,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "polycrystalline SnSe",
+          "zt_value": 0.8,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Cu doped SnSe",
+          "zt_value": 0.7000000000000001,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "n-type SnSe single crystals",
+          "zt_value": 2.8,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "polycrystalline SnSe",
+          "zt_value": 1,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "bromine (Br)-doped SnSe",
+          "zt_value": 2.8,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 0.74,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "polycrystalline SnSe with PbSe and Na",
+          "zt_value": 1.2,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "n-type SnSe",
+          "zt_value": 0.30000000000000004,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "n-type SnSe",
+          "zt_value": 0.30000000000000004,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "n-type SnSe polycrystals",
+          "zt_value": 0.30000000000000004,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "oxygen-isolated SnSe with 3 % Br",
+          "zt_value": 1,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "3 % Br-doped SnSe polycrystals",
+          "zt_value": 1,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "polycrystalline SnSe",
+          "zt_value": 1.1,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "layered SnSe compound",
+          "zt_value": 2,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 0.6000000000000001,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "doped SnSe",
+          "zt_value": 1.1,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "polycrystalline SnSe",
+          "zt_value": 0.79,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Na-doped SnSe",
+          "zt_value": 0.8,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Na-doped SnSe",
+          "zt_value": 0.32,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "single crystalline SnSe",
+          "zt_value": 0.43,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "pure SnSe",
+          "zt_value": 0.45,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 0.5,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "pure SnSe",
+          "zt_value": 0.34,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 0.42,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "SnSe powder",
+          "zt_value": 0.5,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "SnSe0.95 + 2 % PbBr2",
+          "zt_value": 2.1,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "undoped SnSe",
+          "zt_value": 0.12,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "SnSe single crystals",
+          "zt_value": 2.6,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "polycrystalline SnSe",
+          "zt_value": 0.6000000000000001,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "nanostructured SnSe",
+          "zt_value": 1.13,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "polycrystalline SnSe with 5 % PbSe",
+          "zt_value": 1,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "doped polycrystalline SnSe",
+          "zt_value": 1.1,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Na-doped SnSe",
+          "zt_value": 1.34,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "doped polycrystalline SnSe compounds",
+          "zt_value": 1.1,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "n-type SnSe single crystals",
+          "zt_value": 2.8,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "p-type Na doped polycrystalline SnSe",
+          "zt_value": 2.7,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Na-doped SnSe single crystal",
+          "zt_value": 0.5,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 0.81,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 0.81,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "n-type SnSe crystals doped with Br",
+          "zt_value": 2.8,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "n-type SnSe crystals",
+          "zt_value": 2.2,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "SnSe single crystals",
+          "zt_value": 1.2,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "polycrystalline hole-doped SnSe alloyed with 5 % PbSe",
+          "zt_value": 2.5,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "iodine-doped n-type SnSe",
+          "zt_value": 0.8,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "n-type SnSe crystals",
+          "zt_value": 2.8,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "doped SnSe",
+          "zt_value": 0.5,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "SnSe nanowires",
+          "zt_value": 0.6000000000000001,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "SnSe single crystal",
+          "zt_value": 2.8,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "hole-doped SnSe via 1.5 % Na",
+          "zt_value": 2,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "3 % I doped SnSe",
+          "zt_value": 1,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "SnSe matrix",
+          "zt_value": 2,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "undoped polycrystalline SnSe",
+          "zt_value": 0.5,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 0.31,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "silver doped polycrystalline SnSe",
+          "zt_value": 0.6000000000000001,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 0.6000000000000001,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "Cu doped SnSe",
+          "zt_value": 0.64,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "polycrystalline SnSe",
+          "zt_value": 0.6000000000000001,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "p-type polycrystalline SnSe",
+          "zt_value": 0.6000000000000001,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "polycrystalline SnSe",
+          "zt_value": 0.6000000000000001,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "p-type polycrystalline SnSe",
+          "zt_value": 0.6000000000000001,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "p-type polycrystalline SnSe",
+          "zt_value": 0.6000000000000001,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.6,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "Single crystal SnSe",
+          "zt_value": 2.6,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "single crystal SnSe",
+          "zt_value": 0.12,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "p-type polycrystalline SnSe doped with Ag",
+          "zt_value": 0.6000000000000001,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "SnSe thin film",
+          "zt_value": 0.58,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "Ag-doped p-type SnSe",
+          "zt_value": 0.6000000000000001,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "p-type SnSe",
+          "zt_value": 0.7000000000000001,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 0.6000000000000001,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "doped p-type SnSe",
+          "zt_value": 0.6000000000000001,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "p-type Ag-doped polycrystalline SnSe",
+          "zt_value": 0.6000000000000001,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "undoped SnSe",
+          "zt_value": 0.30000000000000004,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 0.30000000000000004,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 1,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "p-type SnSe",
+          "zt_value": 2.2,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "p-type SnSe",
+          "zt_value": 1,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "n-type SnSe",
+          "zt_value": 2.6,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "undoped polycrystalline SnSe",
+          "zt_value": 0.5,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 0.7000000000000001,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "polycrystalline SnSe",
+          "zt_value": 0.7000000000000001,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "polycrystalline p-type SnSe",
+          "zt_value": 0.62,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "polycrystalline p-type SnSe",
+          "zt_value": 0.5,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "p-type polycrystalline SnSe",
+          "zt_value": 1.3599999999999999,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "Cu-doped SnSe",
+          "zt_value": 1,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "SnSe / rGO",
+          "zt_value": 0.91,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "SnSe / carbon black composites",
+          "zt_value": 0.77,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 0.62,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "undoped polycrystalline SnSe",
+          "zt_value": 0.5,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "Sn0.98Se",
+          "zt_value": 1.3599999999999999,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "Sn0.98Se-based",
+          "zt_value": 1.3599999999999999,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "pristine SnSe",
+          "zt_value": 1.06,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "pure SnSe",
+          "zt_value": 1.06,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 1.06,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "pure polycrystalline SnSe",
+          "zt_value": 0.5,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "undoped SnSe compound",
+          "zt_value": 0.6000000000000001,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "undoped SnSe",
+          "zt_value": 0.6000000000000001,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "undoped SnSe compounds",
+          "zt_value": 0.6000000000000001,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "un-doped p-type polycrystalline SnSe",
+          "zt_value": 0.5,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "polycrystalline SnSe",
+          "zt_value": 0.5,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "p-type polycrystalline SnSe",
+          "zt_value": 1.7000000000000002,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 1.7000000000000002,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "polycrystalline SnSe",
+          "zt_value": 0.7000000000000001,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "Polycrystalline SnSe",
+          "zt_value": 0.5,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.6,
+          "temperature": "950.0 K"
+        },
+        {
+          "material": "SnSe crystal",
+          "zt_value": 2.6,
+          "temperature": "950.0 K"
+        },
+        {
+          "material": "Tin selenide ( SnSe ) single crystals",
+          "zt_value": 2.6,
+          "temperature": "950.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.6,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "bulk SnSe",
+          "zt_value": 2.6,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Polycrystalline SnSe",
+          "zt_value": 1.2,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 0.23,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.62,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "SnSe single crystal",
+          "zt_value": 2.6,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "SnSe single crystal",
+          "zt_value": 2.6,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "single crystal SnSe",
+          "zt_value": 2.6,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.6,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "single-crystal SnSe",
+          "zt_value": 2.6,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.6,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "undoped polycrystalline SnSe",
+          "zt_value": 1.3,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "polycrystalline SnSe material",
+          "zt_value": 1.3,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "undoped polycrystalline SnSe",
+          "zt_value": 1.3,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 1.5,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "SnSe crystal",
+          "zt_value": 1.7000000000000002,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "undoped p-type SnSe crystals",
+          "zt_value": 1.3,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 0.8,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "pristine SnSe",
+          "zt_value": 0.8,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "undoped polycrystalline SnSe",
+          "zt_value": 0.5,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "3 % Ag-doped SnSe",
+          "zt_value": 0.8,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.63,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.63,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "hole doped SnSe crystals",
+          "zt_value": 2,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 0.1,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.63,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.5,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.5700000000000003,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "pure SnSe",
+          "zt_value": 1.15,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.5,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "SnSe monolayer",
+          "zt_value": 2.76,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.76,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "p-type SnSe",
+          "zt_value": 2.5,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "SnSe + 3.2 wt % MoS2",
+          "zt_value": 0.98,
+          "temperature": "810.0 K"
+        },
+        {
+          "material": "SnSe + 3.2 wt % MoS2",
+          "zt_value": 0.98,
+          "temperature": "810.0 K"
+        },
+        {
+          "material": "SnSe + 3.2 wt % MoS2",
+          "zt_value": 0.98,
+          "temperature": "810.0 K"
+        },
+        {
+          "material": "SnSe composite with 3.2 % MoS2",
+          "zt_value": 0.98,
+          "temperature": "810.0 K"
+        },
+        {
+          "material": "SnSe + 3.2 wt % MoS2",
+          "zt_value": 0.98,
+          "temperature": "810.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 1.83,
+          "temperature": "810.0 K"
+        },
+        {
+          "material": "3.2 wt % MoS2 / graphene / SnSe composites",
+          "zt_value": 0.98,
+          "temperature": "810.0 K"
+        },
+        {
+          "material": "SnSe crystal",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "p-type SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe single crystals",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "single-crystal SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "single crystal SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe single crystals",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "undoped single crystal SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "single crystalline SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "single-crystal SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe single crystals",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe single crystal",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "p-type SnSe",
+          "zt_value": 0.23,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "single crystalline SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "bulk SnSe crystal",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe single crystal",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "monocrystalline SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "p-type SnSe crystals",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe crystals",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "Tin selenide ( SnSe )",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe compound",
+          "zt_value": 2.62,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "single-crystal SnSe compound",
+          "zt_value": 2.62,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "single-crystal SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "single-crystalline SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "p-type SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe single crystal",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "single crystalline SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe single crystals",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "single crystal SnSe",
+          "zt_value": 1.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "single crystalline SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe single crystals",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe crystals",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.3,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "single-crystalline SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "undoped monocrystalline SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe single crystals",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "Single crystalline SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "single crystal SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "bulk SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "p-type SnSe single crystal",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "p-type SnSe single crystal",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "p-type SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe crystals",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "single crystalline SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe single crystals",
+          "zt_value": 0.23,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe single crystals",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "single crystalline SnSe compound",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "n-type SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "single crystalline SnSe",
+          "zt_value": 2.62,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.62,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe single crystals",
+          "zt_value": 1,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "Tin selenide ( SnSe )",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe crystal",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "crystalline SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe single crystal",
+          "zt_value": 2.62,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "p-type single crystal SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe single crystals",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe single crystals",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe single crystals",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.62,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "Single-crystal SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe single crystal",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "p-type SnSe single crystals",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe single crystals",
+          "zt_value": 2.9,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "single crystalline SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe single crystals",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe compounds",
+          "zt_value": 2.62,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe single crystals",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "p-type SnSe single crystals",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "single-crystal SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "p-type vacancy doped SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "single crystal SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe single crystals",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe crystal",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe single crystals",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.5,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "n-type single-crystal SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe single crystals",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "hole-doped SnSe single crystal",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "single crystalline SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "p-type SnSe single crystals",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "single-crystalline SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe crystal",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "p-type single-crystalline SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "pristine p-type SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 0.23,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "orthorhombic SnSe single crystal",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe single crystal",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe single crystals",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.62,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "p-type SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe crystals",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "p-type SnSe single crystals",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.62,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 0.25,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe crystals",
+          "zt_value": 2.62,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe single crystals",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "p-type single crystal SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "single crystalline SnSe",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnSe single crystals",
+          "zt_value": 2.6,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "pristine SnSe",
+          "zt_value": 0.15,
+          "temperature": "775.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 0.54,
+          "temperature": "550.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 0.54,
+          "temperature": "550.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 0.54,
+          "temperature": "550.0 K"
+        },
+        {
+          "material": "SnSe films",
+          "zt_value": 0.15,
+          "temperature": "550.0 K"
+        },
+        {
+          "material": "SnSe films",
+          "zt_value": 0.15,
+          "temperature": "550.0 K"
+        },
+        {
+          "material": "SnSe film",
+          "zt_value": 0.042,
+          "temperature": "550.0 K"
+        },
+        {
+          "material": "SnSe films",
+          "zt_value": 0.15,
+          "temperature": "550.0 K"
+        },
+        {
+          "material": "bulk SnSe crystals",
+          "zt_value": 2.6,
+          "temperature": "935.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.6,
+          "temperature": "935.0 K"
+        },
+        {
+          "material": "Na-doped SnSe",
+          "zt_value": 0.8,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "SnSe thin films",
+          "zt_value": 0.22,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.62,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "n-type SnSe bilayer",
+          "zt_value": 0.72,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "SnSe crystal",
+          "zt_value": 1,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "SnSe single crystal",
+          "zt_value": 1,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "SnSe single crystal",
+          "zt_value": 1,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "K doped SnSe",
+          "zt_value": 0.8,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "pure SnSe",
+          "zt_value": 0.96,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "Na doped SnSe single crystal",
+          "zt_value": 2,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "pristine polycrystalline SnSe",
+          "zt_value": 0.56,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "pristine SnSe",
+          "zt_value": 0.56,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "SnSe crystal",
+          "zt_value": 1.05,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "SnSe crystal",
+          "zt_value": 1.05,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "single crystal SnSe",
+          "zt_value": 1.17,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "polycrystalline SnSe",
+          "zt_value": 0.9,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 0.8,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "Tin selenide ( SnSe )",
+          "zt_value": 2.5,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "single crystal SnSe",
+          "zt_value": 0.86,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 1.8,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "SnSe single crystal",
+          "zt_value": 1.8,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "single-crystal SnSe",
+          "zt_value": 0.92,
+          "temperature": "793.0 K"
+        },
+        {
+          "material": "polycrystalline SnSe",
+          "zt_value": 0.5,
+          "temperature": "793.0 K"
+        },
+        {
+          "material": "SnSe0.95–3 % PbBr2",
+          "zt_value": 0.54,
+          "temperature": "793.0 K"
+        },
+        {
+          "material": "polycrystalline SnSe",
+          "zt_value": 1.2,
+          "temperature": "793.0 K"
+        },
+        {
+          "material": "SnSe0.95–0.4 % BiCl3",
+          "zt_value": 0.7000000000000001,
+          "temperature": "793.0 K"
+        },
+        {
+          "material": "SnSe0.95-3 % PbBr2",
+          "zt_value": 0.54,
+          "temperature": "793.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.6,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.6,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "SnSe single crystals",
+          "zt_value": 2.6,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "p-type SnSe",
+          "zt_value": 2.2,
+          "temperature": "770.0 K"
+        },
+        {
+          "material": "n-type SnSe single crystals",
+          "zt_value": 2.1,
+          "temperature": "770.0 K"
+        },
+        {
+          "material": "polycrystalline SnSe bulk material",
+          "zt_value": 0.2,
+          "temperature": "675.0 K"
+        },
+        {
+          "material": "SnSe thin films",
+          "zt_value": 0.28,
+          "temperature": "675.0 K"
+        },
+        {
+          "material": "p-type single crystal SnSe",
+          "zt_value": 1,
+          "temperature": "675.0 K"
+        },
+        {
+          "material": "SnSe film",
+          "zt_value": 0.055,
+          "temperature": "501.0 K"
+        },
+        {
+          "material": "SnSe nanosheets",
+          "zt_value": 0.055,
+          "temperature": "501.0 K"
+        },
+        {
+          "material": "6 % Bi-doped SnSe nanosheets",
+          "zt_value": 0.21,
+          "temperature": "719.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 1.4,
+          "temperature": "790.0 K"
+        },
+        {
+          "material": "SnSe nanomaterial",
+          "zt_value": 1.4,
+          "temperature": "790.0 K"
+        },
+        {
+          "material": "single crystalline SnSe",
+          "zt_value": 0.43,
+          "temperature": "298.0 K"
+        },
+        {
+          "material": "bulk SnSe material",
+          "zt_value": 0.8300000000000001,
+          "temperature": "803.0 K"
+        },
+        {
+          "material": "SnSe nanobelt bulk material",
+          "zt_value": 0.8300000000000001,
+          "temperature": "803.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 0.5,
+          "temperature": "803.0 K"
+        },
+        {
+          "material": "SnSe thin films",
+          "zt_value": 0.03,
+          "temperature": "42.0 K"
+        },
+        {
+          "material": "SnSe thin film",
+          "zt_value": 1.2,
+          "temperature": "42.0 K"
+        },
+        {
+          "material": "Bi doped n-type SnSe",
+          "zt_value": 2.2,
+          "temperature": "733.0 K"
+        },
+        {
+          "material": "single crystal SnSe",
+          "zt_value": 2.2,
+          "temperature": "733.0 K"
+        },
+        {
+          "material": "(Bi)-doped n-type SnSe",
+          "zt_value": 2.2,
+          "temperature": "733.0 K"
+        },
+        {
+          "material": "n-type SnSe single crystals",
+          "zt_value": 2.2,
+          "temperature": "733.0 K"
+        },
+        {
+          "material": "Bi-doped n-type SnSe single crystals",
+          "zt_value": 2.2,
+          "temperature": "733.0 K"
+        },
+        {
+          "material": "n-type SnSe",
+          "zt_value": 2.2,
+          "temperature": "733.0 K"
+        },
+        {
+          "material": "Bi-doped SnSe",
+          "zt_value": 2.2,
+          "temperature": "733.0 K"
+        },
+        {
+          "material": "doped n-type SnSe",
+          "zt_value": 2.2,
+          "temperature": "733.0 K"
+        },
+        {
+          "material": "n-type SnSe",
+          "zt_value": 2.2,
+          "temperature": "733.0 K"
+        },
+        {
+          "material": "n-type SnSe single crystal",
+          "zt_value": 2.2,
+          "temperature": "733.0 K"
+        },
+        {
+          "material": "Sn0.98Se compound",
+          "zt_value": 0.61,
+          "temperature": "848.0 K"
+        },
+        {
+          "material": "Sn0.98Se compound",
+          "zt_value": 0.61,
+          "temperature": "848.0 K"
+        },
+        {
+          "material": "Sn0.98Se compound",
+          "zt_value": 0.61,
+          "temperature": "848.0 K"
+        },
+        {
+          "material": "Sn0.98Se",
+          "zt_value": 0.61,
+          "temperature": "848.0 K"
+        },
+        {
+          "material": "SnSe / rGO",
+          "zt_value": 0.7000000000000001,
+          "temperature": "500.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 1.94,
+          "temperature": "500.0 K"
+        },
+        {
+          "material": "undoped SnSe",
+          "zt_value": 0.5,
+          "temperature": "820.0 K"
+        },
+        {
+          "material": "p-type polycrystalline SnSe",
+          "zt_value": 0.5,
+          "temperature": "820.0 K"
+        },
+        {
+          "material": "polycrystalline SnSe",
+          "zt_value": 0.5,
+          "temperature": "820.0 K"
+        },
+        {
+          "material": "un-doped SnSe",
+          "zt_value": 1.1400000000000001,
+          "temperature": "820.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.5,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "SnSe0.95 + 2 % PbBr2",
+          "zt_value": 2.1,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "SnSe : Bi 6 %",
+          "zt_value": 0.025,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "12 % PbSe doped SnSe single crystals",
+          "zt_value": 2.4,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 1.62,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "hole doped SnSe single crystals",
+          "zt_value": 1.5,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "polycrystalline SnSe thin film",
+          "zt_value": 0.34,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 1.7000000000000002,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "SnSe films",
+          "zt_value": 0.335,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "SnSe single crystal",
+          "zt_value": 0.16,
+          "temperature": "680.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.6,
+          "temperature": "930.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.6,
+          "temperature": "930.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 2.6,
+          "temperature": "930.0 K"
+        },
+        {
+          "material": "Te-doped SnSe nanomaterials",
+          "zt_value": 0.6000000000000001,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "doped SnSe",
+          "zt_value": 0.6000000000000001,
+          "temperature": "725.0 K"
+        },
+        {
+          "material": "single crystal SnSe",
+          "zt_value": 0.21,
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "undoped SnSe matrix",
+          "zt_value": 0.54,
+          "temperature": "813.0 K"
+        },
+        {
+          "material": "hole-doped SnSe",
+          "zt_value": 2,
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "polycrystalline SnSe-based",
+          "zt_value": 1.26,
+          "temperature": "880.0 K"
+        },
+        {
+          "material": "polycrystalline SnSe based composites with PbTe",
+          "zt_value": 1.26,
+          "temperature": "880.0 K"
+        },
+        {
+          "material": "nanocomposite 1.5 vol % PbTe / SnSe",
+          "zt_value": 1.26,
+          "temperature": "880.0 K"
+        },
+        {
+          "material": "pure SnSe",
+          "zt_value": 0.78,
+          "temperature": "910.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 1,
+          "temperature": "200.0 K"
+        },
+        {
+          "material": "polycrystalline SnSe",
+          "zt_value": 1.8,
+          "temperature": "580.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 1.8,
+          "temperature": "580.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 1.21,
+          "temperature": "903.0 K"
+        },
+        {
+          "material": "SnSe",
+          "zt_value": 0.45,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "doped p–type SnSe materials",
+          "zt_value": 0.6000000000000001,
+          "temperature": "1023.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

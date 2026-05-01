@@ -1,0 +1,29 @@
+{
+  "Material": "NaTaO3",
+  "DOIs_Researched": [
+    "10.1007/s40243-013-0021-2",
+    "10.1016/j.jnucmat.2009.01.007"
+  ],
+  "Data_By_Temperature": {
+    "650.0": [
+      {
+        "Original_Name_In_Paper": "NaTaO3",
+        "Property": "Seebeck",
+        "Value": -0.0005,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s40243-013-0021-2"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "NaTaO3",
+        "Property": "Seebeck",
+        "Value": -0.0005,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jnucmat.2009.01.007"
+      }
+    ]
+  }
+}

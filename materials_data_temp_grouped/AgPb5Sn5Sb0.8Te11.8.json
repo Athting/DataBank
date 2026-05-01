@@ -1,0 +1,18 @@
+{
+  "Material": "AgPb5Sn5Sb0.8Te11.8",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2016.03.018"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ag0.9Pb5Sn5Sb0.8Te11.8",
+        "Property": "Seebeck",
+        "Value": 7.000000000000001e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2016.03.018"
+      }
+    ]
+  }
+}

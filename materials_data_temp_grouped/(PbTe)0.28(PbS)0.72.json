@@ -1,0 +1,18 @@
+{
+  "Material": "(PbTe)0.28(PbS)0.72",
+  "DOIs_Researched": [
+    "10.1039/c7qm00306d"
+  ],
+  "Data_By_Temperature": {
+    "710.0": [
+      {
+        "Original_Name_In_Paper": "(PbTe)0.28(PbS)0.72",
+        "Property": "ThermCond",
+        "Value": 0.26,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7qm00306d"
+      }
+    ]
+  }
+}

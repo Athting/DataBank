@@ -1,0 +1,18 @@
+{
+  "Material": "Fe2TiGe",
+  "DOIs_Researched": [
+    "10.1016/j.jpcs.2018.04.008"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Fe2TiGe",
+        "Property": "Conductivity",
+        "Value": 2824.8587570621,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2018.04.008"
+      }
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "Material": "Bi2Te",
+  "DOIs_Researched": [
+    "10.1016/j.intermet.2019.106528",
+    "10.1016/j.jssc.2012.03.034",
+    "10.1016/j.nanoen.2019.03.047",
+    "10.1016/S0080-8784(01)80149-6"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "polycrystalline Bi2(Te",
+        "Property": "ThermCond",
+        "Value": 1.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2019.106528"
+      },
+      {
+        "Original_Name_In_Paper": "polycrystalline Bi2(Te",
+        "Property": "ThermCond",
+        "Value": 1.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2019.106528"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Te",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0080-8784(01)80149-6"
+      }
+    ],
+    "250.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Te",
+        "Property": "ThermCond",
+        "Value": 2.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2012.03.034"
+      }
+    ],
+    "423.0": [
+      {
+        "Original_Name_In_Paper": "n-type Bi2(Te",
+        "Property": "ZT",
+        "Value": 1.22,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2019.03.047"
+      }
+    ]
+  }
+}

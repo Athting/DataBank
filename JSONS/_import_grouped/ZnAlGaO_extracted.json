@@ -1,0 +1,119 @@
+{
+  "doi": "10.1016/j.ceramint.2016.08.139",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Zn0.96Al0.02Ga0.02O",
+        "doped Zn0.96Al0.02Ga0.02O"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Zn0.96Al0.02Ga0.02O",
+          "value": 5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1247.0 K"
+        },
+        {
+          "material": "Zn0.96Al0.02Ga0.02O",
+          "value": 5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1118.0 K"
+        },
+        {
+          "material": "Zn0.96Al0.02Ga0.02O",
+          "value": 5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1118.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Zn0.96Al0.02Ga0.02O",
+          "zt_value": 0.65,
+          "temperature": "1247.0 K"
+        },
+        {
+          "material": "doped Zn0.96Al0.02Ga0.02O",
+          "zt_value": 0.65,
+          "temperature": "1247.0 K"
+        },
+        {
+          "material": "Zn0.96Al0.02Ga0.02O",
+          "zt_value": 0.65,
+          "temperature": "1247.0 K"
+        },
+        {
+          "material": "Zn0.96Al0.02Ga0.02O",
+          "zt_value": 0.65,
+          "temperature": "1247.0 K"
+        },
+        {
+          "material": "Zn0.96Al0.02Ga0.02O",
+          "zt_value": 0.65,
+          "temperature": "1247.0 K"
+        },
+        {
+          "material": "Zn0.96Al0.02Ga0.02O",
+          "zt_value": 0.65,
+          "temperature": "1247.0 K"
+        },
+        {
+          "material": "doped Zn0.96Al0.02Ga0.02O",
+          "zt_value": 0.65,
+          "temperature": "1247.0 K"
+        },
+        {
+          "material": "Zn0.96Al0.02Ga0.02O",
+          "zt_value": 0.47000000000000003,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Zn0.96Al0.02Ga0.02O",
+          "zt_value": 0.47000000000000003,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Zn0.96Al0.02Ga0.02O",
+          "zt_value": 0.6000000000000001,
+          "temperature": "1273.0 K"
+        },
+        {
+          "material": "Zn0.96Al0.02Ga0.02O",
+          "zt_value": 0.65,
+          "temperature": "1273.0 K"
+        },
+        {
+          "material": "Zn0.96Al0.02Ga0.02O",
+          "zt_value": 0.65,
+          "temperature": "1273.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

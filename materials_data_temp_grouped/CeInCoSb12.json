@@ -1,0 +1,18 @@
+{
+  "Material": "CeInCoSb12",
+  "DOIs_Researched": [
+    "10.1007/s10853-017-0772-8"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Yb0.2Ce0.15In0.2Co4Sb12 / Yb2O3 / Sb composite",
+        "Property": "ZT",
+        "Value": 1.43,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-017-0772-8"
+      }
+    ]
+  }
+}

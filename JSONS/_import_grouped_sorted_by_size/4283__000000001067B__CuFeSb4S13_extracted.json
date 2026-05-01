@@ -1,0 +1,50 @@
+{
+  "doi": "10.1016/j.jssc.2018.10.019",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Cu11Fe1Sb4S13",
+        "Cu11Fe1Sb4S13 compound"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Cu11Fe1Sb4S13",
+          "zt_value": 0.6000000000000001,
+          "temperature": "550.0 K"
+        },
+        {
+          "material": "Cu11Fe1Sb4S13 compound",
+          "zt_value": 0.6000000000000001,
+          "temperature": "550.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

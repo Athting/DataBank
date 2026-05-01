@@ -1,0 +1,18 @@
+{
+  "Material": "CoSb1.5Sn0.1Se2.4",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2017.09.136"
+  ],
+  "Data_By_Temperature": {
+    "657.0": [
+      {
+        "Original_Name_In_Paper": "Co2.0Sb1.5Sn0.1Se2.4 compound",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.09.136"
+      }
+    ]
+  }
+}

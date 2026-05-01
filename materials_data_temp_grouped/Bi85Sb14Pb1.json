@@ -1,0 +1,26 @@
+{
+  "Material": "Bi85Sb14Pb1",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2011.08.076"
+  ],
+  "Data_By_Temperature": {
+    "210.0": [
+      {
+        "Original_Name_In_Paper": "Bi85Sb14Pb1",
+        "Property": "ZT",
+        "Value": 0.11,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2011.08.076"
+      },
+      {
+        "Original_Name_In_Paper": "Bi85Sb14Pb1",
+        "Property": "ZT",
+        "Value": 0.11,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2011.08.076"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "Material": "Pb0.23Ba0.14Co4Sb11.5",
+  "DOIs_Researched": [
+    "10.1016/j.ssc.2011.06.034"
+  ],
+  "Data_By_Temperature": {
+    "305.0": [
+      {
+        "Original_Name_In_Paper": "Pb0.23Ba0.14Co4Sb11.5Te0.5",
+        "Property": "Conductivity",
+        "Value": 106382.9787234043,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2011.06.034"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Pb0.23Ba0.14Co4Sb11.5Te0.5",
+        "Property": "PF",
+        "Value": 0.00316,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2011.06.034"
+      }
+    ]
+  }
+}

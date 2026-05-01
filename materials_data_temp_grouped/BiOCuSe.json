@@ -1,0 +1,89 @@
+{
+  "Material": "BiOCuSe",
+  "DOIs_Researched": [
+    "10.1039/c6ta04310k",
+    "10.1016/j.jmat.2016.04.002",
+    "10.1039/c3ta12753b",
+    "10.1016/j.matchemphys.2016.03.045"
+  ],
+  "Data_By_Temperature": {
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "BiOCuSe",
+        "Property": "ThermCond",
+        "Value": 0.97,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta12753b"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "BiOCuSe",
+        "Property": "ThermCond",
+        "Value": 0.54,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta12753b"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "pristine BiOCuSe",
+        "Property": "ZT",
+        "Value": 0.12,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta04310k"
+      }
+    ],
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "Ba2+ doped BiOCuSe",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": "In addition",
+        "Source_DOI": "10.1016/j.jmat.2016.04.002"
+      },
+      {
+        "Original_Name_In_Paper": "pristine BiOCuSe",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2016.03.045"
+      }
+    ],
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "BiOCuSe",
+        "Property": "ZT",
+        "Value": 0.55,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2016.03.045"
+      }
+    ],
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "BiOCuSe",
+        "Property": "ZT",
+        "Value": 0.76,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta12753b"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "BiOCuSe",
+        "Property": "Conductivity",
+        "Value": 6300.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta12753b"
+      }
+    ]
+  }
+}

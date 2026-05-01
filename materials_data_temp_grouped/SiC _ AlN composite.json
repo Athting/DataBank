@@ -1,0 +1,18 @@
+{
+  "Material": "SiC / AlN composite",
+  "DOIs_Researched": [
+    "10.1016/j.solmat.2018.03.032"
+  ],
+  "Data_By_Temperature": {
+    "473.0": [
+      {
+        "Original_Name_In_Paper": "SiC / AlN composite",
+        "Property": "ZT",
+        "Value": 0.000581,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solmat.2018.03.032"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Mn1.03Bi4S7",
+  "DOIs_Researched": [
+    "10.1016/j.cej.2020.125219"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Mn1.03Bi4S7",
+        "Property": "Conductivity",
+        "Value": 7250.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cej.2020.125219"
+      }
+    ]
+  }
+}

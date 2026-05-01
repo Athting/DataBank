@@ -1,0 +1,26 @@
+{
+  "Material": "wt % MWCNT",
+  "DOIs_Researched": [
+    "10.1016/j.materresbull.2014.04.046"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "wt % MWCNT",
+        "Property": "ZT",
+        "Value": 0.12,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2014.04.046"
+      },
+      {
+        "Original_Name_In_Paper": "wt % MWCNT",
+        "Property": "ZT",
+        "Value": 0.12,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2014.04.046"
+      }
+    ]
+  }
+}

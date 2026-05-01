@@ -1,0 +1,18 @@
+{
+  "Material": "In2O3-based compounds",
+  "DOIs_Researched": [
+    "10.1007/s11837-014-1218-2"
+  ],
+  "Data_By_Temperature": {
+    "1050.0": [
+      {
+        "Original_Name_In_Paper": "In2O3-based compounds",
+        "Property": "ThermCond",
+        "Value": 1.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11837-014-1218-2"
+      }
+    ]
+  }
+}

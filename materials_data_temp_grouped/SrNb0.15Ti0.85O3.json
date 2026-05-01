@@ -1,0 +1,26 @@
+{
+  "Material": "SrNb0.15Ti0.85O3",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2020.105195"
+  ],
+  "Data_By_Temperature": {
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "SrNb0.15Ti0.85O3 composites",
+        "Property": "ZT",
+        "Value": 0.165,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.105195"
+      },
+      {
+        "Original_Name_In_Paper": "SrNb0.15Ti0.85O3 composites",
+        "Property": "Conductivity",
+        "Value": 20000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.105195"
+      }
+    ]
+  }
+}

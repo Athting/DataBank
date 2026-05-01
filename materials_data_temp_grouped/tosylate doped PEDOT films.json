@@ -1,0 +1,18 @@
+{
+  "Material": "tosylate doped PEDOT films",
+  "DOIs_Researched": [
+    "10.1016/j.carbon.2019.03.088"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "tosylate doped PEDOT films",
+        "Property": "ZT",
+        "Value": 0.25,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.carbon.2019.03.088"
+      }
+    ]
+  }
+}

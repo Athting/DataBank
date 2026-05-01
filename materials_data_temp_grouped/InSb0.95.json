@@ -1,0 +1,18 @@
+{
+  "Material": "InSb0.95",
+  "DOIs_Researched": [
+    "10.1016/j.matlet.2017.08.009"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "InSb0.95",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2017.08.009"
+      }
+    ]
+  }
+}

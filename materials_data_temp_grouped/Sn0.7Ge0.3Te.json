@@ -1,0 +1,76 @@
+{
+  "Material": "Sn0.7Ge0.3Te",
+  "DOIs_Researched": [
+    "10.1039/c8ee03162b"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.7Ge0.3Te",
+        "Property": "ThermCond",
+        "Value": 0.67,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee03162b"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.7Ge0.3Te",
+        "Property": "ThermCond",
+        "Value": 4.84,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee03162b"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Sn0.7Ge0.3Te",
+        "Property": "ThermCond",
+        "Value": 0.67,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee03162b"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.7Ge0.3Te",
+        "Property": "ThermCond",
+        "Value": 4.16,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee03162b"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.7Ge0.3Te",
+        "Property": "ThermCond",
+        "Value": 4.84,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee03162b"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.7Ge0.3Te",
+        "Property": "Seebeck",
+        "Value": 3.2e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee03162b"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.7Ge0.3Te",
+        "Property": "Conductivity",
+        "Value": 598900.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee03162b"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.7Ge0.3Te",
+        "Property": "Conductivity",
+        "Value": 598900.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee03162b"
+      }
+    ]
+  }
+}

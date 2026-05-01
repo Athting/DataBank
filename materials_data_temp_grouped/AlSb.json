@@ -1,0 +1,29 @@
+{
+  "Material": "AlSb",
+  "DOIs_Researched": [
+    "10.1007/s13391-020-00241-0",
+    "10.1016/j.nanoen.2015.01.037"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "AlSb",
+        "Property": "ZT",
+        "Value": 0.075,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s13391-020-00241-0"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "AlSb",
+        "Property": "Seebeck",
+        "Value": 5e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2015.01.037"
+      }
+    ]
+  }
+}

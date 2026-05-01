@@ -1,0 +1,36 @@
+{
+  "Material": "FeMoSb5.4Te1.6",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2010.05.124"
+  ],
+  "Data_By_Temperature": {
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "Fe0.05Mo3Sb5.4Te1.6",
+        "Property": "ZT",
+        "Value": 0.31,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.05.124"
+      },
+      {
+        "Original_Name_In_Paper": "Fe0.05Mo3Sb5.4Te1.6",
+        "Property": "ZT",
+        "Value": 0.31,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.05.124"
+      }
+    ],
+    "950.0": [
+      {
+        "Original_Name_In_Paper": "Fe0.05Mo3Sb5.4Te1.6",
+        "Property": "Seebeck",
+        "Value": 0.00017,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.05.124"
+      }
+    ]
+  }
+}

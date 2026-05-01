@@ -1,0 +1,131 @@
+{
+  "doi": "10.1016/j.ceramint.2015.10.079",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "CuMn0.9Mg0.2O2",
+        "CuMn0.9Mg0.2O2 bulk",
+        "CuMn0.9Ca0.2O2",
+        "CuMn1+0.1O2 bulk",
+        "CuMn1.1O2 bulk",
+        "CuMn1+0.143O2 bulk",
+        "CuMn1+0O2 bulk",
+        "CuMnO2"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "CuMn0.9Mg0.2O2",
+          "value": 0.00048499999999999997,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CuMn1+0.143O2 bulk",
+          "value": 0.000562,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "573.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "CuMn0.9Mg0.2O2",
+          "value": 24,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CuMn0.9Ca0.2O2",
+          "value": 2,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CuMn0.9Mg0.2O2",
+          "value": 24,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CuMn1+0O2 bulk",
+          "value": 11,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "CuMnO2",
+          "value": 0.002,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "CuMn0.9Mg0.2O2",
+          "value": 2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CuMn1+0.1O2 bulk",
+          "value": 6.79,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "573.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "CuMn0.9Mg0.2O2",
+          "value": 0.00000395,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CuMn0.9Mg0.2O2",
+          "value": 0.00000395,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "CuMn0.9Mg0.2O2 bulk",
+          "zt_value": 0.00059,
+          "temperature": "295 K"
+        },
+        {
+          "material": "CuMn1.1O2 bulk",
+          "zt_value": 0.00015000000000000001,
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "CuMn1+0.1O2 bulk",
+          "zt_value": 0.00015000000000000001,
+          "temperature": "573.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

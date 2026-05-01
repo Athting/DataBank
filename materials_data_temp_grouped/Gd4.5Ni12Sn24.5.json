@@ -1,0 +1,28 @@
+{
+  "Material": "Gd4.5Ni12Sn24.5",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2009.12.074"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Gd4.5Ni12Sn24.5",
+        "Property": "Conductivity",
+        "Value": 689655.1724137932,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.12.074"
+      }
+    ],
+    "80.0": [
+      {
+        "Original_Name_In_Paper": "Gd4.5Ni12Sn24.5",
+        "Property": "Seebeck",
+        "Value": -4.4e-06,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.12.074"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "MWCNT composites",
+  "DOIs_Researched": [
+    "10.1016/j.compositesb.2014.10.007"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "MWCNT composites",
+        "Property": "PF",
+        "Value": 1.8e-06,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.compositesb.2014.10.007"
+      }
+    ]
+  }
+}

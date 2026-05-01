@@ -1,0 +1,50 @@
+{
+  "Material": "CeFe3.75NiSb11.9Te0.1",
+  "DOIs_Researched": [
+    "10.1039/c6ta06325j"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Ce0.9Fe3.75Ni0.25Sb11.9Te0.1",
+        "Property": "ThermCond",
+        "Value": 0.97,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta06325j"
+      },
+      {
+        "Original_Name_In_Paper": "Ce0.9Fe3.75Ni0.25Sb11.9Te0.1",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta06325j"
+      },
+      {
+        "Original_Name_In_Paper": "Ce0.9Fe3.75Ni0.25Sb11.9Te0.1",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta06325j"
+      },
+      {
+        "Original_Name_In_Paper": "Ce0.9Fe3.75Ni0.25Sb11.9Te0.1",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta06325j"
+      },
+      {
+        "Original_Name_In_Paper": "Ce0.9Fe3.75Ni0.25Sb11.9Te0.1",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta06325j"
+      }
+    ]
+  }
+}

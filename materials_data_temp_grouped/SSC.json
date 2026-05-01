@@ -1,0 +1,68 @@
+{
+  "Material": "SSC",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2015.03.011"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "SSC",
+        "Property": "ThermCond",
+        "Value": 1.6800000000000002,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2015.03.011"
+      },
+      {
+        "Original_Name_In_Paper": "SSC",
+        "Property": "ZT",
+        "Value": 0.493,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2015.03.011"
+      },
+      {
+        "Original_Name_In_Paper": "SSC",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2015.03.011"
+      },
+      {
+        "Original_Name_In_Paper": "SSC",
+        "Property": "Seebeck",
+        "Value": 0.000513,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2015.03.011"
+      },
+      {
+        "Original_Name_In_Paper": "SSC",
+        "Property": "Seebeck",
+        "Value": 0.000508,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2015.03.011"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "SSC",
+        "Property": "ThermCond",
+        "Value": 7.12,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2015.03.011"
+      },
+      {
+        "Original_Name_In_Paper": "SSC",
+        "Property": "ZT",
+        "Value": 0.0064,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2015.03.011"
+      }
+    ]
+  }
+}

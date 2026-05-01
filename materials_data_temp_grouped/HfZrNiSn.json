@@ -1,0 +1,149 @@
+{
+  "Material": "HfZrNiSn",
+  "DOIs_Researched": [
+    "10.1038/s41598-017-15205-y",
+    "10.1007/s42341-018-0044-6",
+    "10.1007/s10853-020-04949-0",
+    "10.1557/jmr.2012.171",
+    "10.1016/j.intermet.2016.04.004",
+    "10.1016/j.actamat.2009.02.026",
+    "10.1016/j.nanoen.2015.09.003",
+    "10.1038/s41598-017-14013-8"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Hf0.75Zr0.25NiSn0.98Sb0.02",
+        "Property": "ThermCond",
+        "Value": 5.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2009.02.026"
+      },
+      {
+        "Original_Name_In_Paper": "Hf0.5Zr0.5NiSn0.98Sb0.02",
+        "Property": "ThermCond",
+        "Value": 5.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2009.02.026"
+      },
+      {
+        "Original_Name_In_Paper": "Hf0.5Zr0.5NiSn",
+        "Property": "ThermCond",
+        "Value": 2.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-017-14013-8"
+      },
+      {
+        "Original_Name_In_Paper": "Hf0.5Zr0.5NiSn",
+        "Property": "ThermCond",
+        "Value": 3.1,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": "2 % Sb doping",
+        "Source_DOI": "10.1038/s41598-017-15205-y"
+      }
+    ],
+    "1025.0": [
+      {
+        "Original_Name_In_Paper": "Hf0.75Zr0.25NiSn0.975Sb0.025 compound",
+        "Property": "ZT",
+        "Value": 0.81,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2009.02.026"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Hf0.75Zr0.25NiSn0.975Sb0.025",
+        "Property": "ZT",
+        "Value": 0.81,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s42341-018-0044-6"
+      },
+      {
+        "Original_Name_In_Paper": "Hf0.75Zr0.25NiSn0.975Sb0.025 compound",
+        "Property": "ZT",
+        "Value": 0.81,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1557/jmr.2012.171"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Hf0.75Zr0.25NiSn0.98Sb0.02",
+        "Property": "ZT",
+        "Value": 0.65,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2009.02.026"
+      },
+      {
+        "Original_Name_In_Paper": "Hf0.5Zr0.5NiSn",
+        "Property": "Conductivity",
+        "Value": 0.0014800000000000002,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": "2 % Sb doping",
+        "Source_DOI": "10.1038/s41598-017-15205-y"
+      }
+    ],
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "Hf0.5Zr0.5NiSn0.98Sb0.02",
+        "Property": "ZT",
+        "Value": 1.37,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-017-15205-y"
+      },
+      {
+        "Original_Name_In_Paper": "Hf0.5Zr0.5NiSn0.98Sb0.02",
+        "Property": "ZT",
+        "Value": 1.37,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-017-15205-y"
+      },
+      {
+        "Original_Name_In_Paper": "Hf0.5Zr0.5NiSn0.98Sb0.02",
+        "Property": "ZT",
+        "Value": 1.37,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-017-15205-y"
+      }
+    ],
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Hf0.25Zr0.75NiSn0.99Sb0.01",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      }
+    ],
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "Hf0.25Zr0.75NiSn0.985Sb0.015",
+        "Property": "ZT",
+        "Value": 0.8300000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2016.04.004"
+      }
+    ],
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "Hf0.5Zr0.5NiSn",
+        "Property": "PF",
+        "Value": 0.005200000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2015.09.003"
+      }
+    ]
+  }
+}

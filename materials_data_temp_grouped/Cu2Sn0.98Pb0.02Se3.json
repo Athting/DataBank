@@ -1,0 +1,61 @@
+{
+  "Material": "Cu2Sn0.98Pb0.02Se3",
+  "DOIs_Researched": [
+    "10.1016/j.physb.2017.06.002",
+    "10.1016/j.physb.2017.02.021"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Cu2Sn0.98Pb0.02Se3",
+        "Property": "ZT",
+        "Value": 0.64,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2017.02.021"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2Sn0.98Pb0.02Se3",
+        "Property": "ZT",
+        "Value": 0.64,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2017.02.021"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2Sn0.98Pb0.02Se3",
+        "Property": "ZT",
+        "Value": 0.64,
+        "Units": null,
+        "Editing": "Pb - doping",
+        "Source_DOI": "10.1016/j.physb.2017.06.002"
+      }
+    ],
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "Cu2Sn0.98Pb0.02Se3",
+        "Property": "ZT",
+        "Value": 0.013000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2017.06.002"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2Sn0.98Pb0.02Se3",
+        "Property": "ZT",
+        "Value": 0.013000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2017.06.002"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2Sn0.98Pb0.02Se3",
+        "Property": "ZT",
+        "Value": 0.013000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2017.06.002"
+      }
+    ]
+  }
+}

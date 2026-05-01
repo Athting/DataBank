@@ -1,0 +1,54 @@
+{
+  "doi": "10.1007/s10854-018-8896-4",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Cu3(Sb0.92In0.08)Se4 thin film"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Cu3(Sb0.92In0.08)Se4 thin film",
+          "zt_value": 0.267,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Cu3(Sb0.92In0.08)Se4 thin film",
+          "zt_value": 0.267,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Cu3(Sb0.92In0.08)Se4 thin film",
+          "zt_value": 0.267,
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

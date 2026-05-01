@@ -1,0 +1,64 @@
+{
+  "Material": "BaCu2S2",
+  "DOIs_Researched": [
+    "10.1016/j.commatsci.2015.03.018",
+    "10.1039/c4dt03556a",
+    "10.1039/c7qi00813a"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "\u03b2-BaCu2S2",
+        "Property": "ThermCond",
+        "Value": 0.86,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2015.03.018"
+      },
+      {
+        "Original_Name_In_Paper": "\u03b2-BaCu2S2",
+        "Property": "Conductivity",
+        "Value": 2577.3195876289,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2015.03.018"
+      },
+      {
+        "Original_Name_In_Paper": "\u03b2-BaCu2S2",
+        "Property": "Seebeck",
+        "Value": 0.000216,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2015.03.018"
+      },
+      {
+        "Original_Name_In_Paper": "\u03b2-BaCu2S2",
+        "Property": "Seebeck",
+        "Value": 0.000216,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2015.03.018"
+      }
+    ],
+    "820.0": [
+      {
+        "Original_Name_In_Paper": "doped \u03b2-BaCu2S2",
+        "Property": "ZT",
+        "Value": 0.28,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4dt03556a"
+      }
+    ],
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "orthorhombic BaCu2S2",
+        "Property": "ZT",
+        "Value": 0.67,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7qi00813a"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "\u03b1 measurement",
+  "DOIs_Researched": [
+    "10.1016/j.mssp.2006.08.070"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "\u03b1 measurement",
+        "Property": "Conductivity",
+        "Value": 10000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2006.08.070"
+      }
+    ]
+  }
+}

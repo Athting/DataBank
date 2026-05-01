@@ -1,0 +1,18 @@
+{
+  "Material": "GaZnO",
+  "DOIs_Researched": [
+    "10.1039/c3ra44223c"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Ga0.02)Zn0.96O",
+        "Property": "ZT",
+        "Value": 0.23,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ra44223c"
+      }
+    ]
+  }
+}

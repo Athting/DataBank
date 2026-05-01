@@ -1,0 +1,18 @@
+{
+  "Material": "Mn-O",
+  "DOIs_Researched": [
+    "10.1039/c6ra06032c"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "Mn\u2013O",
+        "Property": "PF",
+        "Value": 0.0002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra06032c"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "MnCoAl",
+  "DOIs_Researched": [
+    "10.1016/j.physrep.2020.08.004"
+  ],
+  "Data_By_Temperature": {
+    "10.0": [
+      {
+        "Original_Name_In_Paper": "Mn2CoAl0.8Si0.2 film",
+        "Property": "Conductivity",
+        "Value": 234000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physrep.2020.08.004"
+      }
+    ]
+  }
+}

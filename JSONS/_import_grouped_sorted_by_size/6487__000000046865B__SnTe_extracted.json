@@ -1,0 +1,1715 @@
+{
+  "doi": "10.1016/j.jmat.2017.12.001",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "SnTe",
+        "pristine SnTe",
+        "pure Sn1.03Te",
+        "SnTe ingot",
+        "Pristine SnTe",
+        "SnTe matrix",
+        "pure SnTe",
+        "undoped SnTe",
+        "SnTe-alloyed SnSe crystals",
+        "SnTe based materials",
+        "Ca doped SnTe",
+        "Bi–Zn co-doped SnTe",
+        "undoped SnTe nanowires",
+        "In-doped SnTe",
+        "SnTe-based materials",
+        "Sn0.125Te NWs thin film",
+        "Sn1.03Te",
+        "Pure SnTe",
+        "Sn1.03Te-6 % BiCuSeO",
+        "In-doped SnTe polycrystals",
+        "Mn- / Cd-doped SnTe",
+        "p-type SnTe",
+        "Te-rich SnTe",
+        "I-doped SnTe",
+        "undoped bulk SnTe",
+        "0.5 mol % SnTe",
+        "0.5 mol % SnTe nanoparticles",
+        "SnTe-1 vol % SiC",
+        "Cd-doped SnTe",
+        "SnTe-based",
+        "codoped SnTe",
+        "SnTe alloys",
+        "Sb co-doped SnTe alloys",
+        "SnTe ingot with 15 % Sb",
+        "SnTe nanocrystals",
+        "single-doped SnTe",
+        "Cd / CdS-doped SnTe",
+        "In-doped SnTe nanocomposite",
+        "Mg-alloyed SnTe",
+        "pure SnTe bulk material",
+        "nanopillar SnTe film",
+        "SnTe materials",
+        "30 mol % Ge alloyed SnTe",
+        "SnTe-based material",
+        "Hg doped SnTe",
+        "SnTe–3 % AgSbSe2",
+        "Cd-doped SnTe nanostructuring with CdS",
+        "Mg doped SnTe",
+        "Sn1.03Te-5 % BiCuSeO",
+        "multidoped SnTe",
+        "Zn-doped SnTe",
+        "Mn-doped SnTe",
+        "17 % Mn alloyed SnTe",
+        "SnTe bulk",
+        "Cd co-doped SnTe alloys",
+        "co-doped SnTe",
+        "Bi doped SnTe"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "undoped SnTe nanowires",
+          "value": 0.00005,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "In-doped SnTe",
+          "value": 0.00008,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnTe",
+          "value": 0.000014999999999999999,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure Sn1.03Te",
+          "value": 0.0000299,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure SnTe",
+          "value": 0.0000073999999999999995,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure SnTe",
+          "value": 0.0001558,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnTe based materials",
+          "value": 0.000121,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "In-doped SnTe",
+          "value": 0.00008,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure SnTe",
+          "value": 0.000030299999999999998,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnTe-based materials",
+          "value": 0.000127,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine SnTe",
+          "value": 0.00004,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "In-doped SnTe",
+          "value": 0.00008,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "undoped SnTe",
+          "value": 0.000023,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine SnTe",
+          "value": 0.000009,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SnTe",
+          "value": 0.00001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "pristine SnTe",
+          "value": 0.00002,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Pristine SnTe",
+          "value": 0.00002,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SnTe",
+          "value": 0.00002,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SnTe based materials",
+          "value": 0.000121,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SnTe",
+          "value": 0.00024632,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "pure SnTe",
+          "value": 0.000128,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "undoped SnTe",
+          "value": 0.00009499999999999999,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "SnTe",
+          "value": 0.00018,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "pure SnTe",
+          "value": 0.00009499999999999999,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Cd-doped SnTe",
+          "value": 0.0002,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "820.0 K"
+        },
+        {
+          "material": "pristine SnTe",
+          "value": 0.00013000000000000002,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "820.0 K"
+        },
+        {
+          "material": "Sn1.03Te-5 % BiCuSeO",
+          "value": 0.00017605,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "835.0 K"
+        },
+        {
+          "material": "Sn1.03Te-5 % BiCuSeO",
+          "value": 0.00017605,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "835.0 K"
+        },
+        {
+          "material": "codoped SnTe",
+          "value": 0.00023,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "920.0 K"
+        },
+        {
+          "material": "codoped SnTe",
+          "value": 0.00023,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "920.0 K"
+        },
+        {
+          "material": "SnTe based materials",
+          "value": 0.0002,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnTe",
+          "value": 0.000111,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "548.0 K"
+        },
+        {
+          "material": "pristine SnTe",
+          "value": 0.00009,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "775.0 K"
+        },
+        {
+          "material": "SnTe",
+          "value": 0.000036,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "550.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "SnTe",
+          "value": 600000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure SnTe",
+          "value": 767400,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Sn1.03Te",
+          "value": 683900,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure SnTe",
+          "value": 764300,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine SnTe",
+          "value": 815000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Pure SnTe",
+          "value": 769000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure SnTe",
+          "value": 700000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnTe",
+          "value": 800000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine SnTe",
+          "value": 826500,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure SnTe",
+          "value": 825700,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure SnTe",
+          "value": 820500,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Pristine SnTe",
+          "value": 632000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine SnTe",
+          "value": 632000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Sn1.03Te-6 % BiCuSeO",
+          "value": 273000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine SnTe",
+          "value": 630000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine SnTe",
+          "value": 600000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine SnTe",
+          "value": 832000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnTe",
+          "value": 832000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnTe",
+          "value": 639000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine SnTe",
+          "value": 803300,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "undoped SnTe",
+          "value": 724000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine SnTe",
+          "value": 797000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine SnTe",
+          "value": 760000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnTe",
+          "value": 769230.7692307692,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SnTe",
+          "value": 263157.8947368421,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SnTe",
+          "value": 161290.3225806452,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "In-doped SnTe",
+          "value": 430000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "undoped SnTe nanowires",
+          "value": 700000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "pristine SnTe",
+          "value": 724000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "undoped bulk SnTe",
+          "value": 700000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "undoped SnTe",
+          "value": 770600,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "undoped SnTe",
+          "value": 770600,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "pristine SnTe",
+          "value": 190000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "SnTe ingot",
+          "value": 719800,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "303.0 K"
+        },
+        {
+          "material": "SnTe",
+          "value": 800000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "140.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "SnTe",
+          "value": 2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine SnTe",
+          "value": 8.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine SnTe",
+          "value": 3.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure Sn1.03Te",
+          "value": 6.88,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnTe",
+          "value": 3.1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnTe",
+          "value": 8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine SnTe",
+          "value": 8.6,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnTe",
+          "value": 10,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnTe ingot",
+          "value": 10,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnTe",
+          "value": 3,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnTe ingot",
+          "value": 10,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnTe",
+          "value": 3,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnTe ingot",
+          "value": 10,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnTe",
+          "value": 3,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Pristine SnTe",
+          "value": 2.9,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnTe",
+          "value": 0.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Pristine SnTe",
+          "value": 2.88,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnTe",
+          "value": 0.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnTe matrix",
+          "value": 0.67,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Pristine SnTe",
+          "value": 2.88,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnTe",
+          "value": 0.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnTe",
+          "value": 0.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure SnTe",
+          "value": 9.88,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine SnTe",
+          "value": 4.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure SnTe",
+          "value": 5.67,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine SnTe",
+          "value": 8.6,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnTe",
+          "value": 3.1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine SnTe",
+          "value": 3.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnTe",
+          "value": 0.89,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "undoped SnTe",
+          "value": 8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine SnTe",
+          "value": 8.6,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnTe",
+          "value": 4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnTe",
+          "value": 0.31,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "In-doped SnTe polycrystals",
+          "value": 3.8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SnTe",
+          "value": 3.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SnTe",
+          "value": 8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "pristine SnTe",
+          "value": 2.24,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SnTe",
+          "value": 2.8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SnTe",
+          "value": 8.66,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Mn- / Cd-doped SnTe",
+          "value": 1.38,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SnTe",
+          "value": 2.8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "pristine SnTe",
+          "value": 8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "p-type SnTe",
+          "value": 3.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "undoped SnTe",
+          "value": 8.9,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "undoped SnTe",
+          "value": 3.7,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SnTe",
+          "value": 8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "pure SnTe",
+          "value": 6.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "pure SnTe",
+          "value": 4.8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "pure SnTe",
+          "value": 3.6,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "pristine SnTe",
+          "value": 2.77,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SnTe",
+          "value": 8.64,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "pristine SnTe",
+          "value": 2.8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SnTe",
+          "value": 3.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SnTe",
+          "value": 8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SnTe",
+          "value": 2.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "786.0 K"
+        },
+        {
+          "material": "0.5 mol % SnTe",
+          "value": 0.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "875.0 K"
+        },
+        {
+          "material": "pristine SnTe",
+          "value": 1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "SnTe-1 vol % SiC",
+          "value": 0.67,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "pristine SnTe",
+          "value": 1.29,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "Sb co-doped SnTe alloys",
+          "value": 1.87,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "SnTe",
+          "value": 3.87,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "SnTe",
+          "value": 0.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "pure SnTe",
+          "value": 3.56,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "SnTe ingot",
+          "value": 2.43,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "pristine SnTe",
+          "value": 2.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "pure SnTe bulk material",
+          "value": 1.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "SnTe",
+          "value": 0.55,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "SnTe",
+          "value": 0.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "undoped SnTe",
+          "value": 2.3,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "30 mol % Ge alloyed SnTe",
+          "value": 0.67,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "721.0 K"
+        },
+        {
+          "material": "SnTe-based material",
+          "value": 0.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "780.0 K"
+        },
+        {
+          "material": "Hg doped SnTe",
+          "value": 0.6000000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "780.0 K"
+        },
+        {
+          "material": "SnTe",
+          "value": 1.3,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "820.0 K"
+        },
+        {
+          "material": "Cd-doped SnTe nanostructuring with CdS",
+          "value": 0.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "Mg doped SnTe",
+          "value": 0.78,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "575.0 K"
+        },
+        {
+          "material": "Sn1.03Te-5 % BiCuSeO",
+          "value": 1.04,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "835.0 K"
+        },
+        {
+          "material": "Sn1.03Te-5 % BiCuSeO",
+          "value": 1.04,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "835.0 K"
+        },
+        {
+          "material": "Sn1.03Te-5 % BiCuSeO",
+          "value": 1.04,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "835.0 K"
+        },
+        {
+          "material": "Sn1.03Te-5 % BiCuSeO",
+          "value": 1.04,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "835.0 K"
+        },
+        {
+          "material": "SnTe",
+          "value": 0.48,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "SnTe",
+          "value": 1.6,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "undoped SnTe",
+          "value": 0.6000000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "803.0 K"
+        },
+        {
+          "material": "SnTe",
+          "value": 1.6,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "325.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Sn0.125Te NWs thin film",
+          "value": 0.0001146,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnTe-alloyed SnSe crystals",
+          "value": 0.0055000000000000005,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine SnTe",
+          "value": 0.00117,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine SnTe",
+          "value": 0.000404,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "p-type SnTe",
+          "value": 0.00034,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SnTe",
+          "value": 0.003,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SnTe",
+          "value": 0.002,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "0.5 mol % SnTe",
+          "value": 0.0011,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "875.0 K"
+        },
+        {
+          "material": "codoped SnTe",
+          "value": 0.003388,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "SnTe alloys",
+          "value": 0.00305,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "pristine SnTe",
+          "value": 0.0026000000000000003,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "SnTe alloys",
+          "value": 0.00305,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "pristine SnTe",
+          "value": 0.00265,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "nanopillar SnTe film",
+          "value": 0.00198,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "SnTe materials",
+          "value": 0.0009000000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "pristine SnTe",
+          "value": 0.002097,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Cd-doped SnTe",
+          "value": 0.002,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "820.0 K"
+        },
+        {
+          "material": "Sn1.03Te-5 % BiCuSeO",
+          "value": 0.001517,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "835.0 K"
+        },
+        {
+          "material": "Sn1.03Te-5 % BiCuSeO",
+          "value": 0.001517,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "835.0 K"
+        },
+        {
+          "material": "multidoped SnTe",
+          "value": 0.0019,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "Bi doped SnTe",
+          "value": 0.002,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "840.0 K"
+        },
+        {
+          "material": "co-doped SnTe",
+          "value": 0.0047,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "840.0 K"
+        },
+        {
+          "material": "pure SnTe",
+          "value": 0.0017000000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "undoped SnTe",
+          "value": 0.0009100000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "600.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "SnTe",
+          "zt_value": 0.28,
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnTe-alloyed SnSe crystals",
+          "zt_value": 1.6,
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine SnTe",
+          "zt_value": 0.35000000000000003,
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnTe",
+          "zt_value": 0.30000000000000004,
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnTe based materials",
+          "zt_value": 0.25,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Ca doped SnTe",
+          "zt_value": 0.2,
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnTe based materials",
+          "zt_value": 0.25,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi–Zn co-doped SnTe",
+          "zt_value": 0.30000000000000004,
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnTe",
+          "zt_value": 0.35000000000000003,
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnTe",
+          "zt_value": 0.2,
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnTe-based materials",
+          "zt_value": 0.28,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Te-rich SnTe",
+          "zt_value": 0.15,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "I-doped SnTe",
+          "zt_value": 0.35000000000000003,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SnTe",
+          "zt_value": 0.30000000000000004,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "In-doped SnTe",
+          "zt_value": 0.32,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SnTe",
+          "zt_value": 0.8,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "In-doped SnTe",
+          "zt_value": 0.08,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "undoped SnTe nanowires",
+          "zt_value": 0.0379,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SnTe",
+          "zt_value": 0.63,
+          "temperature": "786.0 K"
+        },
+        {
+          "material": "SnTe",
+          "zt_value": 0.63,
+          "temperature": "786.0 K"
+        },
+        {
+          "material": "SnTe",
+          "zt_value": 0.63,
+          "temperature": "786.0 K"
+        },
+        {
+          "material": "SnTe",
+          "zt_value": 0.63,
+          "temperature": "786.0 K"
+        },
+        {
+          "material": "0.5 mol % SnTe nanoparticles",
+          "zt_value": 1.6,
+          "temperature": "875.0 K"
+        },
+        {
+          "material": "SnTe",
+          "zt_value": 1.6,
+          "temperature": "875.0 K"
+        },
+        {
+          "material": "undoped SnTe",
+          "zt_value": 0.55,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "SnTe",
+          "zt_value": 0.8,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "SnTe-1 vol % SiC",
+          "zt_value": 0.7000000000000001,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "SnTe-1 vol % SiC",
+          "zt_value": 0.7000000000000001,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "Cd-doped SnTe",
+          "zt_value": 0.96,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "SnTe",
+          "zt_value": 1.85,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "SnTe-based",
+          "zt_value": 1.42,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "pristine SnTe",
+          "zt_value": 0.67,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "SnTe",
+          "zt_value": 1.2,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "pristine SnTe",
+          "zt_value": 0.34,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "p-type SnTe",
+          "zt_value": 1.2,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "SnTe",
+          "zt_value": 1.1,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "SnTe",
+          "zt_value": 1,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "SnTe",
+          "zt_value": 0.6000000000000001,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "SnTe",
+          "zt_value": 0.62,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "SnTe",
+          "zt_value": 0.45,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "SnTe ingot with 15 % Sb",
+          "zt_value": 1,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "Sb co-doped SnTe alloys",
+          "zt_value": 0.8,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "In-doped SnTe",
+          "zt_value": 0.8,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "SnTe nanocrystals",
+          "zt_value": 0.49,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "Cd-doped SnTe",
+          "zt_value": 1.32,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "single-doped SnTe",
+          "zt_value": 1,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "SnTe",
+          "zt_value": 1.1,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "SnTe",
+          "zt_value": 1.1,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "In-doped SnTe",
+          "zt_value": 1.1,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "In-doped SnTe",
+          "zt_value": 1.1,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Cd / CdS-doped SnTe",
+          "zt_value": 1.3,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Cd-doped SnTe",
+          "zt_value": 1.4,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "SnTe",
+          "zt_value": 1.1,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "SnTe",
+          "zt_value": 1.1,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "SnTe",
+          "zt_value": 1.1,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "SnTe",
+          "zt_value": 1.22,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "SnTe",
+          "zt_value": 1.22,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "SnTe",
+          "zt_value": 1.5,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Pure SnTe",
+          "zt_value": 0.33,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "In-doped SnTe nanocomposite",
+          "zt_value": 1.1,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "SnTe",
+          "zt_value": 1.1,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Mg-alloyed SnTe",
+          "zt_value": 1.1,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Cd-doped SnTe",
+          "zt_value": 1.3,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "SnTe-based",
+          "zt_value": 1.4,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "SnTe",
+          "zt_value": 1,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "In-doped SnTe",
+          "zt_value": 1.1,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "pristine SnTe",
+          "zt_value": 0.14,
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "pure SnTe bulk material",
+          "zt_value": 1.5,
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "undoped SnTe",
+          "zt_value": 0.23,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "SnTe",
+          "zt_value": 1,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "pure SnTe",
+          "zt_value": 0.4,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "30 mol % Ge alloyed SnTe",
+          "zt_value": 1.6,
+          "temperature": "721.0 K"
+        },
+        {
+          "material": "SnTe–3 % AgSbSe2",
+          "zt_value": 0.92,
+          "temperature": "820.0 K"
+        },
+        {
+          "material": "SnTe",
+          "zt_value": 0.6000000000000001,
+          "temperature": "820.0 K"
+        },
+        {
+          "material": "Sn1.03Te-5 % BiCuSeO",
+          "zt_value": 1.21,
+          "temperature": "835.0 K"
+        },
+        {
+          "material": "Sn1.03Te-5 % BiCuSeO",
+          "zt_value": 1.21,
+          "temperature": "835.0 K"
+        },
+        {
+          "material": "Sn1.03Te-5 % BiCuSeO",
+          "zt_value": 1.21,
+          "temperature": "835.0 K"
+        },
+        {
+          "material": "Sn1.03Te-5 % BiCuSeO",
+          "zt_value": 1.21,
+          "temperature": "835.0 K"
+        },
+        {
+          "material": "SnTe",
+          "zt_value": 0.2,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "multidoped SnTe",
+          "zt_value": 1.8,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "Zn-doped SnTe",
+          "zt_value": 0.78,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "multidoped SnTe",
+          "zt_value": 0.76,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "SnTe",
+          "zt_value": 0.5,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "SnTe",
+          "zt_value": 0.5,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "pure SnTe",
+          "zt_value": 0.58,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "SnTe-based",
+          "zt_value": 1.3,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "Mn-doped SnTe",
+          "zt_value": 1.3,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "SnTe",
+          "zt_value": 0.4,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "Mn-doped SnTe",
+          "zt_value": 1.3,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "17 % Mn alloyed SnTe",
+          "zt_value": 1.3,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "SnTe bulk",
+          "zt_value": 0.49,
+          "temperature": "803.0 K"
+        },
+        {
+          "material": "codoped SnTe",
+          "zt_value": 1.8,
+          "temperature": "920.0 K"
+        },
+        {
+          "material": "SnTe based materials",
+          "zt_value": 1.4,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnTe",
+          "zt_value": 1.4,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnTe",
+          "zt_value": 1.4,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnTe",
+          "zt_value": 0.9,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "Cd co-doped SnTe alloys",
+          "zt_value": 1.1,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "p-type SnTe",
+          "zt_value": 1.4,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "co-doped SnTe",
+          "zt_value": 1.1,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "SnTe",
+          "zt_value": 1.1,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "SnTe",
+          "zt_value": 1,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "SnTe",
+          "zt_value": 0.6000000000000001,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "SnTe",
+          "zt_value": 0.35000000000000003,
+          "temperature": "710.0 K"
+        },
+        {
+          "material": "SnTe",
+          "zt_value": 1.05,
+          "temperature": "856.0 K"
+        },
+        {
+          "material": "pure SnTe",
+          "zt_value": 0.19,
+          "temperature": "548.0 K"
+        },
+        {
+          "material": "SnTe",
+          "zt_value": 0.19,
+          "temperature": "548.0 K"
+        },
+        {
+          "material": "SnTe",
+          "zt_value": 1.1,
+          "temperature": "775.0 K"
+        },
+        {
+          "material": "SnTe",
+          "zt_value": 1.35,
+          "temperature": "910.0 K"
+        },
+        {
+          "material": "SnTe",
+          "zt_value": 1.35,
+          "temperature": "910.0 K"
+        },
+        {
+          "material": "SnTe",
+          "zt_value": 0.30000000000000004,
+          "temperature": "550.0 K"
+        },
+        {
+          "material": "co-doped SnTe",
+          "zt_value": 1.65,
+          "temperature": "840.0 K"
+        },
+        {
+          "material": "SnTe",
+          "zt_value": 1.65,
+          "temperature": "840.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

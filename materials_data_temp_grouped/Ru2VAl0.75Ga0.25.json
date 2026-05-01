@@ -1,0 +1,18 @@
+{
+  "Material": "Ru2VAl0.75Ga0.25",
+  "DOIs_Researched": [
+    "10.1016/j.intermet.2017.09.012"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ru2VAl0.75Ga0.25",
+        "Property": "Seebeck",
+        "Value": -1.06e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2017.09.012"
+      }
+    ]
+  }
+}

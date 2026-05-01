@@ -1,0 +1,26 @@
+{
+  "Material": "black phosphorus",
+  "DOIs_Researched": [
+    "10.1016/j.apmt.2019.04.007"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "black phosphorus",
+        "Property": "ZT",
+        "Value": 0.14,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apmt.2019.04.007"
+      },
+      {
+        "Original_Name_In_Paper": "black phosphorus",
+        "Property": "Seebeck",
+        "Value": 0.000335,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apmt.2019.04.007"
+      }
+    ]
+  }
+}

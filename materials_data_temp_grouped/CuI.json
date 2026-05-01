@@ -1,0 +1,37 @@
+{
+  "Material": "CuI",
+  "DOIs_Researched": [
+    "10.1016/j.apmt.2018.07.004",
+    "10.1016/j.solener.2020.10.081"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "( 1 1 1 )-oriented \u03b3-CuI films",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solener.2020.10.081"
+      },
+      {
+        "Original_Name_In_Paper": "( 1 1 1 )-oriented \u03b3-CuI films",
+        "Property": "Seebeck",
+        "Value": 0.00018,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solener.2020.10.081"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "copper iodide",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apmt.2018.07.004"
+      }
+    ]
+  }
+}

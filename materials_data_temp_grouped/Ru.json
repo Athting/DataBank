@@ -1,0 +1,18 @@
+{
+  "Material": "Ru",
+  "DOIs_Researched": [
+    "10.1557/jmr.2011.153"
+  ],
+  "Data_By_Temperature": {
+    "753.0": [
+      {
+        "Original_Name_In_Paper": "Ru1",
+        "Property": "ZT",
+        "Value": 0.07,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1557/jmr.2011.153"
+      }
+    ]
+  }
+}

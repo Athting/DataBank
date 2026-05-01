@@ -1,0 +1,18 @@
+{
+  "Material": "MnGeTe2",
+  "DOIs_Researched": [
+    "10.1007/s40843-018-9328-5"
+  ],
+  "Data_By_Temperature": {
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "MnGeTe2",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s40843-018-9328-5"
+      }
+    ]
+  }
+}

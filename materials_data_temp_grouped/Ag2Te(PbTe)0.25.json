@@ -1,0 +1,18 @@
+{
+  "Material": "Ag2Te(PbTe)0.25",
+  "DOIs_Researched": [
+    "10.1007/s11051-012-1328-0"
+  ],
+  "Data_By_Temperature": {
+    "670.0": [
+      {
+        "Original_Name_In_Paper": "(Ag2Te)0.75(PbTe)0.25 nanocomposite",
+        "Property": "ZT",
+        "Value": 0.38,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11051-012-1328-0"
+      }
+    ]
+  }
+}

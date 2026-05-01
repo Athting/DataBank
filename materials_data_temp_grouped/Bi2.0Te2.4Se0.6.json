@@ -1,0 +1,28 @@
+{
+  "Material": "Bi2.0Te2.4Se0.6",
+  "DOIs_Researched": [
+    "10.1016/j.matpr.2019.10.066"
+  ],
+  "Data_By_Temperature": {
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "Bi2.0Te2.4Se0.6 ( 0.18 wt. % CuBr",
+        "Property": "ZT",
+        "Value": 0.6900000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matpr.2019.10.066"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "n-type Bi2.0Te2.4Se0.6 ( 0.18 wt. % CuBr",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matpr.2019.10.066"
+      }
+    ]
+  }
+}

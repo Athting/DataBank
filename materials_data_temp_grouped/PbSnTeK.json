@@ -1,0 +1,26 @@
+{
+  "Material": "PbSnTeK",
+  "DOIs_Researched": [
+    "10.1007/s13391-019-00130-1"
+  ],
+  "Data_By_Temperature": {
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "doped (Pb0.5Sn0.5)1-xKxTe0.95Se0.05",
+        "Property": "ZT",
+        "Value": 0.91,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s13391-019-00130-1"
+      },
+      {
+        "Original_Name_In_Paper": "doped (Pb0.5Sn0.5)1-xKxTe0.95Se0.05",
+        "Property": "ZT",
+        "Value": 0.91,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s13391-019-00130-1"
+      }
+    ]
+  }
+}

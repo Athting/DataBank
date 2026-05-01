@@ -1,0 +1,28 @@
+{
+  "Material": "Bi(NO3)3",
+  "DOIs_Researched": [
+    "10.1016/j.synthmet.2010.11.034"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Bi(NO3)3",
+        "Property": "Conductivity",
+        "Value": 150000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.synthmet.2010.11.034"
+      }
+    ],
+    "305.0": [
+      {
+        "Original_Name_In_Paper": "Bi(NO3)3",
+        "Property": "Conductivity",
+        "Value": 1508.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.synthmet.2010.11.034"
+      }
+    ]
+  }
+}

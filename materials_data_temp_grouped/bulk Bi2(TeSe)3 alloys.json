@@ -1,0 +1,18 @@
+{
+  "Material": "bulk Bi2(TeSe)3 alloys",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2017.10.034"
+  ],
+  "Data_By_Temperature": {
+    "477.0": [
+      {
+        "Original_Name_In_Paper": "bulk Bi2(TeSe)3 alloys",
+        "Property": "ZT",
+        "Value": 1.22,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2017.10.034"
+      }
+    ]
+  }
+}

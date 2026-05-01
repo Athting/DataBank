@@ -1,0 +1,151 @@
+{
+  "doi": "10.1016/j.jallcom.2019.04.294",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "TlSbTe2",
+        "bismuth tellurides TlSbTe2",
+        "In-doped TlSbTe2",
+        "p-type TlSbTe2",
+        "undoped TlSbTe2",
+        "bulk TlSbTe2"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "TlSbTe2",
+          "value": 0.00008,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "TlSbTe2",
+          "value": 0.00008,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "bulk TlSbTe2",
+          "value": 0.00007000000000000001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "TlSbTe2",
+          "value": 0.000224,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "666.0 K"
+        },
+        {
+          "material": "TlSbTe2",
+          "value": 0.000224,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "666.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "TlSbTe2",
+          "value": 300,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "undoped TlSbTe2",
+          "value": 15400,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "625.0 K"
+        },
+        {
+          "material": "bulk TlSbTe2",
+          "value": 0.0006000000000000001,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "TlSbTe2",
+          "value": 75000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "380.0 K"
+        },
+        {
+          "material": "TlSbTe2",
+          "value": 30000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "380.0 K"
+        },
+        {
+          "material": "TlSbTe2",
+          "value": 28000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "520.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "TlSbTe2",
+          "value": 1.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "TlSbTe2",
+          "value": 0.0008900000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "567.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "bismuth tellurides TlSbTe2",
+          "zt_value": 0.87,
+          "temperature": "715.0 K"
+        },
+        {
+          "material": "TlSbTe2",
+          "zt_value": 0.87,
+          "temperature": "715.0 K"
+        },
+        {
+          "material": "TlSbTe2",
+          "zt_value": 0.87,
+          "temperature": "715.0 K"
+        },
+        {
+          "material": "In-doped TlSbTe2",
+          "zt_value": 0.77,
+          "temperature": "625.0 K"
+        },
+        {
+          "material": "p-type TlSbTe2",
+          "zt_value": 0.85,
+          "temperature": "625.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

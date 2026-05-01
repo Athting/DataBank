@@ -1,0 +1,116 @@
+{
+  "doi": "10.1016/j.mser.2018.09.001",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "ZrCoSb",
+        "ZrCo0.9Ni0.1Sb",
+        "ZrCo0.92Ni0.08Sb",
+        "Ni-doped ZrCoSb",
+        "Ta-doped ZrCoSb",
+        "ZrCoSb-based samples",
+        "doped ZrCoSb",
+        "ordered ZrCoSb"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "ZrCoSb",
+          "value": -0.000008,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "ordered ZrCoSb",
+          "value": -0.0000468,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "350.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "ZrCoSb",
+          "value": 19,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "ZrCo0.9Ni0.1Sb",
+          "value": 12,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "ZrCo0.92Ni0.08Sb",
+          "value": 0.0018000000000000002,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "ZrCoSb",
+          "value": 2.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "ZrCo0.9Ni0.1Sb",
+          "value": 0.0033,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "873.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "ZrCo0.92Ni0.08Sb",
+          "zt_value": 0.24,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "Ni-doped ZrCoSb",
+          "zt_value": 0.6000000000000001,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Ta-doped ZrCoSb",
+          "zt_value": 0.8,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "ZrCoSb-based samples",
+          "zt_value": 0.43,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "doped ZrCoSb",
+          "zt_value": 0.42,
+          "temperature": "743.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

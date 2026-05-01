@@ -1,0 +1,18 @@
+{
+  "Material": "Ag2Pb6Bi10Se22",
+  "DOIs_Researched": [
+    "10.1039/c8dt01895b"
+  ],
+  "Data_By_Temperature": {
+    "523.0": [
+      {
+        "Original_Name_In_Paper": "Ag2Pb6Bi10Se22",
+        "Property": "ZT",
+        "Value": 0.23,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8dt01895b"
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "Material": "Cr2Se3",
+  "DOIs_Researched": [
+    "10.1039/c7tc04749e"
+  ],
+  "Data_By_Temperature": {
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "pure Cr2Se3",
+        "Property": "ThermCond",
+        "Value": 1.75,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7tc04749e"
+      }
+    ],
+    "623.0": [
+      {
+        "Original_Name_In_Paper": "pure Cr2Se3",
+        "Property": "ZT",
+        "Value": 0.22,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7tc04749e"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Cr2Se3",
+        "Property": "Conductivity",
+        "Value": 40700.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7tc04749e"
+      }
+    ]
+  }
+}

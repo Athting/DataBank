@@ -1,0 +1,18 @@
+{
+  "Material": "chromium silicide-based",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2018.07.253"
+  ],
+  "Data_By_Temperature": {
+    "1273.0": [
+      {
+        "Original_Name_In_Paper": "chromium silicide-based",
+        "Property": "Conductivity",
+        "Value": 4210.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.07.253"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Fe2VAl0.9Sb0.03Si0.07",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2009.04.120"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Fe2VAl0.9Sb0.03Si0.07",
+        "Property": "ZT",
+        "Value": 0.00051,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.04.120"
+      }
+    ]
+  }
+}

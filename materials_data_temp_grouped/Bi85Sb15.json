@@ -1,0 +1,72 @@
+{
+  "Material": "Bi85Sb15",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2018.02.040",
+    "10.1039/c8ra03858a",
+    "10.1038/s41598-019-50325-7",
+    "10.1007/s11664-012-2063-0",
+    "10.1016/j.jallcom.2011.08.076"
+  ],
+  "Data_By_Temperature": {
+    "100.0": [
+      {
+        "Original_Name_In_Paper": "Bi85Sb15",
+        "Property": "ThermCond",
+        "Value": 0.85,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-019-50325-7"
+      }
+    ],
+    "260.0": [
+      {
+        "Original_Name_In_Paper": "(Bi85Sb15)1\u2212xPbx",
+        "Property": "ZT",
+        "Value": 0.26,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ra03858a"
+      }
+    ],
+    "280.0": [
+      {
+        "Original_Name_In_Paper": "pristine Bi85Sb15",
+        "Property": "ZT",
+        "Value": 0.18,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.02.040"
+      }
+    ],
+    "265.0": [
+      {
+        "Original_Name_In_Paper": "(Bi85Sb15)0.975Sn0.025",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-012-2063-0"
+      }
+    ],
+    "173.0": [
+      {
+        "Original_Name_In_Paper": "(Bi85Sb15)1-xGrx composites",
+        "Property": "PF",
+        "Value": 0.0037,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.02.040"
+      }
+    ],
+    "77.0": [
+      {
+        "Original_Name_In_Paper": "Bi85Sb15\u2212xPbx",
+        "Property": "Conductivity",
+        "Value": 310000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2011.08.076"
+      }
+    ]
+  }
+}

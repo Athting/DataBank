@@ -1,0 +1,37 @@
+{
+  "Material": "CuRhO2",
+  "DOIs_Researched": [
+    "10.1016/j.materresbull.2009.11.008",
+    "10.1016/j.jssc.2011.07.005"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "CuRhO2 with Mg",
+        "Property": "ZT",
+        "Value": 0.15,
+        "Units": null,
+        "Editing": "CuRhO2 with Mg doping",
+        "Source_DOI": "10.1016/j.materresbull.2009.11.008"
+      },
+      {
+        "Original_Name_In_Paper": "CuRh0.9Mg0.1O2 compound",
+        "Property": "PF",
+        "Value": 0.0007,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2011.07.005"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "CuRh1\u2212xMgxO2",
+        "Property": "Conductivity",
+        "Value": 20000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2011.07.005"
+      }
+    ]
+  }
+}

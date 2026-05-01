@@ -1,0 +1,18 @@
+{
+  "Material": "pure In4Se3",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2015.08.062"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "pure In4Se3",
+        "Property": "Conductivity",
+        "Value": 564.9717514124,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2015.08.062"
+      }
+    ]
+  }
+}

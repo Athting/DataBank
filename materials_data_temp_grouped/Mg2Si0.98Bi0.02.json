@@ -1,0 +1,29 @@
+{
+  "Material": "Mg2Si0.98Bi0.02",
+  "DOIs_Researched": [
+    "10.1007/s11837-016-2060-5",
+    "10.1039/c4dt01177e"
+  ],
+  "Data_By_Temperature": {
+    "660.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Si0.98Bi0.02",
+        "Property": "ThermCond",
+        "Value": 7.3,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4dt01177e"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Mg2Si0.98Bi0.02",
+        "Property": "Seebeck",
+        "Value": -9.4e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11837-016-2060-5"
+      }
+    ]
+  }
+}

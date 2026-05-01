@@ -1,0 +1,55 @@
+{
+  "Material": "Bi2Te3\u2013Sb2Te3",
+  "DOIs_Researched": [
+    "10.1039/c1jm10163c",
+    "10.1039/c2jm33899h",
+    "10.1016/j.jallcom.2017.12.211",
+    "10.1016/j.actamat.2003.08.025"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "p-type Bi2Te3\u2013Sb2Te3",
+        "Property": "ZT",
+        "Value": 0.87,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2003.08.025"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Bi2Te3\u2013Sb2Te3",
+        "Property": "Seebeck",
+        "Value": 0.000174,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2003.08.025"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Bi2Te3\u2013Sb2Te3",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.12.211"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Te3\u2013Sb2Te3 superlattice",
+        "Property": "ZT",
+        "Value": 2.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2jm33899h"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Bi2Te3\u2013Sb2Te3 superlattices",
+        "Property": "ZT",
+        "Value": 2.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c1jm10163c"
+      }
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "doi": "10.1016/j.enconman.2017.02.070",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "single-filled Ce0.9Fe3CoSb12",
+        "Ce0.8Fe3CoSb12",
+        "Ce0.9Fe3CoSb12",
+        "CeFe3CoSb12"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "single-filled Ce0.9Fe3CoSb12",
+          "value": 0.0001115,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "single-filled Ce0.9Fe3CoSb12",
+          "value": 110000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Ce0.8Fe3CoSb12",
+          "zt_value": 0.68,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Ce0.8Fe3CoSb12",
+          "zt_value": 0.68,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Ce0.9Fe3CoSb12",
+          "zt_value": 1.4,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "CeFe3CoSb12",
+          "zt_value": 0.75,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "Ce0.9Fe3CoSb12",
+          "zt_value": 0.9,
+          "temperature": "800.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

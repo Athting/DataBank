@@ -1,0 +1,71 @@
+{
+  "doi": "10.1016/j.actamat.2020.03.009",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Sn0.97Pr0.03Se"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Sn0.97Pr0.03Se",
+          "value": 0.00041000000000000005,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Sn0.97Pr0.03Se",
+          "zt_value": 0.7000000000000001,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Sn0.97Pr0.03Se",
+          "zt_value": 0.7000000000000001,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Sn0.97Pr0.03Se",
+          "zt_value": 0.7000000000000001,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Sn0.97Pr0.03Se",
+          "zt_value": 0.7000000000000001,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Sn0.97Pr0.03Se",
+          "zt_value": 0.9,
+          "temperature": "773.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

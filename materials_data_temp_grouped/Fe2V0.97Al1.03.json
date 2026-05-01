@@ -1,0 +1,18 @@
+{
+  "Material": "Fe2V0.97Al1.03",
+  "DOIs_Researched": [
+    "10.1016/j.mser.2018.09.001"
+  ],
+  "Data_By_Temperature": {
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "p-type Fe2V0.97Al1.03",
+        "Property": "PF",
+        "Value": 0.0043,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mser.2018.09.001"
+      }
+    ]
+  }
+}

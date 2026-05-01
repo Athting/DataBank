@@ -1,0 +1,29 @@
+{
+  "Material": "Cu2GeSe4",
+  "DOIs_Researched": [
+    "10.1016/j.chemphys.2020.110821",
+    "10.1016/j.physb.2014.12.016"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Cu2ZnGeSe4 compound",
+        "Property": "Conductivity",
+        "Value": 50000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2014.12.016"
+      }
+    ],
+    "730.0": [
+      {
+        "Original_Name_In_Paper": "Cu2HgGeSe4 nanoparticles",
+        "Property": "Conductivity",
+        "Value": 50000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.chemphys.2020.110821"
+      }
+    ]
+  }
+}

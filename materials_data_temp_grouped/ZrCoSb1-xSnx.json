@@ -1,0 +1,18 @@
+{
+  "Material": "ZrCoSb1-xSnx",
+  "DOIs_Researched": [
+    "10.1039/c6tc01115b"
+  ],
+  "Data_By_Temperature": {
+    "958.0": [
+      {
+        "Original_Name_In_Paper": "ZrCoSb1\u2212xSnx",
+        "Property": "ZT",
+        "Value": 0.45,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6tc01115b"
+      }
+    ]
+  }
+}

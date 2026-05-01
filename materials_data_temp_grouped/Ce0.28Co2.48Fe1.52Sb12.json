@@ -1,0 +1,18 @@
+{
+  "Material": "Ce0.28Co2.48Fe1.52Sb12",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2005.03.032"
+  ],
+  "Data_By_Temperature": {
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "p-type Ce0.28Co2.48Fe1.52Sb12",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2005.03.032"
+      }
+    ]
+  }
+}

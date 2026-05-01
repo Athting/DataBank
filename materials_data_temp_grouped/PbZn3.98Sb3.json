@@ -1,0 +1,18 @@
+{
+  "Material": "PbZn3.98Sb3",
+  "DOIs_Researched": [
+    "10.1038/srep17803"
+  ],
+  "Data_By_Temperature": {
+    "648.0": [
+      {
+        "Original_Name_In_Paper": "\u03b2-Pb0.02Zn3.98Sb3 with 3 vol. % of Cu3SbSe4",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/srep17803"
+      }
+    ]
+  }
+}

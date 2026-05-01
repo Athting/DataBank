@@ -1,0 +1,28 @@
+{
+  "Material": "Li3Co1.06TeO6",
+  "DOIs_Researched": [
+    "10.1039/c7dt02663c"
+  ],
+  "Data_By_Temperature": {
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "Li3Co1.06(1)TeO6",
+        "Property": "Conductivity",
+        "Value": 0.00016,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7dt02663c"
+      }
+    ],
+    "523.0": [
+      {
+        "Original_Name_In_Paper": "Li3Co1.06(1)TeO6",
+        "Property": "Conductivity",
+        "Value": 0.000164,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7dt02663c"
+      }
+    ]
+  }
+}

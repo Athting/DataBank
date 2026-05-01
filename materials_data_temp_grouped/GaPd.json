@@ -1,0 +1,43 @@
+{
+  "Material": "GaPd",
+  "DOIs_Researched": [
+    "10.1016/j.intermet.2014.07.007",
+    "10.1016/j.intermet.2015.07.010"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "GaPd",
+        "Property": "ThermCond",
+        "Value": 50.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2015.07.010"
+      },
+      {
+        "Original_Name_In_Paper": "GaPd",
+        "Property": "ThermCond",
+        "Value": 50.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2014.07.007"
+      },
+      {
+        "Original_Name_In_Paper": "GaPd crystal",
+        "Property": "Conductivity",
+        "Value": 28571428.57142857,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2015.07.010"
+      },
+      {
+        "Original_Name_In_Paper": "GaPd",
+        "Property": "Seebeck",
+        "Value": -3.6e-06,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2014.07.007"
+      }
+    ]
+  }
+}

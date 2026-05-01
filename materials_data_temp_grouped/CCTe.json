@@ -1,0 +1,18 @@
+{
+  "Material": "CCTe",
+  "DOIs_Researched": [
+    "10.1007/s11664-015-4302-7"
+  ],
+  "Data_By_Temperature": {
+    "715.0": [
+      {
+        "Original_Name_In_Paper": "CCTSe compounds",
+        "Property": "ZT",
+        "Value": 0.63,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-015-4302-7"
+      }
+    ]
+  }
+}

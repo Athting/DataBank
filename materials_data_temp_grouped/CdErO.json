@@ -1,0 +1,18 @@
+{
+  "Material": "CdErO",
+  "DOIs_Researched": [
+    "10.1016/j.jeurceramsoc.2013.02.025"
+  ],
+  "Data_By_Temperature": {
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "Cd0.095Er0.005O",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2013.02.025"
+      }
+    ]
+  }
+}

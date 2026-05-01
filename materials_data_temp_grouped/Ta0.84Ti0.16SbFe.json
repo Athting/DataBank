@@ -1,0 +1,26 @@
+{
+  "Material": "Ta0.84Ti0.16SbFe",
+  "DOIs_Researched": [
+    "10.1038/s41467-018-08223-5"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ta0.84Ti0.16FeSb",
+        "Property": "ThermCond",
+        "Value": 3.1,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41467-018-08223-5"
+      },
+      {
+        "Original_Name_In_Paper": "Ta0.84Ti0.16FeSb",
+        "Property": "PF",
+        "Value": 0.0045000000000000005,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41467-018-08223-5"
+      }
+    ]
+  }
+}

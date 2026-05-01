@@ -1,0 +1,283 @@
+{
+  "doi": "10.1016/j.cej.2020.125219",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "pristine Cu1.1Fe1.1S2",
+        "CuFeS2",
+        "Carrier doped CuFeS2",
+        "Cu1.1Fe1.1S2",
+        "CuFeS2 chalcopyrite",
+        "CuFeS2nanoparticles",
+        "Cu0.92Cd0.08FeS2",
+        "3 % doped CuFeS2",
+        "CuFeS2nanocrystals",
+        "CuFeS2 nanocrystals",
+        "Cu-rich tetrahedrite",
+        "Cu0.96Co0.04FeS2",
+        "Cu0.94Co0.06FeS2",
+        "CuFeS2 materials",
+        "Cu0.97Fe1.03S2"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "CuFeS2",
+          "value": -0.00048000000000000007,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Cu0.94Co0.06FeS2",
+          "value": 0.00024000000000000003,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "675.0 K"
+        },
+        {
+          "material": "CuFeS2",
+          "value": -0.00030000000000000003,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "CuFeS2",
+          "value": 0.00008,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "323.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "Cu1.1Fe1.1S2",
+          "value": 0.00019,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CuFeS2",
+          "value": 0.0029000000000000002,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CuFeS2",
+          "value": 6000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Cu0.92Cd0.08FeS2",
+          "value": 10200,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "CuFeS2nanoparticles",
+          "value": 87.4,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "CuFeS2nanoparticles",
+          "value": 326.5,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "500.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "pristine Cu1.1Fe1.1S2",
+          "value": 1.7000000000000002,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CuFeS2",
+          "value": 6.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CuFeS2",
+          "value": 7.184,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CuFeS2 chalcopyrite",
+          "value": 6,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "CuFeS2",
+          "value": 5.09,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "3 % doped CuFeS2",
+          "value": 49,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "46.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Carrier doped CuFeS2",
+          "value": 0.001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CuFeS2nanoparticles",
+          "value": 0.000011,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Cu0.92Cd0.08FeS2",
+          "value": 0.00043000000000000004,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "Cu0.92Cd0.08FeS2",
+          "value": 0.00068,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "Cu0.97Fe1.03S2",
+          "value": 0.001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "400.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "CuFeS2nanoparticles",
+          "zt_value": 0.012,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "CuFeS2",
+          "zt_value": 0.069,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "CuFeS2nanocrystals",
+          "zt_value": 0.264,
+          "temperature": "500.0 K"
+        },
+        {
+          "material": "CuFeS2 nanocrystals",
+          "zt_value": 0.264,
+          "temperature": "500.0 K"
+        },
+        {
+          "material": "Cu-rich tetrahedrite",
+          "zt_value": 0.62,
+          "temperature": "393.0 K"
+        },
+        {
+          "material": "Cu0.96Co0.04FeS2",
+          "zt_value": 0.22,
+          "temperature": "675.0 K"
+        },
+        {
+          "material": "CuFeS2",
+          "zt_value": 0.22,
+          "temperature": "675.0 K"
+        },
+        {
+          "material": "Cu0.94Co0.06FeS2",
+          "zt_value": 0.22,
+          "temperature": "675.0 K"
+        },
+        {
+          "material": "Cu0.94Co0.06FeS2",
+          "zt_value": 0.22,
+          "temperature": "675.0 K"
+        },
+        {
+          "material": "CuFeS2",
+          "zt_value": 0.22,
+          "temperature": "675.0 K"
+        },
+        {
+          "material": "Cu1.1Fe1.1S2",
+          "zt_value": 0.23,
+          "temperature": "625.0 K"
+        },
+        {
+          "material": "Cu1.1Fe1.1S2",
+          "zt_value": 0.23,
+          "temperature": "625.0 K"
+        },
+        {
+          "material": "CuFeS2",
+          "zt_value": 0.2,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "CuFeS2",
+          "zt_value": 0.26,
+          "temperature": "680.0 K"
+        },
+        {
+          "material": "Cu0.92Cd0.08FeS2",
+          "zt_value": 0.39,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "CuFeS2 materials",
+          "zt_value": 0.39,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "CuFeS2",
+          "zt_value": 0.30000000000000004,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "CuFeS2",
+          "zt_value": 0.03,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "Cu0.94Co0.06FeS2",
+          "zt_value": 0.2,
+          "temperature": "623.0 K"
+        },
+        {
+          "material": "CuFeS2",
+          "zt_value": 0.069,
+          "temperature": "573.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

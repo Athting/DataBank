@@ -1,0 +1,18 @@
+{
+  "Material": "In4PbSnSe3",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2014.06.196"
+  ],
+  "Data_By_Temperature": {
+    "733.0": [
+      {
+        "Original_Name_In_Paper": "In4Pb0.01Sn0.03Se3",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.06.196"
+      }
+    ]
+  }
+}

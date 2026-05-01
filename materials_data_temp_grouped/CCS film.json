@@ -1,0 +1,18 @@
+{
+  "Material": "CCS film",
+  "DOIs_Researched": [
+    "10.1016/j.jpcs.2007.12.017"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "CCS film",
+        "Property": "Conductivity",
+        "Value": 0.0012820513,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2007.12.017"
+      }
+    ]
+  }
+}

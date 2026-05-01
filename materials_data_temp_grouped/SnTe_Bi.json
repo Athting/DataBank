@@ -1,0 +1,18 @@
+{
+  "Material": "SnTe:Bi",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2017.10.196"
+  ],
+  "Data_By_Temperature": {
+    "910.0": [
+      {
+        "Original_Name_In_Paper": "Bi-doped SnTe alloyed with HgTe polycrystals",
+        "Property": "ZT",
+        "Value": 1.35,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.10.196"
+      }
+    ]
+  }
+}

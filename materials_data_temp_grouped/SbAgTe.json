@@ -1,0 +1,56 @@
+{
+  "Material": "SbAgTe",
+  "DOIs_Researched": [
+    "10.1038/nmat2361",
+    "10.1039/c4cc07515c",
+    "10.1007/s11837-016-2060-5",
+    "10.1038/s41598-017-16372-8",
+    "10.1016/j.matchemphys.2008.07.112"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "antimony silver telluride",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/nmat2361"
+      },
+      {
+        "Original_Name_In_Paper": "antimony\u2013silver\u2013telluride",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4cc07515c"
+      },
+      {
+        "Original_Name_In_Paper": "antimony silver telluride",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-017-16372-8"
+      },
+      {
+        "Original_Name_In_Paper": "antimony\u2013silver\u2013tellurium",
+        "Property": "ZT",
+        "Value": 2.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11837-016-2060-5"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "antimony\u2013silver\u2013tellurium",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2008.07.112"
+      }
+    ]
+  }
+}

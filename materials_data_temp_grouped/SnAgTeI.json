@@ -1,0 +1,121 @@
+{
+  "Material": "SnAgTeI",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2016.02.012",
+    "10.1016/S0022-4596(16)30292-4"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Sn0.95Ag0.05Te0.95I0.05",
+        "Property": "ThermCond",
+        "Value": 5.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2016.02.012"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.99Ag0.01Te0.99I0.01",
+        "Property": "ThermCond",
+        "Value": 3.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2016.02.012"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.95Ag0.05Te0.95I0.05",
+        "Property": "Seebeck",
+        "Value": 3.0000000000000004e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2016.02.012"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.95Ag0.05Te0.95I0.05",
+        "Property": "Conductivity",
+        "Value": 390600.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2016.02.012"
+      }
+    ],
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.95Ag0.05Te0.95I0.05",
+        "Property": "ThermCond",
+        "Value": 5.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2016.02.012"
+      }
+    ],
+    "860.0": [
+      {
+        "Original_Name_In_Paper": "p-type Sn0.95Ag0.05Te0.95I0.05",
+        "Property": "ZT",
+        "Value": 1.05,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2016.02.012"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Sn0.95Ag0.05Te0.95I0.05",
+        "Property": "ZT",
+        "Value": 1.05,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2016.02.012"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Sn0.95Ag0.05Te0.95I0.05",
+        "Property": "ZT",
+        "Value": 1.05,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2016.02.012"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Sn0.95Ag0.05Te0.95I0.05",
+        "Property": "ZT",
+        "Value": 1.05,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2016.02.012"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Sn0.95Ag0.05Te0.95I0.05",
+        "Property": "ZT",
+        "Value": 1.05,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0022-4596(16)30292-4"
+      }
+    ],
+    "856.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.95Ag0.05Te0.95I0.05",
+        "Property": "ZT",
+        "Value": 1.05,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2016.02.012"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.95Ag0.05Te0.95I0.05",
+        "Property": "Seebeck",
+        "Value": 0.000185,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2016.02.012"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.95Ag0.05Te0.95I0.05",
+        "Property": "PF",
+        "Value": 0.000305,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2016.02.012"
+      }
+    ]
+  }
+}

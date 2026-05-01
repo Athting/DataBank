@@ -1,0 +1,64 @@
+{
+  "Material": "Si2Te3",
+  "DOIs_Researched": [
+    "10.1039/c9tc03769a",
+    "10.1016/j.joule.2019.10.010",
+    "10.1038/s41598-020-76265-1"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "n-doped Si2Te3",
+        "Property": "ThermCond",
+        "Value": 2.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-020-76265-1"
+      },
+      {
+        "Original_Name_In_Paper": "n-type Si2Te3",
+        "Property": "ZT",
+        "Value": 1.8599999999999999,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc03769a"
+      }
+    ],
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "Si2Te3 nanosheets",
+        "Property": "ThermCond",
+        "Value": 0.29,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2019.10.010"
+      },
+      {
+        "Original_Name_In_Paper": "Si2Te3",
+        "Property": "ThermCond",
+        "Value": 0.29,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2019.10.010"
+      },
+      {
+        "Original_Name_In_Paper": "Si2Te3",
+        "Property": "ZT",
+        "Value": 1.65,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2019.10.010"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Si2Te3",
+        "Property": "ThermCond",
+        "Value": 0.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2019.10.010"
+      }
+    ]
+  }
+}

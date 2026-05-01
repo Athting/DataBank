@@ -1,0 +1,18 @@
+{
+  "Material": "BiSbTe1.5Se1.5",
+  "DOIs_Researched": [
+    "10.1016/B978-0-12-803581-8.11772-2"
+  ],
+  "Data_By_Temperature": {
+    "450.0": [
+      {
+        "Original_Name_In_Paper": "(BiSbTe1.5Se1.5)Agx alloy",
+        "Property": "ZT",
+        "Value": 0.63,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-12-803581-8.11772-2"
+      }
+    ]
+  }
+}

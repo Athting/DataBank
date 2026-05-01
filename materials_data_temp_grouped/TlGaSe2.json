@@ -1,0 +1,18 @@
+{
+  "Material": "TlGaSe2",
+  "DOIs_Researched": [
+    "10.1016/j.matchemphys.2009.08.034"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "TlGaSe2 crystals",
+        "Property": "Conductivity",
+        "Value": 0.0058000000000000005,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2009.08.034"
+      }
+    ]
+  }
+}

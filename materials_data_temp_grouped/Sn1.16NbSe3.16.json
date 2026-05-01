@@ -1,0 +1,18 @@
+{
+  "Material": "Sn1.16NbSe3.16",
+  "DOIs_Researched": [
+    "10.1039/c6ra20542a"
+  ],
+  "Data_By_Temperature": {
+    "760.0": [
+      {
+        "Original_Name_In_Paper": "pristine Sn1.16NbSe3.16",
+        "Property": "ThermCond",
+        "Value": 2.3,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra20542a"
+      }
+    ]
+  }
+}

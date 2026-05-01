@@ -1,0 +1,26 @@
+{
+  "Material": "Mg3Sb2-xSnx",
+  "DOIs_Researched": [
+    "10.1016/j.vacuum.2020.109388"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Mg3Sb2-xSnx",
+        "Property": "ZT",
+        "Value": 0.42,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.vacuum.2020.109388"
+      },
+      {
+        "Original_Name_In_Paper": "Mg3Sb2-xSnx",
+        "Property": "ZT",
+        "Value": 0.42,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.vacuum.2020.109388"
+      }
+    ]
+  }
+}

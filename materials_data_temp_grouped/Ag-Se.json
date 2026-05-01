@@ -1,0 +1,18 @@
+{
+  "Material": "Ag-Se",
+  "DOIs_Researched": [
+    "10.1016/S0022-3093(99)00261-6"
+  ],
+  "Data_By_Temperature": {
+    "1373.0": [
+      {
+        "Original_Name_In_Paper": "Ag\u2013Se alloys",
+        "Property": "Conductivity",
+        "Value": 44000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0022-3093(99)00261-6"
+      }
+    ]
+  }
+}

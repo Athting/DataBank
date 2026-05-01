@@ -1,0 +1,18 @@
+{
+  "Material": "Zn0.998Gd0.002Sb3",
+  "DOIs_Researched": [
+    "10.1039/c5ta01778e"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "(Zn0.998Gd0.002)4Sb3",
+        "Property": "Conductivity",
+        "Value": 53191.4893617021,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta01778e"
+      }
+    ]
+  }
+}

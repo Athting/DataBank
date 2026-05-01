@@ -1,0 +1,63 @@
+{
+  "doi": "10.1007/s40948-019-00134-z",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Mg3Sb1.48Bi0.48Te0.04",
+        "Mg3Sb1.48Bi048Te0.04"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Mg3Sb1.48Bi0.48Te0.04",
+          "value": 0.001414,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Mg3Sb1.48Bi0.48Te0.04",
+          "value": 0.0013900000000000002,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "525.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Mg3Sb1.48Bi0.48Te0.04",
+          "zt_value": 1.65,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Mg3Sb1.48Bi048Te0.04",
+          "zt_value": 1.65,
+          "temperature": "725.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "Material": "In2O3(ZnO)3",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2019.121022",
+    "10.1007/s11664-019-07521-y"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "In2O3(ZnO)3",
+        "Property": "ZT",
+        "Value": 0.24,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-019-07521-y"
+      },
+      {
+        "Original_Name_In_Paper": "In2O3(ZnO)3 bulk sample with 0.5 mol % Ga2O3",
+        "Property": "ZT",
+        "Value": 0.23,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2019.121022"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "DyNiSn",
+  "DOIs_Researched": [
+    "10.1016/j.physb.2017.10.054"
+  ],
+  "Data_By_Temperature": {
+    "480.0": [
+      {
+        "Original_Name_In_Paper": "bulk pure DyNiSn",
+        "Property": "Seebeck",
+        "Value": -5.5e-06,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2017.10.054"
+      }
+    ]
+  }
+}

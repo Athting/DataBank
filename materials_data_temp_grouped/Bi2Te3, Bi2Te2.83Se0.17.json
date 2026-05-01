@@ -1,0 +1,18 @@
+{
+  "Material": "Bi2Te3, Bi2Te2.83Se0.17",
+  "DOIs_Researched": [
+    "10.1016/j.ssc.2011.07.036"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Te3 / Bi2Te2.83Se0.17 superlattices",
+        "Property": "ThermCond",
+        "Value": 0.9450000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2011.07.036"
+      }
+    ]
+  }
+}

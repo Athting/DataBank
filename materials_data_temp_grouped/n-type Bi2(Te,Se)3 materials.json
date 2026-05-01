@@ -1,0 +1,18 @@
+{
+  "Material": "n-type Bi2(Te,Se)3 materials",
+  "DOIs_Researched": [
+    "10.1039/c8ta05261a"
+  ],
+  "Data_By_Temperature": {
+    "423.0": [
+      {
+        "Original_Name_In_Paper": "n-type Bi2(Te,Se)3 materials",
+        "Property": "ZT",
+        "Value": 1.18,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta05261a"
+      }
+    ]
+  }
+}

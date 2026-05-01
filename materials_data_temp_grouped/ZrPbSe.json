@@ -1,0 +1,18 @@
+{
+  "Material": "ZrPbSe",
+  "DOIs_Researched": [
+    "10.1016/j.mtphys.2018.06.004"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Zr0.005Pb0.995Se",
+        "Property": "Conductivity",
+        "Value": 400000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2018.06.004"
+      }
+    ]
+  }
+}

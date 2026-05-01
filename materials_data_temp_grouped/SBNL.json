@@ -1,0 +1,28 @@
+{
+  "Material": "SBNL",
+  "DOIs_Researched": [
+    "10.1016/j.matlet.2017.10.022"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "SBNL",
+        "Property": "ThermCond",
+        "Value": 0.91,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2017.10.022"
+      }
+    ],
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "SBNL",
+        "Property": "Conductivity",
+        "Value": 11.7647058824,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2017.10.022"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "CaMnO2.75",
+  "DOIs_Researched": [
+    "10.1039/c4ta01514b"
+  ],
+  "Data_By_Temperature": {
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "CaMnO2.75",
+        "Property": "Seebeck",
+        "Value": -0.00017,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta01514b"
+      }
+    ]
+  }
+}

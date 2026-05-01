@@ -1,0 +1,18 @@
+{
+  "Material": "TE element",
+  "DOIs_Researched": [
+    "10.1016/j.egypro.2017.12.119"
+  ],
+  "Data_By_Temperature": {
+    "1.0": [
+      {
+        "Original_Name_In_Paper": "TE element",
+        "Property": "ThermCond",
+        "Value": 21.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.egypro.2017.12.119"
+      }
+    ]
+  }
+}

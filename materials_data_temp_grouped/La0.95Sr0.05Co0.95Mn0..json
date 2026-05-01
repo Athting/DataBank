@@ -1,0 +1,34 @@
+{
+  "Material": "La0.95Sr0.05Co0.95Mn0.",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2017.11.334"
+  ],
+  "Data_By_Temperature": {
+    "480.0": [
+      {
+        "Original_Name_In_Paper": "La0.95Sr0.05Co0.95Mn0.05O3",
+        "Property": "ZT",
+        "Value": 0.14,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.11.334"
+      },
+      {
+        "Original_Name_In_Paper": "La0.95Sr0.05Co0.95Mn0.05O3",
+        "Property": "ZT",
+        "Value": 0.14,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.11.334"
+      },
+      {
+        "Original_Name_In_Paper": "La0.95Sr0.05Co0.95Mn0.05O3",
+        "Property": "ZT",
+        "Value": 0.14,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.11.334"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Na1.7Co2O4",
+  "DOIs_Researched": [
+    "10.1007/s10853-010-5039-6"
+  ],
+  "Data_By_Temperature": {
+    "955.0": [
+      {
+        "Original_Name_In_Paper": "Na1.7Co2O4 polycrystalline",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-010-5039-6"
+      }
+    ]
+  }
+}

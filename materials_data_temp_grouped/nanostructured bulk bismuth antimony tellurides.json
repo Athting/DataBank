@@ -1,0 +1,18 @@
+{
+  "Material": "nanostructured bulk bismuth antimony tellurides",
+  "DOIs_Researched": [
+    "10.1039/c3tc30152d"
+  ],
+  "Data_By_Temperature": {
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "nanostructured bulk bismuth antimony tellurides",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3tc30152d"
+      }
+    ]
+  }
+}

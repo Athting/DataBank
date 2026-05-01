@@ -1,0 +1,67 @@
+{
+  "Material": "Ge0.86Pb0.10Bi0.04Te",
+  "DOIs_Researched": [
+    "10.1016/j.mssp.2020.104955",
+    "10.1007/s10853-020-04949-0"
+  ],
+  "Data_By_Temperature": {
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "Ge0.86Pb0.10Bi0.04Te",
+        "Property": "ThermCond",
+        "Value": 0.77,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      },
+      {
+        "Original_Name_In_Paper": "Ge0.86Pb0.10Bi0.04Te",
+        "Property": "ThermCond",
+        "Value": 0.77,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2020.104955"
+      },
+      {
+        "Original_Name_In_Paper": "Ge0.86Pb0.10Bi0.04Te",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2020.104955"
+      },
+      {
+        "Original_Name_In_Paper": "Ge0.86Pb0.10Bi0.04Te",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2020.104955"
+      },
+      {
+        "Original_Name_In_Paper": "Ge0.86Pb0.10Bi0.04Te",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2020.104955"
+      },
+      {
+        "Original_Name_In_Paper": "Ge0.86Pb0.10Bi0.04Te",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      },
+      {
+        "Original_Name_In_Paper": "Ge0.86Pb0.10Bi0.04Te",
+        "Property": "PF",
+        "Value": 0.0029200000000000003,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      }
+    ]
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "Material": "FeSi2",
+  "DOIs_Researched": [
+    "10.1007/s12666-019-01743-8",
+    "10.1016/j.jallcom.2011.08.070",
+    "10.1016/j.jallcom.2016.12.253",
+    "10.1016/j.renene.2014.08.059",
+    "10.1016/S0966-9795(03)00020-7",
+    "10.1016/j.jallcom.2013.07.020",
+    "10.1016/j.jallcom.2006.08.045",
+    "10.1016/j.intermet.2015.07.015",
+    "10.1016/j.matpr.2020.09.158",
+    "10.1016/j.enconman.2016.01.065"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "\u03b2-FeSi2",
+        "Property": "ThermCond",
+        "Value": 6.54,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s12666-019-01743-8"
+      }
+    ],
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "non-doped \u03b2-FeSi2",
+        "Property": "ThermCond",
+        "Value": 3.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2006.08.045"
+      }
+    ],
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "\u03b2-FeSi2 doped with 20 % SiO2",
+        "Property": "ZT",
+        "Value": 0.18,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2011.08.070"
+      },
+      {
+        "Original_Name_In_Paper": "porous FeSi2",
+        "Property": "Conductivity",
+        "Value": 27900.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.12.253"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "\u03b2-FeSi2",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2015.07.015"
+      },
+      {
+        "Original_Name_In_Paper": "FeSi2",
+        "Property": "Seebeck",
+        "Value": 8e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.12.253"
+      }
+    ],
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "Sm2O3 and Er2O3 containing FeSi2",
+        "Property": "ZT",
+        "Value": 0.54,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.renene.2014.08.059"
+      },
+      {
+        "Original_Name_In_Paper": "FeSi2",
+        "Property": "ZT",
+        "Value": 0.19,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.enconman.2016.01.065"
+      }
+    ],
+    "370.0": [
+      {
+        "Original_Name_In_Paper": "\u03b2-FeSi2",
+        "Property": "Seebeck",
+        "Value": -0.0005329999999999999,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0966-9795(03)00020-7"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "\u03b2-FeSi2",
+        "Property": "Seebeck",
+        "Value": 0.00022,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.07.020"
+      }
+    ],
+    "880.0": [
+      {
+        "Original_Name_In_Paper": "n-type FeSi2",
+        "Property": "Seebeck",
+        "Value": -0.000225,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matpr.2020.09.158"
+      }
+    ],
+    "1050.0": [
+      {
+        "Original_Name_In_Paper": "\u03b2-FeSi2",
+        "Property": "PF",
+        "Value": 0.000126,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s12666-019-01743-8"
+      }
+    ]
+  }
+}

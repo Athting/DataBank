@@ -1,0 +1,98 @@
+{
+  "Material": "BCSO",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2017.11.104",
+    "10.1007/s40243-019-0163-y",
+    "10.1007/s11431-016-6049-7",
+    "10.1039/c2ee21274a",
+    "10.1016/j.jallcom.2018.04.307"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "BCSO",
+        "Property": "ThermCond",
+        "Value": 0.92,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.04.307"
+      }
+    ],
+    "665.0": [
+      {
+        "Original_Name_In_Paper": "BCSO",
+        "Property": "ZT",
+        "Value": 0.36,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.11.104"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "BCSO500",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2ee21274a"
+      },
+      {
+        "Original_Name_In_Paper": "BCSO500",
+        "Property": "PF",
+        "Value": 0.00043099999999999996,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2ee21274a"
+      }
+    ],
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "undoped BCSO",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s40243-019-0163-y"
+      }
+    ],
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "BCSO",
+        "Property": "Seebeck",
+        "Value": 0.00030000000000000003,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.11.104"
+      }
+    ],
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "pristine BCSO",
+        "Property": "Seebeck",
+        "Value": 0.000175,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s40243-019-0163-y"
+      },
+      {
+        "Original_Name_In_Paper": "BCSO",
+        "Property": "PF",
+        "Value": 0.00031,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.04.307"
+      }
+    ],
+    "303.0": [
+      {
+        "Original_Name_In_Paper": "BCSO",
+        "Property": "Conductivity",
+        "Value": 330.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11431-016-6049-7"
+      }
+    ]
+  }
+}

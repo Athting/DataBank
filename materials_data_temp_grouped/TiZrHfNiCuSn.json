@@ -1,0 +1,26 @@
+{
+  "Material": "TiZrHfNiCuSn",
+  "DOIs_Researched": [
+    "10.1039/c9ta10128d"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Ti0.5Zr0.25Hf0.25NiCu0.025Sn",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta10128d"
+      },
+      {
+        "Original_Name_In_Paper": "Ti0.5Zr0.25Hf0.25NiCu0.025Sn",
+        "Property": "PF",
+        "Value": 0.0036000000000000003,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta10128d"
+      }
+    ]
+  }
+}

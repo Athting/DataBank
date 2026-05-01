@@ -1,0 +1,53 @@
+{
+  "Material": "Ca3Co4-xMxO9+\u03b4",
+  "DOIs_Researched": [
+    "10.1016/j.enconman.2013.07.009",
+    "10.1007/s10854-013-1645-9",
+    "10.1007/s10832-014-9888-2",
+    "10.1016/j.ceramint.2013.11.040"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ca3Co4-xMxO9+\u03b4",
+        "Property": "ZT",
+        "Value": 0.026000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10832-014-9888-2"
+      },
+      {
+        "Original_Name_In_Paper": "Ca3Co4\u2212xMxO9+\u03b4",
+        "Property": "ZT",
+        "Value": 0.026000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2013.11.040"
+      },
+      {
+        "Original_Name_In_Paper": "Ca3Co4-xMxO9+\u03b4",
+        "Property": "ZT",
+        "Value": 0.026000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-013-1645-9"
+      },
+      {
+        "Original_Name_In_Paper": "Ca3Co4\u2212xMxO9+\u03b4",
+        "Property": "ZT",
+        "Value": 0.026000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.enconman.2013.07.009"
+      },
+      {
+        "Original_Name_In_Paper": "Ca3Co4\u2212xMxO9+\u03b4",
+        "Property": "PF",
+        "Value": 0.00019,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2013.11.040"
+      }
+    ]
+  }
+}

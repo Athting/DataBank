@@ -1,0 +1,18 @@
+{
+  "Material": "camphorsulfonic acid",
+  "DOIs_Researched": [
+    "10.1016/S0379-6779(00)00537-3"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "camphorsulfonic acid",
+        "Property": "Conductivity",
+        "Value": 20000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0379-6779(00)00537-3"
+      }
+    ]
+  }
+}

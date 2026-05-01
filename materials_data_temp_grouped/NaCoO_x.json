@@ -1,0 +1,82 @@
+{
+  "Material": "NaCoO_x",
+  "DOIs_Researched": [
+    "10.1016/j.physb.2010.11.043",
+    "10.1016/j.jallcom.2005.08.035",
+    "10.1038/s41598-020-66667-6",
+    "10.1016/j.commatsci.2010.04.013",
+    "10.1016/j.cap.2014.12.030"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "sodium cobalt oxide",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-020-66667-6"
+      },
+      {
+        "Original_Name_In_Paper": "sodium cobalt oxide",
+        "Property": "Seebeck",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-020-66667-6"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "sodium\u2013cobalt oxide",
+        "Property": "Conductivity",
+        "Value": 500000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": "In addition",
+        "Source_DOI": "10.1016/j.cap.2014.12.030"
+      },
+      {
+        "Original_Name_In_Paper": "sodium\u2013cobalt oxide",
+        "Property": "Seebeck",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": "In addition",
+        "Source_DOI": "10.1016/j.cap.2014.12.030"
+      },
+      {
+        "Original_Name_In_Paper": "sodium-cobalt oxide",
+        "Property": "Seebeck",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2010.11.043"
+      },
+      {
+        "Original_Name_In_Paper": "Sodium cobalt oxide",
+        "Property": "Seebeck",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2005.08.035"
+      },
+      {
+        "Original_Name_In_Paper": "sodium-cobalt oxide",
+        "Property": "Conductivity",
+        "Value": 20000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2010.11.043"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Sodium cobalt oxide",
+        "Property": "Seebeck",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2010.04.013"
+      }
+    ]
+  }
+}

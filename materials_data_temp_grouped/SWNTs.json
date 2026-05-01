@@ -1,0 +1,90 @@
+{
+  "Material": "SWNTs",
+  "DOIs_Researched": [
+    "10.1038/nmat4946",
+    "10.1016/j.orgel.2016.09.008",
+    "10.1038/srep07951"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "SWNTs",
+        "Property": "ThermCond",
+        "Value": 100.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/nmat4946"
+      }
+    ],
+    "440.0": [
+      {
+        "Original_Name_In_Paper": "SWNTs",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/srep07951"
+      }
+    ],
+    "320.0": [
+      {
+        "Original_Name_In_Paper": "SWNTs",
+        "Property": "Seebeck",
+        "Value": -4.18e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/srep07951"
+      },
+      {
+        "Original_Name_In_Paper": "SWNTs",
+        "Property": "Seebeck",
+        "Value": -4.18e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/srep07951"
+      },
+      {
+        "Original_Name_In_Paper": "SWNTs",
+        "Property": "PF",
+        "Value": 9.1e-06,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/srep07951"
+      },
+      {
+        "Original_Name_In_Paper": "SWNTs",
+        "Property": "Conductivity",
+        "Value": 450.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/srep07951"
+      },
+      {
+        "Original_Name_In_Paper": "SWNTs",
+        "Property": "Conductivity",
+        "Value": 43200.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/srep07951"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "SWNTs",
+        "Property": "PF",
+        "Value": 0.00016,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.orgel.2016.09.008"
+      },
+      {
+        "Original_Name_In_Paper": "SWNTs",
+        "Property": "Conductivity",
+        "Value": 10300.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.orgel.2016.09.008"
+      }
+    ]
+  }
+}

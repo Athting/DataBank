@@ -1,0 +1,46 @@
+{
+  "Material": "Nb-doped STO",
+  "DOIs_Researched": [
+    "10.1016/j.jeurceramsoc.2015.12.001",
+    "10.1039/c5tc02016f",
+    "10.1016/j.nanoen.2020.105195"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Nb-doped STO",
+        "Property": "ZT",
+        "Value": 0.37,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc02016f"
+      },
+      {
+        "Original_Name_In_Paper": "Nb-doped STO",
+        "Property": "PF",
+        "Value": 0.0015,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc02016f"
+      }
+    ],
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "Nb-doped STO",
+        "Property": "ZT",
+        "Value": 0.17,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2015.12.001"
+      },
+      {
+        "Original_Name_In_Paper": "Nb-doped STO",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.105195"
+      }
+    ]
+  }
+}

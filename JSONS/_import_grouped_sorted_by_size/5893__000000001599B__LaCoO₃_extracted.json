@@ -1,0 +1,71 @@
+{
+  "doi": "10.1016/j.actamat.2007.05.020",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "LaCo0.80Ni0.20O3",
+        "LaCo0.8Ti0.2O3",
+        "LaCo0.95Ni0.05O3",
+        "1 % Ti substituted LaCoO3"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "1 % Ti substituted LaCoO3",
+          "value": -0.0002,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "340.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "LaCo0.8Ti0.2O3",
+          "value": 0.91,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "580.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "LaCo0.80Ni0.20O3",
+          "zt_value": 0.022,
+          "temperature": "295 K"
+        },
+        {
+          "material": "LaCo0.80Ni0.20O3",
+          "zt_value": 0.022,
+          "temperature": "295 K"
+        },
+        {
+          "material": "LaCo0.95Ni0.05O3",
+          "zt_value": 0.07,
+          "temperature": "350.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

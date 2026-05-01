@@ -1,0 +1,36 @@
+{
+  "Material": "Tl0.02Pb0.98Te",
+  "DOIs_Researched": [
+    "10.1007/s11837-016-2060-5",
+    "10.1016/B978-0-12-409547-2.11642-7",
+    "10.1016/j.commatsci.2011.08.016"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "p-type Tl0.02Pb0.98Te",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-12-409547-2.11642-7"
+      },
+      {
+        "Original_Name_In_Paper": "Tl0.02Pb0.98Te",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2011.08.016"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Tl0.02Pb0.98Te",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11837-016-2060-5"
+      }
+    ]
+  }
+}

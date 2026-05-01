@@ -1,0 +1,18 @@
+{
+  "Material": "TiNiCoSn0.5Sb1.5",
+  "DOIs_Researched": [
+    "10.1016/j.scriptamat.2020.04.036"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Ti2NiCoSn0.5Sb1.5 alloy",
+        "Property": "ZT",
+        "Value": 0.294,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2020.04.036"
+      }
+    ]
+  }
+}

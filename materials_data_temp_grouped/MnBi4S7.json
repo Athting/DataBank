@@ -1,0 +1,18 @@
+{
+  "Material": "MnBi4S7",
+  "DOIs_Researched": [
+    "10.1016/j.cej.2020.125219"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "MnBi4S7",
+        "Property": "ZT",
+        "Value": 0.21,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cej.2020.125219"
+      }
+    ]
+  }
+}

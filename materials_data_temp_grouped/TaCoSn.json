@@ -1,0 +1,106 @@
+{
+  "Material": "TaCoSn",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2018.05.037",
+    "10.1016/j.rinp.2018.06.053",
+    "10.1016/j.commatsci.2018.12.039"
+  ],
+  "Data_By_Temperature": {
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "TaCoSn",
+        "Property": "ThermCond",
+        "Value": 56.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rinp.2018.06.053"
+      },
+      {
+        "Original_Name_In_Paper": "TaCoSn",
+        "Property": "ZT",
+        "Value": 0.73,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rinp.2018.06.053"
+      },
+      {
+        "Original_Name_In_Paper": "TaCoSn",
+        "Property": "ZT",
+        "Value": 0.731,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rinp.2018.06.053"
+      },
+      {
+        "Original_Name_In_Paper": "TaCoSn",
+        "Property": "ZT",
+        "Value": 1.107,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2018.12.039"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "TaCoSn",
+        "Property": "ThermCond",
+        "Value": 4.95,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rinp.2018.06.053"
+      },
+      {
+        "Original_Name_In_Paper": "TaCoSn",
+        "Property": "ThermCond",
+        "Value": 4.95,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rinp.2018.06.053"
+      },
+      {
+        "Original_Name_In_Paper": "TaCoSn",
+        "Property": "Conductivity",
+        "Value": 1051.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rinp.2018.06.053"
+      }
+    ],
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "TaCoSn",
+        "Property": "Seebeck",
+        "Value": 0.00024941,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rinp.2018.06.053"
+      }
+    ],
+    "820.0": [
+      {
+        "Original_Name_In_Paper": "TaCoSn",
+        "Property": "PF",
+        "Value": 0.001093,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.05.037"
+      },
+      {
+        "Original_Name_In_Paper": "TaCoSn",
+        "Property": "PF",
+        "Value": 0.001093,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.05.037"
+      },
+      {
+        "Original_Name_In_Paper": "TaCoSn",
+        "Property": "PF",
+        "Value": 0.001093,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.05.037"
+      }
+    ]
+  }
+}

@@ -1,0 +1,306 @@
+{
+  "doi": "10.1016/j.enconman.2015.07.015",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Bi0.4Sb1.6Te3",
+        "Bi0.4Sb1.6Te3 bulk material",
+        "Bi0.4Sb1.6Te3 nanocomposite",
+        "p-type Bi0.4Sb1.6Te3",
+        "Bi0.4Sb1.6Te3 nanocomposites",
+        "p-type Bi0.4Sb1.6Te3 bulk material",
+        "Bi04Sb16Te3",
+        "pristine Bi0.4Sb1.6Te3",
+        "Bi0.4Sb1.6Te3.0 ( 0.12 wt. % PbCl2",
+        "Bi0.4Sb1.6Te3 bulk material with 0.1 wt. % CNTs",
+        "Bi0.4Sb1.6Te3 bulk with 0.1wt % CNTs",
+        "Bi0.4Sb1.6Te3-40N",
+        "Bi0.4Sb1.6Te3 alloy",
+        "Bi0.4Sb1.6Te3 sample with 0.05 wt % graphene",
+        "Bi0.4Sb1.6Te3 with 0.05 wt % graphene",
+        "Bi0.4Sb1.6Te3 bulk with 0.05 wt % graphene",
+        "0.5 vol % Si / Bi0.4Sb1.6Te3",
+        "Bi0.4Sb1.6Te3 materials",
+        "p-type Bi0.4Sb1.6Te3 material",
+        "p-type Bi0.4Sb1.6Te3-8 mol % FeTe2",
+        "Bi0.4Sb1.6Te3-60N"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "Bi0.4Sb1.6Te3 bulk material",
+          "value": 0.00024000000000000003,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "0.5 vol % Si / Bi0.4Sb1.6Te3",
+          "value": 0.000225,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "423.0 K"
+        },
+        {
+          "material": "Bi0.4Sb1.6Te3-60N",
+          "value": 0.000248,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "370.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "Bi0.4Sb1.6Te3",
+          "value": 110000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "p-type Bi0.4Sb1.6Te3",
+          "value": 960000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Bi0.4Sb1.6Te3",
+          "value": 0.0039000000000000003,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi0.4Sb1.6Te3",
+          "value": 0.0043300000000000005,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "350.0 K"
+        },
+        {
+          "material": "Bi0.4Sb1.6Te3",
+          "value": 0.004,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Bi0.4Sb1.6Te3-60N",
+          "value": 0.0027,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "320.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Bi0.4Sb1.6Te3",
+          "zt_value": 1,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi0.4Sb1.6Te3",
+          "zt_value": 1.8,
+          "temperature": "316.0 K"
+        },
+        {
+          "material": "Bi0.4Sb1.6Te3 nanocomposite",
+          "zt_value": 1.8,
+          "temperature": "316.0 K"
+        },
+        {
+          "material": "p-type Bi0.4Sb1.6Te3",
+          "zt_value": 1.8,
+          "temperature": "316.0 K"
+        },
+        {
+          "material": "Bi0.4Sb1.6Te3 nanocomposites",
+          "zt_value": 1.8,
+          "temperature": "316.0 K"
+        },
+        {
+          "material": "p-type Bi0.4Sb1.6Te3 bulk material",
+          "zt_value": 1.1,
+          "temperature": "316.0 K"
+        },
+        {
+          "material": "Bi04Sb16Te3",
+          "zt_value": 1.8,
+          "temperature": "316.0 K"
+        },
+        {
+          "material": "Bi0.4Sb1.6Te3",
+          "zt_value": 1.12,
+          "temperature": "375.0 K"
+        },
+        {
+          "material": "Bi0.4Sb1.6Te3",
+          "zt_value": 1.12,
+          "temperature": "375.0 K"
+        },
+        {
+          "material": "Bi0.4Sb1.6Te3",
+          "zt_value": 1.24,
+          "temperature": "375.0 K"
+        },
+        {
+          "material": "pristine Bi0.4Sb1.6Te3",
+          "zt_value": 1.08,
+          "temperature": "367.0 K"
+        },
+        {
+          "material": "Bi0.4Sb1.6Te3.0 ( 0.12 wt. % PbCl2",
+          "zt_value": 1.5,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "Bi0.4Sb1.6Te3",
+          "zt_value": 1.15,
+          "temperature": "350.0 K"
+        },
+        {
+          "material": "Bi0.4Sb1.6Te3",
+          "zt_value": 1.38,
+          "temperature": "350.0 K"
+        },
+        {
+          "material": "Bi0.4Sb1.6Te3",
+          "zt_value": 1.15,
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "Bi0.4Sb1.6Te3 bulk material with 0.1 wt. % CNTs",
+          "zt_value": 1.42,
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "Bi0.4Sb1.6Te3 bulk with 0.1wt % CNTs",
+          "zt_value": 1.42,
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "Bi0.4Sb1.6Te3",
+          "zt_value": 1.4,
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "Bi0.4Sb1.6Te3-40N",
+          "zt_value": 1.05,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Bi0.4Sb1.6Te3",
+          "zt_value": 1.8,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Bi0.4Sb1.6Te3-40N",
+          "zt_value": 1,
+          "temperature": "400.0 K"
+        },
+        {
+          "material": "Bi0.4Sb1.6Te3",
+          "zt_value": 1.3599999999999999,
+          "temperature": "400.0 K"
+        },
+        {
+          "material": "Bi0.4Sb1.6Te3",
+          "zt_value": 1.3599999999999999,
+          "temperature": "400.0 K"
+        },
+        {
+          "material": "Bi0.4Sb1.6Te3 alloy",
+          "zt_value": 1.3599999999999999,
+          "temperature": "400.0 K"
+        },
+        {
+          "material": "Bi0.4Sb1.6Te3 sample with 0.05 wt % graphene",
+          "zt_value": 1.26,
+          "temperature": "423.0 K"
+        },
+        {
+          "material": "Bi0.4Sb1.6Te3 with 0.05 wt % graphene",
+          "zt_value": 1.26,
+          "temperature": "423.0 K"
+        },
+        {
+          "material": "Bi0.4Sb1.6Te3 bulk with 0.05 wt % graphene",
+          "zt_value": 1.26,
+          "temperature": "423.0 K"
+        },
+        {
+          "material": "pristine Bi0.4Sb1.6Te3",
+          "zt_value": 1.09,
+          "temperature": "423.0 K"
+        },
+        {
+          "material": "Bi0.4Sb1.6Te3",
+          "zt_value": 1.25,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "Bi0.4Sb1.6Te3",
+          "zt_value": 0.87,
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "Bi0.4Sb1.6Te3",
+          "zt_value": 1.54,
+          "temperature": "440.0 K"
+        },
+        {
+          "material": "Bi0.4Sb1.6Te3",
+          "zt_value": 1.26,
+          "temperature": "398.0 K"
+        },
+        {
+          "material": "Bi0.4Sb1.6Te3 materials",
+          "zt_value": 0.9,
+          "temperature": "398.0 K"
+        },
+        {
+          "material": "Bi0.4Sb1.6Te3",
+          "zt_value": 1.2,
+          "temperature": "360.0 K"
+        },
+        {
+          "material": "p-type Bi0.4Sb1.6Te3 material",
+          "zt_value": 1.2,
+          "temperature": "360.0 K"
+        },
+        {
+          "material": "Bi0.4Sb1.6Te3",
+          "zt_value": 0.96,
+          "temperature": "650.0 K"
+        },
+        {
+          "material": "Bi0.4Sb1.6Te3",
+          "zt_value": 1,
+          "temperature": "340.0 K"
+        },
+        {
+          "material": "p-type Bi0.4Sb1.6Te3-8 mol % FeTe2",
+          "zt_value": 1.52,
+          "temperature": "396.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

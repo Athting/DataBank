@@ -1,0 +1,18 @@
+{
+  "Material": "Bi1.95Ge0.05O2Se1.01",
+  "DOIs_Researched": [
+    "10.1007/s11664-017-5952-4"
+  ],
+  "Data_By_Temperature": {
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "Bi1.95Ge0.05O2Se1.01",
+        "Property": "ZT",
+        "Value": 0.25,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-017-5952-4"
+      }
+    ]
+  }
+}

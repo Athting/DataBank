@@ -1,0 +1,44 @@
+{
+  "Material": "Sn0.82Ag0.12Te0.06",
+  "DOIs_Researched": [
+    "10.1039/c9ta11614a"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Sn0.82In0.06Ag0.12Te",
+        "Property": "ThermCond",
+        "Value": 3.39,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta11614a"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.82In0.06Ag0.12Te",
+        "Property": "ThermCond",
+        "Value": 1.69,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta11614a"
+      }
+    ],
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.82In0.06Ag0.12Te",
+        "Property": "ThermCond",
+        "Value": 2.07,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta11614a"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.82In0.06Ag0.12Te",
+        "Property": "ThermCond",
+        "Value": 0.48,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta11614a"
+      }
+    ]
+  }
+}

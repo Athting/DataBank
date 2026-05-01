@@ -1,0 +1,35 @@
+{
+  "Material": "Mg2Si0.9Sn0.1",
+  "DOIs_Researched": [
+    "10.1039/c6ra04986a",
+    "10.1016/j.jallcom.2007.11.029"
+  ],
+  "Data_By_Temperature": {
+    "864.0": [
+      {
+        "Original_Name_In_Paper": "Al-doped Mg2Si0.9Sn0.1",
+        "Property": "ZT",
+        "Value": 0.68,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra04986a"
+      },
+      {
+        "Original_Name_In_Paper": "Al-doped Mg2Si0.9Sn0.1",
+        "Property": "ZT",
+        "Value": 0.68,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2007.11.029"
+      },
+      {
+        "Original_Name_In_Paper": "Al-doped Mg2Si0.9Sn0.1",
+        "Property": "ZT",
+        "Value": 0.68,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2007.11.029"
+      }
+    ]
+  }
+}

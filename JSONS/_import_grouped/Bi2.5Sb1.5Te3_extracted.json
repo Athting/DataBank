@@ -1,0 +1,55 @@
+{
+  "doi": "10.1016/j.applthermaleng.2020.115384",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "p-type (Bi0.25Sb0.75)2Te3",
+        "(Bi0.25Sb0.75)2Te3"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "p-type (Bi0.25Sb0.75)2Te3",
+          "zt_value": 1.19,
+          "temperature": "320.0 K"
+        },
+        {
+          "material": "(Bi0.25Sb0.75)2Te3",
+          "zt_value": 1.8599999999999999,
+          "temperature": "320.0 K"
+        },
+        {
+          "material": "(Bi0.25Sb0.75)2Te3",
+          "zt_value": 1.27,
+          "temperature": "298.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

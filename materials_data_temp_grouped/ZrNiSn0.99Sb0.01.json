@@ -1,0 +1,26 @@
+{
+  "Material": "ZrNiSn0.99Sb0.01",
+  "DOIs_Researched": [
+    "10.1038/srep06888"
+  ],
+  "Data_By_Temperature": {
+    "875.0": [
+      {
+        "Original_Name_In_Paper": "ZrNiSn0.99Sb0.01",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/srep06888"
+      },
+      {
+        "Original_Name_In_Paper": "ZrNiSn0.99Sb0.01",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/srep06888"
+      }
+    ]
+  }
+}

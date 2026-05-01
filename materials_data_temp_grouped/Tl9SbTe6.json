@@ -1,0 +1,29 @@
+{
+  "Material": "Tl9SbTe6",
+  "DOIs_Researched": [
+    "10.1557/PROC-0886-F08-03",
+    "10.1016/j.jallcom.2019.04.294"
+  ],
+  "Data_By_Temperature": {
+    "372.0": [
+      {
+        "Original_Name_In_Paper": "Tl9SbTe6",
+        "Property": "ThermCond",
+        "Value": 0.62,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.04.294"
+      }
+    ],
+    "591.0": [
+      {
+        "Original_Name_In_Paper": "Tl9SbTe6",
+        "Property": "ZT",
+        "Value": 0.42,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1557/PROC-0886-F08-03"
+      }
+    ]
+  }
+}

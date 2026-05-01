@@ -1,0 +1,18 @@
+{
+  "Material": "p-type Mg-based",
+  "DOIs_Researched": [
+    "10.1039/c7ta10415d"
+  ],
+  "Data_By_Temperature": {
+    "775.0": [
+      {
+        "Original_Name_In_Paper": "p-type Mg-based",
+        "Property": "ZT",
+        "Value": 1.45,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ta10415d"
+      }
+    ]
+  }
+}

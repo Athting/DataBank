@@ -1,0 +1,29 @@
+{
+  "Material": "quaternary chalcogenides",
+  "DOIs_Researched": [
+    "10.1016/j.materresbull.2012.08.026",
+    "10.1039/c9tc01994d"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "quaternary chalcogenides",
+        "Property": "ZT",
+        "Value": 0.43,
+        "Units": null,
+        "Editing": "introducing 2 % of Te",
+        "Source_DOI": "10.1039/c9tc01994d"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "quaternary chalcogenides",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2012.08.026"
+      }
+    ]
+  }
+}

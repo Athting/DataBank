@@ -1,0 +1,133 @@
+{
+  "Material": "CdS",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2012.01.056",
+    "10.1016/j.tsf.2017.02.025",
+    "10.1016/j.jallcom.2017.02.097",
+    "10.1016/j.jallcom.2009.12.044",
+    "10.1016/j.physe.2007.08.145",
+    "10.1016/S0925-8388(09)00895-0",
+    "10.1039/c6qi00263c",
+    "10.1016/j.ijleo.2020.164567",
+    "10.1016/j.mseb.2018.12.006",
+    "10.1039/c5cp07620j"
+  ],
+  "Data_By_Temperature": {
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "CdS",
+        "Property": "ThermCond",
+        "Value": 0.58,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5cp07620j"
+      }
+    ],
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "CdS",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6qi00263c"
+      },
+      {
+        "Original_Name_In_Paper": "CdS",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": "alloying with CdS",
+        "Source_DOI": "10.1039/c5cp07620j"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "CdS",
+        "Property": "ZT",
+        "Value": 0.728,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ijleo.2020.164567"
+      },
+      {
+        "Original_Name_In_Paper": "CdS film",
+        "Property": "Conductivity",
+        "Value": 12.6742712294,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2017.02.025"
+      },
+      {
+        "Original_Name_In_Paper": "CdS",
+        "Property": "Conductivity",
+        "Value": 6.329110000000001e-05,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.12.044"
+      },
+      {
+        "Original_Name_In_Paper": "un-doped CdS",
+        "Property": "Seebeck",
+        "Value": 0.00025,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.02.097"
+      },
+      {
+        "Original_Name_In_Paper": "CdS nanoparticles",
+        "Property": "Conductivity",
+        "Value": 0.00015000000000000001,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2012.01.056"
+      },
+      {
+        "Original_Name_In_Paper": "CdS",
+        "Property": "Conductivity",
+        "Value": 0.0001,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2012.01.056"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "CdS nanocrystals",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": "MgO doping",
+        "Source_DOI": "10.1016/S0925-8388(09)00895-0"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "CdS",
+        "Property": "Conductivity",
+        "Value": 2.8571e-06,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physe.2007.08.145"
+      },
+      {
+        "Original_Name_In_Paper": "CdS",
+        "Property": "Conductivity",
+        "Value": 6.6667e-06,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physe.2007.08.145"
+      }
+    ],
+    "200.0": [
+      {
+        "Original_Name_In_Paper": "un-doped CdS",
+        "Property": "Seebeck",
+        "Value": 0.00024000000000000003,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mseb.2018.12.006"
+      }
+    ]
+  }
+}

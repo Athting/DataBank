@@ -1,0 +1,26 @@
+{
+  "Material": "Cu3Sb0.94Pb0.06Se4",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2019.07.292"
+  ],
+  "Data_By_Temperature": {
+    "623.0": [
+      {
+        "Original_Name_In_Paper": "Cu3Sb0.94Pb0.06Se4",
+        "Property": "ThermCond",
+        "Value": 0.596,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.07.292"
+      },
+      {
+        "Original_Name_In_Paper": "Cu3Sb0.94Pb0.06Se4",
+        "Property": "ZT",
+        "Value": 0.52,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.07.292"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Material": "TiFeSb",
+  "DOIs_Researched": [
+    "10.1039/c7dt03787b"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "TiFe1.33Sb",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7dt03787b"
+      },
+      {
+        "Original_Name_In_Paper": "TiFe1.33Sb",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7dt03787b"
+      }
+    ]
+  }
+}

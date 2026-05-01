@@ -1,0 +1,18 @@
+{
+  "Material": "La2O3",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2013.07.052"
+  ],
+  "Data_By_Temperature": {
+    "1023.0": [
+      {
+        "Original_Name_In_Paper": "0.5 mol % La2O3",
+        "Property": "PF",
+        "Value": 3.35e-06,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.07.052"
+      }
+    ]
+  }
+}

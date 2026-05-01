@@ -1,0 +1,18 @@
+{
+  "Material": "CuFeAsSbS13",
+  "DOIs_Researched": [
+    "10.1016/j.ensm.2016.01.009"
+  ],
+  "Data_By_Temperature": {
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "Cu10.5Fe1.5As3.6Sb0.4S13",
+        "Property": "Conductivity",
+        "Value": 100.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ensm.2016.01.009"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "In0.1Co4Sb12",
+  "DOIs_Researched": [
+    "10.1016/j.physb.2012.09.035"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "In0.1Co4Sb12",
+        "Property": "Conductivity",
+        "Value": 28000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2012.09.035"
+      }
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "doi": "10.1039/c5tc02263k",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Bi2Te1.9Se1.1 alloy",
+        "Bi2Te1.9Se1.1 materials",
+        "Bi2Te1.9Se1.1 material",
+        "Bi2Te1.9Se1.1"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Bi2Te1.9Se1.1 alloy",
+          "zt_value": 1.1,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "Bi2Te1.9Se1.1 materials",
+          "zt_value": 1.1,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "Bi2Te1.9Se1.1 alloy",
+          "zt_value": 0.1,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "Bi2Te1.9Se1.1 material",
+          "zt_value": 1.1,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "Bi2Te1.9Se1.1",
+          "zt_value": 0.9,
+          "temperature": "510.0 K"
+        },
+        {
+          "material": "Bi2Te1.9Se1.1",
+          "zt_value": 0.9500000000000001,
+          "temperature": "580.0 K"
+        },
+        {
+          "material": "Bi2Te1.9Se1.1",
+          "zt_value": 1.1,
+          "temperature": "590.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

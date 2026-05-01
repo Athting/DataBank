@@ -1,0 +1,34 @@
+{
+  "Material": "Mg2Si0.3875Sn0.6Sb0.01",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2015.04.059"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Si0.3875Sn0.6Sb0.0125 polycrystalline material",
+        "Property": "ZT",
+        "Value": 0.85,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2015.04.059"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si0.3875Sn0.6Sb0.0125 polycrystalline material",
+        "Property": "ZT",
+        "Value": 0.85,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2015.04.059"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si0.3875Sn0.6Sb0.0125 polycrystalline material",
+        "Property": "ZT",
+        "Value": 0.85,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2015.04.059"
+      }
+    ]
+  }
+}

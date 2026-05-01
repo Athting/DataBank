@@ -1,0 +1,35 @@
+{
+  "Material": "SAu",
+  "DOIs_Researched": [
+    "10.1038/s41598-020-70268-8",
+    "10.1016/j.apsusc.2014.12.137"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "SAu",
+        "Property": "Seebeck",
+        "Value": 1.94e-06,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2014.12.137"
+      },
+      {
+        "Original_Name_In_Paper": "SAu",
+        "Property": "Seebeck",
+        "Value": 7.899999999999999e-06,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-020-70268-8"
+      },
+      {
+        "Original_Name_In_Paper": "SAu",
+        "Property": "Seebeck",
+        "Value": 1.9e-06,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-020-70268-8"
+      }
+    ]
+  }
+}

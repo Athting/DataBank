@@ -1,0 +1,34 @@
+{
+  "Material": "PANI / SWCNT ( 65 wt % ) composite films",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2020.105186"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "PANI / SWCNT ( 65 wt % ) composite films",
+        "Property": "Seebeck",
+        "Value": 3.9e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.105186"
+      },
+      {
+        "Original_Name_In_Paper": "PANI / SWCNT ( 65 wt % ) composite films",
+        "Property": "PF",
+        "Value": 0.000217,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.105186"
+      },
+      {
+        "Original_Name_In_Paper": "PANI / SWCNT ( 65 wt % ) composite films",
+        "Property": "Conductivity",
+        "Value": 144000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.105186"
+      }
+    ]
+  }
+}

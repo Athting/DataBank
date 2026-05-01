@@ -1,0 +1,76 @@
+{
+  "Material": "Ca5In2Sb6",
+  "DOIs_Researched": [
+    "10.1039/c5ta01967b",
+    "10.1039/c3dt50428j",
+    "10.1039/c5cp00972c"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "Zn-doped Ca5In2Sb6",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3dt50428j"
+      }
+    ],
+    "950.0": [
+      {
+        "Original_Name_In_Paper": "Zn-doped Ca5In2Sb6",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3dt50428j"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Ca5In2Sb6",
+        "Property": "ZT",
+        "Value": 1.26,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta01967b"
+      }
+    ],
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "crystalline Pb-doped Ca5In2Sb6",
+        "Property": "ZT",
+        "Value": 2.46,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5cp00972c"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Ca5In2Sb6",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5cp00972c"
+      },
+      {
+        "Original_Name_In_Paper": "n-type Ca5In2Sb6",
+        "Property": "ZT",
+        "Value": 0.49,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5cp00972c"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "n-type Ca5In2Sb6",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5cp00972c"
+      }
+    ]
+  }
+}

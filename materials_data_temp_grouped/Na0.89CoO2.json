@@ -1,0 +1,18 @@
+{
+  "Material": "Na0.89CoO2",
+  "DOIs_Researched": [
+    "10.1134/S0020168516030079"
+  ],
+  "Data_By_Temperature": {
+    "1100.0": [
+      {
+        "Original_Name_In_Paper": "Na0.89CoO2",
+        "Property": "ZT",
+        "Value": 0.8290000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1134/S0020168516030079"
+      }
+    ]
+  }
+}

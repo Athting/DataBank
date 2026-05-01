@@ -1,0 +1,37 @@
+{
+  "Material": "Pb9.6Sb0.2Te10-xSe",
+  "DOIs_Researched": [
+    "10.1007/s12648-020-01849-6",
+    "10.1016/j.mser.2009.10.001"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Pb9.6Sb0.2Te10-xSex",
+        "Property": "ThermCond",
+        "Value": 0.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s12648-020-01849-6"
+      }
+    ],
+    "620.0": [
+      {
+        "Original_Name_In_Paper": "Pb9.6Sb0.2Te10\u2212xSex bulk materials",
+        "Property": "ThermCond",
+        "Value": 0.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mser.2009.10.001"
+      },
+      {
+        "Original_Name_In_Paper": "Pb9.6Sb0.2Te10\u2212xSex bulk materials",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mser.2009.10.001"
+      }
+    ]
+  }
+}

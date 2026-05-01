@@ -1,0 +1,37 @@
+{
+  "Material": "Cu2.95SbSe4",
+  "DOIs_Researched": [
+    "10.1007/s11664-014-3018-4",
+    "10.1016/j.matlet.2016.10.011"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "undoped Cu2.95SbSe4",
+        "Property": "ThermCond",
+        "Value": 2.98,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2016.10.011"
+      }
+    ],
+    "523.0": [
+      {
+        "Original_Name_In_Paper": "Cu2.95SbSe4",
+        "Property": "Seebeck",
+        "Value": 0.00030000000000000003,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-014-3018-4"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2.95SbSe4",
+        "Property": "PF",
+        "Value": 0.0008900000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-014-3018-4"
+      }
+    ]
+  }
+}

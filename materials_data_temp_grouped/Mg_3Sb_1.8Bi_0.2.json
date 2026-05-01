@@ -1,0 +1,18 @@
+{
+  "Material": "Mg_3Sb_1.8Bi_0.2",
+  "DOIs_Researched": [
+    "10.1039/c3ra40457a"
+  ],
+  "Data_By_Temperature": {
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "Mg3Sb1.8Bi0.2 alloy",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ra40457a"
+      }
+    ]
+  }
+}

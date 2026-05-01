@@ -1,0 +1,18 @@
+{
+  "Material": "LiNiO2",
+  "DOIs_Researched": [
+    "10.1016/S0167-2738(98)00477-9"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "LiNiO2",
+        "Property": "Conductivity",
+        "Value": 10.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0167-2738(98)00477-9"
+      }
+    ]
+  }
+}

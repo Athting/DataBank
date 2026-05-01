@@ -1,0 +1,18 @@
+{
+  "Material": "Ba8Al16GaxSi30-2xPx",
+  "DOIs_Researched": [
+    "10.1007/s11664-016-5219-5"
+  ],
+  "Data_By_Temperature": {
+    "320.0": [
+      {
+        "Original_Name_In_Paper": "Ba8Al16GaxSi30-2xPx",
+        "Property": "Seebeck",
+        "Value": -6.7e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-016-5219-5"
+      }
+    ]
+  }
+}

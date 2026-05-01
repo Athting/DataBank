@@ -1,0 +1,18 @@
+{
+  "Material": "C61H61O8",
+  "DOIs_Researched": [
+    "10.1038/srep12763"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "phenyl-C61-butyric acid methyl ester",
+        "Property": "ThermCond",
+        "Value": 0.03,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/srep12763"
+      }
+    ]
+  }
+}

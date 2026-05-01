@@ -1,0 +1,27 @@
+{
+  "Material": "Y0.25Bi1.75Te3",
+  "DOIs_Researched": [
+    "10.1007/s11664-014-3220-4",
+    "10.1007/s10853-020-04949-0"
+  ],
+  "Data_By_Temperature": {
+    "410.0": [
+      {
+        "Original_Name_In_Paper": "n-type Y0.25Bi1.75Te3 alloy",
+        "Property": "ZT",
+        "Value": 1.23,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-014-3220-4"
+      },
+      {
+        "Original_Name_In_Paper": "Y0.25Bi1.75Te3 alloy",
+        "Property": "ZT",
+        "Value": 1.23,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      }
+    ]
+  }
+}

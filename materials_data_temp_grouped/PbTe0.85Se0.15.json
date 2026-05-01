@@ -1,0 +1,29 @@
+{
+  "Material": "PbTe0.85Se0.15",
+  "DOIs_Researched": [
+    "10.1016/j.mser.2018.09.001",
+    "10.1007/s10853-019-03502-y"
+  ],
+  "Data_By_Temperature": {
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "PbTe0.85Se0.15\u20132 % Na\u20134 % SrTe",
+        "Property": "ZT",
+        "Value": 2.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-019-03502-y"
+      }
+    ],
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "Na-doped PbTe0.85Se0.15",
+        "Property": "ZT",
+        "Value": 1.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mser.2018.09.001"
+      }
+    ]
+  }
+}

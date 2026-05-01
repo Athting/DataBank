@@ -1,0 +1,26 @@
+{
+  "Material": "BaCoSb12+x",
+  "DOIs_Researched": [
+    "10.1039/c2jm31677c"
+  ],
+  "Data_By_Temperature": {
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "Ba0.30GaxCo4Sb12+x",
+        "Property": "ZT",
+        "Value": 1.35,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2jm31677c"
+      },
+      {
+        "Original_Name_In_Paper": "Ba0.30GaxCo4Sb12+x",
+        "Property": "ZT",
+        "Value": 1.35,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2jm31677c"
+      }
+    ]
+  }
+}

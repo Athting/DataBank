@@ -1,0 +1,28 @@
+{
+  "Material": "Pr2CuO4",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2011.01.035"
+  ],
+  "Data_By_Temperature": {
+    "298.0": [
+      {
+        "Original_Name_In_Paper": "Pr2CuO4",
+        "Property": "Conductivity",
+        "Value": 10.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2011.01.035"
+      }
+    ],
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "Pr2CuO4",
+        "Property": "Conductivity",
+        "Value": 1000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2011.01.035"
+      }
+    ]
+  }
+}

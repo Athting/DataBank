@@ -1,0 +1,44 @@
+{
+  "Material": "La0.88Sr0.12FeO3",
+  "DOIs_Researched": [
+    "10.1016/j.cap.2009.10.009"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "La0.88Sr0.12FeO3",
+        "Property": "ZT",
+        "Value": 0.031,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2009.10.009"
+      },
+      {
+        "Original_Name_In_Paper": "La0.88Sr0.12FeO3",
+        "Property": "ZT",
+        "Value": 0.031,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2009.10.009"
+      }
+    ],
+    "892.0": [
+      {
+        "Original_Name_In_Paper": "La0.88Sr0.12FeO3",
+        "Property": "PF",
+        "Value": 0.000147,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2009.10.009"
+      },
+      {
+        "Original_Name_In_Paper": "La0.88Sr0.12FeO3",
+        "Property": "PF",
+        "Value": 0.000147,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2009.10.009"
+      }
+    ]
+  }
+}

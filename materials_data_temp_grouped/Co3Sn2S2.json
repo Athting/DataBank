@@ -1,0 +1,36 @@
+{
+  "Material": "Co3Sn2S2",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2017.04.028",
+    "10.1016/j.solidstatesciences.2008.06.017",
+    "10.1016/j.ssc.2014.09.006"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Co3Sn2S2",
+        "Property": "Seebeck",
+        "Value": 5e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2014.09.006"
+      },
+      {
+        "Original_Name_In_Paper": "Co3Sn2S2",
+        "Property": "Seebeck",
+        "Value": -4.8e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2017.04.028"
+      },
+      {
+        "Original_Name_In_Paper": "Co3Sn2S2",
+        "Property": "PF",
+        "Value": 0.0005300000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2008.06.017"
+      }
+    ]
+  }
+}

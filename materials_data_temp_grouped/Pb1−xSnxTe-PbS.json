@@ -1,0 +1,18 @@
+{
+  "Material": "Pb1\u2212xSnxTe-PbS",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2012.09.037"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Pb1\u2212xSnxTe-PbS",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2012.09.037"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Material": "Ti0.5Zr0.25Hf0.25CoSb",
+  "DOIs_Researched": [
+    "10.1016/j.progsolidstchem.2011.02.001"
+  ],
+  "Data_By_Temperature": {
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "doped Ti0.5Zr0.25Hf0.25CoSb",
+        "Property": "ThermCond",
+        "Value": 2.29,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": "In addition",
+        "Source_DOI": "10.1016/j.progsolidstchem.2011.02.001"
+      },
+      {
+        "Original_Name_In_Paper": "doped Ti0.5Zr0.25Hf0.25CoSb",
+        "Property": "ZT",
+        "Value": 0.51,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.progsolidstchem.2011.02.001"
+      }
+    ]
+  }
+}

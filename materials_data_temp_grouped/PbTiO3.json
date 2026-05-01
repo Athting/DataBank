@@ -1,0 +1,18 @@
+{
+  "Material": "PbTiO3",
+  "DOIs_Researched": [
+    "10.1016/j.mtphys.2018.11.008"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "PbTiO3",
+        "Property": "ThermCond",
+        "Value": 15.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2018.11.008"
+      }
+    ]
+  }
+}

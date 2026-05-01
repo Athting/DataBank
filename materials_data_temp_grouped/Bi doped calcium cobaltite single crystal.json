@@ -1,0 +1,18 @@
+{
+  "Material": "Bi doped calcium cobaltite single crystal",
+  "DOIs_Researched": [
+    "10.1016/j.jeurceramsoc.2015.10.042"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "Bi doped calcium cobaltite single crystal",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2015.10.042"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "Material": "NbCoSb0.8Sn0.2",
+  "DOIs_Researched": [
+    "10.1039/c7cp04801g"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "NbCoSb0.8Sn0.2",
+        "Property": "ThermCond",
+        "Value": 0.63,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cp04801g"
+      }
+    ],
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "NbCoSb0.8Sn0.2",
+        "Property": "Seebeck",
+        "Value": 0.00019099999999999998,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cp04801g"
+      }
+    ]
+  }
+}

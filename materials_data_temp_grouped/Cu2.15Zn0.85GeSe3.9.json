@@ -1,0 +1,27 @@
+{
+  "Material": "Cu2.15Zn0.85GeSe3.9",
+  "DOIs_Researched": [
+    "10.1016/j.intermet.2016.01.004",
+    "10.1016/j.intermet.2014.10.015"
+  ],
+  "Data_By_Temperature": {
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "Cu2.15Zn0.85GeSe3.9",
+        "Property": "ZT",
+        "Value": 0.55,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2014.10.015"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2.15Zn0.85GeSe3.9",
+        "Property": "ZT",
+        "Value": 0.55,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2016.01.004"
+      }
+    ]
+  }
+}

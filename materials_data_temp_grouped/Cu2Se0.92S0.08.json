@@ -1,0 +1,27 @@
+{
+  "Material": "Cu2Se0.92S0.08",
+  "DOIs_Researched": [
+    "10.1016/j.jmat.2018.07.001",
+    "10.1016/j.nantod.2020.100938"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "Cu2Se0.92S0.08",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nantod.2020.100938"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2Se0.92S0.08",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2018.07.001"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "Material": "Ca2.7Gd0.15Y0.15Co4O9+",
+  "DOIs_Researched": [
+    "10.1016/j.cap.2008.03.010",
+    "10.1016/j.jmst.2020.02.034"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "Ca2.7Gd0.15Y0.15Co4O9+\u03b4",
+        "Property": "ZT",
+        "Value": 0.26,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2008.03.010"
+      }
+    ],
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "Ca2.7Gd0.15 Y0.15Co4O9+\u03b4",
+        "Property": "Seebeck",
+        "Value": 0.00018,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2008.03.010"
+      },
+      {
+        "Original_Name_In_Paper": "Ca2.7Gd0.15Y0.15Co4O9+\u03b4",
+        "Property": "Seebeck",
+        "Value": 0.00018,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmst.2020.02.034"
+      }
+    ]
+  }
+}

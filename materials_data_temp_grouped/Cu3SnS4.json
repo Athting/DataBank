@@ -1,0 +1,37 @@
+{
+  "Material": "Cu3SnS4",
+  "DOIs_Researched": [
+    "10.1039/c7ta05253g",
+    "10.1039/c2jm31669b"
+  ],
+  "Data_By_Temperature": {
+    "790.0": [
+      {
+        "Original_Name_In_Paper": "Cu3SnS4",
+        "Property": "ThermCond",
+        "Value": 0.39,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ta05253g"
+      },
+      {
+        "Original_Name_In_Paper": "Cu3SnS4",
+        "Property": "ZT",
+        "Value": 0.75,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ta05253g"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "tetragonal Cu3SnS4",
+        "Property": "Conductivity",
+        "Value": 400.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2jm31669b"
+      }
+    ]
+  }
+}

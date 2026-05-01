@@ -1,0 +1,90 @@
+{
+  "Material": "PbTe0.7S0.3",
+  "DOIs_Researched": [
+    "10.1038/ncomms5515",
+    "10.1016/j.physleta.2019.126044",
+    "10.1038/srep24123"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "doped PbTe0.7S0.3",
+        "Property": "ThermCond",
+        "Value": 0.64,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/ncomms5515"
+      }
+    ],
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "doped PbTe0.7S0.3",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/ncomms5515"
+      },
+      {
+        "Original_Name_In_Paper": "doped PbTe0.7S0.3",
+        "Property": "ZT",
+        "Value": 2.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/ncomms5515"
+      },
+      {
+        "Original_Name_In_Paper": "doped PbTe0.7S0.3",
+        "Property": "ZT",
+        "Value": 2.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/ncomms5515"
+      },
+      {
+        "Original_Name_In_Paper": "doped PbTe0.7S0.3",
+        "Property": "ZT",
+        "Value": 2.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/ncomms5515"
+      }
+    ],
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "doped PbTe0.7S0.3",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/ncomms5515"
+      },
+      {
+        "Original_Name_In_Paper": "doped PbTe0.7S0.3",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/ncomms5515"
+      },
+      {
+        "Original_Name_In_Paper": "doped PbTe0.7S0.3",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physleta.2019.126044"
+      }
+    ],
+    "550.0": [
+      {
+        "Original_Name_In_Paper": "doped PbTe0.7S0.3 bulk materials",
+        "Property": "ZT",
+        "Value": 1.56,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/srep24123"
+      }
+    ]
+  }
+}

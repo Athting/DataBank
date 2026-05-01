@@ -1,0 +1,44 @@
+{
+  "Material": "SnTe + AgBiSe2",
+  "DOIs_Researched": [
+    "10.1016/j.cej.2020.124585"
+  ],
+  "Data_By_Temperature": {
+    "860.0": [
+      {
+        "Original_Name_In_Paper": "SnTe + 5 % AgBiSe2",
+        "Property": "ZT",
+        "Value": 1.02,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cej.2020.124585"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe + 5 % AgBiSe2",
+        "Property": "ZT",
+        "Value": 1.02,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cej.2020.124585"
+      },
+      {
+        "Original_Name_In_Paper": "SnTe + 5 % AgBiSe2",
+        "Property": "PF",
+        "Value": 0.00221,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cej.2020.124585"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "SnTe + 7 % AgBiSe2",
+        "Property": "PF",
+        "Value": 0.000676,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cej.2020.124585"
+      }
+    ]
+  }
+}

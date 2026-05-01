@@ -1,0 +1,18 @@
+{
+  "Material": "CoFeSnS_{2}",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2017.04.028"
+  ],
+  "Data_By_Temperature": {
+    "350.0": [
+      {
+        "Original_Name_In_Paper": "Co2.5Fe0.5Sn2S2",
+        "Property": "ZT",
+        "Value": 0.11,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2017.04.028"
+      }
+    ]
+  }
+}

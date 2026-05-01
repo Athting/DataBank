@@ -1,0 +1,18 @@
+{
+  "Material": "AgSb1-xNxTe2",
+  "DOIs_Researched": [
+    "10.1007/s40948-019-00134-z"
+  ],
+  "Data_By_Temperature": {
+    "585.0": [
+      {
+        "Original_Name_In_Paper": "Zn-doped p-type AgSb1-xZnxTe2",
+        "Property": "ZT",
+        "Value": 0.06,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s40948-019-00134-z"
+      }
+    ]
+  }
+}

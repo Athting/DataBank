@@ -1,0 +1,68 @@
+{
+  "Material": "AgIn5Te8",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2013.03.037"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "AgIn5Te8",
+        "Property": "ThermCond",
+        "Value": 1.1,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.03.037"
+      },
+      {
+        "Original_Name_In_Paper": "AgIn5Te8",
+        "Property": "ThermCond",
+        "Value": 1.1,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.03.037"
+      }
+    ],
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "AgIn5Te8",
+        "Property": "ThermCond",
+        "Value": 0.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.03.037"
+      },
+      {
+        "Original_Name_In_Paper": "AgIn5Te8",
+        "Property": "ThermCond",
+        "Value": 0.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.03.037"
+      },
+      {
+        "Original_Name_In_Paper": "AgIn5Te8",
+        "Property": "ThermCond",
+        "Value": 0.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.03.037"
+      },
+      {
+        "Original_Name_In_Paper": "AgIn5Te8",
+        "Property": "ThermCond",
+        "Value": 0.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.03.037"
+      },
+      {
+        "Original_Name_In_Paper": "AgIn5Te8",
+        "Property": "ZT",
+        "Value": 0.07,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.03.037"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "In3.9Gd0.10Se3",
+  "DOIs_Researched": [
+    "10.1007/s11837-014-1148-z"
+  ],
+  "Data_By_Temperature": {
+    "702.0": [
+      {
+        "Original_Name_In_Paper": "In3.9Gd0.10Se3",
+        "Property": "ZT",
+        "Value": 0.62,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11837-014-1148-z"
+      }
+    ]
+  }
+}

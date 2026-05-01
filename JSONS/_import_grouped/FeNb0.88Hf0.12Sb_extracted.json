@@ -1,0 +1,75 @@
+{
+  "doi": "10.1016/j.jallcom.2017.12.205",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "p-type FeNb0.88Hf0.12Sb",
+        "FeNb0.88Hf0.12Sb"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "p-type FeNb0.88Hf0.12Sb",
+          "zt_value": 1.5,
+          "temperature": "1200.0 K"
+        },
+        {
+          "material": "p-type FeNb0.88Hf0.12Sb",
+          "zt_value": 1.5,
+          "temperature": "1200.0 K"
+        },
+        {
+          "material": "p-type FeNb0.88Hf0.12Sb",
+          "zt_value": 1.5,
+          "temperature": "1200.0 K"
+        },
+        {
+          "material": "FeNb0.88Hf0.12Sb",
+          "zt_value": 1.5,
+          "temperature": "1200.0 K"
+        },
+        {
+          "material": "FeNb0.88Hf0.12Sb",
+          "zt_value": 1,
+          "temperature": "1200.0 K"
+        },
+        {
+          "material": "FeNb0.88Hf0.12Sb",
+          "zt_value": 1,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "FeNb0.88Hf0.12Sb",
+          "zt_value": 0.8,
+          "temperature": "500.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

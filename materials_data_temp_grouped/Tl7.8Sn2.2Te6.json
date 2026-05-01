@@ -1,0 +1,48 @@
+{
+  "Material": "Tl7.8Sn2.2Te6",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2011.03.182"
+  ],
+  "Data_By_Temperature": {
+    "316.0": [
+      {
+        "Original_Name_In_Paper": "Tl7.8Sn2.2Te6",
+        "Property": "ZT",
+        "Value": 0.12,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2011.03.182"
+      }
+    ],
+    "617.0": [
+      {
+        "Original_Name_In_Paper": "Tl7.8Sn2.2Te6",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2011.03.182"
+      }
+    ],
+    "526.0": [
+      {
+        "Original_Name_In_Paper": "Tl7.8Sn2.2Te6",
+        "Property": "Conductivity",
+        "Value": 12100.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2011.03.182"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Tl7.8Sn2.2Te6",
+        "Property": "Conductivity",
+        "Value": 25000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2011.03.182"
+      }
+    ]
+  }
+}

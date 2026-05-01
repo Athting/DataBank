@@ -1,0 +1,44 @@
+{
+  "Material": "Te0.985Sb0.015Se2",
+  "DOIs_Researched": [
+    "10.1039/d0ta04830e"
+  ],
+  "Data_By_Temperature": {
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "Te0.985Sb0.015\u20134 % SmSe2",
+        "Property": "ThermCond",
+        "Value": 0.55,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta04830e"
+      },
+      {
+        "Original_Name_In_Paper": "Te0.985Sb0.015\u20132 % SmSe2",
+        "Property": "ZT",
+        "Value": 1.06,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta04830e"
+      },
+      {
+        "Original_Name_In_Paper": "Te0.985Sb0.015\u20132 % SmSe2",
+        "Property": "ZT",
+        "Value": 1.06,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta04830e"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Te0.985Sb0.015\u20132 % SmSe2",
+        "Property": "PF",
+        "Value": 0.00107,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta04830e"
+      }
+    ]
+  }
+}

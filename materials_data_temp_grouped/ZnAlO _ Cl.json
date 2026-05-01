@@ -1,0 +1,18 @@
+{
+  "Material": "ZnAlO / Cl",
+  "DOIs_Researched": [
+    "10.1016/j.cej.2020.128149"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Zn0.98Al0.02O / NaCl",
+        "Property": "ThermCond",
+        "Value": 14.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cej.2020.128149"
+      }
+    ]
+  }
+}

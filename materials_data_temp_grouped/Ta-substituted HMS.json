@@ -1,0 +1,18 @@
+{
+  "Material": "Ta-substituted HMS",
+  "DOIs_Researched": [
+    "10.1007/s11664-019-07673-x"
+  ],
+  "Data_By_Temperature": {
+    "813.0": [
+      {
+        "Original_Name_In_Paper": "Ta-substituted HMS",
+        "Property": "ZT",
+        "Value": 0.37,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-019-07673-x"
+      }
+    ]
+  }
+}

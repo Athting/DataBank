@@ -1,0 +1,18 @@
+{
+  "Material": "BaYbEuCoSb12",
+  "DOIs_Researched": [
+    "10.1016/j.rser.2013.10.027"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Ba0.08Yb0.14Eu0.10Co4Sb12",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rser.2013.10.027"
+      }
+    ]
+  }
+}

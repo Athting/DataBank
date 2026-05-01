@@ -1,0 +1,52 @@
+{
+  "Material": "NbSe2",
+  "DOIs_Researched": [
+    "10.1016/j.commatsci.2017.09.037",
+    "10.1039/c9nr07406f",
+    "10.1039/c5ee03813h"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "NbSe2",
+        "Property": "ThermCond",
+        "Value": 18.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2017.09.037"
+      },
+      {
+        "Original_Name_In_Paper": "NbSe2",
+        "Property": "PF",
+        "Value": 2.6e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ee03813h"
+      },
+      {
+        "Original_Name_In_Paper": "p-type NbSe2",
+        "Property": "PF",
+        "Value": 4.9999999999999996e-06,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9nr07406f"
+      },
+      {
+        "Original_Name_In_Paper": "NbSe2 film",
+        "Property": "Conductivity",
+        "Value": 1400.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ee03813h"
+      },
+      {
+        "Original_Name_In_Paper": "NbSe2",
+        "Property": "Conductivity",
+        "Value": 2.52,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2017.09.037"
+      }
+    ]
+  }
+}

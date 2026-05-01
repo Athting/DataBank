@@ -1,0 +1,28 @@
+{
+  "Material": "GeAgxSbxSe1+2x",
+  "DOIs_Researched": [
+    "10.1039/d0ta00240b"
+  ],
+  "Data_By_Temperature": {
+    "710.0": [
+      {
+        "Original_Name_In_Paper": "GeAgxSbxSe1+2x",
+        "Property": "ThermCond",
+        "Value": 0.85,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta00240b"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "GeAgxSbxSe1+2x",
+        "Property": "Seebeck",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta00240b"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Ge7Sb2Te5Se5",
+  "DOIs_Researched": [
+    "10.1016/j.solidstatesciences.2013.08.013"
+  ],
+  "Data_By_Temperature": {
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "Ge7Sb2Te5Se5",
+        "Property": "Conductivity",
+        "Value": 40000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2013.08.013"
+      }
+    ]
+  }
+}

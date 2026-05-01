@@ -1,0 +1,94 @@
+{
+  "doi": "10.1016/j.jallcom.2015.03.124",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Cu0.1Bi2Se3 / PVDF composite",
+        "Cu0.1Bi2Se3",
+        "Cu0.1Bi2Se3 nanoplatelet",
+        "Cu0.1Bi2Se3 / PVDF thin film",
+        "Cu0.01Bi2Se3",
+        "Cu0.02Bi2Se3"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "Cu0.02Bi2Se3",
+          "value": 36630.0366300366,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Cu0.1Bi2Se3",
+          "value": 0.0001032,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Cu0.1Bi2Se3 nanoplatelet",
+          "value": 0.000103,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "290.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Cu0.1Bi2Se3 / PVDF composite",
+          "zt_value": 0.1,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Cu0.1Bi2Se3 nanoplatelet",
+          "zt_value": 0.1,
+          "temperature": "290.0 K"
+        },
+        {
+          "material": "Cu0.1Bi2Se3 / PVDF thin film",
+          "zt_value": 0.1,
+          "temperature": "290.0 K"
+        },
+        {
+          "material": "Cu0.01Bi2Se3",
+          "zt_value": 0.54,
+          "temperature": "590.0 K"
+        },
+        {
+          "material": "Cu0.01Bi2Se3",
+          "zt_value": 0.54,
+          "temperature": "590.0 K"
+        },
+        {
+          "material": "Cu0.01Bi2Se3",
+          "zt_value": 0.54,
+          "temperature": "590.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Mg2Si0.4Ge0.6",
+  "DOIs_Researched": [
+    "10.1016/j.mtener.2017.04.002"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Ga-doped Mg2Si0.4Ge0.6",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtener.2017.04.002"
+      }
+    ]
+  }
+}

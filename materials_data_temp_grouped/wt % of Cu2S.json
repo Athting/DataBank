@@ -1,0 +1,18 @@
+{
+  "Material": "wt % of Cu2S",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2016.02.055"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "wt % of Cu2S",
+        "Property": "ThermCond",
+        "Value": 0.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2016.02.055"
+      }
+    ]
+  }
+}

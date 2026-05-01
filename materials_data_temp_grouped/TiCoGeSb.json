@@ -1,0 +1,35 @@
+{
+  "Material": "TiCoGeSb",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2012.10.005",
+    "10.1016/j.jallcom.2007.12.055"
+  ],
+  "Data_By_Temperature": {
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "TiCoGe0.15Sb0.85",
+        "Property": "ZT",
+        "Value": 0.16,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2012.10.005"
+      },
+      {
+        "Original_Name_In_Paper": "TiCoGe0.15Sb0.85",
+        "Property": "ZT",
+        "Value": 0.16,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2007.12.055"
+      },
+      {
+        "Original_Name_In_Paper": "TiCoGe0.15Sb0.85",
+        "Property": "ZT",
+        "Value": 0.16,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2007.12.055"
+      }
+    ]
+  }
+}

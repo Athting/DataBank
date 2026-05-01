@@ -1,0 +1,18 @@
+{
+  "Material": "CoSb3-CeCoSb3",
+  "DOIs_Researched": [
+    "10.1016/j.calphad.2018.08.006"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "CoSb3-CeCoSb3",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.calphad.2018.08.006"
+      }
+    ]
+  }
+}

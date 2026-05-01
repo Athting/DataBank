@@ -1,0 +1,80 @@
+{
+  "doi": "10.1016/j.jallcom.2018.02.040",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Bi85Sb15",
+        "(Bi85Sb15)1−xPbx",
+        "pristine Bi85Sb15",
+        "(Bi85Sb15)0.975Sn0.025",
+        "(Bi85Sb15)1-xGrx composites",
+        "Bi85Sb15−xPbx"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "Bi85Sb15−xPbx",
+          "value": 310000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "77.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Bi85Sb15",
+          "value": 0.85,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "100.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "(Bi85Sb15)1-xGrx composites",
+          "value": 0.0037,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "173.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "(Bi85Sb15)1−xPbx",
+          "zt_value": 0.26,
+          "temperature": "260.0 K"
+        },
+        {
+          "material": "pristine Bi85Sb15",
+          "zt_value": 0.18,
+          "temperature": "280.0 K"
+        },
+        {
+          "material": "(Bi85Sb15)0.975Sn0.025",
+          "zt_value": 1.3,
+          "temperature": "265.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

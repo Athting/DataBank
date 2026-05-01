@@ -1,0 +1,74 @@
+{
+  "Material": "SrTiNbO3",
+  "DOIs_Researched": [
+    "10.1016/j.ijhydene.2018.05.171",
+    "10.1007/s00339-014-8515-z",
+    "10.1016/j.carbon.2018.11.023"
+  ],
+  "Data_By_Temperature": {
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "Sr0.98Ti0.85Nb0.15O3",
+        "Property": "ZT",
+        "Value": 0.02,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.carbon.2018.11.023"
+      },
+      {
+        "Original_Name_In_Paper": "Sr0.98Ti0.85Nb0.15O3",
+        "Property": "ZT",
+        "Value": 0.21,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.carbon.2018.11.023"
+      }
+    ],
+    "1180.0": [
+      {
+        "Original_Name_In_Paper": "Sr0.95Ti0.90Nb0.10O3",
+        "Property": "ZT",
+        "Value": 0.08,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.carbon.2018.11.023"
+      }
+    ],
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "niobium-doped strontium titanate",
+        "Property": "ZT",
+        "Value": 0.25,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s00339-014-8515-z"
+      },
+      {
+        "Original_Name_In_Paper": "niobium-doped strontium titanate",
+        "Property": "Seebeck",
+        "Value": -0.00025,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s00339-014-8515-z"
+      },
+      {
+        "Original_Name_In_Paper": "niobium-doped strontium titanate",
+        "Property": "Conductivity",
+        "Value": 15000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s00339-014-8515-z"
+      }
+    ],
+    "1273.0": [
+      {
+        "Original_Name_In_Paper": "Sr0.94Ti0.9Nb0.1O3",
+        "Property": "Conductivity",
+        "Value": 12700.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ijhydene.2018.05.171"
+      }
+    ]
+  }
+}

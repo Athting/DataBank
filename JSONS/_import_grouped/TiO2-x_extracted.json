@@ -1,0 +1,79 @@
+{
+  "doi": "10.1007/s11666-018-0731-1",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "TiO2-x",
+        "TiO2−x"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "TiO2-x",
+          "value": 0.000054945100000000004,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "750.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "TiO2-x",
+          "value": 0.0006500000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "973.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "TiO2-x",
+          "zt_value": 0.35000000000000003,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "TiO2-x",
+          "zt_value": 0.0006500000000000001,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "TiO2−x",
+          "zt_value": 0.13,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "TiO2−x",
+          "zt_value": 0.132,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "TiO2-x",
+          "zt_value": 0.132,
+          "temperature": "750.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

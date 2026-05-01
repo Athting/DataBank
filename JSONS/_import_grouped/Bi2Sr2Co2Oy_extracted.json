@@ -1,0 +1,117 @@
+{
+  "doi": "10.1016/j.jallcom.2020.154065",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Bi2Sr2Co2Oy",
+        "Bi2Sr2Co2Oy films",
+        "single crystal Bi2Sr2Co2Oy",
+        "Bi2Sr2Co2Oy-based samples"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "Bi2Sr2Co2Oy",
+          "value": 0.0001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi2Sr2Co2Oy films",
+          "value": 0.00011499999999999999,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Bi2Sr2Co2Oy",
+          "value": 0.000307,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "973.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "single crystal Bi2Sr2Co2Oy",
+          "zt_value": 1.1,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Bi2Sr2Co2Oy",
+          "zt_value": 1.1,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Bi2Sr2Co2Oy",
+          "zt_value": 1.1,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Bi2Sr2Co2Oy",
+          "zt_value": 0.26,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Bi2Sr2Co2Oy",
+          "zt_value": 0.26,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Bi2Sr2Co2Oy",
+          "zt_value": 0.26,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Bi2Sr2Co2Oy",
+          "zt_value": 0.24,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "Bi2Sr2Co2Oy-based samples",
+          "zt_value": 0.26,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "Bi2Sr2Co2Oy",
+          "zt_value": 1.1,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Bi2Sr2Co2Oy",
+          "zt_value": 1.1,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Bi2Sr2Co2Oy",
+          "zt_value": 1.1,
+          "temperature": "1000.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

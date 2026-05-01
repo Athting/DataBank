@@ -1,0 +1,71 @@
+{
+  "doi": "10.1016/j.jssc.2019.04.005",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Bi14Rh3I9",
+        "pristine Bi14Rh3I9"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "Bi14Rh3I9",
+          "value": -0.0002,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "Bi14Rh3I9",
+          "value": 5000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "425.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Bi14Rh3I9",
+          "value": 0.28,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "pristine Bi14Rh3I9",
+          "zt_value": 0.30000000000000004,
+          "temperature": "425.0 K"
+        },
+        {
+          "material": "pristine Bi14Rh3I9",
+          "zt_value": 0.30000000000000004,
+          "temperature": "425.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

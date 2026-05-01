@@ -1,0 +1,18 @@
+{
+  "Material": "Li1.20Mn1.80O4",
+  "DOIs_Researched": [
+    "10.1016/S0167-2738(02)00193-5"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Li1.20Mn1.80O4",
+        "Property": "Conductivity",
+        "Value": 0.03,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0167-2738(02)00193-5"
+      }
+    ]
+  }
+}

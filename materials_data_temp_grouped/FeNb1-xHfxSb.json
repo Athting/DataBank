@@ -1,0 +1,18 @@
+{
+  "Material": "FeNb1-xHfxSb",
+  "DOIs_Researched": [
+    "10.1016/j.materresbull.2015.11.032"
+  ],
+  "Data_By_Temperature": {
+    "1200.0": [
+      {
+        "Original_Name_In_Paper": "p-type FeNb1\u2212xHfxSb",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2015.11.032"
+      }
+    ]
+  }
+}

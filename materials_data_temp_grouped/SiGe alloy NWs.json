@@ -1,0 +1,18 @@
+{
+  "Material": "SiGe alloy NWs",
+  "DOIs_Researched": [
+    "10.1039/c3ta01594g"
+  ],
+  "Data_By_Temperature": {
+    "450.0": [
+      {
+        "Original_Name_In_Paper": "SiGe alloy NWs",
+        "Property": "ZT",
+        "Value": 0.46,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta01594g"
+      }
+    ]
+  }
+}

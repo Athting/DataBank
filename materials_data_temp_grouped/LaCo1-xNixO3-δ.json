@@ -1,0 +1,18 @@
+{
+  "Material": "LaCo1-xNixO3-\u03b4",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2006.08.022"
+  ],
+  "Data_By_Temperature": {
+    "1240.0": [
+      {
+        "Original_Name_In_Paper": "LaCo1\u2212xNixO3\u2212\u03b4",
+        "Property": "Seebeck",
+        "Value": 1.2e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2006.08.022"
+      }
+    ]
+  }
+}

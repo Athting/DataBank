@@ -1,0 +1,18 @@
+{
+  "Material": "PbCl2",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2015.10.052"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "1.0 % PbCl2",
+        "Property": "Conductivity",
+        "Value": 19000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": "1.0 % PbCl2 doping",
+        "Source_DOI": "10.1016/j.jallcom.2015.10.052"
+      }
+    ]
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "Material": "Bi2Sr2Co2Oy",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2020.154065",
+    "10.1016/j.tsf.2010.06.060",
+    "10.1016/j.jallcom.2012.11.107",
+    "10.1007/s10853-014-8166-7",
+    "10.1016/j.ceramint.2014.04.123",
+    "10.1016/j.ceramint.2019.05.341",
+    "10.1016/j.ssc.2006.06.015",
+    "10.1016/j.tsf.2013.02.107",
+    "10.1016/j.physb.2011.04.066"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "single crystal Bi2Sr2Co2Oy",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2011.04.066"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Sr2Co2Oy",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2014.04.123"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Sr2Co2Oy",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2006.06.015"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Sr2Co2Oy",
+        "Property": "ZT",
+        "Value": 0.26,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2012.11.107"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Sr2Co2Oy",
+        "Property": "ZT",
+        "Value": 0.26,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2012.11.107"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Sr2Co2Oy",
+        "Property": "ZT",
+        "Value": 0.26,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2012.11.107"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Sr2Co2Oy",
+        "Property": "PF",
+        "Value": 0.000307,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154065"
+      }
+    ],
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Sr2Co2Oy",
+        "Property": "ZT",
+        "Value": 0.24,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154065"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Sr2Co2Oy-based samples",
+        "Property": "ZT",
+        "Value": 0.26,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2019.05.341"
+      }
+    ],
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Sr2Co2Oy",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2012.11.107"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Sr2Co2Oy",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2010.06.060"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Sr2Co2Oy",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2013.02.107"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Bi2Sr2Co2Oy",
+        "Property": "Seebeck",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-014-8166-7"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Sr2Co2Oy films",
+        "Property": "Seebeck",
+        "Value": 0.00011499999999999999,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2010.06.060"
+      }
+    ]
+  }
+}

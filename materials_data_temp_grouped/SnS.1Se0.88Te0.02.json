@@ -1,0 +1,46 @@
+{
+  "Material": "SnS.1Se0.88Te0.02",
+  "DOIs_Researched": [
+    "10.1039/c9tc01994d"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "SnS0.1Se0.88Te0.02",
+        "Property": "ZT",
+        "Value": 0.43,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc01994d"
+      }
+    ],
+    "423.0": [
+      {
+        "Original_Name_In_Paper": "SnS0.1Se0.88Te0.02",
+        "Property": "PF",
+        "Value": 0.00054,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc01994d"
+      }
+    ],
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "SnS0.1Se0.88Te0.02",
+        "Property": "Conductivity",
+        "Value": 5760.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc01994d"
+      },
+      {
+        "Original_Name_In_Paper": "SnS0.1Se0.88Te0.02",
+        "Property": "Conductivity",
+        "Value": 5760.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc01994d"
+      }
+    ]
+  }
+}

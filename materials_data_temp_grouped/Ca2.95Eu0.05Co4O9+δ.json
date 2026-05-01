@@ -1,0 +1,53 @@
+{
+  "Material": "Ca2.95Eu0.05Co4O9+\u03b4",
+  "DOIs_Researched": [
+    "10.1016/j.ssc.2013.06.006",
+    "10.1007/s10854-015-3401-9"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ca2.95Eu0.05Co4O9+\u03b4",
+        "Property": "ZT",
+        "Value": 0.038,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2013.06.006"
+      },
+      {
+        "Original_Name_In_Paper": "Ca2.95Eu0.05Co4O9+\u03b4",
+        "Property": "ZT",
+        "Value": 0.038,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2013.06.006"
+      },
+      {
+        "Original_Name_In_Paper": "Ca2.95Eu0.05Co4O9+\u03b4",
+        "Property": "ZT",
+        "Value": 0.038,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2013.06.006"
+      },
+      {
+        "Original_Name_In_Paper": "Ca2.95Eu0.05Co4O9+\u03b4",
+        "Property": "PF",
+        "Value": 0.00019899999999999999,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-015-3401-9"
+      }
+    ],
+    "146.0": [
+      {
+        "Original_Name_In_Paper": "Ca2.95Eu0.05Co4O9+\u03b4",
+        "Property": "PF",
+        "Value": 0.000248,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2013.06.006"
+      }
+    ]
+  }
+}

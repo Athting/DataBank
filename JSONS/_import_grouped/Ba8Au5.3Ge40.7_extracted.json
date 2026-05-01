@@ -1,0 +1,58 @@
+{
+  "doi": "10.1016/j.pmatsci.2016.07.002",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "single-crystal Ba8Au5.3Ge40.7",
+        "Ba8Au5.3Ge40.7",
+        "polycrystalline Ba8Au5.3Ge40.7"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "polycrystalline Ba8Au5.3Ge40.7",
+          "value": 0.0011,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "750.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "single-crystal Ba8Au5.3Ge40.7",
+          "zt_value": 0.30000000000000004,
+          "temperature": "500.0 K"
+        },
+        {
+          "material": "Ba8Au5.3Ge40.7",
+          "zt_value": 0.9,
+          "temperature": "680.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

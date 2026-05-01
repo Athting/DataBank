@@ -1,0 +1,26 @@
+{
+  "Material": "Ca0.96Bi0.04MnO3",
+  "DOIs_Researched": [
+    "10.1007/s10832-013-9811-2"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ca0.96Bi0.04MnO3",
+        "Property": "ThermCond",
+        "Value": 3.6,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10832-013-9811-2"
+      },
+      {
+        "Original_Name_In_Paper": "Ca0.96Bi0.04MnO3",
+        "Property": "ZT",
+        "Value": 0.028,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10832-013-9811-2"
+      }
+    ]
+  }
+}

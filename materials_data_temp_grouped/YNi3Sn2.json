@@ -1,0 +1,18 @@
+{
+  "Material": "YNi3Sn2",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2007.04.298"
+  ],
+  "Data_By_Temperature": {
+    "30.0": [
+      {
+        "Original_Name_In_Paper": "YNi3Sn2",
+        "Property": "Seebeck",
+        "Value": 2e-06,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2007.04.298"
+      }
+    ]
+  }
+}

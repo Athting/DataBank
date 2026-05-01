@@ -1,0 +1,18 @@
+{
+  "Material": "PEODT-BiTe3",
+  "DOIs_Researched": [
+    "10.1016/j.joule.2018.10.012"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "PEODT-BiTe3 nanorod composites",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2018.10.012"
+      }
+    ]
+  }
+}

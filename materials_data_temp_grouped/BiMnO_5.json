@@ -1,0 +1,18 @@
+{
+  "Material": "BiMnO_5",
+  "DOIs_Researched": [
+    "10.1016/j.jmmm.2014.06.048"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "BiMn2O5",
+        "Property": "Conductivity",
+        "Value": 0.9259259259,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmmm.2014.06.048"
+      }
+    ]
+  }
+}

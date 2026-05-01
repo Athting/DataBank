@@ -1,0 +1,18 @@
+{
+  "Material": "AgSbSexTe2-x",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2015.04.011"
+  ],
+  "Data_By_Temperature": {
+    "520.0": [
+      {
+        "Original_Name_In_Paper": "AgSbSexTe2-x",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2015.04.011"
+      }
+    ]
+  }
+}

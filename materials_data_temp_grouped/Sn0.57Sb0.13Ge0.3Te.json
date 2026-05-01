@@ -1,0 +1,80 @@
+{
+  "Material": "Sn0.57Sb0.13Ge0.3Te",
+  "DOIs_Researched": [
+    "10.1039/c8ee03162b"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Sn0.57Sb0.13Ge0.3Te",
+        "Property": "ThermCond",
+        "Value": 1.44,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee03162b"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.57Sb0.13Ge0.3Te",
+        "Property": "ThermCond",
+        "Value": 2.01,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee03162b"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.57Sb0.13Ge0.3Te",
+        "Property": "Seebeck",
+        "Value": 6.8e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee03162b"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.57Sb0.13Ge0.3Te",
+        "Property": "PF",
+        "Value": 0.00097,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee03162b"
+      }
+    ],
+    "728.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.57Sb0.13Ge0.3Te",
+        "Property": "ThermCond",
+        "Value": 0.44,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee03162b"
+      }
+    ],
+    "721.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.57Sb0.13Ge0.3Te",
+        "Property": "ZT",
+        "Value": 1.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee03162b"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.57Sb0.13Ge0.3Te",
+        "Property": "ZT",
+        "Value": 1.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee03162b"
+      }
+    ],
+    "720.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.57Sb0.13Ge0.3Te",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee03162b"
+      }
+    ]
+  }
+}

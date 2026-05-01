@@ -1,0 +1,47 @@
+{
+  "Material": "HfSe2",
+  "DOIs_Researched": [
+    "10.1016/j.mtcomm.2020.101434",
+    "10.1016/j.jpcs.2019.109322"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "HfSe2",
+        "Property": "ThermCond",
+        "Value": 3.3,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtcomm.2020.101434"
+      }
+    ],
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "hafnium diselenide",
+        "Property": "ZT",
+        "Value": 0.43,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtcomm.2020.101434"
+      },
+      {
+        "Original_Name_In_Paper": "HfSe2",
+        "Property": "Seebeck",
+        "Value": 0.000232,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtcomm.2020.101434"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "HfSe2",
+        "Property": "Seebeck",
+        "Value": 4.37e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2019.109322"
+      }
+    ]
+  }
+}

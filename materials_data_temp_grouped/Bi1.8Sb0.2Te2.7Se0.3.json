@@ -1,0 +1,18 @@
+{
+  "Material": "Bi1.8Sb0.2Te2.7Se0.3",
+  "DOIs_Researched": [
+    "10.1039/d0ee01349h"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Bi1.8Sb0.2Te2.7Se0.3 + 15 wt %",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ee01349h"
+      }
+    ]
+  }
+}

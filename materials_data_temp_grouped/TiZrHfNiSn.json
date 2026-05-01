@@ -1,0 +1,137 @@
+{
+  "Material": "TiZrHfNiSn",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2017.11.022",
+    "10.1016/j.actamat.2019.01.013",
+    "10.1039/c9tc03410b",
+    "10.1016/j.actamat.2016.04.039",
+    "10.1007/s10853-020-04949-0",
+    "10.1134/S1995078019040049",
+    "10.1016/j.progsolidstchem.2011.02.001",
+    "10.1016/j.nanoen.2012.10.005",
+    "10.1016/B978-0-444-59593-5.00001-5",
+    "10.1016/j.pmatsci.2016.07.002",
+    "10.1016/j.rser.2016.06.035",
+    "10.1016/j.jallcom.2008.02.041"
+  ],
+  "Data_By_Temperature": {
+    "730.0": [
+      {
+        "Original_Name_In_Paper": "Ti0.3Zr0.35Hf0.35NiSn",
+        "Property": "ZT",
+        "Value": 0.8200000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.11.022"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Ti0.3Zr0.35Hf0.35Ni(1+d)Sn",
+        "Property": "ZT",
+        "Value": 0.68,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.11.022"
+      },
+      {
+        "Original_Name_In_Paper": "Ti0.5Zr0.25Hf0.25NiSn",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2012.10.005"
+      },
+      {
+        "Original_Name_In_Paper": "Ti0.5Zr0.25Hf0.25NiSn",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rser.2016.06.035"
+      },
+      {
+        "Original_Name_In_Paper": "Ti0.5Zr0.25Hf0.25NiSn",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1134/S1995078019040049"
+      },
+      {
+        "Original_Name_In_Paper": "Sb-doped Ti0.50Zr0.25Hf0.25NiSn",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2008.02.041"
+      },
+      {
+        "Original_Name_In_Paper": "Sb-doped Ti0.50Zr0.25Hf0.25NiSn",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-444-59593-5.00001-5"
+      }
+    ],
+    "725.0": [
+      {
+        "Original_Name_In_Paper": "Ti0.37Zr0.37Hf0.26NiSn",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2016.07.002"
+      },
+      {
+        "Original_Name_In_Paper": "Ti0.37Zr0.37Hf0.26NiSn",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      }
+    ],
+    "830.0": [
+      {
+        "Original_Name_In_Paper": "doped Ti0.5Zr0.25Hf0.25NiSn compound",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2019.01.013"
+      }
+    ],
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "n-type Ti0.3Zr0.35Hf0.35NiSn compound",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": "Nb doping",
+        "Source_DOI": "10.1016/j.actamat.2016.04.039"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "co-doped Ti0.5Zr0.25Hf0.25NiSn material",
+        "Property": "ZT",
+        "Value": 0.96,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.progsolidstchem.2011.02.001"
+      }
+    ],
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "Ti0.3Zr0.35Hf0.35NiSn with Sb",
+        "Property": "ZT",
+        "Value": 0.58,
+        "Units": null,
+        "Editing": "doping Ti0.3Zr0.35Hf0.35NiSn with Sb",
+        "Source_DOI": "10.1039/c9tc03410b"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Bi1.95Te3.05",
+  "DOIs_Researched": [
+    "10.1016/j.electacta.2015.02.105"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Bi1.95Te3.05",
+        "Property": "Conductivity",
+        "Value": 4000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.electacta.2015.02.105"
+      }
+    ]
+  }
+}

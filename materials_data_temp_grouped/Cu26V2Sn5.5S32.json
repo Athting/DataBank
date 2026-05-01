@@ -1,0 +1,18 @@
+{
+  "Material": "Cu26V2Sn5.5S32",
+  "DOIs_Researched": [
+    "10.1039/c7tc00762k"
+  ],
+  "Data_By_Temperature": {
+    "660.0": [
+      {
+        "Original_Name_In_Paper": "Cu26V2Sn5.5S32",
+        "Property": "ZT",
+        "Value": 0.62,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7tc00762k"
+      }
+    ]
+  }
+}

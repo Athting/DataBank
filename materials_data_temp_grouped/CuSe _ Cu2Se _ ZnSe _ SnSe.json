@@ -1,0 +1,18 @@
+{
+  "Material": "CuSe : Cu2Se : ZnSe : SnSe",
+  "DOIs_Researched": [
+    "10.1016/B978-0-12-394429-0.00004-4"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "CuSe : Cu2Se : ZnSe : SnSe",
+        "Property": "Conductivity",
+        "Value": 11.0302228105,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-12-394429-0.00004-4"
+      }
+    ]
+  }
+}

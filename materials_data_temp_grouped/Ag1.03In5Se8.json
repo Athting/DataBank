@@ -1,0 +1,28 @@
+{
+  "Material": "Ag1.03In5Se8",
+  "DOIs_Researched": [
+    "10.1039/c9qi01054h"
+  ],
+  "Data_By_Temperature": {
+    "883.0": [
+      {
+        "Original_Name_In_Paper": "Ag1.03In5Se8",
+        "Property": "ThermCond",
+        "Value": 0.34,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9qi01054h"
+      }
+    ],
+    "779.0": [
+      {
+        "Original_Name_In_Paper": "Ag1.03In5Se8",
+        "Property": "PF",
+        "Value": 0.00046,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9qi01054h"
+      }
+    ]
+  }
+}

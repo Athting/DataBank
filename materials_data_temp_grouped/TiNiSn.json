@@ -1,0 +1,451 @@
+{
+  "Material": "TiNiSn",
+  "DOIs_Researched": [
+    "10.1039/c6cp01786j",
+    "10.1016/j.intermet.2006.08.008",
+    "10.1016/j.jallcom.2019.152596",
+    "10.1016/j.progsolidstchem.2011.02.001",
+    "10.1039/c9se01047e",
+    "10.1007/s10853-020-04949-0",
+    "10.1016/j.jssc.2009.09.003",
+    "10.1016/j.jpcs.2017.05.006",
+    "10.1007/s00214-018-2337-6",
+    "10.1016/j.mtla.2019.100410",
+    "10.1039/c9cp06123a",
+    "10.1007/s40243-020-00172-8",
+    "10.1016/B978-008044964-7-50013-3",
+    "10.1039/c4ta04661g",
+    "10.1557/PROC-626-Z5.2",
+    "10.1016/j.solidstatesciences.2013.09.005",
+    "10.1016/j.jallcom.2018.12.165",
+    "10.1016/j.jallcom.2018.08.238",
+    "10.1039/c2cc37121a",
+    "10.1039/c7ee03062b",
+    "10.1016/j.actamat.2015.11.022",
+    "10.1016/S0080-8784(01)80136-8"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "TiNiSn",
+        "Property": "ThermCond",
+        "Value": 3.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtla.2019.100410"
+      },
+      {
+        "Original_Name_In_Paper": "TiNiSn",
+        "Property": "ThermCond",
+        "Value": 9.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.152596"
+      },
+      {
+        "Original_Name_In_Paper": "TiNiSn",
+        "Property": "ThermCond",
+        "Value": 13.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6cp01786j"
+      },
+      {
+        "Original_Name_In_Paper": "TiNiSn",
+        "Property": "ThermCond",
+        "Value": 7.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-008044964-7-50013-3"
+      },
+      {
+        "Original_Name_In_Paper": "TiNiSn",
+        "Property": "ThermCond",
+        "Value": 6.9,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-008044964-7-50013-3"
+      },
+      {
+        "Original_Name_In_Paper": "TiNiSn",
+        "Property": "ThermCond",
+        "Value": 5.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-008044964-7-50013-3"
+      },
+      {
+        "Original_Name_In_Paper": "TiNiSn",
+        "Property": "ThermCond",
+        "Value": 5.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta04661g"
+      },
+      {
+        "Original_Name_In_Paper": "TiNiSn",
+        "Property": "ThermCond",
+        "Value": 7.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2006.08.008"
+      },
+      {
+        "Original_Name_In_Paper": "TiNiSn",
+        "Property": "ThermCond",
+        "Value": 6.9,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2006.08.008"
+      },
+      {
+        "Original_Name_In_Paper": "TiNiSn",
+        "Property": "ThermCond",
+        "Value": 5.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2006.08.008"
+      },
+      {
+        "Original_Name_In_Paper": "TiNiSn",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0080-8784(01)80136-8"
+      },
+      {
+        "Original_Name_In_Paper": "undoped TiNiSn compounds",
+        "Property": "Conductivity",
+        "Value": 200000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2009.09.003"
+      },
+      {
+        "Original_Name_In_Paper": "TiNiSn",
+        "Property": "Conductivity",
+        "Value": 6060.6060606061,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-008044964-7-50013-3"
+      },
+      {
+        "Original_Name_In_Paper": "TiNiSn",
+        "Property": "Seebeck",
+        "Value": -0.000425,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.12.165"
+      },
+      {
+        "Original_Name_In_Paper": "TiNiSn1",
+        "Property": "Seebeck",
+        "Value": 4e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1557/PROC-626-Z5.2"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "TiNiSn",
+        "Property": "ThermCond",
+        "Value": 8.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2017.05.006"
+      },
+      {
+        "Original_Name_In_Paper": "TiNiSn",
+        "Property": "ThermCond",
+        "Value": 7.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9cp06123a"
+      },
+      {
+        "Original_Name_In_Paper": "TiNiSn",
+        "Property": "ThermCond",
+        "Value": 7.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2cc37121a"
+      },
+      {
+        "Original_Name_In_Paper": "TiNiSn",
+        "Property": "ThermCond",
+        "Value": 6.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ee03062b"
+      },
+      {
+        "Original_Name_In_Paper": "TiNiSn",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0080-8784(01)80136-8"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "TiNiSn",
+        "Property": "ThermCond",
+        "Value": 1.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s40243-020-00172-8"
+      },
+      {
+        "Original_Name_In_Paper": "TiNiSn",
+        "Property": "ThermCond",
+        "Value": 3.42,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta04661g"
+      },
+      {
+        "Original_Name_In_Paper": "TiNiSn",
+        "Property": "ZT",
+        "Value": 0.41000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta04661g"
+      },
+      {
+        "Original_Name_In_Paper": "TiNiSn",
+        "Property": "ZT",
+        "Value": 0.41000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta04661g"
+      },
+      {
+        "Original_Name_In_Paper": "TiNiSn",
+        "Property": "ZT",
+        "Value": 0.41000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta04661g"
+      },
+      {
+        "Original_Name_In_Paper": "TiNiSn",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta04661g"
+      },
+      {
+        "Original_Name_In_Paper": "TiNiSn",
+        "Property": "ZT",
+        "Value": 0.41000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta04661g"
+      },
+      {
+        "Original_Name_In_Paper": "TiNiSn",
+        "Property": "PF",
+        "Value": 0.001805,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta04661g"
+      },
+      {
+        "Original_Name_In_Paper": "TiNiSn",
+        "Property": "PF",
+        "Value": 0.001143,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta04661g"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "TiNiSn",
+        "Property": "ZT",
+        "Value": 0.42,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9cp06123a"
+      },
+      {
+        "Original_Name_In_Paper": "TiNiSn",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9se01047e"
+      },
+      {
+        "Original_Name_In_Paper": "TiNiSn",
+        "Property": "ZT",
+        "Value": 0.12,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.08.238"
+      }
+    ],
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "pure TiNiSn",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0080-8784(01)80136-8"
+      },
+      {
+        "Original_Name_In_Paper": "TiNiSn",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2006.08.008"
+      },
+      {
+        "Original_Name_In_Paper": "TiNiSn",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-008044964-7-50013-3"
+      },
+      {
+        "Original_Name_In_Paper": "TiNiSn",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2013.09.005"
+      },
+      {
+        "Original_Name_In_Paper": "(TiNiSn)0.95",
+        "Property": "ZT",
+        "Value": 0.63,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      },
+      {
+        "Original_Name_In_Paper": "(TiNiSn)0.95",
+        "Property": "PF",
+        "Value": 0.0045000000000000005,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      }
+    ],
+    "770.0": [
+      {
+        "Original_Name_In_Paper": "TiNiSn",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2006.08.008"
+      }
+    ],
+    "785.0": [
+      {
+        "Original_Name_In_Paper": "undoped TiNiSn compound polycrystals",
+        "Property": "ZT",
+        "Value": 0.32,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2009.09.003"
+      },
+      {
+        "Original_Name_In_Paper": "undoped TiNiSn compounds",
+        "Property": "ZT",
+        "Value": 0.32,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2009.09.003"
+      }
+    ],
+    "650.0": [
+      {
+        "Original_Name_In_Paper": "Sb-doped TiNiSn",
+        "Property": "ZT",
+        "Value": 0.45,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.progsolidstchem.2011.02.001"
+      },
+      {
+        "Original_Name_In_Paper": "Sb-doped TiNiSn",
+        "Property": "PF",
+        "Value": 7.0,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s00214-018-2337-6"
+      },
+      {
+        "Original_Name_In_Paper": "Sb-doped TiNiSn",
+        "Property": "PF",
+        "Value": 0.007,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.progsolidstchem.2011.02.001"
+      }
+    ],
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "(TiNiSn)0.95",
+        "Property": "ZT",
+        "Value": 0.63,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      },
+      {
+        "Original_Name_In_Paper": "TiNiSn",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2015.11.022"
+      }
+    ],
+    "830.0": [
+      {
+        "Original_Name_In_Paper": "TiNiSn",
+        "Property": "PF",
+        "Value": 0.0011200000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtla.2019.100410"
+      },
+      {
+        "Original_Name_In_Paper": "TiNiSn",
+        "Property": "PF",
+        "Value": 0.0011200000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtla.2019.100410"
+      },
+      {
+        "Original_Name_In_Paper": "undoped TiNiSn",
+        "Property": "PF",
+        "Value": 0.001125,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtla.2019.100410"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "microcrystalline TiNiSn",
+        "Property": "PF",
+        "Value": 0.0021000000000000003,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtla.2019.100410"
+      }
+    ]
+  }
+}

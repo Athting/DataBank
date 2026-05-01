@@ -1,0 +1,42 @@
+{
+  "Material": "Cu2.06SnSe3",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2018.03.136"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Cu2.06SnSe3",
+        "Property": "ZT",
+        "Value": 0.32,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.03.136"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2.06SnSe3",
+        "Property": "ZT",
+        "Value": 0.32,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.03.136"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2.06SnSe3",
+        "Property": "ZT",
+        "Value": 0.32,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.03.136"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2.06SnSe3",
+        "Property": "ZT",
+        "Value": 0.32,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.03.136"
+      }
+    ]
+  }
+}

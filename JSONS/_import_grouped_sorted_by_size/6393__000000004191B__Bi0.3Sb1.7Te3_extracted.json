@@ -1,0 +1,168 @@
+{
+  "doi": "10.1038/am.2013.86",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Bi0.3Sb1.7Te3 composite",
+        "Bi0.3Sb1.7Te3 alloy",
+        "Bi0.3Sb1.7Te3",
+        "Bi0.3Sb1.7Te3 alloys with SiC",
+        "Bi0.3Sb1.7Te3 + 0.4 vol % SiC",
+        "p-type polycrystalline Bi0.3Sb1.7Te3 alloys",
+        "polycrystalline Bi0.3Sb1.7Te3",
+        "p-type Bi0.3Sb1.7Te3 alloy"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Bi0.3Sb1.7Te3 composite",
+          "value": 411000,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Bi0.3Sb1.7Te3 alloy",
+          "zt_value": 1.33,
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "Bi0.3Sb1.7Te3",
+          "zt_value": 1.33,
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "Bi0.3Sb1.7Te3",
+          "zt_value": 1.33,
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "Bi0.3Sb1.7Te3 alloys with SiC",
+          "zt_value": 1.33,
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "Bi0.3Sb1.7Te3 + 0.4 vol % SiC",
+          "zt_value": 1.33,
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "Bi0.3Sb1.7Te3",
+          "zt_value": 1.33,
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "Bi0.3Sb1.7Te3",
+          "zt_value": 1.33,
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "Bi0.3Sb1.7Te3",
+          "zt_value": 1.3,
+          "temperature": "380.0 K"
+        },
+        {
+          "material": "p-type polycrystalline Bi0.3Sb1.7Te3 alloys",
+          "zt_value": 1.3,
+          "temperature": "380.0 K"
+        },
+        {
+          "material": "Bi0.3Sb1.7Te3 alloy",
+          "zt_value": 1.3,
+          "temperature": "380.0 K"
+        },
+        {
+          "material": "polycrystalline Bi0.3Sb1.7Te3",
+          "zt_value": 1.3,
+          "temperature": "380.0 K"
+        },
+        {
+          "material": "p-type polycrystalline Bi0.3Sb1.7Te3 alloys",
+          "zt_value": 1.3,
+          "temperature": "380.0 K"
+        },
+        {
+          "material": "Bi0.3Sb1.7Te3 alloy",
+          "zt_value": 1.3,
+          "temperature": "380.0 K"
+        },
+        {
+          "material": "Bi0.3Sb1.7Te3 alloy",
+          "zt_value": 1.3,
+          "temperature": "380.0 K"
+        },
+        {
+          "material": "Bi0.3Sb1.7Te3 alloy",
+          "zt_value": 1.3,
+          "temperature": "380.0 K"
+        },
+        {
+          "material": "p-type Bi0.3Sb1.7Te3 alloy",
+          "zt_value": 1.3,
+          "temperature": "380.0 K"
+        },
+        {
+          "material": "Bi0.3Sb1.7Te3",
+          "zt_value": 1.18,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Bi0.3Sb1.7Te3",
+          "zt_value": 1.23,
+          "temperature": "423.0 K"
+        },
+        {
+          "material": "Bi0.3Sb1.7Te3",
+          "zt_value": 1.23,
+          "temperature": "423.0 K"
+        },
+        {
+          "material": "Bi0.3Sb1.7Te3",
+          "zt_value": 1.32,
+          "temperature": "473.0 K"
+        },
+        {
+          "material": "Bi0.3Sb1.7Te3",
+          "zt_value": 1.32,
+          "temperature": "473.0 K"
+        },
+        {
+          "material": "Bi0.3Sb1.7Te3",
+          "zt_value": 1.32,
+          "temperature": "473.0 K"
+        },
+        {
+          "material": "Bi0.3Sb1.7Te3",
+          "zt_value": 1.2,
+          "temperature": "400.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

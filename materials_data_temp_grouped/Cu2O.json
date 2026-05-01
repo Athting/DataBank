@@ -1,0 +1,40 @@
+{
+  "Material": "Cu2O",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2016.10.114",
+    "10.1016/j.cej.2019.02.198",
+    "10.1007/s00340-020-07521-5"
+  ],
+  "Data_By_Temperature": {
+    "550.0": [
+      {
+        "Original_Name_In_Paper": "Cu2O",
+        "Property": "ZT",
+        "Value": 0.47000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cej.2019.02.198"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Cu2O",
+        "Property": "Conductivity",
+        "Value": 11764.7058823529,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.10.114"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Cu2O",
+        "Property": "Seebeck",
+        "Value": 0.0009000000000000001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s00340-020-07521-5"
+      }
+    ]
+  }
+}

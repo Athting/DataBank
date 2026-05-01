@@ -1,0 +1,26 @@
+{
+  "Material": "P(MeOPV-co-PV)I",
+  "DOIs_Researched": [
+    "10.1016/j.pmatsci.2017.09.004"
+  ],
+  "Data_By_Temperature": {
+    "313.0": [
+      {
+        "Original_Name_In_Paper": "Stretched P(MeOPV-co-PV) copolymers doped with Iodine",
+        "Property": "Seebeck",
+        "Value": 4.4e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2017.09.004"
+      },
+      {
+        "Original_Name_In_Paper": "Stretched P(MeOPV-co-PV) copolymers doped with Iodine",
+        "Property": "Conductivity",
+        "Value": 18400.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2017.09.004"
+      }
+    ]
+  }
+}

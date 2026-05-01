@@ -1,0 +1,28 @@
+{
+  "Material": "Ca0.7Sr0.3Mn0.96Mo0.04",
+  "DOIs_Researched": [
+    "10.1039/c5tc02318a"
+  ],
+  "Data_By_Temperature": {
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "Ca0.7Sr0.3Mn0.96Mo0.04O3",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc02318a"
+      }
+    ],
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "Ca0.7Sr0.3Mn0.96Mo0.04O3",
+        "Property": "ZT",
+        "Value": 5e-05,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc02318a"
+      }
+    ]
+  }
+}

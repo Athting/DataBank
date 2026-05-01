@@ -1,0 +1,64 @@
+{
+  "Material": "Ge0.93Bi0.06In0.01Te",
+  "DOIs_Researched": [
+    "10.1016/j.joule.2019.08.017"
+  ],
+  "Data_By_Temperature": {
+    "625.0": [
+      {
+        "Original_Name_In_Paper": "Ge0.93In0.01Bi0.06Te",
+        "Property": "ThermCond",
+        "Value": 0.27,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2019.08.017"
+      }
+    ],
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "Ge0.93In0.01Bi0.06Te",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2019.08.017"
+      },
+      {
+        "Original_Name_In_Paper": "Ge0.93In0.01Bi0.06Te",
+        "Property": "ZT",
+        "Value": 2.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2019.08.017"
+      },
+      {
+        "Original_Name_In_Paper": "Ge0.93In0.01Bi0.06Te",
+        "Property": "ZT",
+        "Value": 2.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2019.08.017"
+      }
+    ],
+    "720.0": [
+      {
+        "Original_Name_In_Paper": "Ge0.93Bi0.06In0.01Te",
+        "Property": "Seebeck",
+        "Value": 0.00024599999999999996,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2019.08.017"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ge0.93Bi0.06In0.01Te",
+        "Property": "PF",
+        "Value": 0.00193,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2019.08.017"
+      }
+    ]
+  }
+}

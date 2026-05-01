@@ -1,0 +1,26 @@
+{
+  "Material": "YBaCo4O7",
+  "DOIs_Researched": [
+    "10.1016/j.physb.2006.03.089"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "YBaCo4O7",
+        "Property": "PF",
+        "Value": 4.9e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2006.03.089"
+      },
+      {
+        "Original_Name_In_Paper": "YBaCo4O7",
+        "Property": "PF",
+        "Value": 4.9e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2006.03.089"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "CuCr_{1-x}Fe_{x}O\u2082",
+  "DOIs_Researched": [
+    "10.1007/s10854-015-4038-4"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Cu(Cr1-xFex)O2 pellets",
+        "Property": "Conductivity",
+        "Value": 0.0084745763,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-015-4038-4"
+      }
+    ]
+  }
+}

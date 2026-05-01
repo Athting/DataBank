@@ -1,0 +1,93 @@
+{
+  "Material": "Fe / Co",
+  "DOIs_Researched": [
+    "10.1016/j.intermet.2010.12.001",
+    "10.1016/j.actamat.2016.06.060",
+    "10.1016/j.jallcom.2014.10.102",
+    "10.1039/c7dt03787b"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Fe / Co",
+        "Property": "ThermCond",
+        "Value": 2.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.10.102"
+      },
+      {
+        "Original_Name_In_Paper": "Fe / Co",
+        "Property": "ThermCond",
+        "Value": 2.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2016.06.060"
+      },
+      {
+        "Original_Name_In_Paper": "Fe / Co",
+        "Property": "ZT",
+        "Value": 2.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.10.102"
+      },
+      {
+        "Original_Name_In_Paper": "Fe / Co",
+        "Property": "PF",
+        "Value": 0.0035,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2016.06.060"
+      },
+      {
+        "Original_Name_In_Paper": "Fe / Co",
+        "Property": "PF",
+        "Value": 0.0035,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.10.102"
+      }
+    ],
+    "825.0": [
+      {
+        "Original_Name_In_Paper": "Fe / Co",
+        "Property": "ZT",
+        "Value": 0.42,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7dt03787b"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Fe / Co",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2010.12.001"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Fe / Co",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2016.06.060"
+      }
+    ],
+    "748.0": [
+      {
+        "Original_Name_In_Paper": "Fe / Co",
+        "Property": "PF",
+        "Value": 0.0035,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2016.06.060"
+      }
+    ]
+  }
+}

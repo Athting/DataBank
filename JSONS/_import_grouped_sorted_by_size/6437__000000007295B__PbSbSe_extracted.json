@@ -1,0 +1,264 @@
+{
+  "doi": "10.1039/c8ee01755g",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Pb0.9955Sb0.0045Se",
+        "Pb0.9955Sb0.0045Se–14 % GeSe",
+        "Pb0.995Sb0.005Se",
+        "Pb0.99875Sb0.00125Se",
+        "Pb0.99Sb0.01Se",
+        "Pb0.99Sb0.01Se-6 % MgSe",
+        "Pb0.9825Sb0.0175Se",
+        "Pb0.9955Sb0.0045Se–12 % GeSe",
+        "n-type Pb0.9955Sb0.0045Se–12 % GeSe",
+        "Pb0.9955Sb0.0045Se−12 % GeSe",
+        "Pb0.9975Sb0.0025Se",
+        "Pb0.9925Sb0.0075Se",
+        "Pb0.99925Sb0.00075Se",
+        "n-type Pb0.93Sb0.05S0.5Se0.5",
+        "Pb0.9875Sb0.0125Se"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "Pb0.9955Sb0.0045Se–12 % GeSe",
+          "value": -0.00025,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "Pb0.9955Sb0.0045Se",
+          "value": -0.0002,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "923.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "Pb0.9955Sb0.0045Se",
+          "value": 437000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Pb0.9955Sb0.0045Se–12 % GeSe",
+          "value": 97000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Pb0.9955Sb0.0045Se",
+          "value": 1.8399999999999999,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Pb0.9955Sb0.0045Se–14 % GeSe",
+          "value": 0.96,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Pb0.995Sb0.005Se",
+          "value": 0.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "Pb0.99Sb0.01Se",
+          "value": 1.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Pb0.9825Sb0.0175Se",
+          "value": 0.58,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "623.0 K"
+        },
+        {
+          "material": "Pb0.99Sb0.01Se",
+          "value": 4.6,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Pb0.9955Sb0.0045Se–12 % GeSe",
+          "value": 1.52,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Pb0.9955Sb0.0045Se",
+          "value": 4.69,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Pb0.9955Sb0.0045Se–12 % GeSe",
+          "value": 0.36,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "573.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Pb0.99Sb0.01Se",
+          "value": 0.0015400000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Pb0.9955Sb0.0045Se–12 % GeSe",
+          "value": 0.0019100000000000002,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "623.0 K"
+        },
+        {
+          "material": "Pb0.9955Sb0.0045Se",
+          "value": 0.0021000000000000003,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Pb0.9875Sb0.0125Se",
+          "value": 0.0017300000000000002,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "673.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Pb0.99875Sb0.00125Se",
+          "zt_value": 1.2,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "Pb0.99875Sb0.00125Se",
+          "zt_value": 1.2,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "Pb0.99Sb0.01Se",
+          "zt_value": 0.9,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Pb0.99Sb0.01Se-6 % MgSe",
+          "zt_value": 1.1,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Pb0.99Sb0.01Se",
+          "zt_value": 0.42,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Pb0.99Sb0.01Se-6 % MgSe",
+          "zt_value": 0.54,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Pb0.99Sb0.01Se",
+          "zt_value": 0.9,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Pb0.99Sb0.01Se-6 % MgSe",
+          "zt_value": 1.1,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "n-type Pb0.9955Sb0.0045Se–12 % GeSe",
+          "zt_value": 1.54,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Pb0.9955Sb0.0045Se–12 % GeSe",
+          "zt_value": 1.54,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Pb0.9955Sb0.0045Se–12 % GeSe",
+          "zt_value": 1.54,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Pb0.9955Sb0.0045Se−12 % GeSe",
+          "zt_value": 1.54,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Pb0.9975Sb0.0025Se",
+          "zt_value": 1.5,
+          "temperature": "830.0 K"
+        },
+        {
+          "material": "Pb0.9975Sb0.0025Se",
+          "zt_value": 1.5,
+          "temperature": "830.0 K"
+        },
+        {
+          "material": "Pb0.9975Sb0.0025Se",
+          "zt_value": 1.5,
+          "temperature": "830.0 K"
+        },
+        {
+          "material": "Pb0.995Sb0.005Se",
+          "zt_value": 1.4,
+          "temperature": "930.0 K"
+        },
+        {
+          "material": "Pb0.995Sb0.005Se",
+          "zt_value": 1.4,
+          "temperature": "930.0 K"
+        },
+        {
+          "material": "Pb0.9925Sb0.0075Se",
+          "zt_value": 1.2,
+          "temperature": "930.0 K"
+        },
+        {
+          "material": "Pb0.99925Sb0.00075Se",
+          "zt_value": 0.8,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "n-type Pb0.93Sb0.05S0.5Se0.5",
+          "zt_value": 1.7000000000000002,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "n-type Pb0.93Sb0.05S0.5Se0.5",
+          "zt_value": 1.7000000000000002,
+          "temperature": "900.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

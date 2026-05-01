@@ -1,0 +1,29 @@
+{
+  "Material": "CuTiSeS",
+  "DOIs_Researched": [
+    "10.1016/j.materresbull.2008.12.006",
+    "10.1016/j.jallcom.2015.02.021"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Cu0.02TiSe1.8S0.2",
+        "Property": "ThermCond",
+        "Value": 4.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2008.12.006"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Cu0.05TiSe0.5S1.5",
+        "Property": "ZT",
+        "Value": 0.54,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.02.021"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Material": "BCZT",
+  "DOIs_Researched": [
+    "10.1007/s12034-019-1888-z"
+  ],
+  "Data_By_Temperature": {
+    "423.0": [
+      {
+        "Original_Name_In_Paper": "BCZT10",
+        "Property": "Conductivity",
+        "Value": 2.33e-08,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s12034-019-1888-z"
+      },
+      {
+        "Original_Name_In_Paper": "BCZT20",
+        "Property": "Conductivity",
+        "Value": 8.3e-09,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s12034-019-1888-z"
+      }
+    ]
+  }
+}

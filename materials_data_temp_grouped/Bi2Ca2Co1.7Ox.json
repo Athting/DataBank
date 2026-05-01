@@ -1,0 +1,29 @@
+{
+  "Material": "Bi2Ca2Co1.7Ox",
+  "DOIs_Researched": [
+    "10.1016/j.matpr.2015.05.091",
+    "10.1016/j.scriptamat.2014.01.032"
+  ],
+  "Data_By_Temperature": {
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Ca2Co1.7Ox",
+        "Property": "PF",
+        "Value": 0.00031,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matpr.2015.05.091"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Bi2Ca2Co1.7Ox polycrystalline materials",
+        "Property": "PF",
+        "Value": 0.00018,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2014.01.032"
+      }
+    ]
+  }
+}

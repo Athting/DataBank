@@ -1,0 +1,18 @@
+{
+  "Material": "FeTiSi",
+  "DOIs_Researched": [
+    "10.1016/j.commatsci.2016.08.048"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Fe2TiSi",
+        "Property": "Seebeck",
+        "Value": 0.00030000000000000003,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2016.08.048"
+      }
+    ]
+  }
+}

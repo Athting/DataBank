@@ -1,0 +1,18 @@
+{
+  "Material": "Cu0.6Co0.4S",
+  "DOIs_Researched": [
+    "10.1016/j.matlet.2018.04.075"
+  ],
+  "Data_By_Temperature": {
+    "362.0": [
+      {
+        "Original_Name_In_Paper": "Cu0.6Co0.4S",
+        "Property": "ZT",
+        "Value": 0.0083,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2018.04.075"
+      }
+    ]
+  }
+}

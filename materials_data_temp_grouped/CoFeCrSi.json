@@ -1,0 +1,35 @@
+{
+  "Material": "CoFeCrSi",
+  "DOIs_Researched": [
+    "10.1016/j.matpr.2020.04.374",
+    "10.1016/j.jpcs.2017.09.023"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "CoFeCrSi",
+        "Property": "Seebeck",
+        "Value": 0.00079185,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matpr.2020.04.374"
+      },
+      {
+        "Original_Name_In_Paper": "CoFeCrSi",
+        "Property": "Seebeck",
+        "Value": 1.4999999999999999e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2017.09.023"
+      },
+      {
+        "Original_Name_In_Paper": "CoFeCrSi",
+        "Property": "Seebeck",
+        "Value": 2e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2017.09.023"
+      }
+    ]
+  }
+}

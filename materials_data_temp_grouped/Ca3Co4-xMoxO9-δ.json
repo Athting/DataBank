@@ -1,0 +1,18 @@
+{
+  "Material": "Ca3Co4-xMoxO9-\u03b4",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2016.04.037"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "Ca3Co4\u2212xMoxO9\u2212\u03b4",
+        "Property": "Conductivity",
+        "Value": 13030.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2016.04.037"
+      }
+    ]
+  }
+}

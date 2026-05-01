@@ -1,0 +1,26 @@
+{
+  "Material": "Na0.66Bi0.15Co0.99Mn0.0",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2015.11.084"
+  ],
+  "Data_By_Temperature": {
+    "781.0": [
+      {
+        "Original_Name_In_Paper": "Bi and Mn co-substituted Na0.66Bi0.15Co0.99Mn0.01O2",
+        "Property": "Seebeck",
+        "Value": 0.00019026,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.11.084"
+      },
+      {
+        "Original_Name_In_Paper": "Bi and Mn co-substituted Na0.66Bi0.15Co0.99Mn0.01O2",
+        "Property": "PF",
+        "Value": 0.000632,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.11.084"
+      }
+    ]
+  }
+}

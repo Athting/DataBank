@@ -1,0 +1,29 @@
+{
+  "Material": "Sb / Sn",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2015.11.022",
+    "10.1007/s10854-015-4026-8"
+  ],
+  "Data_By_Temperature": {
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "Sb / Sn",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2015.11.022"
+      }
+    ],
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "Sb / Sn",
+        "Property": "Seebeck",
+        "Value": 1.28e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-015-4026-8"
+      }
+    ]
+  }
+}

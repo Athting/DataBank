@@ -1,0 +1,34 @@
+{
+  "Material": "(PbTe)0.95x(PbSe)x(PbS",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2017.03.036"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "(PbTe)0.95\u2212x(PbSe)x(PbS)0.05",
+        "Property": "ZT",
+        "Value": 2.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2017.03.036"
+      },
+      {
+        "Original_Name_In_Paper": "(PbTe)0.95\u2212x(PbSe)x(PbS)0.05",
+        "Property": "ZT",
+        "Value": 2.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2017.03.036"
+      },
+      {
+        "Original_Name_In_Paper": "(PbTe)0.95\u2212x(PbSe)x(PbS)0.05",
+        "Property": "ZT",
+        "Value": 2.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2017.03.036"
+      }
+    ]
+  }
+}

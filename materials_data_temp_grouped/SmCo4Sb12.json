@@ -1,0 +1,97 @@
+{
+  "Material": "SmCo4Sb12",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2009.12.150",
+    "10.1016/j.matlet.2014.12.019",
+    "10.1016/S1002-0721(09)60122-8",
+    "10.1016/S1002-0721(12)60055-6"
+  ],
+  "Data_By_Temperature": {
+    "703.0": [
+      {
+        "Original_Name_In_Paper": "Sm0.6Co4Sb12",
+        "Property": "ThermCond",
+        "Value": 2.34,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2014.12.019"
+      }
+    ],
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "Sm0.5Co4Sb12",
+        "Property": "ZT",
+        "Value": 0.81,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S1002-0721(12)60055-6"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Sm0.1Co4Sb12",
+        "Property": "ZT",
+        "Value": 0.55,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.12.150"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Sm0.1Co4Sb12",
+        "Property": "ZT",
+        "Value": 0.08,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.12.150"
+      },
+      {
+        "Original_Name_In_Paper": "Sm0.6Co4Sb12",
+        "Property": "PF",
+        "Value": 0.0038,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2014.12.019"
+      }
+    ],
+    "711.0": [
+      {
+        "Original_Name_In_Paper": "Sm0.1Co4Sb12",
+        "Property": "ZT",
+        "Value": 0.55,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.12.150"
+      }
+    ],
+    "568.0": [
+      {
+        "Original_Name_In_Paper": "Sm0.1Co4Sb12",
+        "Property": "PF",
+        "Value": 0.00237,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.12.150"
+      },
+      {
+        "Original_Name_In_Paper": "Sm0.1Co4Sb12",
+        "Property": "PF",
+        "Value": 0.00237,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.12.150"
+      }
+    ],
+    "665.0": [
+      {
+        "Original_Name_In_Paper": "Sm0.5Co4Sb12",
+        "Property": "PF",
+        "Value": 0.0025,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S1002-0721(09)60122-8"
+      }
+    ]
+  }
+}

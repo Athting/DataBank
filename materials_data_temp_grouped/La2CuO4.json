@@ -1,0 +1,68 @@
+{
+  "Material": "La2CuO4",
+  "DOIs_Researched": [
+    "10.1016/j.physb.2014.08.016",
+    "10.1016/j.jssc.2011.01.035",
+    "10.1016/j.snb.2016.02.127"
+  ],
+  "Data_By_Temperature": {
+    "308.0": [
+      {
+        "Original_Name_In_Paper": "La2CuO4",
+        "Property": "ZT",
+        "Value": 0.018000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2014.08.016"
+      },
+      {
+        "Original_Name_In_Paper": "La2CuO4",
+        "Property": "ZT",
+        "Value": 0.018000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2014.08.016"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "La2CuO4",
+        "Property": "Seebeck",
+        "Value": 0.00034,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2014.08.016"
+      }
+    ],
+    "330.0": [
+      {
+        "Original_Name_In_Paper": "La2CuO4 nanofibers",
+        "Property": "Seebeck",
+        "Value": 2.4999999999999998e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.snb.2016.02.127"
+      }
+    ],
+    "1200.0": [
+      {
+        "Original_Name_In_Paper": "La2CuO4",
+        "Property": "Conductivity",
+        "Value": 1500.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2011.01.035"
+      }
+    ],
+    "298.0": [
+      {
+        "Original_Name_In_Paper": "La2CuO4",
+        "Property": "Conductivity",
+        "Value": 1500.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2011.01.035"
+      }
+    ]
+  }
+}

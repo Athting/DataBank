@@ -1,0 +1,712 @@
+{
+  "Material": "CuGaTe2",
+  "DOIs_Researched": [
+    "10.1039/c6ta10770b",
+    "10.1039/c4dt03556a",
+    "10.1016/j.actamat.2020.08.053",
+    "10.1016/j.jallcom.2013.03.174",
+    "10.1016/j.jallcom.2015.07.042",
+    "10.1039/c2ta00157h",
+    "10.1039/c4ta02050b",
+    "10.1016/j.jssc.2018.10.049",
+    "10.1039/d0tc00795a",
+    "10.1016/j.actamat.2016.07.060",
+    "10.1016/j.ensm.2016.01.009",
+    "10.1016/j.jssc.2013.02.008",
+    "10.1039/c6ta11120c",
+    "10.1016/j.jallcom.2013.10.030",
+    "10.1039/c5tc03325j",
+    "10.1016/j.jallcom.2016.12.443",
+    "10.1039/c6ta06033a",
+    "10.1016/j.jmat.2018.02.002",
+    "10.1016/j.commatsci.2018.10.038",
+    "10.1016/j.matchemphys.2014.03.034",
+    "10.1039/c4ra02595d",
+    "10.1039/c5ta09584k",
+    "10.1039/c3ta15211a",
+    "10.1016/j.intermet.2015.01.009",
+    "10.1016/j.intermet.2014.08.005",
+    "10.1016/j.ssc.2019.113731",
+    "10.1016/B978-0-08-102687-8.00002-6",
+    "10.1039/c4dt01909a",
+    "10.1016/j.jpcs.2015.03.012"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "pure CuGaTe2",
+        "Property": "ThermCond",
+        "Value": 8.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc03325j"
+      },
+      {
+        "Original_Name_In_Paper": "CuGaTe2",
+        "Property": "ThermCond",
+        "Value": 7.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2016.07.060"
+      },
+      {
+        "Original_Name_In_Paper": "pristine CuGaTe2",
+        "Property": "ThermCond",
+        "Value": 8.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta06033a"
+      },
+      {
+        "Original_Name_In_Paper": "CuGaTe2",
+        "Property": "ThermCond",
+        "Value": 7.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2014.08.005"
+      },
+      {
+        "Original_Name_In_Paper": "CuGaTe2 crystal",
+        "Property": "ThermCond",
+        "Value": 24.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra02595d"
+      },
+      {
+        "Original_Name_In_Paper": "pure CuGaTe2",
+        "Property": "Conductivity",
+        "Value": 12706.4803049555,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2015.01.009"
+      },
+      {
+        "Original_Name_In_Paper": "CuGaTe2",
+        "Property": "Seebeck",
+        "Value": 0.00041299999999999996,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta09584k"
+      },
+      {
+        "Original_Name_In_Paper": "CuGaTe2",
+        "Property": "Conductivity",
+        "Value": 13000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2020.08.053"
+      },
+      {
+        "Original_Name_In_Paper": "CuGaTe2",
+        "Property": "Conductivity",
+        "Value": 103.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta09584k"
+      }
+    ],
+    "950.0": [
+      {
+        "Original_Name_In_Paper": "p-type CuGaTe2",
+        "Property": "ThermCond",
+        "Value": 0.9,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2016.07.060"
+      },
+      {
+        "Original_Name_In_Paper": "CuGaTe2",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.12.443"
+      },
+      {
+        "Original_Name_In_Paper": "n-type CuGaTe2",
+        "Property": "ZT",
+        "Value": 2.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra02595d"
+      },
+      {
+        "Original_Name_In_Paper": "p-type CuGaTe2",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra02595d"
+      },
+      {
+        "Original_Name_In_Paper": "n-type doped CuGaTe2",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra02595d"
+      },
+      {
+        "Original_Name_In_Paper": "CuGaTe2",
+        "Property": "ZT",
+        "Value": 1.69,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2019.113731"
+      },
+      {
+        "Original_Name_In_Paper": "CuGaTe2",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta11120c"
+      },
+      {
+        "Original_Name_In_Paper": "CuGaTe2",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta09584k"
+      },
+      {
+        "Original_Name_In_Paper": "CuGaTe2",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2018.02.002"
+      },
+      {
+        "Original_Name_In_Paper": "CuGaTe2",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2018.10.049"
+      },
+      {
+        "Original_Name_In_Paper": "CuGaTe2",
+        "Property": "ZT",
+        "Value": 1.69,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-08-102687-8.00002-6"
+      },
+      {
+        "Original_Name_In_Paper": "CuGaTe2",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2018.10.038"
+      },
+      {
+        "Original_Name_In_Paper": "CuGaTe2",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ensm.2016.01.009"
+      },
+      {
+        "Original_Name_In_Paper": "p-type CuGaTe2",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2016.07.060"
+      },
+      {
+        "Original_Name_In_Paper": "CuGaTe2",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.07.042"
+      },
+      {
+        "Original_Name_In_Paper": "CuGaTe2",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2015.03.012"
+      },
+      {
+        "Original_Name_In_Paper": "CuGaTe2",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2014.03.034"
+      },
+      {
+        "Original_Name_In_Paper": "CuGaTe2 matrix",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0tc00795a"
+      }
+    ],
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "CuGaTe2",
+        "Property": "ThermCond",
+        "Value": 2.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2016.07.060"
+      },
+      {
+        "Original_Name_In_Paper": "CuGaTe2",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta10770b"
+      },
+      {
+        "Original_Name_In_Paper": "CuGaTe2",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta10770b"
+      },
+      {
+        "Original_Name_In_Paper": "CuGaTe2",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2016.07.060"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "CuGaTe2",
+        "Property": "ThermCond",
+        "Value": 6.7,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.03.174"
+      },
+      {
+        "Original_Name_In_Paper": "Cu0.98GaTe2",
+        "Property": "ThermCond",
+        "Value": 6.62,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta09584k"
+      },
+      {
+        "Original_Name_In_Paper": "CuGaTe2",
+        "Property": "ZT",
+        "Value": 0.31,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0tc00795a"
+      },
+      {
+        "Original_Name_In_Paper": "p-type CuGaTe2",
+        "Property": "Seebeck",
+        "Value": 0.00041000000000000005,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.03.174"
+      },
+      {
+        "Original_Name_In_Paper": "Cu0.98GaTe2",
+        "Property": "Conductivity",
+        "Value": 70000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta09584k"
+      }
+    ],
+    "684.0": [
+      {
+        "Original_Name_In_Paper": "CuGa0.98Gd0.02Te2",
+        "Property": "ThermCond",
+        "Value": 0.45,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2015.01.009"
+      },
+      {
+        "Original_Name_In_Paper": "pure CuGaTe2",
+        "Property": "ThermCond",
+        "Value": 1.76,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2015.01.009"
+      },
+      {
+        "Original_Name_In_Paper": "CuGa0.98Gd0.02Te2",
+        "Property": "ThermCond",
+        "Value": 0.45,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2015.01.009"
+      },
+      {
+        "Original_Name_In_Paper": "pure CuGaTe2",
+        "Property": "ThermCond",
+        "Value": 1.76,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2015.01.009"
+      }
+    ],
+    "610.0": [
+      {
+        "Original_Name_In_Paper": "pure CuGaTe2",
+        "Property": "ThermCond",
+        "Value": 1.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.10.030"
+      },
+      {
+        "Original_Name_In_Paper": "pure CuGaTe2",
+        "Property": "ThermCond",
+        "Value": 1.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.10.030"
+      }
+    ],
+    "859.0": [
+      {
+        "Original_Name_In_Paper": "CuGaTe2",
+        "Property": "ThermCond",
+        "Value": 0.54,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta15211a"
+      },
+      {
+        "Original_Name_In_Paper": "CuGaTe2",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta15211a"
+      }
+    ],
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "CuGaTe2",
+        "Property": "ThermCond",
+        "Value": 0.00135,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4dt03556a"
+      },
+      {
+        "Original_Name_In_Paper": "CuGaTe2",
+        "Property": "ZT",
+        "Value": 1.35,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4dt03556a"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "CuGaTe2 []",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2019.113731"
+      },
+      {
+        "Original_Name_In_Paper": "CuGaTe2",
+        "Property": "ZT",
+        "Value": 0.66,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta09584k"
+      },
+      {
+        "Original_Name_In_Paper": "Cu0.985GaTe2",
+        "Property": "ZT",
+        "Value": 0.73,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta09584k"
+      },
+      {
+        "Original_Name_In_Paper": "pure CuGaTe2",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.10.030"
+      },
+      {
+        "Original_Name_In_Paper": "CuGaTe2",
+        "Property": "PF",
+        "Value": 0.0013000000000000002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2013.02.008"
+      }
+    ],
+    "834.0": [
+      {
+        "Original_Name_In_Paper": "CuGaTe2",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta15211a"
+      },
+      {
+        "Original_Name_In_Paper": "CuGaTe2",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta15211a"
+      },
+      {
+        "Original_Name_In_Paper": "CuGaTe2",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-08-102687-8.00002-6"
+      }
+    ],
+    "870.0": [
+      {
+        "Original_Name_In_Paper": "non-doped CuGaTe2",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2018.02.002"
+      }
+    ],
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "CuGaTe2",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2018.10.038"
+      }
+    ],
+    "590.0": [
+      {
+        "Original_Name_In_Paper": "CuGaTe2",
+        "Property": "ZT",
+        "Value": 0.31,
+        "Units": null,
+        "Editing": "Ag doping",
+        "Source_DOI": "10.1016/j.jallcom.2013.10.030"
+      },
+      {
+        "Original_Name_In_Paper": "pure CuGaTe2",
+        "Property": "ZT",
+        "Value": 0.17,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.10.030"
+      }
+    ],
+    "840.0": [
+      {
+        "Original_Name_In_Paper": "CuGaTe2",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2013.02.008"
+      },
+      {
+        "Original_Name_In_Paper": "CuGaTe2",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2013.02.008"
+      },
+      {
+        "Original_Name_In_Paper": "CuGaTe2",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2013.02.008"
+      },
+      {
+        "Original_Name_In_Paper": "CuGaTe2",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2013.02.008"
+      }
+    ],
+    "737.0": [
+      {
+        "Original_Name_In_Paper": "CuGa0.99Gd0.01Te2",
+        "Property": "ZT",
+        "Value": 0.75,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2015.01.009"
+      },
+      {
+        "Original_Name_In_Paper": "CuGa0.99Gd0.01Te2",
+        "Property": "ZT",
+        "Value": 0.75,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2015.01.009"
+      },
+      {
+        "Original_Name_In_Paper": "pure CuGaTe2",
+        "Property": "ZT",
+        "Value": 0.34,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2015.01.009"
+      },
+      {
+        "Original_Name_In_Paper": "CuGa0.99Gd0.01Te2",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2015.01.009"
+      }
+    ],
+    "940.0": [
+      {
+        "Original_Name_In_Paper": "CuGaTe2",
+        "Property": "ZT",
+        "Value": 1.45,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4dt01909a"
+      }
+    ],
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "Ag-doped CuGaTe2",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2016.07.060"
+      }
+    ],
+    "721.0": [
+      {
+        "Original_Name_In_Paper": "CuGaTe2",
+        "Property": "ZT",
+        "Value": 1.07,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2ta00157h"
+      },
+      {
+        "Original_Name_In_Paper": "pure CuGaTe2",
+        "Property": "PF",
+        "Value": 0.00075,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2015.01.009"
+      }
+    ],
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "CuGaTe2 + 2.28 vol %",
+        "Property": "ZT",
+        "Value": 0.93,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0tc00795a"
+      },
+      {
+        "Original_Name_In_Paper": "CuGaTe2 + 0.5 wt %",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0tc00795a"
+      },
+      {
+        "Original_Name_In_Paper": "CuGaTe2 + 0.5 wt %",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0tc00795a"
+      },
+      {
+        "Original_Name_In_Paper": "pure CuGaTe2",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0tc00795a"
+      },
+      {
+        "Original_Name_In_Paper": "CuGaTe2 + 0.5 wt %",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0tc00795a"
+      }
+    ],
+    "763.0": [
+      {
+        "Original_Name_In_Paper": "pure CuGaTe2",
+        "Property": "PF",
+        "Value": 0.0008500000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2015.01.009"
+      }
+    ],
+    "650.0": [
+      {
+        "Original_Name_In_Paper": "CuGaTe2",
+        "Property": "PF",
+        "Value": 0.0009889999999999999,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta09584k"
+      }
+    ],
+    "670.0": [
+      {
+        "Original_Name_In_Paper": "CuGaTe2",
+        "Property": "Conductivity",
+        "Value": 2900.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta02050b"
+      },
+      {
+        "Original_Name_In_Paper": "CuGaTe2",
+        "Property": "Conductivity",
+        "Value": 13500.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra02595d"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "SnS1\u2212xSex",
+  "DOIs_Researched": [
+    "10.1039/c4ta06955b"
+  ],
+  "Data_By_Temperature": {
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "SnS1\u2212xSex",
+        "Property": "ThermCond",
+        "Value": 0.89,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta06955b"
+      }
+    ]
+  }
+}

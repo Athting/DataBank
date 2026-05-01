@@ -1,0 +1,26 @@
+{
+  "Material": "Ba8Zn7.7",
+  "DOIs_Researched": [
+    "10.1039/c2dt32049e"
+  ],
+  "Data_By_Temperature": {
+    "730.0": [
+      {
+        "Original_Name_In_Paper": "Ba8Zn7.7Ge38.3",
+        "Property": "ZT",
+        "Value": 0.46,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2dt32049e"
+      },
+      {
+        "Original_Name_In_Paper": "Ba8Zn7.7Ge38.3",
+        "Property": "ZT",
+        "Value": 0.46,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2dt32049e"
+      }
+    ]
+  }
+}

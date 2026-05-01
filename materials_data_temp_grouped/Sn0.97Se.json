@@ -1,0 +1,26 @@
+{
+  "Material": "Sn0.97Se",
+  "DOIs_Researched": [
+    "10.1039/c8ta07783e"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Sn0.97Na0.03Se single crystal",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta07783e"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.97Na0.03Se single crystal",
+        "Property": "PF",
+        "Value": 0.0028,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta07783e"
+      }
+    ]
+  }
+}

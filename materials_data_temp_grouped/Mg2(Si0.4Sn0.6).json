@@ -1,0 +1,18 @@
+{
+  "Material": "Mg2(Si0.4Sn0.6)",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2014.11.073"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Bi-doped Mg2(Si0.4Sn0.6)",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.11.073"
+      }
+    ]
+  }
+}

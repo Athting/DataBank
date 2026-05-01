@@ -1,0 +1,36 @@
+{
+  "Material": "Ge0.2Sn0.8Te",
+  "DOIs_Researched": [
+    "10.1016/j.jcrysgro.2007.02.036"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ge0.2Sn0.8Te",
+        "Property": "ThermCond",
+        "Value": 6.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jcrysgro.2007.02.036"
+      }
+    ],
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "Ge0.2Sn0.8Te",
+        "Property": "ZT",
+        "Value": 0.04,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jcrysgro.2007.02.036"
+      },
+      {
+        "Original_Name_In_Paper": "Ge0.2Sn0.8Te",
+        "Property": "ZT",
+        "Value": 0.04,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jcrysgro.2007.02.036"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Pb-chalcogenide-based",
+  "DOIs_Researched": [
+    "10.1016/j.jmat.2020.02.008"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Pb-chalcogenide-based",
+        "Property": "ZT",
+        "Value": 0.37,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2020.02.008"
+      }
+    ]
+  }
+}

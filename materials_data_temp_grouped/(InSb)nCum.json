@@ -1,0 +1,26 @@
+{
+  "Material": "(InSb)nCum",
+  "DOIs_Researched": [
+    "10.1016/j.cap.2011.04.044"
+  ],
+  "Data_By_Temperature": {
+    "687.0": [
+      {
+        "Original_Name_In_Paper": "(InSb)nCum",
+        "Property": "ZT",
+        "Value": 0.39,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2011.04.044"
+      },
+      {
+        "Original_Name_In_Paper": "(InSb)nCum",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2011.04.044"
+      }
+    ]
+  }
+}

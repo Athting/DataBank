@@ -1,0 +1,18 @@
+{
+  "Material": "Ti0.95Ta0.05NiSn",
+  "DOIs_Researched": [
+    "10.1016/j.mtla.2019.100410"
+  ],
+  "Data_By_Temperature": {
+    "830.0": [
+      {
+        "Original_Name_In_Paper": "Ti0.95Ta0.05NiSn",
+        "Property": "PF",
+        "Value": 0.0025700000000000002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtla.2019.100410"
+      }
+    ]
+  }
+}

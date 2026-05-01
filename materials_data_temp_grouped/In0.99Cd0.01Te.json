@@ -1,0 +1,18 @@
+{
+  "Material": "In0.99Cd0.01Te",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2019.152210"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "In0.99Cd0.01Te",
+        "Property": "Conductivity",
+        "Value": 13000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.152210"
+      }
+    ]
+  }
+}

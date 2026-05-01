@@ -1,0 +1,96 @@
+{
+  "Material": "Bi2Te2.79Se0.21",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2019.104283",
+    "10.1039/c9ta13881a",
+    "10.1039/c9tc02029b",
+    "10.1016/j.jallcom.2017.08.103",
+    "10.1007/s40948-019-00134-z",
+    "10.1039/c5tc02263k",
+    "10.1007/s12598-018-1005-2"
+  ],
+  "Data_By_Temperature": {
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Te2.79Se0.21",
+        "Property": "ThermCond",
+        "Value": 1.6,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc02029b"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Bi2Te2.79Se0.21 ingots",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc02263k"
+      }
+    ],
+    "357.0": [
+      {
+        "Original_Name_In_Paper": "n-type Bi2Te2.79Se0.21 polycrystalline alloy",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2019.104283"
+      },
+      {
+        "Original_Name_In_Paper": "n-type Bi2Te2.79Se0.21 polycrystalline alloy",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2019.104283"
+      },
+      {
+        "Original_Name_In_Paper": "n-type Bi2Te2.79Se0.21",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.08.103"
+      },
+      {
+        "Original_Name_In_Paper": "n-type Bi2Te2.79Se0.21",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta13881a"
+      },
+      {
+        "Original_Name_In_Paper": "n-type Bi2Te2.79Se0.21",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": "point defects",
+        "Source_DOI": "10.1007/s12598-018-1005-2"
+      }
+    ],
+    "350.0": [
+      {
+        "Original_Name_In_Paper": "n-type Bi2Te2.79Se0.21",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s40948-019-00134-z"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Te2.79Se0.21",
+        "Property": "Seebeck",
+        "Value": -0.00011499999999999999,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc02029b"
+      }
+    ]
+  }
+}

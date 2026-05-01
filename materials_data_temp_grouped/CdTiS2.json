@@ -1,0 +1,34 @@
+{
+  "Material": "CdTiS2",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2009.01.052"
+  ],
+  "Data_By_Temperature": {
+    "310.0": [
+      {
+        "Original_Name_In_Paper": "(Cd0.05Ti0.95)1+yS2",
+        "Property": "ZT",
+        "Value": 0.022,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.01.052"
+      },
+      {
+        "Original_Name_In_Paper": "Cd0.05Ti0.95S2",
+        "Property": "ZT",
+        "Value": 0.022,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.01.052"
+      },
+      {
+        "Original_Name_In_Paper": "(Cd0.05Ti0.95)1+yS2",
+        "Property": "ZT",
+        "Value": 0.022,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.01.052"
+      }
+    ]
+  }
+}

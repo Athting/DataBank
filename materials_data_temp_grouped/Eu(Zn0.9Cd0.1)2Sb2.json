@@ -1,0 +1,26 @@
+{
+  "Material": "Eu(Zn0.9Cd0.1)2Sb2",
+  "DOIs_Researched": [
+    "10.1039/b916346h"
+  ],
+  "Data_By_Temperature": {
+    "650.0": [
+      {
+        "Original_Name_In_Paper": "Eu(Zn0.9Cd0.1)2Sb2",
+        "Property": "ZT",
+        "Value": 1.06,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/b916346h"
+      },
+      {
+        "Original_Name_In_Paper": "Eu(Zn0.9Cd0.1)2Sb2",
+        "Property": "ZT",
+        "Value": 1.06,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/b916346h"
+      }
+    ]
+  }
+}

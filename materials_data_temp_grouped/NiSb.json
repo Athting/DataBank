@@ -1,0 +1,18 @@
+{
+  "Material": "NiSb",
+  "DOIs_Researched": [
+    "10.1016/j.mtphys.2017.12.004"
+  ],
+  "Data_By_Temperature": {
+    "575.0": [
+      {
+        "Original_Name_In_Paper": "NiSb",
+        "Property": "ZT",
+        "Value": 0.17,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2017.12.004"
+      }
+    ]
+  }
+}

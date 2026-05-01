@@ -1,0 +1,18 @@
+{
+  "Material": "TCNQ",
+  "DOIs_Researched": [
+    "10.1039/d0dt00872a"
+  ],
+  "Data_By_Temperature": {
+    "350.0": [
+      {
+        "Original_Name_In_Paper": "polycrystalline TCNQ @ Cu3(BTC)2 thin films",
+        "Property": "Seebeck",
+        "Value": 0.00042199999999999996,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0dt00872a"
+      }
+    ]
+  }
+}

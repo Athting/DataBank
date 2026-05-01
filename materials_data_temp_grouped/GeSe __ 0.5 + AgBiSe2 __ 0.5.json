@@ -1,0 +1,18 @@
+{
+  "Material": "GeSe \\* 0.5 + AgBiSe2 \\* 0.5",
+  "DOIs_Researched": [
+    "10.1039/d0ta00240b"
+  ],
+  "Data_By_Temperature": {
+    "677.0": [
+      {
+        "Original_Name_In_Paper": "cubic polycrystalline (GeSe)0.5(AgBiSe2)0.5",
+        "Property": "ZT",
+        "Value": 0.45,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta00240b"
+      }
+    ]
+  }
+}

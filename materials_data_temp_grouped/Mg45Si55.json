@@ -1,0 +1,18 @@
+{
+  "Material": "Mg45Si55",
+  "DOIs_Researched": [
+    "10.1016/j.matchemphys.2015.03.017"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Mg45Si55",
+        "Property": "PF",
+        "Value": 2e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2015.03.017"
+      }
+    ]
+  }
+}

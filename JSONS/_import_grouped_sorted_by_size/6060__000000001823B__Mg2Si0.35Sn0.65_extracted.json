@@ -1,0 +1,77 @@
+{
+  "doi": "10.1007/s10854-018-8601-7",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Mg2Si0.35Sn0.65 alloy",
+        "Mg2Si0.35Sn0.65 crystal",
+        "Mg2Si0.35Sn0.65"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "Mg2Si0.35Sn0.65 crystal",
+          "value": -0.000518,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "450.0 K"
+        },
+        {
+          "material": "Mg2Si0.35Sn0.65",
+          "value": -0.000518,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "500.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Mg2Si0.35Sn0.65",
+          "value": 0.00256,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "500.0 K"
+        },
+        {
+          "material": "Mg2Si0.35Sn0.65",
+          "value": 0.00256,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "500.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Mg2Si0.35Sn0.65 alloy",
+          "zt_value": 0.52,
+          "temperature": "480.0 K"
+        },
+        {
+          "material": "Mg2Si0.35Sn0.65 crystal",
+          "zt_value": 0.52,
+          "temperature": "480.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

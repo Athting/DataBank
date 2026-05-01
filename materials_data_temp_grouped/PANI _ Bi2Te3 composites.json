@@ -1,0 +1,29 @@
+{
+  "Material": "PANI / Bi2Te3 composites",
+  "DOIs_Researched": [
+    "10.1016/B978-0-08-100785-3.00006-1",
+    "10.1016/j.progpolymsci.2011.11.003"
+  ],
+  "Data_By_Temperature": {
+    "350.0": [
+      {
+        "Original_Name_In_Paper": "PANI / Bi2Te3 composites",
+        "Property": "ZT",
+        "Value": 0.18,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-08-100785-3.00006-1"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "PANI / Bi2Te3 composites",
+        "Property": "Seebeck",
+        "Value": -5e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.progpolymsci.2011.11.003"
+      }
+    ]
+  }
+}

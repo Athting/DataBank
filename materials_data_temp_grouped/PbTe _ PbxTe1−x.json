@@ -1,0 +1,18 @@
+{
+  "Material": "PbTe / PbxTe1\u2212x",
+  "DOIs_Researched": [
+    "10.1016/j.commatsci.2011.08.016"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "PbTe / PbSexTe1\u2212x quantum dot superlattice",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2011.08.016"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Cs2Pt3US6",
+  "DOIs_Researched": [
+    "10.1016/j.solidstatesciences.2014.05.009"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Cs2Pt3US6",
+        "Property": "ZT",
+        "Value": 0.041,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2014.05.009"
+      }
+    ]
+  }
+}

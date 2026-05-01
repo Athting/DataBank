@@ -1,0 +1,26 @@
+{
+  "Material": "Se quantum dot",
+  "DOIs_Researched": [
+    "10.1039/c9ta03967h"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Se quantum dot",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta03967h"
+      },
+      {
+        "Original_Name_In_Paper": "Se quantum dot",
+        "Property": "PF",
+        "Value": 0.0005600000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta03967h"
+      }
+    ]
+  }
+}

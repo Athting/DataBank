@@ -1,0 +1,26 @@
+{
+  "Material": "Yb11GaSb9",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2005.01.008"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Yb11GaSb9",
+        "Property": "Conductivity",
+        "Value": 52.6315789474,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2005.01.008"
+      },
+      {
+        "Original_Name_In_Paper": "Yb11GaSb9",
+        "Property": "Conductivity",
+        "Value": 50.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2005.01.008"
+      }
+    ]
+  }
+}

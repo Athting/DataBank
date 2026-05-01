@@ -1,0 +1,18 @@
+{
+  "Material": "(V0.6Nb0.4)FeSb",
+  "DOIs_Researched": [
+    "10.1016/j.mtphys.2019.01.004"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "(V0.6Nb0.4)FeSb",
+        "Property": "PF",
+        "Value": 0.0024000000000000002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2019.01.004"
+      }
+    ]
+  }
+}

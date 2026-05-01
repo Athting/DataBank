@@ -1,0 +1,161 @@
+{
+  "Material": "LaCoSb12",
+  "DOIs_Researched": [
+    "10.3938/jkps.64.1004",
+    "10.1039/c8tc06461j",
+    "10.1007/s11661-017-4058-1",
+    "10.1016/j.jpcs.2020.109545",
+    "10.1016/j.jallcom.2016.12.425",
+    "10.1039/c7ta08545a"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "La0.5Co4Sb12",
+        "Property": "ThermCond",
+        "Value": 2.25,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11661-017-4058-1"
+      },
+      {
+        "Original_Name_In_Paper": "La0.4Co4Sb12",
+        "Property": "ThermCond",
+        "Value": 4.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11661-017-4058-1"
+      },
+      {
+        "Original_Name_In_Paper": "La0.25Co4Sb12",
+        "Property": "ThermCond",
+        "Value": 3.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ta08545a"
+      },
+      {
+        "Original_Name_In_Paper": "La0.5Co4Sb12",
+        "Property": "Conductivity",
+        "Value": 3174.6031746032,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11661-017-4058-1"
+      },
+      {
+        "Original_Name_In_Paper": "La0.5Co4Sb12",
+        "Property": "Seebeck",
+        "Value": 0.000154,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11661-017-4058-1"
+      }
+    ],
+    "780.0": [
+      {
+        "Original_Name_In_Paper": "La0.25Co4Sb12",
+        "Property": "ThermCond",
+        "Value": 2.39,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ta08545a"
+      },
+      {
+        "Original_Name_In_Paper": "La0.25Co4Sb12",
+        "Property": "ThermCond",
+        "Value": 2.39,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2020.109545"
+      },
+      {
+        "Original_Name_In_Paper": "La0.25Co4Sb12",
+        "Property": "ZT",
+        "Value": 0.51,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2020.109545"
+      }
+    ],
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "La0.23Co4Sb12",
+        "Property": "ThermCond",
+        "Value": 4.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ta08545a"
+      },
+      {
+        "Original_Name_In_Paper": "La0.23Co4Sb12",
+        "Property": "ThermCond",
+        "Value": 4.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8tc06461j"
+      }
+    ],
+    "623.0": [
+      {
+        "Original_Name_In_Paper": "La0.2Co4Sb12",
+        "Property": "ZT",
+        "Value": 0.35000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.3938/jkps.64.1004"
+      },
+      {
+        "Original_Name_In_Paper": "La0.2Co4Sb12",
+        "Property": "ZT",
+        "Value": 0.35000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11661-017-4058-1"
+      }
+    ],
+    "863.0": [
+      {
+        "Original_Name_In_Paper": "La0.29Co4Sb12",
+        "Property": "ZT",
+        "Value": 1.06,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.12.425"
+      },
+      {
+        "Original_Name_In_Paper": "La0.29Co4Sb12",
+        "Property": "ZT",
+        "Value": 1.06,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.12.425"
+      },
+      {
+        "Original_Name_In_Paper": "La0.29Co4Sb12",
+        "Property": "ZT",
+        "Value": 1.06,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.12.425"
+      },
+      {
+        "Original_Name_In_Paper": "La0.29Co4Sb12",
+        "Property": "ZT",
+        "Value": 1.06,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.12.425"
+      }
+    ],
+    "657.0": [
+      {
+        "Original_Name_In_Paper": "La0.25Co4Sb12",
+        "Property": "PF",
+        "Value": 0.002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ta08545a"
+      }
+    ]
+  }
+}

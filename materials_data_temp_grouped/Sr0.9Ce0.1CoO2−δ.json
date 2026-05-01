@@ -1,0 +1,18 @@
+{
+  "Material": "Sr0.9Ce0.1CoO2\u2212\u03b4",
+  "DOIs_Researched": [
+    "10.1016/j.pmatsci.2015.01.001"
+  ],
+  "Data_By_Temperature": {
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "Sr0.9Ce0.1CoO2\u2212\u03b4",
+        "Property": "Conductivity",
+        "Value": 13.3,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2015.01.001"
+      }
+    ]
+  }
+}

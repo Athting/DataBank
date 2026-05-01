@@ -1,0 +1,18 @@
+{
+  "Material": "LiSeT",
+  "DOIs_Researched": [
+    "10.1039/c9ta04772g"
+  ],
+  "Data_By_Temperature": {
+    "413.0": [
+      {
+        "Original_Name_In_Paper": "LiSEt",
+        "Property": "Conductivity",
+        "Value": 0.0132,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta04772g"
+      }
+    ]
+  }
+}

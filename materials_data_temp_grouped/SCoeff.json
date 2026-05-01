@@ -1,0 +1,18 @@
+{
+  "Material": "SCoeff",
+  "DOIs_Researched": [
+    "10.1007/s40243-020-00175-5"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "SCoeff",
+        "Property": "ZT",
+        "Value": 0.35000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s40243-020-00175-5"
+      }
+    ]
+  }
+}

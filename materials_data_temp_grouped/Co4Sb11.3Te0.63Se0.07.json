@@ -1,0 +1,28 @@
+{
+  "Material": "Co4Sb11.3Te0.63Se0.07",
+  "DOIs_Researched": [
+    "10.1007/s10853-014-8141-3"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Co4Sb11.3Te0.63Se0.07",
+        "Property": "ThermCond",
+        "Value": 2.98,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-014-8141-3"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Co4Sb11.3Te0.63Se0.07",
+        "Property": "PF",
+        "Value": 4160.0,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-014-8141-3"
+      }
+    ]
+  }
+}

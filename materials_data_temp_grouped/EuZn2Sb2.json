@@ -1,0 +1,87 @@
+{
+  "Material": "EuZn2Sb2",
+  "DOIs_Researched": [
+    "10.1039/b914305j",
+    "10.1039/b914172c",
+    "10.1039/b916346h",
+    "10.1007/s10854-013-1618-z",
+    "10.1016/j.rser.2013.03.008",
+    "10.1016/bs.hpcre.2016.05.003",
+    "10.1007/s10854-012-0820-8",
+    "10.1016/j.jssc.2015.08.039"
+  ],
+  "Data_By_Temperature": {
+    "603.0": [
+      {
+        "Original_Name_In_Paper": "EuZn2Sb2",
+        "Property": "ZT",
+        "Value": 0.92,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rser.2013.03.008"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "EuZn2Sb2",
+        "Property": "ZT",
+        "Value": 0.92,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/b916346h"
+      },
+      {
+        "Original_Name_In_Paper": "EuZn2Sb2",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2015.08.039"
+      },
+      {
+        "Original_Name_In_Paper": "EuZn2Sb2",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/bs.hpcre.2016.05.003"
+      },
+      {
+        "Original_Name_In_Paper": "EuZn2Sb2",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/b914172c"
+      }
+    ],
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "EuZn2Sb2",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-012-0820-8"
+      },
+      {
+        "Original_Name_In_Paper": "EuZn2Sb2",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-013-1618-z"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "EuZn2Sb2",
+        "Property": "Seebeck",
+        "Value": 0.000122,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/b914305j"
+      }
+    ]
+  }
+}

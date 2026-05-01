@@ -1,0 +1,18 @@
+{
+  "Material": "Mg3Sb2-Mg3Bi2",
+  "DOIs_Researched": [
+    "10.1039/c8ee03374a"
+  ],
+  "Data_By_Temperature": {
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "Mg3Sb2\u2013Mg3Bi2 alloy",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee03374a"
+      }
+    ]
+  }
+}

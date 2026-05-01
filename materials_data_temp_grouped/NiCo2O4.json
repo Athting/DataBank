@@ -1,0 +1,18 @@
+{
+  "Material": "NiCo2O4",
+  "DOIs_Researched": [
+    "10.1016/S0040-6090(02)00740-X"
+  ],
+  "Data_By_Temperature": {
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "NiCo2O4 films",
+        "Property": "Conductivity",
+        "Value": 14285.7142857143,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0040-6090(02)00740-X"
+      }
+    ]
+  }
+}

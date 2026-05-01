@@ -1,0 +1,27 @@
+{
+  "Material": "PbTe + NaTe + SrTe",
+  "DOIs_Researched": [
+    "10.1016/j.mattod.2018.03.039",
+    "10.1038/ncomms12167"
+  ],
+  "Data_By_Temperature": {
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "Na-doped PbTe\u20138 % SrTe",
+        "Property": "ZT",
+        "Value": 2.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/ncomms12167"
+      },
+      {
+        "Original_Name_In_Paper": "Na-doped PbTe\u20138 % SrTe",
+        "Property": "ZT",
+        "Value": 2.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mattod.2018.03.039"
+      }
+    ]
+  }
+}

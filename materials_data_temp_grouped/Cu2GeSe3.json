@@ -1,0 +1,120 @@
+{
+  "Material": "Cu2GeSe3",
+  "DOIs_Researched": [
+    "10.1016/j.intermet.2014.05.006",
+    "10.1016/j.jallcom.2017.06.133",
+    "10.1016/j.jeurceramsoc.2020.12.037",
+    "10.1016/j.matchemphys.2014.06.054",
+    "10.1016/j.jallcom.2018.07.318"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "pristine Cu2GeSe3",
+        "Property": "ThermCond",
+        "Value": 0.77,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.07.318"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Cu2GeSe3",
+        "Property": "ThermCond",
+        "Value": 2.18,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2014.05.006"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2GeSe3",
+        "Property": "Seebeck",
+        "Value": 8.9e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.06.133"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2GeSe3",
+        "Property": "Conductivity",
+        "Value": 8360.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.06.133"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2GeSe3",
+        "Property": "Conductivity",
+        "Value": 8360.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.06.133"
+      },
+      {
+        "Original_Name_In_Paper": "pristine Cu2GeSe3",
+        "Property": "Conductivity",
+        "Value": 16700.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.07.318"
+      }
+    ],
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "Ga-doped Cu2GeSe3",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2020.12.037"
+      }
+    ],
+    "758.0": [
+      {
+        "Original_Name_In_Paper": "copper-deficient Cu2GeSe3",
+        "Property": "ZT",
+        "Value": 0.65,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2020.12.037"
+      },
+      {
+        "Original_Name_In_Paper": "copper-deficient Cu2GeSe3",
+        "Property": "PF",
+        "Value": 0.00064,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2020.12.037"
+      }
+    ],
+    "598.0": [
+      {
+        "Original_Name_In_Paper": "Cu2GeSe3",
+        "Property": "ZT",
+        "Value": 0.34,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2014.06.054"
+      }
+    ],
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "Ni-doped Cu2GeSe3",
+        "Property": "Seebeck",
+        "Value": 0.00045559,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2020.12.037"
+      },
+      {
+        "Original_Name_In_Paper": "pristine Cu2GeSe3",
+        "Property": "Conductivity",
+        "Value": 220.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2020.12.037"
+      }
+    ]
+  }
+}

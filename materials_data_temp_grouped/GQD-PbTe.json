@@ -1,0 +1,18 @@
+{
+  "Material": "GQD-PbTe",
+  "DOIs_Researched": [
+    "10.1016/j.cej.2016.06.049"
+  ],
+  "Data_By_Temperature": {
+    "650.0": [
+      {
+        "Original_Name_In_Paper": "GQD-PbTe",
+        "Property": "ZT",
+        "Value": 0.46,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cej.2016.06.049"
+      }
+    ]
+  }
+}

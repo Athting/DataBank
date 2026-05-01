@@ -1,0 +1,18 @@
+{
+  "Material": "Si80Ge20 alloy",
+  "DOIs_Researched": [
+    "10.1557/opl.2012.1731"
+  ],
+  "Data_By_Temperature": {
+    "1173.0": [
+      {
+        "Original_Name_In_Paper": "Si80Ge20 alloy",
+        "Property": "ThermCond",
+        "Value": 2.3,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1557/opl.2012.1731"
+      }
+    ]
+  }
+}

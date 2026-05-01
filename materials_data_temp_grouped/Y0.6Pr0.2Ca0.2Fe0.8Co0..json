@@ -1,0 +1,18 @@
+{
+  "Material": "Y0.6Pr0.2Ca0.2Fe0.8Co0.",
+  "DOIs_Researched": [
+    "10.1016/j.materresbull.2015.02.006"
+  ],
+  "Data_By_Temperature": {
+    "1173.0": [
+      {
+        "Original_Name_In_Paper": "Y0.6Pr0.2Ca0.2Fe0.8Co0.2O3\u2212\u03b4",
+        "Property": "Conductivity",
+        "Value": 4000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2015.02.006"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Material": "PbTe_{0.98}Na_{0.02}Sr",
+  "DOIs_Researched": [
+    "10.1039/c3ee43099e"
+  ],
+  "Data_By_Temperature": {
+    "915.0": [
+      {
+        "Original_Name_In_Paper": "p-type Pb0.98Na0.02Te\u20134 % SrTe",
+        "Property": "ThermCond",
+        "Value": 0.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ee43099e"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Pb0.98Na0.02Te\u20134 % SrTe",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ee43099e"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Ti1.017S2",
+  "DOIs_Researched": [
+    "10.1016/j.matdes.2016.11.086"
+  ],
+  "Data_By_Temperature": {
+    "648.0": [
+      {
+        "Original_Name_In_Paper": "Ti1.017S2",
+        "Property": "ZT",
+        "Value": 0.32,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matdes.2016.11.086"
+      }
+    ]
+  }
+}

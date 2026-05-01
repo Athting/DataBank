@@ -1,0 +1,18 @@
+{
+  "Material": "FeCoSi1.958Ge0.042",
+  "DOIs_Researched": [
+    "10.1016/S0966-9795(03)00020-7"
+  ],
+  "Data_By_Temperature": {
+    "845.0": [
+      {
+        "Original_Name_In_Paper": "Fe0.95Co0.05Si1.958Ge0.042",
+        "Property": "ZT",
+        "Value": 0.00013000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0966-9795(03)00020-7"
+      }
+    ]
+  }
+}

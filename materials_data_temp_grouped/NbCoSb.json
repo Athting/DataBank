@@ -1,0 +1,106 @@
+{
+  "Material": "NbCoSb",
+  "DOIs_Researched": [
+    "10.1016/j.materresbull.2015.06.022",
+    "10.1039/c7cp07521a",
+    "10.1016/j.scriptamat.2020.04.036",
+    "10.1016/j.materresbull.2015.11.032",
+    "10.1039/c7cp04801g",
+    "10.1039/c8ee00306h",
+    "10.1039/c9tc00743a",
+    "10.1039/c5ra21404a",
+    "10.1016/j.mtphys.2020.100200"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "NbCoSb",
+        "Property": "ThermCond",
+        "Value": 2.34,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cp04801g"
+      },
+      {
+        "Original_Name_In_Paper": "NbCoSb",
+        "Property": "ThermCond",
+        "Value": 7.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": "substitution of Nb",
+        "Source_DOI": "10.1039/c5ra21404a"
+      }
+    ],
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "NbCoSb",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2020.04.036"
+      },
+      {
+        "Original_Name_In_Paper": "NbCoSb",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2015.11.032"
+      },
+      {
+        "Original_Name_In_Paper": "NbCoSb",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee00306h"
+      },
+      {
+        "Original_Name_In_Paper": "NbCoSb",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2015.06.022"
+      },
+      {
+        "Original_Name_In_Paper": "NbCoSb",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2015.06.022"
+      }
+    ],
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "NbCoSb",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cp07521a"
+      }
+    ],
+    "950.0": [
+      {
+        "Original_Name_In_Paper": "NbCoSb",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc00743a"
+      }
+    ],
+    "1123.0": [
+      {
+        "Original_Name_In_Paper": "Ni-doped Nb0.8CoSb",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2020.100200"
+      }
+    ]
+  }
+}

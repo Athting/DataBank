@@ -1,0 +1,18 @@
+{
+  "Material": "pristine 2H",
+  "DOIs_Researched": [
+    "10.1039/c6ra26958c"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "pristine 2H",
+        "Property": "ThermCond",
+        "Value": 40.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra26958c"
+      }
+    ]
+  }
+}

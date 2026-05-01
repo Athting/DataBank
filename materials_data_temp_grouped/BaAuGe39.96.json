@@ -1,0 +1,18 @@
+{
+  "Material": "BaAuGe39.96",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2013.10.104"
+  ],
+  "Data_By_Temperature": {
+    "740.0": [
+      {
+        "Original_Name_In_Paper": "Ba8Au5.47Ge39.96",
+        "Property": "ZT",
+        "Value": 0.63,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.10.104"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "Material": "Cu3Sb0.88Sn0.10Bi0.02Se4",
+  "DOIs_Researched": [
+    "10.1039/c6ta08467b"
+  ],
+  "Data_By_Temperature": {
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "Cu3Sb0.88Sn0.10Bi0.02Se4",
+        "Property": "ZT",
+        "Value": 1.26,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta08467b"
+      },
+      {
+        "Original_Name_In_Paper": "Cu3Sb0.88Sn0.10Bi0.02Se4",
+        "Property": "ZT",
+        "Value": 1.26,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta08467b"
+      }
+    ],
+    "654.0": [
+      {
+        "Original_Name_In_Paper": "Cu3Sb0.88Sn0.10Bi0.02Se4",
+        "Property": "PF",
+        "Value": 0.0018100000000000002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta08467b"
+      }
+    ]
+  }
+}

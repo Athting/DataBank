@@ -1,0 +1,18 @@
+{
+  "Material": "Bi0.0925Ca0.075CuSeO",
+  "DOIs_Researched": [
+    "10.1007/s40243-019-0163-y"
+  ],
+  "Data_By_Temperature": {
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.0925Ca0.075CuSeO",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s40243-019-0163-y"
+      }
+    ]
+  }
+}

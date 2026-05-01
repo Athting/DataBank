@@ -1,0 +1,52 @@
+{
+  "Material": "PEDOT : PSS / PEDOT",
+  "DOIs_Researched": [
+    "10.1016/j.synthmet.2019.116254"
+  ],
+  "Data_By_Temperature": {
+    "360.0": [
+      {
+        "Original_Name_In_Paper": "PEDOT : PSS / PEDOT",
+        "Property": "PF",
+        "Value": 5e-07,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.synthmet.2019.116254"
+      },
+      {
+        "Original_Name_In_Paper": "PEDOT : PSS / PEDOT",
+        "Property": "PF",
+        "Value": 5e-07,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.synthmet.2019.116254"
+      },
+      {
+        "Original_Name_In_Paper": "PEDOT : PSS / PEDOT",
+        "Property": "PF",
+        "Value": 5e-07,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.synthmet.2019.116254"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "PEDOT : PSS / PEDOT",
+        "Property": "Conductivity",
+        "Value": 1487.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.synthmet.2019.116254"
+      },
+      {
+        "Original_Name_In_Paper": "PEDOT : PSS / PEDOT",
+        "Property": "Conductivity",
+        "Value": 1804.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.synthmet.2019.116254"
+      }
+    ]
+  }
+}

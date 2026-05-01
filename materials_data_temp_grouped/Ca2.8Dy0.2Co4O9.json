@@ -1,0 +1,26 @@
+{
+  "Material": "Ca2.8Dy0.2Co4O9",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2017.08.191"
+  ],
+  "Data_By_Temperature": {
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "Ca2.8Dy0.2Co4O9",
+        "Property": "PF",
+        "Value": 1.89e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2017.08.191"
+      },
+      {
+        "Original_Name_In_Paper": "Ca2.8Dy0.2Co4O9",
+        "Property": "PF",
+        "Value": 1.89e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2017.08.191"
+      }
+    ]
+  }
+}

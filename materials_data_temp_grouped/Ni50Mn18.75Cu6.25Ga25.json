@@ -1,0 +1,18 @@
+{
+  "Material": "Ni50Mn18.75Cu6.25Ga25",
+  "DOIs_Researched": [
+    "10.1016/j.jmmm.2015.11.025"
+  ],
+  "Data_By_Temperature": {
+    "275.0": [
+      {
+        "Original_Name_In_Paper": "Ni50Mn18.75Cu6.25Ga25",
+        "Property": "Conductivity",
+        "Value": 434782.6086956522,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmmm.2015.11.025"
+      }
+    ]
+  }
+}

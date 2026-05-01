@@ -1,0 +1,18 @@
+{
+  "Material": "Bi0.90Er0.10CuSeO",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2018.11.130"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.90Er0.10CuSeO",
+        "Property": "Conductivity",
+        "Value": 13300.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.11.130"
+      }
+    ]
+  }
+}

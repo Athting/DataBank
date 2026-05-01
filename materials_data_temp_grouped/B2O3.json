@@ -1,0 +1,37 @@
+{
+  "Material": "B2O3",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2011.05.033",
+    "10.1016/j.jeurceramsoc.2015.12.001"
+  ],
+  "Data_By_Temperature": {
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "B2O3",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2011.05.033"
+      },
+      {
+        "Original_Name_In_Paper": "B2O3",
+        "Property": "PF",
+        "Value": 0.0032,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2011.05.033"
+      }
+    ],
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "B2O3",
+        "Property": "ZT",
+        "Value": 0.001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2015.12.001"
+      }
+    ]
+  }
+}

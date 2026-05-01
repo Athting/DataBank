@@ -1,0 +1,18 @@
+{
+  "Material": "Fe0.92Co0.08_2VAl",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2009.05.032"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "(Fe0.92Co0.08)2VAl",
+        "Property": "PF",
+        "Value": 2750.0,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.05.032"
+      }
+    ]
+  }
+}

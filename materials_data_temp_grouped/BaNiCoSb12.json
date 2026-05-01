@@ -1,0 +1,105 @@
+{
+  "Material": "BaNiCoSb12",
+  "DOIs_Researched": [
+    "10.1039/c5ra03942h",
+    "10.1557/JMR.2001.0460",
+    "10.1016/j.mser.2018.09.001",
+    "10.1016/j.jssc.2012.03.041",
+    "10.1039/c1nr10555h",
+    "10.1016/j.jallcom.2005.03.032",
+    "10.1038/asiamat.2010.138",
+    "10.1016/j.jallcom.2017.11.030"
+  ],
+  "Data_By_Temperature": {
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "n-type Ba0.3Ni0.05Co3.95Sb12",
+        "Property": "ZT",
+        "Value": 1.25,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1557/JMR.2001.0460"
+      },
+      {
+        "Original_Name_In_Paper": "n-type Ba0.30Ni0.05Co3.95Sb12",
+        "Property": "ZT",
+        "Value": 1.25,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2012.03.041"
+      },
+      {
+        "Original_Name_In_Paper": "n-type Ba0.30Ni0.05Co3.95Sb12",
+        "Property": "ZT",
+        "Value": 1.25,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/asiamat.2010.138"
+      },
+      {
+        "Original_Name_In_Paper": "n-type Ba0.3Ni0.05Co3.95Sb12",
+        "Property": "ZT",
+        "Value": 1.25,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2005.03.032"
+      },
+      {
+        "Original_Name_In_Paper": "Ba0.30Ni0.05Co3.95Sb12",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c1nr10555h"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Ba0.3Ni0.05Co3.95Sb12 compounds",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra03942h"
+      }
+    ],
+    "775.0": [
+      {
+        "Original_Name_In_Paper": "Ba0.3Ni0.05Co3.95Sb12",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mser.2018.09.001"
+      }
+    ],
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "Ba0.3Ni0.15Co3.85Sb12",
+        "Property": "Conductivity",
+        "Value": 53995.6803455724,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.11.030"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ba0.3Ni0.15Co3.85Sb12",
+        "Property": "PF",
+        "Value": 0.00117,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.11.030"
+      },
+      {
+        "Original_Name_In_Paper": "Ba0.3Ni0.15Co3.85Sb12",
+        "Property": "PF",
+        "Value": 0.00117,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.11.030"
+      }
+    ]
+  }
+}

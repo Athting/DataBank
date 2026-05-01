@@ -1,0 +1,44 @@
+{
+  "Material": "CdGeTe",
+  "DOIs_Researched": [
+    "10.1039/c9ta10436d"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Cd0.03Ge0.97Te",
+        "Property": "ThermCond",
+        "Value": 2.25,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta10436d"
+      },
+      {
+        "Original_Name_In_Paper": "Cd0.05Ge0.95Te",
+        "Property": "Seebeck",
+        "Value": 5.24e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta10436d"
+      },
+      {
+        "Original_Name_In_Paper": "Cd0.05Ge0.95Te",
+        "Property": "Conductivity",
+        "Value": 347400.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta10436d"
+      }
+    ],
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "Cd0.03Ge0.97Te",
+        "Property": "ThermCond",
+        "Value": 0.61,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta10436d"
+      }
+    ]
+  }
+}

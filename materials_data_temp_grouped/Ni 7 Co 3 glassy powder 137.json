@@ -1,0 +1,18 @@
+{
+  "Material": "Ni 7 Co 3 glassy powder 137",
+  "DOIs_Researched": [
+    "10.1016/S0925-8388(10)00044-7"
+  ],
+  "Data_By_Temperature": {
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "Ni 7 Co 3 glassy powder 137",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": "Ce addition",
+        "Source_DOI": "10.1016/S0925-8388(10)00044-7"
+      }
+    ]
+  }
+}

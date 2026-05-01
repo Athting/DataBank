@@ -1,0 +1,18 @@
+{
+  "Material": "HfZrCoNiSb",
+  "DOIs_Researched": [
+    "10.1016/j.mtphys.2017.05.002"
+  ],
+  "Data_By_Temperature": {
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "Hf0.5Zr0.5Co0.9Ni0.1Sb",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2017.05.002"
+      }
+    ]
+  }
+}

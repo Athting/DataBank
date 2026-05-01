@@ -1,0 +1,28 @@
+{
+  "Material": "Pd8In2Se",
+  "DOIs_Researched": [
+    "10.1016/j.jpcs.2019.109229"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Pd8In2Se",
+        "Property": "Conductivity",
+        "Value": 4.347826087e+20,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2019.109229"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Pd8In2Se",
+        "Property": "Seebeck",
+        "Value": 2.4999999999999998e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2019.109229"
+      }
+    ]
+  }
+}

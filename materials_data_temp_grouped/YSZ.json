@@ -1,0 +1,29 @@
+{
+  "Material": "YSZ",
+  "DOIs_Researched": [
+    "10.1016/j.jeurceramsoc.2013.08.009",
+    "10.1039/c9ta09244g"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "YSZ crystals",
+        "Property": "ThermCond",
+        "Value": 2.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2013.08.009"
+      }
+    ],
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "8YSZ",
+        "Property": "Conductivity",
+        "Value": 90000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta09244g"
+      }
+    ]
+  }
+}

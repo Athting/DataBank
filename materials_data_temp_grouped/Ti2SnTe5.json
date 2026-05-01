@@ -1,0 +1,18 @@
+{
+  "Material": "Ti2SnTe5",
+  "DOIs_Researched": [
+    "10.1016/j.energy.2019.04.088"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ti2SnTe5",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.energy.2019.04.088"
+      }
+    ]
+  }
+}

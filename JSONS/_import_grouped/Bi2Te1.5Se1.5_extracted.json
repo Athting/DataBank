@@ -1,0 +1,68 @@
+{
+  "doi": "10.1039/c8ra09280j",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Bi2Te1.5Se1.5 doped with I",
+        "I-doped n-type Bi2Te1.5Se1.5 zone",
+        "n-type Bi2Te1.5Se1.5",
+        "n-type Bi2Te1.5Se1.5 with I",
+        "Bi2Te1.5Se1.5"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Bi2Te1.5Se1.5 doped with I",
+          "zt_value": 0.86,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "I-doped n-type Bi2Te1.5Se1.5 zone",
+          "zt_value": 0.86,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "n-type Bi2Te1.5Se1.5",
+          "zt_value": 0.86,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "n-type Bi2Te1.5Se1.5 with I",
+          "zt_value": 0.86,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "Bi2Te1.5Se1.5",
+          "zt_value": 1.1,
+          "temperature": "600.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

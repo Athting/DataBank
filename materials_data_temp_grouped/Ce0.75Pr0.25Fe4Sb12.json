@@ -1,0 +1,18 @@
+{
+  "Material": "Ce0.75Pr0.25Fe4Sb12",
+  "DOIs_Researched": [
+    "10.1007/s11664-016-4847-0"
+  ],
+  "Data_By_Temperature": {
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "Ce0.75Pr0.25 Fe4Sb12",
+        "Property": "PF",
+        "Value": 0.0032,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-016-4847-0"
+      }
+    ]
+  }
+}

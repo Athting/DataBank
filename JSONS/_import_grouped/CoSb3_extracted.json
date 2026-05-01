@@ -1,0 +1,1300 @@
+{
+  "doi": "10.1039/c4ta05083e",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "CoSb3",
+        "pristine CoSb3",
+        "pure CoSb3",
+        "Pure CoSb3",
+        "nano-sized p-type CoSb3",
+        "cobalt skutterudite compounds",
+        "CoSb3 film",
+        "undoped CoSb3",
+        "CoSb3 / 1 % WO3 composite",
+        "nanocrytalline CoSb3",
+        "single crystalline CoSb3",
+        "unfilled CoSb3",
+        "n-type polycrystalline CoSb3 thin films",
+        "CoSb3 matrix",
+        "CoSb3 thin film",
+        "p-type post-annealed CoSb3",
+        "CoSb3 thin films",
+        "CoSb3 crystals",
+        "bulk CoSb3 skutterudite",
+        "bulk CoSb3 material",
+        "bulk CoSb3",
+        "Ga-filled CoSb3",
+        "CoSb3 nanostructured",
+        "CoSb3 crystal",
+        "unfilled CoSb3 composites",
+        "cobalt skutterudite",
+        "single In-filled CoSb3",
+        "CoSb3 with Ga",
+        "pristine bulk CoSb3",
+        "Undoped CoSb3",
+        "doped n-type single crystalline CoSb3",
+        "nanocrystalline CoSb3",
+        "n-type CoSb3 nanocomposites",
+        "Te-doped CoSb3",
+        "Fe doped CoSb3",
+        "polycrystalline CoSb3",
+        "undoped bulk CoSb3",
+        "unfilled CoSb3 skutterudite",
+        "Y filled CoSb3",
+        "n-type Co0.8Ni0.2Sb3",
+        "pure nanocrystalline CoSb3",
+        "Ba-filled CoSb3",
+        "doped CoSb3",
+        "CoSb3 bulk material",
+        "Yb-filled CoSb3",
+        "CoSb3 filled Ba0.08La0.05Yb0.04",
+        "CoSb3 skutterudite",
+        "n-type CoSb3",
+        "CoSb3 compound",
+        "doped n-type CoSb3",
+        "doped n-type CoSb3 single crystals",
+        "single crystal CoSb3 co-doped with Pt and Pd",
+        "p-type Fe and Se co-substituted CoSb3",
+        "indium and cerium co-filled CoSb3 nanocomposite",
+        "graphene-free CoSb3",
+        "CoSb3 / graphene",
+        "CoSb3(1+δ)",
+        "n-type CoSb3 thin films",
+        "n-type CoSb3 films",
+        "p-type CoSb3 films"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "CoSb3",
+          "value": 0.00023,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "undoped CoSb3",
+          "value": -0.000177,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CoSb3",
+          "value": 0,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CoSb3",
+          "value": 0.00011,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "n-type polycrystalline CoSb3 thin films",
+          "value": -0.00025,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CoSb3 matrix",
+          "value": 0.00011,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CoSb3 thin film",
+          "value": 0.000058,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "p-type post-annealed CoSb3",
+          "value": 0.00019,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CoSb3",
+          "value": 0.000557,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CoSb3",
+          "value": 0.000215,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CoSb3",
+          "value": 0.00008,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "value": 0.0002,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "CoSb3 bulk material",
+          "value": 0.000155,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "660.0 K"
+        },
+        {
+          "material": "bulk CoSb3",
+          "value": 0.000155,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "660.0 K"
+        },
+        {
+          "material": "CoSb3 thin films",
+          "value": -0.000088,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "value": -0.0000934,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "525.0 K"
+        },
+        {
+          "material": "n-type CoSb3 thin films",
+          "value": -0.00025,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "473.0 K"
+        },
+        {
+          "material": "n-type CoSb3 films",
+          "value": -0.00025,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "473.0 K"
+        },
+        {
+          "material": "n-type CoSb3 films",
+          "value": -0.00025,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "473.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "value": 0.00042579,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "350.0 K"
+        },
+        {
+          "material": "CoSb3(1+δ)",
+          "value": 0.000051,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "350.0 K"
+        },
+        {
+          "material": "CoSb3 thin film",
+          "value": 0.000046899999999999995,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "523.0 K"
+        },
+        {
+          "material": "p-type CoSb3 films",
+          "value": 0.0006000000000000001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "1023.0 K"
+        },
+        {
+          "material": "p-type CoSb3 films",
+          "value": 0.0006000000000000001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "value": 0.000147,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "615.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "value": 0.000367,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "450.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "CoSb3",
+          "value": 52631.5789473684,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "undoped CoSb3",
+          "value": 100,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine CoSb3",
+          "value": 64000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CoSb3",
+          "value": 119000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CoSb3",
+          "value": 4000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CoSb3",
+          "value": 28100,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CoSb3 thin films",
+          "value": 35000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "value": 60000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "pure CoSb3",
+          "value": 75000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "value": 80000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "value": 2385,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "50.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "value": 621.1180124224,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "CoSb3 thin film",
+          "value": 0.000233,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "523.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "CoSb3",
+          "value": 8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CoSb3",
+          "value": 10,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CoSb3",
+          "value": 3,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CoSb3",
+          "value": 9,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine CoSb3",
+          "value": 1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CoSb3",
+          "value": 10,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CoSb3",
+          "value": 10,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure CoSb3",
+          "value": 10,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Pure CoSb3",
+          "value": 6,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CoSb3",
+          "value": 8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CoSb3",
+          "value": 8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine CoSb3",
+          "value": 1.33,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine CoSb3",
+          "value": 3,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "nano-sized p-type CoSb3",
+          "value": 1.94,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "cobalt skutterudite compounds",
+          "value": 1.33,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CoSb3 film",
+          "value": 1.1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CoSb3",
+          "value": 6.8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CoSb3",
+          "value": 10,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CoSb3",
+          "value": 8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "undoped CoSb3",
+          "value": 8.71,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CoSb3",
+          "value": 8.68,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CoSb3",
+          "value": 10,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "undoped CoSb3",
+          "value": 10,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CoSb3 / 1 % WO3 composite",
+          "value": 3.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure CoSb3",
+          "value": 8.21,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CoSb3",
+          "value": 8.15,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CoSb3",
+          "value": 10,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CoSb3",
+          "value": 10,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure CoSb3",
+          "value": 8.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CoSb3",
+          "value": 6.97,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CoSb3",
+          "value": 14.231,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure CoSb3",
+          "value": 8.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CoSb3 film",
+          "value": 1.1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "nanocrytalline CoSb3",
+          "value": 0.6000000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "single crystalline CoSb3",
+          "value": 11.8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "unfilled CoSb3",
+          "value": 10,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CoSb3",
+          "value": 2.1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CoSb3",
+          "value": 10,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "CoSb3 crystals",
+          "value": 4.67,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "bulk CoSb3 skutterudite",
+          "value": 9,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "value": 10,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "value": 10,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "bulk CoSb3 material",
+          "value": 5.3,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "value": 11.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "pure CoSb3",
+          "value": 9,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "value": 11.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "value": 5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "value": 11,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "value": 11.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "value": 10,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "pure CoSb3",
+          "value": 10,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "value": 155,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "bulk CoSb3",
+          "value": 9.8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "value": 0.44515000000000005,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "value": 9,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "value": 1.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "value": 10,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Ga-filled CoSb3",
+          "value": 5.16,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "value": 5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "650.0 K"
+        },
+        {
+          "material": "CoSb3 crystal",
+          "value": 2.9699999999999998,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "320.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "value": 10.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "320.0 K"
+        },
+        {
+          "material": "pristine CoSb3",
+          "value": 0.76,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "575.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "value": 49,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "12.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "value": 3.24,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "value": 1.99,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "nanocrystalline CoSb3",
+          "value": 1.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "polycrystalline CoSb3",
+          "value": 9,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "293.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "value": 10,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "298.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "value": 9,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "298.0 K"
+        },
+        {
+          "material": "undoped bulk CoSb3",
+          "value": 4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "value": 7.74,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "675.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "value": 8.13,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "675.0 K"
+        },
+        {
+          "material": "unfilled CoSb3 skutterudite",
+          "value": 1.6,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "pure nanocrystalline CoSb3",
+          "value": 0.8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "611.0 K"
+        },
+        {
+          "material": "Ba-filled CoSb3",
+          "value": 4.89,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "883.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "value": 0.0064600000000000005,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "50.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "CoSb3 thin films",
+          "value": 0.0007059999999999999,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CoSb3",
+          "value": 0.00125,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "650.0 K"
+        },
+        {
+          "material": "pristine CoSb3",
+          "value": 0.00185,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "575.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "value": 0.00254,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "value": 0.003,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "298.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "value": 0.00007762,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "value": 0.00079,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "CoSb3 / graphene",
+          "value": 0.0008,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "value": 0.0016,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "550.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "value": 0.00021,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "525.0 K"
+        },
+        {
+          "material": "Te-doped CoSb3",
+          "value": 0.0038400000000000005,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "nanocrystalline CoSb3",
+          "value": 0.000312,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "707.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "value": 0.001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "400.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "pure CoSb3",
+          "zt_value": 0.02,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "bulk CoSb3 material",
+          "zt_value": 0.02,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "CoSb3 nanostructured",
+          "zt_value": 0.15,
+          "temperature": "650.0 K"
+        },
+        {
+          "material": "undoped CoSb3",
+          "zt_value": 0.15,
+          "temperature": "650.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "zt_value": 0.08,
+          "temperature": "650.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "zt_value": 0.45,
+          "temperature": "650.0 K"
+        },
+        {
+          "material": "unfilled CoSb3 composites",
+          "zt_value": 0.78,
+          "temperature": "575.0 K"
+        },
+        {
+          "material": "cobalt skutterudite",
+          "zt_value": 0.78,
+          "temperature": "575.0 K"
+        },
+        {
+          "material": "single In-filled CoSb3",
+          "zt_value": 1.2,
+          "temperature": "575.0 K"
+        },
+        {
+          "material": "CoSb3 with Ga",
+          "zt_value": 0.7000000000000001,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "pristine bulk CoSb3",
+          "zt_value": 0.08,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "Undoped CoSb3",
+          "zt_value": 0.1,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "undoped CoSb3",
+          "zt_value": 0.05,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "doped n-type single crystalline CoSb3",
+          "zt_value": 0.52,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "zt_value": 0.14,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "zt_value": 1,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "n-type CoSb3 nanocomposites",
+          "zt_value": 0.71,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "Te-doped CoSb3",
+          "zt_value": 0.8,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "Fe doped CoSb3",
+          "zt_value": 0.2,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "polycrystalline CoSb3",
+          "zt_value": 0.051000000000000004,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "polycrystalline CoSb3",
+          "zt_value": 0.051000000000000004,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "zt_value": 0.7000000000000001,
+          "temperature": "675.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "zt_value": 0.06,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Y filled CoSb3",
+          "zt_value": 0.07,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "n-type Co0.8Ni0.2Sb3",
+          "zt_value": 0.7000000000000001,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "unfilled CoSb3",
+          "zt_value": 0.17,
+          "temperature": "611.0 K"
+        },
+        {
+          "material": "pure nanocrystalline CoSb3",
+          "zt_value": 0.17,
+          "temperature": "611.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "zt_value": 0.17,
+          "temperature": "611.0 K"
+        },
+        {
+          "material": "pure CoSb3",
+          "zt_value": 0.17,
+          "temperature": "611.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "zt_value": 0.17,
+          "temperature": "611.0 K"
+        },
+        {
+          "material": "doped CoSb3",
+          "zt_value": 0.47000000000000003,
+          "temperature": "660.0 K"
+        },
+        {
+          "material": "CoSb3 bulk material",
+          "zt_value": 0.47000000000000003,
+          "temperature": "660.0 K"
+        },
+        {
+          "material": "bulk CoSb3",
+          "zt_value": 0.47000000000000003,
+          "temperature": "660.0 K"
+        },
+        {
+          "material": "CoSb3 bulk material",
+          "zt_value": 1.7000000000000002,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "zt_value": 1.7000000000000002,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "Yb-filled CoSb3",
+          "zt_value": 1.3,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "zt_value": 1.8,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "zt_value": 1.7000000000000002,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "CoSb3 filled Ba0.08La0.05Yb0.04",
+          "zt_value": 1.7000000000000002,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "zt_value": 1.7000000000000002,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "zt_value": 1.7000000000000002,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "zt_value": 1.26,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "zt_value": 1.7000000000000002,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "zt_value": 1.7000000000000002,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "Yb-filled CoSb3",
+          "zt_value": 1.5,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "zt_value": 0.5,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "zt_value": 1.7000000000000002,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "CoSb3 filled Ba0.08La0.05Yb0.04",
+          "zt_value": 1.7000000000000002,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "zt_value": 0.5,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "zt_value": 1.7000000000000002,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "Yb-filled CoSb3",
+          "zt_value": 1.3,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "zt_value": 1.7000000000000002,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "CoSb3 skutterudite",
+          "zt_value": 1.53,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "undoped CoSb3",
+          "zt_value": 0.17,
+          "temperature": "610.0 K"
+        },
+        {
+          "material": "undoped CoSb3",
+          "zt_value": 0.17,
+          "temperature": "610.0 K"
+        },
+        {
+          "material": "n-type CoSb3",
+          "zt_value": 1.6,
+          "temperature": "825.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "zt_value": 1.54,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "zt_value": 1.54,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "zt_value": 0.28,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "zt_value": 1.54,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "CoSb3 compound",
+          "zt_value": 0.095,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "CoSb3 compound",
+          "zt_value": 0.095,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "doped n-type CoSb3",
+          "zt_value": 1,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "doped n-type CoSb3 single crystals",
+          "zt_value": 0.52,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "zt_value": 0.9,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "single crystal CoSb3 co-doped with Pt and Pd",
+          "zt_value": 0.9,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "zt_value": 0.59,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "p-type Fe and Se co-substituted CoSb3",
+          "zt_value": 0.54,
+          "temperature": "870.0 K"
+        },
+        {
+          "material": "pure CoSb3",
+          "zt_value": 0.113,
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "indium and cerium co-filled CoSb3 nanocomposite",
+          "zt_value": 1.43,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "zt_value": 1.43,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "zt_value": 0.6000000000000001,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "zt_value": 0.2,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "zt_value": 0.61,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "graphene-free CoSb3",
+          "zt_value": 0.26,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "zt_value": 1.1,
+          "temperature": "820.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "zt_value": 1.43,
+          "temperature": "803.0 K"
+        },
+        {
+          "material": "pure CoSb3",
+          "zt_value": 0.67,
+          "temperature": "710.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "zt_value": 0.1,
+          "temperature": "596.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "zt_value": 0.15,
+          "temperature": "540.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "zt_value": 0.8,
+          "temperature": "720.0 K"
+        },
+        {
+          "material": "CoSb3(1+δ)",
+          "zt_value": 0.07,
+          "temperature": "550.0 K"
+        },
+        {
+          "material": "CoSb3(1+δ)",
+          "zt_value": 0.07,
+          "temperature": "550.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "zt_value": 0.24,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "zt_value": 0.005,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "CoSb3",
+          "zt_value": 0.007,
+          "temperature": "973.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

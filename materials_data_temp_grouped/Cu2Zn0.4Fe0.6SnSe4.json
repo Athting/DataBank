@@ -1,0 +1,29 @@
+{
+  "Material": "Cu2Zn0.4Fe0.6SnSe4",
+  "DOIs_Researched": [
+    "10.1016/j.intermet.2014.10.015",
+    "10.1039/c5tc01606a"
+  ],
+  "Data_By_Temperature": {
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "Cu2Zn0.4Fe0.6SnSe4",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01606a"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Cu2Zn0.4Fe0.6SnSe4",
+        "Property": "ZT",
+        "Value": 0.46,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2014.10.015"
+      }
+    ]
+  }
+}

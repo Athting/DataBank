@@ -1,0 +1,26 @@
+{
+  "Material": "PbTe\u2013MgTe",
+  "DOIs_Researched": [
+    "10.1039/c5ee02979a"
+  ],
+  "Data_By_Temperature": {
+    "810.0": [
+      {
+        "Original_Name_In_Paper": "p-type PbTe\u2013MgTe",
+        "Property": "ZT",
+        "Value": 1.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ee02979a"
+      },
+      {
+        "Original_Name_In_Paper": "p-type PbTe\u2013MgTe",
+        "Property": "ZT",
+        "Value": 1.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ee02979a"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "Material": "Ge0.84Pb0.05Sb0.05Te0.",
+  "DOIs_Researched": [
+    "10.1039/c9ta10963c"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Ge0.84In0.01Pb0.1Sb0.05Te0.997I0.003",
+        "Property": "ZT",
+        "Value": 2.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta10963c"
+      },
+      {
+        "Original_Name_In_Paper": "Ge0.84In0.01Pb0.1Sb0.05Te0.997I0.003",
+        "Property": "ZT",
+        "Value": 2.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta10963c"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ge0.84In0.01Pb0.1Sb0.05Te0.997I0.003",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta10963c"
+      }
+    ]
+  }
+}

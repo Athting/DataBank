@@ -1,0 +1,18 @@
+{
+  "Material": "Ba4.9V12Sb19.0",
+  "DOIs_Researched": [
+    "10.1039/c5cp04000k"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ba4.9V12Sb19.0",
+        "Property": "Conductivity",
+        "Value": 25000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5cp04000k"
+      }
+    ]
+  }
+}

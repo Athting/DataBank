@@ -1,0 +1,34 @@
+{
+  "Material": "CeSi2",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2005.07.053"
+  ],
+  "Data_By_Temperature": {
+    "240.0": [
+      {
+        "Original_Name_In_Paper": "CeSi2",
+        "Property": "ZT",
+        "Value": 0.08600000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2005.07.053"
+      },
+      {
+        "Original_Name_In_Paper": "CeSi2 compound",
+        "Property": "ZT",
+        "Value": 0.08600000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2005.07.053"
+      },
+      {
+        "Original_Name_In_Paper": "CeSi2 compound",
+        "Property": "ZT",
+        "Value": 0.08600000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2005.07.053"
+      }
+    ]
+  }
+}

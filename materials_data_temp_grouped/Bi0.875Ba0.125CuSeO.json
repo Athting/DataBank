@@ -1,0 +1,198 @@
+{
+  "Material": "Bi0.875Ba0.125CuSeO",
+  "DOIs_Researched": [
+    "10.1039/c3ee41859f",
+    "10.1007/s11434-014-0237-2",
+    "10.1016/j.apsusc.2016.10.209",
+    "10.1039/c2ee22622g",
+    "10.1016/j.jallcom.2013.11.116",
+    "10.1016/j.jallcom.2012.10.160",
+    "10.1039/c6ta04310k",
+    "10.1016/B978-0-12-815751-0.00009-2",
+    "10.1016/j.cocom.2020.e00492",
+    "10.1039/c4ta02050b",
+    "10.1007/s42114-017-0011-4",
+    "10.1016/j.jssc.2014.11.001",
+    "10.1039/d0ta00240b",
+    "10.1016/j.matdes.2019.108263",
+    "10.1039/c7ta03659k"
+  ],
+  "Data_By_Temperature": {
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.875Ba0.125CuSeO",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta04310k"
+      },
+      {
+        "Original_Name_In_Paper": "hole doped Bi0.875Ba0.125CuSeO",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ee41859f"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.875Ba0.125CuSeO",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ee41859f"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.875Ba0.125CuSeO",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ee41859f"
+      },
+      {
+        "Original_Name_In_Paper": "textured Bi0.875Ba0.125CuSeO",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ee41859f"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.875Ba0.125CuSeO",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2ee22622g"
+      },
+      {
+        "Original_Name_In_Paper": "textured Bi0.875Ba0.125CuSeO",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta02050b"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.875Ba0.125CuSeO",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11434-014-0237-2"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.875Ba0.125CuSeO",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.11.116"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.875Ba0.125CuSeO compound",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cocom.2020.e00492"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.875Ba0.125CuSeO",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2014.11.001"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.875Ba0.125CuSeO",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-12-815751-0.00009-2"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.875Ba0.125CuSeO",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta00240b"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.875Ba0.125CuSeO",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta00240b"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.875Ba0.125CuSeO",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2016.10.209"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.875Ba0.125CuSeO",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2012.10.160"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.875Ba0.125CuSeO",
+        "Property": "PF",
+        "Value": 0.000633,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2ee22622g"
+      }
+    ],
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "doped Bi0.875Ba0.125CuSeO",
+        "Property": "ZT",
+        "Value": 1.02,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matdes.2019.108263"
+      }
+    ],
+    "293.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.875Ba0.125CuSeO",
+        "Property": "Seebeck",
+        "Value": 0.00011499999999999999,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ta03659k"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "textured Bi0.875Ba0.125CuSeO",
+        "Property": "Seebeck",
+        "Value": 8.499999999999999e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ee41859f"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.875Ba0.125CuSeO",
+        "Property": "Conductivity",
+        "Value": 53500.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": "Ba2+ doping",
+        "Source_DOI": "10.1007/s42114-017-0011-4"
+      }
+    ]
+  }
+}

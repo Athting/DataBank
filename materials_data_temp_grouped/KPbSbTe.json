@@ -1,0 +1,27 @@
+{
+  "Material": "KPbSbTe",
+  "DOIs_Researched": [
+    "10.1016/j.ijheatmasstransfer.2019.02.088",
+    "10.1038/asiamat.2010.138"
+  ],
+  "Data_By_Temperature": {
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "K0.95Pb20Sb1.2Te22",
+        "Property": "ZT",
+        "Value": 1.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ijheatmasstransfer.2019.02.088"
+      },
+      {
+        "Original_Name_In_Paper": "K0.95Pb20Sb1.2Te22",
+        "Property": "ZT",
+        "Value": 1.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/asiamat.2010.138"
+      }
+    ]
+  }
+}

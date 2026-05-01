@@ -1,0 +1,18 @@
+{
+  "Material": "BC / C12A7(5)",
+  "DOIs_Researched": [
+    "10.1016/j.matchemphys.2019.01.028"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "BC / C12A7(5)",
+        "Property": "Conductivity",
+        "Value": 0.21,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2019.01.028"
+      }
+    ]
+  }
+}

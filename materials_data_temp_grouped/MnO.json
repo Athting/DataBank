@@ -1,0 +1,141 @@
+{
+  "Material": "MnO",
+  "DOIs_Researched": [
+    "10.1016/S1002-0721(12)60374-3",
+    "10.1016/S0925-8388(09)01720-4",
+    "10.1016/S0925-8388(09)00895-0",
+    "10.1016/S0925-8388(10)00044-7",
+    "10.1016/S0925-8388(07)00600-7",
+    "10.1016/S0925-8388(05)00965-5"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "MnO",
+        "Property": "ZT",
+        "Value": 0.92,
+        "Units": null,
+        "Editing": "Pr doping",
+        "Source_DOI": "10.1016/S1002-0721(12)60374-3"
+      },
+      {
+        "Original_Name_In_Paper": "MnO",
+        "Property": "ZT",
+        "Value": 0.92,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S1002-0721(12)60374-3"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "MnO",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(05)00965-5"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "MnO",
+        "Property": "ZT",
+        "Value": 0.9500000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(07)00600-7"
+      },
+      {
+        "Original_Name_In_Paper": "MnO",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(09)00895-0"
+      },
+      {
+        "Original_Name_In_Paper": "MnO",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(09)00895-0"
+      },
+      {
+        "Original_Name_In_Paper": "MnO",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(09)00895-0"
+      },
+      {
+        "Original_Name_In_Paper": "MnO",
+        "Property": "ZT",
+        "Value": 0.67,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(09)00895-0"
+      },
+      {
+        "Original_Name_In_Paper": "MnO",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(09)00895-0"
+      },
+      {
+        "Original_Name_In_Paper": "MnO",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(09)00895-0"
+      },
+      {
+        "Original_Name_In_Paper": "MnO",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(09)01720-4"
+      },
+      {
+        "Original_Name_In_Paper": "MnO",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(09)01720-4"
+      },
+      {
+        "Original_Name_In_Paper": "MnO",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(09)01720-4"
+      }
+    ],
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "MnO",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(10)00044-7"
+      },
+      {
+        "Original_Name_In_Paper": "MnO",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(10)00044-7"
+      }
+    ]
+  }
+}

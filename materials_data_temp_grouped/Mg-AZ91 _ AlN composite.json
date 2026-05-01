@@ -1,0 +1,18 @@
+{
+  "Material": "Mg-AZ91 / AlN composite",
+  "DOIs_Researched": [
+    "10.1016/j.matdes.2012.02.001"
+  ],
+  "Data_By_Temperature": {
+    "298.0": [
+      {
+        "Original_Name_In_Paper": "Mg-AZ91 / AlN composite",
+        "Property": "Conductivity",
+        "Value": 2.1786e-06,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matdes.2012.02.001"
+      }
+    ]
+  }
+}

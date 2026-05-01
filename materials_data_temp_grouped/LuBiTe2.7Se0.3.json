@@ -1,0 +1,29 @@
+{
+  "Material": "LuBiTe2.7Se0.3",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2017.08.103",
+    "10.1007/s40145-020-0382-9"
+  ],
+  "Data_By_Temperature": {
+    "420.0": [
+      {
+        "Original_Name_In_Paper": "Lu0.1Bi1.9Te2.7Se0.3",
+        "Property": "ZT",
+        "Value": 0.85,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s40145-020-0382-9"
+      }
+    ],
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "Lu0.1Bi1.9Te2.7Se0.3",
+        "Property": "ZT",
+        "Value": 1.37,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.08.103"
+      }
+    ]
+  }
+}

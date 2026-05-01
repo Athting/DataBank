@@ -1,0 +1,62 @@
+{
+  "Material": "Sr0.9Nd0.1TiO3",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2009.11.165",
+    "10.1039/c4cp04127e",
+    "10.1039/c8ta07861k"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Sr0.9Nd0.1TiO3",
+        "Property": "ZT",
+        "Value": 0.28,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4cp04127e"
+      },
+      {
+        "Original_Name_In_Paper": "Sr0.9Nd0.1TiO3",
+        "Property": "ZT",
+        "Value": 0.28,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.11.165"
+      },
+      {
+        "Original_Name_In_Paper": "Sr0.9Nd0.1TiO3",
+        "Property": "ZT",
+        "Value": 0.28,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.11.165"
+      },
+      {
+        "Original_Name_In_Paper": "Sr0.9Nd0.1TiO3",
+        "Property": "ZT",
+        "Value": 0.28,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.11.165"
+      }
+    ],
+    "1015.0": [
+      {
+        "Original_Name_In_Paper": "Sr0.9Nd0.1TiO3",
+        "Property": "ZT",
+        "Value": 0.37,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta07861k"
+      },
+      {
+        "Original_Name_In_Paper": "Sr0.9Nd0.1TiO3",
+        "Property": "ZT",
+        "Value": 0.37,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta07861k"
+      }
+    ]
+  }
+}

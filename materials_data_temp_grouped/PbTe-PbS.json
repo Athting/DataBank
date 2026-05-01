@@ -1,0 +1,76 @@
+{
+  "Material": "PbTe-PbS",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2013.07.021",
+    "10.1039/c6ra11299d",
+    "10.1016/j.actamat.2017.03.036",
+    "10.1039/c3ta11825h",
+    "10.1007/s11837-014-1155-0",
+    "10.1016/j.rser.2013.03.008",
+    "10.1039/c5ee01147g"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "PbTe-PbS",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11837-014-1155-0"
+      },
+      {
+        "Original_Name_In_Paper": "PbTe\u2013PbS 12 % doped with 2 % Na",
+        "Property": "ZT",
+        "Value": 1.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2013.07.021"
+      },
+      {
+        "Original_Name_In_Paper": "PbTe-PbS",
+        "Property": "ZT",
+        "Value": 1.8,
+        "Units": null,
+        "Editing": "PbS nano-inclusions",
+        "Source_DOI": "10.1016/j.actamat.2017.03.036"
+      },
+      {
+        "Original_Name_In_Paper": "PbTe\u2013PbS",
+        "Property": "ZT",
+        "Value": 1.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra11299d"
+      },
+      {
+        "Original_Name_In_Paper": "Na-doped PbTe\u2013PbS ( 12 %",
+        "Property": "ZT",
+        "Value": 1.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta11825h"
+      }
+    ],
+    "798.0": [
+      {
+        "Original_Name_In_Paper": "PbTe\u2013PbS",
+        "Property": "ZT",
+        "Value": 1.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rser.2013.03.008"
+      }
+    ],
+    "623.0": [
+      {
+        "Original_Name_In_Paper": "PbTe\u2013PbS",
+        "Property": "PF",
+        "Value": 0.00265,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ee01147g"
+      }
+    ]
+  }
+}

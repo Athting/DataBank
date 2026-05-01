@@ -1,0 +1,18 @@
+{
+  "Material": "PbSe-PbS / PbTe nanocomposite",
+  "DOIs_Researched": [
+    "10.1016/j.mtener.2018.06.010"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "PbSe-PbS / PbTe nanocomposite",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtener.2018.06.010"
+      }
+    ]
+  }
+}

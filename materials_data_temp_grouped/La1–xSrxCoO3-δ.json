@@ -1,0 +1,18 @@
+{
+  "Material": "La1\u2013xSrxCoO3-\u03b4",
+  "DOIs_Researched": [
+    "10.1016/j.jeurceramsoc.2020.02.063"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "La1\u2013xSrxCoO3-\u03b4",
+        "Property": "Conductivity",
+        "Value": 105.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2020.02.063"
+      }
+    ]
+  }
+}

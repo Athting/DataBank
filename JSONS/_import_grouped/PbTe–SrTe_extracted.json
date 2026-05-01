@@ -1,0 +1,116 @@
+{
+  "doi": "10.1038/s41586-019-1751-9",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "p-type PbTe–SrTe",
+        "PbTe–SrTe(4 mol % ) doped with 2 mol % Na",
+        "PbTe–SrTe ( 4 mol % ) doped with 2 % Na",
+        "PbTe–SrTe",
+        "PbTe–SrTe compound",
+        "PbTe–SrTe ( 4 mol % ) doped with 2 mol % Na",
+        "Na doped PbTe–SrTe",
+        "p-type polycrystalline PbTe–SrTe"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "p-type PbTe–SrTe",
+          "zt_value": 2.5,
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe–SrTe(4 mol % ) doped with 2 mol % Na",
+          "zt_value": 2.2,
+          "temperature": "915.0 K"
+        },
+        {
+          "material": "PbTe–SrTe ( 4 mol % ) doped with 2 % Na",
+          "zt_value": 2.2,
+          "temperature": "915.0 K"
+        },
+        {
+          "material": "PbTe–SrTe",
+          "zt_value": 2.2,
+          "temperature": "915.0 K"
+        },
+        {
+          "material": "PbTe–SrTe",
+          "zt_value": 2.2,
+          "temperature": "915.0 K"
+        },
+        {
+          "material": "PbTe–SrTe compound",
+          "zt_value": 2.2,
+          "temperature": "915.0 K"
+        },
+        {
+          "material": "PbTe–SrTe ( 4 mol % ) doped with 2 mol % Na",
+          "zt_value": 2.2,
+          "temperature": "915.0 K"
+        },
+        {
+          "material": "PbTe–SrTe compound",
+          "zt_value": 2.2,
+          "temperature": "915.0 K"
+        },
+        {
+          "material": "PbTe–SrTe ( 4 mol % ) doped with 2 mol % Na",
+          "zt_value": 2.2,
+          "temperature": "915.0 K"
+        },
+        {
+          "material": "PbTe–SrTe compound",
+          "zt_value": 2.2,
+          "temperature": "915.0 K"
+        },
+        {
+          "material": "Na doped PbTe–SrTe",
+          "zt_value": 2.2,
+          "temperature": "915.0 K"
+        },
+        {
+          "material": "PbTe–SrTe",
+          "zt_value": 2.5,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "p-type polycrystalline PbTe–SrTe",
+          "zt_value": 1.7000000000000002,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "PbTe–SrTe",
+          "zt_value": 1.5,
+          "temperature": "800.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

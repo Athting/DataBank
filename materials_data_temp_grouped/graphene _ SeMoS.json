@@ -1,0 +1,42 @@
+{
+  "Material": "graphene / SeMoS",
+  "DOIs_Researched": [
+    "10.1039/c9cp03639c"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "graphene / SeMoS",
+        "Property": "ZT",
+        "Value": 2.01,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9cp03639c"
+      },
+      {
+        "Original_Name_In_Paper": "graphene / SeMoS",
+        "Property": "ZT",
+        "Value": 2.01,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9cp03639c"
+      },
+      {
+        "Original_Name_In_Paper": "graphene / SeMoS",
+        "Property": "ZT",
+        "Value": 2.01,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9cp03639c"
+      },
+      {
+        "Original_Name_In_Paper": "graphene / SeMoS",
+        "Property": "ZT",
+        "Value": 2.01,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9cp03639c"
+      }
+    ]
+  }
+}

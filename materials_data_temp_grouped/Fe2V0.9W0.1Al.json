@@ -1,0 +1,18 @@
+{
+  "Material": "Fe2V0.9W0.1Al",
+  "DOIs_Researched": [
+    "10.1134/S1995078019040049"
+  ],
+  "Data_By_Temperature": {
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "Fe2V0.9W0.1Al",
+        "Property": "ZT",
+        "Value": 0.21,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1134/S1995078019040049"
+      }
+    ]
+  }
+}

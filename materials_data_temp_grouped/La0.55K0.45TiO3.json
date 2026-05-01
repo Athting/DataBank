@@ -1,0 +1,18 @@
+{
+  "Material": "La0.55K0.45TiO3",
+  "DOIs_Researched": [
+    "10.1039/c8ta03739f"
+  ],
+  "Data_By_Temperature": {
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "La0.55K0.45TiO3",
+        "Property": "Conductivity",
+        "Value": 21000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta03739f"
+      }
+    ]
+  }
+}

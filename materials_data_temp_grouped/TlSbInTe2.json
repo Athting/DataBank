@@ -1,0 +1,38 @@
+{
+  "Material": "TlSbInTe2",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2019.04.294"
+  ],
+  "Data_By_Temperature": {
+    "375.0": [
+      {
+        "Original_Name_In_Paper": "TlSb0.98In0.02Te2",
+        "Property": "ThermCond",
+        "Value": 1.31,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.04.294"
+      }
+    ],
+    "622.0": [
+      {
+        "Original_Name_In_Paper": "TlSb0.98In0.02Te2",
+        "Property": "ZT",
+        "Value": 0.71,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.04.294"
+      }
+    ],
+    "379.0": [
+      {
+        "Original_Name_In_Paper": "TlSb0.98In0.02Te2",
+        "Property": "Conductivity",
+        "Value": 69500.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.04.294"
+      }
+    ]
+  }
+}

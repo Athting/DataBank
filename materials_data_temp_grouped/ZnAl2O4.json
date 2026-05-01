@@ -1,0 +1,90 @@
+{
+  "Material": "ZnAl2O4",
+  "DOIs_Researched": [
+    "10.1007/s11837-014-1218-2",
+    "10.1016/j.cej.2020.128149",
+    "10.1016/j.ceramint.2015.07.183",
+    "10.1016/j.ceramint.2020.01.084",
+    "10.1039/c6ra28854e",
+    "10.1016/j.matdes.2018.05.019",
+    "10.1016/j.optmat.2014.08.010"
+  ],
+  "Data_By_Temperature": {
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "bulk Zn0.98Al0.02O",
+        "Property": "ThermCond",
+        "Value": 2.1,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2020.01.084"
+      },
+      {
+        "Original_Name_In_Paper": "Zn0.98Al0.02O nano-structured bulk",
+        "Property": "ThermCond",
+        "Value": 2.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra28854e"
+      }
+    ],
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "ZnAl2O4 nanoprecipitates",
+        "Property": "ThermCond",
+        "Value": 2.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11837-014-1218-2"
+      },
+      {
+        "Original_Name_In_Paper": "Zn0.9975AlxO nano-structured bulks",
+        "Property": "ZT",
+        "Value": 0.44,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra28854e"
+      }
+    ],
+    "1273.0": [
+      {
+        "Original_Name_In_Paper": "(Zn0.98Al0.02)O bulk",
+        "Property": "ZT",
+        "Value": 0.65,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matdes.2018.05.019"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "ZnAl2O4",
+        "Property": "Seebeck",
+        "Value": 0.00024000000000000003,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.optmat.2014.08.010"
+      }
+    ],
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "Zn0.96Al0.04O bulk",
+        "Property": "PF",
+        "Value": 0.00047000000000000004,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2015.07.183"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Zn0.98Al0.02O + 10 wt % NaCl",
+        "Property": "Conductivity",
+        "Value": 332700.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cej.2020.128149"
+      }
+    ]
+  }
+}

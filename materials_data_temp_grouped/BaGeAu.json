@@ -1,0 +1,18 @@
+{
+  "Material": "BaGeAu",
+  "DOIs_Researched": [
+    "10.1038/s41467-017-00584-7"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ba7.81Ge40.67Au5.33",
+        "Property": "ThermCond",
+        "Value": 1.1,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41467-017-00584-7"
+      }
+    ]
+  }
+}

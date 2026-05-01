@@ -1,0 +1,18 @@
+{
+  "Material": "CeCu2Si2",
+  "DOIs_Researched": [
+    "10.1007/s10909-014-1262-x"
+  ],
+  "Data_By_Temperature": {
+    "20.0": [
+      {
+        "Original_Name_In_Paper": "CeCu2Si2",
+        "Property": "Seebeck",
+        "Value": -3.0000000000000004e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10909-014-1262-x"
+      }
+    ]
+  }
+}

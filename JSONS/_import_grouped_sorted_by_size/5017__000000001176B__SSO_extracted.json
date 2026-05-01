@@ -1,0 +1,57 @@
+{
+  "doi": "10.1016/j.jpcs.2018.08.010",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "SSO",
+        "pristine SSO"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "SSO",
+          "value": 92592.5925925926,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "280.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "SSO",
+          "zt_value": 0.46,
+          "temperature": "500.0 K"
+        },
+        {
+          "material": "pristine SSO",
+          "zt_value": 0.46,
+          "temperature": "500.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

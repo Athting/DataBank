@@ -1,0 +1,18 @@
+{
+  "Material": "Ba6Ge25",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2014.02.073"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ba6Ge25",
+        "Property": "Conductivity",
+        "Value": 200000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.02.073"
+      }
+    ]
+  }
+}

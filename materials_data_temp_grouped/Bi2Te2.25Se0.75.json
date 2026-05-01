@@ -1,0 +1,36 @@
+{
+  "Material": "Bi2Te2.25Se0.75",
+  "DOIs_Researched": [
+    "10.1039/c2ra22562j"
+  ],
+  "Data_By_Temperature": {
+    "490.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Te2.25Se0.75",
+        "Property": "ZT",
+        "Value": 0.96,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2ra22562j"
+      },
+      {
+        "Original_Name_In_Paper": "nanostructured bulk Bi2Te2.25Se0.75",
+        "Property": "ZT",
+        "Value": 0.96,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2ra22562j"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "nanostructured bulk Bi2Te2.25Se0.75-SPS-470",
+        "Property": "ZT",
+        "Value": 0.55,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2ra22562j"
+      }
+    ]
+  }
+}

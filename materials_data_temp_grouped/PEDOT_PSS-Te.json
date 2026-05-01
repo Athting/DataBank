@@ -1,0 +1,18 @@
+{
+  "Material": "PEDOT:PSS-Te",
+  "DOIs_Researched": [
+    "10.1039/c3ee24193a"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "PEDOT : PSS\u2013Te nanorod composites",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ee24193a"
+      }
+    ]
+  }
+}

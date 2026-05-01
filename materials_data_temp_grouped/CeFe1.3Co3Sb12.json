@@ -1,0 +1,18 @@
+{
+  "Material": "CeFe1.3Co3Sb12",
+  "DOIs_Researched": [
+    "10.1007/s42247-020-00092-3"
+  ],
+  "Data_By_Temperature": {
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "p-type Ce-filled Feo.7Co3.3Sb12",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s42247-020-00092-3"
+      }
+    ]
+  }
+}

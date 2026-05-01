@@ -1,0 +1,18 @@
+{
+  "Material": "Bi0.8Pb0.2CuSe",
+  "DOIs_Researched": [
+    "10.1039/c3ta12753b"
+  ],
+  "Data_By_Temperature": {
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.8Pb0.2OCuSe",
+        "Property": "ThermCond",
+        "Value": 1.58,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta12753b"
+      }
+    ]
+  }
+}

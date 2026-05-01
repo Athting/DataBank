@@ -1,0 +1,18 @@
+{
+  "Material": "CuIn1-xGaxTe2",
+  "DOIs_Researched": [
+    "10.1016/j.jpcs.2015.03.012"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "CuIn1\u2212xGaxTe2",
+        "Property": "ZT",
+        "Value": 0.91,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2015.03.012"
+      }
+    ]
+  }
+}

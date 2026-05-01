@@ -1,0 +1,18 @@
+{
+  "Material": "dysprosium sulfides",
+  "DOIs_Researched": [
+    "10.1134/S1063783420040216"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "dysprosium sulfides",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1134/S1063783420040216"
+      }
+    ]
+  }
+}

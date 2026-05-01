@@ -1,0 +1,35 @@
+{
+  "Material": "BCCO",
+  "DOIs_Researched": [
+    "10.1039/c9ce01139k",
+    "10.1016/j.solidstatesciences.2010.06.014"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "BCCO",
+        "Property": "ThermCond",
+        "Value": 0.30000000000000004,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ce01139k"
+      },
+      {
+        "Original_Name_In_Paper": "BCCO",
+        "Property": "ThermCond",
+        "Value": 0.28300000000000003,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ce01139k"
+      },
+      {
+        "Original_Name_In_Paper": "BCCO",
+        "Property": "Conductivity",
+        "Value": 2000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2010.06.014"
+      }
+    ]
+  }
+}

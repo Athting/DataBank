@@ -1,0 +1,18 @@
+{
+  "Material": "PbZnSeBr",
+  "DOIs_Researched": [
+    "10.1016/j.ccr.2020.213437"
+  ],
+  "Data_By_Temperature": {
+    "525.0": [
+      {
+        "Original_Name_In_Paper": "PbZn0.01Se0.998Br0.002",
+        "Property": "PF",
+        "Value": 0.0026200000000000004,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ccr.2020.213437"
+      }
+    ]
+  }
+}

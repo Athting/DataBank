@@ -1,0 +1,36 @@
+{
+  "Material": "Bi1.985Sn0.015S3",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2017.05.067"
+  ],
+  "Data_By_Temperature": {
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "Bi1.985Sn0.015S3",
+        "Property": "ZT",
+        "Value": 0.67,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.05.067"
+      }
+    ],
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "Bi1.985Sn0.015S3",
+        "Property": "PF",
+        "Value": 0.00022449999999999998,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.05.067"
+      },
+      {
+        "Original_Name_In_Paper": "Bi1.985Sn0.015S3",
+        "Property": "Conductivity",
+        "Value": 7670.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.05.067"
+      }
+    ]
+  }
+}

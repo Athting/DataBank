@@ -1,0 +1,18 @@
+{
+  "Material": "GdCu1.5Te2",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2017.08.018"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "GdCu1.5Te2",
+        "Property": "PF",
+        "Value": 140.0,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2017.08.018"
+      }
+    ]
+  }
+}

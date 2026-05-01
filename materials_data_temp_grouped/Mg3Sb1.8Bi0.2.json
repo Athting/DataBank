@@ -1,0 +1,78 @@
+{
+  "Material": "Mg3Sb1.8Bi0.2",
+  "DOIs_Researched": [
+    "10.1039/c4ra15456h",
+    "10.1039/c4ra04889j",
+    "10.1039/c5ta02155c"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "bulk Mg3Sb1.8Bi0.2",
+        "Property": "ThermCond",
+        "Value": 1.18,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta02155c"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "bulk nanostructured Mg3Sb1.8Bi0.2",
+        "Property": "ZT",
+        "Value": 0.9400000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta02155c"
+      },
+      {
+        "Original_Name_In_Paper": "bulk nanostructured Mg3Sb1.8Bi0.2",
+        "Property": "ZT",
+        "Value": 0.9400000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta02155c"
+      },
+      {
+        "Original_Name_In_Paper": "Mg3Sb1.8Bi0.2",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta02155c"
+      },
+      {
+        "Original_Name_In_Paper": "bulk nanostructured Mg3Sb1.8Bi0.2 alloy",
+        "Property": "ZT",
+        "Value": 0.9400000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta02155c"
+      },
+      {
+        "Original_Name_In_Paper": "Mg3Sb1.8Bi0.2",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta02155c"
+      },
+      {
+        "Original_Name_In_Paper": "Mg3Sb1.8Bi0.2",
+        "Property": "ZT",
+        "Value": 0.84,
+        "Units": null,
+        "Editing": "doping of 10 at % Pb4\u2212",
+        "Source_DOI": "10.1039/c4ra04889j"
+      },
+      {
+        "Original_Name_In_Paper": "Mg3Sb1.8Bi0.2",
+        "Property": "ZT",
+        "Value": 1.35,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra15456h"
+      }
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "Material": "n-type bismuth telluride",
+  "DOIs_Researched": [
+    "10.1016/j.jclepro.2018.05.238",
+    "10.1016/j.msea.2013.09.044",
+    "10.1007/s10853-017-1284-2"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "n-type bismuth telluride",
+        "Property": "ThermCond",
+        "Value": 1.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.msea.2013.09.044"
+      },
+      {
+        "Original_Name_In_Paper": "n-type bismuth telluride",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jclepro.2018.05.238"
+      },
+      {
+        "Original_Name_In_Paper": "n-type bismuth telluride",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-017-1284-2"
+      },
+      {
+        "Original_Name_In_Paper": "n-type bismuth telluride",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.msea.2013.09.044"
+      },
+      {
+        "Original_Name_In_Paper": "n-type bismuth telluride",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.msea.2013.09.044"
+      },
+      {
+        "Original_Name_In_Paper": "n-type bismuth telluride",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.msea.2013.09.044"
+      },
+      {
+        "Original_Name_In_Paper": "n-type bismuth telluride",
+        "Property": "Seebeck",
+        "Value": 0.0002,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.msea.2013.09.044"
+      },
+      {
+        "Original_Name_In_Paper": "n-type bismuth telluride",
+        "Property": "Conductivity",
+        "Value": 100000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.msea.2013.09.044"
+      }
+    ]
+  }
+}

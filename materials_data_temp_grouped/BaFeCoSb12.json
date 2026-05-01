@@ -1,0 +1,27 @@
+{
+  "Material": "BaFeCoSb12",
+  "DOIs_Researched": [
+    "10.1007/BF02838529",
+    "10.1557/JMR.2002.0428"
+  ],
+  "Data_By_Temperature": {
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "Ba0.38Fe1.6Co2.4Sb12",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/BF02838529"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Ba0.27Fe0.98Co3.02Sb12",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1557/JMR.2002.0428"
+      }
+    ]
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "Material": "CuMnO2",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2015.10.079",
+    "10.1016/j.ceramint.2015.06.058"
+  ],
+  "Data_By_Temperature": {
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "CuMn1+0.1O2 bulk",
+        "Property": "ThermCond",
+        "Value": 6.79,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2015.06.058"
+      },
+      {
+        "Original_Name_In_Paper": "CuMn1.1O2 bulk",
+        "Property": "ZT",
+        "Value": 0.00015000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2015.06.058"
+      },
+      {
+        "Original_Name_In_Paper": "CuMn1+0.1O2 bulk",
+        "Property": "ZT",
+        "Value": 0.00015000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2015.06.058"
+      },
+      {
+        "Original_Name_In_Paper": "CuMn1+0.143O2 bulk",
+        "Property": "Seebeck",
+        "Value": 0.000562,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2015.06.058"
+      },
+      {
+        "Original_Name_In_Paper": "CuMn1+0O2 bulk",
+        "Property": "Conductivity",
+        "Value": 11.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2015.06.058"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "CuMn0.9Mg0.2O2",
+        "Property": "ThermCond",
+        "Value": 2.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2015.10.079"
+      },
+      {
+        "Original_Name_In_Paper": "CuMn0.9Mg0.2O2 bulk",
+        "Property": "ZT",
+        "Value": 0.00059,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2015.10.079"
+      },
+      {
+        "Original_Name_In_Paper": "CuMn0.9Mg0.2O2",
+        "Property": "Seebeck",
+        "Value": 0.00048499999999999997,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2015.10.079"
+      },
+      {
+        "Original_Name_In_Paper": "CuMn0.9Mg0.2O2",
+        "Property": "PF",
+        "Value": 3.95e-06,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2015.10.079"
+      },
+      {
+        "Original_Name_In_Paper": "CuMn0.9Mg0.2O2",
+        "Property": "PF",
+        "Value": 3.95e-06,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2015.10.079"
+      },
+      {
+        "Original_Name_In_Paper": "CuMn0.9Mg0.2O2",
+        "Property": "Conductivity",
+        "Value": 24.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2015.10.079"
+      },
+      {
+        "Original_Name_In_Paper": "CuMn0.9Ca0.2O2",
+        "Property": "Conductivity",
+        "Value": 2.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2015.10.079"
+      },
+      {
+        "Original_Name_In_Paper": "CuMn0.9Mg0.2O2",
+        "Property": "Conductivity",
+        "Value": 24.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2015.10.079"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "CuMnO2",
+        "Property": "Conductivity",
+        "Value": 0.002,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2015.06.058"
+      }
+    ]
+  }
+}

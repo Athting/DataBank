@@ -1,0 +1,26 @@
+{
+  "Material": "Cu2CoSnS4",
+  "DOIs_Researched": [
+    "10.1039/c3mh00091e"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Cu2CoSnS4 nanocrystals",
+        "Property": "ZT",
+        "Value": 0.51,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3mh00091e"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2CoSnS4",
+        "Property": "Conductivity",
+        "Value": 3380.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3mh00091e"
+      }
+    ]
+  }
+}

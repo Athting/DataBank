@@ -1,0 +1,18 @@
+{
+  "Material": "BaCeO_{3}H_{x}Sn_{0.1}",
+  "DOIs_Researched": [
+    "10.1016/S0925-8388(09)00895-0"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "BaCe 0.9H11002x Y x Sn 0.1 O 3H11002H9254",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(09)00895-0"
+      }
+    ]
+  }
+}

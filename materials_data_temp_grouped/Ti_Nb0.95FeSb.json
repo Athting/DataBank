@@ -1,0 +1,18 @@
+{
+  "Material": "Ti:Nb0.95FeSb",
+  "DOIs_Researched": [
+    "10.1016/j.ensm.2017.07.014"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ti-doped Nb0.95Ti0.05FeSb",
+        "Property": "PF",
+        "Value": 0.001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ensm.2017.07.014"
+      }
+    ]
+  }
+}

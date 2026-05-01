@@ -1,0 +1,18 @@
+{
+  "Material": "Bi2Te3 / Bi0.5Sb1.5Te3",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2020.105379"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "p-type Bi2Te3 / Bi0.5Sb1.5Te3 superlattice",
+        "Property": "ZT",
+        "Value": 1.44,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.105379"
+      }
+    ]
+  }
+}

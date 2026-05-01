@@ -1,0 +1,18 @@
+{
+  "Material": "LaFe1\u2212yNiyO3",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2006.05.012"
+  ],
+  "Data_By_Temperature": {
+    "1100.0": [
+      {
+        "Original_Name_In_Paper": "LaFe1\u2212yNiyO3",
+        "Property": "PF",
+        "Value": 0.00011,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2006.05.012"
+      }
+    ]
+  }
+}

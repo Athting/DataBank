@@ -1,0 +1,120 @@
+{
+  "doi": "10.1016/j.jallcom.2008.07.013",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Zr0.5Hf0.5NiSn0.9Sb0.01",
+        "Zr0.5Hf0.5NiSn",
+        "Zr0.5 Hf0.5 NiSn",
+        "Zr0.5Hf0.5Ni1.04Sn",
+        "Zr0.5Hf0.5NiSn single crystals",
+        "Zr0.5Hf0.5NiSn0.985Sb0.015"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "Zr0.5Hf0.5NiSn",
+          "value": 70921.9858156028,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Zr0.5Hf0.5NiSn0.9Sb0.01",
+          "value": 6.6,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Zr0.5Hf0.5NiSn",
+          "value": 10,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Zr0.5Hf0.5NiSn",
+          "value": 6.6,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Zr0.5Hf0.5NiSn",
+          "value": 5.3,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Zr0.5Hf0.5NiSn",
+          "value": 0.00030000000000000003,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Zr0.5Hf0.5NiSn",
+          "value": 0.00030000000000000003,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Zr0.5Hf0.5NiSn0.985Sb0.015",
+          "value": 0.0026200000000000004,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Zr0.5Hf0.5NiSn",
+          "zt_value": 0.41000000000000003,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "Zr0.5Hf0.5NiSn",
+          "zt_value": 0.5,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "Zr0.5 Hf0.5 NiSn",
+          "zt_value": 0.5,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "Zr0.5Hf0.5Ni1.04Sn",
+          "zt_value": 1,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Zr0.5Hf0.5NiSn single crystals",
+          "zt_value": 0.4,
+          "temperature": "350.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

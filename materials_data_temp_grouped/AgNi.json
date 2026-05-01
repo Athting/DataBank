@@ -1,0 +1,18 @@
+{
+  "Material": "AgNi",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2017.12.140"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "AgNi",
+        "Property": "ThermCond",
+        "Value": 350.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.12.140"
+      }
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "Material": "CdSe",
+  "DOIs_Researched": [
+    "10.1016/j.intermet.2016.01.004",
+    "10.1039/c9ra04748d",
+    "10.1016/j.jmat.2018.10.004",
+    "10.1016/j.cap.2010.07.007",
+    "10.1016/j.apsusc.2003.09.022",
+    "10.1016/j.jallcom.2012.07.097"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "CdSe",
+        "Property": "ThermCond",
+        "Value": 3.85,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ra04748d"
+      }
+    ],
+    "1200.0": [
+      {
+        "Original_Name_In_Paper": "CdSe",
+        "Property": "ZT",
+        "Value": 1.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ra04748d"
+      }
+    ],
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "CdSe",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2018.10.004"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "CdSe thin films",
+        "Property": "Conductivity",
+        "Value": 0.0854700855,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2003.09.022"
+      },
+      {
+        "Original_Name_In_Paper": "CdSe thin films",
+        "Property": "Conductivity",
+        "Value": 0.9433962264,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2003.09.022"
+      },
+      {
+        "Original_Name_In_Paper": "Fe doped CdSe thin films",
+        "Property": "Conductivity",
+        "Value": 0.0002717391,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2012.07.097"
+      },
+      {
+        "Original_Name_In_Paper": "nanocrystalline CdSe thin films",
+        "Property": "Conductivity",
+        "Value": 0.9433962264,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2010.07.007"
+      },
+      {
+        "Original_Name_In_Paper": "cubic CdSe thin films",
+        "Property": "Conductivity",
+        "Value": 0.9433962264,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2010.07.007"
+      },
+      {
+        "Original_Name_In_Paper": "CdSe",
+        "Property": "Conductivity",
+        "Value": 20.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2016.01.004"
+      },
+      {
+        "Original_Name_In_Paper": "CdSe single crystals",
+        "Property": "Conductivity",
+        "Value": 0.0096153846,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2016.01.004"
+      }
+    ]
+  }
+}

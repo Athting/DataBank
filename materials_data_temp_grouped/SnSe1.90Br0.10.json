@@ -1,0 +1,26 @@
+{
+  "Material": "SnSe1.90Br0.10",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2020.121468"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "SnSe1.90Br0.10",
+        "Property": "Conductivity",
+        "Value": 16910.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2020.121468"
+      },
+      {
+        "Original_Name_In_Paper": "SnSe1.90Br0.10",
+        "Property": "Conductivity",
+        "Value": 16900.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2020.121468"
+      }
+    ]
+  }
+}

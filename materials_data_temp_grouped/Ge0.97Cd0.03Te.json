@@ -1,0 +1,46 @@
+{
+  "Material": "Ge0.97Cd0.03Te",
+  "DOIs_Researched": [
+    "10.1039/c9ta10436d"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ge0.97Cd0.03Te",
+        "Property": "ThermCond",
+        "Value": 5.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta10436d"
+      },
+      {
+        "Original_Name_In_Paper": "Ge0.97Cd0.03Te",
+        "Property": "Conductivity",
+        "Value": 453189.9999999999,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta10436d"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Ge0.97Cd0.03Te",
+        "Property": "ThermCond",
+        "Value": 0.61,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta10436d"
+      }
+    ],
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "Ge0.97Cd0.03Te",
+        "Property": "PF",
+        "Value": 2.44e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta10436d"
+      }
+    ]
+  }
+}

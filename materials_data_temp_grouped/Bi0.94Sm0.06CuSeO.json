@@ -1,0 +1,50 @@
+{
+  "Material": "Bi0.94Sm0.06CuSeO",
+  "DOIs_Researched": [
+    "10.1016/j.matdes.2019.108263"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.94Sm0.06CuSeO",
+        "Property": "ZT",
+        "Value": 0.74,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matdes.2019.108263"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.94Sm0.06 CuSeO",
+        "Property": "ZT",
+        "Value": 0.74,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matdes.2019.108263"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.94Sm0.06CuSeO",
+        "Property": "ZT",
+        "Value": 0.74,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matdes.2019.108263"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.94Sm0.06CuSeO",
+        "Property": "ZT",
+        "Value": 0.74,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matdes.2019.108263"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.94Sm0.06CuSeO",
+        "Property": "Conductivity",
+        "Value": 7900.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matdes.2019.108263"
+      }
+    ]
+  }
+}

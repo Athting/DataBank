@@ -1,0 +1,28 @@
+{
+  "Material": "BST : Te",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2016.08.033"
+  ],
+  "Data_By_Temperature": {
+    "398.0": [
+      {
+        "Original_Name_In_Paper": "BST : Te",
+        "Property": "ThermCond",
+        "Value": 0.87,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.08.033"
+      }
+    ],
+    "348.0": [
+      {
+        "Original_Name_In_Paper": "BST : Te",
+        "Property": "ThermCond",
+        "Value": 0.46,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.08.033"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "NaZn",
+  "DOIs_Researched": [
+    "10.1039/c9ta00288j"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Na\u2013Zn",
+        "Property": "ThermCond",
+        "Value": 0.52,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": "Ag doping",
+        "Source_DOI": "10.1039/c9ta00288j"
+      }
+    ]
+  }
+}

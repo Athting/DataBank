@@ -1,0 +1,18 @@
+{
+  "Material": "BCFN compound",
+  "DOIs_Researched": [
+    "10.1039/c5ra16115k"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "BCFN compound",
+        "Property": "Conductivity",
+        "Value": 1e-06,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": "In addition",
+        "Source_DOI": "10.1039/c5ra16115k"
+      }
+    ]
+  }
+}

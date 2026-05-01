@@ -1,0 +1,75 @@
+{
+  "Material": "VO2",
+  "DOIs_Researched": [
+    "10.1016/j.jeurceramsoc.2020.05.052",
+    "10.1016/B978-0-08-102687-8.00002-6",
+    "10.1039/c3cs35508j",
+    "10.1039/c8cp00318a"
+  ],
+  "Data_By_Temperature": {
+    "250.0": [
+      {
+        "Original_Name_In_Paper": "VO2 nanowires",
+        "Property": "ThermCond",
+        "Value": 7600000000000.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8cp00318a"
+      }
+    ],
+    "210.0": [
+      {
+        "Original_Name_In_Paper": "hydric VO2",
+        "Property": "ZT",
+        "Value": 0.12,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3cs35508j"
+      },
+      {
+        "Original_Name_In_Paper": "VO2(R",
+        "Property": "ZT",
+        "Value": 0.089,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3cs35508j"
+      },
+      {
+        "Original_Name_In_Paper": "VO2",
+        "Property": "ZT",
+        "Value": 0.07100000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3cs35508j"
+      },
+      {
+        "Original_Name_In_Paper": "VO2",
+        "Property": "ZT",
+        "Value": 0.12,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-08-102687-8.00002-6"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "VO2(B) thin films",
+        "Property": "Conductivity",
+        "Value": 200.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2020.05.052"
+      }
+    ],
+    "368.0": [
+      {
+        "Original_Name_In_Paper": "VO2(B) film",
+        "Property": "Conductivity",
+        "Value": 1000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2020.05.052"
+      }
+    ]
+  }
+}

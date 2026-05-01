@@ -1,0 +1,37 @@
+{
+  "Material": "KBaAlSb4",
+  "DOIs_Researched": [
+    "10.1016/j.mtphys.2017.06.003",
+    "10.1039/c6ta09532a"
+  ],
+  "Data_By_Temperature": {
+    "643.0": [
+      {
+        "Original_Name_In_Paper": "K0.99Ba0.01AlSb4",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta09532a"
+      },
+      {
+        "Original_Name_In_Paper": "K0.990Ba0.010AlSb4",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta09532a"
+      }
+    ],
+    "645.0": [
+      {
+        "Original_Name_In_Paper": "K0.99Ba0.01AlSb4",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2017.06.003"
+      }
+    ]
+  }
+}

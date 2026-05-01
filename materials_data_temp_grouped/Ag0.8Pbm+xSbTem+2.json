@@ -1,0 +1,18 @@
+{
+  "Material": "Ag0.8Pbm+xSbTem+2",
+  "DOIs_Researched": [
+    "10.1016/j.ijheatmasstransfer.2019.02.088"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "nanostructured Ag0.8Pbm+xSbTem+2",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ijheatmasstransfer.2019.02.088"
+      }
+    ]
+  }
+}

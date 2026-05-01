@@ -1,0 +1,26 @@
+{
+  "Material": "Ca2.95Bi0.05Co3.85Fe0.15",
+  "DOIs_Researched": [
+    "10.1016/j.enconman.2013.07.009"
+  ],
+  "Data_By_Temperature": {
+    "104.0": [
+      {
+        "Original_Name_In_Paper": "Ca2.95Bi0.05Co3.85Fe0.15O9+\u03b4",
+        "Property": "PF",
+        "Value": 0.000338,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.enconman.2013.07.009"
+      },
+      {
+        "Original_Name_In_Paper": "Ca2.95Bi0.05Co3.85Fe0.15O9+\u03b4",
+        "Property": "PF",
+        "Value": 0.000338,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.enconman.2013.07.009"
+      }
+    ]
+  }
+}

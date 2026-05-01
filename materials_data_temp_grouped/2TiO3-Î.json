@@ -1,0 +1,26 @@
+{
+  "Material": "2TiO3-\u00ce",
+  "DOIs_Researched": [
+    "10.1016/j.matpr.2017.10.004"
+  ],
+  "Data_By_Temperature": {
+    "1773.0": [
+      {
+        "Original_Name_In_Paper": "2TiO3-\u00ce",
+        "Property": "ZT",
+        "Value": 0.05,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matpr.2017.10.004"
+      },
+      {
+        "Original_Name_In_Paper": "2TiO3-\u00ce",
+        "Property": "ZT",
+        "Value": 0.05,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matpr.2017.10.004"
+      }
+    ]
+  }
+}

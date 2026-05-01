@@ -1,0 +1,18 @@
+{
+  "Material": "BaYO_{0.1}Hf_{0.9}",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2016.09.221"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "BaY0.1Hf0.9O3-\u03b4",
+        "Property": "Conductivity",
+        "Value": 0.0316227766,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.09.221"
+      }
+    ]
+  }
+}

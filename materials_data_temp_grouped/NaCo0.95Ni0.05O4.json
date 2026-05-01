@@ -1,0 +1,18 @@
+{
+  "Material": "NaCo0.95Ni0.05O4",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2009.07.058"
+  ],
+  "Data_By_Temperature": {
+    "695.0": [
+      {
+        "Original_Name_In_Paper": "p-type Na(Co0.95Ni0.05)2O4",
+        "Property": "Seebeck",
+        "Value": 0.0003341,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.07.058"
+      }
+    ]
+  }
+}

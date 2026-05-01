@@ -1,0 +1,18 @@
+{
+  "Material": "Ba1.21Bi0.33Rh8O16",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2007.09.031"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ba1.21Bi0.33Rh8O16",
+        "Property": "Conductivity",
+        "Value": 6700.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2007.09.031"
+      }
+    ]
+  }
+}

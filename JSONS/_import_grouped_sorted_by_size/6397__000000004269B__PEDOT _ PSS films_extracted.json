@@ -1,0 +1,167 @@
+{
+  "doi": "10.1016/j.nanoen.2020.105361",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "PEDOT : PSS films"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "PEDOT : PSS films",
+          "value": 0.0000392,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PEDOT : PSS films",
+          "value": 0.000009,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PEDOT : PSS films",
+          "value": 0.0000207,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "PEDOT : PSS films",
+          "value": 80,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PEDOT : PSS films",
+          "value": 30000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PEDOT : PSS films",
+          "value": 6313,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PEDOT : PSS films",
+          "value": 52000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "470.0 K"
+        },
+        {
+          "material": "PEDOT : PSS films",
+          "value": 45100,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "PEDOT : PSS films",
+          "value": 306500,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "433.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "PEDOT : PSS films",
+          "value": 0.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "PEDOT : PSS films",
+          "value": 0.0001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PEDOT : PSS films",
+          "value": 0.00000947,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PEDOT : PSS films",
+          "value": 0.0000149,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "470.0 K"
+        },
+        {
+          "material": "PEDOT : PSS films",
+          "value": 5e-9,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "PEDOT : PSS films",
+          "zt_value": 0.42,
+          "temperature": "295 K"
+        },
+        {
+          "material": "PEDOT : PSS films",
+          "zt_value": 0.42,
+          "temperature": "295 K"
+        },
+        {
+          "material": "PEDOT : PSS films",
+          "zt_value": 0.021,
+          "temperature": "295 K"
+        },
+        {
+          "material": "PEDOT : PSS films",
+          "zt_value": 0.0092,
+          "temperature": "295 K"
+        },
+        {
+          "material": "PEDOT : PSS films",
+          "zt_value": 1.4,
+          "temperature": "295 K"
+        },
+        {
+          "material": "PEDOT : PSS films",
+          "zt_value": 0.11,
+          "temperature": "295 K"
+        },
+        {
+          "material": "PEDOT : PSS films",
+          "zt_value": 0.42,
+          "temperature": "295 K"
+        },
+        {
+          "material": "PEDOT : PSS films",
+          "zt_value": 0.29,
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

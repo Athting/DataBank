@@ -1,0 +1,26 @@
+{
+  "Material": "Tl2ZrS3",
+  "DOIs_Researched": [
+    "10.1039/c2dt30782k"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Tl2ZrS3",
+        "Property": "Conductivity",
+        "Value": 0.00071,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2dt30782k"
+      },
+      {
+        "Original_Name_In_Paper": "Tl2ZrS3",
+        "Property": "Conductivity",
+        "Value": 0.00071,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2dt30782k"
+      }
+    ]
+  }
+}

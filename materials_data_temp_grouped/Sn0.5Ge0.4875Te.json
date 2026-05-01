@@ -1,0 +1,18 @@
+{
+  "Material": "Sn0.5Ge0.4875Te",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2018.11.051"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.5Ge0.4875Te",
+        "Property": "ZT",
+        "Value": 0.48,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.11.051"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Sn0.01Bi0.49Sb1.5Te3",
+  "DOIs_Researched": [
+    "10.1007/s11664-020-08135-5"
+  ],
+  "Data_By_Temperature": {
+    "350.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.01Bi0.49Sb1.5Te3",
+        "Property": "ZT",
+        "Value": 1.33,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-020-08135-5"
+      }
+    ]
+  }
+}

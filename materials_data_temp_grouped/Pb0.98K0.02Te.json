@@ -1,0 +1,28 @@
+{
+  "Material": "Pb0.98K0.02Te",
+  "DOIs_Researched": [
+    "10.1039/c6ra11299d"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Pb0.98K0.02Te",
+        "Property": "ThermCond",
+        "Value": 3.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra11299d"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Pb0.98K0.02Te",
+        "Property": "ZT",
+        "Value": 1.11,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra11299d"
+      }
+    ]
+  }
+}

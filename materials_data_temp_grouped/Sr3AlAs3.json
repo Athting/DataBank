@@ -1,0 +1,29 @@
+{
+  "Material": "Sr3AlAs3",
+  "DOIs_Researched": [
+    "10.1016/j.solidstatesciences.2019.105942",
+    "10.1016/j.cjph.2018.03.022"
+  ],
+  "Data_By_Temperature": {
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "p-type Sr3AlAs3",
+        "Property": "ZT",
+        "Value": 1.02,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2019.105942"
+      }
+    ],
+    "350.0": [
+      {
+        "Original_Name_In_Paper": "Sr3AlAs3",
+        "Property": "Seebeck",
+        "Value": 0.00027,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cjph.2018.03.022"
+      }
+    ]
+  }
+}

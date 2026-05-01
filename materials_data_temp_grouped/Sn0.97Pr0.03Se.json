@@ -1,0 +1,58 @@
+{
+  "Material": "Sn0.97Pr0.03Se",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2020.03.009"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.97Pr0.03Se",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2020.03.009"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.97Pr0.03Se",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2020.03.009"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.97Pr0.03Se",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2020.03.009"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.97Pr0.03Se",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2020.03.009"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.97Pr0.03Se",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2020.03.009"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.97Pr0.03Se",
+        "Property": "PF",
+        "Value": 0.00041000000000000005,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2020.03.009"
+      }
+    ]
+  }
+}

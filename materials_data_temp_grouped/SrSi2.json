@@ -1,0 +1,49 @@
+{
+  "Material": "SrSi2",
+  "DOIs_Researched": [
+    "10.1016/j.intermet.2020.106981",
+    "10.1016/B978-0-444-59550-8.00005-3"
+  ],
+  "Data_By_Temperature": {
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "cubic SrSi2",
+        "Property": "ZT",
+        "Value": 0.05,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2020.106981"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "cubic SrSi2",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2020.106981"
+      }
+    ],
+    "317.0": [
+      {
+        "Original_Name_In_Paper": "cubic SrSi2",
+        "Property": "ZT",
+        "Value": 0.15,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2020.106981"
+      }
+    ],
+    "417.0": [
+      {
+        "Original_Name_In_Paper": "SrSi2",
+        "Property": "ZT",
+        "Value": 0.09,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-444-59550-8.00005-3"
+      }
+    ]
+  }
+}

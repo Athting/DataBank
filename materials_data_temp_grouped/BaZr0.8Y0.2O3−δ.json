@@ -1,0 +1,18 @@
+{
+  "Material": "BaZr0.8Y0.2O3\u2212\u03b4",
+  "DOIs_Researched": [
+    "10.1039/c9ee02230a"
+  ],
+  "Data_By_Temperature": {
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "BaZr0.8Y0.2O3\u2212\u03b4",
+        "Property": "Conductivity",
+        "Value": 2000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ee02230a"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "PbTe doped with 0.053 mol % PbI2",
+  "DOIs_Researched": [
+    "10.1016/j.physb.2017.06.004"
+  ],
+  "Data_By_Temperature": {
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "PbTe doped with 0.053 mol % PbI2",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": "adding 0.1 at % In.",
+        "Source_DOI": "10.1016/j.physb.2017.06.004"
+      }
+    ]
+  }
+}

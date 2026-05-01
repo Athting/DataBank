@@ -1,0 +1,18 @@
+{
+  "Material": "PrBaCo2O5.76",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2011.11.146"
+  ],
+  "Data_By_Temperature": {
+    "125.0": [
+      {
+        "Original_Name_In_Paper": "PrBaCo2O5.76",
+        "Property": "PF",
+        "Value": 5e-07,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2011.11.146"
+      }
+    ]
+  }
+}

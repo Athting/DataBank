@@ -1,0 +1,18 @@
+{
+  "Material": "Zn0.995Ag0.005Sb3",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2009.09.058"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "(Zn0.995Ag0.005)4Sb3",
+        "Property": "ZT",
+        "Value": 0.106,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.09.058"
+      }
+    ]
+  }
+}

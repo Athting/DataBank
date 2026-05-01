@@ -1,0 +1,18 @@
+{
+  "Material": "Bi0.95Pb0.05CuSe",
+  "DOIs_Researched": [
+    "10.1039/c3ta12753b"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Bi0.95Pb0.05OCuSe",
+        "Property": "Conductivity",
+        "Value": 50000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta12753b"
+      }
+    ]
+  }
+}

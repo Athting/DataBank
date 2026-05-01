@@ -1,0 +1,208 @@
+{
+  "doi": "10.1016/j.jallcom.2014.03.017",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Co4Sb11.5Te0.5",
+        "doped Co4Sb11.5Te0.5",
+        "Co4Sb11.5Te0.5 + 0.25 vol % CNTs",
+        "n-type Co4Sb11.5Te0.5",
+        "unfilled Co4Sb11.5Te0.5"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "Co4Sb11.5Te0.5",
+          "value": 93457.9439252336,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "710.0 K"
+        },
+        {
+          "material": "Co4Sb11.5Te0.5",
+          "value": 33.3333333333,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "301.0 K"
+        },
+        {
+          "material": "Co4Sb11.5Te0.5",
+          "value": 0.0015300000000000001,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Co4Sb11.5Te0.5",
+          "value": 3.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Co4Sb11.5Te0.5",
+          "value": 2.34,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "doped Co4Sb11.5Te0.5",
+          "value": 4.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Co4Sb11.5Te0.5",
+          "value": 3.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Co4Sb11.5Te0.5 + 0.25 vol % CNTs",
+          "value": 1.76,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Co4Sb11.5Te0.5",
+          "value": 2.38,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "565.0 K"
+        },
+        {
+          "material": "Co4Sb11.5Te0.5",
+          "value": 1.34,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "710.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Co4Sb11.5Te0.5",
+          "value": 0.0032,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "710.0 K"
+        },
+        {
+          "material": "Co4Sb11.5Te0.5",
+          "value": 0.00253,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "706.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Co4Sb11.5Te0.5",
+          "zt_value": 1.07,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Co4Sb11.5Te0.5 + 0.25 vol % CNTs",
+          "zt_value": 1.32,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "n-type Co4Sb11.5Te0.5",
+          "zt_value": 0.92,
+          "temperature": "710.0 K"
+        },
+        {
+          "material": "Co4Sb11.5Te0.5",
+          "zt_value": 0.92,
+          "temperature": "710.0 K"
+        },
+        {
+          "material": "Co4Sb11.5Te0.5",
+          "zt_value": 0.67,
+          "temperature": "710.0 K"
+        },
+        {
+          "material": "Co4Sb11.5Te0.5",
+          "zt_value": 0.67,
+          "temperature": "710.0 K"
+        },
+        {
+          "material": "Co4Sb11.5Te0.5",
+          "zt_value": 1.03,
+          "temperature": "710.0 K"
+        },
+        {
+          "material": "Co4Sb11.5Te0.5",
+          "zt_value": 1.03,
+          "temperature": "710.0 K"
+        },
+        {
+          "material": "Co4Sb11.5Te0.5",
+          "zt_value": 1.03,
+          "temperature": "710.0 K"
+        },
+        {
+          "material": "Co4Sb11.5Te0.5",
+          "zt_value": 0.67,
+          "temperature": "710.0 K"
+        },
+        {
+          "material": "unfilled Co4Sb11.5Te0.5",
+          "zt_value": 0.7020000000000001,
+          "temperature": "706.0 K"
+        },
+        {
+          "material": "Co4Sb11.5Te0.5",
+          "zt_value": 1.15,
+          "temperature": "883.0 K"
+        },
+        {
+          "material": "Co4Sb11.5Te0.5",
+          "zt_value": 1.15,
+          "temperature": "883.0 K"
+        },
+        {
+          "material": "Co4Sb11.5Te0.5",
+          "zt_value": 1.15,
+          "temperature": "883.0 K"
+        },
+        {
+          "material": "Co4Sb11.5Te0.5",
+          "zt_value": 1.15,
+          "temperature": "883.0 K"
+        },
+        {
+          "material": "Co4Sb11.5Te0.5",
+          "zt_value": 0.72,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "Co4Sb11.5Te0.5",
+          "zt_value": 0.93,
+          "temperature": "820.0 K"
+        },
+        {
+          "material": "Co4Sb11.5Te0.5",
+          "zt_value": 1,
+          "temperature": "800.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

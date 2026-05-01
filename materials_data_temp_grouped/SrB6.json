@@ -1,0 +1,65 @@
+{
+  "Material": "SrB6",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2006.01.025",
+    "10.1016/j.mtla.2018.06.003",
+    "10.1016/j.apsusc.2011.12.083",
+    "10.1016/j.jcrysgro.2009.11.015"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "SrB6",
+        "Property": "ThermCond",
+        "Value": 20.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtla.2018.06.003"
+      },
+      {
+        "Original_Name_In_Paper": "SrB6",
+        "Property": "Conductivity",
+        "Value": 20.8333333333,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jcrysgro.2009.11.015"
+      },
+      {
+        "Original_Name_In_Paper": "SrB6 thin films",
+        "Property": "Conductivity",
+        "Value": 1000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2011.12.083"
+      }
+    ],
+    "563.0": [
+      {
+        "Original_Name_In_Paper": "SrB6",
+        "Property": "ZT",
+        "Value": 0.06,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtla.2018.06.003"
+      },
+      {
+        "Original_Name_In_Paper": "SrB6",
+        "Property": "PF",
+        "Value": 0.00025,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtla.2018.06.003"
+      }
+    ],
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "SrB6",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2006.01.025"
+      }
+    ]
+  }
+}

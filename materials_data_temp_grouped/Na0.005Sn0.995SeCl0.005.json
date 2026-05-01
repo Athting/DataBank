@@ -1,0 +1,35 @@
+{
+  "Material": "Na0.005Sn0.995SeCl0.005",
+  "DOIs_Researched": [
+    "10.1007/s11664-017-5715-2",
+    "10.1007/s10853-020-04949-0"
+  ],
+  "Data_By_Temperature": {
+    "810.0": [
+      {
+        "Original_Name_In_Paper": "Na0.005Sn0.995SeCl0.005",
+        "Property": "ThermCond",
+        "Value": 0.000414,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      },
+      {
+        "Original_Name_In_Paper": "Na0.005Sn0.995SeCl0.005",
+        "Property": "ZT",
+        "Value": 0.84,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-017-5715-2"
+      },
+      {
+        "Original_Name_In_Paper": "Na0.005Sn0.995SeCl0.005",
+        "Property": "ZT",
+        "Value": 0.27,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      }
+    ]
+  }
+}

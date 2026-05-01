@@ -1,0 +1,18 @@
+{
+  "Material": "CuAl1-xMxO2",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2015.10.079"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "CuAl1\u2212xMxO2",
+        "Property": "Conductivity",
+        "Value": 17.2,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2015.10.079"
+      }
+    ]
+  }
+}

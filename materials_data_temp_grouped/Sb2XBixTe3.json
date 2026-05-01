@@ -1,0 +1,18 @@
+{
+  "Material": "Sb2XBixTe3",
+  "DOIs_Researched": [
+    "10.1016/j.matchemphys.2015.10.039"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "hexagonal Sb2-xBixTe3",
+        "Property": "ZT",
+        "Value": 1.28,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2015.10.039"
+      }
+    ]
+  }
+}

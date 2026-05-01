@@ -1,0 +1,18 @@
+{
+  "Material": "HfTiNiSn",
+  "DOIs_Researched": [
+    "10.1016/j.matlet.2019.04.116"
+  ],
+  "Data_By_Temperature": {
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "Hf0.1Ti0.9NiSn",
+        "Property": "ThermCond",
+        "Value": 0.91,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2019.04.116"
+      }
+    ]
+  }
+}

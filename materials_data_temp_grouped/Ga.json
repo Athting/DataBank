@@ -1,0 +1,26 @@
+{
+  "Material": "Ga",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2012.03.069"
+  ],
+  "Data_By_Temperature": {
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "EDS Ga",
+        "Property": "ZT",
+        "Value": 0.55,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2012.03.069"
+      },
+      {
+        "Original_Name_In_Paper": "EDS Ga",
+        "Property": "ZT",
+        "Value": 0.55,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2012.03.069"
+      }
+    ]
+  }
+}

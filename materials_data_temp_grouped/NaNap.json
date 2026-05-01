@@ -1,0 +1,18 @@
+{
+  "Material": "NaNap",
+  "DOIs_Researched": [
+    "10.1039/c6cp04572c"
+  ],
+  "Data_By_Temperature": {
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "NaNap",
+        "Property": "PF",
+        "Value": 8.1e-07,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6cp04572c"
+      }
+    ]
+  }
+}

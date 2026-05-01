@@ -1,0 +1,18 @@
+{
+  "Material": "BaZnGeSn",
+  "DOIs_Researched": [
+    "10.1039/c5ta04168f"
+  ],
+  "Data_By_Temperature": {
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "Ba\u2013Zn\u2013Ge\u2013Sn",
+        "Property": "ZT",
+        "Value": 0.8200000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta04168f"
+      }
+    ]
+  }
+}

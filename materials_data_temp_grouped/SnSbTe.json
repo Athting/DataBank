@@ -1,0 +1,70 @@
+{
+  "Material": "SnSbTe",
+  "DOIs_Researched": [
+    "10.1039/d0tc01488e"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "SnSbTe",
+        "Property": "ThermCond",
+        "Value": 6.6,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0tc01488e"
+      },
+      {
+        "Original_Name_In_Paper": "SnSbTe",
+        "Property": "ThermCond",
+        "Value": 6.6,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0tc01488e"
+      },
+      {
+        "Original_Name_In_Paper": "SnSbTe",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0tc01488e"
+      },
+      {
+        "Original_Name_In_Paper": "SnSbTe",
+        "Property": "PF",
+        "Value": 0.76,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0tc01488e"
+      },
+      {
+        "Original_Name_In_Paper": "SnSbTe",
+        "Property": "PF",
+        "Value": 0.0017000000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0tc01488e"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "SnSbTe",
+        "Property": "ThermCond",
+        "Value": 6.6,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0tc01488e"
+      }
+    ],
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "p-type SnSbTe",
+        "Property": "PF",
+        "Value": 0.47000000000000003,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0tc01488e"
+      }
+    ]
+  }
+}

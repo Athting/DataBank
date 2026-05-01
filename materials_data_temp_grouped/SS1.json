@@ -1,0 +1,66 @@
+{
+  "Material": "SS1",
+  "DOIs_Researched": [
+    "10.1039/c8ta00608c"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "SS1",
+        "Property": "ThermCond",
+        "Value": 0.30000000000000004,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta00608c"
+      },
+      {
+        "Original_Name_In_Paper": "SS1",
+        "Property": "ThermCond",
+        "Value": 0.30000000000000004,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta00608c"
+      },
+      {
+        "Original_Name_In_Paper": "SS1",
+        "Property": "ZT",
+        "Value": 1.13,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta00608c"
+      },
+      {
+        "Original_Name_In_Paper": "SS1",
+        "Property": "ZT",
+        "Value": 0.88,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta00608c"
+      },
+      {
+        "Original_Name_In_Paper": "SS1",
+        "Property": "ZT",
+        "Value": 0.88,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta00608c"
+      },
+      {
+        "Original_Name_In_Paper": "SS1",
+        "Property": "ZT",
+        "Value": 1.13,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta00608c"
+      },
+      {
+        "Original_Name_In_Paper": "SS1",
+        "Property": "PF",
+        "Value": 0.000441,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta00608c"
+      }
+    ]
+  }
+}

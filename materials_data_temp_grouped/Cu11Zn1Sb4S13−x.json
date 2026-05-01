@@ -1,0 +1,18 @@
+{
+  "Material": "Cu11Zn1Sb4S13\u2212x",
+  "DOIs_Researched": [
+    "10.1039/c8cp05479g"
+  ],
+  "Data_By_Temperature": {
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "Cu11Zn1Sb4S13\u2212xSex",
+        "Property": "ThermCond",
+        "Value": 0.6000000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8cp05479g"
+      }
+    ]
+  }
+}

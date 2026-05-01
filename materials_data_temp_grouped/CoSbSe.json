@@ -1,0 +1,53 @@
+{
+  "Material": "CoSbSe",
+  "DOIs_Researched": [
+    "10.1039/c7ra05609e",
+    "10.1016/j.jallcom.2017.09.136"
+  ],
+  "Data_By_Temperature": {
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "CoSbS0.99Se0.01",
+        "Property": "ZT",
+        "Value": 0.26,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ra05609e"
+      },
+      {
+        "Original_Name_In_Paper": "CoSbS0.99Se0.01",
+        "Property": "ZT",
+        "Value": 0.26,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ra05609e"
+      },
+      {
+        "Original_Name_In_Paper": "CoSbS0.99Se0.01",
+        "Property": "PF",
+        "Value": 0.0011,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ra05609e"
+      },
+      {
+        "Original_Name_In_Paper": "CoSbS0.99Se0.01",
+        "Property": "PF",
+        "Value": 0.0011,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ra05609e"
+      }
+    ],
+    "657.0": [
+      {
+        "Original_Name_In_Paper": "Zn substituted Co-Sb-Se compound",
+        "Property": "ZT",
+        "Value": 0.53,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.09.136"
+      }
+    ]
+  }
+}

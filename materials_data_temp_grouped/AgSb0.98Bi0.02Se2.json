@@ -1,0 +1,55 @@
+{
+  "Material": "AgSb0.98Bi0.02Se2",
+  "DOIs_Researched": [
+    "10.1039/c3ee41935e",
+    "10.1039/c6tc00893c"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "AgSb0.98Bi0.02Se2",
+        "Property": "ThermCond",
+        "Value": 0.32,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ee41935e"
+      },
+      {
+        "Original_Name_In_Paper": "AgSb0.98Bi0.02Se2",
+        "Property": "Seebeck",
+        "Value": 0.000254,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ee41935e"
+      },
+      {
+        "Original_Name_In_Paper": "AgSb0.98Bi0.02Se2",
+        "Property": "Conductivity",
+        "Value": 5100.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ee41935e"
+      }
+    ],
+    "640.0": [
+      {
+        "Original_Name_In_Paper": "AgSb0.98Bi0.02Se2",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6tc00893c"
+      }
+    ],
+    "618.0": [
+      {
+        "Original_Name_In_Paper": "AgSb0.98Bi0.02Se2",
+        "Property": "Conductivity",
+        "Value": 5970.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6tc00893c"
+      }
+    ]
+  }
+}

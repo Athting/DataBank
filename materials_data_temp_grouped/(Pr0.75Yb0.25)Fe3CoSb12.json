@@ -1,0 +1,18 @@
+{
+  "Material": "(Pr0.75Yb0.25)Fe3CoSb12",
+  "DOIs_Researched": [
+    "10.3938/jkps.70.591"
+  ],
+  "Data_By_Temperature": {
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "(Pr0.75Yb0.25)0.8Fe3CoSb12",
+        "Property": "ZT",
+        "Value": 0.85,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.3938/jkps.70.591"
+      }
+    ]
+  }
+}

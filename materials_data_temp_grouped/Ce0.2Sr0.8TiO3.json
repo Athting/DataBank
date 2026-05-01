@@ -1,0 +1,37 @@
+{
+  "Material": "Ce0.2Sr0.8TiO3",
+  "DOIs_Researched": [
+    "10.1039/c1cs15178a",
+    "10.1016/j.apsusc.2007.04.089"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ce0.2Sr0.8TiO3",
+        "Property": "Seebeck",
+        "Value": 0.07,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c1cs15178a"
+      },
+      {
+        "Original_Name_In_Paper": "Ce0.2Sr0.8TiO3",
+        "Property": "Conductivity",
+        "Value": 130000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c1cs15178a"
+      }
+    ],
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "Ce0.2Sr0.8TiO3 film",
+        "Property": "PF",
+        "Value": 0.0007,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2007.04.089"
+      }
+    ]
+  }
+}

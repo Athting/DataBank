@@ -1,0 +1,18 @@
+{
+  "Material": "rare-earth pnictide",
+  "DOIs_Researched": [
+    "10.1016/j.jcrysgro.2008.12.050"
+  ],
+  "Data_By_Temperature": {
+    "10.0": [
+      {
+        "Original_Name_In_Paper": "rare-earth pnictide",
+        "Property": "Conductivity",
+        "Value": 10000000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jcrysgro.2008.12.050"
+      }
+    ]
+  }
+}

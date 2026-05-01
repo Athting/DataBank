@@ -1,0 +1,101 @@
+{
+  "doi": "10.1016/j.mtcomm.2020.101434",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "ZrS2 monolayer",
+        "ZrS2",
+        "monolayer ZrS2",
+        "p-type doped ZrS2 monolayer"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "ZrS2",
+          "value": 0.00078757,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "250.0 K"
+        },
+        {
+          "material": "ZrS2",
+          "value": 0.00028199999999999997,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "800.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "ZrS2 monolayer",
+          "value": 2.39,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "ZrS2",
+          "value": 3.05,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "ZrS2",
+          "value": 18,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "monolayer ZrS2",
+          "value": 3.29,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "ZrS2",
+          "value": 3.29,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "monolayer ZrS2",
+          "zt_value": 1.6,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "p-type doped ZrS2 monolayer",
+          "zt_value": 2.4,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "monolayer ZrS2",
+          "zt_value": 1.2,
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "SnGe0.97As",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2019.05.016"
+  ],
+  "Data_By_Temperature": {
+    "660.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.03Ge0.97As",
+        "Property": "ZT",
+        "Value": 0.35000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2019.05.016"
+      }
+    ]
+  }
+}

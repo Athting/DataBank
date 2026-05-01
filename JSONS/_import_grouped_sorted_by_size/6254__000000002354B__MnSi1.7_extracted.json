@@ -1,0 +1,86 @@
+{
+  "doi": "10.1016/j.matchemphys.2010.01.016",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Al modulation doped MnSi1.7 film",
+        "doped MnSi1.7 film",
+        "p-type bulk MnSi1.7 materials",
+        "nano-scale n-type MnSi1.7 film",
+        "n-type MnSi1.7 films"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "Al modulation doped MnSi1.7 film",
+          "value": 0.000203,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "633.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "doped MnSi1.7 film",
+          "value": 0.000558,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "783.0 K"
+        },
+        {
+          "material": "p-type bulk MnSi1.7 materials",
+          "value": 0.0024000000000000002,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "783.0 K"
+        },
+        {
+          "material": "nano-scale n-type MnSi1.7 film",
+          "value": 0.0036000000000000003,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "533.0 K"
+        },
+        {
+          "material": "nano-scale n-type MnSi1.7 film",
+          "value": 0.0036000000000000003,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "533.0 K"
+        },
+        {
+          "material": "p-type bulk MnSi1.7 materials",
+          "value": 0.0024000000000000002,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "n-type MnSi1.7 films",
+          "value": 0.001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "683.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": []
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

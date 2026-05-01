@@ -1,0 +1,18 @@
+{
+  "Material": "Au / Si / Ge",
+  "DOIs_Researched": [
+    "10.1039/c5ra04412j"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Au / Si / Ge",
+        "Property": "ThermCond",
+        "Value": 0.93,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra04412j"
+      }
+    ]
+  }
+}

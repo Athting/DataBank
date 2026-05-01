@@ -1,0 +1,97 @@
+{
+  "Material": "TiB2",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2018.03.100",
+    "10.1016/S0167-577X(03)00299-4"
+  ],
+  "Data_By_Temperature": {
+    "550.0": [
+      {
+        "Original_Name_In_Paper": "10 wt % PVA incorporated TiB2",
+        "Property": "ThermCond",
+        "Value": 0.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.03.100"
+      },
+      {
+        "Original_Name_In_Paper": "10 wt % PVA + TiB2",
+        "Property": "ThermCond",
+        "Value": 0.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.03.100"
+      },
+      {
+        "Original_Name_In_Paper": "10 wt % PVA incorporated TiB2",
+        "Property": "ZT",
+        "Value": 0.06,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.03.100"
+      },
+      {
+        "Original_Name_In_Paper": "10 wt % of PVA incorporated TiB2 composite",
+        "Property": "Seebeck",
+        "Value": 3.63e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.03.100"
+      },
+      {
+        "Original_Name_In_Paper": "10 wt % PVA incorporated TiB2",
+        "Property": "Conductivity",
+        "Value": 104.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.03.100"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "TiB2",
+        "Property": "ThermCond",
+        "Value": 25.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0167-577X(03)00299-4"
+      },
+      {
+        "Original_Name_In_Paper": "TiB2",
+        "Property": "Conductivity",
+        "Value": 107.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.03.100"
+      }
+    ],
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "TiB2",
+        "Property": "ZT",
+        "Value": 0.004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.03.100"
+      },
+      {
+        "Original_Name_In_Paper": "TiB2",
+        "Property": "Seebeck",
+        "Value": -1e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.03.100"
+      }
+    ],
+    "495.0": [
+      {
+        "Original_Name_In_Paper": "TiB2",
+        "Property": "ZT",
+        "Value": 0.12,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.03.100"
+      }
+    ]
+  }
+}

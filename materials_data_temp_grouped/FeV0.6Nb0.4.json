@@ -1,0 +1,18 @@
+{
+  "Material": "FeV0.6Nb0.4",
+  "DOIs_Researched": [
+    "10.1039/c4ee03042g"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "FeV0.6Nb0.4Sb",
+        "Property": "ThermCond",
+        "Value": 5.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": "point defect",
+        "Source_DOI": "10.1039/c4ee03042g"
+      }
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "Material": "Bi2Te1.9Se1.1",
+  "DOIs_Researched": [
+    "10.1039/c5tc02263k",
+    "10.1039/c8ra09280j",
+    "10.1007/s10853-020-04949-0"
+  ],
+  "Data_By_Temperature": {
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Te1.9Se1.1 alloy",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc02263k"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Te1.9Se1.1 materials",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc02263k"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Te1.9Se1.1 alloy",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ra09280j"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Te1.9Se1.1 material",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      }
+    ],
+    "510.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Te1.9Se1.1",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc02263k"
+      }
+    ],
+    "580.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Te1.9Se1.1",
+        "Property": "ZT",
+        "Value": 0.9500000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc02263k"
+      }
+    ],
+    "590.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Te1.9Se1.1",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc02263k"
+      }
+    ]
+  }
+}

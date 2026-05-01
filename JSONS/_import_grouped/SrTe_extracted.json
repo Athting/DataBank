@@ -1,0 +1,139 @@
+{
+  "doi": "10.1038/nature12608",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "0.5 % SrTe",
+        "SrTe nanoprecipitates",
+        "SrTe nanocrystals",
+        "SrTe",
+        "SrTe nano-precipitates",
+        "SrTe nanoparticles",
+        "SrTe-2 % doped PbTe",
+        "SrTe nanoscale",
+        "PbTe-doped SrTe nano-sized"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "0.5 % SrTe",
+          "value": 0.000065,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "SrTe nanoprecipitates",
+          "zt_value": 1.7000000000000002,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "SrTe nanocrystals",
+          "zt_value": 1.7000000000000002,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "SrTe",
+          "zt_value": 1.7000000000000002,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "SrTe",
+          "zt_value": 1.7000000000000002,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "SrTe nano-precipitates",
+          "zt_value": 1.7000000000000002,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "SrTe",
+          "zt_value": 1.7000000000000002,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "SrTe nanoparticles",
+          "zt_value": 1.7000000000000002,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "SrTe-2 % doped PbTe",
+          "zt_value": 2,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "SrTe",
+          "zt_value": 1.7000000000000002,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "SrTe nanocrystals",
+          "zt_value": 1.7000000000000002,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "SrTe",
+          "zt_value": 1.7000000000000002,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "SrTe nanocrystals",
+          "zt_value": 1,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "SrTe nanoscale",
+          "zt_value": 2.2,
+          "temperature": "915.0 K"
+        },
+        {
+          "material": "SrTe nanoscale",
+          "zt_value": 2.2,
+          "temperature": "915.0 K"
+        },
+        {
+          "material": "PbTe-doped SrTe nano-sized",
+          "zt_value": 1.5,
+          "temperature": "915.0 K"
+        },
+        {
+          "material": "SrTe",
+          "zt_value": 2.5,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SrTe nanocrystals",
+          "zt_value": 1.7000000000000002,
+          "temperature": "813.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "ScFeGe",
+  "DOIs_Researched": [
+    "10.1016/j.jmmm.2017.07.010"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Sc2FeGe",
+        "Property": "Seebeck",
+        "Value": -0.00060938,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmmm.2017.07.010"
+      }
+    ]
+  }
+}

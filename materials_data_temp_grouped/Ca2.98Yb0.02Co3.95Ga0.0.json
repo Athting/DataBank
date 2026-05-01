@@ -1,0 +1,18 @@
+{
+  "Material": "Ca2.98Yb0.02Co3.95Ga0.0",
+  "DOIs_Researched": [
+    "10.1007/s10854-013-1579-2"
+  ],
+  "Data_By_Temperature": {
+    "137.0": [
+      {
+        "Original_Name_In_Paper": "Ca2.98Yb0.02Co3.95Ga0.05O9+\u03b4",
+        "Property": "PF",
+        "Value": 0.000259,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-013-1579-2"
+      }
+    ]
+  }
+}

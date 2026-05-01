@@ -1,0 +1,18 @@
+{
+  "Material": "Ca2.95Bi0.05Co3.95Fe0.15",
+  "DOIs_Researched": [
+    "10.1016/j.enconman.2013.07.009"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ca2.95Bi0.05Co3.95Fe0.15O9+\u03b4",
+        "Property": "ZT",
+        "Value": 0.064,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.enconman.2013.07.009"
+      }
+    ]
+  }
+}

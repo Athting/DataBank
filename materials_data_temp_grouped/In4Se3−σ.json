@@ -1,0 +1,18 @@
+{
+  "Material": "In4Se3\u2212\u03c3",
+  "DOIs_Researched": [
+    "10.1016/j.apenergy.2014.12.075"
+  ],
+  "Data_By_Temperature": {
+    "705.0": [
+      {
+        "Original_Name_In_Paper": "In4Se3\u2212\u03c3",
+        "Property": "ZT",
+        "Value": 1.48,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apenergy.2014.12.075"
+      }
+    ]
+  }
+}

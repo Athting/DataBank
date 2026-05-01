@@ -1,0 +1,18 @@
+{
+  "Material": "C18N6",
+  "DOIs_Researched": [
+    "10.1016/j.carbon.2018.04.090"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "C18N6",
+        "Property": "ThermCond",
+        "Value": 1.3599999999999999,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.carbon.2018.04.090"
+      }
+    ]
+  }
+}

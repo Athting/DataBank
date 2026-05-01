@@ -1,0 +1,18 @@
+{
+  "Material": "Bi / Sb",
+  "DOIs_Researched": [
+    "10.1016/j.mtphys.2018.07.002"
+  ],
+  "Data_By_Temperature": {
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "Bi / Sb",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2018.07.002"
+      }
+    ]
+  }
+}

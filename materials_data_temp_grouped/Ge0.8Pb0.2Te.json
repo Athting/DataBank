@@ -1,0 +1,28 @@
+{
+  "Material": "Ge0.8Pb0.2Te",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2014.09.198"
+  ],
+  "Data_By_Temperature": {
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "Ge0.8Pb0.2Te",
+        "Property": "Seebeck",
+        "Value": 4.12e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.09.198"
+      }
+    ],
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "Ge0.8Pb0.2Te",
+        "Property": "Seebeck",
+        "Value": 0.00010499999999999999,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.09.198"
+      }
+    ]
+  }
+}

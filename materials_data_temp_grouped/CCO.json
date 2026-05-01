@@ -1,0 +1,476 @@
+{
+  "Material": "CCO",
+  "DOIs_Researched": [
+    "10.1039/c9ce01139k",
+    "10.1016/j.enconman.2014.03.048",
+    "10.1016/j.jallcom.2019.06.113",
+    "10.1016/j.jeurceramsoc.2018.10.023",
+    "10.1016/j.jallcom.2013.11.098",
+    "10.1016/j.jallcom.2018.04.215",
+    "10.1016/j.mattod.2019.07.003",
+    "10.1016/j.jallcom.2019.04.081",
+    "10.1007/s10854-019-02838-0",
+    "10.1016/j.jeurceramsoc.2019.03.036",
+    "10.1016/j.jeurceramsoc.2017.11.017",
+    "10.1007/s10854-020-03095-2",
+    "10.1016/j.jmatprotec.2019.116319",
+    "10.1557/jmr.2013.163",
+    "10.1016/j.solidstatesciences.2020.106190",
+    "10.1016/j.enconman.2015.03.112",
+    "10.1016/j.jallcom.2013.03.069",
+    "10.1007/s40243-019-0163-y",
+    "10.1016/j.oceram.2020.100002",
+    "10.1039/c4ta02198c",
+    "10.1007/s10832-007-9297-x",
+    "10.1016/j.ceramint.2014.09.015",
+    "10.1039/b304295b",
+    "10.1016/j.jallcom.2015.11.001",
+    "10.1007/s10854-018-9456-7",
+    "10.1016/j.jeurceramsoc.2017.11.011",
+    "10.1016/j.ceramint.2017.04.132",
+    "10.1016/j.matchemphys.2018.09.069",
+    "10.1016/j.jmat.2019.04.007"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "CCO without Bi\u2013O / Bi\u2013O",
+        "Property": "ThermCond",
+        "Value": 1.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ce01139k"
+      },
+      {
+        "Original_Name_In_Paper": "pristine CCO",
+        "Property": "ThermCond",
+        "Value": 3.14,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2014.09.015"
+      },
+      {
+        "Original_Name_In_Paper": "CCO",
+        "Property": "Seebeck",
+        "Value": 9e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.03.069"
+      },
+      {
+        "Original_Name_In_Paper": "CCO",
+        "Property": "Seebeck",
+        "Value": 0.00015000000000000001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.enconman.2015.03.112"
+      },
+      {
+        "Original_Name_In_Paper": "CCO",
+        "Property": "Seebeck",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.11.001"
+      },
+      {
+        "Original_Name_In_Paper": "CCO",
+        "Property": "Seebeck",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2017.11.017"
+      },
+      {
+        "Original_Name_In_Paper": "CCO",
+        "Property": "PF",
+        "Value": 1.3e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1557/jmr.2013.163"
+      },
+      {
+        "Original_Name_In_Paper": "CCO",
+        "Property": "Conductivity",
+        "Value": 6200.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.04.081"
+      },
+      {
+        "Original_Name_In_Paper": "CCO",
+        "Property": "Conductivity",
+        "Value": 6200.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.04.081"
+      },
+      {
+        "Original_Name_In_Paper": "CCO",
+        "Property": "Conductivity",
+        "Value": 10000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta02198c"
+      },
+      {
+        "Original_Name_In_Paper": "bulk CCO single crystal",
+        "Property": "Conductivity",
+        "Value": 2500.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2018.09.069"
+      }
+    ],
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "CCO",
+        "Property": "ThermCond",
+        "Value": 0.55,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2020.106190"
+      },
+      {
+        "Original_Name_In_Paper": "CCO",
+        "Property": "ZT",
+        "Value": 0.37,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2020.106190"
+      },
+      {
+        "Original_Name_In_Paper": "CCO",
+        "Property": "Seebeck",
+        "Value": 0.00018099999999999998,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2020.106190"
+      }
+    ],
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "CCO-30-35-10 nanocomposite",
+        "Property": "ThermCond",
+        "Value": 1.96,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2018.10.023"
+      },
+      {
+        "Original_Name_In_Paper": "CCO",
+        "Property": "ZT",
+        "Value": 0.11,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2017.11.011"
+      },
+      {
+        "Original_Name_In_Paper": "CCO",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.11.001"
+      },
+      {
+        "Original_Name_In_Paper": "CCO-30-35-10",
+        "Property": "ZT",
+        "Value": 0.31,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2018.10.023"
+      },
+      {
+        "Original_Name_In_Paper": "CCO",
+        "Property": "ZT",
+        "Value": 0.36,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s40243-019-0163-y"
+      },
+      {
+        "Original_Name_In_Paper": "CCO",
+        "Property": "PF",
+        "Value": 0.00042,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2017.11.017"
+      },
+      {
+        "Original_Name_In_Paper": "CCO-30-35-10 nanocomposite",
+        "Property": "PF",
+        "Value": 0.0006500000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2018.10.023"
+      },
+      {
+        "Original_Name_In_Paper": "CCO",
+        "Property": "PF",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2018.10.023"
+      },
+      {
+        "Original_Name_In_Paper": "CCO-30-35-10",
+        "Property": "Conductivity",
+        "Value": 11600.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2018.10.023"
+      },
+      {
+        "Original_Name_In_Paper": "CCO",
+        "Property": "Conductivity",
+        "Value": 4800.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2018.10.023"
+      },
+      {
+        "Original_Name_In_Paper": "pure CCO",
+        "Property": "Conductivity",
+        "Value": 1000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.04.215"
+      }
+    ],
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "CCO",
+        "Property": "ThermCond",
+        "Value": 1.18,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.11.098"
+      },
+      {
+        "Original_Name_In_Paper": "CCO",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2018.09.069"
+      },
+      {
+        "Original_Name_In_Paper": "single crystalline CCO",
+        "Property": "ZT",
+        "Value": 0.87,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.11.098"
+      },
+      {
+        "Original_Name_In_Paper": "single crystalline CCO",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.enconman.2014.03.048"
+      }
+    ],
+    "350.0": [
+      {
+        "Original_Name_In_Paper": "pure CCO",
+        "Property": "ZT",
+        "Value": 0.0027700000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2014.09.015"
+      }
+    ],
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "single crystal CCO",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-018-9456-7"
+      },
+      {
+        "Original_Name_In_Paper": "undoped CCO",
+        "Property": "ZT",
+        "Value": 0.17500000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10832-007-9297-x"
+      },
+      {
+        "Original_Name_In_Paper": "polycrystalline CCO",
+        "Property": "ZT",
+        "Value": 0.87,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2019.04.007"
+      },
+      {
+        "Original_Name_In_Paper": "CCO",
+        "Property": "ZT",
+        "Value": 0.87,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/b304295b"
+      },
+      {
+        "Original_Name_In_Paper": "CCO",
+        "Property": "ZT",
+        "Value": 0.87,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2017.04.132"
+      },
+      {
+        "Original_Name_In_Paper": "CCO",
+        "Property": "Seebeck",
+        "Value": 0.00030000000000000003,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-018-9456-7"
+      },
+      {
+        "Original_Name_In_Paper": "CCO",
+        "Property": "Conductivity",
+        "Value": 10000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mattod.2019.07.003"
+      },
+      {
+        "Original_Name_In_Paper": "CCO",
+        "Property": "Conductivity",
+        "Value": 11800.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10832-007-9297-x"
+      },
+      {
+        "Original_Name_In_Paper": "CCO",
+        "Property": "Conductivity",
+        "Value": 300.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmatprotec.2019.116319"
+      }
+    ],
+    "954.0": [
+      {
+        "Original_Name_In_Paper": "CCO",
+        "Property": "ZT",
+        "Value": 0.24,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.06.113"
+      }
+    ],
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "CCO",
+        "Property": "ZT",
+        "Value": 0.06,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-019-02838-0"
+      },
+      {
+        "Original_Name_In_Paper": "CCO",
+        "Property": "PF",
+        "Value": 0.00017,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.11.001"
+      }
+    ],
+    "1055.0": [
+      {
+        "Original_Name_In_Paper": "CCO",
+        "Property": "ZT",
+        "Value": 0.26,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/b304295b"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "CCO",
+        "Property": "ZT",
+        "Value": 0.19,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2017.04.132"
+      }
+    ],
+    "1118.0": [
+      {
+        "Original_Name_In_Paper": "CCO",
+        "Property": "ZT",
+        "Value": 0.61,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mattod.2019.07.003"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "CCO",
+        "Property": "Seebeck",
+        "Value": 0.000125,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.oceram.2020.100002"
+      },
+      {
+        "Original_Name_In_Paper": "CCO",
+        "Property": "PF",
+        "Value": 7.5e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.oceram.2020.100002"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "CCO",
+        "Property": "Seebeck",
+        "Value": 0.00013000000000000002,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/b304295b"
+      }
+    ],
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "CCO",
+        "Property": "Conductivity",
+        "Value": 5000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2019.03.036"
+      }
+    ],
+    "1026.0": [
+      {
+        "Original_Name_In_Paper": "CCO",
+        "Property": "Conductivity",
+        "Value": 8854.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-020-03095-2"
+      }
+    ],
+    "1193.0": [
+      {
+        "Original_Name_In_Paper": "CCO",
+        "Property": "Conductivity",
+        "Value": 5600.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.11.001"
+      }
+    ]
+  }
+}

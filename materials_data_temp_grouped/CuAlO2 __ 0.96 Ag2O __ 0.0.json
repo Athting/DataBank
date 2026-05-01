@@ -1,0 +1,18 @@
+{
+  "Material": "CuAlO2 \\* 0.96 Ag2O \\* 0.0",
+  "DOIs_Researched": [
+    "10.1016/j.cap.2017.06.011"
+  ],
+  "Data_By_Temperature": {
+    "623.0": [
+      {
+        "Original_Name_In_Paper": "(CuAlO2)0.96(Ag2O)0.04",
+        "Property": "Seebeck",
+        "Value": 0.00051297,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2017.06.011"
+      }
+    ]
+  }
+}

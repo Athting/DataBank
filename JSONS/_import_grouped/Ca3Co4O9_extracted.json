@@ -1,0 +1,907 @@
+{
+  "doi": "10.1039/c0dt01731k",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Ca3Co4O9",
+        "Single crystal Ca3Co4O9",
+        "un-doped polycrystalline Ca3Co4O9",
+        "undoped Ca3Co4O9",
+        "nanoporous p-type Ca3Co4O9 thin films",
+        "nanoporous Ca3Co4O9 thin films",
+        "Ca3Co4O9K0.1",
+        "pristine Ca3Co4O9",
+        "porous Ca3Co4O9",
+        "pure Ca3Co4O9",
+        "Single-crystal Ca3Co4O9",
+        "single crystals Ca3Co4O9",
+        "single crystal Ca3Co4O9",
+        "Ca3-xPrxCo4O9+δ 1 Ω-cm",
+        "bulk polycrystalline Ca3Co4O9 material",
+        "Ca3Co4O9 − δ",
+        "Cd-substituted Ca3Co4O9",
+        "Fe-substituted Ca3Co4O9",
+        "(Ca0.995Sr0.005)3Co4O9",
+        "un-doped Ca3Co4O9",
+        "La-doped Ca3Co4O9",
+        "p-type Tb-doped Ca3Co4O9",
+        "doped Ca3Co4O9",
+        "RE-doped Ca3Co4O9",
+        "Tb doped Ca3Co4O9",
+        "pure Ca3Co4O9 material",
+        "Polyaniline / Ca3Co4O9 bulk composites",
+        "Ca3Co4O9 polycrystalline bulks",
+        "Ca3Co4O9K0.15",
+        "pure Ca3Co4O9 thin film"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "Ca3Co4O9",
+          "value": 0.00013000000000000002,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "value": 0.0001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "value": 0.00013199999999999998,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Single crystal Ca3Co4O9",
+          "value": 0.00013000000000000002,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "un-doped polycrystalline Ca3Co4O9",
+          "value": 0.00015000000000000001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "value": 0.0001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "value": 0.00009099999999999999,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "value": 0.00017199999999999998,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "value": 0.00023245,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "value": 0.000165,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "value": 0.0825,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "pure Ca3Co4O9",
+          "value": 0.00017,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "value": 0.00017,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "value": 0.00019,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "value": 0.00019,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "value": 0.0001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "value": 0.00012000000000000002,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "single crystal Ca3Co4O9",
+          "value": 0.000125,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "value": 0.000125,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "undoped Ca3Co4O9",
+          "value": 0.00013199999999999998,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "value": 0.000149,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "value": 0.00013000000000000002,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "undoped Ca3Co4O9",
+          "value": 0.00013199999999999998,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "single crystal Ca3Co4O9",
+          "value": 0.00028000000000000003,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "value": 0.000173,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "undoped Ca3Co4O9",
+          "value": 0.00015000000000000001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "value": 0.000175,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "pure Ca3Co4O9 material",
+          "value": 0.00015000000000000001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "Ca3Co4O9K0.15",
+          "value": 0.0001675,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "value": 0.000125,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "value": 0.000164,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "650.0 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "value": 0.00017,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "898.0 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "value": 0.00017,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "898.0 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "value": 0.00017,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "898.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "Ca3Co4O9",
+          "value": 10101.0101010101,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Single crystal Ca3Co4O9",
+          "value": 300,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "un-doped polycrystalline Ca3Co4O9",
+          "value": 8000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "value": 14400,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "value": 12500,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "value": 12800,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "single crystal Ca3Co4O9",
+          "value": 50000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "value": 0.0000625,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "undoped Ca3Co4O9",
+          "value": 104,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "pure Ca3Co4O9",
+          "value": 8000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "Ca3Co4O9K0.1",
+          "value": 36231.884057971,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "value": 4100,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "undoped Ca3Co4O9",
+          "value": 12500,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "318.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Ca3Co4O9",
+          "value": 3,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "undoped Ca3Co4O9",
+          "value": 2.03,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "porous Ca3Co4O9",
+          "value": 0.63,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "value": 1.34,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "value": 170000,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "value": 1.34,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "value": 1.34,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Ca3-xPrxCo4O9+δ 1 Ω-cm",
+          "value": 1.63,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "value": 0.04,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "undoped Ca3Co4O9",
+          "value": 2.3,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "value": 2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "pure Ca3Co4O9",
+          "value": 3.1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "value": 6.79,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "573.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Ca3Co4O9",
+          "value": 0.000082,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "undoped Ca3Co4O9",
+          "value": 0.000028,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "nanoporous p-type Ca3Co4O9 thin films",
+          "value": 0.00023,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "nanoporous Ca3Co4O9 thin films",
+          "value": 0.000232,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Ca3Co4O9K0.1",
+          "value": 0.00093,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine Ca3Co4O9",
+          "value": 0.000412,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "value": 0.00093,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "value": 0.0006100000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "value": 0.00007000000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "value": 0.00024000000000000003,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "value": 0.00012000000000000002,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "value": 0.0001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "value": 0.0001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "value": 0.00025,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "pure Ca3Co4O9",
+          "value": 0.000197,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "value": 0.0009500000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "318.0 K"
+        },
+        {
+          "material": "pure Ca3Co4O9",
+          "value": 0.00021,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "553.0 K"
+        },
+        {
+          "material": "Ca3Co4O9K0.1",
+          "value": 0.00093,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "320.0 K"
+        },
+        {
+          "material": "pristine Ca3Co4O9",
+          "value": 0.000412,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "320.0 K"
+        },
+        {
+          "material": "Ca3Co4O9K0.1",
+          "value": 0.00093,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "320.0 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "value": 0.00024792600000000004,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "324.73 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "value": 0.00024792600000000004,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "324.73 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "value": 0.0001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "150.0 K"
+        },
+        {
+          "material": "pure Ca3Co4O9 thin film",
+          "value": 0.00051,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "920.0 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "value": 0.000245,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1473.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Ca3Co4O9",
+          "zt_value": 0.03,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "zt_value": 0.07,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "zt_value": 0.30000000000000004,
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "zt_value": 2.46,
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "zt_value": 0.4,
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "undoped Ca3Co4O9",
+          "zt_value": 0.14,
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "zt_value": 2,
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "undoped Ca3Co4O9",
+          "zt_value": 0.125,
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "zt_value": 0.2,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Single-crystal Ca3Co4O9",
+          "zt_value": 0.87,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "pristine Ca3Co4O9",
+          "zt_value": 0.18,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "zt_value": 0.23,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "zt_value": 0.87,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "zt_value": 0.22,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "zt_value": 0.87,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "single crystals Ca3Co4O9",
+          "zt_value": 0.87,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "single crystal Ca3Co4O9",
+          "zt_value": 0.87,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "single crystal Ca3Co4O9",
+          "zt_value": 0.9,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "single crystals Ca3Co4O9",
+          "zt_value": 0.87,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "zt_value": 0.164,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "single crystal Ca3Co4O9",
+          "zt_value": 0.87,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "single crystals Ca3Co4O9",
+          "zt_value": 0.87,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "single crystals Ca3Co4O9",
+          "zt_value": 0.87,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "zt_value": 0.0216,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "bulk polycrystalline Ca3Co4O9 material",
+          "zt_value": 0.1,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "zt_value": 2,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "zt_value": 2,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "zt_value": 0.1,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "zt_value": 1,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "zt_value": 0.032,
+          "temperature": "660.0 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "zt_value": 0.04,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "undoped Ca3Co4O9",
+          "zt_value": 2,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Ca3Co4O9 − δ",
+          "zt_value": 0.45,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "zt_value": 1,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "zt_value": 1,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "zt_value": 1,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Cd-substituted Ca3Co4O9",
+          "zt_value": 0.35000000000000003,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Fe-substituted Ca3Co4O9",
+          "zt_value": 0.4,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "(Ca0.995Sr0.005)3Co4O9",
+          "zt_value": 0.22,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "zt_value": 0.18,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "single crystal Ca3Co4O9",
+          "zt_value": 0.9,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "(Ca0.995Sr0.005)3Co4O9",
+          "zt_value": 0.22,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "(Ca0.995Sr0.005)3Co4O9",
+          "zt_value": 0.22,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "zt_value": 0.15,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "(Ca0.995Sr0.005)3Co4O9",
+          "zt_value": 0.22,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "zt_value": 0.30000000000000004,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "zt_value": 1.2,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "un-doped Ca3Co4O9",
+          "zt_value": 0.31,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "zt_value": 0.11,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "La-doped Ca3Co4O9",
+          "zt_value": 0.4,
+          "temperature": "975.0 K"
+        },
+        {
+          "material": "p-type Tb-doped Ca3Co4O9",
+          "zt_value": 0.74,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "zt_value": 0.05,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "zt_value": 1.2,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "doped Ca3Co4O9",
+          "zt_value": 0.74,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "RE-doped Ca3Co4O9",
+          "zt_value": 0.74,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "pure Ca3Co4O9",
+          "zt_value": 0.12,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "Tb doped Ca3Co4O9",
+          "zt_value": 0.74,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "Tb doped Ca3Co4O9",
+          "zt_value": 0.74,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "pristine Ca3Co4O9",
+          "zt_value": 0.18,
+          "temperature": "954.0 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "zt_value": 0.16,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Polyaniline / Ca3Co4O9 bulk composites",
+          "zt_value": 0.09,
+          "temperature": "343.0 K"
+        },
+        {
+          "material": "Ca3Co4O9 polycrystalline bulks",
+          "zt_value": 0.61,
+          "temperature": "1118.0 K"
+        },
+        {
+          "material": "doped Ca3Co4O9",
+          "zt_value": 0.61,
+          "temperature": "1118.0 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "zt_value": 0.09,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "Ca3Co4O9",
+          "zt_value": 0.26,
+          "temperature": "1055.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

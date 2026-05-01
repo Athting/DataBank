@@ -1,0 +1,302 @@
+{
+  "Material": "FeSb2",
+  "DOIs_Researched": [
+    "10.1016/j.ijthermalsci.2013.03.009",
+    "10.1557/jmr.2011.86",
+    "10.1039/c3dt51535d",
+    "10.1016/j.jcrysgro.2017.07.016",
+    "10.1016/j.matchemphys.2011.03.079",
+    "10.1039/c1nr10555h",
+    "10.1134/S106378341906009X",
+    "10.1016/j.jmat.2015.04.005",
+    "10.1039/b918909b",
+    "10.1016/j.jallcom.2014.04.139",
+    "10.1016/j.jcrysgro.2012.10.025",
+    "10.1039/b822664b",
+    "10.1016/j.physb.2019.06.001",
+    "10.1007/s10909-014-1148-y",
+    "10.1039/c1dt11523e"
+  ],
+  "Data_By_Temperature": {
+    "10.0": [
+      {
+        "Original_Name_In_Paper": "FeSb2",
+        "Property": "ThermCond",
+        "Value": 500.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ijthermalsci.2013.03.009"
+      },
+      {
+        "Original_Name_In_Paper": "FeSb2",
+        "Property": "ThermCond",
+        "Value": 500.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c1nr10555h"
+      },
+      {
+        "Original_Name_In_Paper": "FeSb2",
+        "Property": "ThermCond",
+        "Value": 1.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/b918909b"
+      },
+      {
+        "Original_Name_In_Paper": "FeSb2 single crystals",
+        "Property": "ThermCond",
+        "Value": 300.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1557/jmr.2011.86"
+      },
+      {
+        "Original_Name_In_Paper": "undoped FeSb2 single crystals",
+        "Property": "ZT",
+        "Value": 0.005,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10909-014-1148-y"
+      },
+      {
+        "Original_Name_In_Paper": "FeSb2 single crystal",
+        "Property": "ZT",
+        "Value": 0.005,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.04.139"
+      },
+      {
+        "Original_Name_In_Paper": "FeSb2",
+        "Property": "ZT",
+        "Value": 0.005,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c1nr10555h"
+      },
+      {
+        "Original_Name_In_Paper": "FeSb2",
+        "Property": "Seebeck",
+        "Value": -0.045,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c1dt11523e"
+      },
+      {
+        "Original_Name_In_Paper": "FeSb2",
+        "Property": "Seebeck",
+        "Value": -0.045,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/b822664b"
+      },
+      {
+        "Original_Name_In_Paper": "FeSb2",
+        "Property": "Seebeck",
+        "Value": 0.045,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1134/S106378341906009X"
+      },
+      {
+        "Original_Name_In_Paper": "single crystalline FeSb2",
+        "Property": "Seebeck",
+        "Value": -0.045,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3dt51535d"
+      },
+      {
+        "Original_Name_In_Paper": "FeSb2",
+        "Property": "Seebeck",
+        "Value": -0.045,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c1nr10555h"
+      },
+      {
+        "Original_Name_In_Paper": "single crystal FeSb2",
+        "Property": "Seebeck",
+        "Value": -0.045,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jcrysgro.2012.10.025"
+      },
+      {
+        "Original_Name_In_Paper": "FeSb2",
+        "Property": "Seebeck",
+        "Value": -0.045,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/b918909b"
+      },
+      {
+        "Original_Name_In_Paper": "FeSb2 of \u2212 10",
+        "Property": "Seebeck",
+        "Value": -0.045,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/b918909b"
+      },
+      {
+        "Original_Name_In_Paper": "FeSb2",
+        "Property": "Seebeck",
+        "Value": 0.045,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10909-014-1148-y"
+      },
+      {
+        "Original_Name_In_Paper": "FeSb2 single crystals",
+        "Property": "Seebeck",
+        "Value": -0.04,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1557/jmr.2011.86"
+      },
+      {
+        "Original_Name_In_Paper": "FeSb2 single crystals",
+        "Property": "Seebeck",
+        "Value": -0.045,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1557/jmr.2011.86"
+      },
+      {
+        "Original_Name_In_Paper": "FeSb2 single crystals",
+        "Property": "Seebeck",
+        "Value": -0.045,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jcrysgro.2017.07.016"
+      },
+      {
+        "Original_Name_In_Paper": "FeSb2",
+        "Property": "PF",
+        "Value": 0.1,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/b918909b"
+      },
+      {
+        "Original_Name_In_Paper": "FeSb2 single crystals",
+        "Property": "PF",
+        "Value": 0.23,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1557/jmr.2011.86"
+      },
+      {
+        "Original_Name_In_Paper": "FeSb2",
+        "Property": "PF",
+        "Value": 0.23,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c1dt11523e"
+      }
+    ],
+    "15.0": [
+      {
+        "Original_Name_In_Paper": "FeSb2",
+        "Property": "ThermCond",
+        "Value": 300.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/b918909b"
+      },
+      {
+        "Original_Name_In_Paper": "FeSb2",
+        "Property": "Seebeck",
+        "Value": 0.007,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/b918909b"
+      }
+    ],
+    "100.0": [
+      {
+        "Original_Name_In_Paper": "FeSb2",
+        "Property": "ThermCond",
+        "Value": 7.08,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10909-014-1148-y"
+      },
+      {
+        "Original_Name_In_Paper": "single crystal FeSb2",
+        "Property": "ThermCond",
+        "Value": 30.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10909-014-1148-y"
+      },
+      {
+        "Original_Name_In_Paper": "FeSb2",
+        "Property": "ZT",
+        "Value": 0.013000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10909-014-1148-y"
+      },
+      {
+        "Original_Name_In_Paper": "FeSb2",
+        "Property": "Conductivity",
+        "Value": 63000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2015.04.005"
+      }
+    ],
+    "80.0": [
+      {
+        "Original_Name_In_Paper": "FeSb2",
+        "Property": "ThermCond",
+        "Value": 2.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2015.04.005"
+      }
+    ],
+    "380.0": [
+      {
+        "Original_Name_In_Paper": "n and p-types FeSb2",
+        "Property": "ZT",
+        "Value": 0.79,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2019.06.001"
+      }
+    ],
+    "12.0": [
+      {
+        "Original_Name_In_Paper": "FeSb2 single crystals",
+        "Property": "Seebeck",
+        "Value": -0.045,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2011.03.079"
+      }
+    ],
+    "190.0": [
+      {
+        "Original_Name_In_Paper": "FeSb2",
+        "Property": "Seebeck",
+        "Value": 2.2e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2011.03.079"
+      }
+    ],
+    "20.0": [
+      {
+        "Original_Name_In_Paper": "FeSb2",
+        "Property": "Seebeck",
+        "Value": -8.4e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2015.04.005"
+      }
+    ]
+  }
+}

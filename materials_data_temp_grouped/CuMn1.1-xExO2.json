@@ -1,0 +1,26 @@
+{
+  "Material": "CuMn1.1-xExO2",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2015.10.079"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "CuMn1.1\u2212xExO2",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2015.10.079"
+      },
+      {
+        "Original_Name_In_Paper": "CuMn1.1\u2212xExO2",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2015.10.079"
+      }
+    ]
+  }
+}

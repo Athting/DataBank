@@ -1,0 +1,28 @@
+{
+  "Material": "Ge9Sb2Te11.91",
+  "DOIs_Researched": [
+    "10.1007/s10853-020-04949-0"
+  ],
+  "Data_By_Temperature": {
+    "775.0": [
+      {
+        "Original_Name_In_Paper": "Ge9Sb2Te11.91",
+        "Property": "ZT",
+        "Value": 2.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      }
+    ],
+    "725.0": [
+      {
+        "Original_Name_In_Paper": "Ge9Sb2Te11.91",
+        "Property": "PF",
+        "Value": 0.0032600000000000003,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      }
+    ]
+  }
+}

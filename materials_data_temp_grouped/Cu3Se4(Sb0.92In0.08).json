@@ -1,0 +1,34 @@
+{
+  "Material": "Cu3Se4(Sb0.92In0.08)",
+  "DOIs_Researched": [
+    "10.1007/s10854-018-8896-4"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Cu3(Sb0.92In0.08)Se4 thin film",
+        "Property": "ZT",
+        "Value": 0.267,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-018-8896-4"
+      },
+      {
+        "Original_Name_In_Paper": "Cu3(Sb0.92In0.08)Se4 thin film",
+        "Property": "ZT",
+        "Value": 0.267,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-018-8896-4"
+      },
+      {
+        "Original_Name_In_Paper": "Cu3(Sb0.92In0.08)Se4 thin film",
+        "Property": "ZT",
+        "Value": 0.267,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-018-8896-4"
+      }
+    ]
+  }
+}

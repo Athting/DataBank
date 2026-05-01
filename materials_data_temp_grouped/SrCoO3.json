@@ -1,0 +1,18 @@
+{
+  "Material": "SrCoO3",
+  "DOIs_Researched": [
+    "10.1016/B978-0-444-63528-0.00003-6"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "SrCoO3",
+        "Property": "Conductivity",
+        "Value": 10000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-444-63528-0.00003-6"
+      }
+    ]
+  }
+}

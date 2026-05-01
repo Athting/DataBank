@@ -1,0 +1,18 @@
+{
+  "Material": "FeSb1.9",
+  "DOIs_Researched": [
+    "10.1016/j.jmat.2015.04.005"
+  ],
+  "Data_By_Temperature": {
+    "50.0": [
+      {
+        "Original_Name_In_Paper": "FeSb1.9",
+        "Property": "ThermCond",
+        "Value": 2.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2015.04.005"
+      }
+    ]
+  }
+}

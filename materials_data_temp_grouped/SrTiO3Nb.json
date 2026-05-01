@@ -1,0 +1,49 @@
+{
+  "Material": "SrTiO3Nb",
+  "DOIs_Researched": [
+    "10.1007/s10853-012-6847-7",
+    "10.1016/j.apmt.2020.100869",
+    "10.1016/j.nanoen.2017.04.003",
+    "10.1016/j.carbon.2018.11.023"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "10 % Nb doped SrTiO3",
+        "Property": "ZT",
+        "Value": 0.22,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apmt.2020.100869"
+      }
+    ],
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "10 mol % Nb doped SrTiO3 bulk materials",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2017.04.003"
+      },
+      {
+        "Original_Name_In_Paper": "polycrystalline SrTi0.8Nb0.2O3",
+        "Property": "Seebeck",
+        "Value": -0.00018,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-012-6847-7"
+      }
+    ],
+    "1160.0": [
+      {
+        "Original_Name_In_Paper": "SrTi0.90Nb0.10O3",
+        "Property": "Conductivity",
+        "Value": 36500.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.carbon.2018.11.023"
+      }
+    ]
+  }
+}

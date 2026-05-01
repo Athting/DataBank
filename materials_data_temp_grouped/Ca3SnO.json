@@ -1,0 +1,114 @@
+{
+  "Material": "Ca3SnO",
+  "DOIs_Researched": [
+    "10.1016/j.jpcs.2018.08.010",
+    "10.1016/j.mssp.2018.04.037",
+    "10.1016/j.mtcomm.2020.101741",
+    "10.1016/j.jallcom.2018.12.339",
+    "10.1016/j.ssc.2017.11.019"
+  ],
+  "Data_By_Temperature": {
+    "50.0": [
+      {
+        "Original_Name_In_Paper": "Ca3SnO",
+        "Property": "ZT",
+        "Value": 0.1371,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtcomm.2020.101741"
+      }
+    ],
+    "290.0": [
+      {
+        "Original_Name_In_Paper": "Ca3SnO",
+        "Property": "ZT",
+        "Value": 0.028040000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtcomm.2020.101741"
+      },
+      {
+        "Original_Name_In_Paper": "Ca3SnO",
+        "Property": "PF",
+        "Value": 0.00016,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtcomm.2020.101741"
+      }
+    ],
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "Ca3SnO",
+        "Property": "ZT",
+        "Value": 0.1371,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtcomm.2020.101741"
+      },
+      {
+        "Original_Name_In_Paper": "Ca3SnO",
+        "Property": "ZT",
+        "Value": 0.1371,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtcomm.2020.101741"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ca3SnO",
+        "Property": "Seebeck",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2018.08.010"
+      },
+      {
+        "Original_Name_In_Paper": "Ca3SnO",
+        "Property": "Seebeck",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2018.04.037"
+      },
+      {
+        "Original_Name_In_Paper": "Ca3SnO",
+        "Property": "Seebeck",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.12.339"
+      }
+    ],
+    "200.0": [
+      {
+        "Original_Name_In_Paper": "Ca3SnO",
+        "Property": "Seebeck",
+        "Value": 0.00012734,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2017.11.019"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ca3SnO",
+        "Property": "Seebeck",
+        "Value": 0.0001337198,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2017.11.019"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Ca3SnO",
+        "Property": "Seebeck",
+        "Value": 0.0001573124,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2017.11.019"
+      }
+    ]
+  }
+}

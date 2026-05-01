@@ -1,0 +1,18 @@
+{
+  "Material": "CaYMgBi",
+  "DOIs_Researched": [
+    "10.1016/j.mtphys.2017.07.002"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Ca0.5Yb0.5Mg2Bi2",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": "Ca-Yb alloying",
+        "Source_DOI": "10.1016/j.mtphys.2017.07.002"
+      }
+    ]
+  }
+}

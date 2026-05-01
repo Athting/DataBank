@@ -1,0 +1,92 @@
+{
+  "Material": "Bi2O2Te",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2015.02.026",
+    "10.1016/j.ensm.2019.03.021",
+    "10.1016/j.vacuum.2018.09.008",
+    "10.1039/c9ra02584g",
+    "10.1016/j.solidstatesciences.2020.106299"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Bi2O2Te",
+        "Property": "ThermCond",
+        "Value": 0.91,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2015.02.026"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2O2Te",
+        "Property": "ThermCond",
+        "Value": 0.91,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ensm.2019.03.021"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2O2Te",
+        "Property": "ThermCond",
+        "Value": 0.91,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2020.106299"
+      }
+    ],
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "Bi2O2Te",
+        "Property": "ZT",
+        "Value": 0.23,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ra02584g"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2O2Te",
+        "Property": "ZT",
+        "Value": 0.13,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.vacuum.2018.09.008"
+      },
+      {
+        "Original_Name_In_Paper": "undoped Bi2O2Te",
+        "Property": "ZT",
+        "Value": 0.13,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2015.02.026"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2O2Te",
+        "Property": "ZT",
+        "Value": 0.13,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2015.02.026"
+      }
+    ],
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "p-doped Bi2O2Te",
+        "Property": "ZT",
+        "Value": 1.27,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ensm.2019.03.021"
+      }
+    ],
+    "655.0": [
+      {
+        "Original_Name_In_Paper": "Bi2O2Te",
+        "Property": "PF",
+        "Value": 0.00026000000000000003,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2015.02.026"
+      }
+    ]
+  }
+}

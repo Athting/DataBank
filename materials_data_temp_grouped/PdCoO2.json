@@ -1,0 +1,18 @@
+{
+  "Material": "PdCoO2",
+  "DOIs_Researched": [
+    "10.1016/j.matdes.2015.11.092"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "PdCoO2",
+        "Property": "Conductivity",
+        "Value": 21321961.620469082,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matdes.2015.11.092"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Material": "Ti2SC",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2017.04.104"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ti2SC",
+        "Property": "ThermCond",
+        "Value": 60.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2017.04.104"
+      },
+      {
+        "Original_Name_In_Paper": "Ti2SC",
+        "Property": "Seebeck",
+        "Value": -1.1e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2017.04.104"
+      }
+    ]
+  }
+}

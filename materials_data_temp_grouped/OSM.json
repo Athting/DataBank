@@ -1,0 +1,26 @@
+{
+  "Material": "OSM",
+  "DOIs_Researched": [
+    "10.1039/c8ta08045c"
+  ],
+  "Data_By_Temperature": {
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "OSM",
+        "Property": "ZT",
+        "Value": 0.23,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta08045c"
+      },
+      {
+        "Original_Name_In_Paper": "OSM",
+        "Property": "PF",
+        "Value": 0.000236,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta08045c"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Ge / Si quantum dot superlattice",
+  "DOIs_Researched": [
+    "10.1038/npjquantmats.2016.28"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ge / Si quantum dot superlattice",
+        "Property": "ThermCond",
+        "Value": 30.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/npjquantmats.2016.28"
+      }
+    ]
+  }
+}

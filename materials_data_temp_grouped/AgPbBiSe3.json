@@ -1,0 +1,90 @@
+{
+  "Material": "AgPbBiSe3",
+  "DOIs_Researched": [
+    "10.1039/c9sc00485h"
+  ],
+  "Data_By_Temperature": {
+    "290.0": [
+      {
+        "Original_Name_In_Paper": "AgPbBiSe3",
+        "Property": "ThermCond",
+        "Value": 0.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9sc00485h"
+      },
+      {
+        "Original_Name_In_Paper": "n-type AgPbBiSe3",
+        "Property": "ThermCond",
+        "Value": 0.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9sc00485h"
+      },
+      {
+        "Original_Name_In_Paper": "halogen doped AgPbBiSe3",
+        "Property": "ThermCond",
+        "Value": 0.6000000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9sc00485h"
+      }
+    ],
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "AgPbBiSe3",
+        "Property": "ThermCond",
+        "Value": 0.23,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9sc00485h"
+      }
+    ],
+    "818.0": [
+      {
+        "Original_Name_In_Paper": "pristine AgPbBiSe3",
+        "Property": "ZT",
+        "Value": 0.43,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9sc00485h"
+      },
+      {
+        "Original_Name_In_Paper": "pristine AgPbBiSe3",
+        "Property": "ZT",
+        "Value": 0.43,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9sc00485h"
+      }
+    ],
+    "296.0": [
+      {
+        "Original_Name_In_Paper": "pristine AgPbBiSe3",
+        "Property": "Seebeck",
+        "Value": -0.00013099999999999999,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9sc00485h"
+      },
+      {
+        "Original_Name_In_Paper": "pristine AgPbBiSe3",
+        "Property": "PF",
+        "Value": 0.00010899999999999999,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9sc00485h"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "pristine AgPbBiSe3",
+        "Property": "Conductivity",
+        "Value": 6300.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9sc00485h"
+      }
+    ]
+  }
+}

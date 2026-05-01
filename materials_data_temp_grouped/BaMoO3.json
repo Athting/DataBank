@@ -1,0 +1,27 @@
+{
+  "Material": "BaMoO3",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2003.10.006",
+    "10.1016/j.jnucmat.2005.04.017"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "BaMoO3",
+        "Property": "ThermCond",
+        "Value": 30.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jnucmat.2005.04.017"
+      },
+      {
+        "Original_Name_In_Paper": "BaMoO3",
+        "Property": "PF",
+        "Value": 0.0008,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2003.10.006"
+      }
+    ]
+  }
+}

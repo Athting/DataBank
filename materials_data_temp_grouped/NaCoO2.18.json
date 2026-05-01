@@ -1,0 +1,26 @@
+{
+  "Material": "NaCoO2.18",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2005.03.004"
+  ],
+  "Data_By_Temperature": {
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "Na-substituted Co326",
+        "Property": "ThermCond",
+        "Value": 2.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2005.03.004"
+      },
+      {
+        "Original_Name_In_Paper": "Na-substituted Co326",
+        "Property": "ZT",
+        "Value": 0.04,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2005.03.004"
+      }
+    ]
+  }
+}

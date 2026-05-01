@@ -1,0 +1,18 @@
+{
+  "Material": "ScCoSb",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2005.04.012"
+  ],
+  "Data_By_Temperature": {
+    "380.0": [
+      {
+        "Original_Name_In_Paper": "ScCoSb",
+        "Property": "ZT",
+        "Value": 0.009000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2005.04.012"
+      }
+    ]
+  }
+}

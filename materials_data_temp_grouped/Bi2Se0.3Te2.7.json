@@ -1,0 +1,49 @@
+{
+  "Material": "Bi2Se0.3Te2.7",
+  "DOIs_Researched": [
+    "10.1016/B978-0-08-102687-8.00002-6",
+    "10.1016/j.jpowsour.2019.227055",
+    "10.1007/s10853-020-04949-0",
+    "10.1016/j.jpowsour.2020.229044"
+  ],
+  "Data_By_Temperature": {
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "n-type Bi2Se0.3Te2.7",
+        "Property": "ZT",
+        "Value": 0.97,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-08-102687-8.00002-6"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "n-type Bi2Se0.3Te2.7",
+        "Property": "ZT",
+        "Value": 0.75,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpowsour.2019.227055"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Se0\u00b73Te2.7 composite films",
+        "Property": "Conductivity",
+        "Value": 49300.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpowsour.2020.229044"
+      }
+    ],
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Se0.3Te2.7",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      }
+    ]
+  }
+}

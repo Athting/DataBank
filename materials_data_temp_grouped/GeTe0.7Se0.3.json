@@ -1,0 +1,27 @@
+{
+  "Material": "GeTe0.7Se0.3",
+  "DOIs_Researched": [
+    "10.1007/s11664-016-4770-4",
+    "10.1007/s10853-020-04949-0"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "GeTe0.7Se0.3",
+        "Property": "ZT",
+        "Value": 1.17,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      },
+      {
+        "Original_Name_In_Paper": "GeTe0.7Se0.3",
+        "Property": "ZT",
+        "Value": 1.17,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-016-4770-4"
+      }
+    ]
+  }
+}

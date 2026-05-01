@@ -1,0 +1,18 @@
+{
+  "Material": "Tl9.08Nd1.02Te6",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2012.09.023"
+  ],
+  "Data_By_Temperature": {
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "Tl9.08Nd1.02(6)Te6",
+        "Property": "Seebeck",
+        "Value": 4.9e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2012.09.023"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "Material": "metal oxides",
+  "DOIs_Researched": [
+    "10.1007/s11581-006-0013-7"
+  ],
+  "Data_By_Temperature": {
+    "473.0": [
+      {
+        "Original_Name_In_Paper": "metal oxides",
+        "Property": "Conductivity",
+        "Value": 32000000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11581-006-0013-7"
+      }
+    ],
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "metal oxides",
+        "Property": "Conductivity",
+        "Value": 17.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11581-006-0013-7"
+      }
+    ]
+  }
+}

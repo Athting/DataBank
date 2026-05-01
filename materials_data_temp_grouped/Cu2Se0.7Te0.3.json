@@ -1,0 +1,110 @@
+{
+  "Material": "Cu2Se0.7Te0.3",
+  "DOIs_Researched": [
+    "10.1039/c8ta01313f",
+    "10.1007/s10853-020-04949-0",
+    "10.1016/j.jallcom.2020.155188"
+  ],
+  "Data_By_Temperature": {
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "Cu2Se0\u00b77Te0.3",
+        "Property": "ThermCond",
+        "Value": 1.16,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.155188"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2Se0.7Te0.3",
+        "Property": "ThermCond",
+        "Value": 1.16,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.155188"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2Se0\u00b77Te0.3",
+        "Property": "ThermCond",
+        "Value": 1.16,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.155188"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2Se0\u00b77Te0.3",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.155188"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2Se0.7Te0.3",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.155188"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2Se0\u00b77Te0.3",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.155188"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2Se0\u00b77Te0.3",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.155188"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2Se0\u00b77Te0.3",
+        "Property": "Seebeck",
+        "Value": 0.000174,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.155188"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2Se0.7Te0.3",
+        "Property": "Seebeck",
+        "Value": 0.000174,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.155188"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2Se0\u00b77Te0.3",
+        "Property": "Seebeck",
+        "Value": 0.000174,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.155188"
+      }
+    ],
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "Cu2Se0.7Te0.3",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta01313f"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2Se0.7Te0.3",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "Material": "ZnAlInO",
+  "DOIs_Researched": [
+    "10.1007/s10854-017-6982-7",
+    "10.1016/j.mssp.2018.06.017"
+  ],
+  "Data_By_Temperature": {
+    "858.0": [
+      {
+        "Original_Name_In_Paper": "Zn0.96Al0.02In0.02O",
+        "Property": "Seebeck",
+        "Value": -0.00016199999999999998,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-017-6982-7"
+      },
+      {
+        "Original_Name_In_Paper": "doped Zn0.96Al0.02In0.02O",
+        "Property": "Seebeck",
+        "Value": -0.00016199999999999998,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-017-6982-7"
+      }
+    ],
+    "965.3": [
+      {
+        "Original_Name_In_Paper": "(Zn0.975Al0.02In0.005)O",
+        "Property": "PF",
+        "Value": 0.0004818,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2018.06.017"
+      }
+    ]
+  }
+}

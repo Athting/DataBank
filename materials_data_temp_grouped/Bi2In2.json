@@ -1,0 +1,36 @@
+{
+  "Material": "Bi2In2",
+  "DOIs_Researched": [
+    "10.1016/j.physb.2020.412087"
+  ],
+  "Data_By_Temperature": {
+    "350.0": [
+      {
+        "Original_Name_In_Paper": "(Bi0.98In0.02)2",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2020.412087"
+      },
+      {
+        "Original_Name_In_Paper": "(Bi0.98In0.02)2",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2020.412087"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "(Bi0.98In0.02)2",
+        "Property": "ZT",
+        "Value": 2.7,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2020.412087"
+      }
+    ]
+  }
+}

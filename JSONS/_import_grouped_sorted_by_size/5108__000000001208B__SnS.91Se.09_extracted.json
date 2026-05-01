@@ -1,0 +1,56 @@
+{
+  "doi": "10.1039/d0ta00240b",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "SnS0.91Se0.09 crystals",
+        "SnS0.91Se0.09 single crystals",
+        "SnS0.91Se0.09"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "SnS0.91Se0.09 crystals",
+          "zt_value": 1.6,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "SnS0.91Se0.09 single crystals",
+          "zt_value": 1.6,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "SnS0.91Se0.09",
+          "zt_value": 1.6,
+          "temperature": "873.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

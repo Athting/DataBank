@@ -1,0 +1,54 @@
+{
+  "Material": "pristine PEDOT : PSS film",
+  "DOIs_Researched": [
+    "10.1007/s10854-013-1391-z",
+    "10.1039/c8ra06094k",
+    "10.1016/j.orgel.2020.105682"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "pristine PEDOT : PSS film",
+        "Property": "ThermCond",
+        "Value": 0.59,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.orgel.2020.105682"
+      },
+      {
+        "Original_Name_In_Paper": "pristine PEDOT : PSS film",
+        "Property": "Seebeck",
+        "Value": 1.52e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-013-1391-z"
+      },
+      {
+        "Original_Name_In_Paper": "pristine PEDOT : PSS film",
+        "Property": "PF",
+        "Value": 5e-09,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-013-1391-z"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "pristine PEDOT : PSS film",
+        "Property": "Conductivity",
+        "Value": 20.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-013-1391-z"
+      },
+      {
+        "Original_Name_In_Paper": "pristine PEDOT : PSS film",
+        "Property": "Conductivity",
+        "Value": 80.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ra06094k"
+      }
+    ]
+  }
+}

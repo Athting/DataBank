@@ -1,0 +1,127 @@
+{
+  "Material": "CoSi",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2017.01.217",
+    "10.1134/S1063782619060101",
+    "10.1016/j.commatsci.2006.09.012",
+    "10.1016/j.intermet.2017.04.014",
+    "10.1007/s10853-017-1045-2",
+    "10.1007/s11664-012-2211-6",
+    "10.1016/j.ssc.2019.113807",
+    "10.1134/S1063782619060149"
+  ],
+  "Data_By_Temperature": {
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "CoSi",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1134/S1063782619060101"
+      },
+      {
+        "Original_Name_In_Paper": "CoSi",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2019.113807"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "CoSi",
+        "Property": "ZT",
+        "Value": 0.06,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.01.217"
+      },
+      {
+        "Original_Name_In_Paper": "CoSi",
+        "Property": "ZT",
+        "Value": 0.06,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.01.217"
+      },
+      {
+        "Original_Name_In_Paper": "CoSi",
+        "Property": "ZT",
+        "Value": 0.06,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.01.217"
+      },
+      {
+        "Original_Name_In_Paper": "polycrystalline CoSi",
+        "Property": "ZT",
+        "Value": 0.005,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.01.217"
+      },
+      {
+        "Original_Name_In_Paper": "CoSi",
+        "Property": "Seebeck",
+        "Value": -8e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1134/S1063782619060149"
+      },
+      {
+        "Original_Name_In_Paper": "CoSi",
+        "Property": "Seebeck",
+        "Value": 8.3e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2006.09.012"
+      },
+      {
+        "Original_Name_In_Paper": "pure CoSi",
+        "Property": "PF",
+        "Value": 0.0063,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-012-2211-6"
+      },
+      {
+        "Original_Name_In_Paper": "CoSi",
+        "Property": "PF",
+        "Value": 0.0045000000000000005,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.01.217"
+      },
+      {
+        "Original_Name_In_Paper": "Cobalt monosilicide",
+        "Property": "PF",
+        "Value": 0.006,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-017-1045-2"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "0.2 mol % Ni-doped CoSi",
+        "Property": "Seebeck",
+        "Value": 8.599999999999999e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-017-1045-2"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "CoSi",
+        "Property": "Seebeck",
+        "Value": -8e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2017.04.014"
+      }
+    ]
+  }
+}

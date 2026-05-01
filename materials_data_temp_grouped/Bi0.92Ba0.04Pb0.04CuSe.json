@@ -1,0 +1,18 @@
+{
+  "Material": "Bi0.92Ba0.04Pb0.04CuSe",
+  "DOIs_Researched": [
+    "10.1016/j.matlet.2018.01.074"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Bi0.92Ba0.04Pb0.04CuSeO",
+        "Property": "Conductivity",
+        "Value": 24400.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2018.01.074"
+      }
+    ]
+  }
+}

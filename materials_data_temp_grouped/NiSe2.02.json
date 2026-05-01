@@ -1,0 +1,34 @@
+{
+  "Material": "NiSe2.02",
+  "DOIs_Researched": [
+    "10.1007/s10854-016-4847-0"
+  ],
+  "Data_By_Temperature": {
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "NiSe2.02 among NiSe2+x",
+        "Property": "ZT",
+        "Value": 0.0049,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-016-4847-0"
+      },
+      {
+        "Original_Name_In_Paper": "NiSe2.02",
+        "Property": "ZT",
+        "Value": 0.0049,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-016-4847-0"
+      },
+      {
+        "Original_Name_In_Paper": "NiSe2.02",
+        "Property": "ZT",
+        "Value": 0.0049,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-016-4847-0"
+      }
+    ]
+  }
+}

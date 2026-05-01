@@ -1,0 +1,29 @@
+{
+  "Material": "Ca2.4Gd0.6Co4O9+\u03b4",
+  "DOIs_Researched": [
+    "10.1007/s11664-010-1412-0",
+    "10.1016/j.ceramint.2012.07.071"
+  ],
+  "Data_By_Temperature": {
+    "335.0": [
+      {
+        "Original_Name_In_Paper": "Ca2.4Gd0.6Co4O9+\u03b4",
+        "Property": "ZT",
+        "Value": 0.028,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-010-1412-0"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ca2.4Gd0.6Co4O9+\u03b4 material",
+        "Property": "Seebeck",
+        "Value": 0.000179,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": "Gd doping",
+        "Source_DOI": "10.1016/j.ceramint.2012.07.071"
+      }
+    ]
+  }
+}

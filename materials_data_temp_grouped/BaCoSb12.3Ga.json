@@ -1,0 +1,18 @@
+{
+  "Material": "BaCoSb12.3Ga",
+  "DOIs_Researched": [
+    "10.1039/c2jm31677c"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ba0.30Co4Sb12.30Ga0.30",
+        "Property": "ThermCond",
+        "Value": 2.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2jm31677c"
+      }
+    ]
+  }
+}

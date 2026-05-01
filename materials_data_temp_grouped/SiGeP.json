@@ -1,0 +1,29 @@
+{
+  "Material": "SiGeP",
+  "DOIs_Researched": [
+    "10.1016/j.mser.2018.09.001",
+    "10.1016/j.rser.2013.03.008"
+  ],
+  "Data_By_Temperature": {
+    "1173.0": [
+      {
+        "Original_Name_In_Paper": "n-type Si80Ge20P2 nano-structured bulk",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rser.2013.03.008"
+      }
+    ],
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "Si0.91356Ge0.07944P0.0070",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mser.2018.09.001"
+      }
+    ]
+  }
+}

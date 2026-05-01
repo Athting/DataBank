@@ -1,0 +1,50 @@
+{
+  "Material": "Cu3Sb0.92Hf0.08Se4",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2020.104658"
+  ],
+  "Data_By_Temperature": {
+    "623.0": [
+      {
+        "Original_Name_In_Paper": "Cu3Sb0.92Hf0.08Se4",
+        "Property": "ThermCond",
+        "Value": 0.44,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.104658"
+      },
+      {
+        "Original_Name_In_Paper": "Cu3Sb0.92Hf0.08Se4",
+        "Property": "ThermCond",
+        "Value": 0.518,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.104658"
+      },
+      {
+        "Original_Name_In_Paper": "Cu3Sb0.92Hf0.08Se4",
+        "Property": "ThermCond",
+        "Value": 0.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.104658"
+      },
+      {
+        "Original_Name_In_Paper": "Cu3Sb0.92Hf0.08Se4",
+        "Property": "ThermCond",
+        "Value": 0.44,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.104658"
+      },
+      {
+        "Original_Name_In_Paper": "Cu3Sb0.92Hf0.08Se4",
+        "Property": "Conductivity",
+        "Value": 3488.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.104658"
+      }
+    ]
+  }
+}

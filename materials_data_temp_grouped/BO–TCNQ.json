@@ -1,0 +1,18 @@
+{
+  "Material": "BO\u2013TCNQ",
+  "DOIs_Researched": [
+    "10.1016/j.synthmet.2016.12.017"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "BO\u2013TCNQ",
+        "Property": "Seebeck",
+        "Value": -0.000116,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.synthmet.2016.12.017"
+      }
+    ]
+  }
+}

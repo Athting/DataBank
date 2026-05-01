@@ -1,0 +1,18 @@
+{
+  "Material": "Ag-doped Cu2Se",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2018.08.291"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Ag-doped Cu2Se",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.08.291"
+      }
+    ]
+  }
+}

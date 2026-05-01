@@ -1,0 +1,112 @@
+{
+  "Material": "MnSi1.73",
+  "DOIs_Researched": [
+    "10.1007/s12666-019-01743-8",
+    "10.1007/s11664-012-2415-9",
+    "10.1039/c9tc01937e",
+    "10.1016/j.scriptamat.2016.03.026",
+    "10.1039/c7nr06195a",
+    "10.3938/jkps.64.1412",
+    "10.1007/s11664-014-2980-1"
+  ],
+  "Data_By_Temperature": {
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "MnSi1.73",
+        "Property": "ZT",
+        "Value": 0.36,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-014-2980-1"
+      },
+      {
+        "Original_Name_In_Paper": "MnSi1.73",
+        "Property": "ZT",
+        "Value": 0.28,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-012-2415-9"
+      },
+      {
+        "Original_Name_In_Paper": "MnSi1.73",
+        "Property": "ZT",
+        "Value": 0.41000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.3938/jkps.64.1412"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "doped MnSi1.73",
+        "Property": "ZT",
+        "Value": 0.8200000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7nr06195a"
+      },
+      {
+        "Original_Name_In_Paper": "doped MnSi1.73",
+        "Property": "ZT",
+        "Value": 0.8200000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7nr06195a"
+      },
+      {
+        "Original_Name_In_Paper": "doped MnSi1.73",
+        "Property": "ZT",
+        "Value": 0.8200000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7nr06195a"
+      }
+    ],
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "5 at. % Al-doped MnSi1.73",
+        "Property": "ZT",
+        "Value": 0.65,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2016.03.026"
+      }
+    ],
+    "1150.0": [
+      {
+        "Original_Name_In_Paper": "MnSi1.73",
+        "Property": "Seebeck",
+        "Value": 0.000156,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s12666-019-01743-8"
+      },
+      {
+        "Original_Name_In_Paper": "MnSi1.73",
+        "Property": "PF",
+        "Value": 0.000173,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s12666-019-01743-8"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "MnSi1.73",
+        "Property": "Conductivity",
+        "Value": 25300.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc01937e"
+      },
+      {
+        "Original_Name_In_Paper": "MnSi1.73 + 5 % Mg2Si",
+        "Property": "Conductivity",
+        "Value": 32400.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc01937e"
+      }
+    ]
+  }
+}

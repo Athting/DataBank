@@ -1,0 +1,64 @@
+{
+  "Material": "Sn0.98Bi0.02Te",
+  "DOIs_Researched": [
+    "10.1016/j.jmat.2017.12.001",
+    "10.1039/c4ee01463d",
+    "10.1038/s41524-019-0197-9"
+  ],
+  "Data_By_Temperature": {
+    "910.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.98Bi0.02Te\u20133 % HgTe",
+        "Property": "ZT",
+        "Value": 1.35,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41524-019-0197-9"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.98Bi0.02Te\u20133 % HgTe",
+        "Property": "ZT",
+        "Value": 1.35,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ee01463d"
+      }
+    ],
+    "870.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.98Bi0.02Te\u20133 % CdTe",
+        "Property": "ZT",
+        "Value": 1.05,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ee01463d"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Sn0.98Bi0.02Te",
+        "Property": "Seebeck",
+        "Value": 2.21e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ee01463d"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.98Bi0.02Te",
+        "Property": "Seebeck",
+        "Value": 2e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2017.12.001"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.98Bi0.02Te",
+        "Property": "Conductivity",
+        "Value": 581500.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ee01463d"
+      }
+    ]
+  }
+}

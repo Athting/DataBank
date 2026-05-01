@@ -1,0 +1,18 @@
+{
+  "Material": "Bi0.92Yb0.08CuSeO",
+  "DOIs_Researched": [
+    "10.1039/c8tc02700e"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.92Yb0.0.08CuSeO",
+        "Property": "Conductivity",
+        "Value": 3000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8tc02700e"
+      }
+    ]
+  }
+}

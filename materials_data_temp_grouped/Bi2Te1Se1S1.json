@@ -1,0 +1,26 @@
+{
+  "Material": "Bi2Te1Se1S1",
+  "DOIs_Researched": [
+    "10.1039/c2ee23549h"
+  ],
+  "Data_By_Temperature": {
+    "298.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Te1Se1S1",
+        "Property": "Conductivity",
+        "Value": 161290.3225806452,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2ee23549h"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Te1Se1S1",
+        "Property": "Seebeck",
+        "Value": -3.15e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2ee23549h"
+      }
+    ]
+  }
+}

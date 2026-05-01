@@ -1,0 +1,26 @@
+{
+  "Material": "Bi1.5Sb0.5Te1.7Se1.3",
+  "DOIs_Researched": [
+    "10.1039/c4nr05376a"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Bi1.5Sb0.5Te1.7Se1.3 nanowires",
+        "Property": "ZT",
+        "Value": 0.36,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4nr05376a"
+      },
+      {
+        "Original_Name_In_Paper": "Bi1.5Sb0.5Te1.7Se1.3 NWs",
+        "Property": "ZT",
+        "Value": 0.36,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4nr05376a"
+      }
+    ]
+  }
+}

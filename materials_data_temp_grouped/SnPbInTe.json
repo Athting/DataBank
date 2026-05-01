@@ -1,0 +1,26 @@
+{
+  "Material": "SnPbInTe",
+  "DOIs_Researched": [
+    "10.1039/d0nr00495b"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.96Pb0.01In0.03Te",
+        "Property": "ThermCond",
+        "Value": 0.18,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0nr00495b"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.96Pb0.01In0.03Te",
+        "Property": "PF",
+        "Value": 0.00204,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0nr00495b"
+      }
+    ]
+  }
+}

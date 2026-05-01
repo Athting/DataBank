@@ -1,0 +1,190 @@
+{
+  "Material": "FeNbSb",
+  "DOIs_Researched": [
+    "10.1039/c6cp07897d",
+    "10.1038/srep33120",
+    "10.1039/c7ra08403j",
+    "10.1016/j.jpowsour.2020.228713",
+    "10.1038/ncomms9144",
+    "10.1038/s41467-019-08542-1",
+    "10.1039/c8cp02071j",
+    "10.1038/s41598-017-14658-5",
+    "10.1016/j.mssp.2019.01.021",
+    "10.1016/j.mtphys.2019.01.004",
+    "10.1016/j.ensm.2017.07.014",
+    "10.1007/s12598-019-01235-0",
+    "10.1039/c5ra23091h"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "FeNbSb",
+        "Property": "ThermCond",
+        "Value": 22.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6cp07897d"
+      },
+      {
+        "Original_Name_In_Paper": "FeNbSb",
+        "Property": "ThermCond",
+        "Value": 18.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2019.01.021"
+      },
+      {
+        "Original_Name_In_Paper": "FeNbSb",
+        "Property": "ThermCond",
+        "Value": 18.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8cp02071j"
+      },
+      {
+        "Original_Name_In_Paper": "p-type FeNbSb compound",
+        "Property": "Seebeck",
+        "Value": 0.0002,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8cp02071j"
+      },
+      {
+        "Original_Name_In_Paper": "FeNbSb",
+        "Property": "PF",
+        "Value": 0.0117,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41467-019-08542-1"
+      },
+      {
+        "Original_Name_In_Paper": "p-type FeNbSb compound",
+        "Property": "PF",
+        "Value": 0.0045000000000000005,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8cp02071j"
+      }
+    ],
+    "1200.0": [
+      {
+        "Original_Name_In_Paper": "FeNbSb",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-017-14658-5"
+      },
+      {
+        "Original_Name_In_Paper": "p-type FeNbSb crystal",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ra08403j"
+      },
+      {
+        "Original_Name_In_Paper": "FeNbSb",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s12598-019-01235-0"
+      },
+      {
+        "Original_Name_In_Paper": "p-type FeNbSb",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra23091h"
+      },
+      {
+        "Original_Name_In_Paper": "p-type FeNbSb",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpowsour.2020.228713"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Hf-doped FeNbSb alloys",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ensm.2017.07.014"
+      },
+      {
+        "Original_Name_In_Paper": "p-type FeNbSb",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/ncomms9144"
+      },
+      {
+        "Original_Name_In_Paper": "FeNbSb",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/ncomms9144"
+      },
+      {
+        "Original_Name_In_Paper": "FeNb1-xHfxSb alloys",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/ncomms9144"
+      },
+      {
+        "Original_Name_In_Paper": "14 % Hf-doped FeNbSb",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/srep33120"
+      }
+    ],
+    "650.0": [
+      {
+        "Original_Name_In_Paper": "n-type (V0.6Nb0.4)Fe1-yCoySb alloys",
+        "Property": "ZT",
+        "Value": 0.33,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2019.01.004"
+      },
+      {
+        "Original_Name_In_Paper": "n-type (V0.6Nb0.4)Fe0.98Co0.02Sb",
+        "Property": "ZT",
+        "Value": 0.33,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2019.01.004"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "FeNbSb",
+        "Property": "PF",
+        "Value": 0.0055000000000000005,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6cp07897d"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "FeNbSb",
+        "Property": "PF",
+        "Value": 0.0106,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41467-019-08542-1"
+      }
+    ]
+  }
+}

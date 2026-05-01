@@ -1,0 +1,18 @@
+{
+  "Material": "PbTe / BaTe",
+  "DOIs_Researched": [
+    "10.1039/c3ta14129b"
+  ],
+  "Data_By_Temperature": {
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "PbTe / BaTe",
+        "Property": "Conductivity",
+        "Value": 15000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta14129b"
+      }
+    ]
+  }
+}

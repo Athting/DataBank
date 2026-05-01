@@ -1,0 +1,26 @@
+{
+  "Material": "CoNiSb3 + CeO2",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2016.09.094"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Co0.94Ni0.06Sb3 + 3 % CeO2",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.09.094"
+      },
+      {
+        "Original_Name_In_Paper": "Co0.94Ni0.06Sb3 + 3 % CeO2",
+        "Property": "ZT",
+        "Value": 0.66,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.09.094"
+      }
+    ]
+  }
+}

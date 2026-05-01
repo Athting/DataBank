@@ -1,0 +1,26 @@
+{
+  "Material": "Ca2.9Ba0.1Co4O9",
+  "DOIs_Researched": [
+    "10.1016/S1002-0721(12)60357-3"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "Ba-doped Ca2.9Ba0.1Co4O9",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S1002-0721(12)60357-3"
+      },
+      {
+        "Original_Name_In_Paper": "Ba-doped Ca2.9Ba0.1Co4O9",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S1002-0721(12)60357-3"
+      }
+    ]
+  }
+}

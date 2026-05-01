@@ -1,0 +1,74 @@
+{
+  "Material": "Cu13.5Sb4S12Se",
+  "DOIs_Researched": [
+    "10.1016/j.ensm.2018.01.006"
+  ],
+  "Data_By_Temperature": {
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "Cu13.5Sb4S12Se",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ensm.2018.01.006"
+      },
+      {
+        "Original_Name_In_Paper": "Cu13.5Sb4S12Se",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ensm.2018.01.006"
+      },
+      {
+        "Original_Name_In_Paper": "Cu13.5Sb4S12Se",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ensm.2018.01.006"
+      },
+      {
+        "Original_Name_In_Paper": "Cu13.5Sb4S12Se",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ensm.2018.01.006"
+      },
+      {
+        "Original_Name_In_Paper": "Cu13.5Sb4S12Se",
+        "Property": "PF",
+        "Value": 0.0012000000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ensm.2018.01.006"
+      },
+      {
+        "Original_Name_In_Paper": "Cu13.5Sb4S12Se",
+        "Property": "PF",
+        "Value": 0.0012000000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ensm.2018.01.006"
+      },
+      {
+        "Original_Name_In_Paper": "Cu13.5Sb4S12Se",
+        "Property": "PF",
+        "Value": 0.0012000000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ensm.2018.01.006"
+      },
+      {
+        "Original_Name_In_Paper": "Cu13.5Sb4S12Se",
+        "Property": "PF",
+        "Value": 0.0012000000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ensm.2018.01.006"
+      }
+    ]
+  }
+}

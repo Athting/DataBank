@@ -1,0 +1,91 @@
+{
+  "doi": "10.1039/c9ce01367a",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Ag8Sn1.005Se6"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "Ag8Sn1.005Se6",
+          "value": -0.000143,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "715.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Ag8Sn1.005Se6",
+          "value": 0.25,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "715.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Ag8Sn1.005Se6",
+          "value": 0.000758,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "715.0 K"
+        },
+        {
+          "material": "Ag8Sn1.005Se6",
+          "value": 0.000758,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "715.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Ag8Sn1.005Se6",
+          "zt_value": 1.22,
+          "temperature": "715.0 K"
+        },
+        {
+          "material": "Ag8Sn1.005Se6",
+          "zt_value": 1.22,
+          "temperature": "715.0 K"
+        },
+        {
+          "material": "Ag8Sn1.005Se6",
+          "zt_value": 1.22,
+          "temperature": "715.0 K"
+        },
+        {
+          "material": "Ag8Sn1.005Se6",
+          "zt_value": 0.87,
+          "temperature": "715.0 K"
+        },
+        {
+          "material": "Ag8Sn1.005Se6",
+          "zt_value": 1.22,
+          "temperature": "715.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

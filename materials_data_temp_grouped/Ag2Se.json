@@ -1,0 +1,596 @@
+{
+  "Material": "Ag2Se",
+  "DOIs_Researched": [
+    "10.1016/j.cej.2020.124763",
+    "10.1039/c9ee01609k",
+    "10.1007/s40948-019-00134-z",
+    "10.1039/c7ta08726h",
+    "10.1039/c2nj40641a",
+    "10.1039/c9na00605b",
+    "10.1016/j.jssc.2020.121453",
+    "10.1039/d0dt00872a",
+    "10.1016/S0167-577X(02)00538-4",
+    "10.1016/j.jssc.2019.02.037",
+    "10.1016/j.mtphys.2020.100223",
+    "10.1016/j.jpcs.2017.07.034",
+    "10.1039/c9tc00163h",
+    "10.1016/j.ceramint.2016.05.037",
+    "10.1038/s41467-019-08835-5",
+    "10.1016/j.isci.2019.100753",
+    "10.1007/s00339-020-03534-1",
+    "10.1039/d0ta02614j",
+    "10.1039/c8ta01531g",
+    "10.1039/c9qm00487d",
+    "10.1016/j.jallcom.2020.156540",
+    "10.1039/c8ra06484a",
+    "10.1016/j.nanoen.2015.04.024"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ag2Se",
+        "Property": "ThermCond",
+        "Value": 0.449,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2020.100223"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Se",
+        "Property": "ThermCond",
+        "Value": 0.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta02614j"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2SeChy",
+        "Property": "ThermCond",
+        "Value": 0.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta02614j"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Se",
+        "Property": "ThermCond",
+        "Value": 1.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9qm00487d"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Se-1.05",
+        "Property": "ThermCond",
+        "Value": 0.9,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cej.2020.124763"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Se",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cej.2020.124763"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Se",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9qm00487d"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Se",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta01531g"
+      },
+      {
+        "Original_Name_In_Paper": "bulk Ag2Se",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta02614j"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Se",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta02614j"
+      },
+      {
+        "Original_Name_In_Paper": "n-type Ag2Se",
+        "Property": "ZT",
+        "Value": 0.32,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2017.07.034"
+      },
+      {
+        "Original_Name_In_Paper": "bulk Ag2Se",
+        "Property": "ZT",
+        "Value": 0.25,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2019.02.037"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Se",
+        "Property": "PF",
+        "Value": 0.0009874,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9na00605b"
+      },
+      {
+        "Original_Name_In_Paper": "n-type Ag2Se film",
+        "Property": "PF",
+        "Value": 0.0009874,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41467-019-08835-5"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Se film",
+        "Property": "PF",
+        "Value": 0.0009874,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41467-019-08835-5"
+      },
+      {
+        "Original_Name_In_Paper": "n-type Ag2Se film",
+        "Property": "PF",
+        "Value": 0.0009874,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0dt00872a"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Se",
+        "Property": "PF",
+        "Value": 0.0022,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta02614j"
+      },
+      {
+        "Original_Name_In_Paper": "n-type Ag2Se film",
+        "Property": "PF",
+        "Value": 0.0009874,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ee01609k"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Se",
+        "Property": "Conductivity",
+        "Value": 200000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0167-577X(02)00538-4"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Se-x",
+        "Property": "Conductivity",
+        "Value": 229000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cej.2020.124763"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Se-1.1",
+        "Property": "Conductivity",
+        "Value": 93700.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cej.2020.124763"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ag2Se",
+        "Property": "ThermCond",
+        "Value": 1.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta02614j"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Se",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cej.2020.124763"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Se",
+        "Property": "ZT",
+        "Value": 0.32,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9qm00487d"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Se",
+        "Property": "ZT",
+        "Value": 0.37,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9qm00487d"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Se",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9qm00487d"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Se",
+        "Property": "ZT",
+        "Value": 0.46,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9na00605b"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Se",
+        "Property": "ZT",
+        "Value": 0.32,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9na00605b"
+      },
+      {
+        "Original_Name_In_Paper": "polycrystalline Ag2Se thin films",
+        "Property": "ZT",
+        "Value": 0.35000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9na00605b"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Se",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2020.121453"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Se",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2020.121453"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2.0006Se",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta02614j"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Se",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta02614j"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Se bulk material",
+        "Property": "ZT",
+        "Value": 0.96,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2016.05.037"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Se films",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s40948-019-00134-z"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Se pellet",
+        "Property": "Seebeck",
+        "Value": -0.0001147,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s00339-020-03534-1"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Se nanoparticles",
+        "Property": "Seebeck",
+        "Value": 0.00015219999999999999,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2nj40641a"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Se",
+        "Property": "Seebeck",
+        "Value": 0.00011,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9qm00487d"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Se",
+        "Property": "PF",
+        "Value": 0.0022,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9qm00487d"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Se",
+        "Property": "PF",
+        "Value": 0.000825,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9na00605b"
+      },
+      {
+        "Original_Name_In_Paper": "polycrystalline Ag2Se thin films",
+        "Property": "PF",
+        "Value": 0.0006169999999999999,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9na00605b"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Se films on glass substrates",
+        "Property": "PF",
+        "Value": 0.0024400000000000003,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41467-019-08835-5"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Se thin film",
+        "Property": "PF",
+        "Value": 0.0024400000000000003,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.isci.2019.100753"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Se",
+        "Property": "PF",
+        "Value": 0.0035,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta02614j"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Se bulk",
+        "Property": "PF",
+        "Value": 0.0035,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ee01609k"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Se",
+        "Property": "Conductivity",
+        "Value": 431900.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2019.02.037"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Se",
+        "Property": "Conductivity",
+        "Value": 298100.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2019.02.037"
+      },
+      {
+        "Original_Name_In_Paper": "\u03b2-Ag2Se",
+        "Property": "Conductivity",
+        "Value": 178800.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2017.07.034"
+      },
+      {
+        "Original_Name_In_Paper": "Pure Ag2Se nanoparticle",
+        "Property": "Conductivity",
+        "Value": 76000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc00163h"
+      }
+    ],
+    "380.0": [
+      {
+        "Original_Name_In_Paper": "Ag2Se",
+        "Property": "ZT",
+        "Value": 0.84,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cej.2020.124763"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Se",
+        "Property": "ZT",
+        "Value": 0.84,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cej.2020.124763"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Se",
+        "Property": "ZT",
+        "Value": 0.84,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cej.2020.124763"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Se-1.05",
+        "Property": "PF",
+        "Value": 0.0024700000000000004,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cej.2020.124763"
+      }
+    ],
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "Ag2Se",
+        "Property": "ZT",
+        "Value": 0.96,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cej.2020.124763"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Se",
+        "Property": "PF",
+        "Value": 0.00184,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2nj40641a"
+      }
+    ],
+    "390.0": [
+      {
+        "Original_Name_In_Paper": "Ag2Se",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ta08726h"
+      }
+    ],
+    "588.0": [
+      {
+        "Original_Name_In_Paper": "Ag2Se",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.156540"
+      }
+    ],
+    "317.0": [
+      {
+        "Original_Name_In_Paper": "Ag2Se",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9qm00487d"
+      },
+      {
+        "Original_Name_In_Paper": "Ag2Se",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9qm00487d"
+      }
+    ],
+    "407.0": [
+      {
+        "Original_Name_In_Paper": "Ag2Se nanocrystals",
+        "Property": "ZT",
+        "Value": 0.23,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9qm00487d"
+      }
+    ],
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "Ag2Se",
+        "Property": "ZT",
+        "Value": 0.45,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2015.04.024"
+      }
+    ],
+    "404.0": [
+      {
+        "Original_Name_In_Paper": "Ag2Se",
+        "Property": "Conductivity",
+        "Value": 111111.1111111111,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2nj40641a"
+      }
+    ],
+    "375.0": [
+      {
+        "Original_Name_In_Paper": "Ag2Se",
+        "Property": "Conductivity",
+        "Value": 250000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta02614j"
+      }
+    ],
+    "376.0": [
+      {
+        "Original_Name_In_Paper": "Ag2Se thin films",
+        "Property": "PF",
+        "Value": 0.004654999999999999,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9na00605b"
+      }
+    ],
+    "1273.0": [
+      {
+        "Original_Name_In_Paper": "\u03b2-Ag2Se bulks",
+        "Property": "PF",
+        "Value": 0.0035,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41467-019-08835-5"
+      }
+    ],
+    "298.0": [
+      {
+        "Original_Name_In_Paper": "orthorhombic Ag2Se coating",
+        "Property": "Conductivity",
+        "Value": 200000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ra06484a"
+      }
+    ],
+    "403.0": [
+      {
+        "Original_Name_In_Paper": "orthorhombic Ag2Se",
+        "Property": "Conductivity",
+        "Value": 200000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ra06484a"
+      }
+    ]
+  }
+}

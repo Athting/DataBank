@@ -1,0 +1,38 @@
+{
+  "Material": "BaSi2",
+  "DOIs_Researched": [
+    "10.1016/j.jpcs.2018.05.033",
+    "10.1557/PROC-1044-U06-12",
+    "10.1016/B978-0-444-59550-8.00005-3"
+  ],
+  "Data_By_Temperature": {
+    "337.0": [
+      {
+        "Original_Name_In_Paper": "BaSi2",
+        "Property": "ThermCond",
+        "Value": 0.67,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2018.05.033"
+      }
+    ],
+    "954.0": [
+      {
+        "Original_Name_In_Paper": "BaSi2",
+        "Property": "ZT",
+        "Value": 0.01,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1557/PROC-1044-U06-12"
+      },
+      {
+        "Original_Name_In_Paper": "BaSi2",
+        "Property": "ZT",
+        "Value": 0.01,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-444-59550-8.00005-3"
+      }
+    ]
+  }
+}

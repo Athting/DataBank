@@ -1,0 +1,18 @@
+{
+  "Material": "Tl9SmTe6",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2015.01.025"
+  ],
+  "Data_By_Temperature": {
+    "315.0": [
+      {
+        "Original_Name_In_Paper": "Tl9SmTe6",
+        "Property": "Conductivity",
+        "Value": 94200.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.01.025"
+      }
+    ]
+  }
+}

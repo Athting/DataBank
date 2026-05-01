@@ -1,0 +1,37 @@
+{
+  "Material": "CoSb3, MoS2",
+  "DOIs_Researched": [
+    "10.1016/j.apsusc.2017.11.262",
+    "10.1016/j.ceramint.2018.03.090"
+  ],
+  "Data_By_Temperature": {
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "CoSb3 / MoS2 composite",
+        "Property": "ZT",
+        "Value": 0.53,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2017.11.262"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb3 / MoS2 nanocomposite",
+        "Property": "ZT",
+        "Value": 0.53,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2017.11.262"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "CoSb3 / MoS2",
+        "Property": "Conductivity",
+        "Value": 56000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.03.090"
+      }
+    ]
+  }
+}

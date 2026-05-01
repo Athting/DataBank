@@ -1,0 +1,34 @@
+{
+  "Material": "HfTiNiSnSb",
+  "DOIs_Researched": [
+    "10.1007/s12598-019-01290-7"
+  ],
+  "Data_By_Temperature": {
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "Hf0.1Ti0.9NiSnSn0.97Sb0.03",
+        "Property": "ZT",
+        "Value": 0.46,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s12598-019-01290-7"
+      },
+      {
+        "Original_Name_In_Paper": "Hf0.1Ti0.9NiSn0.97Sb0.03",
+        "Property": "ZT",
+        "Value": 0.46,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s12598-019-01290-7"
+      },
+      {
+        "Original_Name_In_Paper": "Hf0.1Ti0.9NiSnSn0.97Sb0.03",
+        "Property": "ZT",
+        "Value": 0.46,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s12598-019-01290-7"
+      }
+    ]
+  }
+}

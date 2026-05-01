@@ -1,0 +1,18 @@
+{
+  "Material": "Bi0.9Sb0.1Te",
+  "DOIs_Researched": [
+    "10.1016/j.tsf.2020.138094"
+  ],
+  "Data_By_Temperature": {
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.9Sb0.1Te thin film",
+        "Property": "Conductivity",
+        "Value": 35087.7192982456,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2020.138094"
+      }
+    ]
+  }
+}

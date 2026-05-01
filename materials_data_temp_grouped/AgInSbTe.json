@@ -1,0 +1,53 @@
+{
+  "Material": "AgInSbTe",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2013.07.027",
+    "10.1039/c4ta00072b"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "AgIn0.5Sb0.5Te2",
+        "Property": "ZT",
+        "Value": 0.15,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta00072b"
+      },
+      {
+        "Original_Name_In_Paper": "AgIn0.5Sb0.5Te2",
+        "Property": "ZT",
+        "Value": 0.15,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2013.07.027"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "AgIn0.5Sb0.5Te2",
+        "Property": "ZT",
+        "Value": 0.15,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2013.07.027"
+      },
+      {
+        "Original_Name_In_Paper": "AgIn0.5Sb0.5Te2",
+        "Property": "ZT",
+        "Value": 0.15,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2013.07.027"
+      },
+      {
+        "Original_Name_In_Paper": "AgIn0.5Sb0.5Te2",
+        "Property": "Seebeck",
+        "Value": 0.00016,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2013.07.027"
+      }
+    ]
+  }
+}

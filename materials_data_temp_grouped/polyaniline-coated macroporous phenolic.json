@@ -1,0 +1,18 @@
+{
+  "Material": "polyaniline-coated macroporous phenolic",
+  "DOIs_Researched": [
+    "10.1016/j.electacta.2015.04.063"
+  ],
+  "Data_By_Temperature": {
+    "473.0": [
+      {
+        "Original_Name_In_Paper": "polyaniline-coated macroporous phenolic",
+        "Property": "Seebeck",
+        "Value": 0.00034199999999999996,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.electacta.2015.04.063"
+      }
+    ]
+  }
+}

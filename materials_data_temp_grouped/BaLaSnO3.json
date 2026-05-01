@@ -1,0 +1,18 @@
+{
+  "Material": "BaLaSnO3",
+  "DOIs_Researched": [
+    "10.1016/j.ssc.2013.08.018"
+  ],
+  "Data_By_Temperature": {
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "Ba0.99La0.01SnO3",
+        "Property": "PF",
+        "Value": 0.00028000000000000003,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2013.08.018"
+      }
+    ]
+  }
+}

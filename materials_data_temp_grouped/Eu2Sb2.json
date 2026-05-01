@@ -1,0 +1,74 @@
+{
+  "Material": "Eu2Sb2",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2020.104771",
+    "10.1016/j.jallcom.2020.155981",
+    "10.1039/c9ta14170g"
+  ],
+  "Data_By_Temperature": {
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "Eu2ZnSb2",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.104771"
+      },
+      {
+        "Original_Name_In_Paper": "Eu2ZnSb2",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta14170g"
+      },
+      {
+        "Original_Name_In_Paper": "Eu2ZnSb2",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta14170g"
+      },
+      {
+        "Original_Name_In_Paper": "Eu2ZnSb2",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta14170g"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Eu2ZnSb2",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta14170g"
+      }
+    ],
+    "720.0": [
+      {
+        "Original_Name_In_Paper": "Eu2ZnSb2",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta14170g"
+      }
+    ],
+    "623.0": [
+      {
+        "Original_Name_In_Paper": "Eu2ZnSb2",
+        "Property": "ZT",
+        "Value": 0.37,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.155981"
+      }
+    ]
+  }
+}

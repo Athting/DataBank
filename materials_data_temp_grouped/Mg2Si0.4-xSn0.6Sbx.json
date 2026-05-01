@@ -1,0 +1,39 @@
+{
+  "Material": "Mg2Si0.4-xSn0.6Sbx",
+  "DOIs_Researched": [
+    "10.1016/j.rser.2014.05.060",
+    "10.1039/c8ra09936g"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Si0.4\u2212xSn0.6Sbx alloys",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rser.2014.05.060"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Si0.4\u2212xSn0.6Sbx",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rser.2014.05.060"
+      }
+    ],
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Si0.4\u2212xSn0.6Sbx",
+        "Property": "ZT",
+        "Value": 1.42,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ra09936g"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "Material": "LuBiTe3",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2019.02.187",
+    "10.1016/j.jallcom.2014.09.024"
+  ],
+  "Data_By_Temperature": {
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "Lu0.1Bi1.9Te3",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.09.024"
+      },
+      {
+        "Original_Name_In_Paper": "Lu0.1Bi1.9Te3",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.09.024"
+      },
+      {
+        "Original_Name_In_Paper": "Lu0.1Bi1.9Te3",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.09.024"
+      },
+      {
+        "Original_Name_In_Paper": "Lu0.1Bi1.9Te3",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.02.187"
+      }
+    ]
+  }
+}

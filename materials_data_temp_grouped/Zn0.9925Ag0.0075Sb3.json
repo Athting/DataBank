@@ -1,0 +1,35 @@
+{
+  "Material": "Zn0.9925Ag0.0075Sb3",
+  "DOIs_Researched": [
+    "10.1039/c7ta10859a",
+    "10.1016/j.jallcom.2018.09.363"
+  ],
+  "Data_By_Temperature": {
+    "575.0": [
+      {
+        "Original_Name_In_Paper": "(Zn0.9925Ag0.0075)4Sb3",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.09.363"
+      },
+      {
+        "Original_Name_In_Paper": "(Zn0.9925Ag0.0075)4Sb3",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ta10859a"
+      },
+      {
+        "Original_Name_In_Paper": "(Zn0.9925Ag0.0075)4Sb3",
+        "Property": "ZT",
+        "Value": 1.19,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ta10859a"
+      }
+    ]
+  }
+}

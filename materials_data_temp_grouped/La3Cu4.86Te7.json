@@ -1,0 +1,26 @@
+{
+  "Material": "La3Cu4.86Te7",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2011.01.002"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "La3Cu4.86Te7",
+        "Property": "ThermCond",
+        "Value": 0.12,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2011.01.002"
+      },
+      {
+        "Original_Name_In_Paper": "La3Cu4.86Te7",
+        "Property": "Conductivity",
+        "Value": 15000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2011.01.002"
+      }
+    ]
+  }
+}

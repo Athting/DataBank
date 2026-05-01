@@ -1,0 +1,18 @@
+{
+  "Material": "Ge1-xSixByTe",
+  "DOIs_Researched": [
+    "10.1007/s12540-018-0194-4"
+  ],
+  "Data_By_Temperature": {
+    "570.0": [
+      {
+        "Original_Name_In_Paper": "Ge1-xSixSbyTe alloys",
+        "Property": "Seebeck",
+        "Value": 0.000192,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s12540-018-0194-4"
+      }
+    ]
+  }
+}

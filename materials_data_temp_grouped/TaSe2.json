@@ -1,0 +1,18 @@
+{
+  "Material": "TaSe2",
+  "DOIs_Researched": [
+    "10.1016/B978-0-08-102687-8.00008-7"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "tantalum diselenide",
+        "Property": "ThermCond",
+        "Value": 16.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-08-102687-8.00008-7"
+      }
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "doi": "10.1016/B0-08-043152-6-01655-7",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "CePd3"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "CePd3",
+          "value": 0.0001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "150.0 K"
+        },
+        {
+          "material": "CePd3",
+          "value": 0.00008,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "100.0 K"
+        },
+        {
+          "material": "CePd3",
+          "value": 0.0001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "135.0 K"
+        },
+        {
+          "material": "CePd3",
+          "value": 0.00011499999999999999,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "120.0 K"
+        },
+        {
+          "material": "CePd3",
+          "value": 0.00011499999999999999,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "125.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "CePd3",
+          "zt_value": 0.2,
+          "temperature": "295 K"
+        },
+        {
+          "material": "CePd3",
+          "zt_value": 0.2,
+          "temperature": "295 K"
+        },
+        {
+          "material": "CePd3",
+          "zt_value": 0.2,
+          "temperature": "200.0 K"
+        },
+        {
+          "material": "CePd3",
+          "zt_value": 0.23,
+          "temperature": "200.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

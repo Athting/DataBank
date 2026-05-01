@@ -1,0 +1,26 @@
+{
+  "Material": "Mg3Sb1.8Pb0.2",
+  "DOIs_Researched": [
+    "10.1039/c4ra04889j"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Mg3Sb1.8Pb0.2",
+        "Property": "ZT",
+        "Value": 0.84,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra04889j"
+      },
+      {
+        "Original_Name_In_Paper": "Mg3Sb1.8Pb0.2 alloy",
+        "Property": "ZT",
+        "Value": 0.84,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra04889j"
+      }
+    ]
+  }
+}

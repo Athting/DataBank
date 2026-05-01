@@ -1,0 +1,28 @@
+{
+  "Material": "Sr3(Ti0.95Nb0.05)2O7",
+  "DOIs_Researched": [
+    "10.1007/s10832-008-9455-9"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "Sr3(Ti0.95Nb0.05)2O7",
+        "Property": "ZT",
+        "Value": 0.14,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10832-008-9455-9"
+      }
+    ],
+    "950.0": [
+      {
+        "Original_Name_In_Paper": "Sr3(Ti0.95Nb0.05)2O7",
+        "Property": "PF",
+        "Value": 0.00030000000000000003,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10832-008-9455-9"
+      }
+    ]
+  }
+}

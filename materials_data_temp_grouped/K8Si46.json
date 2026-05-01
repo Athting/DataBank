@@ -1,0 +1,18 @@
+{
+  "Material": "K8Si46",
+  "DOIs_Researched": [
+    "10.1039/c9tc04023d"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "K8Si46",
+        "Property": "ThermCond",
+        "Value": 5.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc04023d"
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "Material": "ST50H",
+  "DOIs_Researched": [
+    "10.1016/j.matlet.2018.04.041"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "ST50H",
+        "Property": "ThermCond",
+        "Value": 2.34,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2018.04.041"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "ST50H",
+        "Property": "ThermCond",
+        "Value": 2.34,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2018.04.041"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "ST50H",
+        "Property": "ZT",
+        "Value": 1.07,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2018.04.041"
+      },
+      {
+        "Original_Name_In_Paper": "ST50H",
+        "Property": "ZT",
+        "Value": 1.07,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2018.04.041"
+      }
+    ]
+  }
+}

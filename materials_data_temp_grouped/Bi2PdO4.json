@@ -1,0 +1,18 @@
+{
+  "Material": "Bi2PdO4",
+  "DOIs_Researched": [
+    "10.1039/d0tc00818d"
+  ],
+  "Data_By_Temperature": {
+    "340.0": [
+      {
+        "Original_Name_In_Paper": "Bi2PdO4",
+        "Property": "Seebeck",
+        "Value": 0.0014579999999999999,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0tc00818d"
+      }
+    ]
+  }
+}

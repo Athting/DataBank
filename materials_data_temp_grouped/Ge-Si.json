@@ -1,0 +1,18 @@
+{
+  "Material": "Ge-Si",
+  "DOIs_Researched": [
+    "10.1039/c5ra23634g"
+  ],
+  "Data_By_Temperature": {
+    "108.0": [
+      {
+        "Original_Name_In_Paper": "Ge\u2013Si",
+        "Property": "ThermCond",
+        "Value": 1.1,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra23634g"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "dimethyl sulfoxide",
+  "DOIs_Researched": [
+    "10.1007/s10853-017-1958-9"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "dimethyl sulfoxide",
+        "Property": "ZT",
+        "Value": 0.42,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-017-1958-9"
+      }
+    ]
+  }
+}

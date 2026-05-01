@@ -1,0 +1,18 @@
+{
+  "Material": "Bi0.38Sb1.62Te3",
+  "DOIs_Researched": [
+    "10.1039/c9ta01962f"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Bi0.38Sb1.62Te3",
+        "Property": "Conductivity",
+        "Value": 118000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta01962f"
+      }
+    ]
+  }
+}

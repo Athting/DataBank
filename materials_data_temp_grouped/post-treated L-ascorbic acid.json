@@ -1,0 +1,18 @@
+{
+  "Material": "post-treated L-ascorbic acid",
+  "DOIs_Researched": [
+    "10.1016/j.jmat.2020.01.001"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "post-treated L-ascorbic acid",
+        "Property": "Conductivity",
+        "Value": 145700.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2020.01.001"
+      }
+    ]
+  }
+}

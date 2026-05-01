@@ -1,0 +1,18 @@
+{
+  "Material": "ZrHfFeCoSnSb",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2014.10.007"
+  ],
+  "Data_By_Temperature": {
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "Zr0.5Hf0.5Fe0.05Co0.95Sn0.2Sb0.8 / Fe3Sn2",
+        "Property": "Seebeck",
+        "Value": 0.000204,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.10.007"
+      }
+    ]
+  }
+}

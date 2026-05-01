@@ -1,0 +1,18 @@
+{
+  "Material": "Sn0.96Pb0.01Se",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2018.09.025"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.96Pb0.01Zn0.03Se",
+        "Property": "ThermCond",
+        "Value": 0.19,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2018.09.025"
+      }
+    ]
+  }
+}

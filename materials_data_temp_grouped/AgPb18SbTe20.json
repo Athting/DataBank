@@ -1,0 +1,221 @@
+{
+  "Material": "AgPb18SbTe20",
+  "DOIs_Researched": [
+    "10.1039/c5ra03942h",
+    "10.1016/B978-0-12-409547-2.11642-7",
+    "10.1016/j.mseb.2007.12.004",
+    "10.1016/j.jallcom.2008.04.071",
+    "10.1016/j.apsusc.2007.06.040",
+    "10.1016/j.jallcom.2013.01.038",
+    "10.1016/j.jssc.2009.01.017",
+    "10.1016/j.jallcom.2004.05.065",
+    "10.1016/j.jallcom.2004.06.054",
+    "10.1016/j.jallcom.2004.06.051",
+    "10.1039/c8tc06491a",
+    "10.1016/j.jallcom.2007.11.086",
+    "10.1039/c4ra05322b",
+    "10.1016/B978-0-08-102687-8.00002-6",
+    "10.1016/j.jssc.2006.05.029",
+    "10.1016/j.enconman.2018.08.095"
+  ],
+  "Data_By_Temperature": {
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "AgPb18SbTe20",
+        "Property": "ThermCond",
+        "Value": 0.92,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8tc06491a"
+      }
+    ],
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "AgPb18SbTe20",
+        "Property": "ThermCond",
+        "Value": 0.92,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8tc06491a"
+      },
+      {
+        "Original_Name_In_Paper": "AgPb18SbTe20 compound",
+        "Property": "ThermCond",
+        "Value": 0.8300000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8tc06491a"
+      }
+    ],
+    "370.0": [
+      {
+        "Original_Name_In_Paper": "AgPb18SbTe20",
+        "Property": "ThermCond",
+        "Value": 1.04,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2004.06.051"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "AgPb18SbTe20",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.01.038"
+      },
+      {
+        "Original_Name_In_Paper": "AgPb18SbTe20 based material",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2008.04.071"
+      },
+      {
+        "Original_Name_In_Paper": "AgPb18SbTe20",
+        "Property": "ZT",
+        "Value": 2.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-12-409547-2.11642-7"
+      },
+      {
+        "Original_Name_In_Paper": "AgPb18SbTe20-based material",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2007.11.086"
+      },
+      {
+        "Original_Name_In_Paper": "AgPb18SbTe20",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2004.06.054"
+      },
+      {
+        "Original_Name_In_Paper": "n-type AgPb18SbTe20",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra05322b"
+      },
+      {
+        "Original_Name_In_Paper": "AgPb18SbTe20 alloys",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-08-102687-8.00002-6"
+      },
+      {
+        "Original_Name_In_Paper": "AgPb18SbTe20",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra03942h"
+      },
+      {
+        "Original_Name_In_Paper": "AgPb18SbTe20-based material",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mseb.2007.12.004"
+      }
+    ],
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "AgPb18SbTe20",
+        "Property": "ZT",
+        "Value": 0.9400000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2009.01.017"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "AgPb18SbTe20",
+        "Property": "ZT",
+        "Value": 1.078,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.enconman.2018.08.095"
+      }
+    ],
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "Ag0.7Pb18SbTe20",
+        "Property": "ZT",
+        "Value": 0.33,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2004.06.051"
+      },
+      {
+        "Original_Name_In_Paper": "Ag0.7Pb18SbTe20",
+        "Property": "PF",
+        "Value": 0.00042199999999999996,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2004.06.051"
+      },
+      {
+        "Original_Name_In_Paper": "Ag0.7Pb18SbTe20",
+        "Property": "PF",
+        "Value": 0.00042199999999999996,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2004.05.065"
+      }
+    ],
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "bulk AgPb18SbTe20",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2007.06.040"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "AgPb18SbTe20\u03c3",
+        "Property": "Seebeck",
+        "Value": -0.000135,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2006.05.029"
+      }
+    ],
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "Ag0.9Pb18SbTe20",
+        "Property": "Seebeck",
+        "Value": 0.000404,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2004.05.065"
+      }
+    ],
+    "637.0": [
+      {
+        "Original_Name_In_Paper": "Ag0.7Pb18SbTe20",
+        "Property": "PF",
+        "Value": 0.00042199999999999996,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2004.05.065"
+      }
+    ]
+  }
+}

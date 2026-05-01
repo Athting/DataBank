@@ -1,0 +1,57 @@
+{
+  "Material": "SnSe0.95",
+  "DOIs_Researched": [
+    "10.1039/c7ta09941j",
+    "10.1039/c6ra28332b",
+    "10.1039/c9ee03897c",
+    "10.1039/c6ee01755j"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "SnSe0.95",
+        "Property": "ThermCond",
+        "Value": 1.88,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra28332b"
+      },
+      {
+        "Original_Name_In_Paper": "SnSe0.95",
+        "Property": "ThermCond",
+        "Value": 0.21,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ee01755j"
+      }
+    ],
+    "793.0": [
+      {
+        "Original_Name_In_Paper": "pristine SnSe0.95",
+        "Property": "ZT",
+        "Value": 0.14,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra28332b"
+      },
+      {
+        "Original_Name_In_Paper": "n-type SnSe0.95\u2013BiCl3",
+        "Property": "PF",
+        "Value": 0.0005,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ta09941j"
+      }
+    ],
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "SnSe0.95 + 1 % PbBr2",
+        "Property": "ZT",
+        "Value": 1.07,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ee03897c"
+      }
+    ]
+  }
+}

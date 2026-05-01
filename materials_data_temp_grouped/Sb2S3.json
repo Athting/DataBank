@@ -1,0 +1,48 @@
+{
+  "Material": "Sb2S3",
+  "DOIs_Researched": [
+    "10.1016/j.physb.2011.04.032",
+    "10.1007/s00339-019-2475-2",
+    "10.1007/s11661-015-3282-9"
+  ],
+  "Data_By_Temperature": {
+    "593.0": [
+      {
+        "Original_Name_In_Paper": "Sb2S3",
+        "Property": "Conductivity",
+        "Value": 3.3411293017,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s00339-019-2475-2"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "antimony sulfide thin films",
+        "Property": "Conductivity",
+        "Value": 3.4818941504,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s00339-019-2475-2"
+      },
+      {
+        "Original_Name_In_Paper": "pure Sb2S3",
+        "Property": "Conductivity",
+        "Value": 10.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2011.04.032"
+      }
+    ],
+    "220.0": [
+      {
+        "Original_Name_In_Paper": "antimony trisulfide",
+        "Property": "Seebeck",
+        "Value": 7.5e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11661-015-3282-9"
+      }
+    ]
+  }
+}

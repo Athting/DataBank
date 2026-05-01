@@ -1,0 +1,18 @@
+{
+  "Material": "CeCoSi",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2008.09.183"
+  ],
+  "Data_By_Temperature": {
+    "83.0": [
+      {
+        "Original_Name_In_Paper": "CeCoSi",
+        "Property": "Seebeck",
+        "Value": 1e-06,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2008.09.183"
+      }
+    ]
+  }
+}

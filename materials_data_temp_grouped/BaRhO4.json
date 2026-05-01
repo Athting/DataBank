@@ -1,0 +1,18 @@
+{
+  "Material": "BaRhO4",
+  "DOIs_Researched": [
+    "10.1016/j.pmatsci.2013.06.003"
+  ],
+  "Data_By_Temperature": {
+    "200.0": [
+      {
+        "Original_Name_In_Paper": "Ba1.2Rh8O16",
+        "Property": "ZT",
+        "Value": 0.02,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2013.06.003"
+      }
+    ]
+  }
+}

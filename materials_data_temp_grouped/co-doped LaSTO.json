@@ -1,0 +1,18 @@
+{
+  "Material": "co-doped LaSTO",
+  "DOIs_Researched": [
+    "10.1016/j.rser.2018.10.006"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "co-doped LaSTO",
+        "Property": "ZT",
+        "Value": 0.31,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rser.2018.10.006"
+      }
+    ]
+  }
+}

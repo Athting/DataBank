@@ -1,0 +1,26 @@
+{
+  "Material": "CaMnReO3",
+  "DOIs_Researched": [
+    "10.1039/c7cp06805k"
+  ],
+  "Data_By_Temperature": {
+    "947.0": [
+      {
+        "Original_Name_In_Paper": "CaMn0.98Re0.02O3",
+        "Property": "ZT",
+        "Value": 0.16,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cp06805k"
+      },
+      {
+        "Original_Name_In_Paper": "CaMn0.98Re0.02O3",
+        "Property": "ZT",
+        "Value": 0.16,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cp06805k"
+      }
+    ]
+  }
+}

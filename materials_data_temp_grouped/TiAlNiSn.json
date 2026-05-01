@@ -1,0 +1,28 @@
+{
+  "Material": "TiAlNiSn",
+  "DOIs_Researched": [
+    "10.1039/c9cp06123a"
+  ],
+  "Data_By_Temperature": {
+    "703.0": [
+      {
+        "Original_Name_In_Paper": "(Ti0.99Al0.01)NiSn",
+        "Property": "ThermCond",
+        "Value": 3.1,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9cp06123a"
+      }
+    ],
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "(Ti0.99Al0.01)NiSn",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": "substitution of Ti",
+        "Source_DOI": "10.1039/c9cp06123a"
+      }
+    ]
+  }
+}

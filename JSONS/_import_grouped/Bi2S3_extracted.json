@@ -1,0 +1,968 @@
+{
+  "doi": "10.1016/j.cej.2020.125219",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Bi2S3",
+        "pristine Bi2S3",
+        "Bi2S3-1 % SbCl3",
+        "Bi2S3 ingot",
+        "Bi2S3 bulk",
+        "Bi2S3 polycrystalline materials",
+        "Bi2S3 bulk materials",
+        "pure Bi2S3",
+        "Bi2S3 film",
+        "Bi2S3 nanowire",
+        "Bi2S3 thin films",
+        "Bi2S3 nanorods",
+        "PANI / Bi2S3",
+        "Bi2S3 films",
+        "Bi2S3 ingots doped with BiCl3",
+        "8 wt % Bi2S3 / PVA",
+        "undoped Bi2S3",
+        "Bi2S3 90 % film",
+        "pristine Bi2S3 bulk",
+        "Bi2S3 + 0.6 mol % CuCl2",
+        "Bi2S3 with 1.5 mol % PbBr2",
+        "Bi2S3 bulks",
+        "doped Bi2S3",
+        "n-type doped Bi2S3",
+        "bulk Bi2S3",
+        "Bi2S3.02",
+        "Br doped Bi2S3",
+        "Bi2S3 sample doped with 1.0 mol % BiI3",
+        "nanostructured Bi2S3",
+        "nanostructured Bi2S3 bulks",
+        "Bi2S3 sample with 2 mol % LaCl3",
+        "n-type Bi2S3 ingot doped with BiCl3",
+        "Bi2S3 materials",
+        "Bi2S3-2 mol % LaCl3",
+        "Bi2S3 samples doped with 2 mol % LaCl3",
+        "Bi2S3's",
+        "Bi2S3 bulk doped with 1.0 mol % BiCl3",
+        "Bi2S3 doped with 1.0 mol % BiCl3",
+        "Bi2S3 bulk doped with 1.5 mol % PbBr2"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "Bi2S3",
+          "value": 0.00025,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi2S3",
+          "value": 0.0005,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi2S3",
+          "value": -0.00046199999999999995,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi2S3",
+          "value": 0.0004,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi2S3",
+          "value": 0.00035000000000000005,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine Bi2S3",
+          "value": -0.000348,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine Bi2S3",
+          "value": 0.000498,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi2S3",
+          "value": 0.0004,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi2S3 nanorods",
+          "value": -0.000042,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PANI / Bi2S3",
+          "value": -0.0000428,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure Bi2S3",
+          "value": 0.00045000000000000004,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "pure Bi2S3",
+          "value": -0.00048000000000000007,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "Bi2S3",
+          "value": -0.0005,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "pristine Bi2S3",
+          "value": 0.000455,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "n-type doped Bi2S3",
+          "value": -0.000473,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Bi2S3",
+          "value": 0.0005,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "250.0 K"
+        },
+        {
+          "material": "pristine Bi2S3",
+          "value": 0.00030000000000000003,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Bi2S3",
+          "value": 0.00015000000000000001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "pristine Bi2S3",
+          "value": -0.000327,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "625.0 K"
+        },
+        {
+          "material": "Bi2S3",
+          "value": 0.0005,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "423.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "Bi2S3",
+          "value": 20,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure Bi2S3",
+          "value": 90.9090909091,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure Bi2S3",
+          "value": 90.9090909091,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi2S3",
+          "value": 0.0013089005,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi2S3",
+          "value": 2.6315789474,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi2S3 film",
+          "value": 2.6315789474,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi2S3",
+          "value": 35714.2857142857,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi2S3 bulk",
+          "value": 666.6666666667,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi2S3",
+          "value": 61349.6932515337,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi2S3 nanowire",
+          "value": 63.6942675159,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi2S3",
+          "value": 20,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi2S3 thin films",
+          "value": 0.9615384615,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi2S3 films",
+          "value": 0.001,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi2S3 ingots doped with BiCl3",
+          "value": 61500,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi2S3",
+          "value": 100,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine Bi2S3",
+          "value": 41,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine Bi2S3",
+          "value": 130,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi2S3-1 % SbCl3",
+          "value": 41880,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine Bi2S3",
+          "value": 130,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi2S3-1 % SbCl3",
+          "value": 41880,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine Bi2S3",
+          "value": 260,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "8 wt % Bi2S3 / PVA",
+          "value": 8.97,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi2S3",
+          "value": 6,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi2S3",
+          "value": 2,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi2S3",
+          "value": 41.3,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi2S3",
+          "value": 82900,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "undoped Bi2S3",
+          "value": 400,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi2S3 90 % film",
+          "value": 488,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine Bi2S3",
+          "value": 1800,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi2S3",
+          "value": 100,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "Bi2S3 + 0.6 mol % CuCl2",
+          "value": 3500,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "pristine Bi2S3",
+          "value": 14,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "pristine Bi2S3",
+          "value": 1300,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "pristine Bi2S3",
+          "value": 300,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "doped Bi2S3",
+          "value": 2900,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "Bi2S3 film",
+          "value": 5000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Bi2S3 + 0.6 mol % CuCl2",
+          "value": 5100,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "Bi2S3",
+          "value": 4000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "pristine Bi2S3",
+          "value": 1500,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "pristine Bi2S3",
+          "value": 610,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Bi2S3",
+          "value": 3600,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "623.0 K"
+        },
+        {
+          "material": "Bi2S3 samples doped with 2 mol % LaCl3",
+          "value": 15300,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "625.0 K"
+        },
+        {
+          "material": "Bi2S3",
+          "value": 5.6818181818,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "308.0 K"
+        },
+        {
+          "material": "pristine Bi2S3",
+          "value": 715.3,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "628.0 K"
+        },
+        {
+          "material": "8 wt % Bi2S3 / PVA",
+          "value": 3.5700000000000003,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "303.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Bi2S3",
+          "value": 0.8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine Bi2S3",
+          "value": 0.86,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi2S3-1 % SbCl3",
+          "value": 0.67,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi2S3",
+          "value": 1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi2S3",
+          "value": 1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi2S3",
+          "value": 0.661,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi2S3 ingot",
+          "value": 1.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi2S3 bulk",
+          "value": 0.8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi2S3 polycrystalline materials",
+          "value": 1.3,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi2S3",
+          "value": 1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine Bi2S3 bulk",
+          "value": 0.64,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "Bi2S3",
+          "value": 0.84,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "Bi2S3",
+          "value": 0.1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "Bi2S3",
+          "value": 0.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "pristine Bi2S3",
+          "value": 1.3,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Bi2S3",
+          "value": 1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "250.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "PANI / Bi2S3",
+          "value": 7e-8,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure Bi2S3",
+          "value": 0.0000845,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "Bi2S3",
+          "value": 0.000058299999999999994,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "pristine Bi2S3",
+          "value": 0.00009,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "pure Bi2S3",
+          "value": 0.000122,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "Bi2S3 sample doped with 1.0 mol % BiI3",
+          "value": 0.00031,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Bi2S3",
+          "value": 0.00031,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "pristine Bi2S3",
+          "value": 0.0004632,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Bi2S3-1 % SbCl3",
+          "value": 0.00039000000000000005,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Bi2S3.02",
+          "value": 0.000167,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Bi2S3 sample with 2 mol % LaCl3",
+          "value": 0.000483,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "623.0 K"
+        },
+        {
+          "material": "undoped Bi2S3",
+          "value": 0.000127,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "623.0 K"
+        },
+        {
+          "material": "Bi2S3",
+          "value": 0.0008300000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "pristine Bi2S3",
+          "value": 0.000483,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "625.0 K"
+        },
+        {
+          "material": "Bi2S3",
+          "value": 0.00029499999999999996,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "523.0 K"
+        },
+        {
+          "material": "Bi2S3 bulk doped with 1.5 mol % PbBr2",
+          "value": 0.0006900000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "582.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Bi2S3",
+          "zt_value": 0.1,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi2S3",
+          "zt_value": 0.055,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi2S3",
+          "zt_value": 0.055,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi2S3 bulk materials",
+          "zt_value": 0.15,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi2S3 with 1.5 mol % PbBr2",
+          "zt_value": 0.8,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "Bi2S3",
+          "zt_value": 0.8,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "Bi2S3",
+          "zt_value": 0.8,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "pristine Bi2S3",
+          "zt_value": 0.12,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "Bi2S3",
+          "zt_value": 1,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "Bi2S3",
+          "zt_value": 0.5700000000000001,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "pristine Bi2S3",
+          "zt_value": 0.14,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "Bi2S3 bulks",
+          "zt_value": 0.18,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "Bi2S3",
+          "zt_value": 0.7000000000000001,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Bi2S3",
+          "zt_value": 0.055,
+          "temperature": "250.0 K"
+        },
+        {
+          "material": "pure Bi2S3",
+          "zt_value": 0.11,
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "Bi2S3",
+          "zt_value": 0.05,
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "Bi2S3",
+          "zt_value": 0.05,
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "Bi2S3",
+          "zt_value": 0.16,
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "Bi2S3",
+          "zt_value": 0.06,
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "pristine Bi2S3",
+          "zt_value": 0.11,
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "pure Bi2S3",
+          "zt_value": 0.11,
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "pure Bi2S3",
+          "zt_value": 0.11,
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "Bi2S3",
+          "zt_value": 0.09,
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "Bi2S3 bulk",
+          "zt_value": 0.15,
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "Bi2S3",
+          "zt_value": 0.22,
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "Bi2S3",
+          "zt_value": 0.22,
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "bulk Bi2S3",
+          "zt_value": 0.22,
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "bulk Bi2S3",
+          "zt_value": 0.22,
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "pristine Bi2S3",
+          "zt_value": 0.11,
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "pure Bi2S3",
+          "zt_value": 0.16,
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "pristine Bi2S3",
+          "zt_value": 0.06,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Bi2S3.02",
+          "zt_value": 0.14,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "pristine Bi2S3",
+          "zt_value": 0.06,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Br doped Bi2S3",
+          "zt_value": 0.72,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Bi2S3",
+          "zt_value": 0.77,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Bi2S3",
+          "zt_value": 0.72,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "pristine Bi2S3",
+          "zt_value": 0.2,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Bi2S3-1 % SbCl3",
+          "zt_value": 0.65,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Bi2S3-1 % SbCl3",
+          "zt_value": 0.65,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Bi2S3-1 % SbCl3",
+          "zt_value": 0.65,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "nanostructured Bi2S3",
+          "zt_value": 0.5,
+          "temperature": "623.0 K"
+        },
+        {
+          "material": "nanostructured Bi2S3 bulks",
+          "zt_value": 0.5,
+          "temperature": "623.0 K"
+        },
+        {
+          "material": "Bi2S3 sample with 2 mol % LaCl3",
+          "zt_value": 0.5,
+          "temperature": "623.0 K"
+        },
+        {
+          "material": "n-type Bi2S3 ingot doped with BiCl3",
+          "zt_value": 0.6000000000000001,
+          "temperature": "760.0 K"
+        },
+        {
+          "material": "Bi2S3",
+          "zt_value": 0.6000000000000001,
+          "temperature": "760.0 K"
+        },
+        {
+          "material": "Bi2S3",
+          "zt_value": 0.7000000000000001,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "Bi2S3 materials",
+          "zt_value": 0.1,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "Bi2S3",
+          "zt_value": 0.5,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "Bi2S3",
+          "zt_value": 0.5,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "Bi2S3",
+          "zt_value": 0.1,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "Bi2S3",
+          "zt_value": 0.2,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "Bi2S3 sample with 2 mol % LaCl3",
+          "zt_value": 0.5,
+          "temperature": "625.0 K"
+        },
+        {
+          "material": "pristine Bi2S3",
+          "zt_value": 0.11,
+          "temperature": "625.0 K"
+        },
+        {
+          "material": "Bi2S3-2 mol % LaCl3",
+          "zt_value": 0.5,
+          "temperature": "625.0 K"
+        },
+        {
+          "material": "Bi2S3's",
+          "zt_value": 0.11,
+          "temperature": "523.0 K"
+        },
+        {
+          "material": "Bi2S3",
+          "zt_value": 0.05,
+          "temperature": "523.0 K"
+        },
+        {
+          "material": "n-type doped Bi2S3",
+          "zt_value": 0.21,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "Bi2S3",
+          "zt_value": 0.21,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "Bi2S3 bulk",
+          "zt_value": 0.6000000000000001,
+          "temperature": "675.0 K"
+        },
+        {
+          "material": "Bi2S3 bulk doped with 1.0 mol % BiCl3",
+          "zt_value": 0.6000000000000001,
+          "temperature": "675.0 K"
+        },
+        {
+          "material": "Bi2S3 doped with 1.0 mol % BiCl3",
+          "zt_value": 0.6000000000000001,
+          "temperature": "675.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

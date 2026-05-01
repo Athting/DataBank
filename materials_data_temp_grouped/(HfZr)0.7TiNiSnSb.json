@@ -1,0 +1,43 @@
+{
+  "Material": "(HfZr)0.7TiNiSnSb",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2018.09.268",
+    "10.1007/s10853-020-04949-0"
+  ],
+  "Data_By_Temperature": {
+    "837.0": [
+      {
+        "Original_Name_In_Paper": "(Hf0.5Zr0.5)0.7Ti0.3NiSn0.998Sb0.002",
+        "Property": "ThermCond",
+        "Value": 3.15,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.09.268"
+      },
+      {
+        "Original_Name_In_Paper": "(Hf0.5Zr0.5)0.7Ti0.3NiSn0.998Sb0.002",
+        "Property": "ThermCond",
+        "Value": 3.15,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      },
+      {
+        "Original_Name_In_Paper": "(Hf0.5Zr0.5)0.7Ti0.3NiSn0.998Sb0.002",
+        "Property": "ZT",
+        "Value": 0.92,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.09.268"
+      },
+      {
+        "Original_Name_In_Paper": "(Hf0.5Zr0.5)0.7Ti0.3NiSn0.998Sb0.002",
+        "Property": "ZT",
+        "Value": 0.92,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      }
+    ]
+  }
+}

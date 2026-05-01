@@ -1,0 +1,18 @@
+{
+  "Material": "CuInTe2, ZnTe",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2015.08.128"
+  ],
+  "Data_By_Temperature": {
+    "737.0": [
+      {
+        "Original_Name_In_Paper": "(CuInTe2)1\u2212x(ZnTe)x alloys",
+        "Property": "ZT",
+        "Value": 0.6900000000000001,
+        "Units": null,
+        "Editing": "Zn substitution",
+        "Source_DOI": "10.1016/j.jallcom.2015.08.128"
+      }
+    ]
+  }
+}

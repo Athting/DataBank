@@ -1,0 +1,26 @@
+{
+  "Material": "CaLaAgSb",
+  "DOIs_Researched": [
+    "10.1039/c8qi00293b"
+  ],
+  "Data_By_Temperature": {
+    "860.0": [
+      {
+        "Original_Name_In_Paper": "Ca0.85La0.15Ag0.89Sb",
+        "Property": "ZT",
+        "Value": 0.52,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8qi00293b"
+      },
+      {
+        "Original_Name_In_Paper": "Ca0.85La0.15Ag0.89Sb",
+        "Property": "Seebeck",
+        "Value": 0.000122,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8qi00293b"
+      }
+    ]
+  }
+}

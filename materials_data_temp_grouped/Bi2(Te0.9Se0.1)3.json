@@ -1,0 +1,34 @@
+{
+  "Material": "Bi2(Te0.9Se0.1)3",
+  "DOIs_Researched": [
+    "10.1016/j.cap.2011.07.007"
+  ],
+  "Data_By_Temperature": {
+    "423.0": [
+      {
+        "Original_Name_In_Paper": "Bi2(Te0.9Se0.1)3",
+        "Property": "ZT",
+        "Value": 0.98,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2011.07.007"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2(Te0.9Se0.1)3",
+        "Property": "ZT",
+        "Value": 0.88,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2011.07.007"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2(Te0.9Se0.1)3 nanocomposite",
+        "Property": "ZT",
+        "Value": 0.98,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2011.07.007"
+      }
+    ]
+  }
+}

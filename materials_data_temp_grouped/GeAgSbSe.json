@@ -1,0 +1,44 @@
+{
+  "Material": "GeAgSbSe",
+  "DOIs_Researched": [
+    "10.1016/B978-0-12-803581-8.11719-9",
+    "10.1039/d0ta00240b",
+    "10.1039/c9cp05153h"
+  ],
+  "Data_By_Temperature": {
+    "710.0": [
+      {
+        "Original_Name_In_Paper": "GeAg0.2Sb0.2Se1.4",
+        "Property": "ZT",
+        "Value": 0.86,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9cp05153h"
+      },
+      {
+        "Original_Name_In_Paper": "GeAg0.2Sb0.2Se1.4",
+        "Property": "ZT",
+        "Value": 0.86,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-12-803581-8.11719-9"
+      },
+      {
+        "Original_Name_In_Paper": "GeAg0.2Sb0.2Se1.4",
+        "Property": "ZT",
+        "Value": 0.86,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta00240b"
+      },
+      {
+        "Original_Name_In_Paper": "GeAg0.15Sb0.15Se1.3",
+        "Property": "PF",
+        "Value": 0.001233,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta00240b"
+      }
+    ]
+  }
+}

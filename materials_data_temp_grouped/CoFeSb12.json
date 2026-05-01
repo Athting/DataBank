@@ -1,0 +1,55 @@
+{
+  "Material": "CoFeSb12",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2006.02.003",
+    "10.1007/s10854-016-4582-6"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Co3.2Fe0.8Sb12",
+        "Property": "ThermCond",
+        "Value": 2.58,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-016-4582-6"
+      }
+    ],
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "Co3.2Fe0.8Sb12",
+        "Property": "ZT",
+        "Value": 0.53,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-016-4582-6"
+      },
+      {
+        "Original_Name_In_Paper": "Co3.2Fe0.8Sb12",
+        "Property": "ZT",
+        "Value": 0.53,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-016-4582-6"
+      },
+      {
+        "Original_Name_In_Paper": "Co3.2Fe0.8Sb12",
+        "Property": "ZT",
+        "Value": 0.53,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-016-4582-6"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Co3.35Fe0.65Sb12",
+        "Property": "ZT",
+        "Value": 0.32,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2006.02.003"
+      }
+    ]
+  }
+}

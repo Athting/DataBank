@@ -1,0 +1,29 @@
+{
+  "Material": "CoFeCrAs",
+  "DOIs_Researched": [
+    "10.1016/j.cap.2020.02.007",
+    "10.1016/j.jmmm.2017.10.081"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "CoFeCrAs",
+        "Property": "Seebeck",
+        "Value": -4e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmmm.2017.10.081"
+      }
+    ],
+    "100.0": [
+      {
+        "Original_Name_In_Paper": "CoFeCrAs",
+        "Property": "Seebeck",
+        "Value": 0.003,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2020.02.007"
+      }
+    ]
+  }
+}

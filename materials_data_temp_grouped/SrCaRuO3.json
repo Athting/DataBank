@@ -1,0 +1,18 @@
+{
+  "Material": "SrCaRuO3",
+  "DOIs_Researched": [
+    "10.1038/ncomms4432"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Sr0.5Ca0.5RuO3",
+        "Property": "Conductivity",
+        "Value": 2.7e-05,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/ncomms4432"
+      }
+    ]
+  }
+}

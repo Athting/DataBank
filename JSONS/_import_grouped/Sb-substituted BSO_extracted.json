@@ -1,0 +1,118 @@
+{
+  "doi": "10.1016/j.physb.2020.412387",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Sb-substituted BSO"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "Sb-substituted BSO",
+          "value": 0.000058899999999999995,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "820.0 K"
+        },
+        {
+          "material": "Sb-substituted BSO",
+          "value": 0.000058899999999999995,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "820.0 K"
+        },
+        {
+          "material": "Sb-substituted BSO",
+          "value": 0.000058899999999999995,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "820.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "Sb-substituted BSO",
+          "value": 630,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "820.0 K"
+        },
+        {
+          "material": "Sb-substituted BSO",
+          "value": 270,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "820.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Sb-substituted BSO",
+          "value": 1.04,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Sb-substituted BSO",
+          "value": 0.0000021,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "820.0 K"
+        },
+        {
+          "material": "Sb-substituted BSO",
+          "value": 0.0000021,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "820.0 K"
+        },
+        {
+          "material": "Sb-substituted BSO",
+          "value": 8e-7,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "820.0 K"
+        },
+        {
+          "material": "Sb-substituted BSO",
+          "value": 0.0000021,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "820.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Sb-substituted BSO",
+          "zt_value": 0.0028,
+          "temperature": "820.0 K"
+        },
+        {
+          "material": "Sb-substituted BSO",
+          "zt_value": 0.0028,
+          "temperature": "820.0 K"
+        },
+        {
+          "material": "Sb-substituted BSO",
+          "zt_value": 0.0028,
+          "temperature": "820.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

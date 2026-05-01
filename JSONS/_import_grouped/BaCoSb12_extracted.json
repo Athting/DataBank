@@ -1,0 +1,156 @@
+{
+  "doi": "10.1039/c4ta05285d",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Ba-filled Ba0.25Co4Sb12",
+        "Ba0.30Co4Sb12",
+        "Ba0.3Co4Sb12",
+        "Ba0.51Co4Sb12",
+        "Ba0.22Co4Sb12 matrix",
+        "Ba0.24Co4Sb12",
+        "Ba0.22Co4Sb12",
+        "Ba0.4Co4Sb12",
+        "Ba0.3Co4Sb12 matrix"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Ba-filled Ba0.25Co4Sb12",
+          "value": 4.7,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Ba0.30Co4Sb12",
+          "value": 5.7,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Ba0.3Co4Sb12",
+          "value": 0.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "813.0 K"
+        },
+        {
+          "material": "Ba0.51Co4Sb12",
+          "value": 0.73,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "883.0 K"
+        },
+        {
+          "material": "Ba0.51Co4Sb12",
+          "value": 0.73,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "883.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Ba0.51Co4Sb12",
+          "value": 0.0054,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "883.0 K"
+        },
+        {
+          "material": "Ba0.30Co4Sb12",
+          "value": 0.00321,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "800.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Ba0.51Co4Sb12",
+          "zt_value": 1,
+          "temperature": "883.0 K"
+        },
+        {
+          "material": "Ba0.51Co4Sb12",
+          "zt_value": 0.99,
+          "temperature": "883.0 K"
+        },
+        {
+          "material": "Ba0.51Co4Sb12",
+          "zt_value": 1,
+          "temperature": "883.0 K"
+        },
+        {
+          "material": "Ba0.22Co4Sb12 matrix",
+          "zt_value": 1.1,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "Ba0.24Co4Sb12",
+          "zt_value": 1.1,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "Ba0.24Co4Sb12",
+          "zt_value": 1.1,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "Ba0.22Co4Sb12",
+          "zt_value": 0.4,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "Ba0.4Co4Sb12",
+          "zt_value": 0.31,
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "Ba0.24Co4Sb12",
+          "zt_value": 1,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "Ba0.3Co4Sb12",
+          "zt_value": 1.2,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "Ba0.3Co4Sb12",
+          "zt_value": 0.7000000000000001,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "Ba0.3Co4Sb12 matrix",
+          "zt_value": 1,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "Ba0.3Co4Sb12",
+          "zt_value": 1.1,
+          "temperature": "650.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

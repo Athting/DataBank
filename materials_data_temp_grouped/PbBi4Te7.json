@@ -1,0 +1,29 @@
+{
+  "Material": "PbBi4Te7",
+  "DOIs_Researched": [
+    "10.1023/B:INMA.0000027590.43038.a8",
+    "10.1016/j.spjpm.2015.11.002"
+  ],
+  "Data_By_Temperature": {
+    "650.0": [
+      {
+        "Original_Name_In_Paper": "n-type PbBi4Te7",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1023/B:INMA.0000027590.43038.a8"
+      }
+    ],
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "PbBi4Te7 crystal",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.spjpm.2015.11.002"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "Material": "Mg2Sn0.93Pb0.05Sb0.02",
+  "DOIs_Researched": [
+    "10.1039/c6cp03944h"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Mg2Sn0.93Pb0.05Sb0.02",
+        "Property": "ThermCond",
+        "Value": 5.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6cp03944h"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Sn0.93Pb0.05Sb0.02",
+        "Property": "ThermCond",
+        "Value": 3.9,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6cp03944h"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Sn0.93Pb0.05Sb0.02",
+        "Property": "ThermCond",
+        "Value": 5.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6cp03944h"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Sn0.93Pb0.05Sb0.02",
+        "Property": "ThermCond",
+        "Value": 3.9,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6cp03944h"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Sn0.93Pb0.05Sb0.02",
+        "Property": "PF",
+        "Value": 0.003,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6cp03944h"
+      }
+    ]
+  }
+}

@@ -1,0 +1,350 @@
+{
+  "Material": "Cu12Sb4S13",
+  "DOIs_Researched": [
+    "10.1039/c4dt03556a",
+    "10.1039/c5ra23218j",
+    "10.1039/c6dt00564k",
+    "10.1039/c6tc02301k",
+    "10.1039/c9cp00213h",
+    "10.1016/j.solener.2018.08.080",
+    "10.1039/c7cp00351j",
+    "10.1039/c5tc02537k",
+    "10.1016/j.jallcom.2015.12.213",
+    "10.1039/c6cc09904a",
+    "10.1007/s12598-020-01373-w",
+    "10.1016/j.commatsci.2015.06.038",
+    "10.1016/j.ensm.2016.01.009",
+    "10.1007/s11664-015-4128-3",
+    "10.1039/c6ta07015a",
+    "10.1039/c8cp05479g",
+    "10.1016/j.jallcom.2018.07.335",
+    "10.1016/j.intermet.2016.08.003",
+    "10.1016/j.mtla.2018.08.018",
+    "10.1038/s41524-020-00355-x",
+    "10.1039/c4cp04039b"
+  ],
+  "Data_By_Temperature": {
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "Cu12Sb4S13",
+        "Property": "ThermCond",
+        "Value": 1.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cp00351j"
+      },
+      {
+        "Original_Name_In_Paper": "Cu12Sb4S13",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra23218j"
+      },
+      {
+        "Original_Name_In_Paper": "Cu12Sb4S13",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cp00351j"
+      },
+      {
+        "Original_Name_In_Paper": "Cu12Sb4S13",
+        "Property": "PF",
+        "Value": 0.001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cp00351j"
+      }
+    ],
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "Cu12Sb4S13",
+        "Property": "ThermCond",
+        "Value": 1.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8cp05479g"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "tetrahedrite Cu12Sb4S13",
+        "Property": "ThermCond",
+        "Value": 0.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.07.335"
+      },
+      {
+        "Original_Name_In_Paper": "Cu12Sb4S13",
+        "Property": "ThermCond",
+        "Value": 0.65,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41524-020-00355-x"
+      },
+      {
+        "Original_Name_In_Paper": "Cu12Sb4S13",
+        "Property": "PF",
+        "Value": 0.0004,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.12.213"
+      }
+    ],
+    "423.0": [
+      {
+        "Original_Name_In_Paper": "Cu12Sb4S13",
+        "Property": "ThermCond",
+        "Value": 1.25,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4cp04039b"
+      }
+    ],
+    "475.0": [
+      {
+        "Original_Name_In_Paper": "Cu12Sb4S13",
+        "Property": "ThermCond",
+        "Value": 1.1,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4cp04039b"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Cu12Sb4S13",
+        "Property": "ThermCond",
+        "Value": 0.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6tc02301k"
+      },
+      {
+        "Original_Name_In_Paper": "Cu12Sb4S13",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-015-4128-3"
+      },
+      {
+        "Original_Name_In_Paper": "Cu12Sb4S13",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6dt00564k"
+      },
+      {
+        "Original_Name_In_Paper": "Cu12Sb4S13",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6cc09904a"
+      }
+    ],
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "Cu12Sb4S13",
+        "Property": "ThermCond",
+        "Value": 1.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4dt03556a"
+      },
+      {
+        "Original_Name_In_Paper": "Cu12Sb4S13",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4dt03556a"
+      }
+    ],
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "undoped Cu12Sb4S13",
+        "Property": "ZT",
+        "Value": 0.76,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc02537k"
+      },
+      {
+        "Original_Name_In_Paper": "Cu12Sb4S13",
+        "Property": "ZT",
+        "Value": 0.76,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc02537k"
+      },
+      {
+        "Original_Name_In_Paper": "Cu12Sb4S13",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc02537k"
+      },
+      {
+        "Original_Name_In_Paper": "Cu12Sb4S13",
+        "Property": "ZT",
+        "Value": 0.92,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s12598-020-01373-w"
+      },
+      {
+        "Original_Name_In_Paper": "Cu12Sb4S13 / 3 % InSb",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtla.2018.08.018"
+      },
+      {
+        "Original_Name_In_Paper": "pure Cu12Sb4S13",
+        "Property": "ZT",
+        "Value": 0.56,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtla.2018.08.018"
+      },
+      {
+        "Original_Name_In_Paper": "Cu12Sb4S13 / 3 % InSb",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtla.2018.08.018"
+      },
+      {
+        "Original_Name_In_Paper": "Cu12Sb4S13 / 4 % InSb",
+        "Property": "Seebeck",
+        "Value": 0.00022779999999999998,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtla.2018.08.018"
+      }
+    ],
+    "623.0": [
+      {
+        "Original_Name_In_Paper": "Cu12Sb4S13",
+        "Property": "ZT",
+        "Value": 0.76,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2016.08.003"
+      },
+      {
+        "Original_Name_In_Paper": "Cu12Sb4S13",
+        "Property": "ZT",
+        "Value": 0.76,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4cp04039b"
+      },
+      {
+        "Original_Name_In_Paper": "Cu12Sb4S13",
+        "Property": "ZT",
+        "Value": 0.76,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4cp04039b"
+      },
+      {
+        "Original_Name_In_Paper": "Cu12Sb4S13",
+        "Property": "ZT",
+        "Value": 0.76,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4cp04039b"
+      },
+      {
+        "Original_Name_In_Paper": "Cu12Sb4S13",
+        "Property": "Seebeck",
+        "Value": 0.00014199999999999998,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4cp04039b"
+      },
+      {
+        "Original_Name_In_Paper": "Cu12Sb4S13",
+        "Property": "PF",
+        "Value": 0.0016200000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2016.08.003"
+      },
+      {
+        "Original_Name_In_Paper": "Cu12Sb4S13",
+        "Property": "PF",
+        "Value": 0.0017000000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4cp04039b"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Cu12Sb4S13",
+        "Property": "Conductivity",
+        "Value": 111111.1111111111,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9cp00213h"
+      },
+      {
+        "Original_Name_In_Paper": "Cu12Sb4S13",
+        "Property": "PF",
+        "Value": 0.00029,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta07015a"
+      },
+      {
+        "Original_Name_In_Paper": "Cu12Sb4S13",
+        "Property": "Conductivity",
+        "Value": 105.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ensm.2016.01.009"
+      }
+    ],
+    "340.0": [
+      {
+        "Original_Name_In_Paper": "bulk Cu12Sb4S13",
+        "Property": "Seebeck",
+        "Value": 9e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solener.2018.08.080"
+      }
+    ],
+    "495.0": [
+      {
+        "Original_Name_In_Paper": "Cu12Sb4S13",
+        "Property": "PF",
+        "Value": 0.00023,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solener.2018.08.080"
+      }
+    ],
+    "320.0": [
+      {
+        "Original_Name_In_Paper": "bulk Cu12Sb4S13",
+        "Property": "Conductivity",
+        "Value": 100.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2015.06.038"
+      }
+    ]
+  }
+}

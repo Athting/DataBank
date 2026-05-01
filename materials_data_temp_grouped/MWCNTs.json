@@ -1,0 +1,77 @@
+{
+  "Material": "MWCNTs",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2017.09.123",
+    "10.1016/j.jmrt.2013.01.005",
+    "10.1016/j.jallcom.2016.11.024",
+    "10.1039/c5ra23634g"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "MWCNTs",
+        "Property": "ThermCond",
+        "Value": 650.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra23634g"
+      },
+      {
+        "Original_Name_In_Paper": "MWCNTs",
+        "Property": "ThermCond",
+        "Value": 103.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.11.024"
+      },
+      {
+        "Original_Name_In_Paper": "MWCNTs",
+        "Property": "Conductivity",
+        "Value": 106.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.11.024"
+      }
+    ],
+    "780.0": [
+      {
+        "Original_Name_In_Paper": "MWCNTs",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.11.024"
+      }
+    ],
+    "398.0": [
+      {
+        "Original_Name_In_Paper": "MWCNTs",
+        "Property": "ZT",
+        "Value": 0.25,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2017.09.123"
+      }
+    ],
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "MWCNTs",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2017.09.123"
+      }
+    ],
+    "333.0": [
+      {
+        "Original_Name_In_Paper": "MWCNTs",
+        "Property": "Seebeck",
+        "Value": 0.0014,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmrt.2013.01.005"
+      }
+    ]
+  }
+}

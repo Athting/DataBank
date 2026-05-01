@@ -1,0 +1,51 @@
+{
+  "Material": "Bi0.88Sb0.12",
+  "DOIs_Researched": [
+    "10.1134/S1063782619050257",
+    "10.1007/s10853-012-6463-6",
+    "10.1039/c8ra07395c",
+    "10.1007/s10853-006-0831-z"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "doped Bi0.88Sb0.12",
+        "Property": "ZT",
+        "Value": 0.54,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ra07395c"
+      }
+    ],
+    "200.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.88Sb0.12",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-012-6463-6"
+      }
+    ],
+    "290.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.88Sb0.12",
+        "Property": "ZT",
+        "Value": 1.45,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-006-0831-z"
+      }
+    ],
+    "210.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.88Sb0.12 film",
+        "Property": "PF",
+        "Value": 0.0045000000000000005,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1134/S1063782619050257"
+      }
+    ]
+  }
+}

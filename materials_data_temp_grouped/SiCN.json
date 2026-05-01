@@ -1,0 +1,34 @@
+{
+  "Material": "SiCN",
+  "DOIs_Researched": [
+    "10.1016/S0924-4247(02)00330-8"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "SiCN",
+        "Property": "Conductivity",
+        "Value": 50.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0924-4247(02)00330-8"
+      },
+      {
+        "Original_Name_In_Paper": "SiCN",
+        "Property": "Conductivity",
+        "Value": 50.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0924-4247(02)00330-8"
+      },
+      {
+        "Original_Name_In_Paper": "SiCN",
+        "Property": "Conductivity",
+        "Value": 50.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0924-4247(02)00330-8"
+      }
+    ]
+  }
+}

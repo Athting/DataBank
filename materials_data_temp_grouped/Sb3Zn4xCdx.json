@@ -1,0 +1,18 @@
+{
+  "Material": "Sb3Zn4xCdx",
+  "DOIs_Researched": [
+    "10.1016/S0966-9795(03)00157-2"
+  ],
+  "Data_By_Temperature": {
+    "523.0": [
+      {
+        "Original_Name_In_Paper": "Sb3(Zn4\u2212xCdx)",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": "point defects",
+        "Source_DOI": "10.1016/S0966-9795(03)00157-2"
+      }
+    ]
+  }
+}

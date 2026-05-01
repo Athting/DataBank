@@ -1,0 +1,37 @@
+{
+  "Material": "Sn0.70Pb0.30Te(Mg)",
+  "DOIs_Researched": [
+    "10.1039/c8cc02230e",
+    "10.1039/c7tc00009j"
+  ],
+  "Data_By_Temperature": {
+    "710.0": [
+      {
+        "Original_Name_In_Paper": "Mg co-doped Sn0.70Pb0.30Te",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7tc00009j"
+      },
+      {
+        "Original_Name_In_Paper": "Mg co-doped Sn0.70Pb0.30Te",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8cc02230e"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Mg co-doped Sn0.70Pb0.30Te",
+        "Property": "Seebeck",
+        "Value": 0.000121,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7tc00009j"
+      }
+    ]
+  }
+}

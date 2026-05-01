@@ -1,0 +1,18 @@
+{
+  "Material": "BaGe100",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2017.06.025"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ba24Ge100 compound",
+        "Property": "Seebeck",
+        "Value": -2e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2017.06.025"
+      }
+    ]
+  }
+}

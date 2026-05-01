@@ -1,0 +1,47 @@
+{
+  "Material": "Tl9GdTe6",
+  "DOIs_Researched": [
+    "10.1007/s11664-011-1846-z",
+    "10.1016/j.jallcom.2015.01.025"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Tl9GdTe6",
+        "Property": "Seebeck",
+        "Value": 2.7e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-011-1846-z"
+      },
+      {
+        "Original_Name_In_Paper": "Tl9GdTe6",
+        "Property": "Conductivity",
+        "Value": 85000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-011-1846-z"
+      }
+    ],
+    "550.0": [
+      {
+        "Original_Name_In_Paper": "Tl9GdTe6",
+        "Property": "PF",
+        "Value": 0.00046,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.01.025"
+      }
+    ],
+    "315.0": [
+      {
+        "Original_Name_In_Paper": "Tl9GdTe6",
+        "Property": "Conductivity",
+        "Value": 88400.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.01.025"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "PEDOT / CNT composite films with 67 wt % CNTs",
+  "DOIs_Researched": [
+    "10.1016/j.carbon.2019.03.088"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "PEDOT / CNT composite films with 67 wt % CNTs",
+        "Property": "PF",
+        "Value": 0.000157,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.carbon.2019.03.088"
+      }
+    ]
+  }
+}

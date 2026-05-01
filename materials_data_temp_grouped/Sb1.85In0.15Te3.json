@@ -1,0 +1,18 @@
+{
+  "Material": "Sb1.85In0.15Te3",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2014.11.023"
+  ],
+  "Data_By_Temperature": {
+    "615.0": [
+      {
+        "Original_Name_In_Paper": "Sb1.85In0.15Te3",
+        "Property": "ZT",
+        "Value": 0.73,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2014.11.023"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Sr8Ga11Si35",
+  "DOIs_Researched": [
+    "10.1039/c9ra01489f"
+  ],
+  "Data_By_Temperature": {
+    "870.0": [
+      {
+        "Original_Name_In_Paper": "Sr8Ga11Si35",
+        "Property": "ZT",
+        "Value": 0.87,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ra01489f"
+      }
+    ]
+  }
+}

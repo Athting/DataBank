@@ -1,0 +1,18 @@
+{
+  "Material": "nSTN10 + rGO",
+  "DOIs_Researched": [
+    "10.1016/j.carbon.2018.11.023"
+  ],
+  "Data_By_Temperature": {
+    "1160.0": [
+      {
+        "Original_Name_In_Paper": "nSTN10 + rGO",
+        "Property": "ZT",
+        "Value": 0.29,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.carbon.2018.11.023"
+      }
+    ]
+  }
+}

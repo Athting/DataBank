@@ -1,0 +1,27 @@
+{
+  "Material": "NaxCo2O4",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2005.06.032",
+    "10.1016/j.jallcom.2006.12.102"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "sodium cobalt oxide NaxCo2O4",
+        "Property": "Seebeck",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2005.06.032"
+      },
+      {
+        "Original_Name_In_Paper": "sodium cobalt oxide NaxCo2O4",
+        "Property": "Seebeck",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2006.12.102"
+      }
+    ]
+  }
+}

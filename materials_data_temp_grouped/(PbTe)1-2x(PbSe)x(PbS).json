@@ -1,0 +1,27 @@
+{
+  "Material": "(PbTe)1-2x(PbSe)x(PbS)",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2017.03.036",
+    "10.1039/c6ra11299d"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "(PbTe)1-2x(PbSe)x(PbS)x",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2017.03.036"
+      },
+      {
+        "Original_Name_In_Paper": "(PbTe)1\u22122x(PbSe)x(PbS)x",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": "point defects",
+        "Source_DOI": "10.1039/c6ra11299d"
+      }
+    ]
+  }
+}

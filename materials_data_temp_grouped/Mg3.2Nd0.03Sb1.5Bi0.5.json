@@ -1,0 +1,58 @@
+{
+  "Material": "Mg3.2Nd0.03Sb1.5Bi0.5",
+  "DOIs_Researched": [
+    "10.1016/j.mtphys.2020.100269"
+  ],
+  "Data_By_Temperature": {
+    "725.0": [
+      {
+        "Original_Name_In_Paper": "Mg3.2Nd0.03Sb1.5Bi0.5",
+        "Property": "ThermCond",
+        "Value": 0.48,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2020.100269"
+      },
+      {
+        "Original_Name_In_Paper": "Mg3.2Nd0.03Sb1.5Bi0.5",
+        "Property": "ZT",
+        "Value": 1.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2020.100269"
+      },
+      {
+        "Original_Name_In_Paper": "Mg3.2Nd0.03Sb1.5Bi0.5",
+        "Property": "ZT",
+        "Value": 1.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2020.100269"
+      },
+      {
+        "Original_Name_In_Paper": "Mg3.2Nd0.03Sb1.5Bi0.5",
+        "Property": "ZT",
+        "Value": 1.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2020.100269"
+      },
+      {
+        "Original_Name_In_Paper": "Mg3.2Nd0.03Sb1.5Bi0.5",
+        "Property": "PF",
+        "Value": 0.00206,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2020.100269"
+      },
+      {
+        "Original_Name_In_Paper": "Mg3.2Nd0.03Sb1.5Bi0.5",
+        "Property": "PF",
+        "Value": 0.00206,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2020.100269"
+      }
+    ]
+  }
+}

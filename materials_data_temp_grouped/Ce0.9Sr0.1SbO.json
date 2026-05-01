@@ -1,0 +1,18 @@
+{
+  "Material": "Ce0.9Sr0.1SbO",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2016.07.235"
+  ],
+  "Data_By_Temperature": {
+    "727.0": [
+      {
+        "Original_Name_In_Paper": "Ce0.9Sr0.1SbO",
+        "Property": "PF",
+        "Value": 0.00017,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.07.235"
+      }
+    ]
+  }
+}

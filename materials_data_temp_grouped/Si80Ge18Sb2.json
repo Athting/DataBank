@@ -1,0 +1,36 @@
+{
+  "Material": "Si80Ge18Sb2",
+  "DOIs_Researched": [
+    "10.1016/j.enconman.2015.01.082"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "Si80Ge18Sb2",
+        "Property": "ZT",
+        "Value": 0.67,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.enconman.2015.01.082"
+      },
+      {
+        "Original_Name_In_Paper": "Si80Ge18Sb2",
+        "Property": "ZT",
+        "Value": 0.67,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.enconman.2015.01.082"
+      }
+    ],
+    "780.0": [
+      {
+        "Original_Name_In_Paper": "Si80Ge18Sb2",
+        "Property": "PF",
+        "Value": 0.0025,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.enconman.2015.01.082"
+      }
+    ]
+  }
+}

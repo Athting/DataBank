@@ -1,0 +1,101 @@
+{
+  "Material": "SnO",
+  "DOIs_Researched": [
+    "10.1016/S0925-8388(09)00895-0",
+    "10.1016/j.joule.2019.03.001",
+    "10.1016/B978-0-12-815882-1.00007-0",
+    "10.1039/c7tc01623a",
+    "10.1007/s10854-016-5961-8",
+    "10.1016/j.joule.2019.01.001"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "SnO",
+        "Property": "ThermCond",
+        "Value": 2.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2019.01.001"
+      },
+      {
+        "Original_Name_In_Paper": "SnO",
+        "Property": "ThermCond",
+        "Value": 2.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2019.03.001"
+      },
+      {
+        "Original_Name_In_Paper": "O-deficient SnO",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(09)00895-0"
+      },
+      {
+        "Original_Name_In_Paper": "O-deficient SnO",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(09)00895-0"
+      },
+      {
+        "Original_Name_In_Paper": "O-deficient SnO",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(09)00895-0"
+      },
+      {
+        "Original_Name_In_Paper": "O-deficient SnO",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(09)00895-0"
+      },
+      {
+        "Original_Name_In_Paper": "SnO nanosheets",
+        "Property": "Seebeck",
+        "Value": 0.0006600000000000001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-016-5961-8"
+      }
+    ],
+    "525.0": [
+      {
+        "Original_Name_In_Paper": "polycrystalline SnO",
+        "Property": "ThermCond",
+        "Value": 0.75,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7tc01623a"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "SnO",
+        "Property": "ThermCond",
+        "Value": 1.6600000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7tc01623a"
+      }
+    ],
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "SnO",
+        "Property": "Conductivity",
+        "Value": 100.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-12-815882-1.00007-0"
+      }
+    ]
+  }
+}

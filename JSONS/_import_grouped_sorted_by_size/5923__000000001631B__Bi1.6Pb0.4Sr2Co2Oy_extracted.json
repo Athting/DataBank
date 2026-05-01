@@ -1,0 +1,70 @@
+{
+  "doi": "10.1016/j.jallcom.2020.154065",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Bi1.6Pb0.4Sr2Co2Oy + 0.25 wt % SiC",
+        "Bi1.6Pb0.4Sr2Co2Oy"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "Bi1.6Pb0.4Sr2Co2Oy",
+          "value": 0.000223,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Bi1.6Pb0.4Sr2Co2Oy",
+          "value": 0.000223,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "973.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Bi1.6Pb0.4Sr2Co2Oy",
+          "value": 0.000307,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "973.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Bi1.6Pb0.4Sr2Co2Oy + 0.25 wt % SiC",
+          "zt_value": 0.48,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Bi1.6Pb0.4Sr2Co2Oy",
+          "zt_value": 0.025,
+          "temperature": "973.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

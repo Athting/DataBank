@@ -1,0 +1,29 @@
+{
+  "Material": "TiN",
+  "DOIs_Researched": [
+    "10.1016/S0890-6955(98)00044-3",
+    "10.1016/j.matchemphys.2008.11.024"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "titanium nitride",
+        "Property": "ThermCond",
+        "Value": 32.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0890-6955(98)00044-3"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "TiN",
+        "Property": "Seebeck",
+        "Value": -7.8e-06,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2008.11.024"
+      }
+    ]
+  }
+}

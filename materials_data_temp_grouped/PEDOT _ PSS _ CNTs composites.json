@@ -1,0 +1,18 @@
+{
+  "Material": "PEDOT : PSS / CNTs composites",
+  "DOIs_Researched": [
+    "10.1016/j.pmatsci.2017.09.004"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "PEDOT : PSS / CNTs composites",
+        "Property": "Seebeck",
+        "Value": 1.4999999999999999e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2017.09.004"
+      }
+    ]
+  }
+}

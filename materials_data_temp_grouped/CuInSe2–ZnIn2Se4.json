@@ -1,0 +1,26 @@
+{
+  "Material": "CuInSe2\u2013ZnIn2Se4",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2014.08.135"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "CuInSe2\u2013ZnIn2Se4",
+        "Property": "Conductivity",
+        "Value": 330.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.08.135"
+      },
+      {
+        "Original_Name_In_Paper": "CuInSe2\u2013ZnIn2Se4",
+        "Property": "Conductivity",
+        "Value": 14.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.08.135"
+      }
+    ]
+  }
+}

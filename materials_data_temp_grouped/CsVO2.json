@@ -1,0 +1,28 @@
+{
+  "Material": "CsVO2",
+  "DOIs_Researched": [
+    "10.1016/j.cocom.2020.e00492"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "CsVO2 oxide",
+        "Property": "ZT",
+        "Value": 0.99,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cocom.2020.e00492"
+      }
+    ],
+    "200.0": [
+      {
+        "Original_Name_In_Paper": "CsVO2 compound",
+        "Property": "ZT",
+        "Value": 0.97,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cocom.2020.e00492"
+      }
+    ]
+  }
+}

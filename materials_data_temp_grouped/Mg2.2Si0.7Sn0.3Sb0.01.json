@@ -1,0 +1,18 @@
+{
+  "Material": "Mg2.2Si0.7Sn0.3Sb0.01",
+  "DOIs_Researched": [
+    "10.1016/j.rser.2014.05.060"
+  ],
+  "Data_By_Temperature": {
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "Mg2.2Si0.7Sn0.3Sb0.01",
+        "Property": "ZT",
+        "Value": 0.64,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rser.2014.05.060"
+      }
+    ]
+  }
+}

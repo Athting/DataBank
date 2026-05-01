@@ -1,0 +1,40 @@
+{
+  "Material": "La",
+  "DOIs_Researched": [
+    "10.1016/j.apmt.2020.100869",
+    "10.1039/c8qi01402g",
+    "10.1016/j.carbon.2018.11.023"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "La element",
+        "Property": "ThermCond",
+        "Value": 1.1,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8qi01402g"
+      }
+    ],
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "rare-earth La",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apmt.2020.100869"
+      }
+    ],
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "Sr-deficient La",
+        "Property": "ZT",
+        "Value": 0.41000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.carbon.2018.11.023"
+      }
+    ]
+  }
+}

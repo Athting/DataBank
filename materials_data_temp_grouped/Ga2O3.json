@@ -1,0 +1,29 @@
+{
+  "Material": "Ga2O3",
+  "DOIs_Researched": [
+    "10.1016/B978-0-12-374396-1.00031-3",
+    "10.1016/j.jssc.2019.121022"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "0.5 mol % Ga2O3",
+        "Property": "ZT",
+        "Value": 0.23,
+        "Units": null,
+        "Editing": "mol % Ga2O3 doping",
+        "Source_DOI": "10.1016/j.jssc.2019.121022"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ga2O3 nanowires",
+        "Property": "Conductivity",
+        "Value": 1.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-12-374396-1.00031-3"
+      }
+    ]
+  }
+}

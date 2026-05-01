@@ -1,0 +1,18 @@
+{
+  "Material": "Ti2NiCoSnSb",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2019.153413"
+  ],
+  "Data_By_Temperature": {
+    "860.0": [
+      {
+        "Original_Name_In_Paper": "Ti2NiCoSnSb",
+        "Property": "ZT",
+        "Value": 0.047,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.153413"
+      }
+    ]
+  }
+}

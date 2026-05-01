@@ -1,0 +1,18 @@
+{
+  "Material": "Bi1.9O2Se",
+  "DOIs_Researched": [
+    "10.1039/c9tc02188d"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Bi1.9O2Se",
+        "Property": "ZT",
+        "Value": 0.12,
+        "Units": null,
+        "Editing": "introducing Bi",
+        "Source_DOI": "10.1039/c9tc02188d"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Material": "NiSe2.06",
+  "DOIs_Researched": [
+    "10.1007/s10854-016-4847-0"
+  ],
+  "Data_By_Temperature": {
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "NiSe2.06",
+        "Property": "Seebeck",
+        "Value": 9.270000000000001e-06,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-016-4847-0"
+      },
+      {
+        "Original_Name_In_Paper": "NiSe2.06",
+        "Property": "Conductivity",
+        "Value": 699600.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-016-4847-0"
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "Material": "CuAgSe",
+  "DOIs_Researched": [
+    "10.1039/c4dt03556a",
+    "10.1016/j.susmat.2018.e00076",
+    "10.1039/c5nr01451d",
+    "10.1007/s10853-018-2676-7",
+    "10.1016/j.ensm.2016.01.009",
+    "10.1016/j.mtphys.2019.100095",
+    "10.1039/c5ta02721g",
+    "10.1039/c8tc04129f",
+    "10.1039/c8ta01531g"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "(Cu0.99Ag0.01)2Se",
+        "Property": "ThermCond",
+        "Value": 0.42,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.susmat.2018.e00076"
+      },
+      {
+        "Original_Name_In_Paper": "(Cu0.93Ag0.07)2Se",
+        "Property": "ThermCond",
+        "Value": 0.23,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.susmat.2018.e00076"
+      },
+      {
+        "Original_Name_In_Paper": "(Cu0.99Ag0.01)2Se",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8tc04129f"
+      },
+      {
+        "Original_Name_In_Paper": "(Cu0.99Ag0.01)2Se",
+        "Property": "Conductivity",
+        "Value": 13300.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.susmat.2018.e00076"
+      },
+      {
+        "Original_Name_In_Paper": "(Cu0.93Ag0.07)2Se",
+        "Property": "Conductivity",
+        "Value": 9100.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.susmat.2018.e00076"
+      }
+    ],
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "CuAgSe",
+        "Property": "ThermCond",
+        "Value": 0.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.susmat.2018.e00076"
+      }
+    ],
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "CuAgSe",
+        "Property": "ThermCond",
+        "Value": 0.47000000000000003,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4dt03556a"
+      },
+      {
+        "Original_Name_In_Paper": "CuAgSe",
+        "Property": "ZT",
+        "Value": 0.47000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4dt03556a"
+      }
+    ],
+    "623.0": [
+      {
+        "Original_Name_In_Paper": "CuAgSe",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2019.100095"
+      },
+      {
+        "Original_Name_In_Paper": "\u03b1-CuAgSe",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2019.100095"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "CuAgSe",
+        "Property": "ZT",
+        "Value": 0.55,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5nr01451d"
+      }
+    ],
+    "321.0": [
+      {
+        "Original_Name_In_Paper": "CuAgSe-W",
+        "Property": "ZT",
+        "Value": 0.31,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-018-2676-7"
+      },
+      {
+        "Original_Name_In_Paper": "CuAgSe-W",
+        "Property": "Seebeck",
+        "Value": -9.87e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-018-2676-7"
+      }
+    ],
+    "566.0": [
+      {
+        "Original_Name_In_Paper": "CuAgSe-W",
+        "Property": "ZT",
+        "Value": 0.68,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-018-2676-7"
+      }
+    ],
+    "625.0": [
+      {
+        "Original_Name_In_Paper": "CuAgSe",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta01531g"
+      }
+    ],
+    "450.0": [
+      {
+        "Original_Name_In_Paper": "CuAgSe",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ensm.2016.01.009"
+      },
+      {
+        "Original_Name_In_Paper": "pure CuAgSe",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta02721g"
+      },
+      {
+        "Original_Name_In_Paper": "CuAgSe",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta02721g"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "CuAgSe",
+        "Property": "ZT",
+        "Value": 0.15,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta02721g"
+      },
+      {
+        "Original_Name_In_Paper": "CuAgSe",
+        "Property": "Conductivity",
+        "Value": 175438.596491228,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5nr01451d"
+      },
+      {
+        "Original_Name_In_Paper": "\u03b2-CuAgSe",
+        "Property": "Seebeck",
+        "Value": -5e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5nr01451d"
+      },
+      {
+        "Original_Name_In_Paper": "pristine CuAgSe",
+        "Property": "Seebeck",
+        "Value": -9.6e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2019.100095"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "CuAgSe",
+        "Property": "ZT",
+        "Value": 0.9500000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta02721g"
+      },
+      {
+        "Original_Name_In_Paper": "CuAgSe",
+        "Property": "Conductivity",
+        "Value": 71500.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta01531g"
+      }
+    ],
+    "470.0": [
+      {
+        "Original_Name_In_Paper": "CuAgSe",
+        "Property": "Seebeck",
+        "Value": -0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta01531g"
+      }
+    ],
+    "320.0": [
+      {
+        "Original_Name_In_Paper": "CuAgSe-W",
+        "Property": "Conductivity",
+        "Value": 1.06e-05,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-018-2676-7"
+      }
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "Material": "Pb / Sn",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2016.03.018",
+    "10.1039/d0ta00240b"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Pb / Sn",
+        "Property": "Conductivity",
+        "Value": 10000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta00240b"
+      },
+      {
+        "Original_Name_In_Paper": "Pb / Sn",
+        "Property": "Seebeck",
+        "Value": -0.000249,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta00240b"
+      },
+      {
+        "Original_Name_In_Paper": "Pb / Sn",
+        "Property": "Conductivity",
+        "Value": 230000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2016.03.018"
+      }
+    ],
+    "670.0": [
+      {
+        "Original_Name_In_Paper": "Pb / Sn",
+        "Property": "Seebeck",
+        "Value": 0.00012000000000000002,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2016.03.018"
+      }
+    ],
+    "733.0": [
+      {
+        "Original_Name_In_Paper": "Pb / Sn",
+        "Property": "PF",
+        "Value": 0.001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta00240b"
+      }
+    ]
+  }
+}

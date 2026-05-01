@@ -1,0 +1,53 @@
+{
+  "Material": "Ba0.18Ce0.05Co4Sb12.02",
+  "DOIs_Researched": [
+    "10.1016/j.mser.2018.09.001",
+    "10.1016/j.actamat.2009.03.018"
+  ],
+  "Data_By_Temperature": {
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "Ba0.18Ce0.05Co4Sb12.02",
+        "Property": "ZT",
+        "Value": 1.26,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2009.03.018"
+      },
+      {
+        "Original_Name_In_Paper": "Ba0.18Ce0.05Co4Sb12.02",
+        "Property": "ZT",
+        "Value": 1.26,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2009.03.018"
+      },
+      {
+        "Original_Name_In_Paper": "Ba0.18Ce0.05Co4Sb12.02",
+        "Property": "ZT",
+        "Value": 1.26,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2009.03.018"
+      },
+      {
+        "Original_Name_In_Paper": "Ba0.18Ce0.05Co4Sb12.02",
+        "Property": "ZT",
+        "Value": 1.34,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mser.2018.09.001"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Ba0.18Ce0.05Co4Sb12.02",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2009.03.018"
+      }
+    ]
+  }
+}

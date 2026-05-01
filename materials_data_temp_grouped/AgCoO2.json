@@ -1,0 +1,26 @@
+{
+  "Material": "AgCoO2",
+  "DOIs_Researched": [
+    "10.1016/S0040-6090(02)00199-2"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "AgCoO2 film",
+        "Property": "Seebeck",
+        "Value": 0.00023,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0040-6090(02)00199-2"
+      },
+      {
+        "Original_Name_In_Paper": "AgCoO2 film",
+        "Property": "Conductivity",
+        "Value": 20.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0040-6090(02)00199-2"
+      }
+    ]
+  }
+}

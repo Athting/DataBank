@@ -1,0 +1,18 @@
+{
+  "Material": "Li2S-30P2S5",
+  "DOIs_Researched": [
+    "10.1039/c6ta05439k"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "70Li2S\u201330P2S5",
+        "Property": "Conductivity",
+        "Value": 1.7000000000000002,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta05439k"
+      }
+    ]
+  }
+}

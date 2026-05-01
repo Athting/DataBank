@@ -1,0 +1,43 @@
+{
+  "Material": "Cu2.2Fe0.8SnSe4",
+  "DOIs_Researched": [
+    "10.1039/c5tc01606a",
+    "10.1039/c5tc90161h"
+  ],
+  "Data_By_Temperature": {
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "Cu2.2Fe0.8SnSe4",
+        "Property": "ZT",
+        "Value": 0.45,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc90161h"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2.2Fe0.8SnSe4",
+        "Property": "ZT",
+        "Value": 0.45,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01606a"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2.2Fe0.8SnSe4",
+        "Property": "ZT",
+        "Value": 0.45,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01606a"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2.2Fe0.8SnSe4",
+        "Property": "ZT",
+        "Value": 0.45,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01606a"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "PbTe1-xSe",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2017.07.193"
+  ],
+  "Data_By_Temperature": {
+    "625.0": [
+      {
+        "Original_Name_In_Paper": "n-type PbTe1-xSex",
+        "Property": "ZT",
+        "Value": 0.98,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.07.193"
+      }
+    ]
+  }
+}

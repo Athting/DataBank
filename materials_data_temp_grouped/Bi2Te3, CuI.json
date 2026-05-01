@@ -1,0 +1,18 @@
+{
+  "Material": "Bi2Te3, CuI",
+  "DOIs_Researched": [
+    "10.1039/c6qi00544f"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "CuI-doped Bi2Te3",
+        "Property": "PF",
+        "Value": 0.004,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6qi00544f"
+      }
+    ]
+  }
+}

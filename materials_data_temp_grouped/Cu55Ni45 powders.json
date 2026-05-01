@@ -1,0 +1,18 @@
+{
+  "Material": "Cu55Ni45 powders",
+  "DOIs_Researched": [
+    "10.1016/j.cej.2019.02.198"
+  ],
+  "Data_By_Temperature": {
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "Cu55Ni45 powders",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cej.2019.02.198"
+      }
+    ]
+  }
+}

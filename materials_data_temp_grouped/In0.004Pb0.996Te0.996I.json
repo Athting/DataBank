@@ -1,0 +1,18 @@
+{
+  "Material": "In0.004Pb0.996Te0.996I",
+  "DOIs_Researched": [
+    "10.1039/c8ee00112j"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "In0.004Pb0.996Te0.996I0.004",
+        "Property": "PF",
+        "Value": 0.0026000000000000003,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee00112j"
+      }
+    ]
+  }
+}

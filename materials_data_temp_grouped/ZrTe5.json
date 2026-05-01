@@ -1,0 +1,37 @@
+{
+  "Material": "ZrTe5",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2019.104092",
+    "10.1016/j.jallcom.2018.06.115"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "p-type polycrystalline ZrTe5",
+        "Property": "ThermCond",
+        "Value": 2.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.06.115"
+      },
+      {
+        "Original_Name_In_Paper": "ZrTe5 ribbon",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2019.104092"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "polycrystalline ZrTe5",
+        "Property": "ZT",
+        "Value": 0.026000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.06.115"
+      }
+    ]
+  }
+}

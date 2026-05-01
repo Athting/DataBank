@@ -1,0 +1,18 @@
+{
+  "Material": "Mg0.08Pb0.92Te0.8Se0.2",
+  "DOIs_Researched": [
+    "10.1016/j.jmat.2016.05.005"
+  ],
+  "Data_By_Temperature": {
+    "820.0": [
+      {
+        "Original_Name_In_Paper": "Mg0.08Pb0.92Te0.8Se0.2 with 2 % Na",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2016.05.005"
+      }
+    ]
+  }
+}

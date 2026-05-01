@@ -1,0 +1,18 @@
+{
+  "Material": "CaMnO3.04Ru0.04",
+  "DOIs_Researched": [
+    "10.1016/j.jeurceramsoc.2019.08.021"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "CaMn0.96Ru0.04O3",
+        "Property": "PF",
+        "Value": 0.000185,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2019.08.021"
+      }
+    ]
+  }
+}

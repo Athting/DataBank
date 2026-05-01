@@ -1,0 +1,87 @@
+{
+  "doi": "10.1016/j.jallcom.2006.05.012",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "LaFeO3 compound",
+        "LaFeO3",
+        "LaFe0.1Ni0.9O3",
+        "pristine LaFeO3 compound",
+        "Ca doped LaFeO3 compounds",
+        "bulk LaFeO3"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "LaFeO3 compound",
+          "value": 24.0963855422,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Ca doped LaFeO3 compounds",
+          "value": 756.1,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "650.0 K"
+        },
+        {
+          "material": "LaFeO3",
+          "value": 39,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "833.0 K"
+        },
+        {
+          "material": "bulk LaFeO3",
+          "value": 36,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "833.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "LaFeO3",
+          "value": 0.0001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1050.0 K"
+        },
+        {
+          "material": "LaFe0.1Ni0.9O3",
+          "value": 0.00007000000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "pristine LaFeO3 compound",
+          "value": 0.000078,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "650.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": []
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

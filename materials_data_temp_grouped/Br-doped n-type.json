@@ -1,0 +1,45 @@
+{
+  "Material": "Br-doped n-type",
+  "DOIs_Researched": [
+    "10.1016/j.joule.2019.03.001",
+    "10.1016/j.joule.2019.01.001",
+    "10.1039/d0ta00240b",
+    "10.1039/d0tc02068k"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Br-doped n-type",
+        "Property": "ZT",
+        "Value": 2.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0tc02068k"
+      },
+      {
+        "Original_Name_In_Paper": "Br-doped n-type",
+        "Property": "ZT",
+        "Value": 2.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2019.03.001"
+      },
+      {
+        "Original_Name_In_Paper": "Br-doped n-type",
+        "Property": "ZT",
+        "Value": 2.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2019.01.001"
+      },
+      {
+        "Original_Name_In_Paper": "Br-doped n-type",
+        "Property": "ZT",
+        "Value": 2.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta00240b"
+      }
+    ]
+  }
+}

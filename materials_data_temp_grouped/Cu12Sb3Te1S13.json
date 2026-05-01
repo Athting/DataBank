@@ -1,0 +1,27 @@
+{
+  "Material": "Cu12Sb3Te1S13",
+  "DOIs_Researched": [
+    "10.1039/c4cp04039b",
+    "10.1016/j.actamat.2015.08.040"
+  ],
+  "Data_By_Temperature": {
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "Cu12Sb3Te1S13",
+        "Property": "ZT",
+        "Value": 0.92,
+        "Units": null,
+        "Editing": "doping by Te",
+        "Source_DOI": "10.1016/j.actamat.2015.08.040"
+      },
+      {
+        "Original_Name_In_Paper": "Cu12Sb3Te1S13",
+        "Property": "ZT",
+        "Value": 0.92,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4cp04039b"
+      }
+    ]
+  }
+}

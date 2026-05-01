@@ -1,0 +1,60 @@
+{
+  "Material": "Bi1.99Ni0.01S3",
+  "DOIs_Researched": [
+    "10.1007/s13391-018-0072-8"
+  ],
+  "Data_By_Temperature": {
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "Bi1.99Ni0.01S3",
+        "Property": "ZT",
+        "Value": 0.13,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s13391-018-0072-8"
+      },
+      {
+        "Original_Name_In_Paper": "Bi1.99Ni0.01S3",
+        "Property": "ZT",
+        "Value": 0.13,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s13391-018-0072-8"
+      },
+      {
+        "Original_Name_In_Paper": "Bi1.99Ni0.01S3",
+        "Property": "Conductivity",
+        "Value": 0.0004255319,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s13391-018-0072-8"
+      },
+      {
+        "Original_Name_In_Paper": "Bi1.99Ni0.01S3",
+        "Property": "Conductivity",
+        "Value": 0.0004255319,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s13391-018-0072-8"
+      },
+      {
+        "Original_Name_In_Paper": "Bi1.99Ni0.01S3",
+        "Property": "Conductivity",
+        "Value": 0.0004255319,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s13391-018-0072-8"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Bi1.99Ni0.01S3",
+        "Property": "Conductivity",
+        "Value": 0.0013089005,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s13391-018-0072-8"
+      }
+    ]
+  }
+}

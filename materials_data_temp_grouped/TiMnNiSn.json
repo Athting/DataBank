@@ -1,0 +1,28 @@
+{
+  "Material": "TiMnNiSn",
+  "DOIs_Researched": [
+    "10.1007/s10853-020-04949-0"
+  ],
+  "Data_By_Temperature": {
+    "712.0": [
+      {
+        "Original_Name_In_Paper": "Ti0.95Mn0.05NiSn",
+        "Property": "ZT",
+        "Value": 0.42,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      }
+    ],
+    "813.0": [
+      {
+        "Original_Name_In_Paper": "TiMn0.2NiSn",
+        "Property": "ZT",
+        "Value": 0.43,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Zr3Al3C5",
+  "DOIs_Researched": [
+    "10.1016/j.jeurceramsoc.2013.05.020"
+  ],
+  "Data_By_Temperature": {
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "Zr3Al3C5",
+        "Property": "PF",
+        "Value": 5.2e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2013.05.020"
+      }
+    ]
+  }
+}

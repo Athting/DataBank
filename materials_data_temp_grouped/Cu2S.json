@@ -1,0 +1,438 @@
+{
+  "Material": "Cu2S",
+  "DOIs_Researched": [
+    "10.1038/am.2015.91",
+    "10.1039/c4dt03556a",
+    "10.1016/j.jeurceramsoc.2017.07.005",
+    "10.1016/j.jssc.2018.05.037",
+    "10.1039/c9tc00819e",
+    "10.1016/j.vacuum.2019.108964",
+    "10.1016/j.nanoen.2017.10.042",
+    "10.1016/j.jallcom.2020.155276",
+    "10.1016/j.apsusc.2016.11.106",
+    "10.1039/c6ta03780a",
+    "10.1039/c7tc01937h",
+    "10.1016/j.mtphys.2020.100271",
+    "10.1039/c5ta01667c",
+    "10.1039/c8tc05038d",
+    "10.1007/s12598-018-1007-0",
+    "10.1039/c4ee02428a",
+    "10.1007/s10854-019-00816-0",
+    "10.1016/j.cogsc.2017.02.007",
+    "10.1016/j.jallcom.2019.05.122",
+    "10.1016/j.nanoen.2015.04.024",
+    "10.1016/j.ceramint.2016.02.055"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Cu2S",
+        "Property": "ThermCond",
+        "Value": 0.36,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2015.91"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2S",
+        "Property": "Seebeck",
+        "Value": 0.00030000000000000003,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2016.11.106"
+      }
+    ],
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "pure Cu2S",
+        "Property": "ThermCond",
+        "Value": 0.44,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7tc01937h"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "\u03b3-Cu2S",
+        "Property": "ThermCond",
+        "Value": 0.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.vacuum.2019.108964"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2S",
+        "Property": "Conductivity",
+        "Value": 9000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7tc01937h"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "\u03b3-Cu2S",
+        "Property": "ThermCond",
+        "Value": 0.19,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.vacuum.2019.108964"
+      },
+      {
+        "Original_Name_In_Paper": "\u03b3-Cu2S",
+        "Property": "ZT",
+        "Value": 2.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.vacuum.2019.108964"
+      }
+    ],
+    "10.0": [
+      {
+        "Original_Name_In_Paper": "Cu2S1",
+        "Property": "ThermCond",
+        "Value": 0.03,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2017.10.042"
+      }
+    ],
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "Cu2S",
+        "Property": "ThermCond",
+        "Value": 0.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta01667c"
+      }
+    ],
+    "448.0": [
+      {
+        "Original_Name_In_Paper": "Cu2S",
+        "Property": "ThermCond",
+        "Value": 0.33,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-019-00816-0"
+      }
+    ],
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "Cu2S",
+        "Property": "ThermCond",
+        "Value": 0.6000000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4dt03556a"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2S",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4dt03556a"
+      }
+    ],
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "Cu2S",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ee02428a"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2S",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": "In addition",
+        "Source_DOI": "10.1039/c4ee02428a"
+      }
+    ],
+    "623.0": [
+      {
+        "Original_Name_In_Paper": "Polycrystalline Cu2Sex bulk materials",
+        "Property": "ZT",
+        "Value": 0.75,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2017.07.005"
+      },
+      {
+        "Original_Name_In_Paper": "polycrystalline Cu2Sex bulk materials",
+        "Property": "ZT",
+        "Value": 0.75,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.05.122"
+      }
+    ],
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "Cu2S",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta03780a"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2S",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc00819e"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2S",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s12598-018-1007-0"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2S",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.155276"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2S",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8tc05038d"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2S",
+        "Property": "PF",
+        "Value": 3e-06,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc00819e"
+      }
+    ],
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "Cu2S\u20132 % In2S3",
+        "Property": "ZT",
+        "Value": 1.23,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta03780a"
+      },
+      {
+        "Original_Name_In_Paper": "undoped Cu2S",
+        "Property": "ZT",
+        "Value": 0.34,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta03780a"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2S",
+        "Property": "PF",
+        "Value": 0.001361,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta03780a"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2S\u20132 % In2S3",
+        "Property": "PF",
+        "Value": 0.001361,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta03780a"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2S\u20132 % In2S3",
+        "Property": "PF",
+        "Value": 0.001361,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta03780a"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Cu2S",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-019-00816-0"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2S",
+        "Property": "ZT",
+        "Value": 0.65,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2018.05.037"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2S",
+        "Property": "ZT",
+        "Value": 0.65,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2018.05.037"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2S",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": "nanoinclusions of Cu2S",
+        "Source_DOI": "10.1016/j.ceramint.2016.02.055"
+      }
+    ],
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "pure Cu2S",
+        "Property": "ZT",
+        "Value": 0.56,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-019-00816-0"
+      },
+      {
+        "Original_Name_In_Paper": "pure Cu2S",
+        "Property": "ZT",
+        "Value": 0.74,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-019-00816-0"
+      }
+    ],
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "Cu2S",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta01667c"
+      },
+      {
+        "Original_Name_In_Paper": "Undoped Cu2S",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2020.100271"
+      }
+    ],
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "Cu2S",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2015.04.024"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Cu2S",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cogsc.2017.02.007"
+      }
+    ],
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "hole-doped Cu2S crystal",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.vacuum.2019.108964"
+      },
+      {
+        "Original_Name_In_Paper": "p-type \u03b3-Cu2S",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.vacuum.2019.108964"
+      },
+      {
+        "Original_Name_In_Paper": "\u03b3-Cu2S",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.vacuum.2019.108964"
+      }
+    ],
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "pristine Cu2S",
+        "Property": "ZT",
+        "Value": 0.32,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7tc01937h"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2S",
+        "Property": "ZT",
+        "Value": 0.32,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7tc01937h"
+      },
+      {
+        "Original_Name_In_Paper": "pristine Cu2S",
+        "Property": "ZT",
+        "Value": 0.32,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7tc01937h"
+      }
+    ],
+    "450.0": [
+      {
+        "Original_Name_In_Paper": "Cu2S without CNTs",
+        "Property": "Seebeck",
+        "Value": 0.00030000000000000003,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-019-00816-0"
+      }
+    ],
+    "570.0": [
+      {
+        "Original_Name_In_Paper": "Cu2S\u20132 % In2S3",
+        "Property": "Conductivity",
+        "Value": 85400.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta03780a"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2S",
+        "Property": "Conductivity",
+        "Value": 10000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta03780a"
+      }
+    ]
+  }
+}

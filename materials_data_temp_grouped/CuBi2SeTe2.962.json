@@ -1,0 +1,18 @@
+{
+  "Material": "CuBi2SeTe2.962",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2016.09.200"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Cu0.015Bi2.37Se0.038Te2.962",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2016.09.200"
+      }
+    ]
+  }
+}

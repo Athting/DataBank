@@ -1,0 +1,26 @@
+{
+  "Material": "Ge0.93Ti0.01Bi0.06Te",
+  "DOIs_Researched": [
+    "10.1016/j.mtphys.2019.100094"
+  ],
+  "Data_By_Temperature": {
+    "623.0": [
+      {
+        "Original_Name_In_Paper": "Ge0.93Ti0.01Bi0.06Te",
+        "Property": "ZT",
+        "Value": 1.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2019.100094"
+      },
+      {
+        "Original_Name_In_Paper": "Ge0.93Ti0.01Bi0.06Te",
+        "Property": "ZT",
+        "Value": 1.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2019.100094"
+      }
+    ]
+  }
+}

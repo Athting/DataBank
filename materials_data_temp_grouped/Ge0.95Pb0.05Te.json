@@ -1,0 +1,18 @@
+{
+  "Material": "Ge0.95Pb0.05Te",
+  "DOIs_Researched": [
+    "10.1016/j.physb.2020.412397"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ge0.95Pb0.05Te",
+        "Property": "Seebeck",
+        "Value": 4.4e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2020.412397"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "MnMoSb5.4Te1.6",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2010.05.124"
+  ],
+  "Data_By_Temperature": {
+    "320.0": [
+      {
+        "Original_Name_In_Paper": "Mn0.05Mo3Sb5.4Te1.6",
+        "Property": "Conductivity",
+        "Value": 165000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.05.124"
+      }
+    ]
+  }
+}

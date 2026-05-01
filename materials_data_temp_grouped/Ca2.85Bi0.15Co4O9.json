@@ -1,0 +1,27 @@
+{
+  "Material": "Ca2.85Bi0.15Co4O9",
+  "DOIs_Researched": [
+    "10.1007/s10854-013-1645-9",
+    "10.1007/s10832-014-9888-2"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ca2.85Bi0.15Co4O9",
+        "Property": "ZT",
+        "Value": 0.045,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10832-014-9888-2"
+      },
+      {
+        "Original_Name_In_Paper": "Ca2.85Bi0.15Co4O9",
+        "Property": "ZT",
+        "Value": 0.045,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-013-1645-9"
+      }
+    ]
+  }
+}

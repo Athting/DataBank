@@ -1,0 +1,84 @@
+{
+  "Material": "PbTe-SrTe",
+  "DOIs_Researched": [
+    "10.1038/nature11439",
+    "10.1016/j.jallcom.2017.05.204",
+    "10.1039/c3cp50920f",
+    "10.1016/j.jallcom.2017.06.296",
+    "10.1039/c3ra46248j",
+    "10.1039/c4ra05322b",
+    "10.1016/j.enconman.2016.01.065"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "PbTe\u2013SrTe(4 mol % )",
+        "Property": "ThermCond",
+        "Value": 2.85,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/nature11439"
+      }
+    ],
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "PbTe-SrTe",
+        "Property": "ZT",
+        "Value": 2.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.05.204"
+      },
+      {
+        "Original_Name_In_Paper": "PbTe\u2013SrTe doped with Na",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ra46248j"
+      },
+      {
+        "Original_Name_In_Paper": "PbTe-SrTe",
+        "Property": "ZT",
+        "Value": 2.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.06.296"
+      },
+      {
+        "Original_Name_In_Paper": "PbTe\u2013SrTe doped with Na",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3cp50920f"
+      }
+    ],
+    "915.0": [
+      {
+        "Original_Name_In_Paper": "PbTe\u2013SrTe doped with Na",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra05322b"
+      },
+      {
+        "Original_Name_In_Paper": "PbTe-SrTe",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.06.296"
+      },
+      {
+        "Original_Name_In_Paper": "PbTe-SrTe",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.enconman.2016.01.065"
+      }
+    ]
+  }
+}

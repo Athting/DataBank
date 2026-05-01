@@ -1,0 +1,74 @@
+{
+  "Material": "CoSb",
+  "DOIs_Researched": [
+    "10.1016/S0925-8388(09)01720-4",
+    "10.1016/S0080-8784(01)80151-4",
+    "10.1016/j.jallcom.2014.01.215",
+    "10.1016/S0925-8388(05)00321-X",
+    "10.1016/j.jallcom.2016.05.330"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "cobalt antimonide",
+        "Property": "ThermCond",
+        "Value": 10.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.01.215"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb alloy",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(09)01720-4"
+      },
+      {
+        "Original_Name_In_Paper": "polycrystalline CoSb bulk alloy",
+        "Property": "Seebeck",
+        "Value": 1.6e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.05.330"
+      },
+      {
+        "Original_Name_In_Paper": "single-crystal bulk CoSb",
+        "Property": "Seebeck",
+        "Value": -1.2e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.05.330"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "doped CoSb",
+        "Property": "ThermCond",
+        "Value": 4.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0080-8784(01)80151-4"
+      },
+      {
+        "Original_Name_In_Paper": "doped CoSb",
+        "Property": "ZT",
+        "Value": 0.85,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0080-8784(01)80151-4"
+      }
+    ],
+    "1273.0": [
+      {
+        "Original_Name_In_Paper": "Co 4 H11002 x Sb",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(05)00321-X"
+      }
+    ]
+  }
+}

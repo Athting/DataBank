@@ -1,0 +1,28 @@
+{
+  "Material": "MnBi2Te4",
+  "DOIs_Researched": [
+    "10.1039/c9tc00979e"
+  ],
+  "Data_By_Temperature": {
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "manganese bismuth tellurides with GeBi4Te7-type",
+        "Property": "ZT",
+        "Value": 0.35000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc00979e"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "MnBi2Te4",
+        "Property": "Conductivity",
+        "Value": 3900.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc00979e"
+      }
+    ]
+  }
+}

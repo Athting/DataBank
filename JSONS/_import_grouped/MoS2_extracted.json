@@ -1,0 +1,885 @@
+{
+  "doi": "10.1039/c9tc06012j",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "MoS2",
+        "monolayer MoS2",
+        "pristine MoS2",
+        "few-layer MoS2",
+        "few layers MoS2",
+        "single-layer MoS2",
+        "pristine single-layer MoS2",
+        "MoS2 nanotubes",
+        "MoS2 nanoribbons",
+        "MoS2 nanotube",
+        "MoS2 nanoribbon",
+        "single-layer MoS2 nanoribbon",
+        "bilayer MoS2",
+        "MoS2 films",
+        "MoS2 with S and MoS2-type",
+        "MoS2 film",
+        "bulk MoS2",
+        "MoS2 with 7.5 wt % Cu",
+        "MoS2 powder",
+        "few layer MoS2",
+        "MoS2 nanosheets",
+        "MoS2 monolayer",
+        "MoS2 thin film",
+        "MoS2-RGO nanocomposite",
+        "MoS2-RGO nanocomposites",
+        "MoS2-RGO",
+        "MoS2-B",
+        "crystalline MoS2 films",
+        "layered MoS2",
+        "single layer MoS2",
+        "bulk 2H–MoS2",
+        "3 wt % MoS2 nanosheets",
+        "oxygen-doped MoS2",
+        "MoO2 incorporated MoS2",
+        "6 wt % MoS2 nanosheets",
+        "7.5 wt % Cu doped MoS2",
+        "7.5 wt % Cu-doped MoS2",
+        "MoS2 nanomaterials"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "MoS2 film",
+          "value": 0.0001594,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "bulk MoS2",
+          "value": 0.0006000000000000001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "bulk MoS2",
+          "value": 0.0006000000000000001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "MoS2 with 7.5 wt % Cu",
+          "value": 0.0002028,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "MoS2 powder",
+          "value": -0.000335,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "MoS2",
+          "value": 1e-7,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "MoS2-RGO nanocomposite",
+          "value": -0.00009143,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "MoS2",
+          "value": -0.00003019,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "MoS2 films",
+          "value": 0.000446342,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "pristine MoS2",
+          "value": 0.00001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "610.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "MoS2",
+          "value": 1,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "MoS2 thin film",
+          "value": 785,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "MoS2 powder",
+          "value": 36500,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "MoS2",
+          "value": 104,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "MoS2-RGO",
+          "value": 19,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "MoS2",
+          "value": 7,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "MoS2 film",
+          "value": 0.0001,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "layered MoS2",
+          "value": 4440,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "7.5 wt % Cu-doped MoS2",
+          "value": 14.2,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "420.0 K"
+        },
+        {
+          "material": "MoS2 nanosheets",
+          "value": 0.01,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "1458.0 K"
+        },
+        {
+          "material": "MoS2 nanomaterials",
+          "value": 511.956,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "298.0 K"
+        },
+        {
+          "material": "MoS2 nanomaterials",
+          "value": 511.956,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "298.0 K"
+        },
+        {
+          "material": "pristine MoS2",
+          "value": 1,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "327.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "MoS2",
+          "value": 40,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "monolayer MoS2",
+          "value": 1.35,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "monolayer MoS2",
+          "value": 34.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "monolayer MoS2",
+          "value": 34.06,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine MoS2",
+          "value": 37,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "MoS2",
+          "value": 23.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "monolayer MoS2",
+          "value": 250,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "MoS2",
+          "value": 83,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "MoS2",
+          "value": 23.3,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "few-layer MoS2",
+          "value": 34.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "MoS2",
+          "value": 52,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "few layers MoS2",
+          "value": 52,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "MoS2",
+          "value": 77,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "monolayer MoS2",
+          "value": 1.35,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "single-layer MoS2",
+          "value": 23.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine single-layer MoS2",
+          "value": 42.18,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "monolayer MoS2",
+          "value": 34.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "MoS2",
+          "value": 52,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "monolayer MoS2",
+          "value": 85,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "MoS2 nanotubes",
+          "value": 11.1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "MoS2 nanoribbons",
+          "value": 5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "MoS2",
+          "value": 34.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "MoS2 nanotube",
+          "value": 16,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "MoS2 nanotubes",
+          "value": 11.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "monolayer MoS2",
+          "value": 34.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "MoS2",
+          "value": 30,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "monolayer MoS2",
+          "value": 34.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "single-layer MoS2",
+          "value": 108,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "monolayer MoS2",
+          "value": 84,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "MoS2",
+          "value": 142,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "MoS2",
+          "value": 103,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "monolayer MoS2",
+          "value": 34.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "monolayer MoS2",
+          "value": 34.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "monolayer MoS2",
+          "value": 26.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "MoS2",
+          "value": 34.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "monolayer MoS2",
+          "value": 23.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "monolayer MoS2",
+          "value": 34.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "monolayer MoS2",
+          "value": 62.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "MoS2",
+          "value": 142,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "monolayer MoS2",
+          "value": 23.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "MoS2",
+          "value": 68,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "MoS2",
+          "value": 65,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "MoS2",
+          "value": 62,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "monolayer MoS2",
+          "value": 29.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "monolayer MoS2",
+          "value": 34.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "monolayer MoS2",
+          "value": 1.35,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "monolayer MoS2",
+          "value": 29.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "MoS2 nanoribbon",
+          "value": 673.6,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "MoS2 nanoribbon",
+          "value": 117,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "monolayer MoS2",
+          "value": 131,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "MoS2 nanoribbons",
+          "value": 673.6,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "single-layer MoS2 nanoribbon",
+          "value": 117,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "MoS2 nanoribbon",
+          "value": 84,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "single-layer MoS2",
+          "value": 83,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "MoS2",
+          "value": 0.8200000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "MoS2-RGO nanocomposite",
+          "value": 0.22,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "MoS2",
+          "value": 0.5700000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "MoS2-RGO nanocomposite",
+          "value": 0.0001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "MoS2",
+          "value": 0.0001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "MoS2-RGO nanocomposite",
+          "value": 0.22,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "MoS2",
+          "value": 0.5700000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "monolayer MoS2",
+          "value": 47.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "MoS2",
+          "value": 54,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "MoS2",
+          "value": 0.8300000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "MoS2",
+          "value": 108,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "MoS2-B",
+          "value": 1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "MoS2",
+          "value": 112,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "MoS2 films",
+          "value": 0.07,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "MoS2",
+          "value": 13.1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "500.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "bilayer MoS2",
+          "value": 0.0085,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "few layer MoS2",
+          "value": 0.0085,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "monolayer MoS2",
+          "value": 28000,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "MoS2 films",
+          "value": 0.0000731,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "MoS2",
+          "value": 0.0000731,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "MoS2 nanosheets",
+          "value": 0.00007000000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "MoS2",
+          "value": 0.0000731,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "MoS2 monolayer",
+          "value": 0.0085,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "MoS2 powder",
+          "value": 0.000434,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "bulk MoS2",
+          "value": 1.1000000000000001e-9,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "monolayer MoS2",
+          "value": 0.028,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "MoS2 films",
+          "value": 0,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "monolayer MoS2",
+          "value": 0.028,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "MoS2",
+          "value": 0.000732,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "pristine MoS2",
+          "value": 0.000030000000000000004,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "610.0 K"
+        },
+        {
+          "material": "6 wt % MoS2 nanosheets",
+          "value": 0.0018300000000000002,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "319.0 K"
+        },
+        {
+          "material": "7.5 wt % Cu doped MoS2",
+          "value": 0.0000313,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "420.0 K"
+        },
+        {
+          "material": "7.5 wt % Cu-doped MoS2",
+          "value": 0.0000313,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "420.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "bilayer MoS2",
+          "zt_value": 1.2,
+          "temperature": "295 K"
+        },
+        {
+          "material": "MoS2",
+          "zt_value": 2.7,
+          "temperature": "295 K"
+        },
+        {
+          "material": "MoS2 nanoribbon",
+          "zt_value": 2.5,
+          "temperature": "295 K"
+        },
+        {
+          "material": "single-layer MoS2",
+          "zt_value": 0.58,
+          "temperature": "295 K"
+        },
+        {
+          "material": "MoS2 films",
+          "zt_value": 1.98,
+          "temperature": "295 K"
+        },
+        {
+          "material": "MoS2",
+          "zt_value": 0.5,
+          "temperature": "295 K"
+        },
+        {
+          "material": "monolayer MoS2",
+          "zt_value": 0.02,
+          "temperature": "295 K"
+        },
+        {
+          "material": "MoS2 with S and MoS2-type",
+          "zt_value": 1.3,
+          "temperature": "295 K"
+        },
+        {
+          "material": "monolayer MoS2",
+          "zt_value": 0.58,
+          "temperature": "295 K"
+        },
+        {
+          "material": "MoS2-RGO nanocomposites",
+          "zt_value": 0.23,
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "MoS2",
+          "zt_value": 0.38,
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "MoS2",
+          "zt_value": 0.30000000000000004,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "crystalline MoS2 films",
+          "zt_value": 0.27,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "MoS2 films",
+          "zt_value": 1.98,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "pristine MoS2",
+          "zt_value": 0.21,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "MoS2",
+          "zt_value": 2.34,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "single layer MoS2",
+          "zt_value": 0.11,
+          "temperature": "500.0 K"
+        },
+        {
+          "material": "single layer MoS2",
+          "zt_value": 0.26,
+          "temperature": "500.0 K"
+        },
+        {
+          "material": "single layer MoS2",
+          "zt_value": 0.11,
+          "temperature": "500.0 K"
+        },
+        {
+          "material": "MoS2",
+          "zt_value": 0.1,
+          "temperature": "500.0 K"
+        },
+        {
+          "material": "bulk 2H–MoS2",
+          "zt_value": 0.65,
+          "temperature": "200.0 K"
+        },
+        {
+          "material": "3 wt % MoS2 nanosheets",
+          "zt_value": 0.53,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "MoS2 nanosheets",
+          "zt_value": 0.53,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "MoS2",
+          "zt_value": 2.3,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "MoS2 nanoribbons",
+          "zt_value": 2,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "oxygen-doped MoS2",
+          "zt_value": 0.14,
+          "temperature": "760.0 K"
+        },
+        {
+          "material": "MoO2 incorporated MoS2",
+          "zt_value": 0.14,
+          "temperature": "760.0 K"
+        },
+        {
+          "material": "bulk MoS2",
+          "zt_value": 0.1,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "MoS2",
+          "zt_value": 0.1,
+          "temperature": "1200.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "C16N4, C16P4, C16As4",
+  "DOIs_Researched": [
+    "10.1016/j.mtphys.2019.100164"
+  ],
+  "Data_By_Temperature": {
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "C16N4 / C16P4 / C16As4",
+        "Property": "ZT",
+        "Value": 0.79,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2019.100164"
+      }
+    ]
+  }
+}

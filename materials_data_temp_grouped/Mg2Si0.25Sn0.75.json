@@ -1,0 +1,18 @@
+{
+  "Material": "Mg2Si0.25Sn0.75",
+  "DOIs_Researched": [
+    "10.1016/j.scriptamat.2015.12.031"
+  ],
+  "Data_By_Temperature": {
+    "610.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Si0.25Sn0.75 with Li-5000",
+        "Property": "ZT",
+        "Value": 0.32,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2015.12.031"
+      }
+    ]
+  }
+}

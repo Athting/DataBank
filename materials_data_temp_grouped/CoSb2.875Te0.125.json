@@ -1,0 +1,80 @@
+{
+  "Material": "CoSb2.875Te0.125",
+  "DOIs_Researched": [
+    "10.1016/j.mser.2018.09.001",
+    "10.1016/j.scriptamat.2012.05.028",
+    "10.1039/c7cp05149b",
+    "10.1016/j.jpcs.2020.109545",
+    "10.1038/am.2017.1"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "CoSb2.875Te0.125 + 1.0 vol. %",
+        "Property": "ThermCond",
+        "Value": 3.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2012.05.028"
+      }
+    ],
+    "820.0": [
+      {
+        "Original_Name_In_Paper": "CoSb2.875Te0.125",
+        "Property": "ThermCond",
+        "Value": 1.13,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2020.109545"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb2.875Te0.125",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2020.109545"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb2.875Te0.125",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2017.1"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb2.875Te0.125",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2017.1"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb2.875Te0.125",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2017.1"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb2.875Te0.125",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mser.2018.09.001"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb2.875Te0.125",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cp05149b"
+      }
+    ]
+  }
+}

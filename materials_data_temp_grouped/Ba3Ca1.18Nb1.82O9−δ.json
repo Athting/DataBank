@@ -1,0 +1,18 @@
+{
+  "Material": "Ba3Ca1.18Nb1.82O9\u2212\u03b4",
+  "DOIs_Researched": [
+    "10.1016/S0167-2738(01)00951-1"
+  ],
+  "Data_By_Temperature": {
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "Ba3Ca1.18Nb1.82O9\u2212\u03b4",
+        "Property": "Conductivity",
+        "Value": 0.2,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0167-2738(01)00951-1"
+      }
+    ]
+  }
+}

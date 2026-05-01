@@ -1,0 +1,18 @@
+{
+  "Material": "RuVSb",
+  "DOIs_Researched": [
+    "10.1039/c6cp07897d"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "RuVSb",
+        "Property": "ThermCond",
+        "Value": 16.6,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6cp07897d"
+      }
+    ]
+  }
+}

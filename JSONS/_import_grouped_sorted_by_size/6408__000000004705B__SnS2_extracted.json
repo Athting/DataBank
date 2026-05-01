@@ -1,0 +1,190 @@
+{
+  "doi": "10.1039/c5cp03700j",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "SnS2 bulk",
+        "SnS2",
+        "monolayer SnS2",
+        "3 L SnS2 nanosheets",
+        "bulk SnS2",
+        "bulk single-crystal SnS2",
+        "two-dimensional SnS2 nanosheets",
+        "2D SnS2 materials",
+        "SnS2 nanosheet",
+        "SnS2 nanosheets",
+        "SnS2 crystals"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "SnS2",
+          "value": 0.000135,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "two-dimensional SnS2 nanosheets",
+          "value": 0.0347,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "2D SnS2 materials",
+          "value": 0.0347,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SnS2",
+          "value": 0.000603,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "673.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "SnS2",
+          "value": 15.33,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SnS2",
+          "value": 7620,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SnS2 crystals",
+          "value": 18,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "723.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "SnS2 bulk",
+          "value": 3.6,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnS2",
+          "value": 3.45,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "monolayer SnS2",
+          "value": 6.41,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "monolayer SnS2",
+          "value": 6.41,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "monolayer SnS2",
+          "value": 6.41,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnS2",
+          "value": 0.67,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "3 L SnS2 nanosheets",
+          "zt_value": 0.22,
+          "temperature": "295 K"
+        },
+        {
+          "material": "bulk SnS2",
+          "zt_value": 0.19,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SnS2",
+          "zt_value": 0.19,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SnS2",
+          "zt_value": 0.15,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SnS2",
+          "zt_value": 0.18,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "bulk single-crystal SnS2",
+          "zt_value": 0.13,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SnS2",
+          "zt_value": 0.012,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SnS2",
+          "zt_value": 0.93,
+          "temperature": "450.0 K"
+        },
+        {
+          "material": "SnS2 nanosheet",
+          "zt_value": 1.87,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "SnS2",
+          "zt_value": 1.87,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "3 L SnS2 nanosheets",
+          "zt_value": 1.87,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "SnS2 nanosheets",
+          "zt_value": 1.87,
+          "temperature": "800.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

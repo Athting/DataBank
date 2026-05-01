@@ -1,0 +1,101 @@
+{
+  "Material": "Ca2.7Ag0.3Co4O9",
+  "DOIs_Researched": [
+    "10.1007/s40243-019-0163-y",
+    "10.1016/j.jallcom.2013.11.116",
+    "10.1016/j.matchemphys.2012.11.066",
+    "10.1016/j.jallcom.2008.10.162",
+    "10.1016/j.pmatsci.2013.06.003",
+    "10.1007/s10854-015-3401-9",
+    "10.1016/j.jallcom.2011.09.008",
+    "10.1016/j.ceramint.2015.04.121"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "Ca2.7Ag0.3Co4O9",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2013.06.003"
+      },
+      {
+        "Original_Name_In_Paper": "Ca2.7Ag0.3Co4O9",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.11.116"
+      },
+      {
+        "Original_Name_In_Paper": "Ca2.7Ag0.3Co4O9",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2011.09.008"
+      },
+      {
+        "Original_Name_In_Paper": "Ca2.7Ag0.3Co4O9",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": "Ag+ doping and Ag",
+        "Source_DOI": "10.1016/j.jallcom.2008.10.162"
+      },
+      {
+        "Original_Name_In_Paper": "Ca2.7Ag0.3Co4O9",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s40243-019-0163-y"
+      },
+      {
+        "Original_Name_In_Paper": "Ca2.7Ag0.3Co4O9",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2012.11.066"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ca2.7Ag0.3Co4O9",
+        "Property": "ZT",
+        "Value": 0.03,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-015-3401-9"
+      },
+      {
+        "Original_Name_In_Paper": "Ca2.7Ag0.3Co4O9",
+        "Property": "ZT",
+        "Value": 0.03,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-015-3401-9"
+      },
+      {
+        "Original_Name_In_Paper": "Ca2.7Ag0.3Co4O9",
+        "Property": "PF",
+        "Value": 0.00015000000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2015.04.121"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Ca2.7Ag0.3Co4O9",
+        "Property": "PF",
+        "Value": 0.000325,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-015-3401-9"
+      }
+    ]
+  }
+}

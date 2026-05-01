@@ -1,0 +1,18 @@
+{
+  "Material": "Ga2O3(ZnO)m",
+  "DOIs_Researched": [
+    "10.1016/j.jeurceramsoc.2020.07.021"
+  ],
+  "Data_By_Temperature": {
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "Ga2O3(ZnO)m compounds",
+        "Property": "ZT",
+        "Value": 0.04,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2020.07.021"
+      }
+    ]
+  }
+}

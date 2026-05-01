@@ -1,0 +1,18 @@
+{
+  "Material": "BiCuSeO_Cd",
+  "DOIs_Researched": [
+    "10.1039/c6ra01686c"
+  ],
+  "Data_By_Temperature": {
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "10 % Cd-doped BiCuSeO",
+        "Property": "ThermCond",
+        "Value": 0.38,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra01686c"
+      }
+    ]
+  }
+}

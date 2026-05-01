@@ -1,0 +1,43 @@
+{
+  "Material": "Yb13.82Pr0.18Mn1.01Sb",
+  "DOIs_Researched": [
+    "10.1039/c5tc02326b",
+    "10.1039/c5tc90161h"
+  ],
+  "Data_By_Temperature": {
+    "1275.0": [
+      {
+        "Original_Name_In_Paper": "Yb13.82Pr0.18Mn1.01Sb10.99",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc90161h"
+      },
+      {
+        "Original_Name_In_Paper": "Yb13.82Pr0.18Mn1.01Sb10.99",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc02326b"
+      },
+      {
+        "Original_Name_In_Paper": "Yb13.82Pr0.18Mn1.01Sb10.99",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc02326b"
+      },
+      {
+        "Original_Name_In_Paper": "Yb13.82Pr0.18Mn1.01Sb10.99",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc02326b"
+      }
+    ]
+  }
+}

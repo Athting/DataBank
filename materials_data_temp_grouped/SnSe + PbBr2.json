@@ -1,0 +1,18 @@
+{
+  "Material": "SnSe + PbBr2",
+  "DOIs_Researched": [
+    "10.1039/c9ee03897c"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "1 % PbBr2-doped SnSe",
+        "Property": "Conductivity",
+        "Value": 23400.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ee03897c"
+      }
+    ]
+  }
+}

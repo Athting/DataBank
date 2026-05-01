@@ -1,0 +1,18 @@
+{
+  "Material": "AgSbTe2, AgTe",
+  "DOIs_Researched": [
+    "10.1038/s41598-019-45697-9"
+  ],
+  "Data_By_Temperature": {
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "AgSbTe2 / Ag2Te",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-019-45697-9"
+      }
+    ]
+  }
+}

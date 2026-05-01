@@ -1,0 +1,27 @@
+{
+  "Material": "PbTe0.9Se0.1Sx",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2017.03.036",
+    "10.1039/c6ra11299d"
+  ],
+  "Data_By_Temperature": {
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "PbTe0.9-xSe0.1Sx compounds",
+        "Property": "ZT",
+        "Value": 1.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2017.03.036"
+      },
+      {
+        "Original_Name_In_Paper": "Na-doped PbTe0.9\u2212xSe0.1Sx compounds",
+        "Property": "ZT",
+        "Value": 1.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra11299d"
+      }
+    ]
+  }
+}

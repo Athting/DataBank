@@ -1,0 +1,18 @@
+{
+  "Material": "Ti / HfOx / Pt",
+  "DOIs_Researched": [
+    "10.1038/ncomms5598"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ti / HfOx / Pt",
+        "Property": "Seebeck",
+        "Value": -8e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/ncomms5598"
+      }
+    ]
+  }
+}

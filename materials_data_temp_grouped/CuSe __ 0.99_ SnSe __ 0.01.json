@@ -1,0 +1,26 @@
+{
+  "Material": "CuSe \\* 0.99: SnSe \\* 0.01",
+  "DOIs_Researched": [
+    "10.1016/j.scriptamat.2017.12.035"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Cu0.01Sn0.99Se",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2017.12.035"
+      },
+      {
+        "Original_Name_In_Paper": "Cu0.01Sn0.99Se",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2017.12.035"
+      }
+    ]
+  }
+}

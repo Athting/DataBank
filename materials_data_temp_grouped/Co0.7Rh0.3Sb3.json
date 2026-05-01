@@ -1,0 +1,18 @@
+{
+  "Material": "Co0.7Rh0.3Sb3",
+  "DOIs_Researched": [
+    "10.1557/PROC-1267-DD03-02"
+  ],
+  "Data_By_Temperature": {
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "(Co0.7Rh0.3)Sb3",
+        "Property": "ThermCond",
+        "Value": 4.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1557/PROC-1267-DD03-02"
+      }
+    ]
+  }
+}

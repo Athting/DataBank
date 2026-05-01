@@ -1,0 +1,57 @@
+{
+  "doi": "10.1007/s10853-013-7421-7",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "nanostructured (Pb0.95Sn0.05Te)0.92(PbS)0.08",
+        "(Pb0.95Sn0.05Te)0.92(PbS)0.08"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "(Pb0.95Sn0.05Te)0.92(PbS)0.08",
+          "value": 0.0022,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "642.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "nanostructured (Pb0.95Sn0.05Te)0.92(PbS)0.08",
+          "zt_value": 1.5,
+          "temperature": "642.0 K"
+        },
+        {
+          "material": "(Pb0.95Sn0.05Te)0.92(PbS)0.08",
+          "zt_value": 0.055,
+          "temperature": "642.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

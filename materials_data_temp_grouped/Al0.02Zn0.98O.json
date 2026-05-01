@@ -1,0 +1,18 @@
+{
+  "Material": "Al0.02Zn0.98O",
+  "DOIs_Researched": [
+    "10.1039/c3ra44223c"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Al0.02Zn0.98O",
+        "Property": "ZT",
+        "Value": 0.095,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ra44223c"
+      }
+    ]
+  }
+}

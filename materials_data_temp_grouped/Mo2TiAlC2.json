@@ -1,0 +1,28 @@
+{
+  "Material": "Mo2TiAlC2",
+  "DOIs_Researched": [
+    "10.1016/j.physleta.2016.09.015"
+  ],
+  "Data_By_Temperature": {
+    "1400.0": [
+      {
+        "Original_Name_In_Paper": "Mo2TiAlC2",
+        "Property": "ZT",
+        "Value": 0.32,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physleta.2016.09.015"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Mo2TiAlC2",
+        "Property": "Conductivity",
+        "Value": 479000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physleta.2016.09.015"
+      }
+    ]
+  }
+}

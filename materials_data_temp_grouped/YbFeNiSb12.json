@@ -1,0 +1,47 @@
+{
+  "Material": "YbFeNiSb12",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2011.12.022",
+    "10.1016/j.jmst.2014.05.007"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Yb0.95Fe3.5Ni0.5Sb12",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2011.12.022"
+      }
+    ],
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "Yb0.77Fe3NiSb12",
+        "Property": "ZT",
+        "Value": 0.73,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmst.2014.05.007"
+      },
+      {
+        "Original_Name_In_Paper": "Yb0.77Fe3NiSb12",
+        "Property": "ZT",
+        "Value": 0.73,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmst.2014.05.007"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Yb0.95Fe3.5Ni0.5Sb12",
+        "Property": "PF",
+        "Value": 0.0017000000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2011.12.022"
+      }
+    ]
+  }
+}

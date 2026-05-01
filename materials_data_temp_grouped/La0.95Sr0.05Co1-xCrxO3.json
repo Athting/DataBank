@@ -1,0 +1,18 @@
+{
+  "Material": "La0.95Sr0.05Co1-xCrxO3",
+  "DOIs_Researched": [
+    "10.1016/j.materresbull.2018.02.032"
+  ],
+  "Data_By_Temperature": {
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "La0.95Sr0.05Co1-xCrxO3",
+        "Property": "ZT",
+        "Value": 0.053,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2018.02.032"
+      }
+    ]
+  }
+}

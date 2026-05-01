@@ -1,0 +1,38 @@
+{
+  "Material": "AlN",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2016.12.339",
+    "10.1039/c6ee00456c",
+    "10.1016/j.mseb.2013.08.013"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "aluminum nitride",
+        "Property": "ThermCond",
+        "Value": 185.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ee00456c"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Aluminum nitride",
+        "Property": "ThermCond",
+        "Value": 175.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.12.339"
+      },
+      {
+        "Original_Name_In_Paper": "Mg-doped AlN",
+        "Property": "Conductivity",
+        "Value": 1e-05,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mseb.2013.08.013"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "nanostructured InSbviamelt",
+  "DOIs_Researched": [
+    "10.1039/c1jm10542f"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "nanostructured InSbviamelt",
+        "Property": "ZT",
+        "Value": 0.49,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c1jm10542f"
+      }
+    ]
+  }
+}

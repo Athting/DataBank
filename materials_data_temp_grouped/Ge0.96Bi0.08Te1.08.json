@@ -1,0 +1,18 @@
+{
+  "Material": "Ge0.96Bi0.08Te1.08",
+  "DOIs_Researched": [
+    "10.1039/d0ta02758h"
+  ],
+  "Data_By_Temperature": {
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "Ge0.96Bi0.08Te1.08 sample without Pb",
+        "Property": "PF",
+        "Value": 0.00396,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta02758h"
+      }
+    ]
+  }
+}

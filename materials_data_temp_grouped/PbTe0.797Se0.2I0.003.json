@@ -1,0 +1,18 @@
+{
+  "Material": "PbTe0.797Se0.2I0.003",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2017.06.296"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "PbTe0.797Se0.2I0.003",
+        "Property": "ThermCond",
+        "Value": 2.1,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.06.296"
+      }
+    ]
+  }
+}

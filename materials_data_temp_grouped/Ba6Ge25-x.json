@@ -1,0 +1,26 @@
+{
+  "Material": "Ba6Ge25-x",
+  "DOIs_Researched": [
+    "10.1006/jssc.2000.8777"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ba6Ge25\u2212x",
+        "Property": "Seebeck",
+        "Value": -1.8e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1006/jssc.2000.8777"
+      },
+      {
+        "Original_Name_In_Paper": "Ba6Ge25\u2212x",
+        "Property": "Conductivity",
+        "Value": 200000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1006/jssc.2000.8777"
+      }
+    ]
+  }
+}

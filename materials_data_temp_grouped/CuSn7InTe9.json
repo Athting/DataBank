@@ -1,0 +1,44 @@
+{
+  "Material": "CuSn7InTe9",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2016.11.049"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "CuSn7InTe9",
+        "Property": "ThermCond",
+        "Value": 2.1,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2016.11.049"
+      },
+      {
+        "Original_Name_In_Paper": "CuSn7InTe9",
+        "Property": "PF",
+        "Value": 0.00064,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2016.11.049"
+      }
+    ],
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "CuSn7InTe9",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2016.11.049"
+      },
+      {
+        "Original_Name_In_Paper": "CuSn7InTe9",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2016.11.049"
+      }
+    ]
+  }
+}

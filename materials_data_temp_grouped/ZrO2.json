@@ -1,0 +1,71 @@
+{
+  "Material": "ZrO2",
+  "DOIs_Researched": [
+    "10.1016/j.solidstatesciences.2009.06.007",
+    "10.1016/j.physb.2015.12.028",
+    "10.1016/j.pmatsci.2015.01.001",
+    "10.1016/j.jallcom.2014.01.208",
+    "10.1016/j.jallcom.2014.10.007",
+    "10.1016/j.jeurceramsoc.2019.09.024"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "ZrO2",
+        "Property": "ThermCond",
+        "Value": 1.7000000000000002,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2009.06.007"
+      }
+    ],
+    "970.0": [
+      {
+        "Original_Name_In_Paper": "1 vol % of ZrO2 nanoinclusions",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": "vol % of ZrO2 nanoinclusions",
+        "Source_DOI": "10.1016/j.jallcom.2014.01.208"
+      },
+      {
+        "Original_Name_In_Paper": "1 vol. % of ZrO2 nanoinclusions",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": "vol. % of ZrO2 nanoinclusions",
+        "Source_DOI": "10.1016/j.jallcom.2014.10.007"
+      }
+    ],
+    "1015.0": [
+      {
+        "Original_Name_In_Paper": "ZrO2",
+        "Property": "ZT",
+        "Value": 0.37,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2019.09.024"
+      }
+    ],
+    "553.0": [
+      {
+        "Original_Name_In_Paper": "ZrO2",
+        "Property": "Seebeck",
+        "Value": 0.00017735,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2015.12.028"
+      }
+    ],
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "ZrO2",
+        "Property": "Conductivity",
+        "Value": 6.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2015.01.001"
+      }
+    ]
+  }
+}

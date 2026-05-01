@@ -1,0 +1,18 @@
+{
+  "Material": "Ca2.8Yb0.2Co4O9-\u03b4",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2018.01.030"
+  ],
+  "Data_By_Temperature": {
+    "870.0": [
+      {
+        "Original_Name_In_Paper": "Ca2.8Yb0.2Co4O9-\u03b4",
+        "Property": "ZT",
+        "Value": 0.16,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.01.030"
+      }
+    ]
+  }
+}

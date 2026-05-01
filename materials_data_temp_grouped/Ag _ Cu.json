@@ -1,0 +1,18 @@
+{
+  "Material": "Ag / Cu",
+  "DOIs_Researched": [
+    "10.1039/c9ta12954e"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ag / Cu",
+        "Property": "ThermCond",
+        "Value": 0.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": "point defects",
+        "Source_DOI": "10.1039/c9ta12954e"
+      }
+    ]
+  }
+}

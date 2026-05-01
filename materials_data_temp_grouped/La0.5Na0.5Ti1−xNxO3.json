@@ -1,0 +1,28 @@
+{
+  "Material": "La0.5Na0.5Ti1\u2212xNxO3",
+  "DOIs_Researched": [
+    "10.1039/c7ee01510k"
+  ],
+  "Data_By_Temperature": {
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "La0.5Na0.5Ti1\u2212xNbxO3",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ee01510k"
+      }
+    ],
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "La0.5Na0.5Ti1\u2212xNbxO3",
+        "Property": "Conductivity",
+        "Value": 12000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ee01510k"
+      }
+    ]
+  }
+}

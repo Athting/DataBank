@@ -1,0 +1,78 @@
+{
+  "Material": "SiTe2",
+  "DOIs_Researched": [
+    "10.1016/j.physe.2018.12.004"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "monolayer SiTe2",
+        "Property": "ThermCond",
+        "Value": 2.27,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physe.2018.12.004"
+      },
+      {
+        "Original_Name_In_Paper": "monolayer SiTe2",
+        "Property": "ThermCond",
+        "Value": 2.27,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physe.2018.12.004"
+      },
+      {
+        "Original_Name_In_Paper": "monolayer SiTe2",
+        "Property": "ThermCond",
+        "Value": 2.27,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physe.2018.12.004"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "monolayer SiTe2",
+        "Property": "ThermCond",
+        "Value": 2.27,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physe.2018.12.004"
+      },
+      {
+        "Original_Name_In_Paper": "SiTe2",
+        "Property": "Seebeck",
+        "Value": 0.00014525,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physe.2018.12.004"
+      }
+    ],
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "monolayer SiTe2",
+        "Property": "ZT",
+        "Value": 0.46,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physe.2018.12.004"
+      },
+      {
+        "Original_Name_In_Paper": "monolayer SiTe2",
+        "Property": "ZT",
+        "Value": 0.46,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physe.2018.12.004"
+      },
+      {
+        "Original_Name_In_Paper": "monolayer SiTe2",
+        "Property": "ZT",
+        "Value": 0.46,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physe.2018.12.004"
+      }
+    ]
+  }
+}

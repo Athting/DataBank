@@ -1,0 +1,26 @@
+{
+  "Material": "Ba0.9Yb0.1Fe3CoSb12",
+  "DOIs_Researched": [
+    "10.1557/jmr.2015.156"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Ba0.9Yb0.1Fe3CoSb12",
+        "Property": "ZT",
+        "Value": 0.8200000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1557/jmr.2015.156"
+      },
+      {
+        "Original_Name_In_Paper": "Ba0.9Yb0.1Fe3CoSb12",
+        "Property": "ZT",
+        "Value": 0.8200000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1557/jmr.2015.156"
+      }
+    ]
+  }
+}

@@ -1,0 +1,540 @@
+{
+  "Material": "CuInTe2",
+  "DOIs_Researched": [
+    "10.1039/c4dt03556a",
+    "10.1016/j.jallcom.2015.01.043",
+    "10.1016/j.apsusc.2018.07.013",
+    "10.1016/j.jallcom.2018.05.035",
+    "10.1016/j.jallcom.2019.153610",
+    "10.1016/j.jallcom.2015.08.128",
+    "10.1016/j.materresbull.2018.01.029",
+    "10.1016/j.physleta.2017.03.011",
+    "10.1039/c8ta03837f",
+    "10.1016/j.nanoen.2016.12.023",
+    "10.1016/j.ensm.2016.01.009",
+    "10.1039/c5cp05129k",
+    "10.1016/j.actamat.2016.11.049",
+    "10.1016/j.jpcs.2015.03.012",
+    "10.1039/c8ta10741f",
+    "10.1016/j.ceramint.2017.08.213",
+    "10.1039/c5ta09584k",
+    "10.1039/c2cc30318c",
+    "10.1039/c3ic90013d",
+    "10.1557/opl.2015.316",
+    "10.1039/c4dt01909a",
+    "10.1039/c3ce40334c",
+    "10.1007/s10854-017-8427-8"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "CuInTe2",
+        "Property": "ThermCond",
+        "Value": 6.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2018.01.029"
+      },
+      {
+        "Original_Name_In_Paper": "CuInTe2",
+        "Property": "ThermCond",
+        "Value": 5.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2015.03.012"
+      },
+      {
+        "Original_Name_In_Paper": "CuInTe2",
+        "Property": "ThermCond",
+        "Value": 7.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.153610"
+      },
+      {
+        "Original_Name_In_Paper": "CuInTe2",
+        "Property": "ThermCond",
+        "Value": 5.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2016.11.049"
+      },
+      {
+        "Original_Name_In_Paper": "CuInTe2",
+        "Property": "ThermCond",
+        "Value": 5.1,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2016.11.049"
+      },
+      {
+        "Original_Name_In_Paper": "CuInTe2",
+        "Property": "ThermCond",
+        "Value": 4.57,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-017-8427-8"
+      },
+      {
+        "Original_Name_In_Paper": "CuInTe2 / graphene composite",
+        "Property": "ThermCond",
+        "Value": 3.21,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ce40334c"
+      },
+      {
+        "Original_Name_In_Paper": "CuInTe2",
+        "Property": "ThermCond",
+        "Value": 3.87,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ce40334c"
+      },
+      {
+        "Original_Name_In_Paper": "CuIn1\u2212xCdxTe2 alloys",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": "substitution of Cd",
+        "Source_DOI": "10.1016/j.jallcom.2015.08.128"
+      },
+      {
+        "Original_Name_In_Paper": "CuInTe2",
+        "Property": "ZT",
+        "Value": 0.028,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.08.128"
+      },
+      {
+        "Original_Name_In_Paper": "CuInTe2 + 6 mol % ZnS",
+        "Property": "Conductivity",
+        "Value": 2133.1058020478,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2016.12.023"
+      },
+      {
+        "Original_Name_In_Paper": "CuInTe2 / graphene composite",
+        "Property": "PF",
+        "Value": 9.3e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ce40334c"
+      },
+      {
+        "Original_Name_In_Paper": "pure CuInTe2",
+        "Property": "Conductivity",
+        "Value": 10000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2015.03.012"
+      },
+      {
+        "Original_Name_In_Paper": "CuInTe2",
+        "Property": "Conductivity",
+        "Value": 3200.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2016.11.049"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "CuInTe2",
+        "Property": "ThermCond",
+        "Value": 0.42,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.05.035"
+      },
+      {
+        "Original_Name_In_Paper": "CuInTe2",
+        "Property": "ThermCond",
+        "Value": 6.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.08.128"
+      },
+      {
+        "Original_Name_In_Paper": "CuInTe2",
+        "Property": "ZT",
+        "Value": 0.017,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2015.03.012"
+      },
+      {
+        "Original_Name_In_Paper": "CuInTe2 / BST",
+        "Property": "Seebeck",
+        "Value": 1.7e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.05.035"
+      },
+      {
+        "Original_Name_In_Paper": "CuInTe2",
+        "Property": "Conductivity",
+        "Value": 14431.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5cp05129k"
+      }
+    ],
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "CuInTe2",
+        "Property": "ThermCond",
+        "Value": 1.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4dt03556a"
+      },
+      {
+        "Original_Name_In_Paper": "CuInTe2",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4dt03556a"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "pure CuInTe2",
+        "Property": "ThermCond",
+        "Value": 1.15,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ce40334c"
+      },
+      {
+        "Original_Name_In_Paper": "CuInTe2 / graphene composite",
+        "Property": "ThermCond",
+        "Value": 1.08,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ce40334c"
+      },
+      {
+        "Original_Name_In_Paper": "CuInTe2 / graphene composite",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ce40334c"
+      },
+      {
+        "Original_Name_In_Paper": "CuInTe2 matrix",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ce40334c"
+      },
+      {
+        "Original_Name_In_Paper": "CuInTe2",
+        "Property": "ZT",
+        "Value": 0.39,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ce40334c"
+      },
+      {
+        "Original_Name_In_Paper": "CuInTe2 / graphene",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ce40334c"
+      },
+      {
+        "Original_Name_In_Paper": "pure CuInTe2",
+        "Property": "ZT",
+        "Value": 0.39,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ce40334c"
+      },
+      {
+        "Original_Name_In_Paper": "CuInTe2 / graphene composites",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta09584k"
+      }
+    ],
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "CuInTe2",
+        "Property": "ZT",
+        "Value": 1.18,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.08.128"
+      },
+      {
+        "Original_Name_In_Paper": "CuInTe2",
+        "Property": "ZT",
+        "Value": 1.18,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta09584k"
+      },
+      {
+        "Original_Name_In_Paper": "p-type CuInTe2",
+        "Property": "ZT",
+        "Value": 1.18,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physleta.2017.03.011"
+      },
+      {
+        "Original_Name_In_Paper": "CuInTe2",
+        "Property": "ZT",
+        "Value": 1.18,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ic90013d"
+      },
+      {
+        "Original_Name_In_Paper": "un-doped CuInTe2",
+        "Property": "ZT",
+        "Value": 1.18,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ensm.2016.01.009"
+      },
+      {
+        "Original_Name_In_Paper": "CuInTe2",
+        "Property": "ZT",
+        "Value": 1.18,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2cc30318c"
+      },
+      {
+        "Original_Name_In_Paper": "CuInTe2",
+        "Property": "ZT",
+        "Value": 1.18,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2cc30318c"
+      },
+      {
+        "Original_Name_In_Paper": "p-type CuInTe2",
+        "Property": "ZT",
+        "Value": 1.72,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5cp05129k"
+      },
+      {
+        "Original_Name_In_Paper": "CuInTe2",
+        "Property": "ZT",
+        "Value": 1.18,
+        "Units": null,
+        "Editing": "substitution of Zn",
+        "Source_DOI": "10.1039/c5cp05129k"
+      },
+      {
+        "Original_Name_In_Paper": "p-type CuInTe2",
+        "Property": "ZT",
+        "Value": 1.72,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5cp05129k"
+      },
+      {
+        "Original_Name_In_Paper": "CuInTe2",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta03837f"
+      },
+      {
+        "Original_Name_In_Paper": "CuInTe2 TE material",
+        "Property": "ZT",
+        "Value": 1.6099999999999999,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta03837f"
+      },
+      {
+        "Original_Name_In_Paper": "CuInTe2",
+        "Property": "ZT",
+        "Value": 1.18,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2015.03.012"
+      },
+      {
+        "Original_Name_In_Paper": "CuInTe2",
+        "Property": "ZT",
+        "Value": 1.18,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2018.07.013"
+      },
+      {
+        "Original_Name_In_Paper": "CuInTe2",
+        "Property": "PF",
+        "Value": 0.0013000000000000002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2018.01.029"
+      }
+    ],
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "CuInTe2\u20130.5 % SnO2",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-017-8427-8"
+      },
+      {
+        "Original_Name_In_Paper": "CuInTe2\u20130.50 % SnO2",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-017-8427-8"
+      },
+      {
+        "Original_Name_In_Paper": "pure CuInTe2",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-017-8427-8"
+      },
+      {
+        "Original_Name_In_Paper": "CuInTe2\u20130.5 % SnO2",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-017-8427-8"
+      },
+      {
+        "Original_Name_In_Paper": "CuInTe2+6 mol % ZnS",
+        "Property": "ZT",
+        "Value": 1.52,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2016.12.023"
+      },
+      {
+        "Original_Name_In_Paper": "CuInTe2-based compounds",
+        "Property": "ZT",
+        "Value": 1.52,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta10741f"
+      }
+    ],
+    "710.0": [
+      {
+        "Original_Name_In_Paper": "CuInTe2",
+        "Property": "ZT",
+        "Value": 0.54,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2017.08.213"
+      }
+    ],
+    "820.0": [
+      {
+        "Original_Name_In_Paper": "Cu0.96InTe2",
+        "Property": "ZT",
+        "Value": 0.8300000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2017.08.213"
+      }
+    ],
+    "737.0": [
+      {
+        "Original_Name_In_Paper": "Zn-free CuInTe2",
+        "Property": "ZT",
+        "Value": 0.6900000000000001,
+        "Units": null,
+        "Editing": "Zn substitution",
+        "Source_DOI": "10.1039/c4dt01909a"
+      }
+    ],
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "CuInTe2",
+        "Property": "ZT",
+        "Value": 0.27,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4dt01909a"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "pure CuInTe2 compound",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1557/opl.2015.316"
+      }
+    ],
+    "475.0": [
+      {
+        "Original_Name_In_Paper": "pure CuInTe2",
+        "Property": "ZT",
+        "Value": 0.14,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2015.03.012"
+      }
+    ],
+    "681.0": [
+      {
+        "Original_Name_In_Paper": "CuInTe2",
+        "Property": "PF",
+        "Value": 0.000177,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta10741f"
+      },
+      {
+        "Original_Name_In_Paper": "Cu-deficient CuInTe2",
+        "Property": "PF",
+        "Value": 0.000923,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta10741f"
+      }
+    ],
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "CuInTe2",
+        "Property": "PF",
+        "Value": 0.0008,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.01.043"
+      }
+    ],
+    "515.0": [
+      {
+        "Original_Name_In_Paper": "CuIn.99Zn.01Te2",
+        "Property": "PF",
+        "Value": 0.00117,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.01.043"
+      }
+    ]
+  }
+}

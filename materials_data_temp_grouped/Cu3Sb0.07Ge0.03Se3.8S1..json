@@ -1,0 +1,18 @@
+{
+  "Material": "Cu3Sb0.07Ge0.03Se3.8S1.",
+  "DOIs_Researched": [
+    "10.1039/c4ra07609e"
+  ],
+  "Data_By_Temperature": {
+    "650.0": [
+      {
+        "Original_Name_In_Paper": "Cu3Sb0.07Ge0.03Se3.8S1.2",
+        "Property": "ZT",
+        "Value": 0.89,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra07609e"
+      }
+    ]
+  }
+}

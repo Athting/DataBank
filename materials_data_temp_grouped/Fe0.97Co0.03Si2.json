@@ -1,0 +1,18 @@
+{
+  "Material": "Fe0.97Co0.03Si2",
+  "DOIs_Researched": [
+    "10.1016/j.matpr.2019.02.050"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Fe0.97Co0.03Si2",
+        "Property": "ZT",
+        "Value": 0.15,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matpr.2019.02.050"
+      }
+    ]
+  }
+}

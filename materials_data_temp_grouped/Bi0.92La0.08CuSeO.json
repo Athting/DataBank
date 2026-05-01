@@ -1,0 +1,29 @@
+{
+  "Material": "Bi0.92La0.08CuSeO",
+  "DOIs_Researched": [
+    "10.1039/c8tc02700e",
+    "10.1016/j.matdes.2019.108263"
+  ],
+  "Data_By_Temperature": {
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.92La0.08CuSeO",
+        "Property": "ZT",
+        "Value": 0.74,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8tc02700e"
+      }
+    ],
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.92La0.08CuSeO",
+        "Property": "ZT",
+        "Value": 0.64,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matdes.2019.108263"
+      }
+    ]
+  }
+}

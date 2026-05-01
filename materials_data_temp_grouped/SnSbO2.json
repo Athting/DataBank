@@ -1,0 +1,34 @@
+{
+  "Material": "SnSbO2",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2016.09.062"
+  ],
+  "Data_By_Temperature": {
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.99Sb0.01O2",
+        "Property": "ZT",
+        "Value": 0.06,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.09.062"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.99Sb0.01O2",
+        "Property": "ZT",
+        "Value": 0.06,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.09.062"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.99Sb0.01O2",
+        "Property": "ZT",
+        "Value": 0.06,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.09.062"
+      }
+    ]
+  }
+}

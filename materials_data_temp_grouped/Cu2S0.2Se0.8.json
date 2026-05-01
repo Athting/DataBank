@@ -1,0 +1,18 @@
+{
+  "Material": "Cu2S0.2Se0.8",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2018.10.049"
+  ],
+  "Data_By_Temperature": {
+    "950.0": [
+      {
+        "Original_Name_In_Paper": "Cu2S0.2Se0.8",
+        "Property": "ZT",
+        "Value": 1.65,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2018.10.049"
+      }
+    ]
+  }
+}

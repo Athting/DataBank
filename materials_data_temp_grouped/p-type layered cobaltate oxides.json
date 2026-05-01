@@ -1,0 +1,18 @@
+{
+  "Material": "p-type layered cobaltate oxides",
+  "DOIs_Researched": [
+    "10.1039/c7ee01510k"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "p-type layered cobaltate oxides",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ee01510k"
+      }
+    ]
+  }
+}

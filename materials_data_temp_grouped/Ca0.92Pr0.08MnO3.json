@@ -1,0 +1,26 @@
+{
+  "Material": "Ca0.92Pr0.08MnO3",
+  "DOIs_Researched": [
+    "10.1016/S1002-0721(12)60374-3"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Ca0.92Pr0.08MnO3 compound",
+        "Property": "ZT",
+        "Value": 0.16,
+        "Units": null,
+        "Editing": "Pr doping",
+        "Source_DOI": "10.1016/S1002-0721(12)60374-3"
+      },
+      {
+        "Original_Name_In_Paper": "Ca0.92Pr0.08MnO3 compound",
+        "Property": "ZT",
+        "Value": 0.16,
+        "Units": null,
+        "Editing": "Pr doping",
+        "Source_DOI": "10.1016/S1002-0721(12)60374-3"
+      }
+    ]
+  }
+}

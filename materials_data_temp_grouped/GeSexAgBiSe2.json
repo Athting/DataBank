@@ -1,0 +1,18 @@
+{
+  "Material": "GeSexAgBiSe2",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2017.09.029"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ge-doped quaternary (GeSe)x(AgBiSe2)1-x",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2017.09.029"
+      }
+    ]
+  }
+}

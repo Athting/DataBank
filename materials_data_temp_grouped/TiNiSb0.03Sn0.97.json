@@ -1,0 +1,18 @@
+{
+  "Material": "TiNiSb0.03Sn0.97",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2017.04.100"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "TiNiSb0.03Sn0.97",
+        "Property": "PF",
+        "Value": 0.002678,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2017.04.100"
+      }
+    ]
+  }
+}

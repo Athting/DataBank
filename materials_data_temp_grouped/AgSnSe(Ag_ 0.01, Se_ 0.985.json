@@ -1,0 +1,18 @@
+{
+  "Material": "AgSnSe(Ag: 0.01, Se: 0.985",
+  "DOIs_Researched": [
+    "10.1039/c9ta03252e"
+  ],
+  "Data_By_Temperature": {
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "Ag0.01Sn0.99Se0.985S0.015",
+        "Property": "ZT",
+        "Value": 1.67,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta03252e"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Mn1.06Li0.02Te0.99S0.0",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2019.01.003"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Mn1.06Li0.02Te0.99S0.01",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2019.01.003"
+      }
+    ]
+  }
+}

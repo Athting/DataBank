@@ -1,0 +1,18 @@
+{
+  "Material": "films",
+  "DOIs_Researched": [
+    "10.1016/S0379-6779(98)01494-5"
+  ],
+  "Data_By_Temperature": {
+    "233.0": [
+      {
+        "Original_Name_In_Paper": "films",
+        "Property": "Conductivity",
+        "Value": 30000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0379-6779(98)01494-5"
+      }
+    ]
+  }
+}

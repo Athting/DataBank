@@ -1,0 +1,56 @@
+{
+  "Material": "Ti0.6Hf0.4Co0.87Ni0.13",
+  "DOIs_Researched": [
+    "10.1007/s10853-020-04949-0",
+    "10.1039/c9tc06318h",
+    "10.1016/j.progsolidstchem.2011.02.001",
+    "10.1016/j.nanoen.2012.10.005",
+    "10.1016/j.mtphys.2017.05.002"
+  ],
+  "Data_By_Temperature": {
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "Ti0.6Hf0.4Co0.87Ni0.13Sb",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2017.05.002"
+      },
+      {
+        "Original_Name_In_Paper": "Ti0.6Hf0.4Co0.87Ni0.13Sb",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2012.10.005"
+      },
+      {
+        "Original_Name_In_Paper": "Ti0.6Hf0.4Co0.87Ni0.13Sb",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.progsolidstchem.2011.02.001"
+      },
+      {
+        "Original_Name_In_Paper": "Ti0.6Hf0.4Co0.87Ni0.13Sb",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      }
+    ],
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "n-type Ti0.6Hf0.4Co0.87Ni0.13Sb",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc06318h"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "3 wt % of Al2O3 nanoparticles",
+  "DOIs_Researched": [
+    "10.1016/j.rser.2016.06.035"
+  ],
+  "Data_By_Temperature": {
+    "398.0": [
+      {
+        "Original_Name_In_Paper": "3 wt % of Al2O3 nanoparticles",
+        "Property": "ZT",
+        "Value": 1.22,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rser.2016.06.035"
+      }
+    ]
+  }
+}

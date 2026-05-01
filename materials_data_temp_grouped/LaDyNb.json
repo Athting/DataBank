@@ -1,0 +1,26 @@
+{
+  "Material": "LaDyNb",
+  "DOIs_Researched": [
+    "10.1016/j.jmst.2020.02.065"
+  ],
+  "Data_By_Temperature": {
+    "1100.0": [
+      {
+        "Original_Name_In_Paper": "LaDyNb-20",
+        "Property": "ThermCond",
+        "Value": 4.39,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmst.2020.02.065"
+      },
+      {
+        "Original_Name_In_Paper": "LaDy-Nb0",
+        "Property": "ThermCond",
+        "Value": 1.09,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmst.2020.02.065"
+      }
+    ]
+  }
+}

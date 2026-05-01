@@ -1,0 +1,18 @@
+{
+  "Material": "CuAl",
+  "DOIs_Researched": [
+    "10.1016/j.vacuum.2013.05.019"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Cu\u2013Al",
+        "Property": "Conductivity",
+        "Value": 1.0869565217,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.vacuum.2013.05.019"
+      }
+    ]
+  }
+}

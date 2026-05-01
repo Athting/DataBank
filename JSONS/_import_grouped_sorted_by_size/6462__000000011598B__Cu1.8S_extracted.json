@@ -1,0 +1,438 @@
+{
+  "doi": "10.1016/j.jallcom.2018.06.116",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Cu1.8S",
+        "pristine Cu1.8S",
+        "pure Cu1.8S bulk",
+        "Pure Cu1.8S",
+        "pure Cu1.8S",
+        "bulk Cu1.8S",
+        "Cu1.8S + 2 % LaCl3",
+        "Cu1.8S with 2 wt % LaCl3",
+        "Cu1.8S+2 wt % Na2S",
+        "Cu1.8S bulk samples with PbS",
+        "Cu1.8S with 1 wt % PrCl3",
+        "Cu1.8S with 2 % Na2S",
+        "pristine Cu1.8S bulk",
+        "Cu1.8S compounds"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "Cu1.8S",
+          "value": 0.000014999999999999999,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Cu1.8S",
+          "value": 0.000014999999999999999,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure Cu1.8S bulk",
+          "value": 0.000096,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "bulk Cu1.8S",
+          "value": 0.000073,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "pure Cu1.8S",
+          "value": 0.0017100000000000001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "Cu1.8S bulk samples with PbS",
+          "value": 0.00010499999999999999,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Cu1.8S with 1 wt % PrCl3",
+          "value": 0.000135,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Cu1.8S with 2 % Na2S",
+          "value": 0.000106,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Cu1.8S compounds",
+          "value": 0.00001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "973.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "Cu1.8S",
+          "value": 280000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Cu1.8S",
+          "value": 280000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure Cu1.8S bulk",
+          "value": 356000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "Cu1.8S",
+          "value": 327200,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "pure Cu1.8S bulk",
+          "value": 350000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "375.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Cu1.8S",
+          "value": 1.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Cu1.8S",
+          "value": 1.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Cu1.8S",
+          "value": 2.21,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "pristine Cu1.8S",
+          "value": 4.8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "Cu1.8S",
+          "value": 2.21,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "Cu1.8S",
+          "value": 1.8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "Cu1.8S",
+          "value": 1.8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "Cu1.8S",
+          "value": 2.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "pristine Cu1.8S",
+          "value": 2.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "bulk Cu1.8S",
+          "value": 1.15,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "pristine Cu1.8S",
+          "value": 1.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "pure Cu1.8S",
+          "value": 0.00099,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "Cu1.8S",
+          "value": 0.000821,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "pristine Cu1.8S bulk",
+          "value": 0.0012000000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "pure Cu1.8S",
+          "value": 0.001237,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "pure Cu1.8S",
+          "value": 0.0012000000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "bulk Cu1.8S",
+          "value": 0.001552,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "pristine Cu1.8S",
+          "value": 0.001237,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "pristine Cu1.8S",
+          "zt_value": 0.32,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "Pure Cu1.8S",
+          "zt_value": 0.31,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "pristine Cu1.8S",
+          "zt_value": 0.32,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "pristine Cu1.8S",
+          "zt_value": 0.30000000000000004,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "pristine Cu1.8S",
+          "zt_value": 0.30000000000000004,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "pristine Cu1.8S",
+          "zt_value": 0.26,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "Cu1.8S",
+          "zt_value": 0.26,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "pristine Cu1.8S",
+          "zt_value": 0.26,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "pure Cu1.8S",
+          "zt_value": 0.61,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "pristine Cu1.8S",
+          "zt_value": 0.30000000000000004,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "bulk Cu1.8S",
+          "zt_value": 0.49,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "pure Cu1.8S bulk",
+          "zt_value": 0.30000000000000004,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "Cu1.8S",
+          "zt_value": 0.5,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "pristine Cu1.8S",
+          "zt_value": 0.30000000000000004,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "Cu1.8S",
+          "zt_value": 0.61,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "Cu1.8S",
+          "zt_value": 0.5,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "pristine Cu1.8S",
+          "zt_value": 0.49,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "pristine Cu1.8S",
+          "zt_value": 0.45,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "pristine Cu1.8S",
+          "zt_value": 0.45,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Cu1.8S + 2 % LaCl3",
+          "zt_value": 1.2,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Cu1.8S with 2 wt % LaCl3",
+          "zt_value": 1.2,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Cu1.8S + 2 % LaCl3",
+          "zt_value": 1.2,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Cu1.8S",
+          "zt_value": 0.5,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Cu1.8S+2 wt % Na2S",
+          "zt_value": 0.78,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "pristine Cu1.8S",
+          "zt_value": 0.49,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "pure Cu1.8S",
+          "zt_value": 0.49,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "pristine Cu1.8S",
+          "zt_value": 0.54,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "pristine Cu1.8S",
+          "zt_value": 0.54,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "pristine Cu1.8S",
+          "zt_value": 0.54,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "pristine Cu1.8S",
+          "zt_value": 0.54,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Cu1.8S",
+          "zt_value": 0.30000000000000004,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "pristine Cu1.8S",
+          "zt_value": 0.49,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "pure Cu1.8S",
+          "zt_value": 0.49,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "pure Cu1.8S",
+          "zt_value": 0.49,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "pure Cu1.8S",
+          "zt_value": 0.49,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Cu1.8S",
+          "zt_value": 1.56,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Cu1.8S",
+          "zt_value": 0.13,
+          "temperature": "623.0 K"
+        },
+        {
+          "material": "Cu1.8S",
+          "zt_value": 0.5,
+          "temperature": "1173.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

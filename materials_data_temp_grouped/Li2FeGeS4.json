@@ -1,0 +1,26 @@
+{
+  "Material": "Li2FeGeS4",
+  "DOIs_Researched": [
+    "10.1016/j.ssi.2015.05.019"
+  ],
+  "Data_By_Temperature": {
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "Li2FeGeS4",
+        "Property": "Conductivity",
+        "Value": 400.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssi.2015.05.019"
+      },
+      {
+        "Original_Name_In_Paper": "Li2FeGeS4",
+        "Property": "Conductivity",
+        "Value": 400.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssi.2015.05.019"
+      }
+    ]
+  }
+}

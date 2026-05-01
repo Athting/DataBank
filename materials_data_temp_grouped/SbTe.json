@@ -1,0 +1,48 @@
+{
+  "Material": "SbTe",
+  "DOIs_Researched": [
+    "10.1039/b915107a",
+    "10.1007/s13204-012-0139-z",
+    "10.1016/j.mattod.2017.02.007"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "SbTe",
+        "Property": "ZT",
+        "Value": 1.05,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mattod.2017.02.007"
+      },
+      {
+        "Original_Name_In_Paper": "Antimony telluride",
+        "Property": "Conductivity",
+        "Value": 105.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/b915107a"
+      }
+    ],
+    "304.0": [
+      {
+        "Original_Name_In_Paper": "antimony telluride",
+        "Property": "Conductivity",
+        "Value": 1567.3981191223,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s13204-012-0139-z"
+      }
+    ],
+    "314.0": [
+      {
+        "Original_Name_In_Paper": "antimony telluride",
+        "Property": "Seebeck",
+        "Value": 0.00024000000000000003,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s13204-012-0139-z"
+      }
+    ]
+  }
+}

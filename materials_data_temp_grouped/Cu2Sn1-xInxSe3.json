@@ -1,0 +1,56 @@
+{
+  "Material": "Cu2Sn1-xInxSe3",
+  "DOIs_Researched": [
+    "10.1016/j.matchemphys.2016.04.044",
+    "10.1016/j.jallcom.2011.11.133",
+    "10.1039/c5nj03345d"
+  ],
+  "Data_By_Temperature": {
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "Cu2Sn1\u2212xInxSe3",
+        "Property": "ZT",
+        "Value": 1.28,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5nj03345d"
+      }
+    ],
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "Cu2Sn1\u2212xInxSe3",
+        "Property": "ZT",
+        "Value": 1.1400000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2011.11.133"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Cu2Sn1\u2212xInxSe3",
+        "Property": "ZT",
+        "Value": 0.65,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2016.04.044"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2Sn1\u2212xInxSe3",
+        "Property": "ZT",
+        "Value": 0.65,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2016.04.044"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2Sn1\u2212xInxSe3",
+        "Property": "ZT",
+        "Value": 0.65,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2016.04.044"
+      }
+    ]
+  }
+}

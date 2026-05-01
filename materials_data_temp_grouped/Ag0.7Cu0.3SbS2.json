@@ -1,0 +1,18 @@
+{
+  "Material": "Ag0.7Cu0.3SbS2",
+  "DOIs_Researched": [
+    "10.1016/j.matchemphys.2013.11.048"
+  ],
+  "Data_By_Temperature": {
+    "287.0": [
+      {
+        "Original_Name_In_Paper": "Ag0.7Cu0.3SbS2",
+        "Property": "Conductivity",
+        "Value": 0.0055000000000000005,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2013.11.048"
+      }
+    ]
+  }
+}

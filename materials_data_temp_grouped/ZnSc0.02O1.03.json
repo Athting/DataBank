@@ -1,0 +1,18 @@
+{
+  "Material": "ZnSc0.02O1.03",
+  "DOIs_Researched": [
+    "10.1039/c6ta03126a"
+  ],
+  "Data_By_Temperature": {
+    "1173.0": [
+      {
+        "Original_Name_In_Paper": "ZnSc0.02O1.03",
+        "Property": "ZT",
+        "Value": 0.075,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta03126a"
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "Material": "CaCoNiSb11.80",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2007.11.144",
+    "10.1007/s10854-017-8031-y"
+  ],
+  "Data_By_Temperature": {
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "n-type Ca0.15Co3.98Ni0.02Sb11.80",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2007.11.144"
+      },
+      {
+        "Original_Name_In_Paper": "n-type Ca0.15Co3.98Ni0.02Sb11.80",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-017-8031-y"
+      }
+    ]
+  }
+}

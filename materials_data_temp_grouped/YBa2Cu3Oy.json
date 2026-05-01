@@ -1,0 +1,72 @@
+{
+  "Material": "YBa2Cu3Oy",
+  "DOIs_Researched": [
+    "10.1016/S0921-4534(03)00697-X"
+  ],
+  "Data_By_Temperature": {
+    "1233.0": [
+      {
+        "Original_Name_In_Paper": "YBa2Cu3Oy",
+        "Property": "Conductivity",
+        "Value": 1773.0496453901,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0921-4534(03)00697-X"
+      }
+    ],
+    "619.0": [
+      {
+        "Original_Name_In_Paper": "YBa2Cu3Oy",
+        "Property": "Conductivity",
+        "Value": 2145.9227467811,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0921-4534(03)00697-X"
+      }
+    ],
+    "313.0": [
+      {
+        "Original_Name_In_Paper": "YBa2Cu3Oy",
+        "Property": "Conductivity",
+        "Value": 3.125,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0921-4534(03)00697-X"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "YBa2Cu3Oy",
+        "Property": "Conductivity",
+        "Value": 5617.9775280899,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0921-4534(03)00697-X"
+      },
+      {
+        "Original_Name_In_Paper": "YBa2Cu3Oy",
+        "Property": "Conductivity",
+        "Value": 50000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0921-4534(03)00697-X"
+      },
+      {
+        "Original_Name_In_Paper": "YBa2Cu3Oy",
+        "Property": "Conductivity",
+        "Value": 20000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0921-4534(03)00697-X"
+      },
+      {
+        "Original_Name_In_Paper": "YBa2Cu3Oy",
+        "Property": "Conductivity",
+        "Value": 22988.5057471264,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0921-4534(03)00697-X"
+      }
+    ]
+  }
+}

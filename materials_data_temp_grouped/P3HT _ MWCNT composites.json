@@ -1,0 +1,18 @@
+{
+  "Material": "P3HT / MWCNT composites",
+  "DOIs_Researched": [
+    "10.1016/j.compositesb.2014.10.007"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "P3HT / MWCNT composites",
+        "Property": "PF",
+        "Value": 2.2000000000000003e-09,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.compositesb.2014.10.007"
+      }
+    ]
+  }
+}

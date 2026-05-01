@@ -1,0 +1,18 @@
+{
+  "Material": "CoSb2.75Te",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2013.07.032"
+  ],
+  "Data_By_Temperature": {
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "Te-rich CoSb2.75GeyTex",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2013.07.032"
+      }
+    ]
+  }
+}

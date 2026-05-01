@@ -1,0 +1,27 @@
+{
+  "Material": "Sc2C(OH)2",
+  "DOIs_Researched": [
+    "10.1039/c7tc00140a",
+    "10.1007/s40820-020-0374-x"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Sc2C(OH)2",
+        "Property": "ThermCond",
+        "Value": 78.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7tc00140a"
+      },
+      {
+        "Original_Name_In_Paper": "Sc2C(OH)2",
+        "Property": "Seebeck",
+        "Value": 0.000372,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s40820-020-0374-x"
+      }
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "doi": "10.1016/j.physb.2011.04.032",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "antimony sulfide thin films",
+        "pure Sb2S3",
+        "Sb2S3",
+        "antimony trisulfide"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "antimony trisulfide",
+          "value": 0.000075,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "220.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "antimony sulfide thin films",
+          "value": 3.4818941504,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure Sb2S3",
+          "value": 10,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Sb2S3",
+          "value": 3.3411293017,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "593.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": []
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

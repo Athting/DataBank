@@ -1,0 +1,18 @@
+{
+  "Material": "Bi2Te3 / Sb2Te3 based superlattice thin films",
+  "DOIs_Researched": [
+    "10.1039/c2ce06348d"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Bi2Te3 / Sb2Te3 based superlattice thin films",
+        "Property": "ZT",
+        "Value": 2.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2ce06348d"
+      }
+    ]
+  }
+}

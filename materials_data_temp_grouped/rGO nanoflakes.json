@@ -1,0 +1,18 @@
+{
+  "Material": "rGO nanoflakes",
+  "DOIs_Researched": [
+    "10.1016/B978-0-12-819576-5.00006-2"
+  ],
+  "Data_By_Temperature": {
+    "1193.0": [
+      {
+        "Original_Name_In_Paper": "rGO nanoflakes",
+        "Property": "ThermCond",
+        "Value": 4.01,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-12-819576-5.00006-2"
+      }
+    ]
+  }
+}

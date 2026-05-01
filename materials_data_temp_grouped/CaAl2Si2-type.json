@@ -1,0 +1,18 @@
+{
+  "Material": "CaAl2Si2-type",
+  "DOIs_Researched": [
+    "10.1038/s41524-019-0215-y"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "CaAl2Si2-type",
+        "Property": "ThermCond",
+        "Value": 0.6000000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41524-019-0215-y"
+      }
+    ]
+  }
+}

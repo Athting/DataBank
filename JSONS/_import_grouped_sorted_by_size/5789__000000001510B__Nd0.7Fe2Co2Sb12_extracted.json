@@ -1,0 +1,68 @@
+{
+  "doi": "10.1016/j.ceramint.2017.03.011",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Nd0.7Fe2Co2Sb12"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Nd0.7Fe2Co2Sb12",
+          "value": 0.76,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "676.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Nd0.7Fe2Co2Sb12",
+          "value": 0.258,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "714.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Nd0.7Fe2Co2Sb12",
+          "zt_value": 0.98,
+          "temperature": "740.0 K"
+        },
+        {
+          "material": "Nd0.7Fe2Co2Sb12",
+          "zt_value": 0.98,
+          "temperature": "740.0 K"
+        },
+        {
+          "material": "Nd0.7Fe2Co2Sb12",
+          "zt_value": 0.98,
+          "temperature": "740.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

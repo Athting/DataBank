@@ -1,0 +1,26 @@
+{
+  "Material": "AuAlYb",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2015.08.081"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Au48Al37Yb15",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.08.081"
+      },
+      {
+        "Original_Name_In_Paper": "Au48Al37Yb15",
+        "Property": "ZT",
+        "Value": 0.014,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.08.081"
+      }
+    ]
+  }
+}

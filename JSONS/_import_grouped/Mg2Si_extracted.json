@@ -1,0 +1,449 @@
+{
+  "doi": "10.1016/j.mser.2016.08.001",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Mg2Si",
+        "polycrystalline Mg2Si",
+        "single-crystal Mg2Si",
+        "nanotwinned Mg2Si",
+        "single crystalline Mg2Si",
+        "pure Mg2Si",
+        "nanostuctured Mg2Si",
+        "p-type Mg2Si",
+        "Pure Mg2Si",
+        "Sn-doped Mg2Si",
+        "Undoped Mg2Si",
+        "Mg2(Si",
+        "n-type Mg2(Si"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "Mg2Si",
+          "value": -0.00075,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Mg2Si",
+          "value": 0.0005700000000000001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Mg2Si",
+          "value": 0.00028000000000000003,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "Mg2Si",
+          "value": 0.000388,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "623.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "Mg2Si",
+          "value": 260000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Mg2Si",
+          "value": 5680,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Mg2Si",
+          "value": 4980,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "Mg2Si",
+          "value": 5250,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "Mg2Si",
+          "value": 63000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "723.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Mg2Si",
+          "value": 10,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Mg2Si",
+          "value": 6,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Mg2Si",
+          "value": 10,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Mg2Si",
+          "value": 10,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "polycrystalline Mg2Si",
+          "value": 10,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Mg2Si",
+          "value": 8.75,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Mg2Si",
+          "value": 12.14,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Mg2Si",
+          "value": 9.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "single-crystal Mg2Si",
+          "value": 106.72,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "polycrystalline Mg2Si",
+          "value": 1.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Mg2Si",
+          "value": 2.8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Mg2Si",
+          "value": 7.9,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "nanotwinned Mg2Si",
+          "value": 1.42,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "single crystalline Mg2Si",
+          "value": 11.8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Mg2Si",
+          "value": 150,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Mg2Si",
+          "value": 5.6,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "310.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Mg2Si",
+          "value": 0.0018000000000000002,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "Mg2Si",
+          "value": 0.0033,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "Mg2(Si",
+          "value": 0.0017000000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "Mg2Si",
+          "value": 0.0029000000000000002,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "500.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Mg2Si",
+          "zt_value": 0.14,
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure Mg2Si",
+          "zt_value": 0.0018300000000000002,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Mg2Si",
+          "zt_value": 0.74,
+          "temperature": "840.0 K"
+        },
+        {
+          "material": "Mg2Si",
+          "zt_value": 0.74,
+          "temperature": "840.0 K"
+        },
+        {
+          "material": "Mg2Si",
+          "zt_value": 1.08,
+          "temperature": "550.0 K"
+        },
+        {
+          "material": "Mg2Si",
+          "zt_value": 0.47000000000000003,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "nanostuctured Mg2Si",
+          "zt_value": 0.36,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "Mg2Si",
+          "zt_value": 0.7000000000000001,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "Mg2Si",
+          "zt_value": 0.04,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "Mg2Si",
+          "zt_value": 0.7000000000000001,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "Mg2Si",
+          "zt_value": 0.11,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "Mg2Si",
+          "zt_value": 0.11,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "p-type Mg2Si",
+          "zt_value": 0.7000000000000001,
+          "temperature": "675.0 K"
+        },
+        {
+          "material": "Mg2Si",
+          "zt_value": 0.7000000000000001,
+          "temperature": "775.0 K"
+        },
+        {
+          "material": "Pure Mg2Si",
+          "zt_value": 0.7000000000000001,
+          "temperature": "775.0 K"
+        },
+        {
+          "material": "Mg2Si",
+          "zt_value": 0.7000000000000001,
+          "temperature": "775.0 K"
+        },
+        {
+          "material": "Mg2Si",
+          "zt_value": 1.9,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "Mg2Si",
+          "zt_value": 0.5,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "Mg2Si",
+          "zt_value": 1,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "Mg2Si",
+          "zt_value": 0.8,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "Mg2Si",
+          "zt_value": 0.8,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "Sn-doped Mg2Si",
+          "zt_value": 0.78,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "Mg2Si",
+          "zt_value": 1.1,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "Mg2Si",
+          "zt_value": 1.2,
+          "temperature": "770.0 K"
+        },
+        {
+          "material": "Mg2Si",
+          "zt_value": 0.13,
+          "temperature": "653.0 K"
+        },
+        {
+          "material": "Mg2Si",
+          "zt_value": 0.75,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "Undoped Mg2Si",
+          "zt_value": 0.06,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "Mg2Si",
+          "zt_value": 1.2,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "Mg2Si",
+          "zt_value": 0.86,
+          "temperature": "862.0 K"
+        },
+        {
+          "material": "Mg2Si",
+          "zt_value": 0.86,
+          "temperature": "862.0 K"
+        },
+        {
+          "material": "Mg2Si",
+          "zt_value": 1.3,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "Mg2Si",
+          "zt_value": 0.16,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "Mg2Si",
+          "zt_value": 0.5,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "p-type Mg2Si",
+          "zt_value": 0.11,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "pure Mg2Si",
+          "zt_value": 0.74,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Mg2Si",
+          "zt_value": 0.41000000000000003,
+          "temperature": "660.0 K"
+        },
+        {
+          "material": "pure Mg2Si",
+          "zt_value": 0.41000000000000003,
+          "temperature": "660.0 K"
+        },
+        {
+          "material": "pure Mg2Si",
+          "zt_value": 0.41000000000000003,
+          "temperature": "660.0 K"
+        },
+        {
+          "material": "Mg2Si",
+          "zt_value": 0.36,
+          "temperature": "811.0 K"
+        },
+        {
+          "material": "Mg2Si",
+          "zt_value": 0.5,
+          "temperature": "860.0 K"
+        },
+        {
+          "material": "n-type Mg2(Si",
+          "zt_value": 1.1,
+          "temperature": "870.0 K"
+        },
+        {
+          "material": "Mg2Si",
+          "zt_value": 1.9,
+          "temperature": "803.0 K"
+        },
+        {
+          "material": "Mg2Si",
+          "zt_value": 0.29,
+          "temperature": "844.0 K"
+        },
+        {
+          "material": "Mg2Si",
+          "zt_value": 0.67,
+          "temperature": "773.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

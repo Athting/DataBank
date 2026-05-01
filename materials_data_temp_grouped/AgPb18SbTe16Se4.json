@@ -1,0 +1,18 @@
+{
+  "Material": "AgPb18SbTe16Se4",
+  "DOIs_Researched": [
+    "10.1016/j.cap.2011.05.035"
+  ],
+  "Data_By_Temperature": {
+    "623.0": [
+      {
+        "Original_Name_In_Paper": "AgPb18SbTe16Se4",
+        "Property": "ThermCond",
+        "Value": 0.53,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2011.05.035"
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Material": "Si-rich HMS",
+  "DOIs_Researched": [
+    "10.1039/c5tc01536g",
+    "10.1016/j.mssp.2019.104649"
+  ],
+  "Data_By_Temperature": {
+    "725.0": [
+      {
+        "Original_Name_In_Paper": "Si-rich HMS",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2019.104649"
+      }
+    ],
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "Si-rich HMS",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01536g"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Si-rich HMS",
+        "Property": "Conductivity",
+        "Value": 17000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2019.104649"
+      }
+    ]
+  }
+}

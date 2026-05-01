@@ -1,0 +1,126 @@
+{
+  "doi": "10.1007/s00339-019-2822-3",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "iron oxide nanoparticles",
+        "α-Fe2O3",
+        "natural hematite",
+        "Fe2O3 thin films",
+        "Fe2O3",
+        "ferric oxide",
+        "Ag-free Fe2O3"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "α-Fe2O3",
+          "value": -0.0006500000000000001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Fe2O3 thin films",
+          "value": 0.0016500000000000002,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "270.0 K"
+        },
+        {
+          "material": "Fe2O3 thin films",
+          "value": 0.0016500000000000002,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "270.0 K"
+        },
+        {
+          "material": "Fe2O3 thin films",
+          "value": 0.0016500000000000002,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "270.0 K"
+        },
+        {
+          "material": "Fe2O3",
+          "value": 0.000107,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "343.0 K"
+        },
+        {
+          "material": "Fe2O3",
+          "value": -0.000054499999999999997,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "338.0 K"
+        },
+        {
+          "material": "ferric oxide",
+          "value": 0.000158,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "423.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "natural hematite",
+          "value": 11.6,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "ferric oxide",
+          "value": 0.0017000000000000001,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "423.0 K"
+        },
+        {
+          "material": "Fe2O3",
+          "value": 0.013000000000000001,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "548.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "α-Fe2O3",
+          "value": 3.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "873.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Ag-free Fe2O3",
+          "value": 0.0000014,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1073.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "iron oxide nanoparticles",
+          "zt_value": 0.1,
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

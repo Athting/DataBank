@@ -1,0 +1,79 @@
+{
+  "doi": "10.1039/c9ta06889a",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Mg3Sb2 monolayer",
+        "Mg3Sb2-based",
+        "n-type Mg3Sb2-based compounds",
+        "p-type Mg3Sb2 materials",
+        "Mg3Sb2 compounds",
+        "n-type Mg3Sb2-based compound"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Mg3Sb2 monolayer",
+          "zt_value": 2,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "Mg3Sb2-based",
+          "zt_value": 0.6000000000000001,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "n-type Mg3Sb2-based compounds",
+          "zt_value": 1.5,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "p-type Mg3Sb2 materials",
+          "zt_value": 0.2,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "n-type Mg3Sb2-based compounds",
+          "zt_value": 1.65,
+          "temperature": "725.0 K"
+        },
+        {
+          "material": "Mg3Sb2 compounds",
+          "zt_value": 0.18,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "n-type Mg3Sb2-based compound",
+          "zt_value": 1.51,
+          "temperature": "716.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

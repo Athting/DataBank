@@ -1,0 +1,29 @@
+{
+  "Material": "LaBO2",
+  "DOIs_Researched": [
+    "10.1016/j.jeurceramsoc.2015.12.001",
+    "10.1039/c5tc02016f"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "bulk La-doped STO",
+        "Property": "ZT",
+        "Value": 0.37,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2015.12.001"
+      }
+    ],
+    "450.0": [
+      {
+        "Original_Name_In_Paper": "bulk La-doped STO",
+        "Property": "Conductivity",
+        "Value": 15000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc02016f"
+      }
+    ]
+  }
+}

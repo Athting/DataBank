@@ -1,0 +1,18 @@
+{
+  "Material": "K8Ge44",
+  "DOIs_Researched": [
+    "10.1039/c9tc04023d"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "K8Ge44\u25a12",
+        "Property": "ThermCond",
+        "Value": 1.1,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc04023d"
+      }
+    ]
+  }
+}

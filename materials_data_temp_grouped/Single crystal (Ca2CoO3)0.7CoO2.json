@@ -1,0 +1,18 @@
+{
+  "Material": "Single crystal (Ca2CoO3)0.7CoO2",
+  "DOIs_Researched": [
+    "10.1039/c3ta01594g"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "Single crystal (Ca2CoO3)0.7CoO2",
+        "Property": "ZT",
+        "Value": 0.87,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta01594g"
+      }
+    ]
+  }
+}

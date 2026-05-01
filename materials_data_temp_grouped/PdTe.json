@@ -1,0 +1,29 @@
+{
+  "Material": "PdTe",
+  "DOIs_Researched": [
+    "10.1016/j.apmt.2019.04.007",
+    "10.1016/j.spmi.2019.106367"
+  ],
+  "Data_By_Temperature": {
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "PdTe nano-crystals",
+        "Property": "ZT",
+        "Value": 0.72,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apmt.2019.04.007"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "PdTe",
+        "Property": "ZT",
+        "Value": 0.85,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.spmi.2019.106367"
+      }
+    ]
+  }
+}

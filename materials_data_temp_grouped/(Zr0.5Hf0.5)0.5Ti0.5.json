@@ -1,0 +1,65 @@
+{
+  "Material": "(Zr0.5Hf0.5)0.5Ti0.5",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2019.01.013",
+    "10.1039/c0dt00742k",
+    "10.1016/j.jssc.2009.09.003",
+    "10.1016/j.progsolidstchem.2011.02.001",
+    "10.1007/s00214-018-2337-6",
+    "10.1016/j.cap.2019.03.020"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "n-type (Zr0.5Hf0.5)0.5Ti0.5NiSn1-ySby",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s00214-018-2337-6"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "(Zr0.5Hf0.5)0.5Ti0.5NiSn0.01Sb0.99",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c0dt00742k"
+      },
+      {
+        "Original_Name_In_Paper": "(Zr0.5Hf0.5)0.5Ti0.5NiSn0.998Sb0.002",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2009.09.003"
+      },
+      {
+        "Original_Name_In_Paper": "(Zr0.5Hf0.5)0.5Ti0.5NiSn1-ySby",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2019.03.020"
+      },
+      {
+        "Original_Name_In_Paper": "(Zr0.5Hf0.5)0.5Ti0.5NiSn0.998Sb0.002",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2019.01.013"
+      },
+      {
+        "Original_Name_In_Paper": "(Zr0.5Hf0.5)0.5Ti0.5NiSn0.998Sb0.002",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.progsolidstchem.2011.02.001"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "PbTe, PbTeSe",
+  "DOIs_Researched": [
+    "10.1016/j.rser.2015.01.019"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "PbTe / PbTeSe superlattices",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rser.2015.01.019"
+      }
+    ]
+  }
+}

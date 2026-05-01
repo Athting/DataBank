@@ -1,0 +1,18 @@
+{
+  "Material": "La0.94Ce0.06CoO3",
+  "DOIs_Researched": [
+    "10.1016/j.mattod.2019.07.003"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "La0.94Ce0.06CoO3",
+        "Property": "ZT",
+        "Value": 0.018000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mattod.2019.07.003"
+      }
+    ]
+  }
+}

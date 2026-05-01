@@ -1,0 +1,47 @@
+{
+  "Material": "Mg2.16Si0.4Sn0.6Bi0.03",
+  "DOIs_Researched": [
+    "10.1007/s11837-016-2060-5",
+    "10.1016/j.jssc.2013.04.041"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Mg2.16(Si0.4Sn0.6)0.97Bi0.03",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2013.04.041"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2.16(Si0.4Sn0.6)0.97Bi0.03",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2013.04.041"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Mg2.16(Si0.4Sn0.6)0.97Bi0.03",
+        "Property": "PF",
+        "Value": 0.003,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11837-016-2060-5"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Mg2.16(Si0.4Sn0.6)0.97Bi0.03",
+        "Property": "Conductivity",
+        "Value": 200000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11837-016-2060-5"
+      }
+    ]
+  }
+}

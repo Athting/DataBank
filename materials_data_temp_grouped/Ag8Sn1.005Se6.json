@@ -1,0 +1,82 @@
+{
+  "Material": "Ag8Sn1.005Se6",
+  "DOIs_Researched": [
+    "10.1039/c9ce01367a"
+  ],
+  "Data_By_Temperature": {
+    "715.0": [
+      {
+        "Original_Name_In_Paper": "Ag8Sn1.005Se6",
+        "Property": "ThermCond",
+        "Value": 0.25,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ce01367a"
+      },
+      {
+        "Original_Name_In_Paper": "Ag8Sn1.005Se6",
+        "Property": "ZT",
+        "Value": 1.22,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ce01367a"
+      },
+      {
+        "Original_Name_In_Paper": "Ag8Sn1.005Se6",
+        "Property": "ZT",
+        "Value": 1.22,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ce01367a"
+      },
+      {
+        "Original_Name_In_Paper": "Ag8Sn1.005Se6",
+        "Property": "ZT",
+        "Value": 1.22,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ce01367a"
+      },
+      {
+        "Original_Name_In_Paper": "Ag8Sn1.005Se6",
+        "Property": "ZT",
+        "Value": 0.87,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ce01367a"
+      },
+      {
+        "Original_Name_In_Paper": "Ag8Sn1.005Se6",
+        "Property": "ZT",
+        "Value": 1.22,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ce01367a"
+      },
+      {
+        "Original_Name_In_Paper": "Ag8Sn1.005Se6",
+        "Property": "Seebeck",
+        "Value": -0.000143,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ce01367a"
+      },
+      {
+        "Original_Name_In_Paper": "Ag8Sn1.005Se6",
+        "Property": "PF",
+        "Value": 0.000758,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ce01367a"
+      },
+      {
+        "Original_Name_In_Paper": "Ag8Sn1.005Se6",
+        "Property": "PF",
+        "Value": 0.000758,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ce01367a"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Mn5Ge3",
+  "DOIs_Researched": [
+    "10.1016/j.apsusc.2019.05.226"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Mn5Ge3",
+        "Property": "Conductivity",
+        "Value": 333333.3333333333,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2019.05.226"
+      }
+    ]
+  }
+}

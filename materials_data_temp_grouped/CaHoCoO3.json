@@ -1,0 +1,18 @@
+{
+  "Material": "CaHoCoO3",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2007.05.020"
+  ],
+  "Data_By_Temperature": {
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "Ca-HoCoO3",
+        "Property": "ZT",
+        "Value": 0.051000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2007.05.020"
+      }
+    ]
+  }
+}

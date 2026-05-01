@@ -1,0 +1,18 @@
+{
+  "Material": "Mg2Si0.95Ge0.05Sbx",
+  "DOIs_Researched": [
+    "10.1557/opl.2015.240"
+  ],
+  "Data_By_Temperature": {
+    "733.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Si0.95-xGe0.05Sbx",
+        "Property": "ZT",
+        "Value": 0.74,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1557/opl.2015.240"
+      }
+    ]
+  }
+}

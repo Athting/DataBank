@@ -1,0 +1,26 @@
+{
+  "Material": "Yb14MgBi11",
+  "DOIs_Researched": [
+    "10.1039/c7dt00183e"
+  ],
+  "Data_By_Temperature": {
+    "875.0": [
+      {
+        "Original_Name_In_Paper": "Yb14MgBi11",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7dt00183e"
+      },
+      {
+        "Original_Name_In_Paper": "Yb14MgBi11",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7dt00183e"
+      }
+    ]
+  }
+}

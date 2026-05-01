@@ -1,0 +1,18 @@
+{
+  "Material": "PbSnTeSeI",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2017.06.296"
+  ],
+  "Data_By_Temperature": {
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "Pb0.995Sn0.005Te0.847Se0.15I0.003",
+        "Property": "ZT",
+        "Value": 0.84,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.06.296"
+      }
+    ]
+  }
+}

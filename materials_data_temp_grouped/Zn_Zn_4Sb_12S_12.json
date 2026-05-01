@@ -1,0 +1,18 @@
+{
+  "Material": "Zn_Zn_4Sb_12S_12",
+  "DOIs_Researched": [
+    "10.1039/c7cp06465a"
+  ],
+  "Data_By_Temperature": {
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "Zn-doped tetrahedrite",
+        "Property": "PF",
+        "Value": 0.00046,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cp06465a"
+      }
+    ]
+  }
+}

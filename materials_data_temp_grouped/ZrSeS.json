@@ -1,0 +1,60 @@
+{
+  "Material": "ZrSeS",
+  "DOIs_Researched": [
+    "10.1016/j.commatsci.2019.109109"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "ZrSeS",
+        "Property": "ThermCond",
+        "Value": 0.26,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2019.109109"
+      },
+      {
+        "Original_Name_In_Paper": "p-doped ZrSeS",
+        "Property": "ThermCond",
+        "Value": 1.98,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2019.109109"
+      },
+      {
+        "Original_Name_In_Paper": "ZrSeS",
+        "Property": "ZT",
+        "Value": 0.33,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2019.109109"
+      },
+      {
+        "Original_Name_In_Paper": "n-doped ZrSeS compound",
+        "Property": "ZT",
+        "Value": 0.33,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2019.109109"
+      }
+    ],
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "ZrSeS",
+        "Property": "ThermCond",
+        "Value": 0.54,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2019.109109"
+      },
+      {
+        "Original_Name_In_Paper": "ZrSeS",
+        "Property": "ThermCond",
+        "Value": 0.54,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2019.109109"
+      }
+    ]
+  }
+}

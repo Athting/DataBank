@@ -1,0 +1,27 @@
+{
+  "Material": "rare-earth",
+  "DOIs_Researched": [
+    "10.1039/c5cp06192j",
+    "10.1016/j.chempr.2018.04.001"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "rare-earth",
+        "Property": "ThermCond",
+        "Value": 2.3,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5cp06192j"
+      },
+      {
+        "Original_Name_In_Paper": "rare-earth",
+        "Property": "ThermCond",
+        "Value": 1.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.chempr.2018.04.001"
+      }
+    ]
+  }
+}

@@ -1,0 +1,381 @@
+{
+  "doi": "10.1016/j.tsf.2004.08.117",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "CuAlO2",
+        "CuAlO2 thin film",
+        "CuAlO2 thin films",
+        "CuAlO2 powder",
+        "CuAlO2 pellets",
+        "polycrystal CuAlO2",
+        "bulk CuAlO2 powder",
+        "CuAlO2 with 6 at % of Ag2O",
+        "CuAlO2 single crystal",
+        "CuAlO2 with 2 at % of Ag2O",
+        "bulk CuAlO2",
+        "CuAl0.9Ca0.1O2",
+        "CuAlO2 with graphene"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "CuAlO2 pellets",
+          "value": 0.00046,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "780.0 K"
+        },
+        {
+          "material": "CuAlO2",
+          "value": 0.000325,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "1200.0 K"
+        },
+        {
+          "material": "CuAlO2 single crystal",
+          "value": 0.00018,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "CuAlO2 single crystal",
+          "value": 0.00018,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "CuAlO2 with 2 at % of Ag2O",
+          "value": 0.00042,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "bulk CuAlO2",
+          "value": 0.00047000000000000004,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "800.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "CuAlO2",
+          "value": 9.5057034221,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CuAlO2",
+          "value": 100,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CuAlO2 thin film",
+          "value": 8,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CuAlO2",
+          "value": 100,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CuAlO2 thin films",
+          "value": 9.5,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CuAlO2 thin films",
+          "value": 9.5,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CuAlO2 powder",
+          "value": 0.169,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CuAlO2",
+          "value": 100,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CuAlO2",
+          "value": 14000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CuAlO2",
+          "value": 95,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CuAlO2",
+          "value": 0.17,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CuAlO2",
+          "value": 100,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CuAlO2",
+          "value": 0.015,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CuAlO2 thin films",
+          "value": 34,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "CuAlO2 with 6 at % of Ag2O",
+          "value": 448,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "CuAlO2",
+          "value": 300,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "CuAlO2 with 6 at % of Ag2O",
+          "value": 450,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "CuAlO2",
+          "value": 6.6666666667,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "CuAlO2 single crystal",
+          "value": 1000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "1200.0 K"
+        },
+        {
+          "material": "CuAlO2",
+          "value": 1000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "1200.0 K"
+        },
+        {
+          "material": "CuAlO2",
+          "value": 80,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "CuAlO2",
+          "value": 167,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "CuAlO2 single crystal",
+          "value": 770,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "928.0 K"
+        },
+        {
+          "material": "CuAlO2 with graphene",
+          "value": 470,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "CuAlO2",
+          "value": 470,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "CuAlO2",
+          "value": 200,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "700.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "CuAlO2",
+          "value": 0.000104,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "CuAlO2",
+          "value": 0.000104,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "CuAlO2",
+          "value": 0.000104,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "polycrystal CuAlO2",
+          "value": 0.000104,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "CuAlO2",
+          "value": 0.0000498,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1140.0 K"
+        },
+        {
+          "material": "CuAlO2",
+          "value": 0.0000498,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1140.0 K"
+        },
+        {
+          "material": "CuAlO2",
+          "value": 0.0000498,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1140.0 K"
+        },
+        {
+          "material": "CuAl0.9Ca0.1O2",
+          "value": 0.00007819999999999999,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1140.0 K"
+        },
+        {
+          "material": "CuAl0.9Ca0.1O2",
+          "value": 0.00007819999999999999,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1140.0 K"
+        },
+        {
+          "material": "CuAl0.9Ca0.1O2",
+          "value": 0.00007819999999999999,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1140.0 K"
+        },
+        {
+          "material": "CuAlO2",
+          "value": 0.0000662,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1140.0 K"
+        },
+        {
+          "material": "CuAlO2",
+          "value": 0.0000498,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1140.0 K"
+        },
+        {
+          "material": "CuAl0.9Ca0.1O2",
+          "value": 0.00007819999999999999,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1140.0 K"
+        },
+        {
+          "material": "CuAlO2",
+          "value": 0.000093,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "CuAlO2",
+          "value": 0.000065,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "973.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "CuAlO2",
+          "zt_value": 0.001,
+          "temperature": "295 K"
+        },
+        {
+          "material": "CuAlO2",
+          "zt_value": 0.0027,
+          "temperature": "780.0 K"
+        },
+        {
+          "material": "CuAlO2",
+          "zt_value": 0.0027,
+          "temperature": "780.0 K"
+        },
+        {
+          "material": "CuAlO2",
+          "zt_value": 0.009000000000000001,
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "CuAlO2",
+          "zt_value": 0.0004900000000000001,
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "CuAlO2",
+          "zt_value": 0.0045000000000000005,
+          "temperature": "575.0 K"
+        },
+        {
+          "material": "bulk CuAlO2 powder",
+          "zt_value": 0.017,
+          "temperature": "960.0 K"
+        },
+        {
+          "material": "CuAlO2",
+          "zt_value": 0.014,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "CuAlO2 thin films",
+          "zt_value": 0.9500000000000001,
+          "temperature": "873.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "Material": "CuNi",
+  "DOIs_Researched": [
+    "10.1016/j.tsf.2010.05.084",
+    "10.1016/j.cej.2019.02.198",
+    "10.1016/j.jallcom.2020.156188",
+    "10.1039/c2nr30663h"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Cu0.6Ni0.4 alloy",
+        "Property": "ThermCond",
+        "Value": 3.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.156188"
+      }
+    ],
+    "550.0": [
+      {
+        "Original_Name_In_Paper": "Cu0.7Nio0.3",
+        "Property": "ZT",
+        "Value": 0.47000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cej.2019.02.198"
+      }
+    ],
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "Cu\u2013Ni",
+        "Property": "Seebeck",
+        "Value": 1.781e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2010.05.084"
+      }
+    ],
+    "28.0": [
+      {
+        "Original_Name_In_Paper": "Cu\u2013Ni",
+        "Property": "Seebeck",
+        "Value": 3.9450000000000003e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2nr30663h"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "Material": "acetic acid",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2010.11.020",
+    "10.1016/j.tsf.2013.07.011"
+  ],
+  "Data_By_Temperature": {
+    "343.0": [
+      {
+        "Original_Name_In_Paper": "acetic acid",
+        "Property": "Conductivity",
+        "Value": 1.1111100000000001e-05,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2013.07.011"
+      }
+    ],
+    "413.0": [
+      {
+        "Original_Name_In_Paper": "acetic acid",
+        "Property": "Conductivity",
+        "Value": 0.02,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.11.020"
+      },
+      {
+        "Original_Name_In_Paper": "acetic acid",
+        "Property": "Conductivity",
+        "Value": 0.0028352708000000003,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.11.020"
+      }
+    ]
+  }
+}

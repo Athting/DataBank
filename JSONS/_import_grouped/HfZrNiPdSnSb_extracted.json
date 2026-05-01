@@ -1,0 +1,81 @@
+{
+  "doi": "10.1007/s10853-020-04949-0",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Hf0.5Zr0.5Ni0.8Pd0.2Sn0.99Sb0.01 compound",
+        "Hf0.5Zr0.5Ni0.8Pd0.2Sn0.99Sb0.01",
+        "Hf0.75Zr0.25Ni0.9Pd0.1Sn0.975Sb0.0025"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Hf0.5Zr0.5Ni0.8Pd0.2Sn0.99Sb0.01 compound",
+          "value": 4.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Hf0.5Zr0.5Ni0.8Pd0.2Sn0.99Sb0.01 compound",
+          "value": 0.00221,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Hf0.5Zr0.5Ni0.8Pd0.2Sn0.99Sb0.01 compound",
+          "value": 0.00221,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Hf0.5Zr0.5Ni0.8Pd0.2Sn0.99Sb0.01 compound",
+          "zt_value": 0.7000000000000001,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Hf0.5Zr0.5Ni0.8Pd0.2Sn0.99Sb0.01",
+          "zt_value": 0.7000000000000001,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "Hf0.75Zr0.25Ni0.9Pd0.1Sn0.975Sb0.0025",
+          "zt_value": 0.8,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "Hf0.75Zr0.25Ni0.9Pd0.1Sn0.975Sb0.0025",
+          "zt_value": 0.8,
+          "temperature": "803.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

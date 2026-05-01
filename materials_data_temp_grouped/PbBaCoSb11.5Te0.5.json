@@ -1,0 +1,44 @@
+{
+  "Material": "PbBaCoSb11.5Te0.5",
+  "DOIs_Researched": [
+    "10.1016/j.ssc.2011.06.034"
+  ],
+  "Data_By_Temperature": {
+    "663.0": [
+      {
+        "Original_Name_In_Paper": "Pb0.03Ba0.27Co4Sb11.5Te0.5",
+        "Property": "ThermCond",
+        "Value": 2.73,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2011.06.034"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.03Ba0.27Co4Sb11.5Te0.5",
+        "Property": "ZT",
+        "Value": 0.63,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2011.06.034"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.03Ba0.27Co4Sb11.5Te0.5",
+        "Property": "PF",
+        "Value": 0.0031639999999999997,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2011.06.034"
+      }
+    ],
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "Pb0.05Ba0.25Co4Sb11.5Te0.5",
+        "Property": "ZT",
+        "Value": 0.63,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2011.06.034"
+      }
+    ]
+  }
+}

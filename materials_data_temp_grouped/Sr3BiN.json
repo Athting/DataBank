@@ -1,0 +1,28 @@
+{
+  "Material": "Sr3BiN",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2018.12.339"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Sr3BiN",
+        "Property": "ZT",
+        "Value": 0.63,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.12.339"
+      }
+    ],
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "Sr3BiN",
+        "Property": "Seebeck",
+        "Value": 0.00014199999999999998,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.12.339"
+      }
+    ]
+  }
+}

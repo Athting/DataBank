@@ -1,0 +1,48 @@
+{
+  "Material": "BaGa2Sb2",
+  "DOIs_Researched": [
+    "10.1016/j.mtphys.2017.06.003",
+    "10.1039/c5ta07612a",
+    "10.1016/B978-0-444-59550-8.00004-1"
+  ],
+  "Data_By_Temperature": {
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "undoped BaGa2Sb2",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta07612a"
+      }
+    ],
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "BaGa2Sb2",
+        "Property": "ZT",
+        "Value": 0.65,
+        "Units": null,
+        "Editing": "doping Zn",
+        "Source_DOI": "10.1016/j.mtphys.2017.06.003"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "BaGa2Sb2",
+        "Property": "Seebeck",
+        "Value": 6.5e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-444-59550-8.00004-1"
+      },
+      {
+        "Original_Name_In_Paper": "BaGa2Sb2",
+        "Property": "Conductivity",
+        "Value": 6500.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-444-59550-8.00004-1"
+      }
+    ]
+  }
+}

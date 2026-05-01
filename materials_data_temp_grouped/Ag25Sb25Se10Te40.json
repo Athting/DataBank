@@ -1,0 +1,18 @@
+{
+  "Material": "Ag25Sb25Se10Te40",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2015.04.011"
+  ],
+  "Data_By_Temperature": {
+    "680.0": [
+      {
+        "Original_Name_In_Paper": "Ag25Sb25Se10Te40",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2015.04.011"
+      }
+    ]
+  }
+}

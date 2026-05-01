@@ -1,0 +1,455 @@
+{
+  "Material": "Bi0.4Sb1.6Te3",
+  "DOIs_Researched": [
+    "10.1016/j.enconman.2015.07.015",
+    "10.1134/S1063739713080052",
+    "10.1007/s10854-016-4920-8",
+    "10.1039/c8ee03225d",
+    "10.1039/c7ee02677c",
+    "10.1016/j.jssc.2018.11.037",
+    "10.1007/s10854-020-03042-1",
+    "10.1016/j.enconman.2014.07.083",
+    "10.1016/j.apenergy.2020.115296",
+    "10.1007/s10854-020-03396-6",
+    "10.1016/j.jallcom.2005.04.217",
+    "10.1016/j.actamat.2014.10.062",
+    "10.1007/s10853-020-04949-0",
+    "10.1016/j.jmat.2016.08.002",
+    "10.1016/j.matpr.2020.01.557",
+    "10.1016/j.progpolymsci.2011.11.003",
+    "10.1016/j.actamat.2017.06.036",
+    "10.1039/c4ra05322b",
+    "10.1016/j.jpcs.2017.07.008",
+    "10.3938/jkps.70.511",
+    "10.1016/j.intermet.2016.06.007",
+    "10.1016/j.vacuum.2020.109384",
+    "10.1016/j.nanoen.2014.04.012",
+    "10.1016/j.jallcom.2013.12.068",
+    "10.1016/j.jssc.2018.04.038",
+    "10.1016/j.jallcom.2010.06.195",
+    "10.1016/j.mtphys.2018.07.002",
+    "10.1016/j.jallcom.2017.05.004",
+    "10.1016/j.jallcom.2017.08.103",
+    "10.1557/jmr.2012.273",
+    "10.1016/j.matpr.2019.10.066",
+    "10.1016/j.ssc.2013.04.020"
+  ],
+  "Data_By_Temperature": {
+    "316.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.4Sb1.6Te3",
+        "Property": "ZT",
+        "Value": 1.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-020-03396-6"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.4Sb1.6Te3 nanocomposite",
+        "Property": "ZT",
+        "Value": 1.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2018.11.037"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Bi0.4Sb1.6Te3",
+        "Property": "ZT",
+        "Value": 1.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra05322b"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.4Sb1.6Te3 nanocomposites",
+        "Property": "ZT",
+        "Value": 1.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.06.195"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Bi0.4Sb1.6Te3 bulk material",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.vacuum.2020.109384"
+      },
+      {
+        "Original_Name_In_Paper": "Bi04Sb16Te3",
+        "Property": "ZT",
+        "Value": 1.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1557/jmr.2012.273"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Bi0.4Sb1.6Te3",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2014.04.012"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.4Sb1.6Te3 bulk material",
+        "Property": "Seebeck",
+        "Value": 0.00024000000000000003,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matpr.2020.01.557"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.4Sb1.6Te3",
+        "Property": "PF",
+        "Value": 0.0039000000000000003,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2018.04.038"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.4Sb1.6Te3",
+        "Property": "Conductivity",
+        "Value": 110000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2018.04.038"
+      }
+    ],
+    "375.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.4Sb1.6Te3",
+        "Property": "ZT",
+        "Value": 1.12,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2018.11.037"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.4Sb1.6Te3",
+        "Property": "ZT",
+        "Value": 1.12,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2018.11.037"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.4Sb1.6Te3",
+        "Property": "ZT",
+        "Value": 1.24,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2018.11.037"
+      }
+    ],
+    "367.0": [
+      {
+        "Original_Name_In_Paper": "pristine Bi0.4Sb1.6Te3",
+        "Property": "ZT",
+        "Value": 1.08,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2017.06.036"
+      }
+    ],
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.4Sb1.6Te3.0 ( 0.12 wt. % PbCl2",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matpr.2019.10.066"
+      }
+    ],
+    "350.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.4Sb1.6Te3",
+        "Property": "ZT",
+        "Value": 1.15,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2005.04.217"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.4Sb1.6Te3",
+        "Property": "ZT",
+        "Value": 1.38,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee03225d"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.4Sb1.6Te3",
+        "Property": "PF",
+        "Value": 0.0043300000000000005,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2005.04.217"
+      }
+    ],
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.4Sb1.6Te3",
+        "Property": "ZT",
+        "Value": 1.15,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ee02677c"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.4Sb1.6Te3 bulk material with 0.1 wt. % CNTs",
+        "Property": "ZT",
+        "Value": 1.42,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2016.08.002"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.4Sb1.6Te3 bulk with 0.1wt % CNTs",
+        "Property": "ZT",
+        "Value": 1.42,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2016.08.002"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.4Sb1.6Te3",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2018.07.002"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.4Sb1.6Te3-40N",
+        "Property": "ZT",
+        "Value": 1.05,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.12.068"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.4Sb1.6Te3",
+        "Property": "ZT",
+        "Value": 1.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.progpolymsci.2011.11.003"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.4Sb1.6Te3",
+        "Property": "PF",
+        "Value": 0.004,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2017.07.008"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Bi0.4Sb1.6Te3",
+        "Property": "Conductivity",
+        "Value": 960000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2013.04.020"
+      }
+    ],
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.4Sb1.6Te3-40N",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.12.068"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.4Sb1.6Te3",
+        "Property": "ZT",
+        "Value": 1.3599999999999999,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2014.10.062"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.4Sb1.6Te3",
+        "Property": "ZT",
+        "Value": 1.3599999999999999,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2014.10.062"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.4Sb1.6Te3 alloy",
+        "Property": "ZT",
+        "Value": 1.3599999999999999,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2014.10.062"
+      }
+    ],
+    "423.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.4Sb1.6Te3 sample with 0.05 wt % graphene",
+        "Property": "ZT",
+        "Value": 1.26,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.05.004"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.4Sb1.6Te3 with 0.05 wt % graphene",
+        "Property": "ZT",
+        "Value": 1.26,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.05.004"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.4Sb1.6Te3 bulk with 0.05 wt % graphene",
+        "Property": "ZT",
+        "Value": 1.26,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.05.004"
+      },
+      {
+        "Original_Name_In_Paper": "pristine Bi0.4Sb1.6Te3",
+        "Property": "ZT",
+        "Value": 1.09,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.05.004"
+      },
+      {
+        "Original_Name_In_Paper": "0.5 vol % Si / Bi0.4Sb1.6Te3",
+        "Property": "Seebeck",
+        "Value": 0.000225,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-020-03042-1"
+      }
+    ],
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.4Sb1.6Te3",
+        "Property": "ZT",
+        "Value": 1.25,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1134/S1063739713080052"
+      }
+    ],
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.4Sb1.6Te3",
+        "Property": "ZT",
+        "Value": 0.87,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.3938/jkps.70.511"
+      }
+    ],
+    "440.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.4Sb1.6Te3",
+        "Property": "ZT",
+        "Value": 1.54,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.08.103"
+      }
+    ],
+    "398.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.4Sb1.6Te3",
+        "Property": "ZT",
+        "Value": 1.26,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apenergy.2020.115296"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.4Sb1.6Te3 materials",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.vacuum.2020.109384"
+      }
+    ],
+    "360.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.4Sb1.6Te3",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.enconman.2014.07.083"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Bi0.4Sb1.6Te3 material",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.enconman.2015.07.015"
+      }
+    ],
+    "650.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.4Sb1.6Te3",
+        "Property": "ZT",
+        "Value": 0.96,
+        "Units": null,
+        "Editing": "Bi0.4Sb1.6Te3 addition",
+        "Source_DOI": "10.1016/j.intermet.2016.06.007"
+      }
+    ],
+    "340.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.4Sb1.6Te3",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-016-4920-8"
+      }
+    ],
+    "396.0": [
+      {
+        "Original_Name_In_Paper": "p-type Bi0.4Sb1.6Te3-8 mol % FeTe2",
+        "Property": "ZT",
+        "Value": 1.52,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      }
+    ],
+    "370.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.4Sb1.6Te3-60N",
+        "Property": "Seebeck",
+        "Value": 0.000248,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.12.068"
+      }
+    ],
+    "320.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.4Sb1.6Te3-60N",
+        "Property": "PF",
+        "Value": 0.0027,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.12.068"
+      }
+    ]
+  }
+}

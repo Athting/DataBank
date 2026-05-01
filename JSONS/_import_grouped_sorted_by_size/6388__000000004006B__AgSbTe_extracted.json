@@ -1,0 +1,153 @@
+{
+  "doi": "10.1016/j.jallcom.2010.03.170",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Ag3.9Sb33.6Te62.5",
+        "Ag0.208Sb0.275Te0.517",
+        "Ag0.84Sb1.16Te2.16",
+        "Ag0.98Na0.02SbTe2.02",
+        "Ag0.71Sb1.29Te2.29",
+        "Ag0.65Sb1.35Te2.35",
+        "Ag0.365Sb0.558Te"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "Ag0.84Sb1.16Te2.16",
+          "value": 0.00030000000000000003,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Ag0.71Sb1.29Te2.29",
+          "value": 0.00025,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "Ag0.365Sb0.558Te",
+          "value": 0.000164,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "500.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Ag3.9Sb33.6Te62.5",
+          "value": 0.24,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Ag0.71Sb1.29Te2.29",
+          "value": 0.6000000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "Ag0.71Sb1.29Te2.29",
+          "value": 0.58,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "475.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Ag3.9Sb33.6Te62.5",
+          "value": 0.0000023,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Ag0.98Na0.02SbTe2.02",
+          "value": 1.27,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Ag0.65Sb1.35Te2.35",
+          "value": 0.0017000000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "Ag0.84Sb1.16Te2.16",
+          "value": 0.00235,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Ag3.9Sb33.6Te62.5",
+          "zt_value": 0.9500000000000001,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Ag0.208Sb0.275Te0.517",
+          "zt_value": 0.44,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Ag0.71Sb1.29Te2.29",
+          "zt_value": 1.37,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "Ag0.71Sb1.29Te2.29",
+          "zt_value": 1.37,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "Ag0.71Sb1.29Te2.29",
+          "zt_value": 1.37,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "Ag0.365Sb0.558Te",
+          "zt_value": 0.6900000000000001,
+          "temperature": "551.0 K"
+        },
+        {
+          "material": "Ag0.84Sb1.16Te2.16",
+          "zt_value": 1.53,
+          "temperature": "500.0 K"
+        },
+        {
+          "material": "Ag0.84Sb1.16Te2.16",
+          "zt_value": 1.53,
+          "temperature": "500.0 K"
+        },
+        {
+          "material": "Ag0.84Sb1.16Te2.16",
+          "zt_value": 1.53,
+          "temperature": "500.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

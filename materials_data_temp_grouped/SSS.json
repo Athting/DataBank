@@ -1,0 +1,18 @@
+{
+  "Material": "SSS",
+  "DOIs_Researched": [
+    "10.1039/c6nr09624g"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "SSS",
+        "Property": "Seebeck",
+        "Value": -2.9599999999999998e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6nr09624g"
+      }
+    ]
+  }
+}

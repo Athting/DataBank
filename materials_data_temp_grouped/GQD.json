@@ -1,0 +1,18 @@
+{
+  "Material": "GQD",
+  "DOIs_Researched": [
+    "10.1016/j.intermet.2020.106923"
+  ],
+  "Data_By_Temperature": {
+    "650.0": [
+      {
+        "Original_Name_In_Paper": "GQD",
+        "Property": "ZT",
+        "Value": 0.46,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2020.106923"
+      }
+    ]
+  }
+}

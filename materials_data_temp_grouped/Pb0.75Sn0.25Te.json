@@ -1,0 +1,29 @@
+{
+  "Material": "Pb0.75Sn0.25Te",
+  "DOIs_Researched": [
+    "10.1016/j.mssp.2015.02.053",
+    "10.1039/c4ra06042c"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Pb0.75Sn0.25Te",
+        "Property": "ThermCond",
+        "Value": 2.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2015.02.053"
+      }
+    ],
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "nano-crystalline Pb0.75Sn0.25Te",
+        "Property": "ZT",
+        "Value": 0.55,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra06042c"
+      }
+    ]
+  }
+}

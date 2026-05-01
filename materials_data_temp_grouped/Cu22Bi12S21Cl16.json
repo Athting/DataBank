@@ -1,0 +1,18 @@
+{
+  "Material": "Cu22Bi12S21Cl16",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2010.10.038"
+  ],
+  "Data_By_Temperature": {
+    "293.0": [
+      {
+        "Original_Name_In_Paper": "Cu22Bi12S21Cl16",
+        "Property": "ZT",
+        "Value": 5.199999999999999e-06,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2010.10.038"
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "Material": "transition metal oxides",
+  "DOIs_Researched": [
+    "10.1016/j.solidstatesciences.2017.07.007",
+    "10.1016/S0167-577X(01)00480-3"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "transition metal oxides",
+        "Property": "Conductivity",
+        "Value": 500000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0167-577X(01)00480-3"
+      }
+    ],
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "transition metal oxides",
+        "Property": "Conductivity",
+        "Value": 43000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2017.07.007"
+      }
+    ]
+  }
+}

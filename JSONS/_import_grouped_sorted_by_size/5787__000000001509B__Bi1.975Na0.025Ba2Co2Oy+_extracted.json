@@ -1,0 +1,63 @@
+{
+  "doi": "10.1016/j.ceramint.2017.01.113",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Bi1.975Na0.025Ba2Co2Oy+1.0 wt % CNT",
+        "Bi1.975Na0.025Ba2Co2Oy+0.5wt % CNT",
+        "Bi1.975Na0.025Ba2Co2Oy+0.5 wt % CNT"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Bi1.975Na0.025Ba2Co2Oy+1.0 wt % CNT",
+          "value": 0.39,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "923.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Bi1.975Na0.025Ba2Co2Oy+0.5wt % CNT",
+          "zt_value": 0.2,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "Bi1.975Na0.025Ba2Co2Oy+0.5 wt % CNT",
+          "zt_value": 0.2,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "Bi1.975Na0.025Ba2Co2Oy+0.5 wt % CNT",
+          "zt_value": 0.2,
+          "temperature": "923.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

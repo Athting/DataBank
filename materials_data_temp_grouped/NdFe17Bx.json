@@ -1,0 +1,18 @@
+{
+  "Material": "NdFe17Bx",
+  "DOIs_Researched": [
+    "10.1016/S0925-8388(07)00600-7"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Nd 2 Fe 17 B x",
+        "Property": "ZT",
+        "Value": 0.9500000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(07)00600-7"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Ni70Cu30",
+  "DOIs_Researched": [
+    "10.1557/PROC-1044-U06-18"
+  ],
+  "Data_By_Temperature": {
+    "950.0": [
+      {
+        "Original_Name_In_Paper": "Ni70Cu30",
+        "Property": "PF",
+        "Value": 0.012,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1557/PROC-1044-U06-18"
+      }
+    ]
+  }
+}

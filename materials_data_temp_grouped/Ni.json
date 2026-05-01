@@ -1,0 +1,40 @@
+{
+  "Material": "Ni",
+  "DOIs_Researched": [
+    "10.1016/S0925-8388(05)00965-5",
+    "10.1016/j.jallcom.2005.04.191",
+    "10.1016/j.enchem.2020.100029"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "66.7 at. % Ni 126",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(05)00965-5"
+      }
+    ],
+    "200.0": [
+      {
+        "Original_Name_In_Paper": "T = Ni",
+        "Property": "Seebeck",
+        "Value": -2.8e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2005.04.191"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ni-BHT",
+        "Property": "Conductivity",
+        "Value": 16000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.enchem.2020.100029"
+      }
+    ]
+  }
+}

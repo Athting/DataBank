@@ -1,0 +1,18 @@
+{
+  "Material": "Cu2S compounds",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2016.02.185"
+  ],
+  "Data_By_Temperature": {
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "Cu2S compounds",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.02.185"
+      }
+    ]
+  }
+}

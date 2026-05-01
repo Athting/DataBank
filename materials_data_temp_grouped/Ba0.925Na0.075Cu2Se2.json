@@ -1,0 +1,70 @@
+{
+  "Material": "Ba0.925Na0.075Cu2Se2",
+  "DOIs_Researched": [
+    "10.1039/c4dt03556a"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Ba0.925Na0.075Cu2Se2",
+        "Property": "ThermCond",
+        "Value": 0.65,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4dt03556a"
+      },
+      {
+        "Original_Name_In_Paper": "Ba0.925Na0.075Cu2Se2",
+        "Property": "ThermCond",
+        "Value": 0.65,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4dt03556a"
+      },
+      {
+        "Original_Name_In_Paper": "Ba0.925Na0.075Cu2Se2",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4dt03556a"
+      },
+      {
+        "Original_Name_In_Paper": "Ba0.925Na0.075Cu2Se2",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4dt03556a"
+      },
+      {
+        "Original_Name_In_Paper": "Ba0.925Na0.075Cu2Se2",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4dt03556a"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ba0.925Na0.075Cu2Se2",
+        "Property": "Conductivity",
+        "Value": 42000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4dt03556a"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ba0.925Na0.075Cu2Se2",
+        "Property": "Conductivity",
+        "Value": 44000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4dt03556a"
+      }
+    ]
+  }
+}

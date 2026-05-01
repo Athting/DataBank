@@ -1,0 +1,18 @@
+{
+  "Material": "ZnRh2O4",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2007.09.031"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "p-type ZnRh2O4",
+        "Property": "Conductivity",
+        "Value": 70.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2007.09.031"
+      }
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "doi": "10.1039/c6tc02301k",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "p-type Cu26V2Sn6S32",
+        "Cu26V2Sn6S32"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "Cu26V2Sn6S32",
+          "value": 9090.9090909091,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "660.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "p-type Cu26V2Sn6S32",
+          "value": 0.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Cu26V2Sn6S32",
+          "zt_value": 0.93,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "Cu26V2Sn6S32",
+          "zt_value": 0.6000000000000001,
+          "temperature": "663.0 K"
+        },
+        {
+          "material": "Cu26V2Sn6S32",
+          "zt_value": 0.93,
+          "temperature": "675.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

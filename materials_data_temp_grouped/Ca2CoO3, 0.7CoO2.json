@@ -1,0 +1,18 @@
+{
+  "Material": "Ca2CoO3, 0.7CoO2",
+  "DOIs_Researched": [
+    "10.1007/s40243-019-0163-y"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "single-crystalline (Ca2CoO3)0.7CoO2 misfit oxide",
+        "Property": "ZT",
+        "Value": 0.87,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s40243-019-0163-y"
+      }
+    ]
+  }
+}

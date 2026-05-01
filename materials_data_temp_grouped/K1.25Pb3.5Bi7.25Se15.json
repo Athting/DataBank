@@ -1,0 +1,34 @@
+{
+  "Material": "K1.25Pb3.5Bi7.25Se15",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2017.01.115"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "K1.25Pb3.5Bi7.25Se15",
+        "Property": "ThermCond",
+        "Value": 1.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.01.115"
+      },
+      {
+        "Original_Name_In_Paper": "K1.25Pb3.5Bi7.25Se15",
+        "Property": "Seebeck",
+        "Value": -0.00025,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.01.115"
+      },
+      {
+        "Original_Name_In_Paper": "K1.25Pb3.5Bi7.25Se15",
+        "Property": "Conductivity",
+        "Value": 80000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.01.115"
+      }
+    ]
+  }
+}

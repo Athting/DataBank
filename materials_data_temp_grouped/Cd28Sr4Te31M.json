@@ -1,0 +1,18 @@
+{
+  "Material": "Cd28Sr4Te31M",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2017.12.029"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "Cd28Sr4Te31M",
+        "Property": "Seebeck",
+        "Value": 0.00027,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.12.029"
+      }
+    ]
+  }
+}

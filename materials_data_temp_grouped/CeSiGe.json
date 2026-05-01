@@ -1,0 +1,18 @@
+{
+  "Material": "CeSiGe",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2005.07.053"
+  ],
+  "Data_By_Temperature": {
+    "380.0": [
+      {
+        "Original_Name_In_Paper": "Ce40Si27Ge32",
+        "Property": "Seebeck",
+        "Value": -1.3e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2005.07.053"
+      }
+    ]
+  }
+}

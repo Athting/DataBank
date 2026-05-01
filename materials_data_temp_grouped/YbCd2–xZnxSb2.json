@@ -1,0 +1,18 @@
+{
+  "Material": "YbCd2\u2013xZnxSb2",
+  "DOIs_Researched": [
+    "10.1039/c6ta11234j"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "YbCd2\u2013xZnxSb2 polycrystalline",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": "doping of Yb",
+        "Source_DOI": "10.1039/c6ta11234j"
+      }
+    ]
+  }
+}

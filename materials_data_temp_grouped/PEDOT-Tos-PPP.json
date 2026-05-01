@@ -1,0 +1,18 @@
+{
+  "Material": "PEDOT-Tos-PPP",
+  "DOIs_Researched": [
+    "10.1016/j.synthmet.2016.11.031"
+  ],
+  "Data_By_Temperature": {
+    "294.0": [
+      {
+        "Original_Name_In_Paper": "0.04 % NaBH4 / DMSO treated PEDOT-Tos-PPP",
+        "Property": "PF",
+        "Value": 4.41e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.synthmet.2016.11.031"
+      }
+    ]
+  }
+}

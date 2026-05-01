@@ -1,0 +1,29 @@
+{
+  "Material": "BST matrix",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2015.10.160",
+    "10.1039/c5ra25012a"
+  ],
+  "Data_By_Temperature": {
+    "443.0": [
+      {
+        "Original_Name_In_Paper": "BST matrix",
+        "Property": "ZT",
+        "Value": 1.21,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra25012a"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "BST matrix",
+        "Property": "Conductivity",
+        "Value": 190000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.10.160"
+      }
+    ]
+  }
+}

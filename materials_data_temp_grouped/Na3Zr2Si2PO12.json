@@ -1,0 +1,18 @@
+{
+  "Material": "Na3Zr2Si2PO12",
+  "DOIs_Researched": [
+    "10.1039/c8ee01053f"
+  ],
+  "Data_By_Temperature": {
+    "298.0": [
+      {
+        "Original_Name_In_Paper": "Na3Zr2Si2PO12",
+        "Property": "Conductivity",
+        "Value": 0.067,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee01053f"
+      }
+    ]
+  }
+}

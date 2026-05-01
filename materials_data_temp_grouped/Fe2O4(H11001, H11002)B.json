@@ -1,0 +1,18 @@
+{
+  "Material": "Fe2O4(H11001, H11002)B",
+  "DOIs_Researched": [
+    "10.1016/S0925-8388(09)00895-0"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Fe 2 O 4 H11001 ( 1 H11002 x)Ba 0.8 Pb",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(09)00895-0"
+      }
+    ]
+  }
+}

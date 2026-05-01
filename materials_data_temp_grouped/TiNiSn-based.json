@@ -1,0 +1,18 @@
+{
+  "Material": "TiNiSn-based",
+  "DOIs_Researched": [
+    "10.1007/s11664-017-6013-8"
+  ],
+  "Data_By_Temperature": {
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "TiNiSn-based",
+        "Property": "ZT",
+        "Value": 0.49,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-017-6013-8"
+      }
+    ]
+  }
+}

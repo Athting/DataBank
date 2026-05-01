@@ -1,0 +1,26 @@
+{
+  "Material": "Cd24Sr8Te31N",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2017.12.029"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "Cd24Sr8Te31N",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.12.029"
+      },
+      {
+        "Original_Name_In_Paper": "Cd24Sr8Te31N_1",
+        "Property": "Seebeck",
+        "Value": 242.0,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.12.029"
+      }
+    ]
+  }
+}

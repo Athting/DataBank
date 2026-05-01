@@ -1,0 +1,74 @@
+{
+  "Material": "Mg2Sn0.7Si0.3",
+  "DOIs_Researched": [
+    "10.1039/c6cp03944h",
+    "10.1016/j.actamat.2017.09.009",
+    "10.1016/j.actamat.2015.11.006"
+  ],
+  "Data_By_Temperature": {
+    "650.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Sn0.7Si0.3",
+        "Property": "ZT",
+        "Value": 0.35000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2017.09.009"
+      }
+    ],
+    "523.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Sn0.7Si0.3",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2015.11.006"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Sn0.7Si0.3",
+        "Property": "PF",
+        "Value": 0.0047,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2015.11.006"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Sn0.7Si0.3",
+        "Property": "PF",
+        "Value": 0.0048000000000000004,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6cp03944h"
+      }
+    ],
+    "623.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Sn0.7Si0.3",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2015.11.006"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Sn0.7Si0.3",
+        "Property": "PF",
+        "Value": 0.0055000000000000005,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2015.11.006"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Mg2Sn0.7Si0.3",
+        "Property": "PF",
+        "Value": 0.0043,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2015.11.006"
+      }
+    ]
+  }
+}

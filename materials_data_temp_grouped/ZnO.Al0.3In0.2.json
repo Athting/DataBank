@@ -1,0 +1,34 @@
+{
+  "Material": "ZnO.Al0.3In0.2",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2010.10.004"
+  ],
+  "Data_By_Temperature": {
+    "975.0": [
+      {
+        "Original_Name_In_Paper": "(ZnO)Al.03In.02",
+        "Property": "Seebeck",
+        "Value": -0.00022,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.10.004"
+      },
+      {
+        "Original_Name_In_Paper": "(ZnO)Al.03In.02",
+        "Property": "PF",
+        "Value": 0.00221,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": "In doping",
+        "Source_DOI": "10.1016/j.jallcom.2010.10.004"
+      },
+      {
+        "Original_Name_In_Paper": "(ZnO)Al.03In.02",
+        "Property": "Conductivity",
+        "Value": 58800.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.10.004"
+      }
+    ]
+  }
+}

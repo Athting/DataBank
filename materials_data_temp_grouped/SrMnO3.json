@@ -1,0 +1,18 @@
+{
+  "Material": "SrMnO3",
+  "DOIs_Researched": [
+    "10.1557/jmr.2014.306"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Ce-doped SrMnO3",
+        "Property": "Conductivity",
+        "Value": 30000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1557/jmr.2014.306"
+      }
+    ]
+  }
+}

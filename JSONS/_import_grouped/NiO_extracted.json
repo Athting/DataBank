@@ -1,0 +1,177 @@
+{
+  "doi": "10.1007/s11837-014-1218-2",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "NiO",
+        "NiO single crystal",
+        "Na-doped NiO thin films",
+        "undoped NiO thin films",
+        "NiO thin film",
+        "nickel oxide",
+        "Pure NiO with NaCl",
+        "NiO doped with Li",
+        "NiO films",
+        "1.0 mol % NiO",
+        "PANI / NiO nanocomposite with 0.75 % of NiO"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "NiO",
+          "value": 0.000101,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "NiO",
+          "value": 0.09871668310000001,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "NiO",
+          "value": 0.09871668310000001,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Na-doped NiO thin films",
+          "value": 8.6430423509,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "undoped NiO thin films",
+          "value": 2.9788501638,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Na-doped NiO thin films",
+          "value": 33.3333333333,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "NiO",
+          "value": 0.0009891197000000001,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "NiO thin film",
+          "value": 0.8510638298000001,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "nickel oxide",
+          "value": 0.09871668310000001,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "NiO",
+          "value": 0.0009891197000000001,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "NiO",
+          "value": 1000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Pure NiO with NaCl",
+          "value": 1000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "NiO thin film",
+          "value": 100,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "Na-doped NiO thin films",
+          "value": 15.8227848101,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "473.0 K"
+        },
+        {
+          "material": "NiO films",
+          "value": 1,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "PANI / NiO nanocomposite with 0.75 % of NiO",
+          "value": 13.9,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "383.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "NiO",
+          "value": 20,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "NiO single crystal",
+          "value": 50,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "1.0 mol % NiO",
+          "value": 5.5e-7,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1023.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "NiO doped with Li",
+          "zt_value": 2.42,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "NiO",
+          "zt_value": 0.049,
+          "temperature": "770.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

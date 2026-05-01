@@ -1,0 +1,18 @@
+{
+  "Material": "Nb0.6Ti0.4FeNiSb0.95Sn",
+  "DOIs_Researched": [
+    "10.1039/c8ra10471a"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "nanostructured p-type Nb0.6Ti0.4FeNiSb0.95Sn0.05",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ra10471a"
+      }
+    ]
+  }
+}

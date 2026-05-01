@@ -1,0 +1,18 @@
+{
+  "Material": "(C6H5NS)(H3PO4)",
+  "DOIs_Researched": [
+    "10.1016/S0379-6779(96)04147-1"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Phosphoric acid doped polyaniline",
+        "Property": "Conductivity",
+        "Value": -1000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0379-6779(96)04147-1"
+      }
+    ]
+  }
+}

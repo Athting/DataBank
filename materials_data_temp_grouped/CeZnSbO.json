@@ -1,0 +1,52 @@
+{
+  "Material": "CeZnSbO",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2016.07.235"
+  ],
+  "Data_By_Temperature": {
+    "727.0": [
+      {
+        "Original_Name_In_Paper": "pristine CeZnSbO",
+        "Property": "ThermCond",
+        "Value": 0.6000000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.07.235"
+      },
+      {
+        "Original_Name_In_Paper": "CeZnSbO",
+        "Property": "PF",
+        "Value": 4.4e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.07.235"
+      }
+    ],
+    "330.0": [
+      {
+        "Original_Name_In_Paper": "CeZnSbO",
+        "Property": "Seebeck",
+        "Value": 0.000129,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.07.235"
+      },
+      {
+        "Original_Name_In_Paper": "CeZnSbO",
+        "Property": "Conductivity",
+        "Value": 1300.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.07.235"
+      },
+      {
+        "Original_Name_In_Paper": "CeZnSbO",
+        "Property": "Conductivity",
+        "Value": 1300.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.07.235"
+      }
+    ]
+  }
+}

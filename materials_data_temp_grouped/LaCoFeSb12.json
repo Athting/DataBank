@@ -1,0 +1,26 @@
+{
+  "Material": "LaCoFeSb12",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2017.09.207"
+  ],
+  "Data_By_Temperature": {
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "La0.9CoFe3Sb12",
+        "Property": "ZT",
+        "Value": 0.87,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.09.207"
+      },
+      {
+        "Original_Name_In_Paper": "La0.9CoFe3Sb12",
+        "Property": "ZT",
+        "Value": 0.87,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.09.207"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Material": "GeMnTe2",
+  "DOIs_Researched": [
+    "10.1039/c9ta09972g"
+  ],
+  "Data_By_Temperature": {
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "Pb-doped GeMnTe2",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta09972g"
+      },
+      {
+        "Original_Name_In_Paper": "electron doped GeMnTe2",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta09972g"
+      }
+    ]
+  }
+}

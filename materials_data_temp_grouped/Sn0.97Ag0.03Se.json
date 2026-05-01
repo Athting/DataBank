@@ -1,0 +1,39 @@
+{
+  "Material": "Sn0.97Ag0.03Se",
+  "DOIs_Researched": [
+    "10.1016/j.jcrysgro.2016.12.087",
+    "10.1038/am.2017.147"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.97Ag0.03Se",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2017.147"
+      }
+    ],
+    "793.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.97Ag0.03Se single crystal",
+        "Property": "ZT",
+        "Value": 0.9500000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jcrysgro.2016.12.087"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Sn0.97Ag0.03Se single crystal",
+        "Property": "Conductivity",
+        "Value": 19000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jcrysgro.2016.12.087"
+      }
+    ]
+  }
+}

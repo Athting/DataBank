@@ -1,0 +1,18 @@
+{
+  "Material": "CaMnO3.92Nb0.04Ta0.04",
+  "DOIs_Researched": [
+    "10.1039/c6ra06032c"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "CaMn0.92Nb0.04Ta0.04O3",
+        "Property": "ThermCond",
+        "Value": 0.19,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra06032c"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "InSb nanoinclusions",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2012.12.028"
+  ],
+  "Data_By_Temperature": {
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "InSb nanoinclusions",
+        "Property": "Conductivity",
+        "Value": 18000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": "InSb nanoinclusions",
+        "Source_DOI": "10.1016/j.actamat.2012.12.028"
+      }
+    ]
+  }
+}

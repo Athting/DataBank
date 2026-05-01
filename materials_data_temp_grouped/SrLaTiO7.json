@@ -1,0 +1,44 @@
+{
+  "Material": "SrLaTiO7",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2007.09.034",
+    "10.1016/j.nanoen.2020.105195",
+    "10.1016/j.rser.2018.10.006"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "(Sr0.95La0.05)3Ti2O7",
+        "Property": "ZT",
+        "Value": 0.15,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2007.09.034"
+      },
+      {
+        "Original_Name_In_Paper": "(Sr0.95La0.05)3Ti2O7",
+        "Property": "ZT",
+        "Value": 0.15,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2007.09.034"
+      },
+      {
+        "Original_Name_In_Paper": "(Sr0.95La0.05)3Ti2O7",
+        "Property": "ZT",
+        "Value": 0.15,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rser.2018.10.006"
+      },
+      {
+        "Original_Name_In_Paper": "(Sr0.95La0.05)3Ti2O7",
+        "Property": "ZT",
+        "Value": 0.15,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.105195"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "Material": "Bi0.88Mg0.06Pb0.06CuSe",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2017.09.143"
+  ],
+  "Data_By_Temperature": {
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.88Mg0.06Pb0.06CuSeO",
+        "Property": "ZT",
+        "Value": 1.19,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2017.09.143"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.88Mg0.06Pb0.06CuSeO",
+        "Property": "ZT",
+        "Value": 1.19,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2017.09.143"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.88Mg0.06Pb0.06CuSeO",
+        "Property": "ZT",
+        "Value": 1.19,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2017.09.143"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.88Mg0.06Pb0.06CuSeO",
+        "Property": "PF",
+        "Value": 0.00111,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2017.09.143"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.88Mg0.06Pb0.06CuSeO",
+        "Property": "PF",
+        "Value": 0.00111,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2017.09.143"
+      }
+    ]
+  }
+}

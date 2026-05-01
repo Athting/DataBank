@@ -1,0 +1,18 @@
+{
+  "Material": "bulk black phosphorus",
+  "DOIs_Researched": [
+    "10.1038/natrevmats.2016.61"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "bulk black phosphorus",
+        "Property": "Seebeck",
+        "Value": 335.0,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/natrevmats.2016.61"
+      }
+    ]
+  }
+}

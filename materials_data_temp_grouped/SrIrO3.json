@@ -1,0 +1,36 @@
+{
+  "Material": "SrIrO3",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2009.10.219"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "SrIrO3",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.10.219"
+      },
+      {
+        "Original_Name_In_Paper": "SrIrO3",
+        "Property": "Conductivity",
+        "Value": 24500.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.10.219"
+      }
+    ],
+    "10.0": [
+      {
+        "Original_Name_In_Paper": "single crystalline SrIrO3",
+        "Property": "Conductivity",
+        "Value": 16000000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.10.219"
+      }
+    ]
+  }
+}

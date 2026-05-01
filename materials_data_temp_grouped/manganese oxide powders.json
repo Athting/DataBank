@@ -1,0 +1,18 @@
+{
+  "Material": "manganese oxide powders",
+  "DOIs_Researched": [
+    "10.1016/j.electacta.2014.11.010"
+  ],
+  "Data_By_Temperature": {
+    "293.0": [
+      {
+        "Original_Name_In_Paper": "manganese oxide powders",
+        "Property": "Conductivity",
+        "Value": 5.5556e-06,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.electacta.2014.11.010"
+      }
+    ]
+  }
+}

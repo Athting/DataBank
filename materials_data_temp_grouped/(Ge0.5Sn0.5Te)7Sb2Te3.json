@@ -1,0 +1,28 @@
+{
+  "Material": "(Ge0.5Sn0.5Te)7Sb2Te3",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2014.03.031"
+  ],
+  "Data_By_Temperature": {
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "(Ge0.5Sn0.5Te)7Sb2Te3",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2014.03.031"
+      }
+    ],
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "(Ge0.5Sn0.5Te)7Sb2Te3",
+        "Property": "Conductivity",
+        "Value": 81000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2014.03.031"
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "Material": "HNO3",
+  "DOIs_Researched": [
+    "10.1039/c8ra06094k",
+    "10.1016/j.oregeorev.2016.10.014"
+  ],
+  "Data_By_Temperature": {
+    "393.0": [
+      {
+        "Original_Name_In_Paper": "HNO3",
+        "Property": "Conductivity",
+        "Value": 5.4945000000000005e-06,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.oregeorev.2016.10.014"
+      }
+    ],
+    "298.0": [
+      {
+        "Original_Name_In_Paper": "HNO3",
+        "Property": "Conductivity",
+        "Value": 98800.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ra06094k"
+      }
+    ]
+  }
+}

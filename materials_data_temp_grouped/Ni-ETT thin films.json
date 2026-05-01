@@ -1,0 +1,42 @@
+{
+  "Material": "Ni-ETT thin films",
+  "DOIs_Researched": [
+    "10.1039/c8ta07344a"
+  ],
+  "Data_By_Temperature": {
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "Ni-ETT thin films",
+        "Property": "ThermCond",
+        "Value": 0.8200000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta07344a"
+      },
+      {
+        "Original_Name_In_Paper": "Ni-ETT thin films",
+        "Property": "ZT",
+        "Value": 0.32,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta07344a"
+      },
+      {
+        "Original_Name_In_Paper": "Ni-ETT thin films",
+        "Property": "Seebeck",
+        "Value": -0.00015000000000000001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta07344a"
+      },
+      {
+        "Original_Name_In_Paper": "Ni-ETT thin films",
+        "Property": "Conductivity",
+        "Value": 22000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta07344a"
+      }
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "doi": "10.1016/j.jssc.2014.04.005",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Bi2Se0.5Te2.5",
+        "ordered Bi2Se0.5Te2.5"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Bi2Se0.5Te2.5",
+          "zt_value": 1.28,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi2Se0.5Te2.5",
+          "zt_value": 1.28,
+          "temperature": "295 K"
+        },
+        {
+          "material": "ordered Bi2Se0.5Te2.5",
+          "zt_value": 1.28,
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

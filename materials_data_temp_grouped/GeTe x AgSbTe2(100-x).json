@@ -1,0 +1,27 @@
+{
+  "Material": "GeTe x AgSbTe2(100-x)",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2010.03.170",
+    "10.1016/j.actamat.2010.04.007"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "(GeTe)x(AgSbTe2)100\u2212x",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.03.170"
+      },
+      {
+        "Original_Name_In_Paper": "(GeTe)x(AgSbTe2)100\u2212x",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2010.04.007"
+      }
+    ]
+  }
+}

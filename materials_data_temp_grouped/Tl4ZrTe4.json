@@ -1,0 +1,36 @@
+{
+  "Material": "Tl4ZrTe4",
+  "DOIs_Researched": [
+    "10.1039/c0jm01363c"
+  ],
+  "Data_By_Temperature": {
+    "420.0": [
+      {
+        "Original_Name_In_Paper": "Tl4ZrTe4",
+        "Property": "ZT",
+        "Value": 0.16,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c0jm01363c"
+      }
+    ],
+    "320.0": [
+      {
+        "Original_Name_In_Paper": "Tl4ZrTe4",
+        "Property": "Conductivity",
+        "Value": 588.2352941176,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c0jm01363c"
+      },
+      {
+        "Original_Name_In_Paper": "Tl4ZrTe4",
+        "Property": "Seebeck",
+        "Value": 0.00033000000000000005,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c0jm01363c"
+      }
+    ]
+  }
+}

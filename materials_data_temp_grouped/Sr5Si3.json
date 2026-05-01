@@ -1,0 +1,45 @@
+{
+  "Material": "Sr5Si3",
+  "DOIs_Researched": [
+    "10.1007/s11051-019-4624-0",
+    "10.1016/j.jallcom.2018.12.037"
+  ],
+  "Data_By_Temperature": {
+    "776.0": [
+      {
+        "Original_Name_In_Paper": "Sr5Si3",
+        "Property": "ZT",
+        "Value": 0.14,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.12.037"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Sr5Si3",
+        "Property": "Conductivity",
+        "Value": 591.7159763314,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.12.037"
+      },
+      {
+        "Original_Name_In_Paper": "Sr5Si3",
+        "Property": "Conductivity",
+        "Value": 0.000591716,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11051-019-4624-0"
+      },
+      {
+        "Original_Name_In_Paper": "Sr5Si3",
+        "Property": "Conductivity",
+        "Value": 1.5504e-06,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11051-019-4624-0"
+      }
+    ]
+  }
+}

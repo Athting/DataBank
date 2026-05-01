@@ -1,0 +1,74 @@
+{
+  "Material": "CoCp2 @ SWNT film",
+  "DOIs_Researched": [
+    "10.1038/srep07951"
+  ],
+  "Data_By_Temperature": {
+    "320.0": [
+      {
+        "Original_Name_In_Paper": "CoCp2 @ SWNT film",
+        "Property": "ThermCond",
+        "Value": 0.15,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/srep07951"
+      },
+      {
+        "Original_Name_In_Paper": "CoCp2 @ SWNT film",
+        "Property": "ThermCond",
+        "Value": 0.15,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/srep07951"
+      },
+      {
+        "Original_Name_In_Paper": "CoCp2 @ SWNT film",
+        "Property": "ZT",
+        "Value": 0.157,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/srep07951"
+      },
+      {
+        "Original_Name_In_Paper": "CoCp2 @ SWNT film",
+        "Property": "Seebeck",
+        "Value": -4.18e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/srep07951"
+      },
+      {
+        "Original_Name_In_Paper": "CoCp2 @ SWNT film",
+        "Property": "PF",
+        "Value": 7.54e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/srep07951"
+      },
+      {
+        "Original_Name_In_Paper": "CoCp2 @ SWNT film",
+        "Property": "PF",
+        "Value": 7.54e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/srep07951"
+      },
+      {
+        "Original_Name_In_Paper": "CoCp2 @ SWNT film",
+        "Property": "Conductivity",
+        "Value": 43200.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/srep07951"
+      },
+      {
+        "Original_Name_In_Paper": "CoCp2 @ SWNT film",
+        "Property": "Conductivity",
+        "Value": 43200.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/srep07951"
+      }
+    ]
+  }
+}

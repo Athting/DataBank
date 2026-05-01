@@ -1,0 +1,18 @@
+{
+  "Material": "MnSb",
+  "DOIs_Researched": [
+    "10.1039/c9tc06330g"
+  ],
+  "Data_By_Temperature": {
+    "825.0": [
+      {
+        "Original_Name_In_Paper": "MnSb",
+        "Property": "ZT",
+        "Value": 0.007,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc06330g"
+      }
+    ]
+  }
+}

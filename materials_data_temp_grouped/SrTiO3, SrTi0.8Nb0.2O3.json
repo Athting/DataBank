@@ -1,0 +1,18 @@
+{
+  "Material": "SrTiO3, SrTi0.8Nb0.2O3",
+  "DOIs_Researched": [
+    "10.1016/S1369-7021(07)70244-4"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "Nb-doped SrTiO3 ( SrTi0.8Nb0.2O3 )",
+        "Property": "ZT",
+        "Value": 0.37,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S1369-7021(07)70244-4"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Li2O-FeO-V2O5-P2O5",
+  "DOIs_Researched": [
+    "10.1016/j.ssi.2016.11.031"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Li2O\u2013FeO\u2013V2O5\u2013P2O5",
+        "Property": "Conductivity",
+        "Value": 1.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssi.2016.11.031"
+      }
+    ]
+  }
+}

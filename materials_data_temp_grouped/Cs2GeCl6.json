@@ -1,0 +1,18 @@
+{
+  "Material": "Cs2GeCl6",
+  "DOIs_Researched": [
+    "10.1016/j.mssp.2020.105009"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Cs2GeCl6",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2020.105009"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Si0.65Ge0.35",
+  "DOIs_Researched": [
+    "10.1557/PROC-0886-F11-10"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Si0.65Ge0.35",
+        "Property": "ZT",
+        "Value": 0.19,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1557/PROC-0886-F11-10"
+      }
+    ]
+  }
+}

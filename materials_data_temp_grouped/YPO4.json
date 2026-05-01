@@ -1,0 +1,26 @@
+{
+  "Material": "YPO4",
+  "DOIs_Researched": [
+    "10.1016/S0167-2738(03)00223-6"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "doped YPO4",
+        "Property": "Conductivity",
+        "Value": 0.02,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0167-2738(03)00223-6"
+      },
+      {
+        "Original_Name_In_Paper": "3 mol % Ca-doped YPO4",
+        "Property": "Conductivity",
+        "Value": 0.02,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0167-2738(03)00223-6"
+      }
+    ]
+  }
+}

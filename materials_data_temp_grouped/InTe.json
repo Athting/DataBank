@@ -1,0 +1,78 @@
+{
+  "Material": "InTe",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2017.10.021",
+    "10.1016/B978-0-08-102687-8.00008-7",
+    "10.1016/j.jallcom.2019.152210",
+    "10.1039/c9ta00475k",
+    "10.1038/s41598-020-57644-0"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "InTe",
+        "Property": "ThermCond",
+        "Value": 0.76,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.152210"
+      },
+      {
+        "Original_Name_In_Paper": "InTe",
+        "Property": "ThermCond",
+        "Value": 33.05,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-020-57644-0"
+      }
+    ],
+    "603.0": [
+      {
+        "Original_Name_In_Paper": "Tetragonal InTe",
+        "Property": "ThermCond",
+        "Value": 0.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2017.10.021"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "InTe",
+        "Property": "ThermCond",
+        "Value": 0.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-08-102687-8.00008-7"
+      },
+      {
+        "Original_Name_In_Paper": "InTe",
+        "Property": "Seebeck",
+        "Value": 0.000233,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta00475k"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "InTe",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.152210"
+      }
+    ],
+    "541.0": [
+      {
+        "Original_Name_In_Paper": "InTe",
+        "Property": "PF",
+        "Value": 0.00063,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta00475k"
+      }
+    ]
+  }
+}

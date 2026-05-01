@@ -1,0 +1,18 @@
+{
+  "Material": "BaCeCV",
+  "DOIs_Researched": [
+    "10.1016/j.jpowsour.2004.02.036"
+  ],
+  "Data_By_Temperature": {
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "BaCeCV based",
+        "Property": "Conductivity",
+        "Value": 95.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpowsour.2004.02.036"
+      }
+    ]
+  }
+}

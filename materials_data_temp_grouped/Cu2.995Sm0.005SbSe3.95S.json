@@ -1,0 +1,43 @@
+{
+  "Material": "Cu2.995Sm0.005SbSe3.95S",
+  "DOIs_Researched": [
+    "10.1007/s12598-019-01235-0",
+    "10.1007/s12598-018-1038-6"
+  ],
+  "Data_By_Temperature": {
+    "648.0": [
+      {
+        "Original_Name_In_Paper": "Cu2.995Sm0.005SbSe3.95S0.05",
+        "Property": "ZT",
+        "Value": 0.55,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s12598-018-1038-6"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2.995Sm0.005SbSe3.95S0.05",
+        "Property": "ZT",
+        "Value": 0.55,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s12598-018-1038-6"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2.995Sm0.005SbSe3.95S0.05",
+        "Property": "ZT",
+        "Value": 0.55,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s12598-018-1038-6"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2.995Sm0.005SbSe3.95S0.05",
+        "Property": "ZT",
+        "Value": 0.55,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s12598-019-01235-0"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "BaCu2xTe2",
+  "DOIs_Researched": [
+    "10.1039/d0ta00245c"
+  ],
+  "Data_By_Temperature": {
+    "833.0": [
+      {
+        "Original_Name_In_Paper": "BaCu2+xTe2",
+        "Property": "ZT",
+        "Value": 1.31,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta00245c"
+      }
+    ]
+  }
+}

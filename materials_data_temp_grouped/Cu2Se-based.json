@@ -1,0 +1,37 @@
+{
+  "Material": "Cu2Se-based",
+  "DOIs_Researched": [
+    "10.1016/j.scriptamat.2019.09.009",
+    "10.1039/c8tc04129f"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "Cu2Se-based",
+        "Property": "ThermCond",
+        "Value": 0.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8tc04129f"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2Se-based",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8tc04129f"
+      }
+    ],
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Cu2Se-based",
+        "Property": "Seebeck",
+        "Value": 0.00027499999999999996,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2019.09.009"
+      }
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "Material": "Li2S",
+  "DOIs_Researched": [
+    "10.1039/c6ta05439k",
+    "10.1016/j.electacta.2010.11.045"
+  ],
+  "Data_By_Temperature": {
+    "298.0": [
+      {
+        "Original_Name_In_Paper": "Li2S",
+        "Property": "Conductivity",
+        "Value": 1e-05,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta05439k"
+      },
+      {
+        "Original_Name_In_Paper": "bulk Li2S",
+        "Property": "Conductivity",
+        "Value": 1000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta05439k"
+      },
+      {
+        "Original_Name_In_Paper": "lithium polysulfide",
+        "Property": "Conductivity",
+        "Value": 1000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.electacta.2010.11.045"
+      }
+    ]
+  }
+}

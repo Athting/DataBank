@@ -1,0 +1,27 @@
+{
+  "Material": "PbTe1-xSx",
+  "DOIs_Researched": [
+    "10.1039/c8ta00381e",
+    "10.1016/j.actamat.2017.03.036"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "PbTe1 \u2212 xSx",
+        "Property": "ZT",
+        "Value": 1.55,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta00381e"
+      },
+      {
+        "Original_Name_In_Paper": "PbTe1-xSx",
+        "Property": "ZT",
+        "Value": 1.55,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2017.03.036"
+      }
+    ]
+  }
+}

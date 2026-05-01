@@ -1,0 +1,18 @@
+{
+  "Material": "LiTaSiO5",
+  "DOIs_Researched": [
+    "10.1016/j.joule.2018.08.017"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "LiTaSiO5",
+        "Property": "Conductivity",
+        "Value": 0.1,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": "Zr substitution",
+        "Source_DOI": "10.1016/j.joule.2018.08.017"
+      }
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "Material": "AlFeSi",
+  "DOIs_Researched": [
+    "10.1007/s10973-017-6621-9",
+    "10.1016/j.jpcs.2018.03.003",
+    "10.1007/s11664-018-6735-2",
+    "10.1016/j.intermet.2017.05.019"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Al2Fe3Si3",
+        "Property": "ThermCond",
+        "Value": 4.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10973-017-6621-9"
+      },
+      {
+        "Original_Name_In_Paper": "Al2Fe3Si3",
+        "Property": "ThermCond",
+        "Value": 6.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2018.03.003"
+      },
+      {
+        "Original_Name_In_Paper": "Al2Fe3Si3",
+        "Property": "Seebeck",
+        "Value": 0.00011,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2017.05.019"
+      }
+    ],
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "Al2Fe3Si3",
+        "Property": "ThermCond",
+        "Value": 6.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2018.03.003"
+      }
+    ],
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "Co-substituted Al2Fe3Si3",
+        "Property": "ZT",
+        "Value": 0.09,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-018-6735-2"
+      }
+    ],
+    "580.0": [
+      {
+        "Original_Name_In_Paper": "Al2Fe3Si3",
+        "Property": "ZT",
+        "Value": 0.06,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2017.05.019"
+      }
+    ],
+    "430.0": [
+      {
+        "Original_Name_In_Paper": "Al2Fe3Si3",
+        "Property": "Seebeck",
+        "Value": 0.00011,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2017.05.019"
+      },
+      {
+        "Original_Name_In_Paper": "Al2Fe3Si3",
+        "Property": "Conductivity",
+        "Value": 50000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2017.05.019"
+      }
+    ]
+  }
+}

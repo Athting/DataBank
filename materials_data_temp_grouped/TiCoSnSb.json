@@ -1,0 +1,27 @@
+{
+  "Material": "TiCoSnSb",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2007.12.055",
+    "10.1016/j.jallcom.2005.06.036"
+  ],
+  "Data_By_Temperature": {
+    "988.0": [
+      {
+        "Original_Name_In_Paper": "TiCoSn0.05Sb0.95",
+        "Property": "ZT",
+        "Value": 0.03,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2005.06.036"
+      },
+      {
+        "Original_Name_In_Paper": "TiCoSn0.05Sb0.95",
+        "Property": "Seebeck",
+        "Value": 0.000222,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2007.12.055"
+      }
+    ]
+  }
+}

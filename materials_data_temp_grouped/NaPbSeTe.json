@@ -1,0 +1,27 @@
+{
+  "Material": "NaPbSeTe",
+  "DOIs_Researched": [
+    "10.1007/s11837-016-2060-5",
+    "10.1016/B978-0-12-409547-2.11642-7"
+  ],
+  "Data_By_Temperature": {
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "Na0.02Pb0.98Se0.15Te0.85",
+        "Property": "ZT",
+        "Value": 1.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-12-409547-2.11642-7"
+      },
+      {
+        "Original_Name_In_Paper": "Na0.02Pb0.98Se0.15Te0.85",
+        "Property": "ZT",
+        "Value": 1.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11837-016-2060-5"
+      }
+    ]
+  }
+}

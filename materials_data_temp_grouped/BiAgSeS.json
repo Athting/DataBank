@@ -1,0 +1,44 @@
+{
+  "Material": "BiAgSeS",
+  "DOIs_Researched": [
+    "10.1039/c3ee40879e"
+  ],
+  "Data_By_Temperature": {
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "n-type BiAgSeS",
+        "Property": "ThermCond",
+        "Value": 0.29,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ee40879e"
+      },
+      {
+        "Original_Name_In_Paper": "BiAgSeS",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ee40879e"
+      },
+      {
+        "Original_Name_In_Paper": "pristine BiAgSeS",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ee40879e"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "BiAgSeS",
+        "Property": "ThermCond",
+        "Value": 0.46,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ee40879e"
+      }
+    ]
+  }
+}

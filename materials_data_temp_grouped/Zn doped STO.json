@@ -1,0 +1,18 @@
+{
+  "Material": "Zn doped STO",
+  "DOIs_Researched": [
+    "10.1016/j.ijleo.2019.163481"
+  ],
+  "Data_By_Temperature": {
+    "50.0": [
+      {
+        "Original_Name_In_Paper": "Zn doped STO",
+        "Property": "Seebeck",
+        "Value": 8.4e-06,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ijleo.2019.163481"
+      }
+    ]
+  }
+}

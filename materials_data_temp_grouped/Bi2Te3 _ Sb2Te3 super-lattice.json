@@ -1,0 +1,18 @@
+{
+  "Material": "Bi2Te3 / Sb2Te3 super-lattice",
+  "DOIs_Researched": [
+    "10.1016/B978-0-444-56336-1.50006-0"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Te3 / Sb2Te3 super-lattice",
+        "Property": "ZT",
+        "Value": 2.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-444-56336-1.50006-0"
+      }
+    ]
+  }
+}

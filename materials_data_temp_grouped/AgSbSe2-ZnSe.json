@@ -1,0 +1,62 @@
+{
+  "Material": "AgSbSe2-ZnSe",
+  "DOIs_Researched": [
+    "10.1039/c3ta14901c"
+  ],
+  "Data_By_Temperature": {
+    "635.0": [
+      {
+        "Original_Name_In_Paper": "AgSbSe2\u2013ZnSe ( 2 mol % )",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta14901c"
+      },
+      {
+        "Original_Name_In_Paper": "AgSbSe2\u2013ZnSe ( 2 mol % )",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta14901c"
+      },
+      {
+        "Original_Name_In_Paper": "AgSbSe2\u2013ZnSe ( 2 mol % )",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta14901c"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "AgSbSe2\u2013ZnSe ( 2 mol % )",
+        "Property": "Seebeck",
+        "Value": 0.000215,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta14901c"
+      },
+      {
+        "Original_Name_In_Paper": "AgSbSe2\u2013ZnSe ( 2 mol % )",
+        "Property": "Conductivity",
+        "Value": 6100.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta14901c"
+      }
+    ],
+    "605.0": [
+      {
+        "Original_Name_In_Paper": "AgSbSe2\u2013ZnSe ( 2 mol % )",
+        "Property": "PF",
+        "Value": 0.00033000000000000005,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta14901c"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Mg2Si0.78Ge0.02Sn0.2Sb",
+  "DOIs_Researched": [
+    "10.1134/S1063782619050063"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Si0.78Ge0.02Sn0.2\u3008Sb\u3009",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1134/S1063782619050063"
+      }
+    ]
+  }
+}

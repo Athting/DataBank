@@ -1,0 +1,18 @@
+{
+  "Material": "Sn0.68Pb0.3Te",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2020.155181"
+  ],
+  "Data_By_Temperature": {
+    "840.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.68Pb0.3Zn0.02Te",
+        "Property": "ZT",
+        "Value": 1.6600000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.155181"
+      }
+    ]
+  }
+}

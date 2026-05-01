@@ -1,0 +1,50 @@
+{
+  "Material": "Ba0.92Na0.06Sr0.02Zn2S",
+  "DOIs_Researched": [
+    "10.1039/c6ta03012b"
+  ],
+  "Data_By_Temperature": {
+    "704.0": [
+      {
+        "Original_Name_In_Paper": "Ba0.92Na0.06Sr0.02Zn2Sb2",
+        "Property": "ZT",
+        "Value": 0.58,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta03012b"
+      },
+      {
+        "Original_Name_In_Paper": "Ba0.92Na0.06Sr0.02Zn2Sb2",
+        "Property": "ZT",
+        "Value": 0.58,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta03012b"
+      },
+      {
+        "Original_Name_In_Paper": "Ba0.92Na0.06Sr0.02Zn2Sb2",
+        "Property": "ZT",
+        "Value": 0.58,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta03012b"
+      },
+      {
+        "Original_Name_In_Paper": "Ba0.92Na0.06Sr0.02Zn2Sb2",
+        "Property": "ZT",
+        "Value": 0.58,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta03012b"
+      },
+      {
+        "Original_Name_In_Paper": "Ba0.92Na0.06Sr0.02Zn2Sb2",
+        "Property": "PF",
+        "Value": 0.001246,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta03012b"
+      }
+    ]
+  }
+}

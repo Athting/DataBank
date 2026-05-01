@@ -1,0 +1,18 @@
+{
+  "Material": "C6H8O3S",
+  "DOIs_Researched": [
+    "10.1016/j.pmatsci.2017.09.004"
+  ],
+  "Data_By_Temperature": {
+    "45.0": [
+      {
+        "Original_Name_In_Paper": "Camphor sulphonic acid",
+        "Property": "ZT",
+        "Value": 0.77,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2017.09.004"
+      }
+    ]
+  }
+}

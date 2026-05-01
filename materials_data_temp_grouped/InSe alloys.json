@@ -1,0 +1,18 @@
+{
+  "Material": "InSe alloys",
+  "DOIs_Researched": [
+    "10.1039/c9qi00210c"
+  ],
+  "Data_By_Temperature": {
+    "795.0": [
+      {
+        "Original_Name_In_Paper": "InSe alloys",
+        "Property": "ZT",
+        "Value": 0.14,
+        "Units": null,
+        "Editing": "Si doping",
+        "Source_DOI": "10.1039/c9qi00210c"
+      }
+    ]
+  }
+}

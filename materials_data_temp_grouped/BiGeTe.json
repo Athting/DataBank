@@ -1,0 +1,26 @@
+{
+  "Material": "BiGeTe",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2016.09.043"
+  ],
+  "Data_By_Temperature": {
+    "325.0": [
+      {
+        "Original_Name_In_Paper": "Bi39.0Ge1.0Te60.0",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2016.09.043"
+      },
+      {
+        "Original_Name_In_Paper": "Bi39.0Ge1.0Te60.0",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2016.09.043"
+      }
+    ]
+  }
+}

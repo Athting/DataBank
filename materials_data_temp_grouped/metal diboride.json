@@ -1,0 +1,18 @@
+{
+  "Material": "metal diboride",
+  "DOIs_Researched": [
+    "10.1016/j.jeurceramsoc.2011.02.028"
+  ],
+  "Data_By_Temperature": {
+    "298.0": [
+      {
+        "Original_Name_In_Paper": "metal diboride",
+        "Property": "ThermCond",
+        "Value": 64.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2011.02.028"
+      }
+    ]
+  }
+}

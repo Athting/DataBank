@@ -1,0 +1,18 @@
+{
+  "Material": "BaCoO3",
+  "DOIs_Researched": [
+    "10.1016/S0038-1098(00)00188-5"
+  ],
+  "Data_By_Temperature": {
+    "200.0": [
+      {
+        "Original_Name_In_Paper": "BaCoO3",
+        "Property": "Seebeck",
+        "Value": -5.3e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0038-1098(00)00188-5"
+      }
+    ]
+  }
+}

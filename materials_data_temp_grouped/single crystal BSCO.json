@@ -1,0 +1,18 @@
+{
+  "Material": "single crystal BSCO",
+  "DOIs_Researched": [
+    "10.1007/s10853-009-3279-0"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "single crystal BSCO",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-009-3279-0"
+      }
+    ]
+  }
+}

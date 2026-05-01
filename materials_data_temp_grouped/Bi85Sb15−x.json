@@ -1,0 +1,18 @@
+{
+  "Material": "Bi85Sb15\u2212x",
+  "DOIs_Researched": [
+    "10.1016/j.jpcs.2013.12.006"
+  ],
+  "Data_By_Temperature": {
+    "77.0": [
+      {
+        "Original_Name_In_Paper": "Bi85Sb15\u2212xGex",
+        "Property": "Conductivity",
+        "Value": 84000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2013.12.006"
+      }
+    ]
+  }
+}

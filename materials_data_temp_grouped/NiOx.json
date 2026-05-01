@@ -1,0 +1,28 @@
+{
+  "Material": "NiOx",
+  "DOIs_Researched": [
+    "10.1557/jmr.2012.443"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "NiOx thin film",
+        "Property": "Conductivity",
+        "Value": 0.0208333333,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1557/jmr.2012.443"
+      }
+    ],
+    "473.0": [
+      {
+        "Original_Name_In_Paper": "NiOx thin film",
+        "Property": "PF",
+        "Value": 1.1099999999999999e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1557/jmr.2012.443"
+      }
+    ]
+  }
+}

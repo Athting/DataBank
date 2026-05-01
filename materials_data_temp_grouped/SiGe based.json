@@ -1,0 +1,18 @@
+{
+  "Material": "SiGe based",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2016.07.002"
+  ],
+  "Data_By_Temperature": {
+    "1100.0": [
+      {
+        "Original_Name_In_Paper": "SiGe based",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2016.07.002"
+      }
+    ]
+  }
+}

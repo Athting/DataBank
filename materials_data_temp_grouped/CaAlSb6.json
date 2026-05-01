@@ -1,0 +1,66 @@
+{
+  "Material": "CaAlSb6",
+  "DOIs_Researched": [
+    "10.1039/c2jm32945j",
+    "10.1016/j.jssc.2016.08.030",
+    "10.1039/c3cp54545h",
+    "10.1039/c1jm11463h",
+    "10.1039/c5ra02033f"
+  ],
+  "Data_By_Temperature": {
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "Ca5 Al2 Sb6",
+        "Property": "ThermCond",
+        "Value": 0.6000000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2016.08.030"
+      },
+      {
+        "Original_Name_In_Paper": "Ca5Al2Sb6",
+        "Property": "ThermCond",
+        "Value": 0.6000000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c1jm11463h"
+      }
+    ],
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "Ca5Al2Sb6",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": "substitution of Na",
+        "Source_DOI": "10.1039/c3cp54545h"
+      },
+      {
+        "Original_Name_In_Paper": "Ca5Al2Sb6",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": "substitution of Na",
+        "Source_DOI": "10.1039/c1jm11463h"
+      },
+      {
+        "Original_Name_In_Paper": "Ca5Al2Sb6",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": "substitution of Na",
+        "Source_DOI": "10.1039/c2jm32945j"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Ca5Al2Sb6",
+        "Property": "ZT",
+        "Value": 1.37,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra02033f"
+      }
+    ]
+  }
+}

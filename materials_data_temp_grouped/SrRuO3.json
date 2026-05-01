@@ -1,0 +1,92 @@
+{
+  "Material": "SrRuO3",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2009.04.030",
+    "10.1016/j.jallcom.2012.01.150",
+    "10.1016/j.jallcom.2004.06.053",
+    "10.1016/S0921-5107(03)00195-8",
+    "10.1016/j.mseb.2008.12.026",
+    "10.1007/s10853-008-2739-2",
+    "10.1016/j.jallcom.2010.10.153"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "SrRuO3",
+        "Property": "ThermCond",
+        "Value": 6.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2004.06.053"
+      },
+      {
+        "Original_Name_In_Paper": "SrRuO3",
+        "Property": "Conductivity",
+        "Value": 363636.3636363636,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0921-5107(03)00195-8"
+      },
+      {
+        "Original_Name_In_Paper": "SrRuO3",
+        "Property": "Seebeck",
+        "Value": 3.4e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-008-2739-2"
+      },
+      {
+        "Original_Name_In_Paper": "SrRuO3",
+        "Property": "PF",
+        "Value": 0.0004,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2004.06.053"
+      },
+      {
+        "Original_Name_In_Paper": "SrRuO3",
+        "Property": "PF",
+        "Value": 0.0004,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.10.153"
+      },
+      {
+        "Original_Name_In_Paper": "SrRuO3 single crystals",
+        "Property": "Conductivity",
+        "Value": 500000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2012.01.150"
+      },
+      {
+        "Original_Name_In_Paper": "SrRuO3",
+        "Property": "Conductivity",
+        "Value": 300000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mseb.2008.12.026"
+      }
+    ],
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "SrRuO3",
+        "Property": "ZT",
+        "Value": 0.03,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mseb.2008.12.026"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "SrRuO3",
+        "Property": "Seebeck",
+        "Value": 2.1e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2009.04.030"
+      }
+    ]
+  }
+}

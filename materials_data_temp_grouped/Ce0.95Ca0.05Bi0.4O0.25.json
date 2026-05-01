@@ -1,0 +1,18 @@
+{
+  "Material": "Ce0.95Ca0.05Bi0.4O0.25",
+  "DOIs_Researched": [
+    "10.1039/b002696o"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Ce0.95Ca0.05Bi0.4O0.255",
+        "Property": "Conductivity",
+        "Value": 1.7000000000000002,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/b002696o"
+      }
+    ]
+  }
+}

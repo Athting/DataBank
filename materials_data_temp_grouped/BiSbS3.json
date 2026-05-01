@@ -1,0 +1,18 @@
+{
+  "Material": "BiSbS3",
+  "DOIs_Researched": [
+    "10.1039/d0cp01231a"
+  ],
+  "Data_By_Temperature": {
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "p-type BiSbS3",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0cp01231a"
+      }
+    ]
+  }
+}

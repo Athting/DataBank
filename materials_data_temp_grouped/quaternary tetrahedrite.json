@@ -1,0 +1,26 @@
+{
+  "Material": "quaternary tetrahedrite",
+  "DOIs_Researched": [
+    "10.1039/c5tc90161h"
+  ],
+  "Data_By_Temperature": {
+    "623.0": [
+      {
+        "Original_Name_In_Paper": "quaternary tetrahedrite",
+        "Property": "ThermCond",
+        "Value": 0.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": "Te substitution",
+        "Source_DOI": "10.1039/c5tc90161h"
+      },
+      {
+        "Original_Name_In_Paper": "quaternary tetrahedrite",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": "Te substitution",
+        "Source_DOI": "10.1039/c5tc90161h"
+      }
+    ]
+  }
+}

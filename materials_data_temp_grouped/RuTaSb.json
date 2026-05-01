@@ -1,0 +1,35 @@
+{
+  "Material": "RuTaSb",
+  "DOIs_Researched": [
+    "10.1039/c6cp07897d",
+    "10.1007/s00339-018-2259-0"
+  ],
+  "Data_By_Temperature": {
+    "1200.0": [
+      {
+        "Original_Name_In_Paper": "p-type RuTaSb alloy",
+        "Property": "ZT",
+        "Value": 1.54,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s00339-018-2259-0"
+      },
+      {
+        "Original_Name_In_Paper": "p-type RuTaSb alloys",
+        "Property": "ZT",
+        "Value": 1.54,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6cp07897d"
+      },
+      {
+        "Original_Name_In_Paper": "p-type RuTaSb",
+        "Property": "ZT",
+        "Value": 1.54,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6cp07897d"
+      }
+    ]
+  }
+}

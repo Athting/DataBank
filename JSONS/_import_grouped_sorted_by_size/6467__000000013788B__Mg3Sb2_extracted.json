@@ -1,0 +1,533 @@
+{
+  "doi": "10.1016/j.actamat.2015.04.023",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "pure Mg3Sb2",
+        "Mg3Sb2",
+        "bulk Mg3Sb2",
+        "undoped Mg3Sb2",
+        "Zn-substituted Mg3Sb2",
+        "p-type undoped Mg3Sb2",
+        "Mg3Sb2via",
+        "bulk nanostructured Mg3Sb2",
+        "bulk Mg3Sb2 alloy",
+        "Y-doped Mg3Sb2",
+        "Sn-doped Mg3Sb2 alloys",
+        "Ag-doped Mg3Sb2",
+        "Sc-doped Mg3Sb2",
+        "nondoped Mg3Sb2",
+        "polycrystalline Mg3Sb2",
+        "n-type Mg3Sb2",
+        "p-type Mg3Sb2",
+        "Mg3Sb2 alloy",
+        "Te-doped n-type Mg3Sb2",
+        "Ba-doped p-type Mg3Sb2",
+        "Pure Mg3Sb2",
+        "La-doped Mg3Sb2"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "Mg3Sb2",
+          "value": 0.000363,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Mg3Sb2",
+          "value": 0.0001935,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Mg3Sb2",
+          "value": 0.000363,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "290.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "Mg3Sb2",
+          "value": 39.6825396825,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "undoped Mg3Sb2",
+          "value": 0.000008,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Mg3Sb2",
+          "value": 226.36,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Mg3Sb2",
+          "value": 1,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Mg3Sb2",
+          "value": 1,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Mg3Sb2",
+          "value": 1,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Mg3Sb2",
+          "value": 43.4782608696,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "500.0 K"
+        },
+        {
+          "material": "Mg3Sb2",
+          "value": 30.303030303,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "290.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "pure Mg3Sb2",
+          "value": 1.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Mg3Sb2",
+          "value": 1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Mg3Sb2",
+          "value": 1.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure Mg3Sb2",
+          "value": 1.65,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "bulk Mg3Sb2",
+          "value": 1.38,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Mg3Sb2",
+          "value": 4.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Mg3Sb2",
+          "value": 1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Mg3Sb2",
+          "value": 2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Mg3Sb2",
+          "value": 2.55,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Mg3Sb2",
+          "value": 1.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "undoped Mg3Sb2",
+          "value": 0.7000000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Mg3Sb2",
+          "value": 0.34,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Mg3Sb2",
+          "value": 0.54,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Mg3Sb2",
+          "value": 0.72,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "Mg3Sb2",
+          "value": 4.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "500.0 K"
+        },
+        {
+          "material": "Sc-doped Mg3Sb2",
+          "value": 0.78,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "770.0 K"
+        },
+        {
+          "material": "nondoped Mg3Sb2",
+          "value": 0.88,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "770.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Mg3Sb2",
+          "value": 0.0000084,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "undoped Mg3Sb2",
+          "value": 0.0002,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Ag-doped Mg3Sb2",
+          "value": 0.0005,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Mg3Sb2",
+          "value": 0.000198,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "La-doped Mg3Sb2",
+          "value": 0.00136,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "620.0 K"
+        },
+        {
+          "material": "Sc-doped Mg3Sb2",
+          "value": 0.00133,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "470.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Mg3Sb2",
+          "zt_value": 0.0018000000000000002,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Zn-substituted Mg3Sb2",
+          "zt_value": 0.000556,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "p-type undoped Mg3Sb2",
+          "zt_value": 0.002,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Mg3Sb2",
+          "zt_value": 0.30000000000000004,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Mg3Sb2via",
+          "zt_value": 1.65,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "bulk Mg3Sb2",
+          "zt_value": 0.4,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "bulk nanostructured Mg3Sb2",
+          "zt_value": 0.4,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "bulk Mg3Sb2 alloy",
+          "zt_value": 0.26,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Mg3Sb2",
+          "zt_value": 0.30000000000000004,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Mg3Sb2",
+          "zt_value": 0.71,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Mg3Sb2",
+          "zt_value": 0.71,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Mg3Sb2",
+          "zt_value": 0.71,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Mg3Sb2",
+          "zt_value": 0.26,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Mg3Sb2",
+          "zt_value": 0.71,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Mg3Sb2",
+          "zt_value": 0.26,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Mg3Sb2",
+          "zt_value": 0.30000000000000004,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Mg3Sb2",
+          "zt_value": 1.25,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "undoped Mg3Sb2",
+          "zt_value": 0.26,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Mg3Sb2",
+          "zt_value": 0.8,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Y-doped Mg3Sb2",
+          "zt_value": 0.03,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Mg3Sb2",
+          "zt_value": 0.84,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Sn-doped Mg3Sb2 alloys",
+          "zt_value": 0.42,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Mg3Sb2",
+          "zt_value": 1.7000000000000002,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "Sc-doped Mg3Sb2",
+          "zt_value": 0.93,
+          "temperature": "770.0 K"
+        },
+        {
+          "material": "Sc-doped Mg3Sb2",
+          "zt_value": 0.93,
+          "temperature": "770.0 K"
+        },
+        {
+          "material": "Sc-doped Mg3Sb2",
+          "zt_value": 0.93,
+          "temperature": "770.0 K"
+        },
+        {
+          "material": "polycrystalline Mg3Sb2",
+          "zt_value": 0.55,
+          "temperature": "660.0 K"
+        },
+        {
+          "material": "Mg3Sb2",
+          "zt_value": 0.55,
+          "temperature": "660.0 K"
+        },
+        {
+          "material": "nondoped Mg3Sb2",
+          "zt_value": 0.28,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "Mg3Sb2",
+          "zt_value": 0.21,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "n-type Mg3Sb2",
+          "zt_value": 2.1,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "p-type Mg3Sb2",
+          "zt_value": 1.5,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "n-type Mg3Sb2",
+          "zt_value": 2.1,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "p-type Mg3Sb2",
+          "zt_value": 1.42,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "n-type Mg3Sb2",
+          "zt_value": 2.1,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "p-type Mg3Sb2",
+          "zt_value": 0.6000000000000001,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "polycrystalline Mg3Sb2",
+          "zt_value": 0.6000000000000001,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "Mg3Sb2",
+          "zt_value": 0.26,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "Mg3Sb2",
+          "zt_value": 0.26,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "Mg3Sb2 alloy",
+          "zt_value": 0.2,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "n-type Mg3Sb2",
+          "zt_value": 1.6,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "Te-doped n-type Mg3Sb2",
+          "zt_value": 1.6,
+          "temperature": "720.0 K"
+        },
+        {
+          "material": "n-type Mg3Sb2",
+          "zt_value": 1.85,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "n-type Mg3Sb2",
+          "zt_value": 1.85,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "Mg3Sb2",
+          "zt_value": 0.36,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "Ba-doped p-type Mg3Sb2",
+          "zt_value": 1.2,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "p-type Mg3Sb2",
+          "zt_value": 1.2,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "Mg3Sb2",
+          "zt_value": 0.55,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "Mg3Sb2",
+          "zt_value": 0.55,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "n-type Mg3Sb2",
+          "zt_value": 0.2,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "Mg3Sb2",
+          "zt_value": 0.2,
+          "temperature": "875.0 K"
+        },
+        {
+          "material": "Pure Mg3Sb2",
+          "zt_value": 0.21,
+          "temperature": "725.0 K"
+        },
+        {
+          "material": "Mg3Sb2",
+          "zt_value": 1.65,
+          "temperature": "725.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

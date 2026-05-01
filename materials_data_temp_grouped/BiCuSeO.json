@@ -1,0 +1,2036 @@
+{
+  "Material": "BiCuSeO",
+  "DOIs_Researched": [
+    "10.1016/j.matlet.2018.01.074",
+    "10.1016/j.physleta.2016.10.039",
+    "10.1039/c6dt04885d",
+    "10.1016/j.scib.2017.11.015",
+    "10.1016/j.mattod.2019.07.003",
+    "10.1007/s42114-017-0011-4",
+    "10.1039/c6qi00435k",
+    "10.1016/j.jeurceramsoc.2014.09.015",
+    "10.1007/s10854-020-03095-2",
+    "10.1016/j.jmrt.2020.11.022",
+    "10.1016/j.jssc.2018.12.001",
+    "10.1039/c2ee22622g",
+    "10.1016/j.matlet.2015.03.098",
+    "10.1016/j.ceramint.2019.02.003",
+    "10.1016/j.jallcom.2017.02.290",
+    "10.1039/c6cp02739c",
+    "10.1016/j.apsusc.2018.12.231",
+    "10.1039/c3ta12094e",
+    "10.1039/c3cc44578j",
+    "10.1039/c3ta14532h",
+    "10.1038/am.2013.15",
+    "10.1016/j.ceramint.2019.04.231",
+    "10.1016/j.jmat.2015.01.001",
+    "10.1016/j.cocom.2020.e00529",
+    "10.1016/j.jallcom.2019.152106",
+    "10.1016/j.mser.2018.09.001",
+    "10.1186/s11671-018-2752-6",
+    "10.1039/c3ta11806a",
+    "10.1039/c8ta03521k",
+    "10.1016/j.jmat.2019.06.002",
+    "10.1016/j.apsusc.2016.10.209",
+    "10.1007/s11837-014-1218-2",
+    "10.1016/j.jallcom.2018.01.371",
+    "10.1039/c6ra01686c",
+    "10.1038/srep03449",
+    "10.1016/j.jssc.2018.07.034",
+    "10.1039/c8qi01402g",
+    "10.1039/c7ta03659k",
+    "10.1016/j.scriptamat.2020.06.043",
+    "10.1016/j.jallcom.2017.04.121",
+    "10.1039/c4dt03556a",
+    "10.1016/j.ceramint.2018.11.130",
+    "10.1016/j.jallcom.2016.08.236",
+    "10.1016/j.jssc.2018.06.011",
+    "10.1016/j.jallcom.2020.154161",
+    "10.1039/c4ta02050b",
+    "10.1039/c6tc00461j",
+    "10.1186/s11671-019-3190-9",
+    "10.1039/c2ee21274a",
+    "10.1016/j.jssc.2017.11.012",
+    "10.1016/j.ceramint.2018.10.190",
+    "10.1039/c6ta08788d",
+    "10.1039/c7ra05193j",
+    "10.1039/d0ta00240b",
+    "10.1039/c8tc02700e",
+    "10.1016/j.jallcom.2016.07.235",
+    "10.1016/j.nanoen.2016.07.003",
+    "10.1007/s10854-020-04675-y",
+    "10.1016/j.apenergy.2014.12.075",
+    "10.1016/j.mtphys.2018.09.002",
+    "10.1007/s11664-017-5579-5",
+    "10.1016/j.ensm.2016.01.009",
+    "10.1016/j.materresbull.2020.110841",
+    "10.1039/c2ta00818a",
+    "10.1016/j.jallcom.2015.12.087",
+    "10.1016/j.actamat.2018.10.052",
+    "10.1039/c4ra02595d",
+    "10.1016/j.ceramint.2017.02.005",
+    "10.1016/j.jallcom.2020.154755",
+    "10.1016/j.commatsci.2019.109273",
+    "10.1039/c7cp01755c",
+    "10.1039/c4ee00997e",
+    "10.1016/j.matdes.2019.108263",
+    "10.1016/j.jallcom.2017.11.104",
+    "10.1007/s11664-015-3700-1",
+    "10.1016/j.ceramint.2017.09.143",
+    "10.1016/j.jallcom.2012.10.160",
+    "10.1016/j.solidstatesciences.2019.106019",
+    "10.1039/c8dt02026d"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "ThermCond",
+        "Value": 0.6000000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta00240b"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO polycrystalline bulk",
+        "Property": "ThermCond",
+        "Value": 0.55,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8dt02026d"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "ThermCond",
+        "Value": 0.6000000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mser.2018.09.001"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "ThermCond",
+        "Value": 0.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ra05193j"
+      },
+      {
+        "Original_Name_In_Paper": "pristine BiCuSeO",
+        "Property": "ThermCond",
+        "Value": 0.9,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta14532h"
+      },
+      {
+        "Original_Name_In_Paper": "layered BiCuSeO",
+        "Property": "ThermCond",
+        "Value": 1.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6tc00461j"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "ThermCond",
+        "Value": 1.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2020.06.043"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "ThermCond",
+        "Value": 1.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4dt03556a"
+      },
+      {
+        "Original_Name_In_Paper": "pristine BiCuSeO",
+        "Property": "Seebeck",
+        "Value": 0.000361,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra01686c"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO film on glass",
+        "Property": "Seebeck",
+        "Value": 0.000217,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8dt02026d"
+      },
+      {
+        "Original_Name_In_Paper": "Pb-doped BiCuSeO",
+        "Property": "Seebeck",
+        "Value": 0.000158,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta03521k"
+      },
+      {
+        "Original_Name_In_Paper": "Pristine BiCuSeO",
+        "Property": "Seebeck",
+        "Value": 0.00035000000000000005,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mser.2018.09.001"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "Seebeck",
+        "Value": 0.00043000000000000004,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2ta00818a"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO film",
+        "Property": "Seebeck",
+        "Value": 0.000204,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1186/s11671-019-3190-9"
+      },
+      {
+        "Original_Name_In_Paper": "pristine BiCuSeO",
+        "Property": "Seebeck",
+        "Value": 0.000381,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2018.06.011"
+      },
+      {
+        "Original_Name_In_Paper": "pristine BiCuSeO",
+        "Property": "Seebeck",
+        "Value": 0.000381,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2018.06.011"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "Seebeck",
+        "Value": 0.00035000000000000005,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ee00997e"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "PF",
+        "Value": 8e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.152106"
+      },
+      {
+        "Original_Name_In_Paper": "pristine BiCuSeO",
+        "Property": "PF",
+        "Value": 1.56e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154755"
+      },
+      {
+        "Original_Name_In_Paper": "Pristine BiCuSeO",
+        "Property": "Conductivity",
+        "Value": 112.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta00240b"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "Conductivity",
+        "Value": 770.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.152106"
+      },
+      {
+        "Original_Name_In_Paper": "pristine BiCuSeO",
+        "Property": "Conductivity",
+        "Value": 800.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2018.01.074"
+      },
+      {
+        "Original_Name_In_Paper": "pristine BiCuSeO",
+        "Property": "Conductivity",
+        "Value": 16.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matdes.2019.108263"
+      },
+      {
+        "Original_Name_In_Paper": "pristine BiCuSeO",
+        "Property": "Conductivity",
+        "Value": 800.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2018.07.034"
+      },
+      {
+        "Original_Name_In_Paper": "pristine BiCuSeO",
+        "Property": "Conductivity",
+        "Value": 800.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2018.06.011"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "Conductivity",
+        "Value": 189.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2018.12.231"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO nanosheets",
+        "Property": "Conductivity",
+        "Value": 1500.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6qi00435k"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "pure BiCuSeO",
+        "Property": "ThermCond",
+        "Value": 1.03,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2017.09.143"
+      },
+      {
+        "Original_Name_In_Paper": "pristine BiCuSeO",
+        "Property": "ThermCond",
+        "Value": 0.8300000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2018.01.074"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "ThermCond",
+        "Value": 0.54,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2012.10.160"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "ThermCond",
+        "Value": 0.52,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2012.10.160"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "ThermCond",
+        "Value": 0.52,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2012.10.160"
+      },
+      {
+        "Original_Name_In_Paper": "undoped BiCuSeO",
+        "Property": "ThermCond",
+        "Value": 0.85,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2014.09.015"
+      },
+      {
+        "Original_Name_In_Paper": "pristine BiCuSeO",
+        "Property": "ThermCond",
+        "Value": 0.89,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154755"
+      },
+      {
+        "Original_Name_In_Paper": "undoped BiCuSeO",
+        "Property": "ThermCond",
+        "Value": 0.89,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2013.15"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "ThermCond",
+        "Value": 0.88,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2013.15"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "ThermCond",
+        "Value": 0.88,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2013.15"
+      },
+      {
+        "Original_Name_In_Paper": "undoped BiCuSeO",
+        "Property": "ThermCond",
+        "Value": 0.88,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2013.15"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "ThermCond",
+        "Value": 0.9,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2013.15"
+      },
+      {
+        "Original_Name_In_Paper": "pristine BiCuSeO",
+        "Property": "ThermCond",
+        "Value": 0.8300000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2018.07.034"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "ThermCond",
+        "Value": 0.9,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ee00997e"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "ThermCond",
+        "Value": 0.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ee00997e"
+      },
+      {
+        "Original_Name_In_Paper": "pristine BiCuSeO",
+        "Property": "ThermCond",
+        "Value": 0.8300000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2018.06.011"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "ThermCond",
+        "Value": 0.54,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2ee22622g"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "ThermCond",
+        "Value": 0.52,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2ee22622g"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "ThermCond",
+        "Value": 0.52,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2ee22622g"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "ThermCond",
+        "Value": 0.47000000000000003,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2019.06.002"
+      },
+      {
+        "Original_Name_In_Paper": "undoped BiCuSeO",
+        "Property": "ThermCond",
+        "Value": 0.75,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.12.087"
+      },
+      {
+        "Original_Name_In_Paper": "pristine BiCuSeO",
+        "Property": "ThermCond",
+        "Value": 0.63,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8tc02700e"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "Seebeck",
+        "Value": 0.00035299999999999996,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2012.10.160"
+      },
+      {
+        "Original_Name_In_Paper": "pristine BiCuSeO",
+        "Property": "Seebeck",
+        "Value": 0.000355,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matdes.2019.108263"
+      },
+      {
+        "Original_Name_In_Paper": "pure BiCuSeO",
+        "Property": "Seebeck",
+        "Value": 0.000496,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2014.09.015"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "Seebeck",
+        "Value": 0.00035299999999999996,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2ee22622g"
+      },
+      {
+        "Original_Name_In_Paper": "pure pristine BiCuSeO",
+        "Property": "Seebeck",
+        "Value": 0.000423,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2018.12.231"
+      },
+      {
+        "Original_Name_In_Paper": "pristine BiCuSeO",
+        "Property": "Seebeck",
+        "Value": 0.00035000000000000005,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ee00997e"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "Seebeck",
+        "Value": 0.00035000000000000005,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ee00997e"
+      },
+      {
+        "Original_Name_In_Paper": "pristine BiCuSeO",
+        "Property": "Seebeck",
+        "Value": 0.000235,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2017.09.143"
+      },
+      {
+        "Original_Name_In_Paper": "un-doped polycrystalline BiCuSeO",
+        "Property": "Seebeck",
+        "Value": 0.00035000000000000005,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s42114-017-0011-4"
+      },
+      {
+        "Original_Name_In_Paper": "pristine BiCuSeO",
+        "Property": "Seebeck",
+        "Value": 0.000235,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2017.02.005"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "Seebeck",
+        "Value": 0.000357,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2019.106019"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "Conductivity",
+        "Value": 112.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2012.10.160"
+      },
+      {
+        "Original_Name_In_Paper": "pristine BiCuSeO",
+        "Property": "Conductivity",
+        "Value": 112.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154755"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "Conductivity",
+        "Value": 500.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ensm.2016.01.009"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "Conductivity",
+        "Value": 112.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta14532h"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "Conductivity",
+        "Value": 112.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2013.15"
+      },
+      {
+        "Original_Name_In_Paper": "un-doped polycrystalline BiCuSeO",
+        "Property": "Conductivity",
+        "Value": 112.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s42114-017-0011-4"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "Conductivity",
+        "Value": 213.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta11806a"
+      },
+      {
+        "Original_Name_In_Paper": "undoped BiCuSeO",
+        "Property": "Conductivity",
+        "Value": 112.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2019.106019"
+      }
+    ],
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "ThermCond",
+        "Value": 0.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physleta.2016.10.039"
+      },
+      {
+        "Original_Name_In_Paper": "alkali metals doped BiCuSeO",
+        "Property": "ThermCond",
+        "Value": 0.52,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2012.10.160"
+      },
+      {
+        "Original_Name_In_Paper": "layered BiCuSeO oxyselenide",
+        "Property": "ThermCond",
+        "Value": 0.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.01.371"
+      },
+      {
+        "Original_Name_In_Paper": "Pristine BiCuSeO",
+        "Property": "ThermCond",
+        "Value": 0.52,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2016.07.003"
+      },
+      {
+        "Original_Name_In_Paper": "3 % Ag-doped BiCuSeO",
+        "Property": "ThermCond",
+        "Value": 0.41000000000000003,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.08.236"
+      },
+      {
+        "Original_Name_In_Paper": "p-type BiCuSeO oxyselenide",
+        "Property": "ThermCond",
+        "Value": 0.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta14532h"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "ThermCond",
+        "Value": 0.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta02050b"
+      },
+      {
+        "Original_Name_In_Paper": "layered quaternary oxyselenide BiCuSeO",
+        "Property": "ThermCond",
+        "Value": 0.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta08788d"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "ThermCond",
+        "Value": 0.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.04.121"
+      },
+      {
+        "Original_Name_In_Paper": "Pristine BiCuSeO",
+        "Property": "ThermCond",
+        "Value": 1.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-020-04675-y"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "ThermCond",
+        "Value": 0.6000000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4dt03556a"
+      },
+      {
+        "Original_Name_In_Paper": "undoped BiCuSeO",
+        "Property": "ThermCond",
+        "Value": 0.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2019.106019"
+      },
+      {
+        "Original_Name_In_Paper": "undoped BiCuSeO",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2019.106019"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11837-014-1218-2"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.04.121"
+      },
+      {
+        "Original_Name_In_Paper": "textured BiCuSeO",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/srep03449"
+      },
+      {
+        "Original_Name_In_Paper": "Pristine BiCuSeO",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-020-04675-y"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": "doping with Ba",
+        "Source_DOI": "10.1039/c2ee22622g"
+      },
+      {
+        "Original_Name_In_Paper": "BiCu0.975SeO",
+        "Property": "ZT",
+        "Value": 0.81,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2ee22622g"
+      },
+      {
+        "Original_Name_In_Paper": "Ca-doped BiCuSeO",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apenergy.2014.12.075"
+      },
+      {
+        "Original_Name_In_Paper": "BiCu0.975SeO",
+        "Property": "ZT",
+        "Value": 0.81,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ee00997e"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ee00997e"
+      },
+      {
+        "Original_Name_In_Paper": "Ba-doped BiCuSeO",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8tc02700e"
+      },
+      {
+        "Original_Name_In_Paper": "Ba-doped BiCuSeO",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta02050b"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2015.01.001"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2019.109273"
+      },
+      {
+        "Original_Name_In_Paper": "BiCu0.975SeO",
+        "Property": "ZT",
+        "Value": 0.81,
+        "Units": null,
+        "Editing": "introducing Cu",
+        "Source_DOI": "10.1016/j.commatsci.2019.109273"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2020.06.043"
+      },
+      {
+        "Original_Name_In_Paper": "BiCu0.975SeO",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2ta00818a"
+      },
+      {
+        "Original_Name_In_Paper": "Ba-doped BiCuSeO",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ensm.2016.01.009"
+      },
+      {
+        "Original_Name_In_Paper": "pristine BiCuSeO",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta14532h"
+      },
+      {
+        "Original_Name_In_Paper": "BiCu0.975SeO",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2013.15"
+      },
+      {
+        "Original_Name_In_Paper": "pure BiCuSeO",
+        "Property": "ZT",
+        "Value": 0.53,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2013.15"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2016.10.209"
+      },
+      {
+        "Original_Name_In_Paper": "pristine BiCuSeO",
+        "Property": "ZT",
+        "Value": 0.45,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2012.10.160"
+      },
+      {
+        "Original_Name_In_Paper": "alkali metals doped BiCuSeO",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2012.10.160"
+      },
+      {
+        "Original_Name_In_Paper": "Pristine BiCuSeO",
+        "Property": "Seebeck",
+        "Value": 0.30000000000000004,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-020-04675-y"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "Seebeck",
+        "Value": 0.00045000000000000004,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta14532h"
+      },
+      {
+        "Original_Name_In_Paper": "undoped BiCuSeO",
+        "Property": "Seebeck",
+        "Value": 0.000425,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2019.106019"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "PF",
+        "Value": 0.0008100000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2017.09.143"
+      },
+      {
+        "Original_Name_In_Paper": "pristine BiCuSeO",
+        "Property": "PF",
+        "Value": 2.3e-06,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ta03659k"
+      },
+      {
+        "Original_Name_In_Paper": "Ca-doped BiCuSeO",
+        "Property": "PF",
+        "Value": 0.000474,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154755"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO with 5 % Cd",
+        "Property": "PF",
+        "Value": 0.0006000000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra01686c"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "PF",
+        "Value": 0.000308,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra01686c"
+      },
+      {
+        "Original_Name_In_Paper": "BiCu0.975SeO",
+        "Property": "PF",
+        "Value": 0.00041000000000000005,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2013.15"
+      },
+      {
+        "Original_Name_In_Paper": "BiCu0.975SeO",
+        "Property": "Conductivity",
+        "Value": 5300.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta00240b"
+      },
+      {
+        "Original_Name_In_Paper": "BiCu0.975SeO",
+        "Property": "Conductivity",
+        "Value": 5300.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ee00997e"
+      },
+      {
+        "Original_Name_In_Paper": "pristine BiCuSeO",
+        "Property": "Conductivity",
+        "Value": 470.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ee00997e"
+      }
+    ],
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "pristine BiCuSeO",
+        "Property": "ThermCond",
+        "Value": 0.58,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matdes.2019.108263"
+      },
+      {
+        "Original_Name_In_Paper": "pristine BiCuSeO",
+        "Property": "ThermCond",
+        "Value": 0.6000000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154755"
+      },
+      {
+        "Original_Name_In_Paper": "Pristine BiCuSeO",
+        "Property": "ThermCond",
+        "Value": 0.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta12094e"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "ZT",
+        "Value": 0.77,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-020-04675-y"
+      },
+      {
+        "Original_Name_In_Paper": "undoped BiCuSeO",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2017.11.012"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2019.02.003"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": "co-doping of Ca2+ and Pb2+",
+        "Source_DOI": "10.1016/j.jallcom.2020.154161"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": "substitution of Bi",
+        "Source_DOI": "10.1016/j.materresbull.2020.110841"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2019.04.231"
+      },
+      {
+        "Original_Name_In_Paper": "pristine BiCuSeO",
+        "Property": "ZT",
+        "Value": 2.7,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2018.06.011"
+      },
+      {
+        "Original_Name_In_Paper": "pristine BiCuSeO",
+        "Property": "ZT",
+        "Value": 0.54,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2018.06.011"
+      },
+      {
+        "Original_Name_In_Paper": "Sr-doped BiCuSeO",
+        "Property": "ZT",
+        "Value": 0.76,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ee00997e"
+      },
+      {
+        "Original_Name_In_Paper": "pristine BiCuSeO",
+        "Property": "ZT",
+        "Value": 0.39,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8tc02700e"
+      },
+      {
+        "Original_Name_In_Paper": "pristine BiCuSeO",
+        "Property": "ZT",
+        "Value": 0.39,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8tc02700e"
+      },
+      {
+        "Original_Name_In_Paper": "undoped BiCuSeO",
+        "Property": "ZT",
+        "Value": 0.97,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-015-3700-1"
+      },
+      {
+        "Original_Name_In_Paper": "BiCu0.975SeO",
+        "Property": "ZT",
+        "Value": 0.675,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmrt.2020.11.022"
+      },
+      {
+        "Original_Name_In_Paper": "doped BiCuSeO",
+        "Property": "ZT",
+        "Value": 0.76,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2017.02.005"
+      },
+      {
+        "Original_Name_In_Paper": "BiCu0.9Zn0.1SeO",
+        "Property": "ZT",
+        "Value": 0.65,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2017.02.005"
+      },
+      {
+        "Original_Name_In_Paper": "pristine BiCuSeO",
+        "Property": "ZT",
+        "Value": 0.52,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2014.09.015"
+      },
+      {
+        "Original_Name_In_Paper": "pristine BiCuSeO",
+        "Property": "ZT",
+        "Value": 0.49,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matdes.2019.108263"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "ZT",
+        "Value": 0.49,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matdes.2019.108263"
+      },
+      {
+        "Original_Name_In_Paper": "BiCu0.975SeO",
+        "Property": "ZT",
+        "Value": 0.67,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matdes.2019.108263"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta00240b"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "ZT",
+        "Value": 0.76,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta00240b"
+      },
+      {
+        "Original_Name_In_Paper": "Te-doped BiCuSeO",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2018.09.002"
+      },
+      {
+        "Original_Name_In_Paper": "un-doped BiCuSeO",
+        "Property": "ZT",
+        "Value": 0.54,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2018.01.074"
+      },
+      {
+        "Original_Name_In_Paper": "pristine BiCuSeO",
+        "Property": "ZT",
+        "Value": 0.54,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2018.01.074"
+      },
+      {
+        "Original_Name_In_Paper": "pristine BiCuSeO",
+        "Property": "Seebeck",
+        "Value": 0.000251,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matdes.2019.108263"
+      },
+      {
+        "Original_Name_In_Paper": "pristine BiCuSeO",
+        "Property": "Seebeck",
+        "Value": 0.00033000000000000005,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": "Yb - doping",
+        "Source_DOI": "10.1039/c8tc02700e"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "Seebeck",
+        "Value": 0.00023,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cp01755c"
+      },
+      {
+        "Original_Name_In_Paper": "pristine BiCuSeO",
+        "Property": "PF",
+        "Value": 0.00028000000000000003,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2018.06.011"
+      },
+      {
+        "Original_Name_In_Paper": "pristine BiCuSeO",
+        "Property": "PF",
+        "Value": 0.00028000000000000003,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2018.12.001"
+      },
+      {
+        "Original_Name_In_Paper": "pristine BiCuSeO",
+        "Property": "PF",
+        "Value": 0.00028000000000000003,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2018.07.034"
+      },
+      {
+        "Original_Name_In_Paper": "Li-doped BiCuSeO",
+        "Property": "PF",
+        "Value": 0.00030000000000000003,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154755"
+      },
+      {
+        "Original_Name_In_Paper": "pristine BiCuSeO",
+        "Property": "PF",
+        "Value": 0.00028000000000000003,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2018.01.074"
+      },
+      {
+        "Original_Name_In_Paper": "pristine BiCuSeO",
+        "Property": "PF",
+        "Value": 0.00028000000000000003,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.11.130"
+      },
+      {
+        "Original_Name_In_Paper": "pristine BiCuSeO",
+        "Property": "PF",
+        "Value": 0.00013000000000000002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8tc02700e"
+      },
+      {
+        "Original_Name_In_Paper": "pristine BiCuSeO",
+        "Property": "Conductivity",
+        "Value": 3400.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matdes.2019.108263"
+      },
+      {
+        "Original_Name_In_Paper": "pristine BiCuSeO",
+        "Property": "Conductivity",
+        "Value": 1130.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154755"
+      },
+      {
+        "Original_Name_In_Paper": "undoped BiCuSeO",
+        "Property": "Conductivity",
+        "Value": 2500.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.11.130"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "Conductivity",
+        "Value": 1200.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8tc02700e"
+      },
+      {
+        "Original_Name_In_Paper": "n-type BiCuSeO materials",
+        "Property": "Conductivity",
+        "Value": 500.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2017.11.012"
+      }
+    ],
+    "298.0": [
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "ThermCond",
+        "Value": 0.86,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmrt.2020.11.022"
+      }
+    ],
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "BiCuSeO materials",
+        "Property": "ThermCond",
+        "Value": 0.37,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-020-03095-2"
+      },
+      {
+        "Original_Name_In_Paper": "pristine BiCuSeO",
+        "Property": "ThermCond",
+        "Value": 0.38,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2017.02.005"
+      },
+      {
+        "Original_Name_In_Paper": "BiCu0.95Ag0.05SeO",
+        "Property": "ThermCond",
+        "Value": 0.38,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2017.02.005"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO bulks",
+        "Property": "ZT",
+        "Value": 0.84,
+        "Units": null,
+        "Editing": "introducing Bi",
+        "Source_DOI": "10.1186/s11671-018-2752-6"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO materials",
+        "Property": "ZT",
+        "Value": 0.84,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-020-03095-2"
+      },
+      {
+        "Original_Name_In_Paper": "pristine BiCuSeO",
+        "Property": "ZT",
+        "Value": 0.72,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2017.02.005"
+      },
+      {
+        "Original_Name_In_Paper": "BiCu0.95Ag0.05SeO",
+        "Property": "ZT",
+        "Value": 0.72,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2017.02.005"
+      },
+      {
+        "Original_Name_In_Paper": "BiCu0.95Ag0.05SeO",
+        "Property": "ZT",
+        "Value": 0.72,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2017.02.005"
+      },
+      {
+        "Original_Name_In_Paper": "BiCu0.975SeO",
+        "Property": "ZT",
+        "Value": 0.81,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta00240b"
+      },
+      {
+        "Original_Name_In_Paper": "pristine BiCuSeO",
+        "Property": "PF",
+        "Value": 0.000254,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2017.09.143"
+      },
+      {
+        "Original_Name_In_Paper": "BiCu0.95Ag0.05SeO",
+        "Property": "PF",
+        "Value": 0.000367,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2017.02.005"
+      },
+      {
+        "Original_Name_In_Paper": "BiCu0.95Ag0.05SeO",
+        "Property": "PF",
+        "Value": 0.000367,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2017.02.005"
+      },
+      {
+        "Original_Name_In_Paper": "pristine BiCuSeO",
+        "Property": "PF",
+        "Value": 0.000254,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2017.02.005"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "Conductivity",
+        "Value": 2890.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2017.02.005"
+      },
+      {
+        "Original_Name_In_Paper": "BiCu0.98Ag0.02SeO",
+        "Property": "Conductivity",
+        "Value": 3660.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2017.02.005"
+      },
+      {
+        "Original_Name_In_Paper": "pure BiCuSeO",
+        "Property": "Conductivity",
+        "Value": 2890.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-017-5579-5"
+      }
+    ],
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "BiCuSeO oxyselenide",
+        "Property": "ThermCond",
+        "Value": 0.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.07.235"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "ThermCond",
+        "Value": 0.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6cp02739c"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cp01755c"
+      }
+    ],
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "pristine BiCuSeO bulk",
+        "Property": "ThermCond",
+        "Value": 1.32,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.02.290"
+      },
+      {
+        "Original_Name_In_Paper": "pristine BiCuSeO",
+        "Property": "ThermCond",
+        "Value": 0.52,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2020.110841"
+      },
+      {
+        "Original_Name_In_Paper": "Pristine BiCuSeO",
+        "Property": "Seebeck",
+        "Value": 0.000423,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2020.110841"
+      },
+      {
+        "Original_Name_In_Paper": "pristine BiCuSeO",
+        "Property": "PF",
+        "Value": 0.9,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-020-04675-y"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "Conductivity",
+        "Value": 160.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.02.290"
+      },
+      {
+        "Original_Name_In_Paper": "doped BiCuSeO",
+        "Property": "Conductivity",
+        "Value": 331.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2020.110841"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "ThermCond",
+        "Value": 0.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2ee21274a"
+      },
+      {
+        "Original_Name_In_Paper": "pristine BiCuSeO",
+        "Property": "ZT",
+        "Value": 0.18,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.10.190"
+      },
+      {
+        "Original_Name_In_Paper": "pristine BiCuSeO",
+        "Property": "ZT",
+        "Value": 0.18,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.10.190"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO oxyselenide",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2ee21274a"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO oxyselenide",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2ee21274a"
+      },
+      {
+        "Original_Name_In_Paper": "pristine BiCuSeO composite",
+        "Property": "ZT",
+        "Value": 0.19,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2ee21274a"
+      },
+      {
+        "Original_Name_In_Paper": "pristine BiCuSeO",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2ee21274a"
+      },
+      {
+        "Original_Name_In_Paper": "pristine BiCuSeO polycrystals",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2ee21274a"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ee00997e"
+      },
+      {
+        "Original_Name_In_Paper": "pristine BiCuSeO",
+        "Property": "ZT",
+        "Value": 0.13,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6dt04885d"
+      },
+      {
+        "Original_Name_In_Paper": "pristine BiCuSeO",
+        "Property": "ZT",
+        "Value": 0.13,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6dt04885d"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta02050b"
+      },
+      {
+        "Original_Name_In_Paper": "pristine BiCuSeO",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta14532h"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "ZT",
+        "Value": 1.09,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2016.10.209"
+      },
+      {
+        "Original_Name_In_Paper": "pure BiCuSeO",
+        "Property": "PF",
+        "Value": 0.00025,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6dt04885d"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "Conductivity",
+        "Value": 20.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmrt.2020.11.022"
+      }
+    ],
+    "680.0": [
+      {
+        "Original_Name_In_Paper": "pristine BiCuSeO",
+        "Property": "ThermCond",
+        "Value": 0.42,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.11.104"
+      },
+      {
+        "Original_Name_In_Paper": "doped BiCuSeO",
+        "Property": "ThermCond",
+        "Value": 0.35000000000000003,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.11.104"
+      },
+      {
+        "Original_Name_In_Paper": "pristine BiCuSeO",
+        "Property": "ZT",
+        "Value": 0.37,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.11.104"
+      },
+      {
+        "Original_Name_In_Paper": "pristine BiCuSeO",
+        "Property": "ZT",
+        "Value": 0.37,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.11.104"
+      },
+      {
+        "Original_Name_In_Paper": "pristine BiCuSeO",
+        "Property": "PF",
+        "Value": 0.00023,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.11.104"
+      }
+    ],
+    "722.0": [
+      {
+        "Original_Name_In_Paper": "BiCuSeO nanosheet",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6qi00435k"
+      }
+    ],
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "pristine BiCuSeO",
+        "Property": "ZT",
+        "Value": 0.33,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.12.087"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO + 20 vol % Cu2Se",
+        "Property": "ZT",
+        "Value": 0.44,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.12.087"
+      },
+      {
+        "Original_Name_In_Paper": "pristine BiCuSeO",
+        "Property": "ZT",
+        "Value": 0.52,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2020.110841"
+      },
+      {
+        "Original_Name_In_Paper": "Pb doped BiCuSeO",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ee00997e"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "ZT",
+        "Value": 1.1400000000000001,
+        "Units": null,
+        "Editing": "6 mol % Pb doping",
+        "Source_DOI": "10.1039/d0ta00240b"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mattod.2019.07.003"
+      },
+      {
+        "Original_Name_In_Paper": "pristine BiCuSeO",
+        "Property": "PF",
+        "Value": 0.00018,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2020.110841"
+      }
+    ],
+    "475.0": [
+      {
+        "Original_Name_In_Paper": "n-type BiCuSeO",
+        "Property": "ZT",
+        "Value": 0.05,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2017.11.012"
+      },
+      {
+        "Original_Name_In_Paper": "n-type BiCuSeO",
+        "Property": "ZT",
+        "Value": 0.05,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2017.11.012"
+      },
+      {
+        "Original_Name_In_Paper": "n-type BiCuSeO",
+        "Property": "ZT",
+        "Value": 0.05,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2017.11.012"
+      }
+    ],
+    "650.0": [
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "ZT",
+        "Value": 0.31,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2019.02.003"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2018.12.231"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "ZT",
+        "Value": 2.95,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scib.2017.11.015"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "ZT",
+        "Value": 1.1400000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ensm.2016.01.009"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "PF",
+        "Value": 0.000633,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2015.03.098"
+      }
+    ],
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "doped BiCuSeO",
+        "Property": "ZT",
+        "Value": 1.32,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ee00997e"
+      }
+    ],
+    "1273.0": [
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2018.10.052"
+      }
+    ],
+    "780.0": [
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "ZT",
+        "Value": 0.73,
+        "Units": null,
+        "Editing": "doping BiCuSeO",
+        "Source_DOI": "10.1039/c4ta02050b"
+      }
+    ],
+    "920.0": [
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "ZT",
+        "Value": 0.91,
+        "Units": null,
+        "Editing": "doping BiCuSeO",
+        "Source_DOI": "10.1039/c4ta02050b"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "Seebeck",
+        "Value": -1e-06,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cocom.2020.e00529"
+      }
+    ],
+    "814.0": [
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "Seebeck",
+        "Value": 0.00030000000000000003,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8qi01402g"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "PF",
+        "Value": 0.000338,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8qi01402g"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "Conductivity",
+        "Value": 4000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8qi01402g"
+      }
+    ],
+    "293.0": [
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "Seebeck",
+        "Value": 0.00035000000000000005,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.07.235"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "Conductivity",
+        "Value": 470.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.07.235"
+      }
+    ],
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "pure BiCuSeO",
+        "Property": "PF",
+        "Value": 0.000357,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2020.06.043"
+      }
+    ],
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "PF",
+        "Value": 0.000722,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta11806a"
+      }
+    ],
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "7.5 % Ba-doped BiCuSeO thin film",
+        "Property": "PF",
+        "Value": 0.00124,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1186/s11671-018-2752-6"
+      }
+    ],
+    "550.0": [
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "Conductivity",
+        "Value": 1500.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3cc44578j"
+      },
+      {
+        "Original_Name_In_Paper": "pristine BiCuSeO",
+        "Property": "Conductivity",
+        "Value": 1500.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ee00997e"
+      }
+    ],
+    "670.0": [
+      {
+        "Original_Name_In_Paper": "BiCuSeO",
+        "Property": "Conductivity",
+        "Value": 2900.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra02595d"
+      }
+    ]
+  }
+}

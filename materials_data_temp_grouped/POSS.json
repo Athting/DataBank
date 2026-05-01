@@ -1,0 +1,74 @@
+{
+  "Material": "POSS",
+  "DOIs_Researched": [
+    "10.1039/c5ra00183h"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "POSS",
+        "Property": "Seebeck",
+        "Value": 0.00016085,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra00183h"
+      },
+      {
+        "Original_Name_In_Paper": "POSS",
+        "Property": "PF",
+        "Value": 2.8e-06,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra00183h"
+      },
+      {
+        "Original_Name_In_Paper": "POSS",
+        "Property": "PF",
+        "Value": 0.0028,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra00183h"
+      },
+      {
+        "Original_Name_In_Paper": "POSS",
+        "Property": "PF",
+        "Value": 0.0028,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra00183h"
+      },
+      {
+        "Original_Name_In_Paper": "POSS",
+        "Property": "Conductivity",
+        "Value": 11.05,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra00183h"
+      },
+      {
+        "Original_Name_In_Paper": "POSS",
+        "Property": "Conductivity",
+        "Value": 11.53,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra00183h"
+      },
+      {
+        "Original_Name_In_Paper": "POSS",
+        "Property": "Conductivity",
+        "Value": 11.05,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra00183h"
+      },
+      {
+        "Original_Name_In_Paper": "POSS",
+        "Property": "Conductivity",
+        "Value": 11.05,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra00183h"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Material": "CSS / MWCNT / PANI",
+  "DOIs_Researched": [
+    "10.1039/c9dt02225b"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "CSS / MWCNT / PANI",
+        "Property": "Seebeck",
+        "Value": -2.35e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9dt02225b"
+      },
+      {
+        "Original_Name_In_Paper": "CSS / MWCNT / PANI",
+        "Property": "PF",
+        "Value": 1.1600000000000001e-06,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9dt02225b"
+      }
+    ]
+  }
+}

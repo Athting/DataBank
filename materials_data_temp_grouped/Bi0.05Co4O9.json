@@ -1,0 +1,18 @@
+{
+  "Material": "Bi0.05Co4O9",
+  "DOIs_Researched": [
+    "10.1007/s10832-007-9297-x"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.05)3Co4O9",
+        "Property": "ZT",
+        "Value": 0.25,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10832-007-9297-x"
+      }
+    ]
+  }
+}

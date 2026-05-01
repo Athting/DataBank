@@ -1,0 +1,18 @@
+{
+  "Material": "CuBr2-doped In4Se2.5",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2013.11.189"
+  ],
+  "Data_By_Temperature": {
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "CuBr2-doped In4Se2.5",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.11.189"
+      }
+    ]
+  }
+}

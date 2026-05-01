@@ -1,0 +1,28 @@
+{
+  "Material": "TiIrAs",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2017.08.216"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "TiIrAs",
+        "Property": "ThermCond",
+        "Value": 8.72,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.08.216"
+      }
+    ],
+    "1200.0": [
+      {
+        "Original_Name_In_Paper": "TiIrAs",
+        "Property": "Conductivity",
+        "Value": 107000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.08.216"
+      }
+    ]
+  }
+}

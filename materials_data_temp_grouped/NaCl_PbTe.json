@@ -1,0 +1,34 @@
+{
+  "Material": "NaCl:PbTe",
+  "DOIs_Researched": [
+    "10.1016/j.mtla.2020.100912"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "6 wt % NaCl : PbTe",
+        "Property": "ThermCond",
+        "Value": 0.55,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtla.2020.100912"
+      },
+      {
+        "Original_Name_In_Paper": "6wt % NaCl : PbTe",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtla.2020.100912"
+      },
+      {
+        "Original_Name_In_Paper": "6wt % NaCl : PbTe",
+        "Property": "Seebeck",
+        "Value": 0.00030000000000000003,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtla.2020.100912"
+      }
+    ]
+  }
+}

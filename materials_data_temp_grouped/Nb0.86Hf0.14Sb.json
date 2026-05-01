@@ -1,0 +1,37 @@
+{
+  "Material": "Nb0.86Hf0.14Sb",
+  "DOIs_Researched": [
+    "10.1016/j.joule.2020.08.009",
+    "10.1039/c5ra23091h"
+  ],
+  "Data_By_Temperature": {
+    "1050.0": [
+      {
+        "Original_Name_In_Paper": "p-type Nb0.86Hf0.14FeSb",
+        "Property": "ThermCond",
+        "Value": 5.6,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2020.08.009"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Nb0.86Hf0.14FeSb",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.joule.2020.08.009"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Nb0.86Hf0.14FeSb",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra23091h"
+      }
+    ]
+  }
+}

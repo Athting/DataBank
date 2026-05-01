@@ -1,0 +1,18 @@
+{
+  "Material": "Bi0.95Mg0.05CuSe",
+  "DOIs_Researched": [
+    "10.1016/j.matchemphys.2016.03.045"
+  ],
+  "Data_By_Temperature": {
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "(Bi0.95Mg0.05)OCuSe",
+        "Property": "ZT",
+        "Value": 0.67,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2016.03.045"
+      }
+    ]
+  }
+}

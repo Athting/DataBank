@@ -1,0 +1,26 @@
+{
+  "Material": "Mg2Si0.375Sn0.625",
+  "DOIs_Researched": [
+    "10.1007/s11664-017-5890-1"
+  ],
+  "Data_By_Temperature": {
+    "550.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Si0.375Sn0.625 alloy",
+        "Property": "ZT",
+        "Value": 1.53,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-017-5890-1"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si0.375Sn0.625 alloy",
+        "Property": "PF",
+        "Value": 0.006200000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-017-5890-1"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "I. Ag_{4}SbS_{3}",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2015.08.040"
+  ],
+  "Data_By_Temperature": {
+    "340.0": [
+      {
+        "Original_Name_In_Paper": "Ni substituted tetrahedrite",
+        "Property": "ZT",
+        "Value": 0.15,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2015.08.040"
+      }
+    ]
+  }
+}

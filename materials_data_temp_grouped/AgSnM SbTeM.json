@@ -1,0 +1,37 @@
+{
+  "Material": "AgSnM SbTeM",
+  "DOIs_Researched": [
+    "10.1016/j.matchemphys.2018.02.047",
+    "10.1016/j.jallcom.2014.06.176"
+  ],
+  "Data_By_Temperature": {
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "AgSnmSbTem+2",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.06.176"
+      },
+      {
+        "Original_Name_In_Paper": "AgSnmSbTem+2",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.06.176"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "AgSnmSbTem+2",
+        "Property": "Conductivity",
+        "Value": 180000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2018.02.047"
+      }
+    ]
+  }
+}

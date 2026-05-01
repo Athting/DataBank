@@ -1,0 +1,18 @@
+{
+  "Material": "Na3OCl",
+  "DOIs_Researched": [
+    "10.1016/j.cocom.2020.e00484"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Na3OCl",
+        "Property": "ThermCond",
+        "Value": 6.48,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cocom.2020.e00484"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "paraffin ( n-docosane )",
+  "DOIs_Researched": [
+    "10.1016/B978-0-12-819576-5.00006-2"
+  ],
+  "Data_By_Temperature": {
+    "315.0": [
+      {
+        "Original_Name_In_Paper": "paraffin ( n-docosane )",
+        "Property": "ThermCond",
+        "Value": 0.8200000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-12-819576-5.00006-2"
+      }
+    ]
+  }
+}

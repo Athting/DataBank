@@ -1,0 +1,18 @@
+{
+  "Material": "SnTeCd",
+  "DOIs_Researched": [
+    "10.1039/c4ee01463d"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "2 % Cd-doped SnTe",
+        "Property": "Seebeck",
+        "Value": 3.87e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ee01463d"
+      }
+    ]
+  }
+}

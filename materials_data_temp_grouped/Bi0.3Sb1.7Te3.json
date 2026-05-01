@@ -1,0 +1,228 @@
+{
+  "Material": "Bi0.3Sb1.7Te3",
+  "DOIs_Researched": [
+    "10.1038/am.2013.86",
+    "10.1016/j.apsusc.2019.145236",
+    "10.1016/j.actamat.2014.10.062",
+    "10.1007/s10853-020-04949-0",
+    "10.1016/j.jmat.2016.08.002",
+    "10.1039/c5tc02219c",
+    "10.1039/c7tc04573e",
+    "10.1016/j.intermet.2015.01.009",
+    "10.1016/j.intermet.2012.02.018",
+    "10.1038/s41598-017-05428-4",
+    "10.1016/j.actamat.2014.11.023",
+    "10.1007/s40948-019-00134-z",
+    "10.1039/c5tc02263k",
+    "10.1007/s13391-019-00118-x",
+    "10.1016/j.jmat.2018.05.008"
+  ],
+  "Data_By_Temperature": {
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.3Sb1.7Te3 alloy",
+        "Property": "ZT",
+        "Value": 1.33,
+        "Units": null,
+        "Editing": "adding SiC",
+        "Source_DOI": "10.1039/c5tc02219c"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.3Sb1.7Te3",
+        "Property": "ZT",
+        "Value": 1.33,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2016.08.002"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.3Sb1.7Te3",
+        "Property": "ZT",
+        "Value": 1.33,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2015.01.009"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.3Sb1.7Te3 alloys with SiC",
+        "Property": "ZT",
+        "Value": 1.33,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2013.86"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.3Sb1.7Te3 + 0.4 vol % SiC",
+        "Property": "ZT",
+        "Value": 1.33,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.3Sb1.7Te3",
+        "Property": "ZT",
+        "Value": 1.33,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7tc04573e"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.3Sb1.7Te3",
+        "Property": "ZT",
+        "Value": 1.33,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s40948-019-00134-z"
+      }
+    ],
+    "380.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.3Sb1.7Te3",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc02219c"
+      },
+      {
+        "Original_Name_In_Paper": "p-type polycrystalline Bi0.3Sb1.7Te3 alloys",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc02263k"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.3Sb1.7Te3 alloy",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2014.11.023"
+      },
+      {
+        "Original_Name_In_Paper": "polycrystalline Bi0.3Sb1.7Te3",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2014.10.062"
+      },
+      {
+        "Original_Name_In_Paper": "p-type polycrystalline Bi0.3Sb1.7Te3 alloys",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2018.05.008"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.3Sb1.7Te3 alloy",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2013.86"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.3Sb1.7Te3 alloy",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2013.86"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.3Sb1.7Te3 alloy",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2013.86"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Bi0.3Sb1.7Te3 alloy",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s40948-019-00134-z"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.3Sb1.7Te3",
+        "Property": "ZT",
+        "Value": 1.18,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-017-05428-4"
+      }
+    ],
+    "423.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.3Sb1.7Te3",
+        "Property": "ZT",
+        "Value": 1.23,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2012.02.018"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.3Sb1.7Te3",
+        "Property": "ZT",
+        "Value": 1.23,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2012.02.018"
+      }
+    ],
+    "473.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.3Sb1.7Te3",
+        "Property": "ZT",
+        "Value": 1.32,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2019.145236"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.3Sb1.7Te3",
+        "Property": "ZT",
+        "Value": 1.32,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2019.145236"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.3Sb1.7Te3",
+        "Property": "ZT",
+        "Value": 1.32,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2019.145236"
+      }
+    ],
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.3Sb1.7Te3",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Bi0.3Sb1.7Te3 composite",
+        "Property": "PF",
+        "Value": 411000.0,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s13391-019-00118-x"
+      }
+    ]
+  }
+}

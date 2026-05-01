@@ -1,0 +1,18 @@
+{
+  "Material": "C60 / Al",
+  "DOIs_Researched": [
+    "10.1039/c7cp01736g"
+  ],
+  "Data_By_Temperature": {
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "C60 / Al",
+        "Property": "Seebeck",
+        "Value": -0.0004,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cp01736g"
+      }
+    ]
+  }
+}

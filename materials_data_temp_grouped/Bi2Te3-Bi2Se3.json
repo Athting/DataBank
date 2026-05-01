@@ -1,0 +1,18 @@
+{
+  "Material": "Bi2Te3-Bi2Se3",
+  "DOIs_Researched": [
+    "10.1186/s11671-016-1823-9"
+  ],
+  "Data_By_Temperature": {
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Te3-Bi2Se3",
+        "Property": "ThermCond",
+        "Value": 1.04,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1186/s11671-016-1823-9"
+      }
+    ]
+  }
+}

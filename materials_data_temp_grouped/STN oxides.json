@@ -1,0 +1,18 @@
+{
+  "Material": "STN oxides",
+  "DOIs_Researched": [
+    "10.1016/j.apmt.2020.100869"
+  ],
+  "Data_By_Temperature": {
+    "1200.0": [
+      {
+        "Original_Name_In_Paper": "STN oxides",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apmt.2020.100869"
+      }
+    ]
+  }
+}

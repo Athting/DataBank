@@ -1,0 +1,70 @@
+{
+  "Material": "BiSb",
+  "DOIs_Researched": [
+    "10.1016/j.ijheatmasstransfer.2013.03.018",
+    "10.1016/j.crci.2009.05.004",
+    "10.1016/j.mssp.2020.105280",
+    "10.1016/j.nanoen.2018.07.041",
+    "10.1016/j.cryogenics.2020.103197"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "BiSb",
+        "Property": "ThermCond",
+        "Value": 25.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.crci.2009.05.004"
+      },
+      {
+        "Original_Name_In_Paper": "BiSb alloy thin film",
+        "Property": "Conductivity",
+        "Value": 500000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2018.07.041"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Bi0.90Sb0.10",
+        "Property": "ZT",
+        "Value": 1.07,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2020.105280"
+      }
+    ],
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "BiSb monolayer",
+        "Property": "ZT",
+        "Value": 0.42,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2018.07.041"
+      }
+    ],
+    "70.0": [
+      {
+        "Original_Name_In_Paper": "n-type Bi-Sb single crystals",
+        "Property": "ZT",
+        "Value": 0.006,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cryogenics.2020.103197"
+      }
+    ],
+    "100.0": [
+      {
+        "Original_Name_In_Paper": "n-type Bi95Sb5",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ijheatmasstransfer.2013.03.018"
+      }
+    ]
+  }
+}

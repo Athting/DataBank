@@ -1,0 +1,18 @@
+{
+  "Material": "EuSb2Zn2",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2017.01.350"
+  ],
+  "Data_By_Temperature": {
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "Eu1.0Zn2Sb2",
+        "Property": "PF",
+        "Value": 0.0016,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.01.350"
+      }
+    ]
+  }
+}

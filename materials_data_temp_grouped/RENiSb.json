@@ -1,0 +1,26 @@
+{
+  "Material": "RENiSb",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2019.152596"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "RENiSb",
+        "Property": "Conductivity",
+        "Value": 250000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.152596"
+      },
+      {
+        "Original_Name_In_Paper": "RENiSb",
+        "Property": "Seebeck",
+        "Value": 4e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.152596"
+      }
+    ]
+  }
+}

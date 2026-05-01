@@ -1,0 +1,614 @@
+{
+  "doi": "10.1039/c5nr00917k",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Bi2Se3 nanoflakes",
+        "Bi2Se3",
+        "Bi2Se3 single crystal",
+        "bulk Bi2Se3",
+        "single-QL Bi2Se3",
+        "Bi2Se3 / PVDF composite",
+        "bulk Bi2Se3 pellets",
+        "Cu-doped Bi2Se3 nanoplates",
+        "Te-doped bulk Bi2Se3",
+        "Bismuth selenide, Bi2Se3",
+        "nanostructures Bi2Se3",
+        "Bismuth selenide Bi2Se3",
+        "nanostructured Bi2Se3",
+        "Mn-doped Bi2Se3",
+        "Bi2Se3 nanoparticles",
+        "Bi2Se3 / PVA",
+        "Bi2Se3 nanoplates",
+        "Bi2Se3 nanoplates.The",
+        "Bi2Se3 films",
+        "pure Bi2Se3",
+        "rhombohedral Bi2Se3",
+        "pristine Bi2Se3",
+        "Bi2Se3-PVDF nanocomposites",
+        "un-doped Bi2Se3",
+        "bismuth selenide ( Bi2Se3 )",
+        "Bi2Se3 nanostructure",
+        "Bi2Se3 nanodiscs",
+        "Bi2Se3 nanostructures",
+        "Bi2Se3 thin film",
+        "Ultrathin Bi2Se3 nanosheets",
+        "Bi2Se3 microrods",
+        "Bi2Se3 nanosheets",
+        "Single crystal Bi2Se3",
+        "ultrathin Bi2Se3-based",
+        "Bi2Se3 + 15 mol % TiO2",
+        "undoped Bi2Se3",
+        "Cu doped Bi2Se3 nanoplates",
+        "n-type Cu-doped Bi2Se3 nanoplate",
+        "bismuth oxyselenide",
+        "p-type Bi2Se3 single crystals",
+        "Bi2Se3-PVDF nanocomposite",
+        "Bi2Se3 @ Bi2Te3 nanoplates"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "nanostructured Bi2Se3",
+          "value": -0.00011499999999999999,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Mn-doped Bi2Se3",
+          "value": 0.0009477,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi2Se3 nanoparticles",
+          "value": -0.00009099999999999999,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi2Se3 / PVA",
+          "value": -0.00009099999999999999,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi2Se3 nanoplates",
+          "value": 8400,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "bismuth selenide ( Bi2Se3 )",
+          "value": -0.000121,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Bi2Se3",
+          "value": -0.00012000000000000002,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Bi2Se3",
+          "value": 0.000556,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "pristine Bi2Se3",
+          "value": -0.00004,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Bi2Se3 nanostructure",
+          "value": 0.00006769999999999999,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "pristine Bi2Se3",
+          "value": 0.00012299999999999998,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "350.0 K"
+        },
+        {
+          "material": "Bi2Se3",
+          "value": -0.000037,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "298.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "nanostructured Bi2Se3",
+          "value": 250000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi2Se3",
+          "value": 26315.7894736842,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Bi2Se3",
+          "value": 26315.7894736842,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Bi2Se3",
+          "value": 26315.7894736842,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "un-doped Bi2Se3",
+          "value": 25188.9168765743,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Bi2Se3",
+          "value": 1060,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Bi2Se3 nanodiscs",
+          "value": 38678,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Bi2Se3 nanosheets",
+          "value": 7120,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "523.0 K"
+        },
+        {
+          "material": "Bi2Se3",
+          "value": 1000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "250.0 K"
+        },
+        {
+          "material": "Bi2Se3",
+          "value": 238095.2380952381,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "298.0 K"
+        },
+        {
+          "material": "Bi2Se3",
+          "value": 481,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "420.0 K"
+        },
+        {
+          "material": "Bi2Se3 nanodiscs",
+          "value": 39506,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "600.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Bi2Se3 nanoflakes",
+          "value": 2.66,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi2Se3",
+          "value": 0.23,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi2Se3",
+          "value": 0.23,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi2Se3 single crystal",
+          "value": 3.1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi2Se3 single crystal",
+          "value": 1.6,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "bulk Bi2Se3",
+          "value": 4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "single-QL Bi2Se3",
+          "value": 2.1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi2Se3",
+          "value": 1.8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "pure Bi2Se3",
+          "value": 0.51,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Bi2Se3",
+          "value": 0.51,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "rhombohedral Bi2Se3",
+          "value": 1.3,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Bi2Se3",
+          "value": 1.3,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Bi2Se3",
+          "value": 2.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Bi2Se3",
+          "value": 1.25,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "bulk Bi2Se3",
+          "value": 1.3,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Bi2Se3",
+          "value": 1.8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "bulk Bi2Se3",
+          "value": 3.1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Bi2Se3",
+          "value": 0.42,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "800.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Bi2Se3 nanoplates.The",
+          "value": 700000,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi2Se3 nanoplates",
+          "value": 0.00015000000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi2Se3 films",
+          "value": 0.00058,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Cu-doped Bi2Se3 nanoplates",
+          "value": 0.000103,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Ultrathin Bi2Se3 nanosheets",
+          "value": 0.000157,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "523.0 K"
+        },
+        {
+          "material": "Bi2Se3 microrods",
+          "value": 0.000092,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "523.0 K"
+        },
+        {
+          "material": "Bi2Se3 microrods",
+          "value": 0.000092,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "523.0 K"
+        },
+        {
+          "material": "n-type Cu-doped Bi2Se3 nanoplate",
+          "value": 0.000103,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "290.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Bi2Se3 / PVDF composite",
+          "zt_value": 0.04,
+          "temperature": "295 K"
+        },
+        {
+          "material": "bulk Bi2Se3 pellets",
+          "zt_value": 0.11,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Cu-doped Bi2Se3 nanoplates",
+          "zt_value": 0.1,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Te-doped bulk Bi2Se3",
+          "zt_value": 0.14,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi2Se3",
+          "zt_value": 0.05,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bismuth selenide, Bi2Se3",
+          "zt_value": 1,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi2Se3",
+          "zt_value": 0.463,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi2Se3",
+          "zt_value": 1,
+          "temperature": "295 K"
+        },
+        {
+          "material": "nanostructures Bi2Se3",
+          "zt_value": 0.096,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bismuth selenide Bi2Se3",
+          "zt_value": 1,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi2Se3",
+          "zt_value": 1,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi2Se3",
+          "zt_value": 1,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi2Se3",
+          "zt_value": 0.02,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Bi2Se3",
+          "zt_value": 0.18,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "pristine Bi2Se3",
+          "zt_value": 0.1,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Bi2Se3-PVDF nanocomposites",
+          "zt_value": 0.004,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Bi2Se3 nanostructures",
+          "zt_value": 1.43,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "Bi2Se3 thin film",
+          "zt_value": 0.096,
+          "temperature": "523.0 K"
+        },
+        {
+          "material": "Bi2Se3 nanostructures",
+          "zt_value": 0.096,
+          "temperature": "523.0 K"
+        },
+        {
+          "material": "Single crystal Bi2Se3",
+          "zt_value": 0.6000000000000001,
+          "temperature": "400.0 K"
+        },
+        {
+          "material": "Bi2Se3 films",
+          "zt_value": 0.35000000000000003,
+          "temperature": "400.0 K"
+        },
+        {
+          "material": "Bi2Se3",
+          "zt_value": 0.7000000000000001,
+          "temperature": "400.0 K"
+        },
+        {
+          "material": "Bi2Se3",
+          "zt_value": 0.35000000000000003,
+          "temperature": "400.0 K"
+        },
+        {
+          "material": "Bi2Se3",
+          "zt_value": 0.35000000000000003,
+          "temperature": "400.0 K"
+        },
+        {
+          "material": "ultrathin Bi2Se3-based",
+          "zt_value": 0.35000000000000003,
+          "temperature": "400.0 K"
+        },
+        {
+          "material": "Bi2Se3",
+          "zt_value": 0.41000000000000003,
+          "temperature": "525.0 K"
+        },
+        {
+          "material": "Bi2Se3 + 15 mol % TiO2",
+          "zt_value": 0.41000000000000003,
+          "temperature": "525.0 K"
+        },
+        {
+          "material": "undoped Bi2Se3",
+          "zt_value": 0.37,
+          "temperature": "560.0 K"
+        },
+        {
+          "material": "undoped Bi2Se3",
+          "zt_value": 0.1,
+          "temperature": "560.0 K"
+        },
+        {
+          "material": "undoped Bi2Se3",
+          "zt_value": 0.37,
+          "temperature": "560.0 K"
+        },
+        {
+          "material": "Cu doped Bi2Se3 nanoplates",
+          "zt_value": 0.1,
+          "temperature": "290.0 K"
+        },
+        {
+          "material": "n-type Cu-doped Bi2Se3 nanoplate",
+          "zt_value": 0.1,
+          "temperature": "290.0 K"
+        },
+        {
+          "material": "bismuth oxyselenide",
+          "zt_value": 0.66,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "Bi2Se3",
+          "zt_value": 0.2,
+          "temperature": "430.0 K"
+        },
+        {
+          "material": "Bi2Se3",
+          "zt_value": 0.96,
+          "temperature": "370.0 K"
+        },
+        {
+          "material": "Bi2Se3",
+          "zt_value": 0.96,
+          "temperature": "370.0 K"
+        },
+        {
+          "material": "Bi2Se3",
+          "zt_value": 0.96,
+          "temperature": "370.0 K"
+        },
+        {
+          "material": "Bi2Se3",
+          "zt_value": 0.54,
+          "temperature": "590.0 K"
+        },
+        {
+          "material": "p-type Bi2Se3 single crystals",
+          "zt_value": 2,
+          "temperature": "2.0 K"
+        },
+        {
+          "material": "Bi2Se3 nanoflakes",
+          "zt_value": 0.19,
+          "temperature": "480.0 K"
+        },
+        {
+          "material": "Bi2Se3",
+          "zt_value": 0.8260000000000001,
+          "temperature": "473.0 K"
+        },
+        {
+          "material": "Bi2Se3",
+          "zt_value": 0.8300000000000001,
+          "temperature": "473.0 K"
+        },
+        {
+          "material": "Bi2Se3",
+          "zt_value": 0.026000000000000002,
+          "temperature": "350.0 K"
+        },
+        {
+          "material": "Bi2Se3-PVDF nanocomposite",
+          "zt_value": 0.004,
+          "temperature": "350.0 K"
+        },
+        {
+          "material": "Bi2Se3-PVDF nanocomposite",
+          "zt_value": 0.004,
+          "temperature": "350.0 K"
+        },
+        {
+          "material": "Bi2Se3 @ Bi2Te3 nanoplates",
+          "zt_value": 0.71,
+          "temperature": "450.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

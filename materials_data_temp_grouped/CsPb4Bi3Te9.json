@@ -1,0 +1,18 @@
+{
+  "Material": "CsPb4Bi3Te9",
+  "DOIs_Researched": [
+    "10.1039/b202043b"
+  ],
+  "Data_By_Temperature": {
+    "350.0": [
+      {
+        "Original_Name_In_Paper": "CsPb4Bi3Te9",
+        "Property": "Conductivity",
+        "Value": 40000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/b202043b"
+      }
+    ]
+  }
+}

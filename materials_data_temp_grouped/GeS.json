@@ -1,0 +1,27 @@
+{
+  "Material": "GeS",
+  "DOIs_Researched": [
+    "10.1039/c9tc00183b",
+    "10.1038/s41598-017-00598-7"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "GeS",
+        "Property": "ZT",
+        "Value": 1.85,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-017-00598-7"
+      },
+      {
+        "Original_Name_In_Paper": "GeS",
+        "Property": "ZT",
+        "Value": 1.85,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc00183b"
+      }
+    ]
+  }
+}

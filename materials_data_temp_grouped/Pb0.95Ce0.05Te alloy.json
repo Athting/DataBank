@@ -1,0 +1,18 @@
+{
+  "Material": "Pb0.95Ce0.05Te alloy",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2016.02.047"
+  ],
+  "Data_By_Temperature": {
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "Pb0.95Ce0.05Te alloy",
+        "Property": "ZT",
+        "Value": 0.88,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2016.02.047"
+      }
+    ]
+  }
+}

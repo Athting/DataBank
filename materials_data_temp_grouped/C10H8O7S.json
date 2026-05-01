@@ -1,0 +1,18 @@
+{
+  "Material": "C10H8O7S",
+  "DOIs_Researched": [
+    "10.1016/j.progpolymsci.2011.11.003"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "(\u00b1)-10-camphorsulfonic acid",
+        "Property": "Seebeck",
+        "Value": 8e-06,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.progpolymsci.2011.11.003"
+      }
+    ]
+  }
+}

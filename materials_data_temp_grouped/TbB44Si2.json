@@ -1,0 +1,27 @@
+{
+  "Material": "TbB44Si2",
+  "DOIs_Researched": [
+    "10.1016/S0168-1273(07)38003-3",
+    "10.1016/bs.hpcre.2020.10.002"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "TbB44Si2",
+        "Property": "Conductivity",
+        "Value": 2.8571428571,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0168-1273(07)38003-3"
+      },
+      {
+        "Original_Name_In_Paper": "TbB44Si2",
+        "Property": "Conductivity",
+        "Value": 2.8571428571,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/bs.hpcre.2020.10.002"
+      }
+    ]
+  }
+}

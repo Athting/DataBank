@@ -1,0 +1,18 @@
+{
+  "Material": "La0.9Sr0.1InO3\u2212\u03b4",
+  "DOIs_Researched": [
+    "10.1039/b102987h"
+  ],
+  "Data_By_Temperature": {
+    "1173.0": [
+      {
+        "Original_Name_In_Paper": "La0.9Sr0.1InO3\u2212\u03b4",
+        "Property": "Conductivity",
+        "Value": 0.76,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/b102987h"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "MoSi2-Al2O3, WSi2-Al2O3",
+  "DOIs_Researched": [
+    "10.1016/j.sna.2018.01.047"
+  ],
+  "Data_By_Temperature": {
+    "1273.0": [
+      {
+        "Original_Name_In_Paper": "[ 90\u201310 ] MoSi2-Al2O3 / / [ 90\u201310 ] WSi2-Al2O3 composite",
+        "Property": "Seebeck",
+        "Value": 2.09e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.sna.2018.01.047"
+      }
+    ]
+  }
+}

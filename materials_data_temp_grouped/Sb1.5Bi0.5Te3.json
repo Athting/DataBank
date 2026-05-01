@@ -1,0 +1,18 @@
+{
+  "Material": "Sb1.5Bi0.5Te3",
+  "DOIs_Researched": [
+    "10.1038/s41598-017-07654-2"
+  ],
+  "Data_By_Temperature": {
+    "348.0": [
+      {
+        "Original_Name_In_Paper": "Sb1.5Bi0.5Te3",
+        "Property": "PF",
+        "Value": 7.7e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-017-07654-2"
+      }
+    ]
+  }
+}

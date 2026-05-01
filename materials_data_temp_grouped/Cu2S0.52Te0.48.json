@@ -1,0 +1,36 @@
+{
+  "Material": "Cu2S0.52Te0.48",
+  "DOIs_Researched": [
+    "10.1016/j.nantod.2020.100938",
+    "10.1016/j.jssc.2018.10.049",
+    "10.1016/j.jallcom.2020.155188"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "Cu2S0.52Te0.48",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nantod.2020.100938"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2S0.52Te0.48",
+        "Property": "ZT",
+        "Value": 2.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2018.10.049"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2S0\u00b752Te0.48",
+        "Property": "ZT",
+        "Value": 2.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.155188"
+      }
+    ]
+  }
+}

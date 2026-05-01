@@ -1,0 +1,34 @@
+{
+  "Material": "Sn0.845Sb0.15Te0.005",
+  "DOIs_Researched": [
+    "10.1016/j.matlet.2018.07.132"
+  ],
+  "Data_By_Temperature": {
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.845Sb0.15In0.005Te",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2018.07.132"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.845Sb0.15In0.005Te",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2018.07.132"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.845Sb0.15In0.005Te",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2018.07.132"
+      }
+    ]
+  }
+}

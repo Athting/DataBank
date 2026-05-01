@@ -1,0 +1,40 @@
+{
+  "Material": "Bi2O3",
+  "DOIs_Researched": [
+    "10.1016/j.mtphys.2020.100248",
+    "10.1016/j.actamat.2011.12.020",
+    "10.1016/j.pecs.2015.10.004"
+  ],
+  "Data_By_Temperature": {
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "\u03b4-Bi2O3",
+        "Property": "Conductivity",
+        "Value": 100.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pecs.2015.10.004"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Bi2O3",
+        "Property": "Conductivity",
+        "Value": 255000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2020.100248"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "bismuth oxide",
+        "Property": "Conductivity",
+        "Value": 1e-05,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2011.12.020"
+      }
+    ]
+  }
+}

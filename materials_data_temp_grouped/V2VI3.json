@@ -1,0 +1,18 @@
+{
+  "Material": "V2VI3",
+  "DOIs_Researched": [
+    "10.1016/j.materresbull.2017.11.025"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "V2VI3 single crystals",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2017.11.025"
+      }
+    ]
+  }
+}

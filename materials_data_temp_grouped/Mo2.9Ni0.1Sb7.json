@@ -1,0 +1,56 @@
+{
+  "Material": "Mo2.9Ni0.1Sb7",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2015.08.017"
+  ],
+  "Data_By_Temperature": {
+    "805.0": [
+      {
+        "Original_Name_In_Paper": "Mo2.9Ni0.1Sb7",
+        "Property": "ThermCond",
+        "Value": 6.33,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2015.08.017"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Mo2.9Ni0.1Sb7",
+        "Property": "ZT",
+        "Value": 0.14,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2015.08.017"
+      },
+      {
+        "Original_Name_In_Paper": "Mo2.9Ni0.1Sb7",
+        "Property": "ZT",
+        "Value": 0.14,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2015.08.017"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Mo2.9Ni0.1Sb7",
+        "Property": "PF",
+        "Value": 0.00028000000000000003,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2015.08.017"
+      }
+    ],
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "Mo2.9Ni0.1Sb7",
+        "Property": "PF",
+        "Value": 0.00117,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2015.08.017"
+      }
+    ]
+  }
+}

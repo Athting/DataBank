@@ -1,0 +1,18 @@
+{
+  "Material": "Sr0.917Pr0.083TiO3",
+  "DOIs_Researched": [
+    "10.1039/c3ta13947f"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Sr0.917Pr0.083TiO3",
+        "Property": "ZT",
+        "Value": 0.21,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta13947f"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "CSb",
+  "DOIs_Researched": [
+    "10.1016/S0921-4534(98)00705-9"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "CSb",
+        "Property": "Conductivity",
+        "Value": 166666.6666666667,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0921-4534(98)00705-9"
+      }
+    ]
+  }
+}

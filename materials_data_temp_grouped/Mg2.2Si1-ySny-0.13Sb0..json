@@ -1,0 +1,18 @@
+{
+  "Material": "Mg2.2Si1-ySny-0.13Sb0.",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2014.08.026"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Mg2.2Si1\u2212ySny\u22120.13Sb0.013",
+        "Property": "ThermCond",
+        "Value": 2.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2014.08.026"
+      }
+    ]
+  }
+}

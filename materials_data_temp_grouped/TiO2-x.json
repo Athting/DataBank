@@ -1,0 +1,72 @@
+{
+  "Material": "TiO2-x",
+  "DOIs_Researched": [
+    "10.1007/s11666-018-0731-1",
+    "10.1007/s11666-020-01085-8",
+    "10.1016/j.jallcom.2017.06.096",
+    "10.1016/j.ceramint.2018.07.246",
+    "10.1016/j.apenergy.2017.02.001"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "TiO2-x",
+        "Property": "ZT",
+        "Value": 0.35000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.07.246"
+      },
+      {
+        "Original_Name_In_Paper": "TiO2-x",
+        "Property": "ZT",
+        "Value": 0.0006500000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.06.096"
+      },
+      {
+        "Original_Name_In_Paper": "TiO2-x",
+        "Property": "PF",
+        "Value": 0.0006500000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.06.096"
+      }
+    ],
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "TiO2\u2212x",
+        "Property": "ZT",
+        "Value": 0.13,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apenergy.2017.02.001"
+      },
+      {
+        "Original_Name_In_Paper": "TiO2\u2212x",
+        "Property": "ZT",
+        "Value": 0.132,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apenergy.2017.02.001"
+      },
+      {
+        "Original_Name_In_Paper": "TiO2-x",
+        "Property": "ZT",
+        "Value": 0.132,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11666-018-0731-1"
+      },
+      {
+        "Original_Name_In_Paper": "TiO2-x",
+        "Property": "Conductivity",
+        "Value": 5.4945100000000004e-05,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11666-020-01085-8"
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "Material": "CoPdSb3",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2013.03.206"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Co0.97Pd0.03Sb3",
+        "Property": "PF",
+        "Value": 0.0043,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.03.206"
+      },
+      {
+        "Original_Name_In_Paper": "Co0.97Pd0.03Sb3",
+        "Property": "PF",
+        "Value": 0.0043,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.03.206"
+      },
+      {
+        "Original_Name_In_Paper": "Co0.97Pd0.03Sb3",
+        "Property": "PF",
+        "Value": 0.0043,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.03.206"
+      },
+      {
+        "Original_Name_In_Paper": "Co0.97Pd0.03Sb3",
+        "Property": "PF",
+        "Value": 0.0043,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.03.206"
+      }
+    ]
+  }
+}

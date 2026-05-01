@@ -1,0 +1,107 @@
+{
+  "doi": "10.1016/j.actamat.2016.07.060",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Cu28Ga25Te47 alloy",
+        "Cu25Ga26Te49 alloy",
+        "Cu1.97Ga0.03Te",
+        "Cu1.99Ga0.01Te"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "Cu1.97Ga0.03Te",
+          "value": 0.00007000000000000001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "Cu1.99Ga0.01Te",
+          "value": 0.000365,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "745.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "Cu1.97Ga0.03Te",
+          "value": 0.00006000000000000001,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "600.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Cu28Ga25Te47 alloy",
+          "value": 1.8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "Cu1.97Ga0.03Te",
+          "value": 3.1364,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "600.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Cu1.97Ga0.03Te",
+          "value": 0.00023,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "600.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Cu25Ga26Te49 alloy",
+          "zt_value": 0.6000000000000001,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "Cu28Ga25Te47 alloy",
+          "zt_value": 1.8,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "Cu1.97Ga0.03Te",
+          "zt_value": 0.46,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "Cu1.97Ga0.03Te",
+          "zt_value": 0.46,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "Cu1.97Ga0.03Te",
+          "zt_value": 0.46,
+          "temperature": "600.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

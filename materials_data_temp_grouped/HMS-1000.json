@@ -1,0 +1,28 @@
+{
+  "Material": "HMS-1000",
+  "DOIs_Researched": [
+    "10.1016/j.intermet.2020.106705"
+  ],
+  "Data_By_Temperature": {
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "HMS-1000",
+        "Property": "PF",
+        "Value": 0.00134,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2020.106705"
+      }
+    ],
+    "298.0": [
+      {
+        "Original_Name_In_Paper": "HMS-1000",
+        "Property": "Conductivity",
+        "Value": 93700.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2020.106705"
+      }
+    ]
+  }
+}

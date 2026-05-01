@@ -1,0 +1,187 @@
+{
+  "Material": "ZrNiPb",
+  "DOIs_Researched": [
+    "10.1039/c6ra08461c",
+    "10.1016/j.physleta.2016.10.039",
+    "10.1016/j.jallcom.2016.05.013",
+    "10.1007/s12598-019-01235-0",
+    "10.1038/nchem.2207",
+    "10.1016/j.jallcom.2016.09.086"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "ZrNiPb",
+        "Property": "ThermCond",
+        "Value": 13.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physleta.2016.10.039"
+      },
+      {
+        "Original_Name_In_Paper": "ZrNiPb",
+        "Property": "ThermCond",
+        "Value": 14.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.09.086"
+      },
+      {
+        "Original_Name_In_Paper": "ZrNiPb",
+        "Property": "ThermCond",
+        "Value": 14.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra08461c"
+      },
+      {
+        "Original_Name_In_Paper": "ZrNiPb",
+        "Property": "Seebeck",
+        "Value": -0.0001539,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra08461c"
+      },
+      {
+        "Original_Name_In_Paper": "ZrNiPb",
+        "Property": "Seebeck",
+        "Value": -0.0001539,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.05.013"
+      },
+      {
+        "Original_Name_In_Paper": "pure ZrNiPb",
+        "Property": "Seebeck",
+        "Value": -0.0001539,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.05.013"
+      },
+      {
+        "Original_Name_In_Paper": "ZrNiPb",
+        "Property": "Seebeck",
+        "Value": -0.0001539,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/nchem.2207"
+      },
+      {
+        "Original_Name_In_Paper": "ZrNiPb",
+        "Property": "Seebeck",
+        "Value": -0.0001539,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.09.086"
+      },
+      {
+        "Original_Name_In_Paper": "ZrNiPb",
+        "Property": "Seebeck",
+        "Value": -0.0001539,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.09.086"
+      },
+      {
+        "Original_Name_In_Paper": "ZrNiPb",
+        "Property": "Seebeck",
+        "Value": -0.0001539,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physleta.2016.10.039"
+      },
+      {
+        "Original_Name_In_Paper": "ZrNiPb",
+        "Property": "PF",
+        "Value": 0.0005200000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physleta.2016.10.039"
+      },
+      {
+        "Original_Name_In_Paper": "ZrNiPb",
+        "Property": "PF",
+        "Value": 0.0005200000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/nchem.2207"
+      },
+      {
+        "Original_Name_In_Paper": "pure ZrNiPb",
+        "Property": "PF",
+        "Value": 0.0005200000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.05.013"
+      },
+      {
+        "Original_Name_In_Paper": "ZrNiPb",
+        "Property": "PF",
+        "Value": 0.0005200000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra08461c"
+      },
+      {
+        "Original_Name_In_Paper": "ZrNiPb",
+        "Property": "PF",
+        "Value": 0.0005200000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra08461c"
+      },
+      {
+        "Original_Name_In_Paper": "ZrNiPb",
+        "Property": "Conductivity",
+        "Value": 22010.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra08461c"
+      },
+      {
+        "Original_Name_In_Paper": "ZrNiPb",
+        "Property": "Conductivity",
+        "Value": 22010.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/nchem.2207"
+      }
+    ],
+    "250.0": [
+      {
+        "Original_Name_In_Paper": "ZrNiPb",
+        "Property": "ZT",
+        "Value": 0.9500000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s12598-019-01235-0"
+      },
+      {
+        "Original_Name_In_Paper": "ZrNiPb",
+        "Property": "ZT",
+        "Value": 0.9500000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s12598-019-01235-0"
+      },
+      {
+        "Original_Name_In_Paper": "ZrNiPb",
+        "Property": "ZT",
+        "Value": 0.9500000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s12598-019-01235-0"
+      }
+    ],
+    "1200.0": [
+      {
+        "Original_Name_In_Paper": "ZrNiPb0.98Bi0.02",
+        "Property": "ZT",
+        "Value": 0.55,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s12598-019-01235-0"
+      }
+    ]
+  }
+}

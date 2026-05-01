@@ -1,0 +1,18 @@
+{
+  "Material": "Ag8Sn1.004Se6",
+  "DOIs_Researched": [
+    "10.1039/c9ce01367a"
+  ],
+  "Data_By_Temperature": {
+    "715.0": [
+      {
+        "Original_Name_In_Paper": "Ag8Sn1.004Se6",
+        "Property": "ThermCond",
+        "Value": 0.25,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ce01367a"
+      }
+    ]
+  }
+}

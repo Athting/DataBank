@@ -1,0 +1,53 @@
+{
+  "Material": "Sn0.98Cu0.02Se",
+  "DOIs_Researched": [
+    "10.1007/s10854-018-9996-x",
+    "10.1007/s10853-020-04949-0"
+  ],
+  "Data_By_Temperature": {
+    "813.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.98Cu0.02Se",
+        "Property": "ZT",
+        "Value": 0.66,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-018-9996-x"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.98Cu0.02Se",
+        "Property": "ZT",
+        "Value": 0.66,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-018-9996-x"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.98Cu0.02Se",
+        "Property": "ZT",
+        "Value": 0.66,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-018-9996-x"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.98Cu0.02Se",
+        "Property": "ZT",
+        "Value": 0.66,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      }
+    ],
+    "350.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.98Cu0.02Se",
+        "Property": "Seebeck",
+        "Value": 0.00064,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-018-9996-x"
+      }
+    ]
+  }
+}

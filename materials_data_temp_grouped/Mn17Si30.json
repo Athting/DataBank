@@ -1,0 +1,18 @@
+{
+  "Material": "Mn17Si30",
+  "DOIs_Researched": [
+    "10.1007/s10853-018-2105-y"
+  ],
+  "Data_By_Temperature": {
+    "180.0": [
+      {
+        "Original_Name_In_Paper": "Mn17Si30",
+        "Property": "Conductivity",
+        "Value": 0.030303030300000002,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-018-2105-y"
+      }
+    ]
+  }
+}

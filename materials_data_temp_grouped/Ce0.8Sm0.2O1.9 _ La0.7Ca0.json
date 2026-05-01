@@ -1,0 +1,18 @@
+{
+  "Material": "Ce0.8Sm0.2O1.9 / La0.7Ca0",
+  "DOIs_Researched": [
+    "10.1016/j.pmatsci.2015.01.001"
+  ],
+  "Data_By_Temperature": {
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "5 wt. % Ce0.8Sm0.2O1.9 / La0.7Ca0.3Cr0.3O3 composite",
+        "Property": "Conductivity",
+        "Value": 68780.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2015.01.001"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "pure Fe",
+  "DOIs_Researched": [
+    "10.1039/c9cp02486g"
+  ],
+  "Data_By_Temperature": {
+    "450.0": [
+      {
+        "Original_Name_In_Paper": "pure Fe",
+        "Property": "Seebeck",
+        "Value": 2.4999999999999998e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9cp02486g"
+      }
+    ]
+  }
+}

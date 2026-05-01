@@ -1,0 +1,36 @@
+{
+  "Material": "ZrPdPb",
+  "DOIs_Researched": [
+    "10.1016/j.physleta.2017.09.043",
+    "10.1016/j.ceramint.2017.08.046",
+    "10.1016/j.jallcom.2017.06.131"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ni doped ZrPdPb",
+        "Property": "ThermCond",
+        "Value": 26.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physleta.2017.09.043"
+      },
+      {
+        "Original_Name_In_Paper": "Ni doped ZrPdPb",
+        "Property": "ThermCond",
+        "Value": 26.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2017.08.046"
+      },
+      {
+        "Original_Name_In_Paper": "ZrPdPb",
+        "Property": "ThermCond",
+        "Value": 14.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.06.131"
+      }
+    ]
+  }
+}

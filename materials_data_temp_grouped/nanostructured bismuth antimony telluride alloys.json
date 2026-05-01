@@ -1,0 +1,18 @@
+{
+  "Material": "nanostructured bismuth antimony telluride alloys",
+  "DOIs_Researched": [
+    "10.1186/s11671-016-1407-8"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "nanostructured bismuth antimony telluride alloys",
+        "Property": "ZT",
+        "Value": 0.71,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1186/s11671-016-1407-8"
+      }
+    ]
+  }
+}

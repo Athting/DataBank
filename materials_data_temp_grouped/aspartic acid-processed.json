@@ -1,0 +1,26 @@
+{
+  "Material": "aspartic acid-processed",
+  "DOIs_Researched": [
+    "10.1016/j.cap.2010.12.019"
+  ],
+  "Data_By_Temperature": {
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "aspartic acid-processed",
+        "Property": "PF",
+        "Value": 0.0008049999999999999,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2010.12.019"
+      },
+      {
+        "Original_Name_In_Paper": "aspartic acid-processed",
+        "Property": "PF",
+        "Value": 0.0008049999999999999,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2010.12.019"
+      }
+    ]
+  }
+}

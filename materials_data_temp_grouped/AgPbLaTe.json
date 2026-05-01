@@ -1,0 +1,28 @@
+{
+  "Material": "AgPbLaTe",
+  "DOIs_Researched": [
+    "10.1039/c2ce25512j"
+  ],
+  "Data_By_Temperature": {
+    "720.0": [
+      {
+        "Original_Name_In_Paper": "Ag0.05Pb0.99La0.01Te",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2ce25512j"
+      }
+    ],
+    "670.0": [
+      {
+        "Original_Name_In_Paper": "AgPb25LaTe27",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2ce25512j"
+      }
+    ]
+  }
+}

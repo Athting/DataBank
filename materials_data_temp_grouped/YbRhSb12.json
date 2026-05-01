@@ -1,0 +1,18 @@
+{
+  "Material": "YbRhSb12",
+  "DOIs_Researched": [
+    "10.1007/s100510051057"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Yb0.1Rh4Sb12",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s100510051057"
+      }
+    ]
+  }
+}

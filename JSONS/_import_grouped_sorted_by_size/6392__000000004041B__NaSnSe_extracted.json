@@ -1,0 +1,158 @@
+{
+  "doi": "10.1039/c8ta07783e",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Na0.03Sn0.97Se",
+        "sodium doped SnSe single crystals",
+        "Na-doped SnSe0.9S0.1",
+        "Na0.01Sn0.99Se",
+        "Na0.02Sn0.98Se",
+        "Na0.015Sn0.985Se"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "Na0.01Sn0.99Se",
+          "value": 4955,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "Na0.02Sn0.98Se",
+          "value": 7700,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "400.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Na0.01Sn0.99Se",
+          "value": 0.00048000000000000007,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Na0.02Sn0.98Se",
+          "value": 0.00048000000000000007,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "Na0.02Sn0.98Se",
+          "value": 0.00047000000000000004,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "798.0 K"
+        },
+        {
+          "material": "Na0.02Sn0.98Se",
+          "value": 0.00048000000000000007,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "523.0 K"
+        },
+        {
+          "material": "Na0.02Sn0.98Se",
+          "value": 0.00030000000000000003,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "500.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Na0.03Sn0.97Se",
+          "zt_value": 0.30000000000000004,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "sodium doped SnSe single crystals",
+          "zt_value": 0.7000000000000001,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Na-doped SnSe0.9S0.1",
+          "zt_value": 1.6,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Na0.03Sn0.97Se",
+          "zt_value": 1.3,
+          "temperature": "793.0 K"
+        },
+        {
+          "material": "Na0.01Sn0.99Se",
+          "zt_value": 0.75,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "Na0.01Sn0.99Se",
+          "zt_value": 0.75,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "Na0.01Sn0.99Se",
+          "zt_value": 0.75,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "Na0.01Sn0.99Se",
+          "zt_value": 0.75,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "Na0.02Sn0.98Se",
+          "zt_value": 0.87,
+          "temperature": "798.0 K"
+        },
+        {
+          "material": "Na0.02Sn0.98Se",
+          "zt_value": 0.87,
+          "temperature": "798.0 K"
+        },
+        {
+          "material": "Na0.02Sn0.98Se",
+          "zt_value": 0.87,
+          "temperature": "798.0 K"
+        },
+        {
+          "material": "Na0.02Sn0.98Se",
+          "zt_value": 0.87,
+          "temperature": "798.0 K"
+        },
+        {
+          "material": "Na0.02Sn0.98Se",
+          "zt_value": 0.87,
+          "temperature": "798.0 K"
+        },
+        {
+          "material": "Na0.015Sn0.985Se",
+          "zt_value": 0.8,
+          "temperature": "773.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

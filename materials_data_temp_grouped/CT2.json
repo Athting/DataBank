@@ -1,0 +1,131 @@
+{
+  "Material": "CT2",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2020.155276",
+    "10.1039/c8dt04351e"
+  ],
+  "Data_By_Temperature": {
+    "524.0": [
+      {
+        "Original_Name_In_Paper": "CT2",
+        "Property": "ThermCond",
+        "Value": 3.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8dt04351e"
+      },
+      {
+        "Original_Name_In_Paper": "CT2",
+        "Property": "ThermCond",
+        "Value": 3.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8dt04351e"
+      },
+      {
+        "Original_Name_In_Paper": "CT2",
+        "Property": "ThermCond",
+        "Value": 3.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8dt04351e"
+      },
+      {
+        "Original_Name_In_Paper": "CT2",
+        "Property": "ZT",
+        "Value": 0.03,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8dt04351e"
+      },
+      {
+        "Original_Name_In_Paper": "CT2",
+        "Property": "ZT",
+        "Value": 0.03,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8dt04351e"
+      },
+      {
+        "Original_Name_In_Paper": "CT2",
+        "Property": "Seebeck",
+        "Value": 2.686e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8dt04351e"
+      },
+      {
+        "Original_Name_In_Paper": "CT2",
+        "Property": "PF",
+        "Value": 0.00024000000000000003,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8dt04351e"
+      },
+      {
+        "Original_Name_In_Paper": "CT2",
+        "Property": "PF",
+        "Value": 0.00024000000000000003,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8dt04351e"
+      },
+      {
+        "Original_Name_In_Paper": "CT2",
+        "Property": "PF",
+        "Value": 0.00024000000000000003,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8dt04351e"
+      }
+    ],
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "CT2",
+        "Property": "Seebeck",
+        "Value": 2.95e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8dt04351e"
+      },
+      {
+        "Original_Name_In_Paper": "CT2",
+        "Property": "Conductivity",
+        "Value": 251300.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8dt04351e"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "CT2",
+        "Property": "Seebeck",
+        "Value": 4.9999999999999996e-06,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.155276"
+      }
+    ],
+    "550.0": [
+      {
+        "Original_Name_In_Paper": "CT2",
+        "Property": "PF",
+        "Value": 3.7999999999999995e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.155276"
+      }
+    ],
+    "327.0": [
+      {
+        "Original_Name_In_Paper": "CT2",
+        "Property": "Conductivity",
+        "Value": 642500.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8dt04351e"
+      }
+    ]
+  }
+}

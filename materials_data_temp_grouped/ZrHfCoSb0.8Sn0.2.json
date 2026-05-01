@@ -1,0 +1,105 @@
+{
+  "Material": "ZrHfCoSb0.8Sn0.2",
+  "DOIs_Researched": [
+    "10.1016/j.mtphys.2018.11.002",
+    "10.1007/s12598-019-01235-0",
+    "10.1039/c9ee02228g",
+    "10.1039/c4cp02561j",
+    "10.1016/j.jssc.2010.03.023",
+    "10.1016/j.jssc.2012.09.043"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "Zr0.5Hf0.5CoSb0.8Sn0.2",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4cp02561j"
+      },
+      {
+        "Original_Name_In_Paper": "Zr0.5Hf0.5CoSb0.8Sn0.2",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2012.09.043"
+      }
+    ],
+    "1123.0": [
+      {
+        "Original_Name_In_Paper": "Zr0.5Hf0.5CoSb0.8Sn0.2",
+        "Property": "ZT",
+        "Value": 0.93,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2018.11.002"
+      },
+      {
+        "Original_Name_In_Paper": "Zr0.5Hf0.5CoSb0.8Sn0.2",
+        "Property": "ZT",
+        "Value": 0.93,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2018.11.002"
+      },
+      {
+        "Original_Name_In_Paper": "Zr0.5Hf0.5CoSb0.8Sn0.2",
+        "Property": "ZT",
+        "Value": 0.93,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2018.11.002"
+      }
+    ],
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "Zr0.5Hf0.5CoSb0.8Sn0.2",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2010.03.023"
+      },
+      {
+        "Original_Name_In_Paper": "Zr0.5Hf0.5CoSb0.8Sn0.2",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s12598-019-01235-0"
+      }
+    ],
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "Zr0.5Hf0.5CoSb0.8Sn0.2",
+        "Property": "Seebeck",
+        "Value": 0.00013000000000000002,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2010.03.023"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Zr0.5Hf0.5CoSb0.8Sn0.2",
+        "Property": "PF",
+        "Value": 0.003,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2018.11.002"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Zr0.5Hf0.5CoSb0.8Sn0.2",
+        "Property": "PF",
+        "Value": 0.0019100000000000002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ee02228g"
+      }
+    ]
+  }
+}

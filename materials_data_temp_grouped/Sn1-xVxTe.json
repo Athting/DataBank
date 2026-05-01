@@ -1,0 +1,18 @@
+{
+  "Material": "Sn1-xVxTe",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2019.104292"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Sn1-xVxTe",
+        "Property": "ZT",
+        "Value": 0.04,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2019.104292"
+      }
+    ]
+  }
+}

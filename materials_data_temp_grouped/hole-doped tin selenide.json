@@ -1,0 +1,18 @@
+{
+  "Material": "hole-doped tin selenide",
+  "DOIs_Researched": [
+    "10.1007/s10854-019-00943-8"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "hole-doped tin selenide",
+        "Property": "ZT",
+        "Value": 1.34,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-019-00943-8"
+      }
+    ]
+  }
+}

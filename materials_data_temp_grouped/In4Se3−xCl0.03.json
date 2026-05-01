@@ -1,0 +1,18 @@
+{
+  "Material": "In4Se3\u2212xCl0.03",
+  "DOIs_Researched": [
+    "10.1039/c4dt03432e"
+  ],
+  "Data_By_Temperature": {
+    "698.0": [
+      {
+        "Original_Name_In_Paper": "Cl-doped single-crystalline In4Se3\u2212xCl0.03",
+        "Property": "ZT",
+        "Value": 1.53,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4dt03432e"
+      }
+    ]
+  }
+}

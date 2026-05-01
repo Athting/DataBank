@@ -1,0 +1,136 @@
+{
+  "doi": "10.1016/j.matchemphys.2016.02.069",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "CdO",
+        "CdO film",
+        "doped CdO",
+        "Pure CdO",
+        "Cd0.99Mg0.01O alloy",
+        "pure CdO"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "CdO film",
+          "value": 0.9345794393,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CdO",
+          "value": 100000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CdO",
+          "value": 10200,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CdO",
+          "value": 53475.935828877,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "pure CdO",
+          "value": 20449.8977505112,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "973.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "CdO",
+          "value": 8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CdO",
+          "value": 3,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1000.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Cd0.99Mg0.01O alloy",
+          "value": 0.0013000000000000002,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "pure CdO",
+          "value": 0.0011,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1000.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "doped CdO",
+          "zt_value": 0.1,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "doped CdO",
+          "zt_value": 0.1,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "doped CdO",
+          "zt_value": 0.38,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "CdO",
+          "zt_value": 0.1,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Pure CdO",
+          "zt_value": 0.32,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "CdO",
+          "zt_value": 0.34,
+          "temperature": "1023.0 K"
+        },
+        {
+          "material": "CdO",
+          "zt_value": 0.34,
+          "temperature": "1023.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

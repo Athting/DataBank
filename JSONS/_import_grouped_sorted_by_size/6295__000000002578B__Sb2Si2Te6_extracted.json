@@ -1,0 +1,109 @@
+{
+  "doi": "10.1016/j.joule.2019.10.010",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Sb2Si2Te6"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "Sb2Si2Te6",
+          "value": 0.0002381,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Sb2Si2Te6",
+          "value": 0.00012000000000000002,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "Sb2Si2Te6",
+          "value": 48300,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Sb2Si2Te6",
+          "value": 0.29,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "Sb2Si2Te6",
+          "value": 0.48,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "Sb2Si2Te6",
+          "value": 0.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Sb2Si2Te6",
+          "value": 1.33,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "310.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Sb2Si2Te6",
+          "zt_value": 1.08,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "Sb2Si2Te6",
+          "zt_value": 1.65,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "Sb2Si2Te6",
+          "zt_value": 1.08,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "Sb2Si2Te6",
+          "zt_value": 1.08,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "Sb2Si2Te6",
+          "zt_value": 1.08,
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

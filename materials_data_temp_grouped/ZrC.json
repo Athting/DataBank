@@ -1,0 +1,18 @@
+{
+  "Material": "ZrC",
+  "DOIs_Researched": [
+    "10.1016/j.jnucmat.2019.06.032"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "ZrC",
+        "Property": "ThermCond",
+        "Value": 87.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jnucmat.2019.06.032"
+      }
+    ]
+  }
+}

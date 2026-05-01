@@ -1,0 +1,103 @@
+{
+  "Material": "CaMnO3\u2212\u03b4",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2015.05.013",
+    "10.1016/j.ceramint.2015.11.076",
+    "10.1016/j.mseb.2017.06.014",
+    "10.1016/j.jallcom.2011.04.056",
+    "10.1016/j.mseb.2014.03.009",
+    "10.1016/j.jallcom.2012.10.078"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "CaMnO3\u2212\u03b4",
+        "Property": "ThermCond",
+        "Value": 0.019,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2012.10.078"
+      },
+      {
+        "Original_Name_In_Paper": "CaMnO3\u2212\u03b4",
+        "Property": "ThermCond",
+        "Value": 0.02,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mseb.2014.03.009"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "CaMnO3\u2212\u03b4",
+        "Property": "ZT",
+        "Value": 0.019,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2011.04.056"
+      },
+      {
+        "Original_Name_In_Paper": "CaMnO3\u2212\u03b4",
+        "Property": "Conductivity",
+        "Value": 1000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2015.11.076"
+      },
+      {
+        "Original_Name_In_Paper": "CaMnO3\u2212\u03b4",
+        "Property": "Conductivity",
+        "Value": 4545.4545454545,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mseb.2014.03.009"
+      },
+      {
+        "Original_Name_In_Paper": "CaMnO3\u2212\u03b4",
+        "Property": "Seebeck",
+        "Value": -0.000319,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2015.11.076"
+      },
+      {
+        "Original_Name_In_Paper": "CaMnO3\u2212\u03b4",
+        "Property": "Seebeck",
+        "Value": -0.000319,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2012.10.078"
+      }
+    ],
+    "1053.0": [
+      {
+        "Original_Name_In_Paper": "doped CaMnO3\u2212\u03b4",
+        "Property": "ZT",
+        "Value": 0.32,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mseb.2017.06.014"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "CaMnO3\u2212\u03b4",
+        "Property": "Seebeck",
+        "Value": 0.0004,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2015.05.013"
+      }
+    ],
+    "1100.0": [
+      {
+        "Original_Name_In_Paper": "CaMnO3\u2212\u03b4",
+        "Property": "PF",
+        "Value": 0.000265,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2011.04.056"
+      }
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "Material": "Sb2Te3\u2013Te",
+  "DOIs_Researched": [
+    "10.1039/c3ce27010f"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Sb2Te3\u2013Te",
+        "Property": "Seebeck",
+        "Value": 0.0001481,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ce27010f"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3\u2013Te",
+        "Property": "PF",
+        "Value": 0.00102,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ce27010f"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3\u2013Te",
+        "Property": "Conductivity",
+        "Value": 15020.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ce27010f"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Sb2Te3\u2013Te",
+        "Property": "Seebeck",
+        "Value": 0.0001502,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ce27010f"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3\u2013Te",
+        "Property": "Seebeck",
+        "Value": 7.3e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ce27010f"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3\u2013Te",
+        "Property": "Seebeck",
+        "Value": 0.0001481,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ce27010f"
+      },
+      {
+        "Original_Name_In_Paper": "Sb2Te3\u2013Te",
+        "Property": "PF",
+        "Value": 0.00033000000000000005,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ce27010f"
+      }
+    ]
+  }
+}

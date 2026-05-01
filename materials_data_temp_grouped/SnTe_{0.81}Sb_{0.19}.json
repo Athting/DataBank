@@ -1,0 +1,18 @@
+{
+  "Material": "SnTe_{0.81}Sb_{0.19}",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2018.09.234"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "19 % Sb doped SnTe",
+        "Property": "Conductivity",
+        "Value": 236400.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.09.234"
+      }
+    ]
+  }
+}

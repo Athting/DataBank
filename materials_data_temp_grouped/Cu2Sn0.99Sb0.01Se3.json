@@ -1,0 +1,54 @@
+{
+  "Material": "Cu2Sn0.99Sb0.01Se3",
+  "DOIs_Researched": [
+    "10.1007/s00339-017-1540-y",
+    "10.1016/j.physb.2017.06.002",
+    "10.1016/j.materresbull.2016.06.002"
+  ],
+  "Data_By_Temperature": {
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "Cu2Sn0.99Sb0.01Se3",
+        "Property": "ZT",
+        "Value": 0.014,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2017.06.002"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2Sn0.99Sb0.01Se3",
+        "Property": "ZT",
+        "Value": 0.0137,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2016.06.002"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2Sn0.99Sb0.01Se3",
+        "Property": "ZT",
+        "Value": 0.0137,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2016.06.002"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2Sn0.99Sb0.01Se3",
+        "Property": "ZT",
+        "Value": 0.0137,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2016.06.002"
+      }
+    ],
+    "610.0": [
+      {
+        "Original_Name_In_Paper": "Cu2Sn0.99Sb0.01Se3",
+        "Property": "Seebeck",
+        "Value": 0.00029499999999999996,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s00339-017-1540-y"
+      }
+    ]
+  }
+}

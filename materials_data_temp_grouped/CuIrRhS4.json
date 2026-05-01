@@ -1,0 +1,28 @@
+{
+  "Material": "CuIrRhS4",
+  "DOIs_Researched": [
+    "10.1016/j.jmmm.2015.12.097"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "CuIrRhS4",
+        "Property": "ZT",
+        "Value": 0.0057,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmmm.2015.12.097"
+      }
+    ],
+    "300.1": [
+      {
+        "Original_Name_In_Paper": "CuIrRhS4",
+        "Property": "Seebeck",
+        "Value": -1.2600000000000002e-07,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmmm.2015.12.097"
+      }
+    ]
+  }
+}

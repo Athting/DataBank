@@ -1,0 +1,18 @@
+{
+  "Material": "(HfZr)1-xTixNiSn",
+  "DOIs_Researched": [
+    "10.1007/s10853-020-04949-0"
+  ],
+  "Data_By_Temperature": {
+    "718.0": [
+      {
+        "Original_Name_In_Paper": "(Hf0.5Zr0.5)1-xTixNiSn0.998Sb0.002 compounds",
+        "Property": "ZT",
+        "Value": 0.9400000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      }
+    ]
+  }
+}

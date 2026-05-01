@@ -1,0 +1,34 @@
+{
+  "Material": "Ca3Co3.85Cu0.15O9",
+  "DOIs_Researched": [
+    "10.1016/j.materresbull.2013.07.004"
+  ],
+  "Data_By_Temperature": {
+    "141.0": [
+      {
+        "Original_Name_In_Paper": "Ca3Co3.85Cu0.15O9",
+        "Property": "PF",
+        "Value": 0.000217,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2013.07.004"
+      },
+      {
+        "Original_Name_In_Paper": "Ca3Co3.85Cu0.15O9",
+        "Property": "PF",
+        "Value": 0.000217,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2013.07.004"
+      },
+      {
+        "Original_Name_In_Paper": "Ca3Co3.85Cu0.15O9",
+        "Property": "PF",
+        "Value": 0.000217,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2013.07.004"
+      }
+    ]
+  }
+}

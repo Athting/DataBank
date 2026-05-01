@@ -1,0 +1,117 @@
+{
+  "doi": "10.1038/ncomms13901",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Se-doped Mg3Sb1.5Bi0.5",
+        "Mg3Sb1.5Bi0.5",
+        "Mn doped Mg3Sb1.5Bi0.5",
+        "Mg3Sb1.5Bi0.5and",
+        "n-type Te-doped Mg3Sb1.5Bi0.5",
+        "La-doped n-type Mg3Sb1.5Bi0.5"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Se-doped Mg3Sb1.5Bi0.5",
+          "value": 0.8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Se-doped Mg3Sb1.5Bi0.5",
+          "value": 0.84,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Mg3Sb1.5Bi0.5",
+          "zt_value": 0.56,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Mg3Sb1.5Bi0.5",
+          "zt_value": 0.56,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Mg3Sb1.5Bi0.5",
+          "zt_value": 0.56,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Se-doped Mg3Sb1.5Bi0.5",
+          "zt_value": 0.6000000000000001,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Se-doped Mg3Sb1.5Bi0.5",
+          "zt_value": 0.68,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Mn doped Mg3Sb1.5Bi0.5",
+          "zt_value": 1.85,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "Mg3Sb1.5Bi0.5and",
+          "zt_value": 1.6,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "Mg3Sb1.5Bi0.5",
+          "zt_value": 1.6,
+          "temperature": "725.0 K"
+        },
+        {
+          "material": "n-type Te-doped Mg3Sb1.5Bi0.5",
+          "zt_value": 1.65,
+          "temperature": "725.0 K"
+        },
+        {
+          "material": "Se-doped Mg3Sb1.5Bi0.5",
+          "zt_value": 1.65,
+          "temperature": "725.0 K"
+        },
+        {
+          "material": "La-doped n-type Mg3Sb1.5Bi0.5",
+          "zt_value": 1,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "Mg3Sb1.5Bi0.5",
+          "zt_value": 0.23,
+          "temperature": "773.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

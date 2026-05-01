@@ -1,0 +1,29 @@
+{
+  "Material": "alkaline-earth",
+  "DOIs_Researched": [
+    "10.1039/b914382c",
+    "10.1039/c3ta14532h"
+  ],
+  "Data_By_Temperature": {
+    "1050.0": [
+      {
+        "Original_Name_In_Paper": "alkaline-earth",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/b914382c"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "alkaline-earth",
+        "Property": "PF",
+        "Value": 0.0007,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": "Ba doping",
+        "Source_DOI": "10.1039/c3ta14532h"
+      }
+    ]
+  }
+}

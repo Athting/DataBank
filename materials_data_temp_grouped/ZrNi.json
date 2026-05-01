@@ -1,0 +1,26 @@
+{
+  "Material": "ZrNi",
+  "DOIs_Researched": [
+    "10.1007/s10973-018-7737-2"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Zr66.7Ni33.3",
+        "Property": "Seebeck",
+        "Value": 1.95e-06,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10973-018-7737-2"
+      },
+      {
+        "Original_Name_In_Paper": "crystallized Zr66.7Ni33.3",
+        "Property": "Seebeck",
+        "Value": 1.94e-06,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10973-018-7737-2"
+      }
+    ]
+  }
+}

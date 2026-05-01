@@ -1,0 +1,18 @@
+{
+  "Material": "ZrHfRhSbSn",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2010.03.023"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Zr0.5Hf0.5RhSb0.99Sn0.01",
+        "Property": "ThermCond",
+        "Value": 3.7,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2010.03.023"
+      }
+    ]
+  }
+}

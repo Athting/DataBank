@@ -1,0 +1,18 @@
+{
+  "Material": "Ge0.9Pb0.05Bi0.05Te",
+  "DOIs_Researched": [
+    "10.1134/S1063782612070160"
+  ],
+  "Data_By_Temperature": {
+    "670.0": [
+      {
+        "Original_Name_In_Paper": "Ge0.9Pb0.05Bi0.05Te",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1134/S1063782612070160"
+      }
+    ]
+  }
+}

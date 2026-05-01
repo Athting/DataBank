@@ -1,0 +1,18 @@
+{
+  "Material": "n-type Bi2Te3 / Bi2Te2.83Se0.17",
+  "DOIs_Researched": [
+    "10.1038/s41528-018-0045-x"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "n-type Bi2Te3 / Bi2Te2.83Se0.17",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41528-018-0045-x"
+      }
+    ]
+  }
+}

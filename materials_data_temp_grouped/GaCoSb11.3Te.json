@@ -1,0 +1,52 @@
+{
+  "Material": "GaCoSb11.3Te",
+  "DOIs_Researched": [
+    "10.1016/j.jmat.2020.02.005"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Ga0.2Co4Sb11.3Te",
+        "Property": "ThermCond",
+        "Value": 2.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2020.02.005"
+      },
+      {
+        "Original_Name_In_Paper": "Ga0.2Co4Sb11.3Te",
+        "Property": "ZT",
+        "Value": 1.48,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2020.02.005"
+      },
+      {
+        "Original_Name_In_Paper": "Ga0.2Co4Sb11.3Te",
+        "Property": "ZT",
+        "Value": 1.48,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2020.02.005"
+      },
+      {
+        "Original_Name_In_Paper": "Ga0.2Co4Sb11.3Te",
+        "Property": "PF",
+        "Value": 0.005,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2020.02.005"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ga0.2Co4Sb11.3Te",
+        "Property": "Conductivity",
+        "Value": 128100.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2020.02.005"
+      }
+    ]
+  }
+}

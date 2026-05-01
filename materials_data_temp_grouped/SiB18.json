@@ -1,0 +1,18 @@
+{
+  "Material": "SiB18",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2004.07.004"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "SiB18",
+        "Property": "Conductivity",
+        "Value": 100.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2004.07.004"
+      }
+    ]
+  }
+}

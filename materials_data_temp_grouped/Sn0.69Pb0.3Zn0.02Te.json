@@ -1,0 +1,28 @@
+{
+  "Material": "Sn0.69Pb0.3Zn0.02Te",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2020.155181"
+  ],
+  "Data_By_Temperature": {
+    "840.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.69Pb0.3Zn0.02Te",
+        "Property": "ThermCond",
+        "Value": 0.7000000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.155181"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.69Pb0.3Zn0.02Te",
+        "Property": "PF",
+        "Value": 0.00238,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.155181"
+      }
+    ]
+  }
+}

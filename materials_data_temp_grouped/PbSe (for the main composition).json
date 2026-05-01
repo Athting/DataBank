@@ -1,0 +1,28 @@
+{
+  "Material": "PbSe (for the main composition)",
+  "DOIs_Researched": [
+    "10.1039/c9ee03087e"
+  ],
+  "Data_By_Temperature": {
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "Pb0.98K0.02Se\u20136 % CdSe",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ee03087e"
+      }
+    ],
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "Pb0.98K0.02Se\u20136 % CdSe",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ee03087e"
+      }
+    ]
+  }
+}

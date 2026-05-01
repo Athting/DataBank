@@ -1,0 +1,18 @@
+{
+  "Material": "p-type ZrCoBi-based",
+  "DOIs_Researched": [
+    "10.1038/s41467-018-04958-3"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "p-type ZrCoBi-based",
+        "Property": "ZT",
+        "Value": 1.42,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41467-018-04958-3"
+      }
+    ]
+  }
+}

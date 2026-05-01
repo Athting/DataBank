@@ -1,0 +1,18 @@
+{
+  "Material": "ZrHfNiPdSn",
+  "DOIs_Researched": [
+    "10.1016/B0-08-043152-6-01822-2"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Zr0.5Hf0.5Ni0.5Pd0.5Sn0.99Sb0.01",
+        "Property": "ThermCond",
+        "Value": 2.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B0-08-043152-6-01822-2"
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "doi": "10.1039/c9cp02018g",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "SnSe0.9Te0.1 pellet",
+        "p-type SnSe0.9Te0.1 pellet",
+        "SnSe0.9Te0.1"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "SnSe0.9Te0.1 pellet",
+          "value": 0.00068,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "450.0 K"
+        },
+        {
+          "material": "SnSe0.9Te0.1",
+          "value": 0.00010279999999999999,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "550.0 K"
+        },
+        {
+          "material": "SnSe0.9Te0.1",
+          "value": 0.00010279999999999999,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "550.0 K"
+        },
+        {
+          "material": "SnSe0.9Te0.1",
+          "value": 0.00010279999999999999,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "550.0 K"
+        },
+        {
+          "material": "SnSe0.9Te0.1",
+          "value": 0.00010279999999999999,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "550.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "SnSe0.9Te0.1 pellet",
+          "zt_value": 1.1,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "p-type SnSe0.9Te0.1 pellet",
+          "zt_value": 1.1,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "SnSe0.9Te0.1 pellet",
+          "zt_value": 0.56,
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

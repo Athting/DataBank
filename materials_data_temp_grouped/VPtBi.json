@@ -1,0 +1,18 @@
+{
+  "Material": "VPtBi",
+  "DOIs_Researched": [
+    "10.1007/s40089-020-00310-0"
+  ],
+  "Data_By_Temperature": {
+    "1200.0": [
+      {
+        "Original_Name_In_Paper": "VPtBi",
+        "Property": "ZT",
+        "Value": 0.25,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s40089-020-00310-0"
+      }
+    ]
+  }
+}

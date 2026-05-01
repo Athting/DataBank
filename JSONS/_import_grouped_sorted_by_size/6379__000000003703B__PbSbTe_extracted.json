@@ -1,0 +1,139 @@
+{
+  "doi": "10.1016/j.jallcom.2020.154377",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Pb0.995Sb0.005Te",
+        "Pb0.975Sb0.025Te",
+        "Pb0.988Sb0.012Te alloy",
+        "Pb0.997Sb0.002Te alloy",
+        "Pb0.99Sb0.01Te–5 % AgSbSe2",
+        "Pb0.988Sb0.012Te-13 % GeTe",
+        "n-type Pb0.98Sb0.02Te",
+        "Pb0.985Sb0.015Te"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "Pb0.995Sb0.005Te",
+          "value": 2620,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Pb0.975Sb0.025Te",
+          "value": 271580,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Pb0.988Sb0.012Te alloy",
+          "value": 0.68,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "Pb0.988Sb0.012Te alloy",
+          "value": 0.68,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "Pb0.997Sb0.002Te alloy",
+          "value": 1.3,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "Pb0.988Sb0.012Te alloy",
+          "value": 0.68,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "723.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "n-type Pb0.98Sb0.02Te",
+          "value": 1800,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "Pb0.995Sb0.005Te",
+          "value": 0.0022500000000000003,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "627.0 K"
+        },
+        {
+          "material": "Pb0.995Sb0.005Te",
+          "value": 0.0022500000000000003,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "627.0 K"
+        },
+        {
+          "material": "Pb0.995Sb0.005Te",
+          "value": 0.0022500000000000003,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "627.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Pb0.99Sb0.01Te–5 % AgSbSe2",
+          "zt_value": 0.8200000000000001,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "Pb0.988Sb0.012Te-13 % GeTe",
+          "zt_value": 1.38,
+          "temperature": "623.0 K"
+        },
+        {
+          "material": "n-type Pb0.98Sb0.02Te",
+          "zt_value": 1.3,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "n-type Pb0.98Sb0.02Te",
+          "zt_value": 1.3,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "n-type Pb0.98Sb0.02Te",
+          "zt_value": 1.3,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "Pb0.985Sb0.015Te",
+          "zt_value": 1,
+          "temperature": "773.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

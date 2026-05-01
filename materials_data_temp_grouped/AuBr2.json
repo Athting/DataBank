@@ -1,0 +1,46 @@
+{
+  "Material": "AuBr2",
+  "DOIs_Researched": [
+    "10.1016/j.synthmet.2009.08.030"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "OO-AuBr2",
+        "Property": "ThermCond",
+        "Value": 0.63,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.synthmet.2009.08.030"
+      },
+      {
+        "Original_Name_In_Paper": "OO-AuBr2",
+        "Property": "Seebeck",
+        "Value": -8.4e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.synthmet.2009.08.030"
+      }
+    ],
+    "200.0": [
+      {
+        "Original_Name_In_Paper": "OO-AuBr2",
+        "Property": "ThermCond",
+        "Value": 0.1,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.synthmet.2009.08.030"
+      }
+    ],
+    "130.0": [
+      {
+        "Original_Name_In_Paper": "OO-AuBr2",
+        "Property": "ZT",
+        "Value": 0.042,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.synthmet.2009.08.030"
+      }
+    ]
+  }
+}

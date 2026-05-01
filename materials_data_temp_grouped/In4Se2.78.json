@@ -1,0 +1,18 @@
+{
+  "Material": "In4Se2.78",
+  "DOIs_Researched": [
+    "10.1016/B978-0-08-102687-8.00002-6"
+  ],
+  "Data_By_Temperature": {
+    "705.0": [
+      {
+        "Original_Name_In_Paper": "single crystal In4Se2.78",
+        "Property": "ZT",
+        "Value": 1.48,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-08-102687-8.00002-6"
+      }
+    ]
+  }
+}

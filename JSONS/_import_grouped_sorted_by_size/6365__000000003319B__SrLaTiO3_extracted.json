@@ -1,0 +1,129 @@
+{
+  "doi": "10.1016/j.nanoen.2020.105195",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Sr0.900La0.067TiO3",
+        "polycrystalline Sr0.9La0.1TiO3",
+        "Sr0.9La0.1TiO3",
+        "Sr0.95La0.05TiO3",
+        "cubic perovskite Sr0.9La0.1TiO3",
+        "Sr0.95La0.05TiO3 single crystal",
+        "Sr0.92La0.08TiO3"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "Sr0.9La0.1TiO3",
+          "value": -0.000169,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "973.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "polycrystalline Sr0.9La0.1TiO3",
+          "value": 2.75,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Sr0.9La0.1TiO3",
+          "value": 3.1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "cubic perovskite Sr0.9La0.1TiO3",
+          "value": 10.3,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "polycrystalline Sr0.9La0.1TiO3",
+          "value": 0.0010500000000000002,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Sr0.95La0.05TiO3",
+          "value": 0.002506,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "370.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Sr0.900La0.067TiO3",
+          "zt_value": 0.42,
+          "temperature": "295 K"
+        },
+        {
+          "material": "polycrystalline Sr0.9La0.1TiO3",
+          "zt_value": 0.39,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Sr0.95La0.05TiO3",
+          "zt_value": 0.21,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Sr0.95La0.05TiO3",
+          "zt_value": 0.21,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Sr0.95La0.05TiO3",
+          "zt_value": 0.21,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Sr0.95La0.05TiO3 single crystal",
+          "zt_value": 0.15,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Sr0.95La0.05TiO3 single crystal",
+          "zt_value": 0.15,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Sr0.9La0.1TiO3",
+          "zt_value": 0.29,
+          "temperature": "1046.0 K"
+        },
+        {
+          "material": "Sr0.92La0.08TiO3",
+          "zt_value": 0.22,
+          "temperature": "800.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

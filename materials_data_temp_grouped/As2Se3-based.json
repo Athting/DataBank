@@ -1,0 +1,18 @@
+{
+  "Material": "As2Se3-based",
+  "DOIs_Researched": [
+    "10.1134/S0020168519040022"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "As2Se3-based",
+        "Property": "Conductivity",
+        "Value": 1000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1134/S0020168519040022"
+      }
+    ]
+  }
+}

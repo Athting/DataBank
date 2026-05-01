@@ -1,0 +1,75 @@
+{
+  "doi": "10.1016/j.scriptamat.2012.04.005",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "nanostructured bulk Bi2Te2.55Se0.45",
+        "Bi2Te2.55Se0.45"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "nanostructured bulk Bi2Te2.55Se0.45",
+          "zt_value": 0.37,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Bi2Te2.55Se0.45",
+          "zt_value": 0.7000000000000001,
+          "temperature": "485.0 K"
+        },
+        {
+          "material": "nanostructured bulk Bi2Te2.55Se0.45",
+          "zt_value": 0.7000000000000001,
+          "temperature": "485.0 K"
+        },
+        {
+          "material": "Bi2Te2.55Se0.45",
+          "zt_value": 0.73,
+          "temperature": "423.0 K"
+        },
+        {
+          "material": "Bi2Te2.55Se0.45",
+          "zt_value": 0.73,
+          "temperature": "423.0 K"
+        },
+        {
+          "material": "Bi2Te2.55Se0.45",
+          "zt_value": 0.73,
+          "temperature": "423.0 K"
+        },
+        {
+          "material": "Bi2Te2.55Se0.45",
+          "zt_value": 0.76,
+          "temperature": "473.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

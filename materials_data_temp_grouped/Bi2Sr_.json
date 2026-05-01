@@ -1,0 +1,18 @@
+{
+  "Material": "Bi2Sr_",
+  "DOIs_Researched": [
+    "10.1016/j.physb.2014.08.016"
+  ],
+  "Data_By_Temperature": {
+    "210.0": [
+      {
+        "Original_Name_In_Paper": "single crystal Bi2(Sr",
+        "Property": "ZT",
+        "Value": 0.025,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2014.08.016"
+      }
+    ]
+  }
+}

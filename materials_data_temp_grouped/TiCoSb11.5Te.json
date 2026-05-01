@@ -1,0 +1,69 @@
+{
+  "Material": "TiCoSb11.5Te",
+  "DOIs_Researched": [
+    "10.1016/j.matlet.2018.08.157",
+    "10.1016/j.jallcom.2010.11.027"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Ti0.3Co4Sb11.5Te0.5",
+        "Property": "ThermCond",
+        "Value": 3.7199999999999998,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2018.08.157"
+      },
+      {
+        "Original_Name_In_Paper": "Ti0.3Co4Sb11.5Te0.5",
+        "Property": "ThermCond",
+        "Value": 3.7199999999999998,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2018.08.157"
+      },
+      {
+        "Original_Name_In_Paper": "Ti0.3Co4Sb11.5Te0.5",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2018.08.157"
+      },
+      {
+        "Original_Name_In_Paper": "Ti0.3Co4Sb11.5Te0.5",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2018.08.157"
+      },
+      {
+        "Original_Name_In_Paper": "Ti0.3Co4Sb11.5Te0.5",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2018.08.157"
+      },
+      {
+        "Original_Name_In_Paper": "Ti0.3Co4Sb11.5Te0.5",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2018.08.157"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ti0.2Co4Sb11.5Te0.5",
+        "Property": "Conductivity",
+        "Value": 57142.8571428571,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.11.027"
+      }
+    ]
+  }
+}

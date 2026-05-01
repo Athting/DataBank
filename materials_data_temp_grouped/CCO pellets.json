@@ -1,0 +1,18 @@
+{
+  "Material": "CCO pellets",
+  "DOIs_Researched": [
+    "10.1016/j.jeurceramsoc.2017.11.017"
+  ],
+  "Data_By_Temperature": {
+    "1193.0": [
+      {
+        "Original_Name_In_Paper": "CCO pellets",
+        "Property": "Conductivity",
+        "Value": 5600.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2017.11.017"
+      }
+    ]
+  }
+}

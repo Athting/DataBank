@@ -1,0 +1,18 @@
+{
+  "Material": "SrCd2P2",
+  "DOIs_Researched": [
+    "10.1016/j.mssp.2020.105290"
+  ],
+  "Data_By_Temperature": {
+    "550.0": [
+      {
+        "Original_Name_In_Paper": "SrCd2P2",
+        "Property": "ZT",
+        "Value": 0.78,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2020.105290"
+      }
+    ]
+  }
+}

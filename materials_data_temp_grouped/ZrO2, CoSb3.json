@@ -1,0 +1,26 @@
+{
+  "Material": "ZrO2, CoSb3",
+  "DOIs_Researched": [
+    "10.1016/j.pmatsci.2013.06.003"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "ZrO2 / CoSb3 nanocomposites",
+        "Property": "Seebeck",
+        "Value": 0.00014000000000000001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2013.06.003"
+      },
+      {
+        "Original_Name_In_Paper": "ZrO2 / CoSb3 nanocomposites",
+        "Property": "Conductivity",
+        "Value": 37500.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2013.06.003"
+      }
+    ]
+  }
+}

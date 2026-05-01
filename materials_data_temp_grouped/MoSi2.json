@@ -1,0 +1,93 @@
+{
+  "Material": "MoSi2",
+  "DOIs_Researched": [
+    "10.1016/j.sna.2018.01.047",
+    "10.1016/j.intermet.2014.02.010",
+    "10.1016/B978-044482548-3-50002-0",
+    "10.1016/j.intermet.2011.02.003"
+  ],
+  "Data_By_Temperature": {
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "MoSi2",
+        "Property": "ZT",
+        "Value": 1.33,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2014.02.010"
+      },
+      {
+        "Original_Name_In_Paper": "MoSi2",
+        "Property": "ZT",
+        "Value": 1.33,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2014.02.010"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "\u03b2-MoSi2 film",
+        "Property": "Conductivity",
+        "Value": 250000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2011.02.003"
+      },
+      {
+        "Original_Name_In_Paper": "\u03b2-MoSi2 thin films",
+        "Property": "Conductivity",
+        "Value": 1587301.5873015872,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2011.02.003"
+      },
+      {
+        "Original_Name_In_Paper": "MoSi2",
+        "Property": "Conductivity",
+        "Value": 167224.0802675585,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2014.02.010"
+      }
+    ],
+    "2303.0": [
+      {
+        "Original_Name_In_Paper": "MoSi2",
+        "Property": "Conductivity",
+        "Value": 25.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-044482548-3-50002-0"
+      }
+    ],
+    "1273.0": [
+      {
+        "Original_Name_In_Paper": "MoSi2",
+        "Property": "Seebeck",
+        "Value": 2.5699999999999998e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.sna.2018.01.047"
+      }
+    ],
+    "330.0": [
+      {
+        "Original_Name_In_Paper": "\u03b1-MoSi2",
+        "Property": "Seebeck",
+        "Value": 4.5e-06,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2011.02.003"
+      },
+      {
+        "Original_Name_In_Paper": "\u03b2-MoSi2",
+        "Property": "Seebeck",
+        "Value": 6.000000000000001e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2011.02.003"
+      }
+    ]
+  }
+}

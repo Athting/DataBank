@@ -1,0 +1,18 @@
+{
+  "Material": "Li2Ni2TeO6",
+  "DOIs_Researched": [
+    "10.1039/c7dt02663c"
+  ],
+  "Data_By_Temperature": {
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "Li2Ni2TeO6",
+        "Property": "Conductivity",
+        "Value": 0.02,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7dt02663c"
+      }
+    ]
+  }
+}

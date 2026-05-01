@@ -1,0 +1,18 @@
+{
+  "Material": "FeAl",
+  "DOIs_Researched": [
+    "10.1016/j.commatsci.2018.03.008"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Fe2-xV1+xAl",
+        "Property": "ZT",
+        "Value": 0.01,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2018.03.008"
+      }
+    ]
+  }
+}

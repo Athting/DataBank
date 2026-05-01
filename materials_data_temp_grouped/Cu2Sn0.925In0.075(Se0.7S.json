@@ -1,0 +1,18 @@
+{
+  "Material": "Cu2Sn0.925In0.075(Se0.7S",
+  "DOIs_Researched": [
+    "10.1016/j.intermet.2014.05.006"
+  ],
+  "Data_By_Temperature": {
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "Cu2Sn0.925In0.075(Se0.7S0.3)3",
+        "Property": "ZT",
+        "Value": 0.62,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2014.05.006"
+      }
+    ]
+  }
+}

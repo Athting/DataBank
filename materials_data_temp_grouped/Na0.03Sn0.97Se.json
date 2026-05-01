@@ -1,0 +1,18 @@
+{
+  "Material": "Na0.03Sn0.97Se",
+  "DOIs_Researched": [
+    "10.1039/d0ma00405g"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "polycrystalline Na0.03Sn0.97Se",
+        "Property": "PF",
+        "Value": 0.0005729999999999999,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ma00405g"
+      }
+    ]
+  }
+}

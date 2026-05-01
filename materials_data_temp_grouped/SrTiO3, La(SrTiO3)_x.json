@@ -1,0 +1,18 @@
+{
+  "Material": "SrTiO3, La(SrTiO3)_x",
+  "DOIs_Researched": [
+    "10.1039/c3ta14699e"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "9.0 at % La-doped SrTiO3",
+        "Property": "ZT",
+        "Value": 0.37,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta14699e"
+      }
+    ]
+  }
+}

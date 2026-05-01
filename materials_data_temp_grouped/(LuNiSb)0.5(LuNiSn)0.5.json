@@ -1,0 +1,18 @@
+{
+  "Material": "(LuNiSb)0.5(LuNiSn)0.5",
+  "DOIs_Researched": [
+    "10.1016/j.matpr.2019.02.055"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "(LuNiSb)0.5(LuNiSn)0.5",
+        "Property": "PF",
+        "Value": 0.001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matpr.2019.02.055"
+      }
+    ]
+  }
+}

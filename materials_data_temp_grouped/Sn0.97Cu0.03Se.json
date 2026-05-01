@@ -1,0 +1,52 @@
+{
+  "Material": "Sn0.97Cu0.03Se",
+  "DOIs_Researched": [
+    "10.1039/c7ta09941j",
+    "10.1016/j.intermet.2017.05.018",
+    "10.1016/j.pmatsci.2018.04.005"
+  ],
+  "Data_By_Temperature": {
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.97Cu0.03Se",
+        "Property": "ZT",
+        "Value": 0.79,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ta09941j"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.97Cu0.03Se",
+        "Property": "ZT",
+        "Value": 0.79,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2018.04.005"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.97Cu0.03Se",
+        "Property": "PF",
+        "Value": 0.00037799999999999997,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2018.04.005"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.97Cu0.03Se",
+        "Property": "PF",
+        "Value": 0.00037799999999999997,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2017.05.018"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.97Cu0.03Se",
+        "Property": "PF",
+        "Value": 0.00037799999999999997,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2017.05.018"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "scCO2-CH3CN",
+  "DOIs_Researched": [
+    "10.1039/c3cp54955k"
+  ],
+  "Data_By_Temperature": {
+    "328.15": [
+      {
+        "Original_Name_In_Paper": "scCO2\u2013CH3CN",
+        "Property": "Conductivity",
+        "Value": 0.30000000000000004,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3cp54955k"
+      }
+    ]
+  }
+}

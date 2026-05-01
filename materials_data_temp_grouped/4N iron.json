@@ -1,0 +1,18 @@
+{
+  "Material": "4N iron",
+  "DOIs_Researched": [
+    "10.1016/S0040-6090(00)01758-2"
+  ],
+  "Data_By_Temperature": {
+    "90.0": [
+      {
+        "Original_Name_In_Paper": "4N iron",
+        "Property": "Seebeck",
+        "Value": 0.002,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0040-6090(00)01758-2"
+      }
+    ]
+  }
+}

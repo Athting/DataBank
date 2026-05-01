@@ -1,0 +1,18 @@
+{
+  "Material": "EuAlSb_6",
+  "DOIs_Researched": [
+    "10.1039/c7qm00057j"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Eu5Al2Sb6",
+        "Property": "Conductivity",
+        "Value": 71.4285714286,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7qm00057j"
+      }
+    ]
+  }
+}

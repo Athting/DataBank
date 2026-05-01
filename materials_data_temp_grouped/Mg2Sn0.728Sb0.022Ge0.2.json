@@ -1,0 +1,26 @@
+{
+  "Material": "Mg2Sn0.728Sb0.022Ge0.2",
+  "DOIs_Researched": [
+    "10.1039/c5ee02600h"
+  ],
+  "Data_By_Temperature": {
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Sn0.728Sb0.022Ge0.25",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ee02600h"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Sn0.728Sb0.022Ge0.25",
+        "Property": "PF",
+        "Value": 0.0055000000000000005,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ee02600h"
+      }
+    ]
+  }
+}

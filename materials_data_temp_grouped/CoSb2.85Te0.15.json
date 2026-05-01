@@ -1,0 +1,35 @@
+{
+  "Material": "CoSb2.85Te0.15",
+  "DOIs_Researched": [
+    "10.1007/s10854-012-0668-y",
+    "10.1039/c4ta02780a"
+  ],
+  "Data_By_Temperature": {
+    "820.0": [
+      {
+        "Original_Name_In_Paper": "CoSb2.85Te0.15",
+        "Property": "ZT",
+        "Value": 0.93,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-012-0668-y"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb2.85Te0.15 compound",
+        "Property": "ZT",
+        "Value": 0.98,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta02780a"
+      },
+      {
+        "Original_Name_In_Paper": "CoSb2.85Te0.15",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta02780a"
+      }
+    ]
+  }
+}

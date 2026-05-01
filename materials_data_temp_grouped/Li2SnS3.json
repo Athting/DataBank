@@ -1,0 +1,89 @@
+{
+  "Material": "Li2SnS3",
+  "DOIs_Researched": [
+    "10.1039/c8ee01053f",
+    "10.1039/c9cp05939c"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Li2SnS3",
+        "Property": "ThermCond",
+        "Value": 4.65,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9cp05939c"
+      },
+      {
+        "Original_Name_In_Paper": "n-type Li2SnS3",
+        "Property": "PF",
+        "Value": 0.0045000000000000005,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9cp05939c"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "n-type Li2SnS3",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9cp05939c"
+      },
+      {
+        "Original_Name_In_Paper": "n-type Li2SnS3",
+        "Property": "ZT",
+        "Value": 1.07,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9cp05939c"
+      },
+      {
+        "Original_Name_In_Paper": "n-type Li2SnS3",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9cp05939c"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Li2SnS3",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9cp05939c"
+      },
+      {
+        "Original_Name_In_Paper": "n-type Li2SnS3",
+        "Property": "PF",
+        "Value": 0.0045000000000000005,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9cp05939c"
+      },
+      {
+        "Original_Name_In_Paper": "Li2SnS3",
+        "Property": "Conductivity",
+        "Value": 0.0015,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee01053f"
+      }
+    ],
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "n-type Li2SnS3",
+        "Property": "ZT",
+        "Value": 0.78,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9cp05939c"
+      }
+    ]
+  }
+}

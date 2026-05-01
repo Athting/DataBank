@@ -1,0 +1,26 @@
+{
+  "Material": "PdZrGe",
+  "DOIs_Researched": [
+    "10.1016/j.cjph.2018.09.027"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "PdZrGe",
+        "Property": "Seebeck",
+        "Value": 0.000237,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cjph.2018.09.027"
+      },
+      {
+        "Original_Name_In_Paper": "PdZrGe",
+        "Property": "Conductivity",
+        "Value": 3.61018,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cjph.2018.09.027"
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "Material": "SHeikes",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2007.05.020",
+    "10.1016/j.jssc.2006.08.022"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "SHeikes",
+        "Property": "Seebeck",
+        "Value": 0.0002537,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2007.05.020"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "SHeikes",
+        "Property": "Seebeck",
+        "Value": 0.00018899999999999999,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2006.08.022"
+      }
+    ]
+  }
+}

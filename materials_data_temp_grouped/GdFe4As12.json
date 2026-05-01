@@ -1,0 +1,27 @@
+{
+  "Material": "GdFe4As12",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2019.121081",
+    "10.1016/j.cjph.2019.11.021"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "GdFe4As12",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cjph.2019.11.021"
+      },
+      {
+        "Original_Name_In_Paper": "GdFe4As12",
+        "Property": "ZT",
+        "Value": 0.37,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2019.121081"
+      }
+    ]
+  }
+}

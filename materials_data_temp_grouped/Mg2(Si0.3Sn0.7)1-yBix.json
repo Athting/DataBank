@@ -1,0 +1,28 @@
+{
+  "Material": "Mg2(Si0.3Sn0.7)1-yBix",
+  "DOIs_Researched": [
+    "10.1039/c4cp00641k"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Mg2(Si0.3Sn0.7)1\u2212yBiy",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4cp00641k"
+      }
+    ],
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "Mg2(Si0.3Sn0.7)1\u2212yBiy",
+        "Property": "PF",
+        "Value": 0.0047,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4cp00641k"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "rare earth metal Tb",
+  "DOIs_Researched": [
+    "10.1016/j.mser.2018.09.001"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "rare earth metal Tb",
+        "Property": "ZT",
+        "Value": 0.74,
+        "Units": null,
+        "Editing": "substituting Ca",
+        "Source_DOI": "10.1016/j.mser.2018.09.001"
+      }
+    ]
+  }
+}

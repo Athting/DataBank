@@ -1,0 +1,18 @@
+{
+  "Material": "RuO2",
+  "DOIs_Researched": [
+    "10.1016/j.tsf.2019.03.005"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "pure RuO2 films",
+        "Property": "Conductivity",
+        "Value": 1428571.4285714286,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2019.03.005"
+      }
+    ]
+  }
+}

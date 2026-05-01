@@ -1,0 +1,18 @@
+{
+  "Material": "CoFeTiSn",
+  "DOIs_Researched": [
+    "10.1016/j.jmmm.2019.01.100"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "CoFeTiSn",
+        "Property": "Seebeck",
+        "Value": 6.5e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmmm.2019.01.100"
+      }
+    ]
+  }
+}

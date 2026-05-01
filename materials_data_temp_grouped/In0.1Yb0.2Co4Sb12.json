@@ -1,0 +1,34 @@
+{
+  "Material": "In0.1Yb0.2Co4Sb12",
+  "DOIs_Researched": [
+    "10.1016/j.renene.2011.09.028"
+  ],
+  "Data_By_Temperature": {
+    "782.0": [
+      {
+        "Original_Name_In_Paper": "In0.1Yb0.2Co4Sb12",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.renene.2011.09.028"
+      },
+      {
+        "Original_Name_In_Paper": "In0.1Yb0.2Co4Sb12",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.renene.2011.09.028"
+      },
+      {
+        "Original_Name_In_Paper": "In0.1Yb0.2Co4Sb12",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.renene.2011.09.028"
+      }
+    ]
+  }
+}

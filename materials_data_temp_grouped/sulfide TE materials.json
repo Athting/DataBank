@@ -1,0 +1,29 @@
+{
+  "Material": "sulfide TE materials",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2016.08.061",
+    "10.1039/c1cc16368j"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "sulfide TE materials",
+        "Property": "ThermCond",
+        "Value": 1.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c1cc16368j"
+      }
+    ],
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "sulfide TE materials",
+        "Property": "ThermCond",
+        "Value": 0.30000000000000004,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2016.08.061"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "LiNO3-KCl-NaNO3",
+  "DOIs_Researched": [
+    "10.1016/j.cej.2018.09.013"
+  ],
+  "Data_By_Temperature": {
+    "413.8": [
+      {
+        "Original_Name_In_Paper": "LiNO3-KCl-NaNO3",
+        "Property": "ThermCond",
+        "Value": 31.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cej.2018.09.013"
+      }
+    ]
+  }
+}

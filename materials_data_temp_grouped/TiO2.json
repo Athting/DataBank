@@ -1,0 +1,709 @@
+{
+  "Material": "TiO2",
+  "DOIs_Researched": [
+    "10.1039/c5tc01643f",
+    "10.1039/c4ta05285d",
+    "10.1039/c5ta01719j",
+    "10.1039/c5nr05072c",
+    "10.1016/j.ceramint.2017.08.091",
+    "10.1016/j.tsf.2010.04.074",
+    "10.1039/c7nr00911a",
+    "10.1038/srep36581",
+    "10.1016/B978-0-444-63304-0.00008-1",
+    "10.1016/j.jmat.2017.06.002",
+    "10.1038/am.2015.36",
+    "10.1016/j.apsusc.2005.03.074",
+    "10.1016/j.jnoncrysol.2006.03.013",
+    "10.1016/j.ceramint.2018.07.246",
+    "10.1039/c8ce02022a",
+    "10.1016/j.jallcom.2017.03.336",
+    "10.1016/j.compositesb.2011.07.015",
+    "10.1038/s42005-019-0224-7",
+    "10.1016/j.jallcom.2012.02.176",
+    "10.1016/j.pmatsci.2013.06.003",
+    "10.1007/s12648-019-01506-7",
+    "10.1039/c4cp05468g",
+    "10.1007/s11837-016-2060-5",
+    "10.1039/c7nr07951f",
+    "10.1016/j.memsci.2010.11.070",
+    "10.1016/j.jeurceramsoc.2019.09.024",
+    "10.1016/j.intermet.2019.03.001",
+    "10.1016/j.solidstatesciences.2009.06.007",
+    "10.1039/d0cp00652a",
+    "10.1016/j.jallcom.2020.155561",
+    "10.1016/j.jallcom.2014.05.073",
+    "10.1016/j.electacta.2011.04.063",
+    "10.1016/j.nanoen.2015.09.015",
+    "10.1016/S0167-577X(03)00299-4",
+    "10.1016/j.tsf.2019.03.005",
+    "10.1016/j.jallcom.2017.06.096",
+    "10.1016/j.scriptamat.2013.02.045",
+    "10.1016/j.jallcom.2019.01.376"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "10 at. % Nb doped TiO2",
+        "Property": "ThermCond",
+        "Value": 2.27,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.01.376"
+      },
+      {
+        "Original_Name_In_Paper": "undoped TiO2",
+        "Property": "ThermCond",
+        "Value": 7.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.01.376"
+      },
+      {
+        "Original_Name_In_Paper": "TiO2 films",
+        "Property": "ThermCond",
+        "Value": 4.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01643f"
+      },
+      {
+        "Original_Name_In_Paper": "TiO2 : Nb films",
+        "Property": "ThermCond",
+        "Value": 1.3,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.155561"
+      },
+      {
+        "Original_Name_In_Paper": "n-type TiO2",
+        "Property": "ZT",
+        "Value": 0.18,
+        "Units": null,
+        "Editing": "Nb doping",
+        "Source_DOI": "10.1016/j.jallcom.2020.155561"
+      },
+      {
+        "Original_Name_In_Paper": "TiO2 : Nb films",
+        "Property": "ZT",
+        "Value": 0.18,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.155561"
+      },
+      {
+        "Original_Name_In_Paper": "TiO2 films",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01643f"
+      },
+      {
+        "Original_Name_In_Paper": "n-type TiO2",
+        "Property": "Seebeck",
+        "Value": 0.000155,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": "Nb doping",
+        "Source_DOI": "10.1016/j.jallcom.2020.155561"
+      },
+      {
+        "Original_Name_In_Paper": "n-type TiO2",
+        "Property": "PF",
+        "Value": 0.0005,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": "Nb doping",
+        "Source_DOI": "10.1016/j.jallcom.2020.155561"
+      },
+      {
+        "Original_Name_In_Paper": "TiO2 : Nb films",
+        "Property": "PF",
+        "Value": 0.0005,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.155561"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "bulk TiO2",
+        "Property": "ThermCond",
+        "Value": 5.75,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/srep36581"
+      },
+      {
+        "Original_Name_In_Paper": "bulk crystalline TiO2",
+        "Property": "ThermCond",
+        "Value": 8.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7nr07951f"
+      },
+      {
+        "Original_Name_In_Paper": "doped TiO2 NTs",
+        "Property": "ThermCond",
+        "Value": 1.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7nr07951f"
+      },
+      {
+        "Original_Name_In_Paper": "TiO2",
+        "Property": "ThermCond",
+        "Value": 3.85,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11837-016-2060-5"
+      },
+      {
+        "Original_Name_In_Paper": "TiO2",
+        "Property": "ThermCond",
+        "Value": 8.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s42005-019-0224-7"
+      },
+      {
+        "Original_Name_In_Paper": "TiO2",
+        "Property": "ThermCond",
+        "Value": 5.75,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2009.06.007"
+      },
+      {
+        "Original_Name_In_Paper": "TiO2",
+        "Property": "ThermCond",
+        "Value": 1.23,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2019.03.001"
+      },
+      {
+        "Original_Name_In_Paper": "polycrystalline TiO2",
+        "Property": "ThermCond",
+        "Value": 7.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0cp00652a"
+      },
+      {
+        "Original_Name_In_Paper": "TiO2",
+        "Property": "ThermCond",
+        "Value": 3.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0cp00652a"
+      },
+      {
+        "Original_Name_In_Paper": "(TiO2)mCk",
+        "Property": "Conductivity",
+        "Value": 10.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta01719j"
+      },
+      {
+        "Original_Name_In_Paper": "TiO2",
+        "Property": "Conductivity",
+        "Value": 0.9615384615,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2005.03.074"
+      },
+      {
+        "Original_Name_In_Paper": "TiO2",
+        "Property": "Conductivity",
+        "Value": 0.0166666667,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": "TiO2 doping",
+        "Source_DOI": "10.1016/j.apsusc.2005.03.074"
+      },
+      {
+        "Original_Name_In_Paper": "titanium dioxide",
+        "Property": "Conductivity",
+        "Value": 2777777.777777778,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2019.03.005"
+      },
+      {
+        "Original_Name_In_Paper": "crystalline TiO2",
+        "Property": "Seebeck",
+        "Value": -0.0006000000000000001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2013.06.003"
+      },
+      {
+        "Original_Name_In_Paper": "Nb-doped TiO2",
+        "Property": "Seebeck",
+        "Value": -6.000000000000001e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01643f"
+      },
+      {
+        "Original_Name_In_Paper": "bulk TiO2",
+        "Property": "Seebeck",
+        "Value": -0.00044,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/srep36581"
+      },
+      {
+        "Original_Name_In_Paper": "TiO2",
+        "Property": "Conductivity",
+        "Value": 181500.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11837-016-2060-5"
+      },
+      {
+        "Original_Name_In_Paper": "TiO2",
+        "Property": "Conductivity",
+        "Value": 1e-06,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jnoncrysol.2006.03.013"
+      },
+      {
+        "Original_Name_In_Paper": "TiO2",
+        "Property": "Conductivity",
+        "Value": 112780.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2019.03.001"
+      },
+      {
+        "Original_Name_In_Paper": "crystalline TiO2",
+        "Property": "Conductivity",
+        "Value": 103.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2013.06.003"
+      },
+      {
+        "Original_Name_In_Paper": "TiO2\u2013RGO nanocomposites",
+        "Property": "Conductivity",
+        "Value": 0.007,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7nr00911a"
+      }
+    ],
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "15 % TiO2 @ TiC0.5O0.5",
+        "Property": "ThermCond",
+        "Value": 6.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2012.02.176"
+      },
+      {
+        "Original_Name_In_Paper": "15 % TiO2 @ TiC0.5O0.5",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2012.02.176"
+      },
+      {
+        "Original_Name_In_Paper": "15 % TiO2 @ TiC0.5O0.5",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2012.02.176"
+      },
+      {
+        "Original_Name_In_Paper": "15 % TiO2 @ TiC0.5O0.5",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2012.02.176"
+      },
+      {
+        "Original_Name_In_Paper": "5 % TiO2 @ TiC0.5O0.5",
+        "Property": "ZT",
+        "Value": 0.05,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2012.02.176"
+      },
+      {
+        "Original_Name_In_Paper": "15 % TiO2 @ TiC0.5O0.5",
+        "Property": "ZT",
+        "Value": 0.0008100000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2012.02.176"
+      },
+      {
+        "Original_Name_In_Paper": "15 % TiO2 @ TiC0.5O0.5",
+        "Property": "PF",
+        "Value": 0.0008100000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2012.02.176"
+      },
+      {
+        "Original_Name_In_Paper": "15 % TiO2 @ TiC0.5O0.5",
+        "Property": "PF",
+        "Value": 0.0008100000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2012.02.176"
+      }
+    ],
+    "745.0": [
+      {
+        "Original_Name_In_Paper": "TiO2",
+        "Property": "ThermCond",
+        "Value": 0.55,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.electacta.2011.04.063"
+      },
+      {
+        "Original_Name_In_Paper": "TiO2",
+        "Property": "Conductivity",
+        "Value": 0.0030769231,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.electacta.2011.04.063"
+      },
+      {
+        "Original_Name_In_Paper": "TiO2",
+        "Property": "Seebeck",
+        "Value": 0.00030199999999999997,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.electacta.2011.04.063"
+      }
+    ],
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "TiO2",
+        "Property": "ThermCond",
+        "Value": 6.69,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0167-577X(03)00299-4"
+      },
+      {
+        "Original_Name_In_Paper": "pure TiO2",
+        "Property": "ZT",
+        "Value": 4.8e-05,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2013.02.045"
+      },
+      {
+        "Original_Name_In_Paper": "pure TiO2",
+        "Property": "ZT",
+        "Value": 0.0037900000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2013.02.045"
+      }
+    ],
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "n-type TiO2",
+        "Property": "ZT",
+        "Value": 0.25,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2013.06.003"
+      },
+      {
+        "Original_Name_In_Paper": "Nb-doped TiO2",
+        "Property": "Seebeck",
+        "Value": 0.000145,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.155561"
+      },
+      {
+        "Original_Name_In_Paper": "Nb-doped TiO2",
+        "Property": "PF",
+        "Value": 0.00025,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.155561"
+      }
+    ],
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "TiO2",
+        "Property": "ZT",
+        "Value": 0.35000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2017.08.091"
+      },
+      {
+        "Original_Name_In_Paper": "titanium oxide",
+        "Property": "ZT",
+        "Value": 0.35000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.07.246"
+      },
+      {
+        "Original_Name_In_Paper": "TiO2",
+        "Property": "ZT",
+        "Value": 0.35000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.03.336"
+      },
+      {
+        "Original_Name_In_Paper": "titanium oxide",
+        "Property": "ZT",
+        "Value": 0.33,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2017.06.002"
+      },
+      {
+        "Original_Name_In_Paper": "TiO2-x materials.",
+        "Property": "Conductivity",
+        "Value": 62100.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2015.36"
+      }
+    ],
+    "813.0": [
+      {
+        "Original_Name_In_Paper": "TiO2",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta05285d"
+      }
+    ],
+    "375.0": [
+      {
+        "Original_Name_In_Paper": "TiO2",
+        "Property": "ZT",
+        "Value": 1.19,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2019.03.001"
+      }
+    ],
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "TiO2 nanofibers",
+        "Property": "ZT",
+        "Value": 1.47,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2015.09.015"
+      }
+    ],
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "TiO2",
+        "Property": "ZT",
+        "Value": 0.34,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5nr05072c"
+      }
+    ],
+    "1050.0": [
+      {
+        "Original_Name_In_Paper": "TiO2-4 wt % RGO nanocomposite",
+        "Property": "ZT",
+        "Value": 0.064,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7nr00911a"
+      },
+      {
+        "Original_Name_In_Paper": "TiO2 nanocomposite",
+        "Property": "ZT",
+        "Value": 0.00030000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7nr00911a"
+      }
+    ],
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "TiO2-x material",
+        "Property": "ZT",
+        "Value": 0.132,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/srep36581"
+      }
+    ],
+    "1100.0": [
+      {
+        "Original_Name_In_Paper": "TiO2",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2019.09.024"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "TiO2",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4cp05468g"
+      }
+    ],
+    "523.0": [
+      {
+        "Original_Name_In_Paper": "Nb-doped TiO2",
+        "Property": "Conductivity",
+        "Value": 66666.6666666667,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-444-63304-0.00008-1"
+      }
+    ],
+    "390.0": [
+      {
+        "Original_Name_In_Paper": "TiO2",
+        "Property": "Seebeck",
+        "Value": -0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s12648-019-01506-7"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "mesoporous TiO2 films",
+        "Property": "Seebeck",
+        "Value": -8.86e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2010.04.074"
+      }
+    ],
+    "303.0": [
+      {
+        "Original_Name_In_Paper": "TiO2 nanotube",
+        "Property": "Seebeck",
+        "Value": 0.000124,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.compositesb.2011.07.015"
+      },
+      {
+        "Original_Name_In_Paper": "TiO2 nanotube",
+        "Property": "Seebeck",
+        "Value": 0.00012375,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.compositesb.2011.07.015"
+      }
+    ],
+    "313.0": [
+      {
+        "Original_Name_In_Paper": "pure TiO2 nanotubes",
+        "Property": "Seebeck",
+        "Value": 9e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.electacta.2011.04.063"
+      }
+    ],
+    "343.0": [
+      {
+        "Original_Name_In_Paper": "TiO2 nanotubes with Te\u2013Bi\u2013Pb",
+        "Property": "Seebeck",
+        "Value": 0.000155,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.electacta.2011.04.063"
+      }
+    ],
+    "473.0": [
+      {
+        "Original_Name_In_Paper": "pure TiO2 nanotubes",
+        "Property": "Seebeck",
+        "Value": 1.7e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.electacta.2011.04.063"
+      }
+    ],
+    "1053.0": [
+      {
+        "Original_Name_In_Paper": "TiO2",
+        "Property": "Seebeck",
+        "Value": 0.06,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/srep36581"
+      }
+    ],
+    "675.0": [
+      {
+        "Original_Name_In_Paper": "TiO2",
+        "Property": "PF",
+        "Value": 0.006,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta05285d"
+      }
+    ],
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "TiO2",
+        "Property": "PF",
+        "Value": 0.0002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.06.096"
+      }
+    ],
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "titanium oxides",
+        "Property": "PF",
+        "Value": 8.2e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ce02022a"
+      }
+    ],
+    "623.0": [
+      {
+        "Original_Name_In_Paper": "TiO2",
+        "Property": "Conductivity",
+        "Value": 21.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.05.073"
+      }
+    ],
+    "298.0": [
+      {
+        "Original_Name_In_Paper": "TiO2 nanowire",
+        "Property": "Conductivity",
+        "Value": 75.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.memsci.2010.11.070"
+      }
+    ]
+  }
+}

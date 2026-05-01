@@ -1,0 +1,70 @@
+{
+  "Material": "Sn0.91Sb0.18Te1.18",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2020.155568"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.91Sb0.18Te1.18 alloy",
+        "Property": "ThermCond",
+        "Value": 0.5700000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.155568"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.91Sb0.18Te1.18",
+        "Property": "ThermCond",
+        "Value": 0.5700000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.155568"
+      }
+    ],
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.91Sb0.18Te1.18",
+        "Property": "ThermCond",
+        "Value": 2.21,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.155568"
+      }
+    ],
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.91Sb0.18Te1.18",
+        "Property": "ZT",
+        "Value": 0.9500000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.155568"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.91Sb0.18Te1.18 alloy",
+        "Property": "ZT",
+        "Value": 0.9500000000000001,
+        "Units": null,
+        "Editing": "introduction of Sb",
+        "Source_DOI": "10.1016/j.jallcom.2020.155568"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.91Sb0.18Te1.18",
+        "Property": "PF",
+        "Value": 2420.0,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.155568"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.91Sb0.18Te1.18 alloy",
+        "Property": "PF",
+        "Value": 0.0024200000000000003,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": "introduction of Sb",
+        "Source_DOI": "10.1016/j.jallcom.2020.155568"
+      }
+    ]
+  }
+}

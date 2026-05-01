@@ -1,0 +1,18 @@
+{
+  "Material": "Cu3Sb0.9Ge0.1PyS4",
+  "DOIs_Researched": [
+    "10.1039/c9cp06233e"
+  ],
+  "Data_By_Temperature": {
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "Cu3Sb0.9\u2212yGe0.1PyS4",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9cp06233e"
+      }
+    ]
+  }
+}

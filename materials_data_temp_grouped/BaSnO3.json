@@ -1,0 +1,97 @@
+{
+  "Material": "BaSnO3",
+  "DOIs_Researched": [
+    "10.1007/s10853-014-8607-3",
+    "10.1039/c7ra05193j",
+    "10.1007/s10853-020-04949-0",
+    "10.1016/j.cap.2017.04.019"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ba1-xLaxSnO3 materials",
+        "Property": "ThermCond",
+        "Value": 9.6,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      },
+      {
+        "Original_Name_In_Paper": "pure BaSnO3",
+        "Property": "ThermCond",
+        "Value": 9.68,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ra05193j"
+      },
+      {
+        "Original_Name_In_Paper": "Ba1-xLaxSnO3 materials",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "n-type doped BaSnO3",
+        "Property": "ZT",
+        "Value": 0.33,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ra05193j"
+      }
+    ],
+    "250.0": [
+      {
+        "Original_Name_In_Paper": "BaSnO3",
+        "Property": "Seebeck",
+        "Value": 0.000106,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2017.04.019"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "BaSnO3",
+        "Property": "Seebeck",
+        "Value": 0.000206,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2017.04.019"
+      }
+    ],
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "BaSnO3",
+        "Property": "Seebeck",
+        "Value": -0.00030000000000000003,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-014-8607-3"
+      }
+    ],
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "(Ba0.99La0.01)SnO3",
+        "Property": "PF",
+        "Value": 28000.0,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-014-8607-3"
+      }
+    ],
+    "1200.0": [
+      {
+        "Original_Name_In_Paper": "BaSnO3",
+        "Property": "PF",
+        "Value": 0.0015,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ra05193j"
+      }
+    ]
+  }
+}

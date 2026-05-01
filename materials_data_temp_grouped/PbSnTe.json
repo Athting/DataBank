@@ -1,0 +1,71 @@
+{
+  "Material": "PbSnTe",
+  "DOIs_Researched": [
+    "10.1039/c8ta00381e",
+    "10.1016/j.jssc.2010.05.036",
+    "10.1016/j.physb.2007.02.067",
+    "10.1039/c8cc02230e"
+  ],
+  "Data_By_Temperature": {
+    "473.0": [
+      {
+        "Original_Name_In_Paper": "In-doped Pb0.5Sn0.5Te",
+        "Property": "ThermCond",
+        "Value": 1.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2010.05.036"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Pb0.5Sn0.5Te",
+        "Property": "ThermCond",
+        "Value": 1.12,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2007.02.067"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Pb0.5Sn0.5Te",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta00381e"
+      }
+    ],
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "Pb0.5Sn0.5Te",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2007.02.067"
+      }
+    ],
+    "856.0": [
+      {
+        "Original_Name_In_Paper": "Pb0.60Sn0.40Te",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8cc02230e"
+      }
+    ],
+    "475.0": [
+      {
+        "Original_Name_In_Paper": "undoped Pb0.60Sn0.40Te",
+        "Property": "ZT",
+        "Value": 0.38,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8cc02230e"
+      }
+    ]
+  }
+}

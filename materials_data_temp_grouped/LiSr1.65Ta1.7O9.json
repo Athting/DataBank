@@ -1,0 +1,18 @@
+{
+  "Material": "LiSr1.65Ta1.7O9",
+  "DOIs_Researched": [
+    "10.1039/b002696o"
+  ],
+  "Data_By_Temperature": {
+    "633.0": [
+      {
+        "Original_Name_In_Paper": "LiSr1.65\u25a10.35Ti1.3Ta1.7O9",
+        "Property": "Conductivity",
+        "Value": 12.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/b002696o"
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "Material": "NaOH",
+  "DOIs_Researched": [
+    "10.1038/s41563-019-0315-6",
+    "10.1016/j.enconman.2017.08.060",
+    "10.1016/j.solener.2019.05.075",
+    "10.1007/s10854-015-3523-0",
+    "10.1016/j.jallcom.2019.05.245",
+    "10.1039/c9tc00819e",
+    "10.1039/c8tc01900b"
+  ],
+  "Data_By_Temperature": {
+    "380.0": [
+      {
+        "Original_Name_In_Paper": "NaOH",
+        "Property": "ThermCond",
+        "Value": 0.31,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.05.245"
+      },
+      {
+        "Original_Name_In_Paper": "NaOH",
+        "Property": "Seebeck",
+        "Value": 0.00042699999999999997,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.05.245"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "NaOH ethanol",
+        "Property": "ThermCond",
+        "Value": 0.17300000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-015-3523-0"
+      },
+      {
+        "Original_Name_In_Paper": "NaOH ethanol",
+        "Property": "ZT",
+        "Value": 0.057,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-015-3523-0"
+      },
+      {
+        "Original_Name_In_Paper": "NaOH ethanol",
+        "Property": "Seebeck",
+        "Value": 2.35e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-015-3523-0"
+      },
+      {
+        "Original_Name_In_Paper": "NaOH",
+        "Property": "PF",
+        "Value": 0.000334,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8tc01900b"
+      },
+      {
+        "Original_Name_In_Paper": "NaOH",
+        "Property": "Conductivity",
+        "Value": 217000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8tc01900b"
+      },
+      {
+        "Original_Name_In_Paper": "NaOH",
+        "Property": "Conductivity",
+        "Value": 2.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41563-019-0315-6"
+      },
+      {
+        "Original_Name_In_Paper": "NaOH ethanol",
+        "Property": "Conductivity",
+        "Value": 59820.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-015-3523-0"
+      }
+    ],
+    "833.0": [
+      {
+        "Original_Name_In_Paper": "NaOH",
+        "Property": "ThermCond",
+        "Value": 0.72,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc00819e"
+      },
+      {
+        "Original_Name_In_Paper": "NaOH",
+        "Property": "ThermCond",
+        "Value": 0.37,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc00819e"
+      },
+      {
+        "Original_Name_In_Paper": "NaOH",
+        "Property": "ThermCond",
+        "Value": 0.44,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc00819e"
+      },
+      {
+        "Original_Name_In_Paper": "NaOH",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc00819e"
+      },
+      {
+        "Original_Name_In_Paper": "NaOH",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc00819e"
+      },
+      {
+        "Original_Name_In_Paper": "NaOH",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc00819e"
+      },
+      {
+        "Original_Name_In_Paper": "NaOH",
+        "Property": "PF",
+        "Value": 9.8e-06,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc00819e"
+      },
+      {
+        "Original_Name_In_Paper": "NaOH",
+        "Property": "Conductivity",
+        "Value": 3300.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc00819e"
+      },
+      {
+        "Original_Name_In_Paper": "NaOH",
+        "Property": "Conductivity",
+        "Value": 21200.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc00819e"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "NaOH ( 24 % )",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solener.2019.05.075"
+      },
+      {
+        "Original_Name_In_Paper": "NaOH ( 24 % )",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.enconman.2017.08.060"
+      }
+    ],
+    "630.0": [
+      {
+        "Original_Name_In_Paper": "NaOH",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc00819e"
+      }
+    ]
+  }
+}

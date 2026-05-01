@@ -1,0 +1,144 @@
+{
+  "Material": "Ca3Co2O6",
+  "DOIs_Researched": [
+    "10.1016/S0925-8388(03)00041-0",
+    "10.1016/S0921-5107(03)00183-1",
+    "10.1016/j.progsolidstchem.2007.01.027",
+    "10.1016/j.ceramint.2016.02.154",
+    "10.1016/j.jpcs.2004.06.087",
+    "10.1039/b812455h",
+    "10.1016/j.jssc.2011.06.013",
+    "10.1016/j.jallcom.2004.01.060",
+    "10.1016/j.jallcom.2010.10.153"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "Ca3Co2O6",
+        "Property": "ZT",
+        "Value": 0.15,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2011.06.013"
+      },
+      {
+        "Original_Name_In_Paper": "Ca3Co2O6",
+        "Property": "Seebeck",
+        "Value": 0.0002,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(03)00041-0"
+      },
+      {
+        "Original_Name_In_Paper": "Ca3Co2O6",
+        "Property": "Seebeck",
+        "Value": 0.00014000000000000001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2004.06.087"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ca3Co2O6",
+        "Property": "Conductivity",
+        "Value": 1.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.progsolidstchem.2007.01.027"
+      },
+      {
+        "Original_Name_In_Paper": "Ca3Co2O6",
+        "Property": "Conductivity",
+        "Value": 0.022222222200000002,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2004.01.060"
+      },
+      {
+        "Original_Name_In_Paper": "Ca3Co2O6",
+        "Property": "Conductivity",
+        "Value": 2.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0921-5107(03)00183-1"
+      },
+      {
+        "Original_Name_In_Paper": "Ca3Co2O6",
+        "Property": "Seebeck",
+        "Value": 0.00045000000000000004,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/b812455h"
+      },
+      {
+        "Original_Name_In_Paper": "Ca3Co2O6",
+        "Property": "Seebeck",
+        "Value": 0.00030000000000000003,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2004.01.060"
+      }
+    ],
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "Ca3Co2O6",
+        "Property": "Conductivity",
+        "Value": 769.2307692308,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(03)00041-0"
+      },
+      {
+        "Original_Name_In_Paper": "Ca3Co2O6",
+        "Property": "Conductivity",
+        "Value": 15.625,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(03)00041-0"
+      },
+      {
+        "Original_Name_In_Paper": "Ca3Co2O6",
+        "Property": "Conductivity",
+        "Value": 12.8205128205,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(03)00041-0"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ca3Co2O6",
+        "Property": "Conductivity",
+        "Value": 25.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(03)00041-0"
+      },
+      {
+        "Original_Name_In_Paper": "Ca3Co2O6",
+        "Property": "Seebeck",
+        "Value": 0.00045000000000000004,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0921-5107(03)00183-1"
+      },
+      {
+        "Original_Name_In_Paper": "Ca3Co2O6",
+        "Property": "Seebeck",
+        "Value": 0.0005,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2016.02.154"
+      },
+      {
+        "Original_Name_In_Paper": "Ca3Co2O6",
+        "Property": "PF",
+        "Value": 0.0016,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.10.153"
+      }
+    ]
+  }
+}

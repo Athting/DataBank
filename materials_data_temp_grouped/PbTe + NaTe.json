@@ -1,0 +1,18 @@
+{
+  "Material": "PbTe + NaTe",
+  "DOIs_Researched": [
+    "10.1039/c3ee42187b"
+  ],
+  "Data_By_Temperature": {
+    "910.0": [
+      {
+        "Original_Name_In_Paper": "Pb0.98Na0.02Te + 4 % SrTe",
+        "Property": "PF",
+        "Value": 0.0025,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ee42187b"
+      }
+    ]
+  }
+}

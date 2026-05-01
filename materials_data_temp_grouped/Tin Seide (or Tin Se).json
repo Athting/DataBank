@@ -1,0 +1,27 @@
+{
+  "Material": "Tin Seide (or Tin Se)",
+  "DOIs_Researched": [
+    "10.1016/j.rser.2015.10.046",
+    "10.1038/s41524-020-00368-6"
+  ],
+  "Data_By_Temperature": {
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "tin selenide",
+        "Property": "ZT",
+        "Value": 2.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41524-020-00368-6"
+      },
+      {
+        "Original_Name_In_Paper": "tin selenide",
+        "Property": "ZT",
+        "Value": 2.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rser.2015.10.046"
+      }
+    ]
+  }
+}

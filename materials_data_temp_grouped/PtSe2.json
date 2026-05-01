@@ -1,0 +1,29 @@
+{
+  "Material": "PtSe2",
+  "DOIs_Researched": [
+    "10.1039/c6tc03074b",
+    "10.1016/j.apsusc.2020.147387"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "PtSe2",
+        "Property": "ThermCond",
+        "Value": 16.97,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6tc03074b"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "monolayer PtSe2",
+        "Property": "ZT",
+        "Value": 0.84,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2020.147387"
+      }
+    ]
+  }
+}

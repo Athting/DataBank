@@ -1,0 +1,18 @@
+{
+  "Material": "DyCo0.95Ni0.05O3",
+  "DOIs_Researched": [
+    "10.1016/j.compositesb.2011.07.015"
+  ],
+  "Data_By_Temperature": {
+    "350.0": [
+      {
+        "Original_Name_In_Paper": "DyCo0.95Ni0.05O3",
+        "Property": "Seebeck",
+        "Value": 0.00046,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.compositesb.2011.07.015"
+      }
+    ]
+  }
+}

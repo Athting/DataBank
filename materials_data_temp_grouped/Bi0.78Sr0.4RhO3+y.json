@@ -1,0 +1,26 @@
+{
+  "Material": "Bi0.78Sr0.4RhO3+y",
+  "DOIs_Researched": [
+    "10.1016/j.pmatsci.2013.06.003"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Bi0.78Sr0.4RhO3+y crystals",
+        "Property": "Seebeck",
+        "Value": 6.3e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2013.06.003"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.78Sr0.4RhO3+y crystals",
+        "Property": "Conductivity",
+        "Value": 62500.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2013.06.003"
+      }
+    ]
+  }
+}

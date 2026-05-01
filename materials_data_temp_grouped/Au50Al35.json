@@ -1,0 +1,18 @@
+{
+  "Material": "Au50Al35",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2015.08.081"
+  ],
+  "Data_By_Temperature": {
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "Au50Al35Yb15",
+        "Property": "Conductivity",
+        "Value": 450000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.08.081"
+      }
+    ]
+  }
+}

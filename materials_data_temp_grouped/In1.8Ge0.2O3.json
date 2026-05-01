@@ -1,0 +1,37 @@
+{
+  "Material": "In1.8Ge0.2O3",
+  "DOIs_Researched": [
+    "10.1016/j.ssc.2007.12.033",
+    "10.1039/c2ee22622g"
+  ],
+  "Data_By_Temperature": {
+    "1118.0": [
+      {
+        "Original_Name_In_Paper": "In1.8Ge0.2O3",
+        "Property": "ThermCond",
+        "Value": 2.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2ee22622g"
+      },
+      {
+        "Original_Name_In_Paper": "In1.8Ge0.2O3",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2ee22622g"
+      }
+    ],
+    "1273.0": [
+      {
+        "Original_Name_In_Paper": "In1.8Ge0.2O3",
+        "Property": "ZT",
+        "Value": 0.45,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2007.12.033"
+      }
+    ]
+  }
+}

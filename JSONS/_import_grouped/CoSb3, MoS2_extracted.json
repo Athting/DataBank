@@ -1,0 +1,58 @@
+{
+  "doi": "10.1016/j.apsusc.2017.11.262",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "CoSb3 / MoS2",
+        "CoSb3 / MoS2 composite",
+        "CoSb3 / MoS2 nanocomposite"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "CoSb3 / MoS2",
+          "value": 56000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "CoSb3 / MoS2 composite",
+          "zt_value": 0.53,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "CoSb3 / MoS2 nanocomposite",
+          "zt_value": 0.53,
+          "temperature": "600.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

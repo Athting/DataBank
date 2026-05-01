@@ -1,0 +1,63 @@
+{
+  "Material": "As2Te3",
+  "DOIs_Researched": [
+    "10.1016/j.optmat.2011.01.020",
+    "10.1039/c3ta11159h"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "As2Te3",
+        "Property": "ThermCond",
+        "Value": 0.7000000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.optmat.2011.01.020"
+      },
+      {
+        "Original_Name_In_Paper": "As2Te3",
+        "Property": "Conductivity",
+        "Value": 28000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.optmat.2011.01.020"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "\u03b1-As2Te3",
+        "Property": "ThermCond",
+        "Value": 4.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta11159h"
+      },
+      {
+        "Original_Name_In_Paper": "\u03b1-As2Te3",
+        "Property": "Conductivity",
+        "Value": 25000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta11159h"
+      },
+      {
+        "Original_Name_In_Paper": "\u03b1-As2Te3",
+        "Property": "Seebeck",
+        "Value": -0.00026000000000000003,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta11159h"
+      }
+    ],
+    "70.0": [
+      {
+        "Original_Name_In_Paper": "\u03b2-As2Te3",
+        "Property": "Seebeck",
+        "Value": 0.00028199999999999997,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.optmat.2011.01.020"
+      }
+    ]
+  }
+}

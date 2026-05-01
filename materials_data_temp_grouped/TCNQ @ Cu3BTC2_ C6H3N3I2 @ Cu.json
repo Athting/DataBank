@@ -1,0 +1,26 @@
+{
+  "Material": "TCNQ @ Cu3BTC2: C6H3N3I2 @ Cu",
+  "DOIs_Researched": [
+    "10.1039/d0tc01778g"
+  ],
+  "Data_By_Temperature": {
+    "298.0": [
+      {
+        "Original_Name_In_Paper": "TCNQ @ Cu3BTC2",
+        "Property": "ZT",
+        "Value": 7.000000000000001e-05,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0tc01778g"
+      },
+      {
+        "Original_Name_In_Paper": "TCNQ @ Cu3BTC2",
+        "Property": "Conductivity",
+        "Value": 0.45,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0tc01778g"
+      }
+    ]
+  }
+}

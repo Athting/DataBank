@@ -1,0 +1,18 @@
+{
+  "Material": "Ag0.366Sb0.558Te(1-x)Sn",
+  "DOIs_Researched": [
+    "10.1039/c3ee43099e"
+  ],
+  "Data_By_Temperature": {
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "(Ag0.366Sb0.558Te)1\u2212x(SnTe)x",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ee43099e"
+      }
+    ]
+  }
+}

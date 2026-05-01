@@ -1,0 +1,37 @@
+{
+  "Material": "LaOBiPbS3",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2019.104283",
+    "10.1016/j.ceramint.2018.09.248"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "LaOBiPbS3",
+        "Property": "ThermCond",
+        "Value": 0.19,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2019.104283"
+      },
+      {
+        "Original_Name_In_Paper": "LaOBiPbS3",
+        "Property": "ZT",
+        "Value": 2.45,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2019.104283"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "LaOBiPbS3",
+        "Property": "ZT",
+        "Value": 0.23,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.09.248"
+      }
+    ]
+  }
+}

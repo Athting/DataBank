@@ -1,0 +1,18 @@
+{
+  "Material": "SrTiO3, SrSmTiO3",
+  "DOIs_Researched": [
+    "10.1039/c4cp04127e"
+  ],
+  "Data_By_Temperature": {
+    "1190.0": [
+      {
+        "Original_Name_In_Paper": "Sr0.9Nd0.1TiO3 \u00b1 \u03b4, Sr0.9Sm0.1TiO3 \u00b1 \u03b4",
+        "Property": "ZT",
+        "Value": 0.42,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4cp04127e"
+      }
+    ]
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "Material": "LaCoO3",
+  "DOIs_Researched": [
+    "10.1016/j.progsolidstchem.2007.01.027",
+    "10.1016/j.jssc.2008.08.017",
+    "10.1016/j.jallcom.2012.05.001",
+    "10.1016/j.ceramint.2010.08.024",
+    "10.1016/j.materresbull.2009.11.008",
+    "10.1134/S0020168509090155",
+    "10.1016/j.solidstatesciences.2006.01.002",
+    "10.1016/j.apenergy.2014.12.075",
+    "10.1557/PROC-1267-DD11-0",
+    "10.1016/j.ceramint.2014.04.123",
+    "10.1039/c4ra06735e",
+    "10.1016/j.cap.2009.10.009",
+    "10.1016/j.actamat.2009.09.046",
+    "10.1007/s10948-018-4840-3",
+    "10.1016/j.renene.2007.05.032",
+    "10.1016/j.jssc.2010.04.021",
+    "10.1016/j.jallcom.2017.11.334",
+    "10.1007/s12034-015-1149-8"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "LaCoO3 single crystals",
+        "Property": "ThermCond",
+        "Value": 2.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2006.01.002"
+      },
+      {
+        "Original_Name_In_Paper": "Ca-substituted LaCoO3",
+        "Property": "Seebeck",
+        "Value": 7.000000000000001e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.renene.2007.05.032"
+      },
+      {
+        "Original_Name_In_Paper": "Sr-substituted LaCoO3",
+        "Property": "Seebeck",
+        "Value": 0.0007,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.11.334"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "LaCoO3",
+        "Property": "ThermCond",
+        "Value": 0.38,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10948-018-4840-3"
+      },
+      {
+        "Original_Name_In_Paper": "LaCoO3",
+        "Property": "ZT",
+        "Value": 0.18,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2009.10.009"
+      },
+      {
+        "Original_Name_In_Paper": "LaCo1-xFexO3",
+        "Property": "ZT",
+        "Value": 0.04,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s12034-015-1149-8"
+      },
+      {
+        "Original_Name_In_Paper": "LaCoO3",
+        "Property": "ZT",
+        "Value": 0.01,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s12034-015-1149-8"
+      },
+      {
+        "Original_Name_In_Paper": "LaCoO3",
+        "Property": "Seebeck",
+        "Value": 0.0006000000000000001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2012.05.001"
+      },
+      {
+        "Original_Name_In_Paper": "undoped LaCoO3",
+        "Property": "Seebeck",
+        "Value": -0.000345,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2006.01.002"
+      },
+      {
+        "Original_Name_In_Paper": "LaCoO3",
+        "Property": "Seebeck",
+        "Value": 0.0006000000000000001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2014.04.123"
+      },
+      {
+        "Original_Name_In_Paper": "LaCo0.95Mg0.05O3",
+        "Property": "Seebeck",
+        "Value": 0.0004,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": "Mg doping",
+        "Source_DOI": "10.1016/j.ceramint.2014.04.123"
+      },
+      {
+        "Original_Name_In_Paper": "LaCoO3",
+        "Property": "Seebeck",
+        "Value": 0.0006000000000000001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra06735e"
+      },
+      {
+        "Original_Name_In_Paper": "LaCoO3",
+        "Property": "Seebeck",
+        "Value": 0.0006000000000000001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.renene.2007.05.032"
+      },
+      {
+        "Original_Name_In_Paper": "LaCo0.9Ni0.1O3",
+        "Property": "PF",
+        "Value": 0.00014099999999999998,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2010.08.024"
+      },
+      {
+        "Original_Name_In_Paper": "LaCo0.9Ni0.1O3",
+        "Property": "PF",
+        "Value": 0.00014099999999999998,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2010.08.024"
+      },
+      {
+        "Original_Name_In_Paper": "LaCoO3",
+        "Property": "PF",
+        "Value": 4e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2010.08.024"
+      }
+    ],
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "LaCoO3",
+        "Property": "ThermCond",
+        "Value": 2.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2008.08.017"
+      }
+    ],
+    "775.0": [
+      {
+        "Original_Name_In_Paper": "LaCo0.5Rh0.5O3",
+        "Property": "ZT",
+        "Value": 0.075,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2010.04.021"
+      },
+      {
+        "Original_Name_In_Paper": "LaCo0.5Rh0.5O3",
+        "Property": "ZT",
+        "Value": 0.075,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2010.04.021"
+      },
+      {
+        "Original_Name_In_Paper": "LaCo1\u2212xRhxO3",
+        "Property": "ZT",
+        "Value": 0.075,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2009.11.008"
+      },
+      {
+        "Original_Name_In_Paper": "LaCo0.5Rh0.5O3",
+        "Property": "ZT",
+        "Value": 0.075,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1557/PROC-1267-DD11-0"
+      }
+    ],
+    "963.0": [
+      {
+        "Original_Name_In_Paper": "LaCoO3",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apenergy.2014.12.075"
+      }
+    ],
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "LaCo0.9Ni0.1O3",
+        "Property": "ZT",
+        "Value": 0.031,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2010.08.024"
+      },
+      {
+        "Original_Name_In_Paper": "LaCo0.9Ni0.1O3",
+        "Property": "ZT",
+        "Value": 0.031,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2010.08.024"
+      },
+      {
+        "Original_Name_In_Paper": "un-doped LaCoO3",
+        "Property": "PF",
+        "Value": 0.00014099999999999998,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2010.08.024"
+      }
+    ],
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "LaCoO3",
+        "Property": "ZT",
+        "Value": 0.03,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2012.05.001"
+      }
+    ],
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "LaCoO3",
+        "Property": "Conductivity",
+        "Value": 100.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.progsolidstchem.2007.01.027"
+      }
+    ],
+    "345.0": [
+      {
+        "Original_Name_In_Paper": "LaCoO3",
+        "Property": "Conductivity",
+        "Value": 100.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2009.09.046"
+      }
+    ],
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "LaCoO3",
+        "Property": "Conductivity",
+        "Value": 19050.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1134/S0020168509090155"
+      }
+    ]
+  }
+}

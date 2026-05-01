@@ -1,0 +1,18 @@
+{
+  "Material": "FeNb0.9TxSb",
+  "DOIs_Researched": [
+    "10.1016/j.ensm.2017.07.014"
+  ],
+  "Data_By_Temperature": {
+    "1200.0": [
+      {
+        "Original_Name_In_Paper": "FeNb0.9-xHf0.1TixSb",
+        "Property": "ZT",
+        "Value": 1.32,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ensm.2017.07.014"
+      }
+    ]
+  }
+}

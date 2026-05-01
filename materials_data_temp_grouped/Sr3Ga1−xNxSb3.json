@@ -1,0 +1,18 @@
+{
+  "Material": "Sr3Ga1\u2212xNxSb3",
+  "DOIs_Researched": [
+    "10.1039/c2ee22378c"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "hole-doped Sr3Ga1\u2212xZnxSb3",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2ee22378c"
+      }
+    ]
+  }
+}

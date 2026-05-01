@@ -1,0 +1,53 @@
+{
+  "Material": "Bi14Rh3I9",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2019.04.005",
+    "10.1039/d0ta00240b"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Bi14Rh3I9",
+        "Property": "ThermCond",
+        "Value": 0.28,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2019.04.005"
+      },
+      {
+        "Original_Name_In_Paper": "Bi14Rh3I9",
+        "Property": "Seebeck",
+        "Value": -0.0002,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta00240b"
+      }
+    ],
+    "425.0": [
+      {
+        "Original_Name_In_Paper": "pristine Bi14Rh3I9",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2019.04.005"
+      },
+      {
+        "Original_Name_In_Paper": "pristine Bi14Rh3I9",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta00240b"
+      },
+      {
+        "Original_Name_In_Paper": "Bi14Rh3I9",
+        "Property": "Conductivity",
+        "Value": 5000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2019.04.005"
+      }
+    ]
+  }
+}

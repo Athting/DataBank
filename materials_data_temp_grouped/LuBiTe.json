@@ -1,0 +1,18 @@
+{
+  "Material": "LuBiTe",
+  "DOIs_Researched": [
+    "10.1007/s00339-019-2427-x"
+  ],
+  "Data_By_Temperature": {
+    "423.0": [
+      {
+        "Original_Name_In_Paper": "Lu0.1Bi1.9Te3 + 0.05 wt % CNT",
+        "Property": "ZT",
+        "Value": 1.05,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s00339-019-2427-x"
+      }
+    ]
+  }
+}

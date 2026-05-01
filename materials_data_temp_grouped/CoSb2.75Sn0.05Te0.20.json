@@ -1,0 +1,29 @@
+{
+  "Material": "CoSb2.75Sn0.05Te0.20",
+  "DOIs_Researched": [
+    "10.1038/srep07806",
+    "10.1007/s10854-013-1538-y"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "n-type nanostructured CoSb2.75Sn0.05Te0.20",
+        "Property": "ThermCond",
+        "Value": 1.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/srep07806"
+      }
+    ],
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "CoSb2.75Sn0.05Te0.20",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-013-1538-y"
+      }
+    ]
+  }
+}

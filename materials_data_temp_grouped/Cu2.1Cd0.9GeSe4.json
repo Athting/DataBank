@@ -1,0 +1,59 @@
+{
+  "Material": "Cu2.1Cd0.9GeSe4",
+  "DOIs_Researched": [
+    "10.1016/j.intermet.2016.01.004",
+    "10.1016/j.intermet.2014.10.015"
+  ],
+  "Data_By_Temperature": {
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "Cu2.1Cd0.9GeSe4",
+        "Property": "ZT",
+        "Value": 0.42,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2014.10.015"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2.1Cd0.9GeSe4",
+        "Property": "ZT",
+        "Value": 0.42,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2014.10.015"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2.1Cd0.9GeSe4",
+        "Property": "ZT",
+        "Value": 0.42,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2014.10.015"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2.1Cd0.9GeSe4",
+        "Property": "ZT",
+        "Value": 0.125,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2016.01.004"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2.1Cd0.9GeSe4",
+        "Property": "PF",
+        "Value": 0.00037299999999999996,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2014.10.015"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2.1Cd0.9GeSe4",
+        "Property": "Conductivity",
+        "Value": 7200.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2014.10.015"
+      }
+    ]
+  }
+}

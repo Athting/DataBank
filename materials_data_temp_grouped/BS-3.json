@@ -1,0 +1,44 @@
+{
+  "Material": "BS-3",
+  "DOIs_Researched": [
+    "10.1016/j.apsusc.2020.146341"
+  ],
+  "Data_By_Temperature": {
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "BS-3",
+        "Property": "ZT",
+        "Value": 0.54,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2020.146341"
+      },
+      {
+        "Original_Name_In_Paper": "BS-3",
+        "Property": "ZT",
+        "Value": 0.54,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2020.146341"
+      }
+    ],
+    "298.0": [
+      {
+        "Original_Name_In_Paper": "BS-3",
+        "Property": "Seebeck",
+        "Value": 0.000237,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2020.146341"
+      },
+      {
+        "Original_Name_In_Paper": "BS-3",
+        "Property": "PF",
+        "Value": 0.00014199999999999998,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2020.146341"
+      }
+    ]
+  }
+}

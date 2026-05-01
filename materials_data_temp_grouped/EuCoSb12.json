@@ -1,0 +1,27 @@
+{
+  "Material": "EuCoSb12",
+  "DOIs_Researched": [
+    "10.1016/j.solidstatesciences.2008.01.016",
+    "10.1016/j.actamat.2011.10.059"
+  ],
+  "Data_By_Temperature": {
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "Eu0.27Co4Sb12",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2011.10.059"
+      },
+      {
+        "Original_Name_In_Paper": "Eu0.27Co4Sb12",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2008.01.016"
+      }
+    ]
+  }
+}

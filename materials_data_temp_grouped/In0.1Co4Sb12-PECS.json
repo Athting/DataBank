@@ -1,0 +1,18 @@
+{
+  "Material": "In0.1Co4Sb12-PECS",
+  "DOIs_Researched": [
+    "10.1007/s10853-020-04952-5"
+  ],
+  "Data_By_Temperature": {
+    "470.0": [
+      {
+        "Original_Name_In_Paper": "In0.1Co4Sb12-PECS",
+        "Property": "Seebeck",
+        "Value": -0.000277,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04952-5"
+      }
+    ]
+  }
+}

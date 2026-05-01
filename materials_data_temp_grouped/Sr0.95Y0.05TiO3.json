@@ -1,0 +1,18 @@
+{
+  "Material": "Sr0.95Y0.05TiO3",
+  "DOIs_Researched": [
+    "10.1016/j.compositesb.2015.10.031"
+  ],
+  "Data_By_Temperature": {
+    "665.0": [
+      {
+        "Original_Name_In_Paper": "Sr0.95Y0.05TiO3",
+        "Property": "PF",
+        "Value": 0.0009029999999999999,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.compositesb.2015.10.031"
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "Material": "SnGe0.92Sb0.04Te",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2019.104261"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.92Ge0.04Sb0.04Te",
+        "Property": "ThermCond",
+        "Value": 1.01,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2019.104261"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.92Ge0.04Sb0.04Te",
+        "Property": "ThermCond",
+        "Value": 1.01,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2019.104261"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.92Ge0.04Sb0.04Te",
+        "Property": "PF",
+        "Value": 0.0022600000000000003,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2019.104261"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Sn0.92Ge0.04Sb0.04Te",
+        "Property": "Conductivity",
+        "Value": 435400.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2019.104261"
+      }
+    ]
+  }
+}

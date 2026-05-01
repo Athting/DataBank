@@ -1,0 +1,36 @@
+{
+  "Material": "SiTe",
+  "DOIs_Researched": [
+    "10.1039/c8ra02270d"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "\u03b2-SiTe",
+        "Property": "ZT",
+        "Value": 0.92,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ra02270d"
+      },
+      {
+        "Original_Name_In_Paper": "\u03b2-SiTe",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ra02270d"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "\u03b1-SiTe",
+        "Property": "Seebeck",
+        "Value": 8.2e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ra02270d"
+      }
+    ]
+  }
+}

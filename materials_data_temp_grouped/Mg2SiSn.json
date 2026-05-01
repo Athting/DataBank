@@ -1,0 +1,38 @@
+{
+  "Material": "Mg2SiSn",
+  "DOIs_Researched": [
+    "10.1016/j.rser.2014.05.060",
+    "10.1039/c4dt01734j",
+    "10.1007/s11837-013-0609-0"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Mg2(Si,Sn)-based",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4dt01734j"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2(SiSn)",
+        "Property": "ZT",
+        "Value": 2.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11837-013-0609-0"
+      }
+    ],
+    "780.0": [
+      {
+        "Original_Name_In_Paper": "Mg2(Si\u2013Sn ) compounds",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rser.2014.05.060"
+      }
+    ]
+  }
+}

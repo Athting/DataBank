@@ -1,0 +1,29 @@
+{
+  "Material": "Ge0.90Sb0.10Te",
+  "DOIs_Researched": [
+    "10.1039/c6tc02501c",
+    "10.1039/d0ta00628a"
+  ],
+  "Data_By_Temperature": {
+    "725.0": [
+      {
+        "Original_Name_In_Paper": "p-type Ge0.90Sb0.10Te",
+        "Property": "ZT",
+        "Value": 1.85,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6tc02501c"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ge0.90Sb0.10Te",
+        "Property": "Conductivity",
+        "Value": 92700.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta00628a"
+      }
+    ]
+  }
+}

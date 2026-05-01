@@ -1,0 +1,55 @@
+{
+  "doi": "10.1016/j.jallcom.2017.02.182",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Bi0.5Sb1.5Te2.7Se0.3 bulk",
+        "Bi0.5Sb1.5Te2.7Se0.3 alloys"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Bi0.5Sb1.5Te2.7Se0.3 bulk",
+          "zt_value": 1.16,
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te2.7Se0.3 alloys",
+          "zt_value": 0.9500000000000001,
+          "temperature": "503.0 K"
+        },
+        {
+          "material": "Bi0.5Sb1.5Te2.7Se0.3 alloys",
+          "zt_value": 0.9500000000000001,
+          "temperature": "503.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

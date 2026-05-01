@@ -1,0 +1,18 @@
+{
+  "Material": "Cu2-x",
+  "DOIs_Researched": [
+    "10.1007/s40243-014-0026-5"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "Cu2-xSe",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s40243-014-0026-5"
+      }
+    ]
+  }
+}

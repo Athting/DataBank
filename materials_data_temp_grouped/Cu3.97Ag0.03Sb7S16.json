@@ -1,0 +1,18 @@
+{
+  "Material": "Cu3.97Ag0.03Sb7S16",
+  "DOIs_Researched": [
+    "10.1039/c9ra00077a"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Cu3.97Ag0.03Sb7S16",
+        "Property": "ZT",
+        "Value": 0.27,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ra00077a"
+      }
+    ]
+  }
+}

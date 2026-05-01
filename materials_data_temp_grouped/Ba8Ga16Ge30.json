@@ -1,0 +1,395 @@
+{
+  "Material": "Ba8Ga16Ge30",
+  "DOIs_Researched": [
+    "10.1016/j.intermet.2012.12.010",
+    "10.1016/j.mser.2016.08.001",
+    "10.1016/j.jallcom.2016.04.210",
+    "10.1038/nmat3756",
+    "10.1016/B978-0-12-815751-0.00009-2",
+    "10.1016/j.jssc.2010.07.047",
+    "10.1016/j.jallcom.2017.11.059",
+    "10.1016/j.jallcom.2017.11.199",
+    "10.1007/s11434-014-0237-2",
+    "10.1016/j.mser.2018.09.001",
+    "10.1039/c7sc03482b",
+    "10.1016/j.jallcom.2017.06.110",
+    "10.1016/j.jallcom.2013.10.104",
+    "10.1039/c4ra05322b",
+    "10.1016/j.jssc.2004.01.011",
+    "10.1016/j.nanoen.2012.10.005",
+    "10.1016/j.jallcom.2009.04.072",
+    "10.1039/c1dt10071h",
+    "10.1016/j.jpcs.2008.10.020",
+    "10.1016/j.pmatsci.2016.07.002",
+    "10.1016/j.jallcom.2015.10.188",
+    "10.1007/s12648-012-0107-1",
+    "10.1007/s10854-016-5113-1",
+    "10.1016/j.jallcom.2016.10.305",
+    "10.1038/s41528-018-0045-x",
+    "10.1016/j.physb.2017.11.077",
+    "10.1016/j.jallcom.2009.11.045",
+    "10.1016/j.jallcom.2018.09.363"
+  ],
+  "Data_By_Temperature": {
+    "27.0": [
+      {
+        "Original_Name_In_Paper": "Ba8Ga16Ge30",
+        "Property": "ThermCond",
+        "Value": 3.65,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2008.10.020"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ba8Ga16Ge30",
+        "Property": "ThermCond",
+        "Value": 2.25,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2008.10.020"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Ba8Ga16Ge30",
+        "Property": "ThermCond",
+        "Value": 1.55,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.11.059"
+      },
+      {
+        "Original_Name_In_Paper": "Ba8Ga16Ge30",
+        "Property": "ThermCond",
+        "Value": 1.3,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2004.01.011"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Ba8Ga16Ge30",
+        "Property": "ZT",
+        "Value": 0.5720000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.11.059"
+      },
+      {
+        "Original_Name_In_Paper": "Ba8Ga16Ge30",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mser.2018.09.001"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Ba8Ga16Ge30",
+        "Property": "Seebeck",
+        "Value": 0.000193,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.11.059"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Ba8Ga16Ge30",
+        "Property": "Conductivity",
+        "Value": 56000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.11.059"
+      }
+    ],
+    "812.0": [
+      {
+        "Original_Name_In_Paper": "Ba8Ga16Ge30",
+        "Property": "ThermCond",
+        "Value": 0.65,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7sc03482b"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Ba8Ga16Ge30",
+        "Property": "ThermCond",
+        "Value": 2.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.06.110"
+      },
+      {
+        "Original_Name_In_Paper": "Ba8Ga16Ge30",
+        "Property": "ZT",
+        "Value": 0.43,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.10.305"
+      },
+      {
+        "Original_Name_In_Paper": "Ba8Ga16Ge30",
+        "Property": "Seebeck",
+        "Value": 0.00030000000000000003,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.06.110"
+      },
+      {
+        "Original_Name_In_Paper": "Ba8Ga16Ge30",
+        "Property": "Conductivity",
+        "Value": 50000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.06.110"
+      }
+    ],
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "Ba8Ga16Ge30",
+        "Property": "ZT",
+        "Value": 0.93,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2012.10.005"
+      },
+      {
+        "Original_Name_In_Paper": "Ba8Ga16Ge30",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.04.072"
+      }
+    ],
+    "953.0": [
+      {
+        "Original_Name_In_Paper": "n-type Ba8Ga16Ge30",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.11.045"
+      }
+    ],
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "Ba8Ga16Ge30",
+        "Property": "ZT",
+        "Value": 1.35,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.10.188"
+      },
+      {
+        "Original_Name_In_Paper": "Ba8Ga16Ge30",
+        "Property": "ZT",
+        "Value": 1.35,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2017.11.077"
+      },
+      {
+        "Original_Name_In_Paper": "Ba8Ga16Ge30",
+        "Property": "ZT",
+        "Value": 1.35,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s12648-012-0107-1"
+      },
+      {
+        "Original_Name_In_Paper": "n-type Ba8Ga16Ge30",
+        "Property": "ZT",
+        "Value": 1.35,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra05322b"
+      },
+      {
+        "Original_Name_In_Paper": "Ba8Ga16Ge30",
+        "Property": "ZT",
+        "Value": 1.35,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2012.12.010"
+      },
+      {
+        "Original_Name_In_Paper": "Ba8Ga16Ge30 alloy",
+        "Property": "ZT",
+        "Value": 1.35,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41528-018-0045-x"
+      },
+      {
+        "Original_Name_In_Paper": "Ba8Ga16Ge30",
+        "Property": "ZT",
+        "Value": 1.35,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11434-014-0237-2"
+      },
+      {
+        "Original_Name_In_Paper": "Ba8Ga16Ge30",
+        "Property": "ZT",
+        "Value": 1.35,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.04.210"
+      },
+      {
+        "Original_Name_In_Paper": "n-type Ba8Ga16Ge30",
+        "Property": "ZT",
+        "Value": 1.35,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-12-815751-0.00009-2"
+      },
+      {
+        "Original_Name_In_Paper": "Ba8Ga16Ge30",
+        "Property": "ZT",
+        "Value": 1.35,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mser.2016.08.001"
+      },
+      {
+        "Original_Name_In_Paper": "Ba8Ga16Ge30 compound",
+        "Property": "ZT",
+        "Value": 1.35,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-016-5113-1"
+      },
+      {
+        "Original_Name_In_Paper": "Ba8Ga16Ge30",
+        "Property": "ZT",
+        "Value": 1.35,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c1dt10071h"
+      },
+      {
+        "Original_Name_In_Paper": "Ba8Ga16Ge30 alloy",
+        "Property": "Seebeck",
+        "Value": 4.4999999999999996e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41528-018-0045-x"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Ba8Ga16Ge30",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s12648-012-0107-1"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Ba8Ga16Ge30",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.09.363"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Ba8Ga16Ge30",
+        "Property": "Seebeck",
+        "Value": 0.00021,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.11.059"
+      }
+    ],
+    "680.0": [
+      {
+        "Original_Name_In_Paper": "Ba8Ga16Ge30",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.11.199"
+      }
+    ],
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "Ba8Ga16Ge30",
+        "Property": "ZT",
+        "Value": 0.14,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2016.07.002"
+      }
+    ],
+    "1050.0": [
+      {
+        "Original_Name_In_Paper": "Ba8Ga16Ge30",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.10.104"
+      },
+      {
+        "Original_Name_In_Paper": "Ba8Ga16Ge30",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mser.2016.08.001"
+      }
+    ],
+    "738.0": [
+      {
+        "Original_Name_In_Paper": "Ba8Ga16Ge30",
+        "Property": "ZT",
+        "Value": 0.53,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.10.104"
+      },
+      {
+        "Original_Name_In_Paper": "Ba8Ga16Ge30",
+        "Property": "PF",
+        "Value": 0.0007300000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.10.104"
+      }
+    ],
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "Ba8Ga16Ge30",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.06.110"
+      }
+    ],
+    "100.0": [
+      {
+        "Original_Name_In_Paper": "n-type Ba8Ga16Ge30",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/nmat3756"
+      }
+    ],
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Ba8Ga16Ge30",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2010.07.047"
+      }
+    ]
+  }
+}

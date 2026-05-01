@@ -1,0 +1,18 @@
+{
+  "Material": "CuIn3Se5-xTe",
+  "DOIs_Researched": [
+    "10.1007/s10854-017-7559-1"
+  ],
+  "Data_By_Temperature": {
+    "930.0": [
+      {
+        "Original_Name_In_Paper": "chalcopyrite CuIn3Se5-xTex",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-017-7559-1"
+      }
+    ]
+  }
+}

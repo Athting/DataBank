@@ -1,0 +1,18 @@
+{
+  "Material": "DyFeCoSb12.28",
+  "DOIs_Researched": [
+    "10.1007/s11664-012-2251-y"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Dy0.41Fe1.45Co2.55Sb12.28",
+        "Property": "ThermCond",
+        "Value": 1.05,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-012-2251-y"
+      }
+    ]
+  }
+}

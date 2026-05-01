@@ -1,0 +1,60 @@
+{
+  "Material": "PbCuS",
+  "DOIs_Researched": [
+    "10.1016/j.solidstatesciences.2019.105953"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Pb0.01Cu1.79S bulk",
+        "Property": "ThermCond",
+        "Value": 0.918,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": "point defects",
+        "Source_DOI": "10.1016/j.solidstatesciences.2019.105953"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.01Cu1.79S",
+        "Property": "ZT",
+        "Value": 0.77,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2019.105953"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.01Cu1.79S",
+        "Property": "ZT",
+        "Value": 0.77,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2019.105953"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.01Cu1.79S bulk",
+        "Property": "ZT",
+        "Value": 0.77,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2019.105953"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.01Cu1.79S",
+        "Property": "PF",
+        "Value": 0.0008600000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2019.105953"
+      }
+    ],
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "Pb0.01Cu1.79S",
+        "Property": "Conductivity",
+        "Value": 252300.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2019.105953"
+      }
+    ]
+  }
+}

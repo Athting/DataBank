@@ -1,0 +1,18 @@
+{
+  "Material": "Bi2Se3\u2013Bi2Te3",
+  "DOIs_Researched": [
+    "10.1039/c7cc00627f"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Bi2Se3\u2013Bi2Te3",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cc00627f"
+      }
+    ]
+  }
+}

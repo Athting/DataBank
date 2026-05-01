@@ -1,0 +1,18 @@
+{
+  "Material": "Ag2Se0.4S0.6",
+  "DOIs_Researched": [
+    "10.1007/s11664-019-07879-z"
+  ],
+  "Data_By_Temperature": {
+    "350.0": [
+      {
+        "Original_Name_In_Paper": "Ag2S0.4Se0.6 material",
+        "Property": "ZT",
+        "Value": 1.08,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-019-07879-z"
+      }
+    ]
+  }
+}

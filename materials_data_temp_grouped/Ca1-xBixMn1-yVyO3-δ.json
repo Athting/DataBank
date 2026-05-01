@@ -1,0 +1,18 @@
+{
+  "Material": "Ca1-xBixMn1-yVyO3-\u03b4",
+  "DOIs_Researched": [
+    "10.1016/j.ssc.2007.10.012"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ca1\u2212xBixMn1\u2212yV yO3\u2212\u03b4",
+        "Property": "ThermCond",
+        "Value": 2.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2007.10.012"
+      }
+    ]
+  }
+}

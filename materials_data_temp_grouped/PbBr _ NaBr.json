@@ -1,0 +1,18 @@
+{
+  "Material": "PbBr _ NaBr",
+  "DOIs_Researched": [
+    "10.1016/S0925-8388(05)00965-5"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "PbBr 2\u2013NaBr",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": "Ti doping",
+        "Source_DOI": "10.1016/S0925-8388(05)00965-5"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "Material": "In0.3La0.5Co4Sb12",
+  "DOIs_Researched": [
+    "10.1007/s11664-018-6074-3"
+  ],
+  "Data_By_Temperature": {
+    "692.0": [
+      {
+        "Original_Name_In_Paper": "In0.3La0.5Co4Sb12",
+        "Property": "ZT",
+        "Value": 1.15,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-018-6074-3"
+      }
+    ],
+    "644.0": [
+      {
+        "Original_Name_In_Paper": "In0.3La0.5Co4Sb12",
+        "Property": "PF",
+        "Value": 3390.0,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-018-6074-3"
+      }
+    ]
+  }
+}

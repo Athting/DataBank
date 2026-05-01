@@ -1,0 +1,46 @@
+{
+  "Material": "CuFe2S3",
+  "DOIs_Researched": [
+    "10.1039/c6qi00510a"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "CuFe2S3",
+        "Property": "ZT",
+        "Value": 0.14,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6qi00510a"
+      },
+      {
+        "Original_Name_In_Paper": "CuFe2S3",
+        "Property": "ZT",
+        "Value": 0.14,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6qi00510a"
+      }
+    ],
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "CuFe2S3",
+        "Property": "Seebeck",
+        "Value": -7.5e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6qi00510a"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "CuFe2S3",
+        "Property": "Seebeck",
+        "Value": -6.5e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6qi00510a"
+      }
+    ]
+  }
+}

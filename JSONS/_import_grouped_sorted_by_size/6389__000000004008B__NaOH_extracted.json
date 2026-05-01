@@ -1,0 +1,164 @@
+{
+  "doi": "10.1038/s41563-019-0315-6",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "NaOH ethanol",
+        "NaOH",
+        "NaOH ( 24 % )"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "NaOH ethanol",
+          "value": 0.0000235,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "NaOH",
+          "value": 0.00042699999999999997,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "380.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "NaOH",
+          "value": 217000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "NaOH",
+          "value": 2,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "NaOH ethanol",
+          "value": 59820,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "NaOH",
+          "value": 3300,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "833.0 K"
+        },
+        {
+          "material": "NaOH",
+          "value": 21200,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "833.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "NaOH ethanol",
+          "value": 0.17300000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "NaOH",
+          "value": 0.31,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "380.0 K"
+        },
+        {
+          "material": "NaOH",
+          "value": 0.72,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "833.0 K"
+        },
+        {
+          "material": "NaOH",
+          "value": 0.37,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "833.0 K"
+        },
+        {
+          "material": "NaOH",
+          "value": 0.44,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "833.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "NaOH",
+          "value": 0.000334,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "NaOH",
+          "value": 0.0000098,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "833.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "NaOH ethanol",
+          "zt_value": 0.057,
+          "temperature": "295 K"
+        },
+        {
+          "material": "NaOH",
+          "zt_value": 1.1,
+          "temperature": "833.0 K"
+        },
+        {
+          "material": "NaOH",
+          "zt_value": 0.9,
+          "temperature": "833.0 K"
+        },
+        {
+          "material": "NaOH",
+          "zt_value": 1.1,
+          "temperature": "833.0 K"
+        },
+        {
+          "material": "NaOH ( 24 % )",
+          "zt_value": 1.5,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "NaOH ( 24 % )",
+          "zt_value": 1.5,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "NaOH",
+          "zt_value": 2,
+          "temperature": "630.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

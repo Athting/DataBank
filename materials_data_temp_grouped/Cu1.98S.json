@@ -1,0 +1,64 @@
+{
+  "Material": "Cu1.98S",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2017.10.042",
+    "10.1038/srep40436",
+    "10.1039/c8tc05038d"
+  ],
+  "Data_By_Temperature": {
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "Cu1.98S",
+        "Property": "ZT",
+        "Value": 0.86,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/srep40436"
+      }
+    ],
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "Cu1.98S1",
+        "Property": "ZT",
+        "Value": 1.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2017.10.042"
+      },
+      {
+        "Original_Name_In_Paper": "Cu1.98S1",
+        "Property": "ZT",
+        "Value": 1.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2017.10.042"
+      },
+      {
+        "Original_Name_In_Paper": "Cu1.98S1",
+        "Property": "ZT",
+        "Value": 1.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2017.10.042"
+      },
+      {
+        "Original_Name_In_Paper": "Cu1.98S1",
+        "Property": "ZT",
+        "Value": 1.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2017.10.042"
+      }
+    ],
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "Cu1.98S",
+        "Property": "ZT",
+        "Value": 0.93,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8tc05038d"
+      }
+    ]
+  }
+}

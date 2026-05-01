@@ -1,0 +1,26 @@
+{
+  "Material": "Ca3Co3.97Ag0.3O9",
+  "DOIs_Researched": [
+    "10.1007/s10854-015-3401-9"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ca3Co3.97Ag0.3O9",
+        "Property": "Seebeck",
+        "Value": 9.499999999999999e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-015-3401-9"
+      },
+      {
+        "Original_Name_In_Paper": "Ca3Co3.97Ag0.3O9",
+        "Property": "PF",
+        "Value": 6.7e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-015-3401-9"
+      }
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "Material": "YBCO",
+  "DOIs_Researched": [
+    "10.1016/j.materresbull.2011.05.034",
+    "10.1016/j.matlet.2018.10.110",
+    "10.1016/S0921-4534(99)00481-5",
+    "10.1016/S0925-8388(07)00600-7"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "YBCO",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(07)00600-7"
+      },
+      {
+        "Original_Name_In_Paper": "YBCO",
+        "Property": "Conductivity",
+        "Value": 19011.4068441065,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2011.05.034"
+      }
+    ],
+    "100.0": [
+      {
+        "Original_Name_In_Paper": "single crystal YBCO",
+        "Property": "Conductivity",
+        "Value": 2222222.222222222,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0921-4534(99)00481-5"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "YBCO",
+        "Property": "Seebeck",
+        "Value": 1.9e-06,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2018.10.110"
+      },
+      {
+        "Original_Name_In_Paper": "YBCO",
+        "Property": "Conductivity",
+        "Value": 12500.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2018.10.110"
+      }
+    ],
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "YBCO",
+        "Property": "Conductivity",
+        "Value": 84000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2018.10.110"
+      }
+    ]
+  }
+}

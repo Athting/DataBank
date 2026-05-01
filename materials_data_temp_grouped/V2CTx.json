@@ -1,0 +1,26 @@
+{
+  "Material": "V2CTx",
+  "DOIs_Researched": [
+    "10.1039/c7nr06721f"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "V2CTx MXene",
+        "Property": "Conductivity",
+        "Value": 38461.5384615385,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7nr06721f"
+      },
+      {
+        "Original_Name_In_Paper": "pristine V2CTx",
+        "Property": "Conductivity",
+        "Value": 38461.5384615385,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7nr06721f"
+      }
+    ]
+  }
+}

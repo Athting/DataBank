@@ -1,0 +1,18 @@
+{
+  "Material": "SrPb18AgTe20",
+  "DOIs_Researched": [
+    "10.1016/j.rinp.2015.10.005"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "SrPb18AgTe20",
+        "Property": "ZT",
+        "Value": 2.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rinp.2015.10.005"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Mg2Si0.5875-xSn0.4Ge0.0",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2017.04.267"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Mg2Si0.5875-xSn0.4GexSb0.0125",
+        "Property": "Seebeck",
+        "Value": -0.00011,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": "Ge - addition",
+        "Source_DOI": "10.1016/j.jallcom.2017.04.267"
+      }
+    ]
+  }
+}

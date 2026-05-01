@@ -1,0 +1,18 @@
+{
+  "Material": "Co4Sb11Ge0.4Te0.6",
+  "DOIs_Researched": [
+    "10.1007/s11664-010-1457-0"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Co4Sb11Ge0.4Te0.6",
+        "Property": "ZT",
+        "Value": 0.89,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-010-1457-0"
+      }
+    ]
+  }
+}

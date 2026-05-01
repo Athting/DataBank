@@ -1,0 +1,18 @@
+{
+  "Material": "Zn3.82In0.18Sb3",
+  "DOIs_Researched": [
+    "10.1016/j.mtener.2017.02.005"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "\u03b2-Zn3.82In0\u00b718Sb3 compounds",
+        "Property": "ZT",
+        "Value": 1.4100000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtener.2017.02.005"
+      }
+    ]
+  }
+}

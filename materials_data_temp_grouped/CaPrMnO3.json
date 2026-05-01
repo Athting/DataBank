@@ -1,0 +1,18 @@
+{
+  "Material": "CaPrMnO3",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2020.154466"
+  ],
+  "Data_By_Temperature": {
+    "1132.0": [
+      {
+        "Original_Name_In_Paper": "Ca0.9Pr0.1MnO3",
+        "Property": "PF",
+        "Value": 0.00034199999999999996,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154466"
+      }
+    ]
+  }
+}

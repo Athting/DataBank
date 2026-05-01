@@ -1,0 +1,239 @@
+{
+  "Material": "rGO",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2016.04.056",
+    "10.1016/B978-0-12-819576-5.00006-2",
+    "10.1016/j.compscitech.2016.01.014",
+    "10.1016/j.mseb.2020.114679",
+    "10.1007/s13391-019-00193-0",
+    "10.1039/c5ta01594d",
+    "10.1016/B978-0-08-100785-3.00006-1",
+    "10.1039/c9ta11737g",
+    "10.1016/j.carbon.2018.11.023",
+    "10.1039/c9nr07406f"
+  ],
+  "Data_By_Temperature": {
+    "1160.0": [
+      {
+        "Original_Name_In_Paper": "rGO",
+        "Property": "ThermCond",
+        "Value": 2.9,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.carbon.2018.11.023"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "rGO",
+        "Property": "ThermCond",
+        "Value": 0.0047,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-12-819576-5.00006-2"
+      },
+      {
+        "Original_Name_In_Paper": "rGO",
+        "Property": "PF",
+        "Value": 1.8000000000000002e-08,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.compscitech.2016.01.014"
+      },
+      {
+        "Original_Name_In_Paper": "rGO",
+        "Property": "PF",
+        "Value": 3.01e-06,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-08-100785-3.00006-1"
+      },
+      {
+        "Original_Name_In_Paper": "rGO",
+        "Property": "PF",
+        "Value": 0.0041400000000000005,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta01594d"
+      },
+      {
+        "Original_Name_In_Paper": "rGO",
+        "Property": "PF",
+        "Value": 0.000673,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9nr07406f"
+      }
+    ],
+    "308.0": [
+      {
+        "Original_Name_In_Paper": "rGO",
+        "Property": "ThermCond",
+        "Value": 0.24,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-12-819576-5.00006-2"
+      }
+    ],
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "rGO",
+        "Property": "ThermCond",
+        "Value": 3.8200000000000003,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s13391-019-00193-0"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "rGO",
+        "Property": "ThermCond",
+        "Value": 0.36,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta11737g"
+      }
+    ],
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "rGO",
+        "Property": "ZT",
+        "Value": 0.44,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s13391-019-00193-0"
+      }
+    ],
+    "1173.0": [
+      {
+        "Original_Name_In_Paper": "rGO",
+        "Property": "ZT",
+        "Value": 0.28,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2016.04.056"
+      },
+      {
+        "Original_Name_In_Paper": "rGO",
+        "Property": "Seebeck",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2016.04.056"
+      }
+    ],
+    "315.0": [
+      {
+        "Original_Name_In_Paper": "rGO",
+        "Property": "ZT",
+        "Value": 0.05,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.carbon.2018.11.023"
+      },
+      {
+        "Original_Name_In_Paper": "rGO",
+        "Property": "Seebeck",
+        "Value": -9.9e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.carbon.2018.11.023"
+      }
+    ],
+    "859.0": [
+      {
+        "Original_Name_In_Paper": "rGO",
+        "Property": "Conductivity",
+        "Value": 4219.4092827004,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mseb.2020.114679"
+      },
+      {
+        "Original_Name_In_Paper": "rGO",
+        "Property": "Conductivity",
+        "Value": 12500.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mseb.2020.114679"
+      },
+      {
+        "Original_Name_In_Paper": "rGO",
+        "Property": "PF",
+        "Value": 0.000281,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mseb.2020.114679"
+      },
+      {
+        "Original_Name_In_Paper": "rGO",
+        "Property": "PF",
+        "Value": 0.000281,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mseb.2020.114679"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "rGO",
+        "Property": "Seebeck",
+        "Value": -2.6e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2016.04.056"
+      }
+    ],
+    "670.0": [
+      {
+        "Original_Name_In_Paper": "rGO",
+        "Property": "PF",
+        "Value": 0.00079,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.carbon.2018.11.023"
+      }
+    ],
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "rGO",
+        "Property": "PF",
+        "Value": 0.0014,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.carbon.2018.11.023"
+      }
+    ],
+    "525.0": [
+      {
+        "Original_Name_In_Paper": "rGO",
+        "Property": "PF",
+        "Value": 0.0015,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.carbon.2018.11.023"
+      }
+    ],
+    "332.0": [
+      {
+        "Original_Name_In_Paper": "rGO",
+        "Property": "PF",
+        "Value": 0.00198,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.carbon.2018.11.023"
+      }
+    ],
+    "328.0": [
+      {
+        "Original_Name_In_Paper": "rGO",
+        "Property": "Conductivity",
+        "Value": 238000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.carbon.2018.11.023"
+      }
+    ]
+  }
+}

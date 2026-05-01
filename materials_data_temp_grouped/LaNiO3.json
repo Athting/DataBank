@@ -1,0 +1,29 @@
+{
+  "Material": "LaNiO3",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2020.105195",
+    "10.1016/j.sna.2005.06.027"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "LaNiO3 / STO(001) superlattices",
+        "Property": "ZT",
+        "Value": 0.35000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.105195"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "LaNiO3",
+        "Property": "Conductivity",
+        "Value": 666666.6666666666,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.sna.2005.06.027"
+      }
+    ]
+  }
+}

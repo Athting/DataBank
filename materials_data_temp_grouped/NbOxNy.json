@@ -1,0 +1,18 @@
+{
+  "Material": "NbOxNy",
+  "DOIs_Researched": [
+    "10.1016/j.physb.2015.10.001"
+  ],
+  "Data_By_Temperature": {
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "crystalline niobium oxynitride",
+        "Property": "Seebeck",
+        "Value": -7.000000000000001e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2015.10.001"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Nd0.93Sr0.07OZnSb",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2016.07.197"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Nd0.93Sr0.07OZnSb",
+        "Property": "PF",
+        "Value": 3.9e-06,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.07.197"
+      }
+    ]
+  }
+}

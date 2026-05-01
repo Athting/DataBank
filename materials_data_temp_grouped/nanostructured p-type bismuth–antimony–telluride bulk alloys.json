@@ -1,0 +1,18 @@
+{
+  "Material": "nanostructured p-type bismuth\u2013antimony\u2013telluride bulk alloys",
+  "DOIs_Researched": [
+    "10.1016/j.apt.2010.08.006"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "nanostructured p-type bismuth\u2013antimony\u2013telluride bulk alloys",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apt.2010.08.006"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "WK",
+  "DOIs_Researched": [
+    "10.1016/S1005-0302(12)60013-9"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "7.0\u00c3\u201410 \u00e2\u02c6\u20194 W\u00c2\u00b7m \u00e2\u02c6\u20191 \u00c2\u00b7K \u00e2\u02c6\u20192",
+        "Property": "ZT",
+        "Value": 0.23,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S1005-0302(12)60013-9"
+      }
+    ]
+  }
+}

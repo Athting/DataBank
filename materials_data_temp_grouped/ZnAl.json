@@ -1,0 +1,29 @@
+{
+  "Material": "ZnAl",
+  "DOIs_Researched": [
+    "10.1016/j.vacuum.2014.04.022",
+    "10.1039/a602506d"
+  ],
+  "Data_By_Temperature": {
+    "1273.0": [
+      {
+        "Original_Name_In_Paper": "Zn0.98Al0.02",
+        "Property": "ZT",
+        "Value": 0.24,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/a602506d"
+      }
+    ],
+    "473.0": [
+      {
+        "Original_Name_In_Paper": "Zn\u2013Al alloy",
+        "Property": "Seebeck",
+        "Value": 5e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.vacuum.2014.04.022"
+      }
+    ]
+  }
+}

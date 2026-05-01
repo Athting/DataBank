@@ -1,0 +1,18 @@
+{
+  "Material": "BiOCuSe0.94Te0.06",
+  "DOIs_Researched": [
+    "10.1016/j.matchemphys.2016.03.045"
+  ],
+  "Data_By_Temperature": {
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "BiOCu(Se0.94Te0.06)",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2016.03.045"
+      }
+    ]
+  }
+}

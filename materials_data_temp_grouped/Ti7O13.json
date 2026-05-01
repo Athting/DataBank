@@ -1,0 +1,18 @@
+{
+  "Material": "Ti7O13",
+  "DOIs_Researched": [
+    "10.1016/j.jmat.2017.06.002"
+  ],
+  "Data_By_Temperature": {
+    "1150.0": [
+      {
+        "Original_Name_In_Paper": "Ti7O13",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2017.06.002"
+      }
+    ]
+  }
+}

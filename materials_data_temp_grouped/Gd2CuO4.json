@@ -1,0 +1,18 @@
+{
+  "Material": "Gd2CuO4",
+  "DOIs_Researched": [
+    "10.1016/S0925-8388(02)00875-7"
+  ],
+  "Data_By_Temperature": {
+    "330.0": [
+      {
+        "Original_Name_In_Paper": "Gd2CuO4",
+        "Property": "ThermCond",
+        "Value": 30.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(02)00875-7"
+      }
+    ]
+  }
+}

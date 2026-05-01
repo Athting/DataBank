@@ -1,0 +1,18 @@
+{
+  "Material": "PbTe, EuTe",
+  "DOIs_Researched": [
+    "10.1016/j.mser.2009.10.001"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "PbTe / EuTe [ 1 0 0 ] superlattices",
+        "Property": "ZT",
+        "Value": 0.66,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mser.2009.10.001"
+      }
+    ]
+  }
+}

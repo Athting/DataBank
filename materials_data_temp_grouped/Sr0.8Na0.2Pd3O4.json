@@ -1,0 +1,26 @@
+{
+  "Material": "Sr0.8Na0.2Pd3O4",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2007.03.137"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Sr0.8Na0.2Pd3O4",
+        "Property": "PF",
+        "Value": 5e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2007.03.137"
+      },
+      {
+        "Original_Name_In_Paper": "Sr0.8Na0.2Pd3O4",
+        "Property": "PF",
+        "Value": 5e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2007.03.137"
+      }
+    ]
+  }
+}

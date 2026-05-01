@@ -1,0 +1,26 @@
+{
+  "Material": "Si80Ge20B0.5",
+  "DOIs_Researched": [
+    "10.1016/j.mssp.2018.08.020"
+  ],
+  "Data_By_Temperature": {
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "Si80Ge20B0.5",
+        "Property": "ZT",
+        "Value": 0.71,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2018.08.020"
+      },
+      {
+        "Original_Name_In_Paper": "Si80Ge20B0.5",
+        "Property": "ZT",
+        "Value": 0.71,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2018.08.020"
+      }
+    ]
+  }
+}

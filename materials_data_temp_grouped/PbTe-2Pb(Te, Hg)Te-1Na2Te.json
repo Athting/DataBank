@@ -1,0 +1,26 @@
+{
+  "Material": "PbTe-2Pb(Te, Hg)Te-1Na2Te",
+  "DOIs_Researched": [
+    "10.1039/c3ee40482j"
+  ],
+  "Data_By_Temperature": {
+    "770.0": [
+      {
+        "Original_Name_In_Paper": "p-type PbTe\u20132 % HgTe\u20131 % Na2Te",
+        "Property": "ZT",
+        "Value": 1.6400000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ee40482j"
+      },
+      {
+        "Original_Name_In_Paper": "p-type PbTe\u20132 % HgTe\u20131 % Na2Te",
+        "Property": "ZT",
+        "Value": 1.6400000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ee40482j"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "polyaniniline / PEO ( 72 wt % PANI",
+  "DOIs_Researched": [
+    "10.1016/j.progpolymsci.2011.04.001"
+  ],
+  "Data_By_Temperature": {
+    "295.0": [
+      {
+        "Original_Name_In_Paper": "polyaniniline / PEO ( 72 wt % PANI",
+        "Property": "Conductivity",
+        "Value": 3300.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.progpolymsci.2011.04.001"
+      }
+    ]
+  }
+}

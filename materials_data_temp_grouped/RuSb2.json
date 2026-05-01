@@ -1,0 +1,18 @@
+{
+  "Material": "RuSb2",
+  "DOIs_Researched": [
+    "10.1039/b918909b"
+  ],
+  "Data_By_Temperature": {
+    "20.0": [
+      {
+        "Original_Name_In_Paper": "RuSb2",
+        "Property": "ThermCond",
+        "Value": 750.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/b918909b"
+      }
+    ]
+  }
+}

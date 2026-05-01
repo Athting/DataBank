@@ -1,0 +1,18 @@
+{
+  "Material": "Bi\u2013Te based",
+  "DOIs_Researched": [
+    "10.1016/j.apenergy.2014.12.075"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Bi\u2013Te based",
+        "Property": "ZT",
+        "Value": 2.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apenergy.2014.12.075"
+      }
+    ]
+  }
+}

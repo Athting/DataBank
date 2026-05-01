@@ -1,0 +1,18 @@
+{
+  "Material": "Iron(III) oxide, Fe2O3.",
+  "DOIs_Researched": [
+    "10.1007/s40516-014-0002-z"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "polycrystalline nanometric iron oxide film",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s40516-014-0002-z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "Material": "CoPdSb3 + CeO2",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2016.09.094"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Co0.97Pd0.03Sb3 + 2 % CeO2",
+        "Property": "ThermCond",
+        "Value": 4.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.09.094"
+      }
+    ],
+    "650.0": [
+      {
+        "Original_Name_In_Paper": "Co0.97Pd0.03Sb3 + 2 % CeO2",
+        "Property": "ZT",
+        "Value": 0.65,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.09.094"
+      }
+    ]
+  }
+}

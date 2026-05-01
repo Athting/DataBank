@@ -1,0 +1,18 @@
+{
+  "Material": "Y0.15Gd0.15Co4O9+\u03b4",
+  "DOIs_Researched": [
+    "10.1016/j.cap.2008.03.010"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "Y0.15Gd0.15Co4O9+\u03b4",
+        "Property": "ZT",
+        "Value": 0.26,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2008.03.010"
+      }
+    ]
+  }
+}

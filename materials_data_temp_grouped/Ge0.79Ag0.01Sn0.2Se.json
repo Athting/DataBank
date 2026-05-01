@@ -1,0 +1,18 @@
+{
+  "Material": "Ge0.79Ag0.01Sn0.2Se",
+  "DOIs_Researched": [
+    "10.1038/s41598-019-45949-8"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Ag-doped polycrystalline Ge0.79Ag0.01Sn0.2Se",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-019-45949-8"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "Material": "ZrCoBi0.65Sb0.15Sn0.20",
+  "DOIs_Researched": [
+    "10.1007/s10853-020-04949-0",
+    "10.1038/s41467-018-04958-3"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "ZrCoBi0.65Sb0.15Sn0.20",
+        "Property": "ZT",
+        "Value": 0.81,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41467-018-04958-3"
+      }
+    ],
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "ZrCoBi0.65Sb0.15Sn0.20",
+        "Property": "ZT",
+        "Value": 1.42,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41467-018-04958-3"
+      },
+      {
+        "Original_Name_In_Paper": "ZrCoBi0.65Sb0.15Sn0.20",
+        "Property": "ZT",
+        "Value": 1.42,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41467-018-04958-3"
+      },
+      {
+        "Original_Name_In_Paper": "ZrCoBi0.65Sb0.15Sn0.20",
+        "Property": "ZT",
+        "Value": 1.42,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "Material": "Bi2.5Sb1.5Te3",
+  "DOIs_Researched": [
+    "10.1016/j.applthermaleng.2020.115384",
+    "10.1016/j.apenergy.2008.02.011",
+    "10.1016/j.mattod.2017.02.007"
+  ],
+  "Data_By_Temperature": {
+    "320.0": [
+      {
+        "Original_Name_In_Paper": "p-type (Bi0.25Sb0.75)2Te3",
+        "Property": "ZT",
+        "Value": 1.19,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apenergy.2008.02.011"
+      },
+      {
+        "Original_Name_In_Paper": "(Bi0.25Sb0.75)2Te3",
+        "Property": "ZT",
+        "Value": 1.8599999999999999,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mattod.2017.02.007"
+      }
+    ],
+    "298.0": [
+      {
+        "Original_Name_In_Paper": "(Bi0.25Sb0.75)2Te3",
+        "Property": "ZT",
+        "Value": 1.27,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.applthermaleng.2020.115384"
+      }
+    ]
+  }
+}

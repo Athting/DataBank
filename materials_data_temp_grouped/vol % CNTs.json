@@ -1,0 +1,27 @@
+{
+  "Material": "vol % CNTs",
+  "DOIs_Researched": [
+    "10.1016/j.apenergy.2014.12.075",
+    "10.1016/j.matlet.2013.06.008"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "vol % CNTs",
+        "Property": "ZT",
+        "Value": 2.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apenergy.2014.12.075"
+      },
+      {
+        "Original_Name_In_Paper": "vol % CNTs",
+        "Property": "ZT",
+        "Value": 2.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2013.06.008"
+      }
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "Material": "NbCoSn",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2018.06.034",
+    "10.1039/c7cp07521a",
+    "10.1016/j.jpcs.2017.05.006"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "NbCoSn",
+        "Property": "ThermCond",
+        "Value": 6.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2017.05.006"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "NbCoSn",
+        "Property": "ThermCond",
+        "Value": 6.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.06.034"
+      }
+    ],
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "NbCoSn",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cp07521a"
+      },
+      {
+        "Original_Name_In_Paper": "NbCoSn",
+        "Property": "PF",
+        "Value": 0.0035,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cp07521a"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "NbCoSn",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cp07521a"
+      }
+    ]
+  }
+}

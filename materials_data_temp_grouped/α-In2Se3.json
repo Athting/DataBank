@@ -1,0 +1,28 @@
+{
+  "Material": "\u03b1-In2Se3",
+  "DOIs_Researched": [
+    "10.1016/j.scriptamat.2010.11.026"
+  ],
+  "Data_By_Temperature": {
+    "884.0": [
+      {
+        "Original_Name_In_Paper": "\u03b1-In2Se3",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2010.11.026"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "\u03b1-In2Se3",
+        "Property": "Conductivity",
+        "Value": 158.7,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2010.11.026"
+      }
+    ]
+  }
+}

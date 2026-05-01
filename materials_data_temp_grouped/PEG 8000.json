@@ -1,0 +1,18 @@
+{
+  "Material": "PEG 8000",
+  "DOIs_Researched": [
+    "10.1039/c7ta04968d"
+  ],
+  "Data_By_Temperature": {
+    "319.0": [
+      {
+        "Original_Name_In_Paper": "PEG 8000",
+        "Property": "ThermCond",
+        "Value": 3.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ta04968d"
+      }
+    ]
+  }
+}

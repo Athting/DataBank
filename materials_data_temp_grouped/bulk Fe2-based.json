@@ -1,0 +1,26 @@
+{
+  "Material": "bulk Fe2-based",
+  "DOIs_Researched": [
+    "10.1039/c9tc00570f"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "bulk Fe2-based",
+        "Property": "ThermCond",
+        "Value": 27.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc00570f"
+      },
+      {
+        "Original_Name_In_Paper": "bulk Fe2-based",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc00570f"
+      }
+    ]
+  }
+}

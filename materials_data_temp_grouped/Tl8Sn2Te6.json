@@ -1,0 +1,38 @@
+{
+  "Material": "Tl8Sn2Te6",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2011.03.182"
+  ],
+  "Data_By_Temperature": {
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "Tl8Sn2Te6",
+        "Property": "ZT",
+        "Value": 0.74,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2011.03.182"
+      }
+    ],
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "Tl8Sn2Te6",
+        "Property": "ZT",
+        "Value": 0.28,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2011.03.182"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Tl8Sn2Te6",
+        "Property": "Seebeck",
+        "Value": 5e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2011.03.182"
+      }
+    ]
+  }
+}

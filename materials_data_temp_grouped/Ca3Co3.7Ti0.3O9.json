@@ -1,0 +1,43 @@
+{
+  "Material": "Ca3Co3.7Ti0.3O9",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2017.08.191",
+    "10.1016/j.jallcom.2010.04.055"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "Ca3Co3.7Ti0.3O9",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.04.055"
+      },
+      {
+        "Original_Name_In_Paper": "Ca3Co3.7Ti0.3O9",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.04.055"
+      },
+      {
+        "Original_Name_In_Paper": "Ca3Co3.7Ti0.3O9",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.04.055"
+      },
+      {
+        "Original_Name_In_Paper": "Ca3Co3.7Ti0.3O9",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2017.08.191"
+      }
+    ]
+  }
+}

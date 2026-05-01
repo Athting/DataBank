@@ -1,0 +1,72 @@
+{
+  "doi": "10.1007/s10853-019-04242-9",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Cu1.95Pb0.015Se",
+        "Cu1.965Pb0.015Se"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Cu1.965Pb0.015Se",
+          "value": 0.001454,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "800.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Cu1.95Pb0.015Se",
+          "zt_value": 1.52,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Cu1.95Pb0.015Se",
+          "zt_value": 1.52,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Cu1.95Pb0.015Se",
+          "zt_value": 1.52,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Cu1.95Pb0.015Se",
+          "zt_value": 1.52,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Cu1.95Pb0.015Se",
+          "zt_value": 1.52,
+          "temperature": "973.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

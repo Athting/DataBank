@@ -1,0 +1,18 @@
+{
+  "Material": "tin chalcogenide",
+  "DOIs_Researched": [
+    "10.1039/c8cc02230e"
+  ],
+  "Data_By_Temperature": {
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "tin chalcogenide",
+        "Property": "ZT",
+        "Value": 2.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8cc02230e"
+      }
+    ]
+  }
+}

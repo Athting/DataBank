@@ -1,0 +1,37 @@
+{
+  "Material": "NiSe",
+  "DOIs_Researched": [
+    "10.1016/S0022-3093(99)00261-6",
+    "10.1007/s10854-016-4847-0"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "nickel selenide",
+        "Property": "Seebeck",
+        "Value": -7e-06,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-016-4847-0"
+      },
+      {
+        "Original_Name_In_Paper": "nickel selenide",
+        "Property": "Conductivity",
+        "Value": 0.01,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-016-4847-0"
+      }
+    ],
+    "1373.0": [
+      {
+        "Original_Name_In_Paper": "NiSe",
+        "Property": "Conductivity",
+        "Value": 500000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0022-3093(99)00261-6"
+      }
+    ]
+  }
+}

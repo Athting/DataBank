@@ -1,0 +1,18 @@
+{
+  "Material": "Li0.2Co4Sb12",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2011.10.059"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Li0.2Co4Sb12",
+        "Property": "PF",
+        "Value": 0.0044,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2011.10.059"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "Material": "(GeSe)0.92(Sb2Te3)0.08",
+  "DOIs_Researched": [
+    "10.1016/j.jechem.2019.09.021",
+    "10.1039/c9cp05153h"
+  ],
+  "Data_By_Temperature": {
+    "710.0": [
+      {
+        "Original_Name_In_Paper": "(GeSe)0.92(Sb2Te3)0.08",
+        "Property": "ZT",
+        "Value": 0.73,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9cp05153h"
+      },
+      {
+        "Original_Name_In_Paper": "(GeSe)0.92(Sb2Te3)0.08",
+        "Property": "ZT",
+        "Value": 0.73,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jechem.2019.09.021"
+      },
+      {
+        "Original_Name_In_Paper": "(GeSe)0.92(Sb2Te3)0.08",
+        "Property": "ZT",
+        "Value": 0.73,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jechem.2019.09.021"
+      },
+      {
+        "Original_Name_In_Paper": "(GeSe)0.92(Sb2Te3)0.08",
+        "Property": "ZT",
+        "Value": 0.73,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jechem.2019.09.021"
+      }
+    ]
+  }
+}

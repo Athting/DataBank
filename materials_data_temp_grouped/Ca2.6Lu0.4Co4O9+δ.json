@@ -1,0 +1,27 @@
+{
+  "Material": "Ca2.6Lu0.4Co4O9+\u03b4",
+  "DOIs_Researched": [
+    "10.1007/s10853-010-4461-0",
+    "10.1016/j.ssc.2010.06.018"
+  ],
+  "Data_By_Temperature": {
+    "335.0": [
+      {
+        "Original_Name_In_Paper": "Ca2.6Lu0.4Co4O9+\u03b4 material",
+        "Property": "Seebeck",
+        "Value": 0.00011,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2010.06.018"
+      },
+      {
+        "Original_Name_In_Paper": "Ca2.6Lu0.4Co4O9+\u03b4 material",
+        "Property": "Seebeck",
+        "Value": 0.00011,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-010-4461-0"
+      }
+    ]
+  }
+}

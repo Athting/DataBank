@@ -1,0 +1,279 @@
+{
+  "Material": "Co4Sb11.5Te0.5",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2014.03.017",
+    "10.1016/j.matlet.2009.06.008",
+    "10.1007/s10854-012-0668-y",
+    "10.1007/s11661-017-4058-1",
+    "10.1007/s10854-014-2411-3",
+    "10.1016/j.jallcom.2010.11.027",
+    "10.1039/c6ee00322b",
+    "10.1016/j.matlet.2018.04.041",
+    "10.1039/c5ra08608f",
+    "10.1016/j.jallcom.2016.11.332"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Co4Sb11.5Te0.5",
+        "Property": "ThermCond",
+        "Value": 3.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ee00322b"
+      },
+      {
+        "Original_Name_In_Paper": "Co4Sb11.5Te0.5",
+        "Property": "ThermCond",
+        "Value": 2.34,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2018.04.041"
+      },
+      {
+        "Original_Name_In_Paper": "doped Co4Sb11.5Te0.5",
+        "Property": "ThermCond",
+        "Value": 4.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-014-2411-3"
+      },
+      {
+        "Original_Name_In_Paper": "Co4Sb11.5Te0.5",
+        "Property": "ThermCond",
+        "Value": 3.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-014-2411-3"
+      },
+      {
+        "Original_Name_In_Paper": "Co4Sb11.5Te0.5",
+        "Property": "ZT",
+        "Value": 1.07,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2018.04.041"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Co4Sb11.5Te0.5 + 0.25 vol % CNTs",
+        "Property": "ThermCond",
+        "Value": 1.76,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra08608f"
+      },
+      {
+        "Original_Name_In_Paper": "Co4Sb11.5Te0.5 + 0.25 vol % CNTs",
+        "Property": "ZT",
+        "Value": 1.32,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra08608f"
+      }
+    ],
+    "565.0": [
+      {
+        "Original_Name_In_Paper": "Co4Sb11.5Te0.5",
+        "Property": "ThermCond",
+        "Value": 2.38,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.03.017"
+      }
+    ],
+    "710.0": [
+      {
+        "Original_Name_In_Paper": "Co4Sb11.5Te0.5",
+        "Property": "ThermCond",
+        "Value": 1.34,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.03.017"
+      },
+      {
+        "Original_Name_In_Paper": "n-type Co4Sb11.5Te0.5",
+        "Property": "ZT",
+        "Value": 0.92,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.03.017"
+      },
+      {
+        "Original_Name_In_Paper": "Co4Sb11.5Te0.5",
+        "Property": "ZT",
+        "Value": 0.92,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.03.017"
+      },
+      {
+        "Original_Name_In_Paper": "Co4Sb11.5Te0.5",
+        "Property": "ZT",
+        "Value": 0.67,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2009.06.008"
+      },
+      {
+        "Original_Name_In_Paper": "Co4Sb11.5Te0.5",
+        "Property": "ZT",
+        "Value": 0.67,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-012-0668-y"
+      },
+      {
+        "Original_Name_In_Paper": "Co4Sb11.5Te0.5",
+        "Property": "ZT",
+        "Value": 1.03,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.11.332"
+      },
+      {
+        "Original_Name_In_Paper": "Co4Sb11.5Te0.5",
+        "Property": "ZT",
+        "Value": 1.03,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.11.332"
+      },
+      {
+        "Original_Name_In_Paper": "Co4Sb11.5Te0.5",
+        "Property": "ZT",
+        "Value": 1.03,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.11.332"
+      },
+      {
+        "Original_Name_In_Paper": "Co4Sb11.5Te0.5",
+        "Property": "ZT",
+        "Value": 0.67,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11661-017-4058-1"
+      },
+      {
+        "Original_Name_In_Paper": "Co4Sb11.5Te0.5",
+        "Property": "Conductivity",
+        "Value": 93457.9439252336,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.03.017"
+      },
+      {
+        "Original_Name_In_Paper": "Co4Sb11.5Te0.5",
+        "Property": "PF",
+        "Value": 0.0032,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.03.017"
+      }
+    ],
+    "706.0": [
+      {
+        "Original_Name_In_Paper": "unfilled Co4Sb11.5Te0.5",
+        "Property": "ZT",
+        "Value": 0.7020000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.11.027"
+      },
+      {
+        "Original_Name_In_Paper": "Co4Sb11.5Te0.5",
+        "Property": "PF",
+        "Value": 0.00253,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.11.027"
+      }
+    ],
+    "883.0": [
+      {
+        "Original_Name_In_Paper": "Co4Sb11.5Te0.5",
+        "Property": "ZT",
+        "Value": 1.15,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-014-2411-3"
+      },
+      {
+        "Original_Name_In_Paper": "Co4Sb11.5Te0.5",
+        "Property": "ZT",
+        "Value": 1.15,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-014-2411-3"
+      },
+      {
+        "Original_Name_In_Paper": "Co4Sb11.5Te0.5",
+        "Property": "ZT",
+        "Value": 1.15,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-014-2411-3"
+      },
+      {
+        "Original_Name_In_Paper": "Co4Sb11.5Te0.5",
+        "Property": "ZT",
+        "Value": 1.15,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-014-2411-3"
+      }
+    ],
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "Co4Sb11.5Te0.5",
+        "Property": "ZT",
+        "Value": 0.72,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-012-0668-y"
+      }
+    ],
+    "820.0": [
+      {
+        "Original_Name_In_Paper": "Co4Sb11.5Te0.5",
+        "Property": "ZT",
+        "Value": 0.93,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2018.04.041"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Co4Sb11.5Te0.5",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2018.04.041"
+      }
+    ],
+    "301.0": [
+      {
+        "Original_Name_In_Paper": "Co4Sb11.5Te0.5",
+        "Property": "Conductivity",
+        "Value": 33.3333333333,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2009.06.008"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Co4Sb11.5Te0.5",
+        "Property": "Conductivity",
+        "Value": 0.0015300000000000001,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-012-0668-y"
+      }
+    ]
+  }
+}

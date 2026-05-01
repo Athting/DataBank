@@ -1,0 +1,28 @@
+{
+  "Material": "PbTe\u2013PbSnS2",
+  "DOIs_Researched": [
+    "10.1039/c2ee22495j"
+  ],
+  "Data_By_Temperature": {
+    "625.0": [
+      {
+        "Original_Name_In_Paper": "PbTe\u2013PbSnS2",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2ee22495j"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "PbTe\u2013PbSnS2",
+        "Property": "PF",
+        "Value": 0.0018000000000000002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2ee22495j"
+      }
+    ]
+  }
+}

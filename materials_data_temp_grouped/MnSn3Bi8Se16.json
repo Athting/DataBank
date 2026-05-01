@@ -1,0 +1,42 @@
+{
+  "Material": "MnSn3Bi8Se16",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2010.04.035"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "MnSn3Bi8Se16",
+        "Property": "Seebeck",
+        "Value": -9.8e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2010.04.035"
+      },
+      {
+        "Original_Name_In_Paper": "MnSn3Bi8Se16",
+        "Property": "Seebeck",
+        "Value": -9.7e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2010.04.035"
+      },
+      {
+        "Original_Name_In_Paper": "MnSn3Bi8Se16",
+        "Property": "Conductivity",
+        "Value": 13300.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2010.04.035"
+      },
+      {
+        "Original_Name_In_Paper": "MnSn3Bi8Se16",
+        "Property": "Conductivity",
+        "Value": 13300.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2010.04.035"
+      }
+    ]
+  }
+}

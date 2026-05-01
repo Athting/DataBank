@@ -1,0 +1,18 @@
+{
+  "Material": "Sn0.79Sb0.21Te",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2018.09.234"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.79Sb0.21Te",
+        "Property": "ThermCond",
+        "Value": 3.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.09.234"
+      }
+    ]
+  }
+}

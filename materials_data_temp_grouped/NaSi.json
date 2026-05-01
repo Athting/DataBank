@@ -1,0 +1,34 @@
+{
+  "Material": "NaSi",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2020.154849"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "NaSi",
+        "Property": "Conductivity",
+        "Value": 27.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154849"
+      },
+      {
+        "Original_Name_In_Paper": "bulk NaSi",
+        "Property": "Conductivity",
+        "Value": 1.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154849"
+      },
+      {
+        "Original_Name_In_Paper": "NaSi",
+        "Property": "Conductivity",
+        "Value": 10.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154849"
+      }
+    ]
+  }
+}

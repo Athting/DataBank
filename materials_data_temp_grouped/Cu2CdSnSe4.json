@@ -1,0 +1,192 @@
+{
+  "Material": "Cu2CdSnSe4",
+  "DOIs_Researched": [
+    "10.1007/s11664-019-07012-0",
+    "10.1039/c4dt03556a",
+    "10.1016/j.intermet.2016.01.004",
+    "10.1016/j.materresbull.2013.06.013",
+    "10.1016/j.materresbull.2016.03.001",
+    "10.1016/j.intermet.2014.10.015",
+    "10.1039/d0cc00035c",
+    "10.1039/c3ce41583j",
+    "10.1016/j.intermet.2014.06.014"
+  ],
+  "Data_By_Temperature": {
+    "350.0": [
+      {
+        "Original_Name_In_Paper": "Cu2CdSnSe4 compound",
+        "Property": "ThermCond",
+        "Value": 2.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2016.01.004"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2CdSnSe4",
+        "Property": "Seebeck",
+        "Value": 0.00024000000000000003,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2016.01.004"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Cu2CdSnSe4",
+        "Property": "ThermCond",
+        "Value": 1.01,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0cc00035c"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2CdSnSe4",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ce41583j"
+      }
+    ],
+    "725.0": [
+      {
+        "Original_Name_In_Paper": "Cu2CdSnSe4\u00e2",
+        "Property": "ThermCond",
+        "Value": 0.56,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-019-07012-0"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2CdSnSe4\u00e2",
+        "Property": "ZT",
+        "Value": 0.65,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-019-07012-0"
+      }
+    ],
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "Cu2CdSnSe4",
+        "Property": "ThermCond",
+        "Value": 0.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4dt03556a"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2CdSnSe4",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4dt03556a"
+      }
+    ],
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "Cu2CdSnSe4",
+        "Property": "ZT",
+        "Value": 0.65,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2014.06.014"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2CdSnSe4",
+        "Property": "ZT",
+        "Value": 0.65,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2013.06.013"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2CdSnSe4",
+        "Property": "ZT",
+        "Value": 0.65,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2014.10.015"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2CdSn0.9In0.1Se4",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2016.01.004"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2CdSn0.9In0.1Se4",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2016.01.004"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2CdSnSe4 nanocrystals",
+        "Property": "ZT",
+        "Value": 0.65,
+        "Units": null,
+        "Editing": "Cu doping and Se",
+        "Source_DOI": "10.1016/j.intermet.2016.01.004"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2CdSn0.9In0.1Se4",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2016.01.004"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2CdSn0.9In0.1Se4",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2016.01.004"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2CdSn0.9In0.1Se4",
+        "Property": "PF",
+        "Value": 0.0004,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2016.01.004"
+      }
+    ],
+    "720.0": [
+      {
+        "Original_Name_In_Paper": "Mn doped Cu2CdSnSe4",
+        "Property": "ZT",
+        "Value": 0.16,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2016.01.004"
+      }
+    ],
+    "200.0": [
+      {
+        "Original_Name_In_Paper": "Cu2CdSnSe4",
+        "Property": "Seebeck",
+        "Value": 0.000227,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2016.03.001"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Cu2CdSnSe4",
+        "Property": "Conductivity",
+        "Value": 160.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2014.06.014"
+      }
+    ]
+  }
+}

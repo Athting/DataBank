@@ -1,0 +1,18 @@
+{
+  "Material": "La0.1DyxSr1-1.25TiO3",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2017.02.146"
+  ],
+  "Data_By_Temperature": {
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "La0.1DyxSr1-1.25(0.1+x)TiO3",
+        "Property": "PF",
+        "Value": 0.0012159999999999999,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": "La-Dy co-doping",
+        "Source_DOI": "10.1016/j.jallcom.2017.02.146"
+      }
+    ]
+  }
+}

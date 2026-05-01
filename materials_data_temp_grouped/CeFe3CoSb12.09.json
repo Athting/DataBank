@@ -1,0 +1,36 @@
+{
+  "Material": "CeFe3CoSb12.09",
+  "DOIs_Researched": [
+    "10.1016/j.intermet.2018.11.010"
+  ],
+  "Data_By_Temperature": {
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "Ce0.86Fe3CoSb12.09",
+        "Property": "ZT",
+        "Value": 0.81,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2018.11.010"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Ce0.86Fe3CoSb12.09",
+        "Property": "ZT",
+        "Value": 0.81,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2018.11.010"
+      },
+      {
+        "Original_Name_In_Paper": "Ce0.86Fe3CoSb12.09",
+        "Property": "ZT",
+        "Value": 0.81,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2018.11.010"
+      }
+    ]
+  }
+}

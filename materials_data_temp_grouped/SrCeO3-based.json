@@ -1,0 +1,18 @@
+{
+  "Material": "SrCeO3-based",
+  "DOIs_Researched": [
+    "10.1016/B0-08-043152-6-00269-2"
+  ],
+  "Data_By_Temperature": {
+    "1173.0": [
+      {
+        "Original_Name_In_Paper": "SrCeO3-based",
+        "Property": "Conductivity",
+        "Value": 1.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B0-08-043152-6-00269-2"
+      }
+    ]
+  }
+}

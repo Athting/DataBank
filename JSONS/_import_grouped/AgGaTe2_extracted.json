@@ -1,0 +1,125 @@
+{
+  "doi": "10.1038/am.2013.15",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "AgGaTe2",
+        "Ag0.95GaTe2"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "AgGaTe2",
+          "value": 1.9,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Ag0.95GaTe2",
+          "value": 0.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "AgGaTe2",
+          "value": 1.7000000000000002,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Ag0.95GaTe2",
+          "value": 0.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "800.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "AgGaTe2",
+          "zt_value": 1.4,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Ag0.95GaTe2",
+          "zt_value": 0.2,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "Ag0.95GaTe2",
+          "zt_value": 1,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "AgGaTe2",
+          "zt_value": 0.8,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "Ag0.95GaTe2",
+          "zt_value": 0.77,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "Ag0.95GaTe2",
+          "zt_value": 0.77,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "Ag0.95GaTe2",
+          "zt_value": 0.77,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "Ag0.95GaTe2",
+          "zt_value": 0.77,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "Ag0.95GaTe2",
+          "zt_value": 0.77,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "AgGaTe2",
+          "zt_value": 1.19,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "AgGaTe2",
+          "zt_value": 1.19,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "AgGaTe2",
+          "zt_value": 1.19,
+          "temperature": "900.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

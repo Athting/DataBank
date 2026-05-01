@@ -1,0 +1,61 @@
+{
+  "Material": "Bi0.985Na0.015CuSeO",
+  "DOIs_Researched": [
+    "10.1039/d0ta00240b",
+    "10.1039/c3ta14532h"
+  ],
+  "Data_By_Temperature": {
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.985Na0.015CuSeO",
+        "Property": "ZT",
+        "Value": 0.91,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta14532h"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.985Na0.015CuSeO",
+        "Property": "ZT",
+        "Value": 0.91,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta14532h"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.985Na0.015CuSeO",
+        "Property": "ZT",
+        "Value": 0.91,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta14532h"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.985Na0.015CuSeO",
+        "Property": "ZT",
+        "Value": 0.91,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta00240b"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.985Na0.015CuSeO",
+        "Property": "PF",
+        "Value": 0.0008,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta14532h"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.985Na0.015CuSeO",
+        "Property": "Conductivity",
+        "Value": 12500.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta14532h"
+      }
+    ]
+  }
+}

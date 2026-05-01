@@ -1,0 +1,18 @@
+{
+  "Material": "Ar / 4 % H2",
+  "DOIs_Researched": [
+    "10.1016/j.ijhydene.2018.05.171"
+  ],
+  "Data_By_Temperature": {
+    "1083.0": [
+      {
+        "Original_Name_In_Paper": "Ar / 4 % H2",
+        "Property": "Conductivity",
+        "Value": 2260.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ijhydene.2018.05.171"
+      }
+    ]
+  }
+}

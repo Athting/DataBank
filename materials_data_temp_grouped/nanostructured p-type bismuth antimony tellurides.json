@@ -1,0 +1,18 @@
+{
+  "Material": "nanostructured p-type bismuth antimony tellurides",
+  "DOIs_Researched": [
+    "10.1016/j.electacta.2010.12.008"
+  ],
+  "Data_By_Temperature": {
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "nanostructured p-type bismuth antimony tellurides",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.electacta.2010.12.008"
+      }
+    ]
+  }
+}

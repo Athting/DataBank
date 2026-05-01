@@ -1,0 +1,46 @@
+{
+  "Material": "FeSb2Te",
+  "DOIs_Researched": [
+    "10.1039/c5tc01739d",
+    "10.1016/j.tsf.2013.09.068",
+    "10.1016/j.actamat.2013.09.006"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "FeSb2Te",
+        "Property": "ThermCond",
+        "Value": 2.9,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01739d"
+      },
+      {
+        "Original_Name_In_Paper": "bulk FeSb2Te",
+        "Property": "ZT",
+        "Value": 0.024,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2013.09.068"
+      },
+      {
+        "Original_Name_In_Paper": "FeSb2Te compound",
+        "Property": "Seebeck",
+        "Value": 0.00012000000000000002,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2013.09.006"
+      }
+    ],
+    "298.0": [
+      {
+        "Original_Name_In_Paper": "bulk FeSb2Te material",
+        "Property": "Conductivity",
+        "Value": 33.3333333333,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2013.09.068"
+      }
+    ]
+  }
+}

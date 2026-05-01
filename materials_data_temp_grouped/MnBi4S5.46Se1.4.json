@@ -1,0 +1,18 @@
+{
+  "Material": "MnBi4S5.46Se1.4",
+  "DOIs_Researched": [
+    "10.1016/j.cej.2020.125219"
+  ],
+  "Data_By_Temperature": {
+    "770.0": [
+      {
+        "Original_Name_In_Paper": "MnBi4S5.46Se1.4",
+        "Property": "ZT",
+        "Value": 0.31,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cej.2020.125219"
+      }
+    ]
+  }
+}

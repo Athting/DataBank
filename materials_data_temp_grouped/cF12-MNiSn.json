@@ -1,0 +1,18 @@
+{
+  "Material": "cF12-MNiSn",
+  "DOIs_Researched": [
+    "10.1016/B978-0-444-53770-6.00001-0"
+  ],
+  "Data_By_Temperature": {
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "cF12-MNiSn",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-444-53770-6.00001-0"
+      }
+    ]
+  }
+}

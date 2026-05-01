@@ -1,0 +1,18 @@
+{
+  "Material": "Tl6Si2Te6",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2006.05.029"
+  ],
+  "Data_By_Temperature": {
+    "180.0": [
+      {
+        "Original_Name_In_Paper": "Tl6Si2Te6",
+        "Property": "Conductivity",
+        "Value": 670.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2006.05.029"
+      }
+    ]
+  }
+}

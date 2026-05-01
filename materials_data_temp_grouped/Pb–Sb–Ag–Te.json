@@ -1,0 +1,18 @@
+{
+  "Material": "Pb\u2013Sb\u2013Ag\u2013Te",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2009.08.054"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Pb\u2013Sb\u2013Ag\u2013Te",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2009.08.054"
+      }
+    ]
+  }
+}

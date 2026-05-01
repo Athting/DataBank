@@ -1,0 +1,18 @@
+{
+  "Material": "CS composite",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2021.105948"
+  ],
+  "Data_By_Temperature": {
+    "253.0": [
+      {
+        "Original_Name_In_Paper": "CS composite",
+        "Property": "ThermCond",
+        "Value": 2.7800000000000002,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2021.105948"
+      }
+    ]
+  }
+}

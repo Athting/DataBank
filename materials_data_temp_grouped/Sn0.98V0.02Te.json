@@ -1,0 +1,42 @@
+{
+  "Material": "Sn0.98V0.02Te",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2019.104292"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.98V0.02Te",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2019.104292"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.98V0.02Te",
+        "Property": "ZT",
+        "Value": 1.25,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2019.104292"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.98V0.02Te",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2019.104292"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.98V0.02Te",
+        "Property": "PF",
+        "Value": 0.0037400000000000003,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2019.104292"
+      }
+    ]
+  }
+}

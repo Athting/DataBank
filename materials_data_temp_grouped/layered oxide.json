@@ -1,0 +1,54 @@
+{
+  "Material": "layered oxide",
+  "DOIs_Researched": [
+    "10.1016/j.ssc.2003.11.045",
+    "10.1039/c1nr10555h",
+    "10.1016/j.jallcom.2005.08.081"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "layered oxide",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c1nr10555h"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "layered oxide",
+        "Property": "Conductivity",
+        "Value": 500000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2003.11.045"
+      },
+      {
+        "Original_Name_In_Paper": "layered oxide",
+        "Property": "Conductivity",
+        "Value": 500000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2005.08.081"
+      },
+      {
+        "Original_Name_In_Paper": "layered oxide",
+        "Property": "Seebeck",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2005.08.081"
+      },
+      {
+        "Original_Name_In_Paper": "layered oxide",
+        "Property": "Seebeck",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2003.11.045"
+      }
+    ]
+  }
+}

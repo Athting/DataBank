@@ -1,0 +1,18 @@
+{
+  "Material": "NdMo8O18",
+  "DOIs_Researched": [
+    "10.1016/j.pmatsci.2013.06.003"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "NdMo8O18",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2013.06.003"
+      }
+    ]
+  }
+}

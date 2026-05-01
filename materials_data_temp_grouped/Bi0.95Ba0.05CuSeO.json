@@ -1,0 +1,28 @@
+{
+  "Material": "Bi0.95Ba0.05CuSeO",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2016.07.003"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.95Ba0.05CuSeO",
+        "Property": "ThermCond",
+        "Value": 0.44,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2016.07.003"
+      }
+    ],
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.95Ba0.05CuSeO",
+        "Property": "ThermCond",
+        "Value": 0.27,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2016.07.003"
+      }
+    ]
+  }
+}

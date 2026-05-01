@@ -1,0 +1,84 @@
+{
+  "Material": "Bi0.88Li0.06Ca0.06CuSeO",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2020.154755"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.88Li0.06Ca0.06CuSeO",
+        "Property": "ThermCond",
+        "Value": 0.54,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154755"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.88Li0.06Ca0.06CuSeO",
+        "Property": "ThermCond",
+        "Value": 0.54,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154755"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.88Li0.06Ca0.06CuSeO",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154755"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.88Li0.06Ca0.06CuSeO",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154755"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.88Li0.06Ca0.06CuSeO",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154755"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.88Li0.06Ca0.06CuSeO",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154755"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.88Li0.06Ca0.06CuSeO",
+        "Property": "PF",
+        "Value": 0.000603,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154755"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.88Li0.06Ca0.06CuSeO",
+        "Property": "PF",
+        "Value": 0.0008039999999999999,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154755"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.88Li0.06Ca0.06CuSeO",
+        "Property": "Conductivity",
+        "Value": 28800.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154755"
+      }
+    ]
+  }
+}

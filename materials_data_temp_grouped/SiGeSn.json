@@ -1,0 +1,18 @@
+{
+  "Material": "SiGeSn",
+  "DOIs_Researched": [
+    "10.1038/s41598-019-50754-4"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "boron-implanted Si0.864Ge0.108Sn0.028 thin film",
+        "Property": "PF",
+        "Value": 0.0011300000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-019-50754-4"
+      }
+    ]
+  }
+}

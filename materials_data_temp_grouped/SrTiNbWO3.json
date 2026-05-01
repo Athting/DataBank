@@ -1,0 +1,37 @@
+{
+  "Material": "SrTiNbWO3",
+  "DOIs_Researched": [
+    "10.1016/j.rser.2018.10.006",
+    "10.1007/s40243-019-0163-y"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "Sr0.97Ti0.8Nb0.17W0.03O3",
+        "Property": "ZT",
+        "Value": 0.28,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rser.2018.10.006"
+      },
+      {
+        "Original_Name_In_Paper": "Sr0.97Ti0.8Nb0.17W0.03O3",
+        "Property": "PF",
+        "Value": 0.0005,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rser.2018.10.006"
+      }
+    ],
+    "1270.0": [
+      {
+        "Original_Name_In_Paper": "Sr0.97Ti0.8Nb0.17W0.03O3",
+        "Property": "ZT",
+        "Value": 0.28,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s40243-019-0163-y"
+      }
+    ]
+  }
+}

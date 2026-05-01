@@ -1,0 +1,18 @@
+{
+  "Material": "GeTe, BiTe, CuTe",
+  "DOIs_Researched": [
+    "10.1039/c9tc03410b"
+  ],
+  "Data_By_Temperature": {
+    "598.0": [
+      {
+        "Original_Name_In_Paper": "germanium telluride co-doped with BiTe and Cu",
+        "Property": "ZT",
+        "Value": 1.55,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc03410b"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Mn3Sn",
+  "DOIs_Researched": [
+    "10.1038/s41586-018-0853-0"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Mn3Sn crystal",
+        "Property": "Conductivity",
+        "Value": 277777.7777777778,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41586-018-0853-0"
+      }
+    ]
+  }
+}

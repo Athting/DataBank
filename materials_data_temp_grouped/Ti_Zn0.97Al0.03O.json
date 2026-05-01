@@ -1,0 +1,18 @@
+{
+  "Material": "Ti:Zn0.97Al0.03O",
+  "DOIs_Researched": [
+    "10.1016/j.jeurceramsoc.2006.04.012"
+  ],
+  "Data_By_Temperature": {
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "Ti-doped Zn0.97Al0.03\u2212yTiyO",
+        "Property": "Seebeck",
+        "Value": 0.000205,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2006.04.012"
+      }
+    ]
+  }
+}

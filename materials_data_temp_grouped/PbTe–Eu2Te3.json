@@ -1,0 +1,26 @@
+{
+  "Material": "PbTe\u2013Eu2Te3",
+  "DOIs_Researched": [
+    "10.1039/c6qi00161k"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "PbTe\u2013Eu2Te3",
+        "Property": "Seebeck",
+        "Value": 0.00031499999999999996,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6qi00161k"
+      },
+      {
+        "Original_Name_In_Paper": "PbTe\u2013Eu2Te3",
+        "Property": "Conductivity",
+        "Value": 0.022500000000000003,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6qi00161k"
+      }
+    ]
+  }
+}

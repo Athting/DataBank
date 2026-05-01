@@ -1,0 +1,18 @@
+{
+  "Material": "K3AuO",
+  "DOIs_Researched": [
+    "10.1016/j.cocom.2020.e00484"
+  ],
+  "Data_By_Temperature": {
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "p-type K3AuO",
+        "Property": "ZT",
+        "Value": 2.41,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cocom.2020.e00484"
+      }
+    ]
+  }
+}

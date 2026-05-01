@@ -1,0 +1,18 @@
+{
+  "Material": "LaOZnSb",
+  "DOIs_Researched": [
+    "10.1039/c1dt10721f"
+  ],
+  "Data_By_Temperature": {
+    "311.0": [
+      {
+        "Original_Name_In_Paper": "LaOZnSb",
+        "Property": "ZT",
+        "Value": 0.005,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c1dt10721f"
+      }
+    ]
+  }
+}

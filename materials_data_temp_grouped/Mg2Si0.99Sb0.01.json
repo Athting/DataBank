@@ -1,0 +1,47 @@
+{
+  "Material": "Mg2Si0.99Sb0.01",
+  "DOIs_Researched": [
+    "10.1007/s10854-017-6700-5",
+    "10.1016/j.actamat.2020.07.045"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Si0.99Sb0.01",
+        "Property": "ZT",
+        "Value": 0.55,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-017-6700-5"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si0.99Sb0.01",
+        "Property": "ZT",
+        "Value": 0.56,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-017-6700-5"
+      }
+    ],
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Si0.99Sb0.01",
+        "Property": "ZT",
+        "Value": 0.55,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-017-6700-5"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Mg2Si0.99Sb0.01",
+        "Property": "Seebeck",
+        "Value": -7.549999999999999e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2020.07.045"
+      }
+    ]
+  }
+}

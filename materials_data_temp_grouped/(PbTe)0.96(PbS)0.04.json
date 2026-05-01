@@ -1,0 +1,18 @@
+{
+  "Material": "(PbTe)0.96(PbS)0.04",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2012.08.041"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "(PbTe)0.96(PbS)0.04",
+        "Property": "Conductivity",
+        "Value": 172413.7931034483,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2012.08.041"
+      }
+    ]
+  }
+}

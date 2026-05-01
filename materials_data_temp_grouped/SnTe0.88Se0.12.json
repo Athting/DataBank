@@ -1,0 +1,18 @@
+{
+  "Material": "SnTe0.88Se0.12",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2019.03.031"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "SnTe0.88Se0.12",
+        "Property": "ThermCond",
+        "Value": 5.1,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2019.03.031"
+      }
+    ]
+  }
+}

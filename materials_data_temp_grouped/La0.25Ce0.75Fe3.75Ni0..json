@@ -1,0 +1,26 @@
+{
+  "Material": "La0.25Ce0.75Fe3.75Ni0.",
+  "DOIs_Researched": [
+    "10.3938/jkps.66.1862"
+  ],
+  "Data_By_Temperature": {
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "La0.25Ce0.75Fe3.75Ni0.25Sb12",
+        "Property": "ZT",
+        "Value": 0.76,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.3938/jkps.66.1862"
+      },
+      {
+        "Original_Name_In_Paper": "La0.25Ce0.75Fe3.75Ni0.25Sb12",
+        "Property": "PF",
+        "Value": 0.0029000000000000002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.3938/jkps.66.1862"
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "Material": "HfNiSn thin films",
+  "DOIs_Researched": [
+    "10.1016/j.tsf.2010.05.080"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "HfNiSn thin films",
+        "Property": "Seebeck",
+        "Value": -6.8e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2010.05.080"
+      },
+      {
+        "Original_Name_In_Paper": "HfNiSn thin films",
+        "Property": "PF",
+        "Value": 0.00013000000000000002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2010.05.080"
+      },
+      {
+        "Original_Name_In_Paper": "HfNiSn thin films",
+        "Property": "PF",
+        "Value": 0.00012000000000000002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2010.05.080"
+      }
+    ]
+  }
+}

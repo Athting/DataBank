@@ -1,0 +1,18 @@
+{
+  "Material": "PEDOT : PSS / SnS nanobelt composites",
+  "DOIs_Researched": [
+    "10.1016/j.compscitech.2017.12.028"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "PEDOT : PSS / SnS nanobelt composites",
+        "Property": "PF",
+        "Value": 2.7799999999999998e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.compscitech.2017.12.028"
+      }
+    ]
+  }
+}

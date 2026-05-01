@@ -1,0 +1,26 @@
+{
+  "Material": "CaMn1-xNxO3",
+  "DOIs_Researched": [
+    "10.1039/c9ra10007e"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "CaMn1\u2212xNbxO3",
+        "Property": "Conductivity",
+        "Value": 1250.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ra10007e"
+      },
+      {
+        "Original_Name_In_Paper": "CaMn1\u2212xNbxO3",
+        "Property": "PF",
+        "Value": 2.16e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ra10007e"
+      }
+    ]
+  }
+}

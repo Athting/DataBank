@@ -1,0 +1,86 @@
+{
+  "Material": "Pb0.833Na0.017(Zn0.85",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2020.04.182"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Pb0.833Na0.017(Zn0.85Al0.15)0.15Te-Te",
+        "Property": "ThermCond",
+        "Value": 1.6800000000000002,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2020.04.182"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.833Na0.017(Zn0.85Al0.15)0.15Te-Te",
+        "Property": "ThermCond",
+        "Value": 1.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2020.04.182"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.833Na0.017(Zn0.85Al0.15)0.15Te-Te",
+        "Property": "Seebeck",
+        "Value": 0.000187,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2020.04.182"
+      }
+    ],
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "Pb0.833Na0.017(Zn0.85Al0.15)0.15Te-Te composite",
+        "Property": "ZT",
+        "Value": 1.08,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2020.04.182"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.833Na0.017(Zn0.85Al0.15)0.15Te-Te",
+        "Property": "ZT",
+        "Value": 1.08,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2020.04.182"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.833Na0.017(Zn0.85Al0.15)0.15Te-Te",
+        "Property": "Seebeck",
+        "Value": 0.0004,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2020.04.182"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.833Na0.017(Zn0.85Al0.15)0.15Te-Te",
+        "Property": "Seebeck",
+        "Value": 0.0004,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2020.04.182"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.833Na0.017(Zn0.85Al0.15)0.15Te-Te",
+        "Property": "PF",
+        "Value": 0.00151,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2020.04.182"
+      }
+    ],
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "Pb0.833Na0.017(Zn0.85Al0.15)0.15Te-Te",
+        "Property": "PF",
+        "Value": 0.00177,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2020.04.182"
+      }
+    ]
+  }
+}

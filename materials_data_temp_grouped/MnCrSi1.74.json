@@ -1,0 +1,34 @@
+{
+  "Material": "MnCrSi1.74",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2013.07.136"
+  ],
+  "Data_By_Temperature": {
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "Mn0.95Cr0.5Si1.74",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.07.136"
+      },
+      {
+        "Original_Name_In_Paper": "Mn0.95Cr0.05Si1.74",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.07.136"
+      },
+      {
+        "Original_Name_In_Paper": "Mn0.95Cr0.05Si1.74",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.07.136"
+      }
+    ]
+  }
+}

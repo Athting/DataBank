@@ -1,0 +1,57 @@
+{
+  "Material": "HfZrTiNiSn",
+  "DOIs_Researched": [
+    "10.1038/s41598-017-14013-8",
+    "10.1016/j.jallcom.2020.155058",
+    "10.1016/j.jpcs.2018.07.012",
+    "10.1016/j.actamat.2019.01.013"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Sb-doped Hf0.25Zr0\u00b725Ti0\u00b75NiSn produced",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.155058"
+      },
+      {
+        "Original_Name_In_Paper": "Sb-doped Hf0.25Zr0.25Ti0.5NiSn",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-017-14013-8"
+      },
+      {
+        "Original_Name_In_Paper": "Sb doped Hf0.25Zr0.25Ti0.5NiSn",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2018.07.012"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Hf0.25Zr0.25Ti0.5NiSn compound",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2019.01.013"
+      }
+    ],
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "Hf0.25Zr0.25Ti0.5NiSn compound",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2019.01.013"
+      }
+    ]
+  }
+}

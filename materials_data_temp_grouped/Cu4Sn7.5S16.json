@@ -1,0 +1,18 @@
+{
+  "Material": "Cu4Sn7.5S16",
+  "DOIs_Researched": [
+    "10.1038/s41598-018-26362-z"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Cu4Sn7.5S16",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-018-26362-z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "BiSb(Se0.4Br0.6)3",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2020.155473"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "nanostructured BiSb(Se0.04Br0.06)3",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.155473"
+      }
+    ]
+  }
+}

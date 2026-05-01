@@ -1,0 +1,18 @@
+{
+  "Material": "Cu15As30Te55",
+  "DOIs_Researched": [
+    "10.1039/c3ta11159h"
+  ],
+  "Data_By_Temperature": {
+    "315.0": [
+      {
+        "Original_Name_In_Paper": "Cu15As30Te55",
+        "Property": "Seebeck",
+        "Value": 0.0009000000000000001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta11159h"
+      }
+    ]
+  }
+}

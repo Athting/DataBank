@@ -1,0 +1,28 @@
+{
+  "Material": "PbTe1\u2212ySey",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2015.02.026"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "PbTe1\u2212ySey",
+        "Property": "ZT",
+        "Value": 0.25,
+        "Units": null,
+        "Editing": "Cr doping",
+        "Source_DOI": "10.1016/j.nanoen.2015.02.026"
+      }
+    ],
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "Cr-doped PbTe1\u2212ySey",
+        "Property": "ZT",
+        "Value": 1.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2015.02.026"
+      }
+    ]
+  }
+}

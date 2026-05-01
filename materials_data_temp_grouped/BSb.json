@@ -1,0 +1,18 @@
+{
+  "Material": "BSb",
+  "DOIs_Researched": [
+    "10.1016/j.physe.2020.114222"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "BSb",
+        "Property": "ThermCond",
+        "Value": 51.3,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physe.2020.114222"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "tungsten\u2013oxygen compounds",
+  "DOIs_Researched": [
+    "10.1039/c3cp52361f"
+  ],
+  "Data_By_Temperature": {
+    "1100.0": [
+      {
+        "Original_Name_In_Paper": "tungsten\u2013oxygen compounds",
+        "Property": "ZT",
+        "Value": 0.13,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3cp52361f"
+      }
+    ]
+  }
+}

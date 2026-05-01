@@ -1,0 +1,40 @@
+{
+  "Material": "CaSi",
+  "DOIs_Researched": [
+    "10.1016/j.matpr.2018.02.060",
+    "10.1039/c6ra28125g",
+    "10.1016/j.jallcom.2018.12.037"
+  ],
+  "Data_By_Temperature": {
+    "950.0": [
+      {
+        "Original_Name_In_Paper": "CaSi",
+        "Property": "ZT",
+        "Value": 0.11,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matpr.2018.02.060"
+      }
+    ],
+    "350.0": [
+      {
+        "Original_Name_In_Paper": "Ca2Si",
+        "Property": "ZT",
+        "Value": 2e-05,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra28125g"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ca2Si",
+        "Property": "Conductivity",
+        "Value": 1.7755681818,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": "addition of Na2CO3",
+        "Source_DOI": "10.1016/j.jallcom.2018.12.037"
+      }
+    ]
+  }
+}

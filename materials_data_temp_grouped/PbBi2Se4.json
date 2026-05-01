@@ -1,0 +1,26 @@
+{
+  "Material": "PbBi2Se4",
+  "DOIs_Researched": [
+    "10.1039/c4cp01885k"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "PbBi2Se4 nanosheets",
+        "Property": "Conductivity",
+        "Value": 50000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4cp01885k"
+      },
+      {
+        "Original_Name_In_Paper": "PbBi2Se4 nanosheets",
+        "Property": "Conductivity",
+        "Value": 50000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4cp01885k"
+      }
+    ]
+  }
+}

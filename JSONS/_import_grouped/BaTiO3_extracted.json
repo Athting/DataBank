@@ -1,0 +1,90 @@
+{
+  "doi": "10.1016/j.jssc.2019.121050",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "tetragonal BaTiO 3 513",
+        "BaTiO3",
+        "La doped BaTiO3 thin film",
+        "Ba2Ti13O22"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "La doped BaTiO3 thin film",
+          "value": -0.00030000000000000003,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Ba2Ti13O22",
+          "value": -0.00000125,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "BaTiO3",
+          "value": 0.9174311927000001,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "La doped BaTiO3 thin film",
+          "value": 0.6711409396,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "BaTiO3",
+          "value": 0.0988142292,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "400.0 K"
+        },
+        {
+          "material": "Ba2Ti13O22",
+          "value": 32050,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "tetragonal BaTiO 3 513",
+          "zt_value": 2,
+          "temperature": "295 K"
+        },
+        {
+          "material": "tetragonal BaTiO 3 513",
+          "zt_value": 0.33333333330000003,
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

@@ -1,8 +1,20 @@
+const configuredApiUrl = import.meta.env.VITE_API_URL?.trim();
+
+const isLocalApiUrl = (url) =>
+  /^https?:\/\/(localhost|127\.0\.0\.1)(:\d+)?\/api\/?$/i.test(
+    String(url ?? "").trim(),
+  );
+
+const shouldUseDevProxy =
+  import.meta.env.DEV && (!configuredApiUrl || isLocalApiUrl(configuredApiUrl));
+
 const apiBaseUrl = (
-  import.meta.env.VITE_API_URL?.trim() || "http://localhost:4000/api"
+  shouldUseDevProxy
+    ? "/api"
+    : configuredApiUrl || "http://localhost:4000/api"
 ).replace(/\/$/, "");
 
-export const isApiConfigured = Boolean(import.meta.env.VITE_API_URL?.trim());
+export const isApiConfigured = Boolean(configuredApiUrl);
 
 async function requestJson(path) {
   const response = await fetch(`${apiBaseUrl}${path}`);
@@ -23,6 +35,13 @@ export async function fetchMaterials(params) {
   if (params?.category) query.set("category", params.category);
   if (params?.includeTemp) query.set("includeTemp", "true");
   if (params?.limit) query.set("limit", String(params.limit));
+  if (
+    typeof params?.skip === "number" &&
+    Number.isFinite(params.skip) &&
+    params.skip >= 0
+  ) {
+    query.set("skip", String(params.skip));
+  }
 
   const suffix = query.toString() ? `?${query.toString()}` : "";
   return requestJson(`/materials${suffix}`);

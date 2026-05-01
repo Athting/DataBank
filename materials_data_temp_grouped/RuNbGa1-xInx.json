@@ -1,0 +1,18 @@
+{
+  "Material": "RuNbGa1-xInx",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2020.156617"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ru2NbGa1-xInx",
+        "Property": "Seebeck",
+        "Value": 3.35e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.156617"
+      }
+    ]
+  }
+}

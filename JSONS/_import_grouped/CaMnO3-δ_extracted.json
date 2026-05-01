@@ -1,0 +1,168 @@
+{
+  "doi": "10.1016/j.ceramint.2018.02.130",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "CaMn0.96Ru0.04O3−δ",
+        "CaMn0.98Ru0.02O3−δ",
+        "CaMn0.96Ru0.03O3−δ",
+        "CaMnO3-δ",
+        "CaMn0.98Si0.02O3−δ",
+        "nonstoichiometric CaMnO3-δ",
+        "CaMn0.9Nb0.1O3−δ",
+        "CaMn0.95Nb0.05O3-δ",
+        "CaMn.95Nb.05O3-δ",
+        "CaMn0.98Nb0.02O3-δ",
+        "CaMn0.98Nb0.02O3−δ"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "CaMn0.98Ru0.02O3−δ",
+          "value": 0.000214,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "CaMnO3-δ",
+          "value": -0.000319,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "nonstoichiometric CaMnO3-δ",
+          "value": -0.00032,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "973.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "CaMn0.9Nb0.1O3−δ",
+          "value": 12500,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "CaMn0.9Nb0.1O3−δ",
+          "value": 12500,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "973.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "CaMn0.96Ru0.04O3−δ",
+          "value": 2.88,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "CaMn0.96Ru0.04O3−δ",
+          "value": 2.88,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "CaMnO3-δ",
+          "value": 0.019,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "700.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "CaMn0.96Ru0.04O3−δ",
+          "value": 0.000185,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "CaMn0.96Ru0.03O3−δ",
+          "value": 0.000185,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "CaMn0.95Nb0.05O3-δ",
+          "value": 0.00011899999999999999,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "CaMn0.95Nb0.05O3-δ",
+          "value": 0.00011899999999999999,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "CaMn.95Nb.05O3-δ",
+          "value": 0.00011899999999999999,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "CaMn0.98Nb0.02O3-δ",
+          "value": 0.000265,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1100.0 K"
+        },
+        {
+          "material": "CaMn0.98Nb0.02O3−δ",
+          "value": 0.000265,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1100.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "CaMn0.96Ru0.04O3−δ",
+          "zt_value": 0.000064,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "CaMn0.96Ru0.04O3−δ",
+          "zt_value": 0.000064,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "CaMn0.98Si0.02O3−δ",
+          "zt_value": 0.0128,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "CaMn0.98Si0.02O3−δ",
+          "zt_value": 0.013000000000000001,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "CaMn0.98Si0.02O3−δ",
+          "zt_value": 0.0128,
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

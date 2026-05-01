@@ -1,0 +1,27 @@
+{
+  "Material": "3 \u00d7 10 \u2212 3 K\u22121",
+  "DOIs_Researched": [
+    "10.1016/B978-0-12-803581-8.00771-2",
+    "10.1016/B978-0-44-453153-7.00070-5"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "3 \u00d7 10 \u2212 3 K\u22121",
+        "Property": "ZT",
+        "Value": 1.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-44-453153-7.00070-5"
+      },
+      {
+        "Original_Name_In_Paper": "3 \u00d7 10 \u2212 3 K\u22121",
+        "Property": "ZT",
+        "Value": 1.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-12-803581-8.00771-2"
+      }
+    ]
+  }
+}

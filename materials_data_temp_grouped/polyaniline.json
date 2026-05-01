@@ -1,0 +1,26 @@
+{
+  "Material": "polyaniline",
+  "DOIs_Researched": [
+    "10.1016/j.matlet.2011.01.014"
+  ],
+  "Data_By_Temperature": {
+    "393.0": [
+      {
+        "Original_Name_In_Paper": "HClO4-doped polyaniline without graphite",
+        "Property": "ZT",
+        "Value": 1.37,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2011.01.014"
+      },
+      {
+        "Original_Name_In_Paper": "HClO4-doped polyaniline without graphite",
+        "Property": "ZT",
+        "Value": 1.13,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2011.01.014"
+      }
+    ]
+  }
+}

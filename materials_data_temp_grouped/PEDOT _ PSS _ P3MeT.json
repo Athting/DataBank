@@ -1,0 +1,18 @@
+{
+  "Material": "PEDOT : PSS / P3MeT",
+  "DOIs_Researched": [
+    "10.1039/c4ee03297g"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "PEDOT : PSS / P3MeT",
+        "Property": "PF",
+        "Value": 5.7900000000000005e-06,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ee03297g"
+      }
+    ]
+  }
+}

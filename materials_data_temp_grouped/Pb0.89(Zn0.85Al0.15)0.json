@@ -1,0 +1,36 @@
+{
+  "Material": "Pb0.89(Zn0.85Al0.15)0",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2020.04.182"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Pb0.89(Zn0.85Al0.15)0.11Te-Te",
+        "Property": "ThermCond",
+        "Value": 0.13,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2020.04.182"
+      }
+    ],
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "Pb0.89(Zn0.85Al0.15)0.11Te-Te",
+        "Property": "Seebeck",
+        "Value": 0.0004,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2020.04.182"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.89(Zn0.85Al0.15)0.11Te-Te",
+        "Property": "PF",
+        "Value": 0.0013000000000000002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2020.04.182"
+      }
+    ]
+  }
+}

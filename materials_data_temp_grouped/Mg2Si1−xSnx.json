@@ -1,0 +1,51 @@
+{
+  "Material": "Mg2Si1\u2212xSnx",
+  "DOIs_Researched": [
+    "10.1039/c6ra04986a",
+    "10.1016/j.jssc.2008.04.020",
+    "10.1016/j.jallcom.2007.11.029",
+    "10.1016/j.mtener.2018.10.016"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "n-type Mg2Si1\u2212xSnx",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra04986a"
+      }
+    ],
+    "867.0": [
+      {
+        "Original_Name_In_Paper": "Al-doped Mg2Si1\u2212xSnx",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2007.11.029"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "n-type Mg2Si1\u2212xSnx",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtener.2018.10.016"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "bulk Mg2Si1\u2212xSnx alloy",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2008.04.020"
+      }
+    ]
+  }
+}

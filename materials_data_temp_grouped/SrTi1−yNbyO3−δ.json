@@ -1,0 +1,18 @@
+{
+  "Material": "SrTi1\u2212yNbyO3\u2212\u03b4",
+  "DOIs_Researched": [
+    "10.1039/c4ra06871h"
+  ],
+  "Data_By_Temperature": {
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "SrTi1\u2212yNbyO3\u2212\u03b4",
+        "Property": "ThermCond",
+        "Value": 3.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra06871h"
+      }
+    ]
+  }
+}

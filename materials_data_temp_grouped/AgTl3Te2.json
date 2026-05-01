@@ -1,0 +1,18 @@
+{
+  "Material": "AgTl3Te2",
+  "DOIs_Researched": [
+    "10.1557/PROC-0886-F09-07"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "silver thallium tellurides : AgTl3Te2",
+        "Property": "ThermCond",
+        "Value": 0.39,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1557/PROC-0886-F09-07"
+      }
+    ]
+  }
+}

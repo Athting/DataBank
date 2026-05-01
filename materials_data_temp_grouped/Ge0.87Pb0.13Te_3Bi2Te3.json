@@ -1,0 +1,35 @@
+{
+  "Material": "Ge0.87Pb0.13Te_3Bi2Te3",
+  "DOIs_Researched": [
+    "10.1039/c5qi00230c",
+    "10.1007/s10853-020-04949-0"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "3 mol % Bi2Te3 doped Ge0.87Pb0.13Te",
+        "Property": "ZT",
+        "Value": 1.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5qi00230c"
+      },
+      {
+        "Original_Name_In_Paper": "3 mol % Bi2Te3-doped Ge0.87Pb0.13Te",
+        "Property": "ZT",
+        "Value": 1.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      },
+      {
+        "Original_Name_In_Paper": "3 mol % Bi2Te3-doped Ge0.87Pb0.13Te",
+        "Property": "PF",
+        "Value": 0.0035,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      }
+    ]
+  }
+}

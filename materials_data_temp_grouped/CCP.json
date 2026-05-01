@@ -1,0 +1,18 @@
+{
+  "Material": "CCP",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2019.10.271"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "CCP",
+        "Property": "Seebeck",
+        "Value": 0.00055,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2019.10.271"
+      }
+    ]
+  }
+}

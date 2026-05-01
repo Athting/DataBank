@@ -1,0 +1,57 @@
+{
+  "Material": "BiCl3",
+  "DOIs_Researched": [
+    "10.1016/j.pmatsci.2018.04.005",
+    "10.1016/j.jallcom.2013.10.185",
+    "10.1039/c3ta11264k",
+    "10.1016/j.apsusc.2018.07.190"
+  ],
+  "Data_By_Temperature": {
+    "793.0": [
+      {
+        "Original_Name_In_Paper": "BiCl3",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2018.07.190"
+      },
+      {
+        "Original_Name_In_Paper": "0.4 % BiCl3",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": "doping with 0.4 % BiCl3",
+        "Source_DOI": "10.1016/j.pmatsci.2018.04.005"
+      },
+      {
+        "Original_Name_In_Paper": "BiCl3",
+        "Property": "PF",
+        "Value": 0.0005,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2018.07.190"
+      }
+    ],
+    "760.0": [
+      {
+        "Original_Name_In_Paper": "BiCl3 lead",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta11264k"
+      }
+    ],
+    "675.0": [
+      {
+        "Original_Name_In_Paper": "1.0 mol % BiCl3",
+        "Property": "PF",
+        "Value": 0.00047589999999999997,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.10.185"
+      }
+    ]
+  }
+}

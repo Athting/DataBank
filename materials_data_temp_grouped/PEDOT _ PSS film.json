@@ -1,0 +1,18 @@
+{
+  "Material": "PEDOT / PSS film",
+  "DOIs_Researched": [
+    "10.1039/c4tc01593b"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "PEDOT / PSS film",
+        "Property": "Conductivity",
+        "Value": 25.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4tc01593b"
+      }
+    ]
+  }
+}

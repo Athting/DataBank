@@ -1,0 +1,34 @@
+{
+  "Material": "Sm0.6La0.4BaCuFeO5",
+  "DOIs_Researched": [
+    "10.1016/j.materresbull.2014.10.046"
+  ],
+  "Data_By_Temperature": {
+    "1023.0": [
+      {
+        "Original_Name_In_Paper": "Sm0.6La0.4BaCuFeO5",
+        "Property": "ZT",
+        "Value": 0.042,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2014.10.046"
+      },
+      {
+        "Original_Name_In_Paper": "Sm0.6La0.4BaCuFeO5",
+        "Property": "ZT",
+        "Value": 0.042,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2014.10.046"
+      },
+      {
+        "Original_Name_In_Paper": "Sm0.6La0.4BaCuFeO5",
+        "Property": "ZT",
+        "Value": 0.042,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2014.10.046"
+      }
+    ]
+  }
+}

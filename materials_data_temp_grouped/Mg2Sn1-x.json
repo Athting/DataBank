@@ -1,0 +1,18 @@
+{
+  "Material": "Mg2Sn1-x",
+  "DOIs_Researched": [
+    "10.1039/c5ee02600h"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Mg2Sn1\u2212x",
+        "Property": "ThermCond",
+        "Value": 4.96,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ee02600h"
+      }
+    ]
+  }
+}

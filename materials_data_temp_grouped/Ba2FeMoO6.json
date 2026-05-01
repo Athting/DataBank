@@ -1,0 +1,45 @@
+{
+  "Material": "Ba2FeMoO6",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2017.04.180",
+    "10.1016/j.jeurceramsoc.2014.06.032"
+  ],
+  "Data_By_Temperature": {
+    "200.0": [
+      {
+        "Original_Name_In_Paper": "Ba2FeMoO6",
+        "Property": "ZT",
+        "Value": 0.998,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.04.180"
+      },
+      {
+        "Original_Name_In_Paper": "Ba2FeMoO6showed",
+        "Property": "ZT",
+        "Value": 0.998,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.04.180"
+      },
+      {
+        "Original_Name_In_Paper": "Ba2FeMoO6",
+        "Property": "ZT",
+        "Value": 0.998,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.04.180"
+      }
+    ],
+    "1123.0": [
+      {
+        "Original_Name_In_Paper": "Ba2FeMoO6",
+        "Property": "Conductivity",
+        "Value": 20000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2014.06.032"
+      }
+    ]
+  }
+}

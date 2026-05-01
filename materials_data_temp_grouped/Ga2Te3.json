@@ -1,0 +1,112 @@
+{
+  "Material": "Ga2Te3",
+  "DOIs_Researched": [
+    "10.1039/c4nr02765e",
+    "10.1016/j.energy.2017.12.063",
+    "10.1039/c4ra04463k",
+    "10.1039/c6ta06033a",
+    "10.1016/j.intermet.2007.05.004"
+  ],
+  "Data_By_Temperature": {
+    "298.15": [
+      {
+        "Original_Name_In_Paper": "Ga2Te3",
+        "Property": "ThermCond",
+        "Value": 1.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.energy.2017.12.063"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ga2Te3",
+        "Property": "ThermCond",
+        "Value": 0.6000000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta06033a"
+      }
+    ],
+    "498.0": [
+      {
+        "Original_Name_In_Paper": "Ga2Te3 bulk",
+        "Property": "ThermCond",
+        "Value": 0.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4nr02765e"
+      }
+    ],
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "Ga2Te3",
+        "Property": "ThermCond",
+        "Value": 0.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra04463k"
+      },
+      {
+        "Original_Name_In_Paper": "undoped Ga2Te3",
+        "Property": "ZT",
+        "Value": 0.16,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra04463k"
+      },
+      {
+        "Original_Name_In_Paper": "Ga2Te3",
+        "Property": "Conductivity",
+        "Value": 103.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra04463k"
+      }
+    ],
+    "335.5": [
+      {
+        "Original_Name_In_Paper": "Ga2Te3",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2007.05.004"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ga2Te3 bulk",
+        "Property": "Seebeck",
+        "Value": 0.0008,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4nr02765e"
+      },
+      {
+        "Original_Name_In_Paper": "Ga2Te3 bulk",
+        "Property": "PF",
+        "Value": 3.2e-07,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4nr02765e"
+      },
+      {
+        "Original_Name_In_Paper": "Ga2Te3 bulk",
+        "Property": "Conductivity",
+        "Value": 0.5,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4nr02765e"
+      },
+      {
+        "Original_Name_In_Paper": "Ga2Te3 films",
+        "Property": "Conductivity",
+        "Value": 0.5,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4nr02765e"
+      }
+    ]
+  }
+}

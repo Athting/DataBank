@@ -1,0 +1,27 @@
+{
+  "Material": "Mg2Si0.3925Sn0.6Sb0.00",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2014.02.040",
+    "10.1016/j.actamat.2015.04.059"
+  ],
+  "Data_By_Temperature": {
+    "803.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Si0.3925Sn0.6Sb0.0075",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.02.040"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si0.3925Sn0.6Sb0.0075",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2015.04.059"
+      }
+    ]
+  }
+}

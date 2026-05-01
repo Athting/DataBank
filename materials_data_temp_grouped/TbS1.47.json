@@ -1,0 +1,18 @@
+{
+  "Material": "TbS1.47",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2007.04.078"
+  ],
+  "Data_By_Temperature": {
+    "1673.0": [
+      {
+        "Original_Name_In_Paper": "TbS1.47",
+        "Property": "ThermCond",
+        "Value": 0.66,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2007.04.078"
+      }
+    ]
+  }
+}

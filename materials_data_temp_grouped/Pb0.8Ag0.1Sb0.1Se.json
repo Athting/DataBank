@@ -1,0 +1,28 @@
+{
+  "Material": "Pb0.8Ag0.1Sb0.1Se",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2020.105232"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Pb0.8Ag0.1Sb0.1Se",
+        "Property": "ThermCond",
+        "Value": 0.6000000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.105232"
+      }
+    ],
+    "858.0": [
+      {
+        "Original_Name_In_Paper": "n-type Pb0.8Ag0.1Sb0.1Se",
+        "Property": "ZT",
+        "Value": 1.65,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.105232"
+      }
+    ]
+  }
+}

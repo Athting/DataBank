@@ -1,0 +1,18 @@
+{
+  "Material": "Ca3Co3.2Cu0.8O9",
+  "DOIs_Researched": [
+    "10.1039/c2dt31346d"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ca3Co3.2Cu0.8O9",
+        "Property": "PF",
+        "Value": 0.000252,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2dt31346d"
+      }
+    ]
+  }
+}

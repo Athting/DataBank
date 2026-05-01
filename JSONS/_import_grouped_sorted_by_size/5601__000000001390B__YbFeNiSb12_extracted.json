@@ -1,0 +1,62 @@
+{
+  "doi": "10.1016/j.actamat.2011.12.022",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Yb0.95Fe3.5Ni0.5Sb12",
+        "Yb0.77Fe3NiSb12"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Yb0.95Fe3.5Ni0.5Sb12",
+          "value": 0.0017000000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Yb0.95Fe3.5Ni0.5Sb12",
+          "zt_value": 0.6000000000000001,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "Yb0.77Fe3NiSb12",
+          "zt_value": 0.73,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "Yb0.77Fe3NiSb12",
+          "zt_value": 0.73,
+          "temperature": "600.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

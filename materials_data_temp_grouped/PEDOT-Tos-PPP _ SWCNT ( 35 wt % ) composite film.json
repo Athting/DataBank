@@ -1,0 +1,26 @@
+{
+  "Material": "PEDOT-Tos-PPP / SWCNT ( 35 wt % ) composite film",
+  "DOIs_Researched": [
+    "10.1016/j.synthmet.2016.11.031"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "PEDOT-Tos-PPP / SWCNT ( 35 wt % ) composite film",
+        "Property": "ThermCond",
+        "Value": 0.495,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.synthmet.2016.11.031"
+      },
+      {
+        "Original_Name_In_Paper": "PEDOT-Tos-PPP / SWCNT ( 35 wt % ) composite film",
+        "Property": "PF",
+        "Value": 3.78e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.synthmet.2016.11.031"
+      }
+    ]
+  }
+}

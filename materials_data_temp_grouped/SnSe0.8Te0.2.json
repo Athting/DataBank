@@ -1,0 +1,39 @@
+{
+  "Material": "SnSe0.8Te0.2",
+  "DOIs_Researched": [
+    "10.1039/c5cp05510e",
+    "10.1016/j.cclet.2020.04.046"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "SnSe0.8Te0.2",
+        "Property": "ThermCond",
+        "Value": 0.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5cp05510e"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "SnSe0.8Te0.2",
+        "Property": "PF",
+        "Value": 0.000459,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cclet.2020.04.046"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "SnSe0.8Te0.2",
+        "Property": "Conductivity",
+        "Value": 9840.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cclet.2020.04.046"
+      }
+    ]
+  }
+}

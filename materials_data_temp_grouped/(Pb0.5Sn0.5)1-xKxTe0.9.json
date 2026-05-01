@@ -1,0 +1,18 @@
+{
+  "Material": "(Pb0.5Sn0.5)1-xKxTe0.9",
+  "DOIs_Researched": [
+    "10.1007/s13391-019-00130-1"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "(Pb0.5Sn0.5)1-xKxTe0.95Se0.05",
+        "Property": "Conductivity",
+        "Value": 290600.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s13391-019-00130-1"
+      }
+    ]
+  }
+}

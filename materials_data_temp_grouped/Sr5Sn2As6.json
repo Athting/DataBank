@@ -1,0 +1,18 @@
+{
+  "Material": "Sr5Sn2As6",
+  "DOIs_Researched": [
+    "10.1039/c4ta02452d"
+  ],
+  "Data_By_Temperature": {
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "pure Sr5Sn2As6",
+        "Property": "Seebeck",
+        "Value": 0.000248,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta02452d"
+      }
+    ]
+  }
+}

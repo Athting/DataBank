@@ -1,0 +1,105 @@
+{
+  "Material": "Fe2VAl",
+  "DOIs_Researched": [
+    "10.1557/jmr.2016.105",
+    "10.1016/j.jmmm.2019.01.100",
+    "10.1016/j.elspec.2011.03.001",
+    "10.1016/j.progsolidstchem.2011.02.001",
+    "10.1016/j.jallcom.2014.05.137",
+    "10.1016/j.actamat.2020.09.067",
+    "10.1016/j.mtphys.2020.100203",
+    "10.1016/j.jallcom.2009.05.032"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Fe2VAl",
+        "Property": "ThermCond",
+        "Value": 4.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2020.09.067"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Fe2VAl",
+        "Property": "ThermCond",
+        "Value": 28.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.05.137"
+      },
+      {
+        "Original_Name_In_Paper": "Fe2VAl",
+        "Property": "Seebeck",
+        "Value": 2.4999999999999998e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.progsolidstchem.2011.02.001"
+      },
+      {
+        "Original_Name_In_Paper": "Fe2VAl",
+        "Property": "Seebeck",
+        "Value": 40.0,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.05.032"
+      }
+    ],
+    "309.0": [
+      {
+        "Original_Name_In_Paper": "Fe2VAl",
+        "Property": "ZT",
+        "Value": 0.00219,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.05.137"
+      },
+      {
+        "Original_Name_In_Paper": "Fe2VAl",
+        "Property": "PF",
+        "Value": 9.96e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.05.137"
+      }
+    ],
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "Fe2VAl",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2020.100203"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Fe2VAl",
+        "Property": "Seebeck",
+        "Value": 3.5e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmmm.2019.01.100"
+      },
+      {
+        "Original_Name_In_Paper": "Fe2VAl",
+        "Property": "Seebeck",
+        "Value": 3.0000000000000004e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.elspec.2011.03.001"
+      },
+      {
+        "Original_Name_In_Paper": "Fe2VAl",
+        "Property": "Seebeck",
+        "Value": -0.00013000000000000002,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1557/jmr.2016.105"
+      }
+    ]
+  }
+}

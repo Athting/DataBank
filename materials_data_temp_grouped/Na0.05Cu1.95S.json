@@ -1,0 +1,18 @@
+{
+  "Material": "Na0.05Cu1.95S",
+  "DOIs_Researched": [
+    "10.1007/s11581-017-2299-z"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Na0.05Cu1.95S",
+        "Property": "Conductivity",
+        "Value": 6000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11581-017-2299-z"
+      }
+    ]
+  }
+}

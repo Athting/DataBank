@@ -1,0 +1,37 @@
+{
+  "Material": "La2Ti2O7",
+  "DOIs_Researched": [
+    "10.1039/c4ra13945c",
+    "10.1007/s10853-020-04949-0"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "La2Ti2O7",
+        "Property": "ThermCond",
+        "Value": 0.37,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra13945c"
+      },
+      {
+        "Original_Name_In_Paper": "La2Ti2O7",
+        "Property": "Conductivity",
+        "Value": 985.2216748768,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra13945c"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "n-type La2Ti2O7 materials",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      }
+    ]
+  }
+}

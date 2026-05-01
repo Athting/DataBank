@@ -1,0 +1,18 @@
+{
+  "Material": "Gd-doped CMO",
+  "DOIs_Researched": [
+    "10.1038/npjcompumats.2016.23"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "Gd-doped CMO",
+        "Property": "ThermCond",
+        "Value": 1.1,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/npjcompumats.2016.23"
+      }
+    ]
+  }
+}

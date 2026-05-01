@@ -1,0 +1,18 @@
+{
+  "Material": "Yb14Mn0.6Zn0.4Sb11",
+  "DOIs_Researched": [
+    "10.1007/s10854-012-0820-8"
+  ],
+  "Data_By_Temperature": {
+    "1275.0": [
+      {
+        "Original_Name_In_Paper": "Yb14Mn0.6 Zn0.4Sb11",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-012-0820-8"
+      }
+    ]
+  }
+}

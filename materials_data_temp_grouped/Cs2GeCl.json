@@ -1,0 +1,18 @@
+{
+  "Material": "Cs2GeCl",
+  "DOIs_Researched": [
+    "10.1016/j.mssp.2020.105009"
+  ],
+  "Data_By_Temperature": {
+    "50.0": [
+      {
+        "Original_Name_In_Paper": "Cs2GeCl",
+        "Property": "Conductivity",
+        "Value": 4.5e+17,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2020.105009"
+      }
+    ]
+  }
+}

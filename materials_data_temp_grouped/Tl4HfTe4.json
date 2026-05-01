@@ -1,0 +1,18 @@
+{
+  "Material": "Tl4HfTe4",
+  "DOIs_Researched": [
+    "10.1039/c0jm01363c"
+  ],
+  "Data_By_Temperature": {
+    "370.0": [
+      {
+        "Original_Name_In_Paper": "Tl4HfTe4",
+        "Property": "ZT",
+        "Value": 0.05,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c0jm01363c"
+      }
+    ]
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "doi": "10.1039/c6qi00263c",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Sn0.97Bi0.03Te–5 % PbTe",
+        "Sn0.97Bi0.03Te",
+        "Sn0.97Bi0.03Te–4 % PbTe",
+        "Sn0.97Bi0.03Te sample without SrTe",
+        "Sn0.97Bi0.03Te–3 % PbTe"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "Sn0.97Bi0.03Te",
+          "value": 0.00017,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "Sn0.97Bi0.03Te–3 % PbTe",
+          "value": 0.0002,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "900.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Sn0.97Bi0.03Te–5 % PbTe",
+          "value": 6,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Sn0.97Bi0.03Te",
+          "value": 4.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Sn0.97Bi0.03Te",
+          "value": 2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Sn0.97Bi0.03Te–4 % PbTe",
+          "value": 0.6000000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "400.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Sn0.97Bi0.03Te",
+          "value": 0.002,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "Sn0.97Bi0.03Te–3 % PbTe",
+          "value": 0.0025,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "900.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Sn0.97Bi0.03Te sample without SrTe",
+          "zt_value": 0.9,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "Sn0.97Bi0.03Te–3 % PbTe",
+          "zt_value": 1.1,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "Sn0.97Bi0.03Te–3 % PbTe",
+          "zt_value": 1.1,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "Sn0.97Bi0.03Te–3 % PbTe",
+          "zt_value": 1.1,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "Sn0.97Bi0.03Te–3 % PbTe",
+          "zt_value": 1.1,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "Sn0.97Bi0.03Te–3 % PbTe",
+          "zt_value": 0.52,
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

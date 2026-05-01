@@ -1,0 +1,37 @@
+{
+  "Material": "PbBiTe",
+  "DOIs_Researched": [
+    "10.1039/c8dt03387k",
+    "10.1007/s10853-020-04949-0"
+  ],
+  "Data_By_Temperature": {
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "Pb0.98Bi0.02Te",
+        "Property": "ZT",
+        "Value": 0.62,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8dt03387k"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.98Bi0.02Te",
+        "Property": "ZT",
+        "Value": 0.62,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8dt03387k"
+      }
+    ],
+    "675.0": [
+      {
+        "Original_Name_In_Paper": "Pb0.99Bi0.01Te",
+        "Property": "ZT",
+        "Value": 1.35,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      }
+    ]
+  }
+}

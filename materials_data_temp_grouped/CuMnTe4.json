@@ -1,0 +1,36 @@
+{
+  "Material": "CuMnTe4",
+  "DOIs_Researched": [
+    "10.1039/c7dt03223d"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Cu4Mn2Te4",
+        "Property": "ThermCond",
+        "Value": 2.07,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7dt03223d"
+      },
+      {
+        "Original_Name_In_Paper": "un-doped Cu4Mn2Te4",
+        "Property": "PF",
+        "Value": 0.002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7dt03223d"
+      }
+    ],
+    "720.0": [
+      {
+        "Original_Name_In_Paper": "pristine Cu4Mn2Te4",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7dt03223d"
+      }
+    ]
+  }
+}

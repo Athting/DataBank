@@ -1,0 +1,18 @@
+{
+  "Material": "AgBr",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2020.156677"
+  ],
+  "Data_By_Temperature": {
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "AgBr",
+        "Property": "ThermCond",
+        "Value": 0.6000000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.156677"
+      }
+    ]
+  }
+}

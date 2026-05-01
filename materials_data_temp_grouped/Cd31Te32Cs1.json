@@ -1,0 +1,18 @@
+{
+  "Material": "Cd31Te32Cs1",
+  "DOIs_Researched": [
+    "10.1016/j.jpcs.2015.05.008"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "Cd31Te32Cs1",
+        "Property": "Seebeck",
+        "Value": 0.00029499999999999996,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2015.05.008"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Yb0.2Co4Sb12, Bi0.4Sb1.",
+  "DOIs_Researched": [
+    "10.1016/j.intermet.2016.06.007"
+  ],
+  "Data_By_Temperature": {
+    "650.0": [
+      {
+        "Original_Name_In_Paper": "Yb0.2Co4Sb12-2 wt % Bi0.4Sb1.6Te3",
+        "Property": "ZT",
+        "Value": 0.96,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2016.06.007"
+      }
+    ]
+  }
+}

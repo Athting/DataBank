@@ -1,0 +1,18 @@
+{
+  "Material": "p-type TaRhSn",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2017.08.046"
+  ],
+  "Data_By_Temperature": {
+    "1100.0": [
+      {
+        "Original_Name_In_Paper": "p-type TaRhSn",
+        "Property": "ZT",
+        "Value": 0.55,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2017.08.046"
+      }
+    ]
+  }
+}

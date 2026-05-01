@@ -1,0 +1,18 @@
+{
+  "Material": "Cu2Se nanomaterials produced",
+  "DOIs_Researched": [
+    "10.1039/c7ee01193h"
+  ],
+  "Data_By_Temperature": {
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "Cu2Se nanomaterials produced",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ee01193h"
+      }
+    ]
+  }
+}

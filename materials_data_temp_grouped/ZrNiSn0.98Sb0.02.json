@@ -1,0 +1,53 @@
+{
+  "Material": "ZrNiSn0.98Sb0.02",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2006.02.075",
+    "10.1016/j.mseb.2009.10.021"
+  ],
+  "Data_By_Temperature": {
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "ZrNiSn0.98Sb0.02",
+        "Property": "ZT",
+        "Value": 0.67,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mseb.2009.10.021"
+      },
+      {
+        "Original_Name_In_Paper": "ZrNiSn0.98Sb0.02",
+        "Property": "ZT",
+        "Value": 0.67,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mseb.2009.10.021"
+      },
+      {
+        "Original_Name_In_Paper": "ZrNiSn0.98Sb0.02",
+        "Property": "ZT",
+        "Value": 0.28,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2006.02.075"
+      },
+      {
+        "Original_Name_In_Paper": "ZrNiSn0.98Sb0.02",
+        "Property": "ZT",
+        "Value": 0.28,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2006.02.075"
+      }
+    ],
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "ZrNiSn0.98Sb0.02",
+        "Property": "PF",
+        "Value": 0.007,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mseb.2009.10.021"
+      }
+    ]
+  }
+}

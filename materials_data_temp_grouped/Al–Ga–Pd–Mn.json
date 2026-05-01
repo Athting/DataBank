@@ -1,0 +1,18 @@
+{
+  "Material": "Al\u2013Ga\u2013Pd\u2013Mn",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2015.08.081"
+  ],
+  "Data_By_Temperature": {
+    "473.0": [
+      {
+        "Original_Name_In_Paper": "Al\u2013Ga\u2013Pd\u2013Mn",
+        "Property": "ZT",
+        "Value": 0.26,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.08.081"
+      }
+    ]
+  }
+}

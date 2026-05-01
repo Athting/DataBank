@@ -1,0 +1,18 @@
+{
+  "Material": "Bi0.86Li0.08Ca0.08CuSeO",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2020.154755"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Bi0.86Li0.08Ca0.08CuSeO",
+        "Property": "PF",
+        "Value": 0.0008039999999999999,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154755"
+      }
+    ]
+  }
+}

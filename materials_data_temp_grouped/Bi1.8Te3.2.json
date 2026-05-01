@@ -1,0 +1,29 @@
+{
+  "Material": "Bi1.8Te3.2",
+  "DOIs_Researched": [
+    "10.1557/mrs.2018.9",
+    "10.1016/j.jpcs.2007.05.021"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Bi1.8Te3.2",
+        "Property": "ZT",
+        "Value": 0.66,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2007.05.021"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Bi1.8Te3.2",
+        "Property": "ZT",
+        "Value": 0.135,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1557/mrs.2018.9"
+      }
+    ]
+  }
+}

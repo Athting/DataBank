@@ -1,0 +1,18 @@
+{
+  "Material": "La0.5K0.5Ti1\u2212zNzO3",
+  "DOIs_Researched": [
+    "10.1039/c8ta03739f"
+  ],
+  "Data_By_Temperature": {
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "La0.5K0.5Ti1\u2212zNbzO3",
+        "Property": "PF",
+        "Value": 0.00039000000000000005,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta03739f"
+      }
+    ]
+  }
+}

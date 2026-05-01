@@ -1,0 +1,18 @@
+{
+  "Material": "Ga-Sb",
+  "DOIs_Researched": [
+    "10.1039/c8qi00703a"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ga\u2013Sb",
+        "Property": "Seebeck",
+        "Value": 0.00012000000000000002,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8qi00703a"
+      }
+    ]
+  }
+}

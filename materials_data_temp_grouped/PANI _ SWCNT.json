@@ -1,0 +1,18 @@
+{
+  "Material": "PANI / SWCNT",
+  "DOIs_Researched": [
+    "10.1016/j.synthmet.2016.11.031"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "PANI / SWCNT",
+        "Property": "PF",
+        "Value": 0.000176,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.synthmet.2016.11.031"
+      }
+    ]
+  }
+}

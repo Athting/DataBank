@@ -1,0 +1,64 @@
+{
+  "Material": "Sn0.96Zn0.08Te",
+  "DOIs_Researched": [
+    "10.1016/j.mtphys.2019.100158"
+  ],
+  "Data_By_Temperature": {
+    "840.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.96Zn0.08Te",
+        "Property": "ThermCond",
+        "Value": 1.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2019.100158"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.96Zn0.08Te",
+        "Property": "ZT",
+        "Value": 1.49,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2019.100158"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Sn0.96Zn0.08Te",
+        "Property": "ZT",
+        "Value": 0.28,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2019.100158"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.96Zn0.08Te",
+        "Property": "Seebeck",
+        "Value": 0.000127,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2019.100158"
+      }
+    ],
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.96Zn0.08Te",
+        "Property": "ZT",
+        "Value": 1.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2019.100158"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.96Zn0.08Te",
+        "Property": "PF",
+        "Value": 0.0034000000000000002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2019.100158"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Fe film",
+  "DOIs_Researched": [
+    "10.1016/j.apsusc.2004.05.037"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Fe film",
+        "Property": "Conductivity",
+        "Value": 1720874.2040956805,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2004.05.037"
+      }
+    ]
+  }
+}

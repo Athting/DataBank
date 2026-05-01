@@ -1,0 +1,18 @@
+{
+  "Material": "Zn4Sb3 / Cu3SbSe4",
+  "DOIs_Researched": [
+    "10.1016/j.mtener.2017.02.005"
+  ],
+  "Data_By_Temperature": {
+    "648.0": [
+      {
+        "Original_Name_In_Paper": "Zn4Sb3 / Cu3SbSe4 nano-composites",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtener.2017.02.005"
+      }
+    ]
+  }
+}

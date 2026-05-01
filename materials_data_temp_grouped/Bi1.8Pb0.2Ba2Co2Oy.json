@@ -1,0 +1,18 @@
+{
+  "Material": "Bi1.8Pb0.2Ba2Co2Oy",
+  "DOIs_Researched": [
+    "10.1016/j.jeurceramsoc.2015.09.034"
+  ],
+  "Data_By_Temperature": {
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "Bi1.8Pb0.2Ba2Co2Oy materials",
+        "Property": "Seebeck",
+        "Value": 0.00012000000000000002,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2015.09.034"
+      }
+    ]
+  }
+}

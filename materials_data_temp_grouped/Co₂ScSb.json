@@ -1,0 +1,18 @@
+{
+  "Material": "Co\u2082ScSb",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2020.121178"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Co2ScSb",
+        "Property": "Seebeck",
+        "Value": 6.42e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2020.121178"
+      }
+    ]
+  }
+}

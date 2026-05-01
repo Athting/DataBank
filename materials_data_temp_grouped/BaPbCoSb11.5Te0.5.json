@@ -1,0 +1,28 @@
+{
+  "Material": "BaPbCoSb11.5Te0.5",
+  "DOIs_Researched": [
+    "10.1016/j.matlet.2011.02.062"
+  ],
+  "Data_By_Temperature": {
+    "730.0": [
+      {
+        "Original_Name_In_Paper": "Ba0.25Pb0.05Co4Sb11.5Te0.5",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2011.02.062"
+      }
+    ],
+    "320.0": [
+      {
+        "Original_Name_In_Paper": "Ba0.25Pb0.05Co4Sb11.5Te0.5",
+        "Property": "Conductivity",
+        "Value": 49751.2437810945,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2011.02.062"
+      }
+    ]
+  }
+}

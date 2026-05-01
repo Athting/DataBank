@@ -1,0 +1,63 @@
+{
+  "doi": "10.1016/j.rser.2018.10.006",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Sr0.8La0.067Ti0.8Nb0.2O3-δ",
+        "Sr0.8La0.067Ti0.8Nb0.2O3−δ",
+        "polycrystalline Sr0.8La0.067Ti0.8Nb0.2O3−δ"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Sr0.8La0.067Ti0.8Nb0.2O3-δ",
+          "value": 3,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1000.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Sr0.8La0.067Ti0.8Nb0.2O3−δ",
+          "zt_value": 0.25,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Sr0.8La0.067Ti0.8Nb0.2O3−δ",
+          "zt_value": 0.34500000000000003,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "polycrystalline Sr0.8La0.067Ti0.8Nb0.2O3−δ",
+          "zt_value": 1,
+          "temperature": "960.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

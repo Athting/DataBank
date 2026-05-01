@@ -1,0 +1,26 @@
+{
+  "Material": "CaLaBiMnO3\u2212\u03b4",
+  "DOIs_Researched": [
+    "10.1016/j.ijhydene.2015.09.017"
+  ],
+  "Data_By_Temperature": {
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "Ca0.9La0.05Bi0.05MnO3\u2212\u03b4",
+        "Property": "PF",
+        "Value": 0.000301,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ijhydene.2015.09.017"
+      },
+      {
+        "Original_Name_In_Paper": "Ca0.9La0.05Bi0.05MnO3\u2212\u03b4",
+        "Property": "PF",
+        "Value": 0.000301,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ijhydene.2015.09.017"
+      }
+    ]
+  }
+}

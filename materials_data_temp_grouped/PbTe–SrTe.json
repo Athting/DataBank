@@ -1,0 +1,138 @@
+{
+  "Material": "PbTe\u2013SrTe",
+  "DOIs_Researched": [
+    "10.1038/s41586-019-1751-9",
+    "10.1016/j.jeurceramsoc.2014.09.015",
+    "10.1007/s10853-013-7569-1",
+    "10.1038/s41524-019-0197-9",
+    "10.1038/nature11439",
+    "10.1039/c3cp50918d",
+    "10.1039/c3ee40482j",
+    "10.1016/j.intermet.2014.06.014",
+    "10.1039/c5cp05213k",
+    "10.1039/c6tc01115b",
+    "10.1038/ncomms12167",
+    "10.1016/j.enconman.2015.10.052",
+    "10.1016/j.mattod.2013.05.004"
+  ],
+  "Data_By_Temperature": {
+    "915.0": [
+      {
+        "Original_Name_In_Paper": "PbTe\u2013SrTe(4 mol % ) doped with 2 mol % Na",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/nature11439"
+      },
+      {
+        "Original_Name_In_Paper": "PbTe\u2013SrTe ( 4 mol % ) doped with 2 % Na",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41524-019-0197-9"
+      },
+      {
+        "Original_Name_In_Paper": "PbTe\u2013SrTe",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2014.06.014"
+      },
+      {
+        "Original_Name_In_Paper": "PbTe\u2013SrTe",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ee40482j"
+      },
+      {
+        "Original_Name_In_Paper": "PbTe\u2013SrTe compound",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5cp05213k"
+      },
+      {
+        "Original_Name_In_Paper": "PbTe\u2013SrTe ( 4 mol % ) doped with 2 mol % Na",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.enconman.2015.10.052"
+      },
+      {
+        "Original_Name_In_Paper": "PbTe\u2013SrTe compound",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3cp50918d"
+      },
+      {
+        "Original_Name_In_Paper": "PbTe\u2013SrTe ( 4 mol % ) doped with 2 mol % Na",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mattod.2013.05.004"
+      },
+      {
+        "Original_Name_In_Paper": "PbTe\u2013SrTe compound",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6tc01115b"
+      },
+      {
+        "Original_Name_In_Paper": "Na doped PbTe\u2013SrTe",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2014.09.015"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "p-type PbTe\u2013SrTe",
+        "Property": "ZT",
+        "Value": 2.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41586-019-1751-9"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "PbTe\u2013SrTe",
+        "Property": "ZT",
+        "Value": 2.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/ncomms12167"
+      },
+      {
+        "Original_Name_In_Paper": "p-type polycrystalline PbTe\u2013SrTe",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mattod.2013.05.004"
+      },
+      {
+        "Original_Name_In_Paper": "PbTe\u2013SrTe",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": "point defects",
+        "Source_DOI": "10.1007/s10853-013-7569-1"
+      }
+    ]
+  }
+}

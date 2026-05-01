@@ -1,0 +1,134 @@
+{
+  "doi": "10.1016/j.nanoen.2017.10.042",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Cu1.97S",
+        "Cu1.97S1",
+        "copper sulfides Cu1.97S"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Cu1.97S",
+          "value": 0.6000000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "307.0 K"
+        },
+        {
+          "material": "Cu1.97S",
+          "value": 0.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Cu1.97S",
+          "value": 0.35000000000000003,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Cu1.97S",
+          "value": 0.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Cu1.97S1",
+          "value": 0.0011200000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Cu1.97S",
+          "value": 0.0008,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1000.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Cu1.97S",
+          "zt_value": 1.7000000000000002,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Cu1.97S",
+          "zt_value": 1.7000000000000002,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Cu1.97S",
+          "zt_value": 1.7000000000000002,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Cu1.97S",
+          "zt_value": 0.63,
+          "temperature": "966.0 K"
+        },
+        {
+          "material": "Cu1.97S",
+          "zt_value": 0.63,
+          "temperature": "966.0 K"
+        },
+        {
+          "material": "Cu1.97S",
+          "zt_value": 1.7000000000000002,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "copper sulfides Cu1.97S",
+          "zt_value": 1.9,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Cu1.97S",
+          "zt_value": 0.03,
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "Cu1.97S",
+          "zt_value": 1,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "Cu1.97S",
+          "zt_value": 1.9,
+          "temperature": "970.0 K"
+        },
+        {
+          "material": "Cu1.97S",
+          "zt_value": 1.9,
+          "temperature": "970.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

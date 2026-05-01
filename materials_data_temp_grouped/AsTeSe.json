@@ -1,0 +1,28 @@
+{
+  "Material": "AsTeSe",
+  "DOIs_Researched": [
+    "10.1007/s10853-018-2389-y"
+  ],
+  "Data_By_Temperature": {
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "As0.005Te0.895Se0.1",
+        "Property": "ThermCond",
+        "Value": 0.30000000000000004,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-018-2389-y"
+      }
+    ],
+    "540.0": [
+      {
+        "Original_Name_In_Paper": "As0.005Te0.895Se0.1",
+        "Property": "ZT",
+        "Value": 0.81,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-018-2389-y"
+      }
+    ]
+  }
+}

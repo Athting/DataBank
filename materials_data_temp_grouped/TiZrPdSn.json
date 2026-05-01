@@ -1,0 +1,42 @@
+{
+  "Material": "TiZrPdSn",
+  "DOIs_Researched": [
+    "10.1016/j.cplett.2019.137055"
+  ],
+  "Data_By_Temperature": {
+    "1100.0": [
+      {
+        "Original_Name_In_Paper": "Ti0.5Zr0.5PdSn",
+        "Property": "ThermCond",
+        "Value": 7.05,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cplett.2019.137055"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Ti0.5Zr0.5PdSn",
+        "Property": "ZT",
+        "Value": 2.43,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cplett.2019.137055"
+      },
+      {
+        "Original_Name_In_Paper": "Ti0.5Zr0.5PdSn",
+        "Property": "ZT",
+        "Value": 2.43,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cplett.2019.137055"
+      },
+      {
+        "Original_Name_In_Paper": "Ti0.5Zr0.5PdSn",
+        "Property": "ZT",
+        "Value": 2.43,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cplett.2019.137055"
+      }
+    ]
+  }
+}

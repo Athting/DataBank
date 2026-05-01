@@ -1,0 +1,18 @@
+{
+  "Material": "doped n-type GaSb",
+  "DOIs_Researched": [
+    "10.1557/opl.2011.1162"
+  ],
+  "Data_By_Temperature": {
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "doped n-type GaSb",
+        "Property": "ZT",
+        "Value": 0.36,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1557/opl.2011.1162"
+      }
+    ]
+  }
+}

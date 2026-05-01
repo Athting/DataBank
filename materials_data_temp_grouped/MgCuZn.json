@@ -1,0 +1,18 @@
+{
+  "Material": "MgCuZn",
+  "DOIs_Researched": [
+    "10.1016/j.msec.2012.08.022"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "MgCuZn ferrite",
+        "Property": "Conductivity",
+        "Value": 0.9433962264,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.msec.2012.08.022"
+      }
+    ]
+  }
+}

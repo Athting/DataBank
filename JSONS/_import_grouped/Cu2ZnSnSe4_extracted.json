@@ -1,0 +1,122 @@
+{
+  "doi": "10.1016/j.intermet.2016.01.004",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Cu2ZnSnSe4",
+        "Cu2ZnSn0.9In0.1Se4",
+        "Cu2ZnSn0.90In0.10Se4",
+        "quaternary chalcogenide Cu2ZnSnSe4",
+        "Indium-doped Cu2ZnSnSe4"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "Cu2ZnSnSe4",
+          "value": 15300,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Cu2ZnSnSe4",
+          "value": 0.11,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "720.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Cu2ZnSnSe4",
+          "zt_value": 0.2,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "Cu2ZnSn0.9In0.1Se4",
+          "zt_value": 0.9500000000000001,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "Cu2ZnSn0.90In0.10Se4",
+          "zt_value": 0.9500000000000001,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "Cu2ZnSnSe4",
+          "zt_value": 0.9500000000000001,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "quaternary chalcogenide Cu2ZnSnSe4",
+          "zt_value": 0.9500000000000001,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "Indium-doped Cu2ZnSnSe4",
+          "zt_value": 0.9500000000000001,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "Cu2ZnSn0.9In0.1Se4",
+          "zt_value": 0.9500000000000001,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "Cu2ZnSn0.9In0.1Se4",
+          "zt_value": 0.9500000000000001,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "Cu2ZnSn0.90In0.10Se4",
+          "zt_value": 0.9500000000000001,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "Cu2ZnSn0.9In0.1Se4",
+          "zt_value": 0.59,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Cu2ZnSn0.9In0.1Se4",
+          "zt_value": 0.59,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Cu2ZnSn0.9In0.1Se4",
+          "zt_value": 0.59,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Cu2ZnSn0.9In0.1Se4",
+          "zt_value": 0.91,
+          "temperature": "860.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

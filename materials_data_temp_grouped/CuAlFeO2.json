@@ -1,0 +1,73 @@
+{
+  "Material": "CuAlFeO2",
+  "DOIs_Researched": [
+    "10.1016/j.mssp.2016.08.023",
+    "10.1007/s10854-016-5227-5",
+    "10.1016/j.jallcom.2006.07.067",
+    "10.1016/j.ceramint.2011.12.079"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "CuAl0.9Fe0.1O2",
+        "Property": "Seebeck",
+        "Value": 0.00041799999999999997,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2011.12.079"
+      },
+      {
+        "Original_Name_In_Paper": "CuAl0.9Fe0.1O2",
+        "Property": "PF",
+        "Value": 5.49e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2011.12.079"
+      },
+      {
+        "Original_Name_In_Paper": "CuAl0.9Fe0.1O2",
+        "Property": "Conductivity",
+        "Value": 314.3,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2011.12.079"
+      }
+    ],
+    "1140.0": [
+      {
+        "Original_Name_In_Paper": "CuAl0.9Fe0.1O2",
+        "Property": "PF",
+        "Value": 0.00011,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2011.12.079"
+      },
+      {
+        "Original_Name_In_Paper": "CuAl0.9Fe0.1O2",
+        "Property": "PF",
+        "Value": 0.00011,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2006.07.067"
+      },
+      {
+        "Original_Name_In_Paper": "CuAl0.90Fe0.10O2",
+        "Property": "PF",
+        "Value": 11000.0,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-016-5227-5"
+      }
+    ],
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "CuAl0.98Fe0.02O2",
+        "Property": "Conductivity",
+        "Value": 423.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2016.08.023"
+      }
+    ]
+  }
+}

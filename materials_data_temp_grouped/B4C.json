@@ -1,0 +1,62 @@
+{
+  "Material": "B4C",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2018.03.100",
+    "10.1016/B978-044482548-3-50099-8",
+    "10.1557/jmr.2014.216",
+    "10.1007/s11664-010-1129-0",
+    "10.1039/c2jm14857a"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "single crystalline B4C",
+        "Property": "ThermCond",
+        "Value": 30.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2jm14857a"
+      }
+    ],
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "B4C",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-044482548-3-50099-8"
+      }
+    ],
+    "1273.0": [
+      {
+        "Original_Name_In_Paper": "boron carbide with 10 at. % carbon",
+        "Property": "ZT",
+        "Value": 0.65,
+        "Units": null,
+        "Editing": "at. % Mg addition",
+        "Source_DOI": "10.1557/jmr.2014.216"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "B4C",
+        "Property": "Seebeck",
+        "Value": 0.0004,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-010-1129-0"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "25 wt % TiB2 incorporated B4C",
+        "Property": "Seebeck",
+        "Value": 2e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.03.100"
+      }
+    ]
+  }
+}

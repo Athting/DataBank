@@ -1,0 +1,36 @@
+{
+  "Material": "RuNbGa0.90Ge0.10",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2020.156617"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ru2NbGa0.90Ge0.10",
+        "Property": "ZT",
+        "Value": 0.0026000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.156617"
+      },
+      {
+        "Original_Name_In_Paper": "Ru2NbGa0.90Ge0.10",
+        "Property": "ZT",
+        "Value": 0.006,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.156617"
+      }
+    ],
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "Ru2NbGa0.90Ge0.10",
+        "Property": "ZT",
+        "Value": 0.02,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.156617"
+      }
+    ]
+  }
+}

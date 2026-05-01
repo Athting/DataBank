@@ -1,0 +1,39 @@
+{
+  "Material": "LaCoO3\u2212\u03b4",
+  "DOIs_Researched": [
+    "10.1016/j.jpowsour.2007.05.085",
+    "10.1039/c2cp41743j"
+  ],
+  "Data_By_Temperature": {
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "un-doped LaCoO3\u2212\u03b4",
+        "Property": "PF",
+        "Value": 0.000178,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2cp41743j"
+      }
+    ],
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "strontium-doped LaCoO3\u2212\u03b4",
+        "Property": "Conductivity",
+        "Value": 65000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpowsour.2007.05.085"
+      }
+    ],
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "un-doped LaCoO3\u2212\u03b4",
+        "Property": "Conductivity",
+        "Value": 301.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2cp41743j"
+      }
+    ]
+  }
+}

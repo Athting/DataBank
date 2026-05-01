@@ -1,0 +1,82 @@
+{
+  "doi": "10.1016/j.ijhydene.2018.05.171",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Sr0.98Ti0.85Nb0.15O3",
+        "Sr0.95Ti0.90Nb0.10O3",
+        "niobium-doped strontium titanate",
+        "Sr0.94Ti0.9Nb0.1O3"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "niobium-doped strontium titanate",
+          "value": -0.00025,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "1000.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "niobium-doped strontium titanate",
+          "value": 15000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Sr0.94Ti0.9Nb0.1O3",
+          "value": 12700,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "1273.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Sr0.98Ti0.85Nb0.15O3",
+          "zt_value": 0.02,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "Sr0.98Ti0.85Nb0.15O3",
+          "zt_value": 0.21,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "Sr0.95Ti0.90Nb0.10O3",
+          "zt_value": 0.08,
+          "temperature": "1180.0 K"
+        },
+        {
+          "material": "niobium-doped strontium titanate",
+          "zt_value": 0.25,
+          "temperature": "1000.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

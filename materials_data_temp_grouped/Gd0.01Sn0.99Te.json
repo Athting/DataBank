@@ -1,0 +1,18 @@
+{
+  "Material": "Gd0.01Sn0.99Te",
+  "DOIs_Researched": [
+    "10.1039/c4cp02091j"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Gd0.01Sn0.99Te",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4cp02091j"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "bulk Ag-doped Nd",
+  "DOIs_Researched": [
+    "10.1016/S0925-8388(05)00321-X"
+  ],
+  "Data_By_Temperature": {
+    "1273.0": [
+      {
+        "Original_Name_In_Paper": "bulk Ag-doped Nd",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(05)00321-X"
+      }
+    ]
+  }
+}

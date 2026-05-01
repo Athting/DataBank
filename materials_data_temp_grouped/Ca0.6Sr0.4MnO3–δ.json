@@ -1,0 +1,18 @@
+{
+  "Material": "Ca0.6Sr0.4MnO3\u2013\u03b4",
+  "DOIs_Researched": [
+    "10.1007/s10008-017-3571-x"
+  ],
+  "Data_By_Temperature": {
+    "330.0": [
+      {
+        "Original_Name_In_Paper": "Ca0.6Sr0.4MnO3\u2013\u03b4",
+        "Property": "Conductivity",
+        "Value": 760.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10008-017-3571-x"
+      }
+    ]
+  }
+}

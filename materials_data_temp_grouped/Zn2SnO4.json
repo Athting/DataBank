@@ -1,0 +1,18 @@
+{
+  "Material": "Zn2SnO4",
+  "DOIs_Researched": [
+    "10.1016/j.materresbull.2007.02.018"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Zn2SnO4",
+        "Property": "Conductivity",
+        "Value": 390.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2007.02.018"
+      }
+    ]
+  }
+}

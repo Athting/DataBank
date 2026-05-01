@@ -1,0 +1,113 @@
+{
+  "doi": "10.1016/j.jeurceramsoc.2012.06.007",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "CeFe4Sb12",
+        "p-type CeFe4Sb12"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "CeFe4Sb12",
+          "value": 0.000075,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CeFe4Sb12",
+          "value": 0.00007599999999999999,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CeFe4Sb12",
+          "value": 0.00014000000000000001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "800.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "CeFe4Sb12",
+          "value": 2.3,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CeFe4Sb12",
+          "value": 1.48,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "CeFe4Sb12",
+          "value": 14,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "CeFe4Sb12",
+          "zt_value": 0.1,
+          "temperature": "295 K"
+        },
+        {
+          "material": "CeFe4Sb12",
+          "zt_value": 1,
+          "temperature": "295 K"
+        },
+        {
+          "material": "p-type CeFe4Sb12",
+          "zt_value": 0.9,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "CeFe4Sb12",
+          "zt_value": 0.8,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "CeFe4Sb12",
+          "zt_value": 0.89,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "CeFe4Sb12",
+          "zt_value": 0.13,
+          "temperature": "670.0 K"
+        },
+        {
+          "material": "CeFe4Sb12",
+          "zt_value": 1.4,
+          "temperature": "1003.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "Material": "SnSb2Te4",
+  "DOIs_Researched": [
+    "10.1016/j.solidstatesciences.2010.12.043",
+    "10.1016/j.nanoen.2020.105084"
+  ],
+  "Data_By_Temperature": {
+    "320.0": [
+      {
+        "Original_Name_In_Paper": "SnSb2Te4",
+        "Property": "ThermCond",
+        "Value": 0.56,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.105084"
+      },
+      {
+        "Original_Name_In_Paper": "SnSb2Te4",
+        "Property": "Seebeck",
+        "Value": 2e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.105084"
+      }
+    ],
+    "720.0": [
+      {
+        "Original_Name_In_Paper": "SnSb2Te4",
+        "Property": "ZT",
+        "Value": 0.28,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.105084"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "SnSb2Te4",
+        "Property": "ZT",
+        "Value": 0.009000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2010.12.043"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Sn0.89Ti0.1Sb0.01O2",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2007.09.001"
+  ],
+  "Data_By_Temperature": {
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.89Ti0.1Sb0.01O2",
+        "Property": "Seebeck",
+        "Value": -4e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2007.09.001"
+      }
+    ]
+  }
+}

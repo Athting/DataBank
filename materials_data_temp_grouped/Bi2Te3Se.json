@@ -1,0 +1,40 @@
+{
+  "Material": "Bi2Te3Se",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2017.10.034",
+    "10.1016/j.jallcom.2014.09.024",
+    "10.1016/j.scriptamat.2020.04.030"
+  ],
+  "Data_By_Temperature": {
+    "477.0": [
+      {
+        "Original_Name_In_Paper": "bulk Bi2(TeSe)3",
+        "Property": "ZT",
+        "Value": 1.09,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2017.10.034"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "n-type Bi2(Te,Se)3 polycrystals",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2020.04.030"
+      }
+    ],
+    "420.0": [
+      {
+        "Original_Name_In_Paper": "nanostructured n-type Bi2(Te,Se)3",
+        "Property": "ZT",
+        "Value": 1.05,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.09.024"
+      }
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "Material": "ZrHfCoRhSbSn",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2010.03.023",
+    "10.1007/s10853-020-04949-0",
+    "10.1016/j.jssc.2013.03.024"
+  ],
+  "Data_By_Temperature": {
+    "775.0": [
+      {
+        "Original_Name_In_Paper": "Zr0.5Hf0.5Co0.1Rh0.9Sb0.99Sn0.01",
+        "Property": "ThermCond",
+        "Value": 2.7,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      },
+      {
+        "Original_Name_In_Paper": "Zr0.5Hf0.5Co0.1Rh0.9Sb0.99Sn0.01",
+        "Property": "ThermCond",
+        "Value": 2.7,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2010.03.023"
+      },
+      {
+        "Original_Name_In_Paper": "Zr0.5Hf0.5Co0.4Rh0.6Sb0.99Sn0.01",
+        "Property": "ZT",
+        "Value": 0.03,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2010.03.023"
+      },
+      {
+        "Original_Name_In_Paper": "Zr0.5Hf0.5Co0.4Rh0.6Sb0.8Sn0.2",
+        "Property": "ZT",
+        "Value": 0.18,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2013.03.024"
+      },
+      {
+        "Original_Name_In_Paper": "Zr0.5Hf0.5Co0.4Rh0.6Sb0.8Sn0.2",
+        "Property": "ZT",
+        "Value": 0.18,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2013.03.024"
+      },
+      {
+        "Original_Name_In_Paper": "Zr0.5Hf0.5Co0.4Rh0.6Sb0.99Sn0.01",
+        "Property": "ZT",
+        "Value": 0.03,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      },
+      {
+        "Original_Name_In_Paper": "Zr0.5Hf0.5Co0.4Rh0.6Sb0.99Sn0.01",
+        "Property": "Seebeck",
+        "Value": 0.000135,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2010.03.023"
+      },
+      {
+        "Original_Name_In_Paper": "Zr0.5Hf0.5Co0.4Rh0.6Sb0.99Sn0.01",
+        "Property": "PF",
+        "Value": 0.12,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      },
+      {
+        "Original_Name_In_Paper": "Zr0.5Hf0.5Co0.4Rh0.6Sb0.8Sn0.2 alloy",
+        "Property": "PF",
+        "Value": 0.0008,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2013.03.024"
+      },
+      {
+        "Original_Name_In_Paper": "Zr0.5Hf0.5Co0.4Rh0.6Sb0.8Sn0.2",
+        "Property": "PF",
+        "Value": 0.0008,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2013.03.024"
+      }
+    ],
+    "770.0": [
+      {
+        "Original_Name_In_Paper": "Zr0.5Hf0.5Co0.4Rh0.6Sb0.99Sn0.01",
+        "Property": "ZT",
+        "Value": 0.03,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2013.03.024"
+      }
+    ]
+  }
+}

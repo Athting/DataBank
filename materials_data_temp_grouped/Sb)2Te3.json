@@ -1,0 +1,82 @@
+{
+  "Material": "Sb)2Te3",
+  "DOIs_Researched": [
+    "10.1007/s00339-008-4518-y",
+    "10.1016/j.matchemphys.2020.123699",
+    "10.1039/c0jm02755c",
+    "10.1016/j.intermet.2017.10.015",
+    "10.1016/j.materresbull.2014.09.057",
+    "10.1038/srep24123",
+    "10.1039/c3nr01875j"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Sb)2Te3 powders",
+        "Property": "ZT",
+        "Value": 1.28,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2014.09.057"
+      },
+      {
+        "Original_Name_In_Paper": "Sb)2Te3 alloy films",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3nr01875j"
+      }
+    ],
+    "390.0": [
+      {
+        "Original_Name_In_Paper": "Sb)2Te3 nanocomposites",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2017.10.015"
+      }
+    ],
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "Sb)2Te3 alloys",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2020.123699"
+      }
+    ],
+    "303.0": [
+      {
+        "Original_Name_In_Paper": "Sb)2Te3 bulk",
+        "Property": "ZT",
+        "Value": 1.28,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s00339-008-4518-y"
+      }
+    ],
+    "435.0": [
+      {
+        "Original_Name_In_Paper": "Sb)2Te3 nanocrystalline composite",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c0jm02755c"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Sb)2Te3 bulk materials",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/srep24123"
+      }
+    ]
+  }
+}

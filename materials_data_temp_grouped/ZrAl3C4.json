@@ -1,0 +1,28 @@
+{
+  "Material": "ZrAl3C4",
+  "DOIs_Researched": [
+    "10.1016/j.jeurceramsoc.2013.05.020"
+  ],
+  "Data_By_Temperature": {
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "Zr2Al3C4",
+        "Property": "PF",
+        "Value": 1.3e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2013.05.020"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Zr2Al3C4",
+        "Property": "Conductivity",
+        "Value": 910000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2013.05.020"
+      }
+    ]
+  }
+}

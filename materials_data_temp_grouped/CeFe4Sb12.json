@@ -1,0 +1,133 @@
+{
+  "Material": "CeFe4Sb12",
+  "DOIs_Researched": [
+    "10.1016/j.jeurceramsoc.2012.06.007",
+    "10.1007/s12648-016-0896-8",
+    "10.1016/j.scriptamat.2016.01.035",
+    "10.1016/j.cjph.2019.11.021",
+    "10.1016/j.jallcom.2006.07.114",
+    "10.1016/j.jssc.2014.06.042",
+    "10.1016/S0080-8784(01)80151-4",
+    "10.1016/j.jallcom.2014.09.086",
+    "10.1016/j.matpr.2020.05.808",
+    "10.1016/j.materresbull.2004.10.023",
+    "10.1557/jmr.2011.85",
+    "10.1039/c6ta06325j"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "CeFe4Sb12",
+        "Property": "ThermCond",
+        "Value": 2.3,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta06325j"
+      },
+      {
+        "Original_Name_In_Paper": "CeFe4Sb12",
+        "Property": "ThermCond",
+        "Value": 1.48,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta06325j"
+      },
+      {
+        "Original_Name_In_Paper": "CeFe4Sb12",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cjph.2019.11.021"
+      },
+      {
+        "Original_Name_In_Paper": "CeFe4Sb12",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s12648-016-0896-8"
+      },
+      {
+        "Original_Name_In_Paper": "CeFe4Sb12",
+        "Property": "Seebeck",
+        "Value": 7.5e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2004.10.023"
+      },
+      {
+        "Original_Name_In_Paper": "CeFe4Sb12",
+        "Property": "Seebeck",
+        "Value": 7.599999999999999e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2006.07.114"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "CeFe4Sb12",
+        "Property": "ThermCond",
+        "Value": 14.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0080-8784(01)80151-4"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "p-type CeFe4Sb12",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matpr.2020.05.808"
+      },
+      {
+        "Original_Name_In_Paper": "CeFe4Sb12",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1557/jmr.2011.85"
+      },
+      {
+        "Original_Name_In_Paper": "CeFe4Sb12",
+        "Property": "ZT",
+        "Value": 0.89,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2016.01.035"
+      },
+      {
+        "Original_Name_In_Paper": "CeFe4Sb12",
+        "Property": "Seebeck",
+        "Value": 0.00014000000000000001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2014.06.042"
+      }
+    ],
+    "670.0": [
+      {
+        "Original_Name_In_Paper": "CeFe4Sb12",
+        "Property": "ZT",
+        "Value": 0.13,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.09.086"
+      }
+    ],
+    "1003.0": [
+      {
+        "Original_Name_In_Paper": "CeFe4Sb12",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2012.06.007"
+      }
+    ]
+  }
+}

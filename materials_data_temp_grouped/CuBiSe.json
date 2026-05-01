@@ -1,0 +1,28 @@
+{
+  "Material": "CuBiSe",
+  "DOIs_Researched": [
+    "10.1039/c5tc02388b"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Cu\u2013Bi\u2013Se",
+        "Property": "ThermCond",
+        "Value": 0.56,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc02388b"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Cu\u2013Bi\u2013Se",
+        "Property": "ThermCond",
+        "Value": 0.52,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc02388b"
+      }
+    ]
+  }
+}

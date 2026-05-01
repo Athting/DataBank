@@ -1,0 +1,36 @@
+{
+  "Material": "Co3.5Sb11.8Pd0.5Se0.2",
+  "DOIs_Researched": [
+    "10.1007/s10854-017-8031-y"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Co3.5Sb11.8Pd0.5Se0.2",
+        "Property": "ThermCond",
+        "Value": 2.6,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-017-8031-y"
+      }
+    ],
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Co3.5Sb11.8Pd0.5Se0.2 composite",
+        "Property": "ZT",
+        "Value": 1.096,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-017-8031-y"
+      },
+      {
+        "Original_Name_In_Paper": "Co3.5Sb11.8Pd0.5Se0.2",
+        "Property": "ZT",
+        "Value": 1.096,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-017-8031-y"
+      }
+    ]
+  }
+}

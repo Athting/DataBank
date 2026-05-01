@@ -1,0 +1,18 @@
+{
+  "Material": "GeIn0.6Sb5.4Te10",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2014.08.183"
+  ],
+  "Data_By_Temperature": {
+    "710.0": [
+      {
+        "Original_Name_In_Paper": "GeIn0.6Sb5.4Te10",
+        "Property": "ZT",
+        "Value": 0.75,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.08.183"
+      }
+    ]
+  }
+}

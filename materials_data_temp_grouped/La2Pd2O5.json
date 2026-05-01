@@ -1,0 +1,18 @@
+{
+  "Material": "La2Pd2O5",
+  "DOIs_Researched": [
+    "10.1007/s12034-020-02115-5"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "La2Pd2O5 compound",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s12034-020-02115-5"
+      }
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "doi": "10.1007/s40243-019-0163-y",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Ca2.7Ag0.3Co4O9"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Ca2.7Ag0.3Co4O9",
+          "value": 0.00015000000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Ca2.7Ag0.3Co4O9",
+          "value": 0.000325,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "700.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Ca2.7Ag0.3Co4O9",
+          "zt_value": 0.5,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Ca2.7Ag0.3Co4O9",
+          "zt_value": 0.5,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Ca2.7Ag0.3Co4O9",
+          "zt_value": 0.5,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Ca2.7Ag0.3Co4O9",
+          "zt_value": 0.5,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Ca2.7Ag0.3Co4O9",
+          "zt_value": 0.5,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Ca2.7Ag0.3Co4O9",
+          "zt_value": 0.5,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "Ca2.7Ag0.3Co4O9",
+          "zt_value": 0.03,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Ca2.7Ag0.3Co4O9",
+          "zt_value": 0.03,
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

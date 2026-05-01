@@ -1,0 +1,89 @@
+{
+  "Material": "CuAgSeTe",
+  "DOIs_Researched": [
+    "10.1039/c5ta06780d",
+    "10.1016/j.jpcs.2017.07.034"
+  ],
+  "Data_By_Temperature": {
+    "450.0": [
+      {
+        "Original_Name_In_Paper": "CuAgSe0.95Te0.05",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta06780d"
+      },
+      {
+        "Original_Name_In_Paper": "CuAgSe0.95Te0.05",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta06780d"
+      }
+    ],
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "Cu0.1Ag1.99Se0.5Te0.5",
+        "Property": "ZT",
+        "Value": 0.85,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2017.07.034"
+      },
+      {
+        "Original_Name_In_Paper": "Cu0.1Ag1.99Se0.5Te0.5",
+        "Property": "ZT",
+        "Value": 0.85,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2017.07.034"
+      },
+      {
+        "Original_Name_In_Paper": "Cu0.1Ag1.99Se0.5Te0.5",
+        "Property": "PF",
+        "Value": 0.0011,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2017.07.034"
+      },
+      {
+        "Original_Name_In_Paper": "Cu0.1Ag1.99Se0.5Te0.5",
+        "Property": "PF",
+        "Value": 0.0011,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2017.07.034"
+      }
+    ],
+    "463.0": [
+      {
+        "Original_Name_In_Paper": "Cu0.1Ag1.9Se0.5Te0.5",
+        "Property": "PF",
+        "Value": 0.0012900000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2017.07.034"
+      },
+      {
+        "Original_Name_In_Paper": "Cu0.1Ag1.9Se0.5Te0.5",
+        "Property": "PF",
+        "Value": 0.0012900000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2017.07.034"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Cu0.1Ag1.9Se0.5Te0.5",
+        "Property": "Conductivity",
+        "Value": 98100.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2017.07.034"
+      }
+    ]
+  }
+}

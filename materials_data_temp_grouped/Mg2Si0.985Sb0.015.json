@@ -1,0 +1,104 @@
+{
+  "Material": "Mg2Si0.985Sb0.015",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2018.01.260"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Si0.985Sb0.015",
+        "Property": "ThermCond",
+        "Value": 1.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.01.260"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si0.985Sb0.015",
+        "Property": "ThermCond",
+        "Value": 1.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.01.260"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si0.985Sb0.015",
+        "Property": "ZT",
+        "Value": 0.9400000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.01.260"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si0.985Sb0.015",
+        "Property": "PF",
+        "Value": 0.0033,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.01.260"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si0.985Sb0.015",
+        "Property": "PF",
+        "Value": 0.0033,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.01.260"
+      }
+    ],
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Si0.985Sb0.015",
+        "Property": "ZT",
+        "Value": 0.9400000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.01.260"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si0.985Sb0.015",
+        "Property": "ZT",
+        "Value": 0.9400000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.01.260"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si0.985Sb0.015",
+        "Property": "ZT",
+        "Value": 0.9400000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.01.260"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Mg2Si0.985Sb0.015",
+        "Property": "Conductivity",
+        "Value": 400000.0000000001,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.01.260"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si0.985Sb0.015",
+        "Property": "Seebeck",
+        "Value": 6.4e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.01.260"
+      }
+    ],
+    "650.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Si0.985Sb0.015",
+        "Property": "PF",
+        "Value": 0.003,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.01.260"
+      }
+    ]
+  }
+}

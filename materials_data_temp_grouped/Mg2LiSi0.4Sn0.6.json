@@ -1,0 +1,26 @@
+{
+  "Material": "Mg2LiSi0.4Sn0.6",
+  "DOIs_Researched": [
+    "10.1039/c5tc03692e"
+  ],
+  "Data_By_Temperature": {
+    "675.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Li0.025Si0.4Sn0.6",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc03692e"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Li0.025Si0.4Sn0.6",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc03692e"
+      }
+    ]
+  }
+}

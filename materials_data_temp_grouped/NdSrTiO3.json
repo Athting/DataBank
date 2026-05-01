@@ -1,0 +1,18 @@
+{
+  "Material": "NdSrTiO3",
+  "DOIs_Researched": [
+    "10.1007/s11664-014-3058-9"
+  ],
+  "Data_By_Temperature": {
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "neodymium-strontium titanate",
+        "Property": "ZT",
+        "Value": 0.03,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-014-3058-9"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Zn0.985Cd0.015Sb3",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2011.04.023"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "(Zn0.985Cd0.015)4Sb3",
+        "Property": "ThermCond",
+        "Value": 0.62,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2011.04.023"
+      }
+    ]
+  }
+}

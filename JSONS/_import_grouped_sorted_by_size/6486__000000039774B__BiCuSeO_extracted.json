@@ -1,0 +1,1419 @@
+{
+  "doi": "10.1016/j.matlet.2018.01.074",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "BiCuSeO",
+        "BiCuSeO polycrystalline bulk",
+        "pristine BiCuSeO",
+        "layered BiCuSeO",
+        "BiCuSeO film on glass",
+        "Pb-doped BiCuSeO",
+        "Pristine BiCuSeO",
+        "BiCuSeO film",
+        "BiCuSeO nanosheets",
+        "pure BiCuSeO",
+        "undoped BiCuSeO",
+        "pure pristine BiCuSeO",
+        "un-doped polycrystalline BiCuSeO",
+        "alkali metals doped BiCuSeO",
+        "layered BiCuSeO oxyselenide",
+        "3 % Ag-doped BiCuSeO",
+        "p-type BiCuSeO oxyselenide",
+        "layered quaternary oxyselenide BiCuSeO",
+        "textured BiCuSeO",
+        "BiCu0.975SeO",
+        "Ca-doped BiCuSeO",
+        "Ba-doped BiCuSeO",
+        "BiCuSeO with 5 % Cd",
+        "Sr-doped BiCuSeO",
+        "doped BiCuSeO",
+        "BiCu0.9Zn0.1SeO",
+        "Te-doped BiCuSeO",
+        "un-doped BiCuSeO",
+        "Li-doped BiCuSeO",
+        "n-type BiCuSeO materials",
+        "BiCuSeO materials",
+        "BiCu0.95Ag0.05SeO",
+        "BiCuSeO bulks",
+        "BiCu0.98Ag0.02SeO",
+        "BiCuSeO oxyselenide",
+        "pristine BiCuSeO bulk",
+        "pristine BiCuSeO composite",
+        "pristine BiCuSeO polycrystals",
+        "BiCuSeO nanosheet",
+        "BiCuSeO + 20 vol % Cu2Se",
+        "Pb doped BiCuSeO",
+        "n-type BiCuSeO",
+        "7.5 % Ba-doped BiCuSeO thin film"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "pristine BiCuSeO",
+          "value": 0.000361,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "BiCuSeO film on glass",
+          "value": 0.000217,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Pb-doped BiCuSeO",
+          "value": 0.000158,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Pristine BiCuSeO",
+          "value": 0.00035000000000000005,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "value": 0.00043000000000000004,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "BiCuSeO film",
+          "value": 0.000204,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine BiCuSeO",
+          "value": 0.000381,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine BiCuSeO",
+          "value": 0.000381,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "value": 0.00035000000000000005,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "value": 0.00035299999999999996,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "pristine BiCuSeO",
+          "value": 0.000355,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "pure BiCuSeO",
+          "value": 0.000496,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "value": 0.00035299999999999996,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "pure pristine BiCuSeO",
+          "value": 0.000423,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "pristine BiCuSeO",
+          "value": 0.00035000000000000005,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "value": 0.00035000000000000005,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "pristine BiCuSeO",
+          "value": 0.000235,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "un-doped polycrystalline BiCuSeO",
+          "value": 0.00035000000000000005,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "pristine BiCuSeO",
+          "value": 0.000235,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "value": 0.000357,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Pristine BiCuSeO",
+          "value": 0.30000000000000004,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "value": 0.00045000000000000004,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "undoped BiCuSeO",
+          "value": 0.000425,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "pristine BiCuSeO",
+          "value": 0.000251,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "pristine BiCuSeO",
+          "value": 0.00033000000000000005,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "value": 0.00023,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Pristine BiCuSeO",
+          "value": 0.000423,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "value": -0.000001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "value": 0.00030000000000000003,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "814.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "value": 0.00035000000000000005,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "293.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "Pristine BiCuSeO",
+          "value": 112,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "value": 770,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine BiCuSeO",
+          "value": 800,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine BiCuSeO",
+          "value": 16,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine BiCuSeO",
+          "value": 800,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine BiCuSeO",
+          "value": 800,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "value": 189,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "BiCuSeO nanosheets",
+          "value": 1500,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "value": 112,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "pristine BiCuSeO",
+          "value": 112,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "value": 500,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "value": 112,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "value": 112,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "un-doped polycrystalline BiCuSeO",
+          "value": 112,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "value": 213,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "undoped BiCuSeO",
+          "value": 112,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "BiCu0.975SeO",
+          "value": 5300,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "BiCu0.975SeO",
+          "value": 5300,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "pristine BiCuSeO",
+          "value": 470,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "pristine BiCuSeO",
+          "value": 3400,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "pristine BiCuSeO",
+          "value": 1130,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "undoped BiCuSeO",
+          "value": 2500,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "value": 1200,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "n-type BiCuSeO materials",
+          "value": 500,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "value": 2890,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "BiCu0.98Ag0.02SeO",
+          "value": 3660,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "pure BiCuSeO",
+          "value": 2890,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "value": 160,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "doped BiCuSeO",
+          "value": 331,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "value": 20,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "value": 4000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "814.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "value": 470,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "293.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "value": 1500,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "550.0 K"
+        },
+        {
+          "material": "pristine BiCuSeO",
+          "value": 1500,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "550.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "value": 2900,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "670.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "BiCuSeO",
+          "value": 0.6000000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "BiCuSeO polycrystalline bulk",
+          "value": 0.55,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "value": 0.6000000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "value": 0.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine BiCuSeO",
+          "value": 0.9,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "layered BiCuSeO",
+          "value": 1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "value": 1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "value": 1.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pure BiCuSeO",
+          "value": 1.03,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "pristine BiCuSeO",
+          "value": 0.8300000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "value": 0.54,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "value": 0.52,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "value": 0.52,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "undoped BiCuSeO",
+          "value": 0.85,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "pristine BiCuSeO",
+          "value": 0.89,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "undoped BiCuSeO",
+          "value": 0.89,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "value": 0.88,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "value": 0.88,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "undoped BiCuSeO",
+          "value": 0.88,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "value": 0.9,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "pristine BiCuSeO",
+          "value": 0.8300000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "value": 0.9,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "value": 0.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "pristine BiCuSeO",
+          "value": 0.8300000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "value": 0.54,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "value": 0.52,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "value": 0.52,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "value": 0.47000000000000003,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "undoped BiCuSeO",
+          "value": 0.75,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "pristine BiCuSeO",
+          "value": 0.63,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "value": 0.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "alkali metals doped BiCuSeO",
+          "value": 0.52,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "layered BiCuSeO oxyselenide",
+          "value": 0.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "Pristine BiCuSeO",
+          "value": 0.52,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "3 % Ag-doped BiCuSeO",
+          "value": 0.41000000000000003,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "p-type BiCuSeO oxyselenide",
+          "value": 0.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "value": 0.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "layered quaternary oxyselenide BiCuSeO",
+          "value": 0.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "value": 0.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "Pristine BiCuSeO",
+          "value": 1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "value": 0.6000000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "undoped BiCuSeO",
+          "value": 0.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "pristine BiCuSeO",
+          "value": 0.58,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "pristine BiCuSeO",
+          "value": 0.6000000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Pristine BiCuSeO",
+          "value": 0.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "value": 0.86,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "298.0 K"
+        },
+        {
+          "material": "BiCuSeO materials",
+          "value": 0.37,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "pristine BiCuSeO",
+          "value": 0.38,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "BiCu0.95Ag0.05SeO",
+          "value": 0.38,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "BiCuSeO oxyselenide",
+          "value": 0.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "value": 0.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "pristine BiCuSeO bulk",
+          "value": 1.32,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "pristine BiCuSeO",
+          "value": 0.52,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "value": 0.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "pristine BiCuSeO",
+          "value": 0.42,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "680.0 K"
+        },
+        {
+          "material": "doped BiCuSeO",
+          "value": 0.35000000000000003,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "680.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "BiCuSeO",
+          "value": 0.00008,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine BiCuSeO",
+          "value": 0.0000156,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "value": 0.0008100000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "pristine BiCuSeO",
+          "value": 0.0000023,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "Ca-doped BiCuSeO",
+          "value": 0.000474,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "BiCuSeO with 5 % Cd",
+          "value": 0.0006000000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "value": 0.000308,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "BiCu0.975SeO",
+          "value": 0.00041000000000000005,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "pristine BiCuSeO",
+          "value": 0.00028000000000000003,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "pristine BiCuSeO",
+          "value": 0.00028000000000000003,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "pristine BiCuSeO",
+          "value": 0.00028000000000000003,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Li-doped BiCuSeO",
+          "value": 0.00030000000000000003,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "pristine BiCuSeO",
+          "value": 0.00028000000000000003,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "pristine BiCuSeO",
+          "value": 0.00028000000000000003,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "pristine BiCuSeO",
+          "value": 0.00013000000000000002,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "pristine BiCuSeO",
+          "value": 0.000254,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "BiCu0.95Ag0.05SeO",
+          "value": 0.000367,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "BiCu0.95Ag0.05SeO",
+          "value": 0.000367,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "pristine BiCuSeO",
+          "value": 0.000254,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "pristine BiCuSeO",
+          "value": 0.9,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "pure BiCuSeO",
+          "value": 0.00025,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "pristine BiCuSeO",
+          "value": 0.00023,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "680.0 K"
+        },
+        {
+          "material": "pristine BiCuSeO",
+          "value": 0.00018,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "value": 0.000633,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "value": 0.000338,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "814.0 K"
+        },
+        {
+          "material": "pure BiCuSeO",
+          "value": 0.000357,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "value": 0.000722,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "7.5 % Ba-doped BiCuSeO thin film",
+          "value": 0.00124,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "673.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "undoped BiCuSeO",
+          "zt_value": 0.5,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "zt_value": 1.4,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "zt_value": 1.5,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "textured BiCuSeO",
+          "zt_value": 1.4,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "Pristine BiCuSeO",
+          "zt_value": 0.5,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "zt_value": 1.1,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "BiCu0.975SeO",
+          "zt_value": 0.81,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "Ca-doped BiCuSeO",
+          "zt_value": 0.9,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "BiCu0.975SeO",
+          "zt_value": 0.81,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "zt_value": 1.4,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "Ba-doped BiCuSeO",
+          "zt_value": 1.1,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "Ba-doped BiCuSeO",
+          "zt_value": 1.1,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "zt_value": 1.4,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "zt_value": 0.5,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "BiCu0.975SeO",
+          "zt_value": 0.81,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "zt_value": 1,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "BiCu0.975SeO",
+          "zt_value": 0.8,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "Ba-doped BiCuSeO",
+          "zt_value": 1.4,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "pristine BiCuSeO",
+          "zt_value": 0.4,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "BiCu0.975SeO",
+          "zt_value": 0.8,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "pure BiCuSeO",
+          "zt_value": 0.53,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "zt_value": 1.4,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "pristine BiCuSeO",
+          "zt_value": 0.45,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "alkali metals doped BiCuSeO",
+          "zt_value": 0.9,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "zt_value": 0.77,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "undoped BiCuSeO",
+          "zt_value": 0.4,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "zt_value": 1,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "zt_value": 1.5,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "zt_value": 1.5,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "zt_value": 0.4,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "pristine BiCuSeO",
+          "zt_value": 2.7,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "pristine BiCuSeO",
+          "zt_value": 0.54,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Sr-doped BiCuSeO",
+          "zt_value": 0.76,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "pristine BiCuSeO",
+          "zt_value": 0.39,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "pristine BiCuSeO",
+          "zt_value": 0.39,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "undoped BiCuSeO",
+          "zt_value": 0.97,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "BiCu0.975SeO",
+          "zt_value": 0.675,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "doped BiCuSeO",
+          "zt_value": 0.76,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "BiCu0.9Zn0.1SeO",
+          "zt_value": 0.65,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "pristine BiCuSeO",
+          "zt_value": 0.52,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "pristine BiCuSeO",
+          "zt_value": 0.49,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "zt_value": 0.49,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "BiCu0.975SeO",
+          "zt_value": 0.67,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "zt_value": 1.5,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "zt_value": 0.76,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Te-doped BiCuSeO",
+          "zt_value": 1.2,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "un-doped BiCuSeO",
+          "zt_value": 0.54,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "pristine BiCuSeO",
+          "zt_value": 0.54,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "BiCuSeO bulks",
+          "zt_value": 0.84,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "BiCuSeO materials",
+          "zt_value": 0.84,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "pristine BiCuSeO",
+          "zt_value": 0.72,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "BiCu0.95Ag0.05SeO",
+          "zt_value": 0.72,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "BiCu0.95Ag0.05SeO",
+          "zt_value": 0.72,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "BiCu0.975SeO",
+          "zt_value": 0.81,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "zt_value": 1.5,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "pristine BiCuSeO",
+          "zt_value": 0.18,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "pristine BiCuSeO",
+          "zt_value": 0.18,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "BiCuSeO oxyselenide",
+          "zt_value": 0.7000000000000001,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "BiCuSeO oxyselenide",
+          "zt_value": 0.7000000000000001,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "pristine BiCuSeO composite",
+          "zt_value": 0.19,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "pristine BiCuSeO",
+          "zt_value": 0.7000000000000001,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "pristine BiCuSeO polycrystals",
+          "zt_value": 0.7000000000000001,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "zt_value": 0.7000000000000001,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "pristine BiCuSeO",
+          "zt_value": 0.13,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "pristine BiCuSeO",
+          "zt_value": 0.13,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "zt_value": 0.7000000000000001,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "pristine BiCuSeO",
+          "zt_value": 0.7000000000000001,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "zt_value": 1.09,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "pristine BiCuSeO",
+          "zt_value": 0.37,
+          "temperature": "680.0 K"
+        },
+        {
+          "material": "pristine BiCuSeO",
+          "zt_value": 0.37,
+          "temperature": "680.0 K"
+        },
+        {
+          "material": "BiCuSeO nanosheet",
+          "zt_value": 0.2,
+          "temperature": "722.0 K"
+        },
+        {
+          "material": "pristine BiCuSeO",
+          "zt_value": 0.33,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "BiCuSeO + 20 vol % Cu2Se",
+          "zt_value": 0.44,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "pristine BiCuSeO",
+          "zt_value": 0.52,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "Pb doped BiCuSeO",
+          "zt_value": 2,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "zt_value": 1.1400000000000001,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "zt_value": 1.5,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "n-type BiCuSeO",
+          "zt_value": 0.05,
+          "temperature": "475.0 K"
+        },
+        {
+          "material": "n-type BiCuSeO",
+          "zt_value": 0.05,
+          "temperature": "475.0 K"
+        },
+        {
+          "material": "n-type BiCuSeO",
+          "zt_value": 0.05,
+          "temperature": "475.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "zt_value": 0.31,
+          "temperature": "650.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "zt_value": 0.6000000000000001,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "zt_value": 2.95,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "zt_value": 1.1400000000000001,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "doped BiCuSeO",
+          "zt_value": 1.32,
+          "temperature": "1000.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "zt_value": 1,
+          "temperature": "1273.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "zt_value": 0.73,
+          "temperature": "780.0 K"
+        },
+        {
+          "material": "BiCuSeO",
+          "zt_value": 0.91,
+          "temperature": "920.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "CoCrGa",
+  "DOIs_Researched": [
+    "10.1016/j.cap.2015.04.043"
+  ],
+  "Data_By_Temperature": {
+    "495.0": [
+      {
+        "Original_Name_In_Paper": "Co2CrGa",
+        "Property": "Conductivity",
+        "Value": 781250.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2015.04.043"
+      }
+    ]
+  }
+}

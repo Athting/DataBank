@@ -1,0 +1,28 @@
+{
+  "Material": "Zr0.75Hf0.25NiPb",
+  "DOIs_Researched": [
+    "10.1016/j.physleta.2016.10.039"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Zr0.75Hf0.25NiPb",
+        "Property": "ThermCond",
+        "Value": 0.48,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physleta.2016.10.039"
+      }
+    ],
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "Zr0.75Hf0.25NiPb",
+        "Property": "ThermCond",
+        "Value": 0.48,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physleta.2016.10.039"
+      }
+    ]
+  }
+}

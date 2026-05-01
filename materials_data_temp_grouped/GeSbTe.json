@@ -1,0 +1,47 @@
+{
+  "Material": "GeSbTe",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2015.07.120",
+    "10.1039/c6tc02501c"
+  ],
+  "Data_By_Temperature": {
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "Ge\u2013Sb\u2013Te",
+        "Property": "ZT",
+        "Value": 1.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6tc02501c"
+      }
+    ],
+    "725.0": [
+      {
+        "Original_Name_In_Paper": "Ge\u2013Sb\u2013Te",
+        "Property": "ZT",
+        "Value": 1.85,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6tc02501c"
+      }
+    ],
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "GeSbTe",
+        "Property": "Conductivity",
+        "Value": 68965.5172413793,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.07.120"
+      },
+      {
+        "Original_Name_In_Paper": "GeSbTe films",
+        "Property": "PF",
+        "Value": 0.00034899999999999997,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.07.120"
+      }
+    ]
+  }
+}

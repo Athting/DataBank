@@ -1,0 +1,18 @@
+{
+  "Material": "PbS.",
+  "DOIs_Researched": [
+    "10.1039/c3ta11264k"
+  ],
+  "Data_By_Temperature": {
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "nanostructuring sodium-doped p-type PbS",
+        "Property": "ZT",
+        "Value": 1.11,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta11264k"
+      }
+    ]
+  }
+}

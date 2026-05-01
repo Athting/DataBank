@@ -1,0 +1,18 @@
+{
+  "Material": "Sr1.7Ce0.3NiOy",
+  "DOIs_Researched": [
+    "10.1023/A:1021375405311"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Sr1.7Ce0.3NiOy",
+        "Property": "Conductivity",
+        "Value": 10000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1023/A:1021375405311"
+      }
+    ]
+  }
+}

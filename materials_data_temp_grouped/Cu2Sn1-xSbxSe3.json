@@ -1,0 +1,18 @@
+{
+  "Material": "Cu2Sn1-xSbxSe3",
+  "DOIs_Researched": [
+    "10.1007/s10854-018-9444-y"
+  ],
+  "Data_By_Temperature": {
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "Cu2Sn1-xSbxSe3",
+        "Property": "ThermCond",
+        "Value": 2.7,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-018-9444-y"
+      }
+    ]
+  }
+}

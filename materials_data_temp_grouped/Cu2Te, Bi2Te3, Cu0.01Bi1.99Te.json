@@ -1,0 +1,18 @@
+{
+  "Material": "Cu2Te, Bi2Te3, Cu0.01Bi1.99Te",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2018.07.022"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "p-type (Cu2Te)0.01(Bi2Te3)0.99 / Cu0.01Bi1.99Te3",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2018.07.022"
+      }
+    ]
+  }
+}

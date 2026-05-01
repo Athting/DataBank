@@ -1,0 +1,40 @@
+{
+  "Material": "Te-Bi2Te3",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2018.03.009",
+    "10.1016/j.jallcom.2013.03.167",
+    "10.1016/j.nanoen.2020.105379"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "n-type Te\u2013Bi2Te3 film",
+        "Property": "ZT",
+        "Value": 2.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2020.105379"
+      }
+    ],
+    "375.0": [
+      {
+        "Original_Name_In_Paper": "Te\u2013Bi2Te3 thin film",
+        "Property": "ZT",
+        "Value": 0.08,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2018.03.009"
+      }
+    ],
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "Te\u2013Bi2Te3",
+        "Property": "ZT",
+        "Value": 0.24,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.03.167"
+      }
+    ]
+  }
+}

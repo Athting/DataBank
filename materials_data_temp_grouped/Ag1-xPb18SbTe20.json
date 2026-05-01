@@ -1,0 +1,18 @@
+{
+  "Material": "Ag1-xPb18SbTe20",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2004.05.065"
+  ],
+  "Data_By_Temperature": {
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "Ag1 \u2212 xPb18SbTe20",
+        "Property": "Seebeck",
+        "Value": 0.0004,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2004.05.065"
+      }
+    ]
+  }
+}

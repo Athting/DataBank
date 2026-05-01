@@ -1,0 +1,38 @@
+{
+  "Material": "In2O3-based",
+  "DOIs_Researched": [
+    "10.1038/srep07783",
+    "10.1039/c3cp52942h",
+    "10.1016/j.jallcom.2015.12.087"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "In2O3-based",
+        "Property": "ZT",
+        "Value": 0.45,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.12.087"
+      },
+      {
+        "Original_Name_In_Paper": "In2O3-based",
+        "Property": "ZT",
+        "Value": 0.44,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/srep07783"
+      }
+    ],
+    "1273.0": [
+      {
+        "Original_Name_In_Paper": "In2O3-based",
+        "Property": "PF",
+        "Value": 0.001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3cp52942h"
+      }
+    ]
+  }
+}

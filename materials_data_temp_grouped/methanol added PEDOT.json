@@ -1,0 +1,18 @@
+{
+  "Material": "methanol added PEDOT",
+  "DOIs_Researched": [
+    "10.1016/j.eurpolymj.2020.109726"
+  ],
+  "Data_By_Temperature": {
+    "460.0": [
+      {
+        "Original_Name_In_Paper": "methanol added PEDOT",
+        "Property": "PF",
+        "Value": 5.2e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.eurpolymj.2020.109726"
+      }
+    ]
+  }
+}

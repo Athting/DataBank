@@ -1,0 +1,50 @@
+{
+  "doi": "10.1007/BF02838529",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Ba0.38Fe1.6Co2.4Sb12",
+        "p-type Ba0.27Fe0.98Co3.02Sb12"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Ba0.38Fe1.6Co2.4Sb12",
+          "zt_value": 0.7000000000000001,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "p-type Ba0.27Fe0.98Co3.02Sb12",
+          "zt_value": 0.9,
+          "temperature": "750.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

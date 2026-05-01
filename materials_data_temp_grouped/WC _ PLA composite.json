@@ -1,0 +1,18 @@
+{
+  "Material": "WC / PLA composite",
+  "DOIs_Researched": [
+    "10.1016/j.jmat.2020.02.010"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "WC / PLA composite",
+        "Property": "ZT",
+        "Value": 0.00067,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2020.02.010"
+      }
+    ]
+  }
+}

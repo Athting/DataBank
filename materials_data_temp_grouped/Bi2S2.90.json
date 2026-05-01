@@ -1,0 +1,60 @@
+{
+  "Material": "Bi2S2.90",
+  "DOIs_Researched": [
+    "10.1016/j.matchemphys.2011.09.010",
+    "10.1016/j.jssc.2008.08.022",
+    "10.1039/c3cs35468g"
+  ],
+  "Data_By_Temperature": {
+    "523.0": [
+      {
+        "Original_Name_In_Paper": "textured Bi2S2.90",
+        "Property": "ZT",
+        "Value": 0.11,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3cs35468g"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2S2.90",
+        "Property": "ZT",
+        "Value": 0.11,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2008.08.022"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2S2.90",
+        "Property": "ZT",
+        "Value": 0.09,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2008.08.022"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2S2.90-T",
+        "Property": "ZT",
+        "Value": 0.11,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2008.08.022"
+      },
+      {
+        "Original_Name_In_Paper": "textured Bi2S2.90",
+        "Property": "ZT",
+        "Value": 0.11,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2008.08.022"
+      },
+      {
+        "Original_Name_In_Paper": "textured Bi2S2.90",
+        "Property": "ZT",
+        "Value": 0.11,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2011.09.010"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "PbSeTe / PbTe quantum dot superlattice thin films",
+  "DOIs_Researched": [
+    "10.1039/c3ta14129b"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "PbSeTe / PbTe quantum dot superlattice thin films",
+        "Property": "ZT",
+        "Value": 1.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta14129b"
+      }
+    ]
+  }
+}

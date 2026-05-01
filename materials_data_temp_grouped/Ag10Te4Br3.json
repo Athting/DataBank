@@ -1,0 +1,29 @@
+{
+  "Material": "Ag10Te4Br3",
+  "DOIs_Researched": [
+    "10.1039/c5tc01721a",
+    "10.1038/nmat2358"
+  ],
+  "Data_By_Temperature": {
+    "250.0": [
+      {
+        "Original_Name_In_Paper": "Ag10Te4Br3",
+        "Property": "ThermCond",
+        "Value": 0.27,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/nmat2358"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ag10Te4Br3",
+        "Property": "ThermCond",
+        "Value": 0.30000000000000004,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01721a"
+      }
+    ]
+  }
+}

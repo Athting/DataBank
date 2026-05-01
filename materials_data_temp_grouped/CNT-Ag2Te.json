@@ -1,0 +1,18 @@
+{
+  "Material": "CNT-Ag2Te",
+  "DOIs_Researched": [
+    "10.1038/s41563-018-0217-z"
+  ],
+  "Data_By_Temperature": {
+    "525.0": [
+      {
+        "Original_Name_In_Paper": "CNT\u2013Ag2Te",
+        "Property": "ZT",
+        "Value": 0.44,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41563-018-0217-z"
+      }
+    ]
+  }
+}

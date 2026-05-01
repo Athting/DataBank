@@ -1,0 +1,18 @@
+{
+  "Material": "Ca0.75Sr0.25Mn0.98Mo0.",
+  "DOIs_Researched": [
+    "10.1039/c5tc02318a"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ca0.75Sr0.25Mn0.98Mo0.02O3",
+        "Property": "ZT",
+        "Value": 0.03,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc02318a"
+      }
+    ]
+  }
+}

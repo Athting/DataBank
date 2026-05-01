@@ -1,0 +1,18 @@
+{
+  "Material": "MgSi0.4Sn0.6",
+  "DOIs_Researched": [
+    "10.1016/j.matlet.2020.128204"
+  ],
+  "Data_By_Temperature": {
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "undoped Mg2Si0.4Sn0.6 alloy",
+        "Property": "ZT",
+        "Value": 0.07,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2020.128204"
+      }
+    ]
+  }
+}

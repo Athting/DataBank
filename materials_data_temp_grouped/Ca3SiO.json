@@ -1,0 +1,28 @@
+{
+  "Material": "Ca3SiO",
+  "DOIs_Researched": [
+    "10.1007/s12648-018-1177-5"
+  ],
+  "Data_By_Temperature": {
+    "200.0": [
+      {
+        "Original_Name_In_Paper": "orthorhombic Ca3SiO",
+        "Property": "Seebeck",
+        "Value": 8.11305e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s12648-018-1177-5"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "orthorhombic Ca3SiO",
+        "Property": "Seebeck",
+        "Value": 0.0001290845,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s12648-018-1177-5"
+      }
+    ]
+  }
+}

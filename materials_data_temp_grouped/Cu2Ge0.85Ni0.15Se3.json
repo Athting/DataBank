@@ -1,0 +1,18 @@
+{
+  "Material": "Cu2Ge0.85Ni0.15Se3",
+  "DOIs_Researched": [
+    "10.1016/j.jeurceramsoc.2020.12.037"
+  ],
+  "Data_By_Temperature": {
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "Cu2Ge0.85Ni0.15Se3",
+        "Property": "Conductivity",
+        "Value": 292670.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2020.12.037"
+      }
+    ]
+  }
+}

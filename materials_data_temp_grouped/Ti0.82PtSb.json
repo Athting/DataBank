@@ -1,0 +1,18 @@
+{
+  "Material": "Ti0.82PtSb",
+  "DOIs_Researched": [
+    "10.1016/j.mtphys.2020.100200"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ti0.82PtSb",
+        "Property": "ThermCond",
+        "Value": 2.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2020.100200"
+      }
+    ]
+  }
+}

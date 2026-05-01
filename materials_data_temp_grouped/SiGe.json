@@ -1,0 +1,1478 @@
+{
+  "Material": "SiGe",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2018.02.184",
+    "10.1016/j.jallcom.2018.09.029",
+    "10.1016/j.mssp.2020.104917",
+    "10.1134/S1995078019040098",
+    "10.1007/s11434-014-0237-2",
+    "10.1016/j.energy.2017.11.018",
+    "10.1039/c3ta14259k",
+    "10.1016/j.mser.2009.10.001",
+    "10.1016/j.matdes.2017.01.020",
+    "10.1016/j.pnsc.2012.11.011",
+    "10.1016/j.applthermaleng.2016.09.108",
+    "10.1038/s41598-020-59820-8",
+    "10.1016/j.snb.2007.07.080",
+    "10.1039/c2ee22495j",
+    "10.1007/s10854-019-01245-9",
+    "10.1007/s10853-016-0387-5",
+    "10.1016/j.enconman.2018.12.108",
+    "10.1016/j.nanoen.2017.09.019",
+    "10.1016/j.enconman.2016.01.065",
+    "10.1016/j.scriptamat.2017.12.019",
+    "10.1016/j.nanoen.2018.03.054",
+    "10.1016/S0040-6090(00)00849-X",
+    "10.1039/c9cp03822a",
+    "10.1016/j.cap.2018.09.013",
+    "10.1016/j.rser.2019.109572",
+    "10.1016/j.jallcom.2018.11.414",
+    "10.1016/j.mser.2018.09.001",
+    "10.1016/j.snb.2004.11.025",
+    "10.1016/j.scriptamat.2017.08.048",
+    "10.1039/c7cp04240j",
+    "10.1016/j.jcrysgro.2016.05.024",
+    "10.1016/j.mssp.2018.08.020",
+    "10.1038/srep32778",
+    "10.1016/j.renene.2014.08.059",
+    "10.1016/j.pmatsci.2016.07.002",
+    "10.1016/j.nanoen.2018.12.050",
+    "10.1016/j.actamat.2013.10.062",
+    "10.1038/srep24123",
+    "10.1016/j.jallcom.2019.153182",
+    "10.1016/j.ijheatmasstransfer.2017.10.023",
+    "10.1016/j.jallcom.2020.154065",
+    "10.1038/s41598-019-39786-y",
+    "10.1557/jmr.2011.127",
+    "10.1038/srep44254",
+    "10.1016/j.jssc.2015.10.006",
+    "10.1016/j.mtla.2018.09.029",
+    "10.1016/j.rser.2016.06.035",
+    "10.1557/jmr.2011.117",
+    "10.1007/s10853-006-0600-z",
+    "10.1016/j.jmat.2018.11.004",
+    "10.1016/j.actamat.2010.04.021",
+    "10.1557/opl.2012.1731",
+    "10.1016/j.crci.2009.05.004",
+    "10.1016/j.jallcom.2007.09.086",
+    "10.1039/c5tc01632k",
+    "10.1016/j.materresbull.2019.05.008",
+    "10.1039/c4ee03042g",
+    "10.1016/j.nimb.2020.06.013",
+    "10.1039/c4ra07320g",
+    "10.1038/ncomms9144",
+    "10.1039/c8ta01806e",
+    "10.1016/j.apenergy.2017.07.083",
+    "10.1016/j.jallcom.2010.05.124",
+    "10.1016/B978-0-12-815751-0.00009-2",
+    "10.1039/c7cp03527f",
+    "10.1039/c7nr02557b",
+    "10.1039/c5nr00181a",
+    "10.1039/c0jm02755c",
+    "10.1016/j.jpowsour.2020.228713",
+    "10.1016/j.mser.2014.02.001",
+    "10.1016/j.snb.2004.12.077",
+    "10.1016/j.jssc.2006.04.022",
+    "10.1016/j.jnucmat.2019.151856",
+    "10.1016/j.rser.2013.03.008",
+    "10.1039/c6ra01947a",
+    "10.1007/s10853-012-6282-9",
+    "10.1016/j.nanoen.2012.10.005",
+    "10.1039/c5nr01786f",
+    "10.1016/j.jcrysgro.2016.02.025",
+    "10.1016/B978-0-12-409547-2.11642-7",
+    "10.1016/j.nanoen.2016.07.002"
+  ],
+  "Data_By_Temperature": {
+    "1173.0": [
+      {
+        "Original_Name_In_Paper": "SiGe nanoalloy",
+        "Property": "ThermCond",
+        "Value": 2.1,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2018.09.013"
+      },
+      {
+        "Original_Name_In_Paper": "nanostructured SiGe alloys",
+        "Property": "ThermCond",
+        "Value": 2.04,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5nr01786f"
+      },
+      {
+        "Original_Name_In_Paper": "nanostructured p-type SiGe alloys",
+        "Property": "ThermCond",
+        "Value": 2.04,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5nr01786f"
+      },
+      {
+        "Original_Name_In_Paper": "SiGe nanoalloy matrix",
+        "Property": "ThermCond",
+        "Value": 1.9,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": "addition of 0.23 vol % SiC",
+        "Source_DOI": "10.1039/c7cp04240j"
+      },
+      {
+        "Original_Name_In_Paper": "SiGe",
+        "Property": "ThermCond",
+        "Value": 1.9,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cp04240j"
+      },
+      {
+        "Original_Name_In_Paper": "n-type nano-structured SiGe",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rser.2019.109572"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Si0.8Ge0.2",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-12-409547-2.11642-7"
+      },
+      {
+        "Original_Name_In_Paper": "n-type SiGe nanocomposite",
+        "Property": "ZT",
+        "Value": 0.9500000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rser.2016.06.035"
+      },
+      {
+        "Original_Name_In_Paper": "p-type SiGe nanocomposites",
+        "Property": "ZT",
+        "Value": 0.9500000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pnsc.2012.11.011"
+      },
+      {
+        "Original_Name_In_Paper": "n-type SiGe nanocomposites",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pnsc.2012.11.011"
+      },
+      {
+        "Original_Name_In_Paper": "n-type Si80Ge20",
+        "Property": "ZT",
+        "Value": 0.65,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2018.11.004"
+      },
+      {
+        "Original_Name_In_Paper": "p-type SiGe",
+        "Property": "ZT",
+        "Value": 0.92,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2018.08.020"
+      },
+      {
+        "Original_Name_In_Paper": "n-type Si80Ge20 nanostructured alloy",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1557/opl.2012.1731"
+      },
+      {
+        "Original_Name_In_Paper": "bulk SiGe alloys",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2017.09.019"
+      },
+      {
+        "Original_Name_In_Paper": "n-type SiGe\u2013Mg2Si",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2017.12.019"
+      },
+      {
+        "Original_Name_In_Paper": "bulk n-type SiGe",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2016.07.002"
+      },
+      {
+        "Original_Name_In_Paper": "n-type SiGe",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2016.07.002"
+      },
+      {
+        "Original_Name_In_Paper": "n-type SiGe",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2016.07.002"
+      },
+      {
+        "Original_Name_In_Paper": "nanostructured n-type SiGe",
+        "Property": "ZT",
+        "Value": 1.8399999999999999,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2016.07.002"
+      },
+      {
+        "Original_Name_In_Paper": "nanostructured p-type SiGe",
+        "Property": "ZT",
+        "Value": 0.9500000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2016.07.002"
+      },
+      {
+        "Original_Name_In_Paper": "nanostructured p-type SiGe",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2016.07.002"
+      },
+      {
+        "Original_Name_In_Paper": "p-type SiGe",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2016.07.002"
+      },
+      {
+        "Original_Name_In_Paper": "SiGe nanoparticles",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01632k"
+      },
+      {
+        "Original_Name_In_Paper": "n and p-type Si80Ge20",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.11.414"
+      },
+      {
+        "Original_Name_In_Paper": "n-type SiGe",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtla.2018.09.029"
+      },
+      {
+        "Original_Name_In_Paper": "n-type SiGe",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtla.2018.09.029"
+      },
+      {
+        "Original_Name_In_Paper": "n-type SiGe alloys",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtla.2018.09.029"
+      },
+      {
+        "Original_Name_In_Paper": "nanostructured p-type SiGe",
+        "Property": "ZT",
+        "Value": 0.9500000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtla.2018.09.029"
+      },
+      {
+        "Original_Name_In_Paper": "p-type SiGe",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtla.2018.09.029"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Si80Ge20",
+        "Property": "ZT",
+        "Value": 0.9500000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rser.2013.03.008"
+      },
+      {
+        "Original_Name_In_Paper": "n-type Si0.8Ge0.2 alloy",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra07320g"
+      },
+      {
+        "Original_Name_In_Paper": "n-type nanostructured Si\u2013Ge bulk alloy",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2016.07.002"
+      },
+      {
+        "Original_Name_In_Paper": "n-type Si80Ge20 nanostructured alloy",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2016.07.002"
+      },
+      {
+        "Original_Name_In_Paper": "n-type bulk SiGe alloys",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.02.184"
+      },
+      {
+        "Original_Name_In_Paper": "n-type Si80Ge20 alloys",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.02.184"
+      },
+      {
+        "Original_Name_In_Paper": "doped nanostructured n-type Si80Ge20 alloys",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpowsour.2020.228713"
+      },
+      {
+        "Original_Name_In_Paper": "p-type nanostructured Si80Ge20 alloys",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5nr01786f"
+      },
+      {
+        "Original_Name_In_Paper": "bulk p-type SiGe alloys",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5nr01786f"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Si80Ge20 nanostructured alloys",
+        "Property": "ZT",
+        "Value": 0.9500000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5nr01786f"
+      },
+      {
+        "Original_Name_In_Paper": "nanostructured p-type Si80Ge20 alloys",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5nr01786f"
+      },
+      {
+        "Original_Name_In_Paper": "n-type Si0.8Ge0.2",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.05.124"
+      },
+      {
+        "Original_Name_In_Paper": "SiGe bulk alloy",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cp03527f"
+      },
+      {
+        "Original_Name_In_Paper": "phosphorus-doped Si0.8Ge0.2 pellets",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mser.2018.09.001"
+      },
+      {
+        "Original_Name_In_Paper": "SiGe",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mser.2018.09.001"
+      },
+      {
+        "Original_Name_In_Paper": "n-type nanostructured bulk SiGe",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta14259k"
+      },
+      {
+        "Original_Name_In_Paper": "n-type SiGe alloys",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta14259k"
+      },
+      {
+        "Original_Name_In_Paper": "p-type nanostructured SiGe alloys",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apenergy.2017.07.083"
+      },
+      {
+        "Original_Name_In_Paper": "p-type nanostructured bulk SiGe alloys",
+        "Property": "ZT",
+        "Value": 0.9500000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mser.2014.02.001"
+      },
+      {
+        "Original_Name_In_Paper": "SiGe",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9cp03822a"
+      },
+      {
+        "Original_Name_In_Paper": "nanostructured SiGe",
+        "Property": "Seebeck",
+        "Value": 0.00023,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5nr01786f"
+      },
+      {
+        "Original_Name_In_Paper": "nanostructured SiGe alloys",
+        "Property": "PF",
+        "Value": 0.00205,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5nr01786f"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Si0.5Ge0.5 alloys",
+        "Property": "ThermCond",
+        "Value": 11.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0040-6090(00)00849-X"
+      },
+      {
+        "Original_Name_In_Paper": "nanostructured Si0.8Ge0.2 films",
+        "Property": "ThermCond",
+        "Value": 1.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/srep32778"
+      },
+      {
+        "Original_Name_In_Paper": "n-type B-doped Si0.7Ge0.3and",
+        "Property": "ThermCond",
+        "Value": 4.7,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2007.09.086"
+      },
+      {
+        "Original_Name_In_Paper": "bulk SiGe alloy",
+        "Property": "ZT",
+        "Value": 0.128,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7nr02557b"
+      },
+      {
+        "Original_Name_In_Paper": "bulk SiGe",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5nr00181a"
+      },
+      {
+        "Original_Name_In_Paper": "nanograined SiGe thin films",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ijheatmasstransfer.2017.10.023"
+      },
+      {
+        "Original_Name_In_Paper": "Sb-doped SiGe",
+        "Property": "ZT",
+        "Value": 0.07,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jcrysgro.2016.02.025"
+      },
+      {
+        "Original_Name_In_Paper": "Ga-doped Si0.81Ge0.19",
+        "Property": "ZT",
+        "Value": 0.05,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jcrysgro.2016.02.025"
+      },
+      {
+        "Original_Name_In_Paper": "Si0.8Ge0.2",
+        "Property": "ZT",
+        "Value": 0.06,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jcrysgro.2016.02.025"
+      },
+      {
+        "Original_Name_In_Paper": "Si0.8Ge0.2",
+        "Property": "ZT",
+        "Value": 0.06,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jcrysgro.2016.02.025"
+      },
+      {
+        "Original_Name_In_Paper": "SiGe",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2018.03.054"
+      },
+      {
+        "Original_Name_In_Paper": "bulk SiGe",
+        "Property": "ZT",
+        "Value": 0.08,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2018.03.054"
+      },
+      {
+        "Original_Name_In_Paper": "SiGe",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2ee22495j"
+      },
+      {
+        "Original_Name_In_Paper": "SiGe",
+        "Property": "ZT",
+        "Value": 0.77,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9cp03822a"
+      },
+      {
+        "Original_Name_In_Paper": "Si0.9Ge0.1",
+        "Property": "PF",
+        "Value": 0.0016359999999999999,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jcrysgro.2016.02.025"
+      },
+      {
+        "Original_Name_In_Paper": "Si0.8Ge0.2 nano-meshed films",
+        "Property": "PF",
+        "Value": 0.000445,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/srep32778"
+      },
+      {
+        "Original_Name_In_Paper": "SiGe\u201320 % SiMo",
+        "Property": "Conductivity",
+        "Value": 173500.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-019-01245-9"
+      }
+    ],
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "SiGe",
+        "Property": "ThermCond",
+        "Value": 4.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-019-01245-9"
+      },
+      {
+        "Original_Name_In_Paper": "SiGe\u20131 % SiMo",
+        "Property": "ThermCond",
+        "Value": 4.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-019-01245-9"
+      },
+      {
+        "Original_Name_In_Paper": "SiGe",
+        "Property": "Seebeck",
+        "Value": 0.000145,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.09.029"
+      },
+      {
+        "Original_Name_In_Paper": "SiGe",
+        "Property": "Seebeck",
+        "Value": 0.000101,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.09.029"
+      },
+      {
+        "Original_Name_In_Paper": "B-doped SiGe thin film",
+        "Property": "Seebeck",
+        "Value": 0.00011499999999999999,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.snb.2004.12.077"
+      },
+      {
+        "Original_Name_In_Paper": "SiGe thin film",
+        "Property": "Seebeck",
+        "Value": 0.00011499999999999999,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.snb.2004.11.025"
+      },
+      {
+        "Original_Name_In_Paper": "at. % doped SiGe alloy",
+        "Property": "Conductivity",
+        "Value": 45450.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2017.08.048"
+      }
+    ],
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "SiGe\u201320 % SiMo",
+        "Property": "ThermCond",
+        "Value": 2.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-019-01245-9"
+      },
+      {
+        "Original_Name_In_Paper": "nanostructured n-type SiGe bulk alloys",
+        "Property": "ThermCond",
+        "Value": 0.9,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2018.08.020"
+      },
+      {
+        "Original_Name_In_Paper": "SiGe alloy",
+        "Property": "ZT",
+        "Value": 0.525,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.09.029"
+      },
+      {
+        "Original_Name_In_Paper": "Si80Ge20",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2018.08.020"
+      },
+      {
+        "Original_Name_In_Paper": "nanostructured n-type SiGe bulk alloys",
+        "Property": "ZT",
+        "Value": 1.8399999999999999,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2018.08.020"
+      },
+      {
+        "Original_Name_In_Paper": "Si0.9Ge0.1\u2013Mg2Si 1 %",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2017.12.019"
+      },
+      {
+        "Original_Name_In_Paper": "n-type Si80Ge20 alloy",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.02.184"
+      },
+      {
+        "Original_Name_In_Paper": "n-type SiGe alloys",
+        "Property": "ZT",
+        "Value": 1.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.enconman.2016.01.065"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Si0.8Ge0.2 alloy",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-012-6282-9"
+      },
+      {
+        "Original_Name_In_Paper": "n-type Si0.8Ge0.2 alloy",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-012-6282-9"
+      },
+      {
+        "Original_Name_In_Paper": "Si0.8Ge0.2 alloy",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2013.10.062"
+      },
+      {
+        "Original_Name_In_Paper": "Si0.8Ge0.2 alloy",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2013.10.062"
+      },
+      {
+        "Original_Name_In_Paper": "n-type SiGe nanostructured bulk alloys",
+        "Property": "ZT",
+        "Value": 1.8399999999999999,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta14259k"
+      },
+      {
+        "Original_Name_In_Paper": "nanostructured bulk SiGe alloy",
+        "Property": "ZT",
+        "Value": 1.8399999999999999,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta14259k"
+      },
+      {
+        "Original_Name_In_Paper": "p-type SiGe alloys",
+        "Property": "ZT",
+        "Value": 0.65,
+        "Units": null,
+        "Editing": "By introducing",
+        "Source_DOI": "10.1016/j.apenergy.2017.07.083"
+      },
+      {
+        "Original_Name_In_Paper": "p-type nanostructured SiGe bulk alloys",
+        "Property": "ZT",
+        "Value": 0.9500000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1557/jmr.2011.127"
+      },
+      {
+        "Original_Name_In_Paper": "n-type bulk SiGe alloys",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9cp03822a"
+      },
+      {
+        "Original_Name_In_Paper": "SiGe",
+        "Property": "Seebeck",
+        "Value": 0.000294,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.09.029"
+      },
+      {
+        "Original_Name_In_Paper": "Si0.99Ge0.01 pellets",
+        "Property": "PF",
+        "Value": 0.0044,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mser.2018.09.001"
+      },
+      {
+        "Original_Name_In_Paper": "SiGe\u201320 % SiMo",
+        "Property": "PF",
+        "Value": 0.0029000000000000002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-019-01245-9"
+      },
+      {
+        "Original_Name_In_Paper": "SiGe",
+        "Property": "Conductivity",
+        "Value": 38000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.09.029"
+      }
+    ],
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "nanostructured SiGe alloy",
+        "Property": "ThermCond",
+        "Value": 1.55,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1557/jmr.2011.117"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "bulk Si0.5Ge0.5 alloys",
+        "Property": "ThermCond",
+        "Value": 8.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mser.2009.10.001"
+      },
+      {
+        "Original_Name_In_Paper": "SiGe with 2 % Ge",
+        "Property": "ThermCond",
+        "Value": 34.3,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/srep44254"
+      },
+      {
+        "Original_Name_In_Paper": "p-type SiGe films",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5nr00181a"
+      },
+      {
+        "Original_Name_In_Paper": "bulk p-type SiGe",
+        "Property": "ZT",
+        "Value": 0.05,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5nr00181a"
+      },
+      {
+        "Original_Name_In_Paper": "Si0.5Ge0.5",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mser.2009.10.001"
+      },
+      {
+        "Original_Name_In_Paper": "SiGe",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.crci.2009.05.004"
+      },
+      {
+        "Original_Name_In_Paper": "n-type Si0.7Ge0.3 alloy",
+        "Property": "Conductivity",
+        "Value": 62500.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-006-0600-z"
+      },
+      {
+        "Original_Name_In_Paper": "n-type Si0.7Ge0.3 alloy",
+        "Property": "Seebeck",
+        "Value": -0.00048000000000000007,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-006-0600-z"
+      }
+    ],
+    "1100.0": [
+      {
+        "Original_Name_In_Paper": "SiGe",
+        "Property": "ThermCond",
+        "Value": 3.86,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": "YSi2 nanoinclusions",
+        "Source_DOI": "10.1016/j.nanoen.2016.07.002"
+      },
+      {
+        "Original_Name_In_Paper": "SiGe",
+        "Property": "ThermCond",
+        "Value": 1.73,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": "YSi2 nanoinclusions",
+        "Source_DOI": "10.1016/j.nanoen.2016.07.002"
+      },
+      {
+        "Original_Name_In_Paper": "doped n-type Si0.7Ge0.3 alloy",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2018.12.050"
+      },
+      {
+        "Original_Name_In_Paper": "p-type SiGe alloys",
+        "Property": "ZT",
+        "Value": 1.81,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2016.07.002"
+      },
+      {
+        "Original_Name_In_Paper": "SiGe with YSi2",
+        "Property": "ZT",
+        "Value": 1.81,
+        "Units": null,
+        "Editing": "SiGe with YSi2 nano-inclusions",
+        "Source_DOI": "10.1016/j.nanoen.2016.07.002"
+      },
+      {
+        "Original_Name_In_Paper": "p-type SiGe",
+        "Property": "ZT",
+        "Value": 1.81,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2016.07.002"
+      },
+      {
+        "Original_Name_In_Paper": "n-type SiGe",
+        "Property": "ZT",
+        "Value": 1.8399999999999999,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtla.2018.09.029"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Si0.70Ge0.30 alloys",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mser.2018.09.001"
+      }
+    ],
+    "1023.0": [
+      {
+        "Original_Name_In_Paper": "bulk SiGe",
+        "Property": "ThermCond",
+        "Value": 2.81,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2019.05.008"
+      },
+      {
+        "Original_Name_In_Paper": "SiGe",
+        "Property": "ZT",
+        "Value": 1.03,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2019.05.008"
+      },
+      {
+        "Original_Name_In_Paper": "bulk SiGe",
+        "Property": "ZT",
+        "Value": 1.03,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2019.05.008"
+      },
+      {
+        "Original_Name_In_Paper": "bulk SiGe",
+        "Property": "PF",
+        "Value": 0.0031439999999999997,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2019.05.008"
+      },
+      {
+        "Original_Name_In_Paper": "SiGe alloy",
+        "Property": "PF",
+        "Value": 0.0021869999999999997,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2017.08.048"
+      },
+      {
+        "Original_Name_In_Paper": "SiGe",
+        "Property": "Conductivity",
+        "Value": 26590.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2019.05.008"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Si0.93Ge0.07",
+        "Property": "ThermCond",
+        "Value": 16.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jcrysgro.2016.05.024"
+      }
+    ],
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "Si2Ge",
+        "Property": "ThermCond",
+        "Value": 0.28,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-020-59820-8"
+      },
+      {
+        "Original_Name_In_Paper": "bulk SiGe",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mser.2009.10.001"
+      },
+      {
+        "Original_Name_In_Paper": "SiGe",
+        "Property": "ZT",
+        "Value": 1.19,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154065"
+      },
+      {
+        "Original_Name_In_Paper": "bulk SiGe alloy",
+        "Property": "ZT",
+        "Value": 0.72,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1134/S1995078019040098"
+      },
+      {
+        "Original_Name_In_Paper": "SiGe",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ee03042g"
+      }
+    ],
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Si80Ge20",
+        "Property": "ZT",
+        "Value": 0.63,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.153182"
+      },
+      {
+        "Original_Name_In_Paper": "SiGe",
+        "Property": "PF",
+        "Value": 0.0022,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-019-01245-9"
+      },
+      {
+        "Original_Name_In_Paper": "SiGe alloy",
+        "Property": "PF",
+        "Value": 0.00197,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.09.029"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Si80Ge20 doped with boron",
+        "Property": "ZT",
+        "Value": 0.9500000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2012.10.005"
+      },
+      {
+        "Original_Name_In_Paper": "Si2Ge",
+        "Property": "ZT",
+        "Value": 2.54,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-020-59820-8"
+      },
+      {
+        "Original_Name_In_Paper": "SiGe nanowire",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11434-014-0237-2"
+      },
+      {
+        "Original_Name_In_Paper": "n-type SiGe nanowires",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra07320g"
+      },
+      {
+        "Original_Name_In_Paper": "SiGe nanowire",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-12-815751-0.00009-2"
+      }
+    ],
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "SiGe bulk materials",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2012.10.005"
+      },
+      {
+        "Original_Name_In_Paper": "n-type doped Si0.8Ge0.2",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-12-409547-2.11642-7"
+      },
+      {
+        "Original_Name_In_Paper": "Si0.2Ge0.8 compound",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2010.04.021"
+      },
+      {
+        "Original_Name_In_Paper": "SiGe",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2016.07.002"
+      },
+      {
+        "Original_Name_In_Paper": "Si(Ge)",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matdes.2017.01.020"
+      },
+      {
+        "Original_Name_In_Paper": "Si95Ge5",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c0jm02755c"
+      },
+      {
+        "Original_Name_In_Paper": "SiGe",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2015.10.006"
+      }
+    ],
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "Si80Ge20",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.energy.2017.11.018"
+      }
+    ],
+    "1156.0": [
+      {
+        "Original_Name_In_Paper": "Si80Ge20",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-016-0387-5"
+      }
+    ],
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "n-type SiGe",
+        "Property": "ZT",
+        "Value": 1.07,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jnucmat.2019.151856"
+      },
+      {
+        "Original_Name_In_Paper": "p-type SiGe",
+        "Property": "ZT",
+        "Value": 0.46,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jnucmat.2019.151856"
+      },
+      {
+        "Original_Name_In_Paper": "p-type SiGe",
+        "Property": "ZT",
+        "Value": 0.46,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jnucmat.2019.151856"
+      },
+      {
+        "Original_Name_In_Paper": "SiGe material",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.applthermaleng.2016.09.108"
+      }
+    ],
+    "1200.0": [
+      {
+        "Original_Name_In_Paper": "SiGe alloy",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta01806e"
+      },
+      {
+        "Original_Name_In_Paper": "SiGe",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-019-39786-y"
+      },
+      {
+        "Original_Name_In_Paper": "SiGe nanoparticles",
+        "Property": "ZT",
+        "Value": 2.5,
+        "Units": null,
+        "Editing": "% GaP doping",
+        "Source_DOI": "10.1038/s41598-019-39786-y"
+      },
+      {
+        "Original_Name_In_Paper": "n and p-type SiGe",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.11.414"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Si\u2013Ge alloys",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2016.07.002"
+      },
+      {
+        "Original_Name_In_Paper": "p-type SiGe",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.enconman.2018.12.108"
+      },
+      {
+        "Original_Name_In_Paper": "Si95Ge5",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": "YbP inclusions",
+        "Source_DOI": "10.1016/j.jallcom.2018.02.184"
+      }
+    ],
+    "1273.0": [
+      {
+        "Original_Name_In_Paper": "p-type SiGe",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2006.04.022"
+      },
+      {
+        "Original_Name_In_Paper": "bulk Si0.80Ge0.20",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra01947a"
+      },
+      {
+        "Original_Name_In_Paper": "SiGe",
+        "Property": "Conductivity",
+        "Value": 50000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nimb.2020.06.013"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "SiGe-YSi2 nanocomposite with TAGS-85",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2016.07.002"
+      }
+    ],
+    "1098.0": [
+      {
+        "Original_Name_In_Paper": "n-type SiGe",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.renene.2014.08.059"
+      }
+    ],
+    "820.0": [
+      {
+        "Original_Name_In_Paper": "Sb-doped SiGe",
+        "Property": "ZT",
+        "Value": 0.34,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jcrysgro.2016.02.025"
+      }
+    ],
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "nanostructured boron doped SiGe",
+        "Property": "ZT",
+        "Value": 0.32,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2020.104917"
+      }
+    ],
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "p-type SiGe alloys",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/ncomms9144"
+      }
+    ],
+    "1123.0": [
+      {
+        "Original_Name_In_Paper": "p-type SiGe alloys",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1557/jmr.2011.127"
+      }
+    ],
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "Si80Ge20",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/srep24123"
+      }
+    ],
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "SiGe",
+        "Property": "Seebeck",
+        "Value": 0.000135,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-019-01245-9"
+      },
+      {
+        "Original_Name_In_Paper": "SiGe\u201320 % SiMo",
+        "Property": "Seebeck",
+        "Value": 8.8e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-019-01245-9"
+      },
+      {
+        "Original_Name_In_Paper": "n-type SiGe",
+        "Property": "Conductivity",
+        "Value": 119730.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jnucmat.2019.151856"
+      }
+    ],
+    "532.0": [
+      {
+        "Original_Name_In_Paper": "SiGe thin film",
+        "Property": "Seebeck",
+        "Value": 7.2e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.snb.2007.07.080"
+      }
+    ]
+  }
+}

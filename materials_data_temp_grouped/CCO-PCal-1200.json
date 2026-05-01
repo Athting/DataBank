@@ -1,0 +1,18 @@
+{
+  "Material": "CCO-PCal-1200",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2014.04.008"
+  ],
+  "Data_By_Temperature": {
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "CCO-PCal-1200",
+        "Property": "PF",
+        "Value": 0.000245,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2014.04.008"
+      }
+    ]
+  }
+}

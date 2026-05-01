@@ -1,0 +1,18 @@
+{
+  "Material": "Ce0.44Yb0.32Fe3.02Sb12",
+  "DOIs_Researched": [
+    "10.1016/j.physb.2006.03.068"
+  ],
+  "Data_By_Temperature": {
+    "525.0": [
+      {
+        "Original_Name_In_Paper": "p-type Ce0.44Yb0.32Fe3.02Co0.98Sb12",
+        "Property": "ZT",
+        "Value": 0.55,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2006.03.068"
+      }
+    ]
+  }
+}

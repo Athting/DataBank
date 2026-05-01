@@ -1,0 +1,18 @@
+{
+  "Material": "In2Se3 nanowires",
+  "DOIs_Researched": [
+    "10.1016/j.apsusc.2019.07.233"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "In2Se3 nanowires",
+        "Property": "ThermCond",
+        "Value": 0.25,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2019.07.233"
+      }
+    ]
+  }
+}

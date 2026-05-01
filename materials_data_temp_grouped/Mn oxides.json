@@ -1,0 +1,18 @@
+{
+  "Material": "Mn oxides",
+  "DOIs_Researched": [
+    "10.1533/9781845690915.3.339"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Mn oxides",
+        "Property": "Seebeck",
+        "Value": 1e-06,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1533/9781845690915.3.339"
+      }
+    ]
+  }
+}

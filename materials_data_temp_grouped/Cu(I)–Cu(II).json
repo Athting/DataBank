@@ -1,0 +1,18 @@
+{
+  "Material": "Cu(I)\u2013Cu(II)",
+  "DOIs_Researched": [
+    "10.1007/s10948-019-05354-8"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Cu(I)\u2013Cu(II)",
+        "Property": "ZT",
+        "Value": 0.03,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10948-019-05354-8"
+      }
+    ]
+  }
+}

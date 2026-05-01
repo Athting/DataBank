@@ -1,0 +1,18 @@
+{
+  "Material": "La2PdGe6",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2012.01.036"
+  ],
+  "Data_By_Temperature": {
+    "150.0": [
+      {
+        "Original_Name_In_Paper": "La2PdGe6",
+        "Property": "Seebeck",
+        "Value": -6e-07,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2012.01.036"
+      }
+    ]
+  }
+}

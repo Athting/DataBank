@@ -1,0 +1,26 @@
+{
+  "Material": "BaMn1.3Zn0.7Sb2",
+  "DOIs_Researched": [
+    "10.1007/s10854-012-0820-8"
+  ],
+  "Data_By_Temperature": {
+    "473.0": [
+      {
+        "Original_Name_In_Paper": "BaMn1.3Zn0.7Sb2",
+        "Property": "PF",
+        "Value": 6.3e-06,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-012-0820-8"
+      },
+      {
+        "Original_Name_In_Paper": "BaMn1.3Zn0.7Sb2",
+        "Property": "PF",
+        "Value": 6.3e-06,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-012-0820-8"
+      }
+    ]
+  }
+}

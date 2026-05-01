@@ -1,0 +1,866 @@
+{
+  "Material": "Bi2Se3",
+  "DOIs_Researched": [
+    "10.1039/c5nr00917k",
+    "10.1016/j.nanoen.2015.10.012",
+    "10.1039/d0cp00729c",
+    "10.1016/j.nanoen.2019.02.015",
+    "10.1016/j.jssc.2019.04.005",
+    "10.1007/s11671-010-9795-7",
+    "10.1016/j.cplett.2015.08.029",
+    "10.1016/S0022-0248(02)01540-3",
+    "10.1016/j.molstruc.2014.08.044",
+    "10.1039/c8ra07395c",
+    "10.1039/c2ee23549h",
+    "10.1016/j.matchemphys.2009.08.067",
+    "10.1039/c2ce26678d",
+    "10.1007/s10853-009-3402-2",
+    "10.1016/j.matchemphys.2018.12.034",
+    "10.1007/s00339-012-7491-4",
+    "10.1016/j.jallcom.2015.03.124",
+    "10.1016/j.materresbull.2013.06.013",
+    "10.1039/c4ce00004h",
+    "10.1039/c8qi00366a",
+    "10.1016/j.matlet.2018.08.129",
+    "10.1016/j.jallcom.2017.01.062",
+    "10.1016/j.jmat.2016.04.002",
+    "10.1039/c9mh00543a",
+    "10.1186/s11671-016-1407-8",
+    "10.1039/c8nr07112h",
+    "10.1039/c3cs60231a",
+    "10.1007/s12598-020-01414-4",
+    "10.1016/S0040-6090(03)00675-8",
+    "10.1038/natrevmats.2017.49",
+    "10.1039/c4tc00586d",
+    "10.1016/j.pmatsci.2017.09.004",
+    "10.1007/s40820-020-0374-x",
+    "10.1007/s10854-020-04383-7",
+    "10.1039/c6ee02674e",
+    "10.1016/j.physb.2020.412275",
+    "10.1016/j.jallcom.2016.06.006",
+    "10.1016/j.jpcs.2019.109262",
+    "10.1039/d0ta00240b",
+    "10.1016/j.nanoen.2017.02.041",
+    "10.1039/c3ce40491a",
+    "10.1016/j.matchemphys.2008.11.026",
+    "10.1557/mrc.2018.128",
+    "10.1016/j.nanoen.2019.103870",
+    "10.1039/d0ra04065g",
+    "10.1016/S0022-0248(03)01511-2",
+    "10.1016/j.enconman.2017.04.083",
+    "10.1016/j.apsusc.2013.08.107",
+    "10.1016/j.jmmm.2006.02.041"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Se3",
+        "Property": "ThermCond",
+        "Value": 1.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta00240b"
+      },
+      {
+        "Original_Name_In_Paper": "pure Bi2Se3",
+        "Property": "ThermCond",
+        "Value": 0.51,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.06.006"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Se3",
+        "Property": "ThermCond",
+        "Value": 0.51,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.06.006"
+      },
+      {
+        "Original_Name_In_Paper": "rhombohedral Bi2Se3",
+        "Property": "ThermCond",
+        "Value": 1.3,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ee02674e"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Se3",
+        "Property": "ThermCond",
+        "Value": 1.3,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ee02674e"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Se3",
+        "Property": "ThermCond",
+        "Value": 2.4,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ra04065g"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Se3",
+        "Property": "ThermCond",
+        "Value": 1.25,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2018.08.129"
+      },
+      {
+        "Original_Name_In_Paper": "bulk Bi2Se3",
+        "Property": "ThermCond",
+        "Value": 1.3,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2018.08.129"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Se3",
+        "Property": "ThermCond",
+        "Value": 1.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2019.04.005"
+      },
+      {
+        "Original_Name_In_Paper": "bulk Bi2Se3",
+        "Property": "ThermCond",
+        "Value": 3.1,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5nr00917k"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Se3",
+        "Property": "ZT",
+        "Value": 0.02,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-020-04383-7"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Se3",
+        "Property": "ZT",
+        "Value": 0.18,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2018.08.129"
+      },
+      {
+        "Original_Name_In_Paper": "pristine Bi2Se3",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ra04065g"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Se3-PVDF nanocomposites",
+        "Property": "ZT",
+        "Value": 0.004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2020.412275"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Se3",
+        "Property": "Conductivity",
+        "Value": 26315.7894736842,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0040-6090(03)00675-8"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Se3",
+        "Property": "Conductivity",
+        "Value": 26315.7894736842,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0022-0248(02)01540-3"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Se3",
+        "Property": "Conductivity",
+        "Value": 26315.7894736842,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0022-0248(03)01511-2"
+      },
+      {
+        "Original_Name_In_Paper": "un-doped Bi2Se3",
+        "Property": "Conductivity",
+        "Value": 25188.9168765743,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.03.124"
+      },
+      {
+        "Original_Name_In_Paper": "bismuth selenide ( Bi2Se3 )",
+        "Property": "Seebeck",
+        "Value": -0.000121,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s00339-012-7491-4"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Se3",
+        "Property": "Seebeck",
+        "Value": -0.00012000000000000002,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2020.412275"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Se3",
+        "Property": "Seebeck",
+        "Value": 0.000556,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2008.11.026"
+      },
+      {
+        "Original_Name_In_Paper": "pristine Bi2Se3",
+        "Property": "Seebeck",
+        "Value": -4e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ra04065g"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Se3 nanostructure",
+        "Property": "Seebeck",
+        "Value": 6.769999999999999e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cplett.2015.08.029"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Se3",
+        "Property": "Conductivity",
+        "Value": 1060.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2017.02.041"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Se3 nanodiscs",
+        "Property": "Conductivity",
+        "Value": 38678.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ce40491a"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Bi2Se3 nanoflakes",
+        "Property": "ThermCond",
+        "Value": 2.66,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.06.006"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Se3",
+        "Property": "ThermCond",
+        "Value": 0.23,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2020.412275"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Se3",
+        "Property": "ThermCond",
+        "Value": 0.23,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2020.412275"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Se3 single crystal",
+        "Property": "ThermCond",
+        "Value": 3.1,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.01.062"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Se3 single crystal",
+        "Property": "ThermCond",
+        "Value": 1.6,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.01.062"
+      },
+      {
+        "Original_Name_In_Paper": "bulk Bi2Se3",
+        "Property": "ThermCond",
+        "Value": 4.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11671-010-9795-7"
+      },
+      {
+        "Original_Name_In_Paper": "single-QL Bi2Se3",
+        "Property": "ThermCond",
+        "Value": 2.1,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2019.02.015"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Se3 / PVDF composite",
+        "Property": "ZT",
+        "Value": 0.04,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2015.10.012"
+      },
+      {
+        "Original_Name_In_Paper": "bulk Bi2Se3 pellets",
+        "Property": "ZT",
+        "Value": 0.11,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2015.10.012"
+      },
+      {
+        "Original_Name_In_Paper": "Cu-doped Bi2Se3 nanoplates",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2015.10.012"
+      },
+      {
+        "Original_Name_In_Paper": "Te-doped bulk Bi2Se3",
+        "Property": "ZT",
+        "Value": 0.14,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2019.109262"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Se3",
+        "Property": "ZT",
+        "Value": 0.05,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2ee23549h"
+      },
+      {
+        "Original_Name_In_Paper": "Bismuth selenide, Bi2Se3",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2013.06.013"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Se3",
+        "Property": "ZT",
+        "Value": 0.463,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2018.12.034"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Se3",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/natrevmats.2017.49"
+      },
+      {
+        "Original_Name_In_Paper": "nanostructures Bi2Se3",
+        "Property": "ZT",
+        "Value": 0.096,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.molstruc.2014.08.044"
+      },
+      {
+        "Original_Name_In_Paper": "Bismuth selenide Bi2Se3",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2009.08.067"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Se3",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": "In addition",
+        "Source_DOI": "10.1039/d0cp00729c"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Se3",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2019.103870"
+      },
+      {
+        "Original_Name_In_Paper": "nanostructured Bi2Se3",
+        "Property": "Conductivity",
+        "Value": 250000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.01.062"
+      },
+      {
+        "Original_Name_In_Paper": "nanostructured Bi2Se3",
+        "Property": "Seebeck",
+        "Value": -0.00011499999999999999,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.01.062"
+      },
+      {
+        "Original_Name_In_Paper": "Mn-doped Bi2Se3",
+        "Property": "Seebeck",
+        "Value": 0.0009477,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmmm.2006.02.041"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Se3 nanoparticles",
+        "Property": "Seebeck",
+        "Value": -9.099999999999999e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1557/mrc.2018.128"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Se3 / PVA",
+        "Property": "Seebeck",
+        "Value": -9.099999999999999e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1557/mrc.2018.128"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Se3 nanoplates",
+        "Property": "Seebeck",
+        "Value": 8400.0,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11671-010-9795-7"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Se3 nanoplates.The",
+        "Property": "PF",
+        "Value": 700000.0,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11671-010-9795-7"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Se3 nanoplates",
+        "Property": "PF",
+        "Value": 0.00015000000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ce00004h"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Se3 films",
+        "Property": "PF",
+        "Value": 0.00058,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2013.08.107"
+      },
+      {
+        "Original_Name_In_Paper": "Cu-doped Bi2Se3 nanoplates",
+        "Property": "PF",
+        "Value": 0.000103,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2015.10.012"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Se3",
+        "Property": "ThermCond",
+        "Value": 0.42,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": "alloying 50 % Sb",
+        "Source_DOI": "10.1039/c9mh00543a"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Se3 nanostructures",
+        "Property": "ZT",
+        "Value": 1.43,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1186/s11671-016-1407-8"
+      }
+    ],
+    "523.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Se3 thin film",
+        "Property": "ZT",
+        "Value": 0.096,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-020-04383-7"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Se3 nanostructures",
+        "Property": "ZT",
+        "Value": 0.096,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11671-010-9795-7"
+      },
+      {
+        "Original_Name_In_Paper": "Ultrathin Bi2Se3 nanosheets",
+        "Property": "PF",
+        "Value": 0.000157,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8qi00366a"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Se3 microrods",
+        "Property": "PF",
+        "Value": 9.2e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2ce26678d"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Se3 microrods",
+        "Property": "PF",
+        "Value": 9.2e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2ce26678d"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Se3 nanosheets",
+        "Property": "Conductivity",
+        "Value": 7120.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ce00004h"
+      }
+    ],
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "Single crystal Bi2Se3",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-020-04383-7"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Se3 films",
+        "Property": "ZT",
+        "Value": 0.35000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ra07395c"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Se3",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4tc00586d"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Se3",
+        "Property": "ZT",
+        "Value": 0.35000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.enconman.2017.04.083"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Se3",
+        "Property": "ZT",
+        "Value": 0.35000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.03.124"
+      },
+      {
+        "Original_Name_In_Paper": "ultrathin Bi2Se3-based",
+        "Property": "ZT",
+        "Value": 0.35000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3cs60231a"
+      }
+    ],
+    "525.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Se3",
+        "Property": "ZT",
+        "Value": 0.41000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s12598-020-01414-4"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Se3 + 15 mol % TiO2",
+        "Property": "ZT",
+        "Value": 0.41000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s12598-020-01414-4"
+      }
+    ],
+    "560.0": [
+      {
+        "Original_Name_In_Paper": "undoped Bi2Se3",
+        "Property": "ZT",
+        "Value": 0.37,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.01.062"
+      },
+      {
+        "Original_Name_In_Paper": "undoped Bi2Se3",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.01.062"
+      },
+      {
+        "Original_Name_In_Paper": "undoped Bi2Se3",
+        "Property": "ZT",
+        "Value": 0.37,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.01.062"
+      }
+    ],
+    "290.0": [
+      {
+        "Original_Name_In_Paper": "Cu doped Bi2Se3 nanoplates",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2017.09.004"
+      },
+      {
+        "Original_Name_In_Paper": "n-type Cu-doped Bi2Se3 nanoplate",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8nr07112h"
+      },
+      {
+        "Original_Name_In_Paper": "n-type Cu-doped Bi2Se3 nanoplate",
+        "Property": "PF",
+        "Value": 0.000103,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8nr07112h"
+      }
+    ],
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "bismuth oxyselenide",
+        "Property": "ZT",
+        "Value": 0.66,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2016.04.002"
+      }
+    ],
+    "430.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Se3",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.enconman.2017.04.083"
+      }
+    ],
+    "370.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Se3",
+        "Property": "ZT",
+        "Value": 0.96,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.enconman.2017.04.083"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Se3",
+        "Property": "ZT",
+        "Value": 0.96,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.enconman.2017.04.083"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Se3",
+        "Property": "ZT",
+        "Value": 0.96,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.enconman.2017.04.083"
+      }
+    ],
+    "590.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Se3",
+        "Property": "ZT",
+        "Value": 0.54,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.03.124"
+      }
+    ],
+    "2.0": [
+      {
+        "Original_Name_In_Paper": "p-type Bi2Se3 single crystals",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.03.124"
+      }
+    ],
+    "480.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Se3 nanoflakes",
+        "Property": "ZT",
+        "Value": 0.19,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.03.124"
+      }
+    ],
+    "473.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Se3",
+        "Property": "ZT",
+        "Value": 0.8260000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2018.12.034"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Se3",
+        "Property": "ZT",
+        "Value": 0.8300000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2018.12.034"
+      }
+    ],
+    "350.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Se3",
+        "Property": "ZT",
+        "Value": 0.026000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2020.412275"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Se3-PVDF nanocomposite",
+        "Property": "ZT",
+        "Value": 0.004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2020.412275"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Se3-PVDF nanocomposite",
+        "Property": "ZT",
+        "Value": 0.004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2020.412275"
+      },
+      {
+        "Original_Name_In_Paper": "pristine Bi2Se3",
+        "Property": "Seebeck",
+        "Value": 0.00012299999999999998,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-020-04383-7"
+      }
+    ],
+    "450.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Se3 @ Bi2Te3 nanoplates",
+        "Property": "ZT",
+        "Value": 0.71,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s40820-020-0374-x"
+      }
+    ],
+    "250.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Se3",
+        "Property": "Conductivity",
+        "Value": 1000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2020.412275"
+      }
+    ],
+    "298.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Se3",
+        "Property": "Conductivity",
+        "Value": 238095.2380952381,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2ee23549h"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Se3",
+        "Property": "Seebeck",
+        "Value": -3.7e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2ee23549h"
+      }
+    ],
+    "420.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Se3",
+        "Property": "Conductivity",
+        "Value": 481.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-009-3402-2"
+      }
+    ],
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Se3 nanodiscs",
+        "Property": "Conductivity",
+        "Value": 39506.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ce40491a"
+      }
+    ]
+  }
+}

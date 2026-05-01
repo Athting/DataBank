@@ -1,0 +1,18 @@
+{
+  "Material": "PEDOT / PSS pellets",
+  "DOIs_Researched": [
+    "10.1016/j.synthmet.2010.09.031"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "PEDOT / PSS pellets",
+        "Property": "Conductivity",
+        "Value": 5500.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.synthmet.2010.09.031"
+      }
+    ]
+  }
+}

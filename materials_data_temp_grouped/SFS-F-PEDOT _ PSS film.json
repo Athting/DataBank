@@ -1,0 +1,26 @@
+{
+  "Material": "SFS-F-PEDOT : PSS film",
+  "DOIs_Researched": [
+    "10.1016/j.orgel.2020.105682"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "SFS-F-PEDOT : PSS film",
+        "Property": "ThermCond",
+        "Value": 0.29,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.orgel.2020.105682"
+      },
+      {
+        "Original_Name_In_Paper": "SFS-F-PEDOT : PSS film",
+        "Property": "ZT",
+        "Value": 0.29,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.orgel.2020.105682"
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "Material": "Bi2Te2.9I0.1",
+  "DOIs_Researched": [
+    "10.1016/j.pnsc.2017.02.009"
+  ],
+  "Data_By_Temperature": {
+    "448.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Te2.9I0.1",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pnsc.2017.02.009"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Te2.9I0.1",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pnsc.2017.02.009"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Te2.9I0.1",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pnsc.2017.02.009"
+      }
+    ]
+  }
+}

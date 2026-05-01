@@ -1,0 +1,18 @@
+{
+  "Material": "PEDOT / rGO composite",
+  "DOIs_Researched": [
+    "10.1016/j.compscitech.2016.01.014"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "PEDOT / rGO composite",
+        "Property": "ZT",
+        "Value": 0.067,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.compscitech.2016.01.014"
+      }
+    ]
+  }
+}

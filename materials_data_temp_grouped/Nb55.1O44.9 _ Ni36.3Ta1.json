@@ -1,0 +1,18 @@
+{
+  "Material": "Nb55.1O44.9 / Ni36.3Ta1",
+  "DOIs_Researched": [
+    "10.1016/j.ssc.2017.04.016"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Nb55.1O44.9 / Ni36.3Ta16.4O47.3 multilayers",
+        "Property": "Seebeck",
+        "Value": -8e-06,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2017.04.016"
+      }
+    ]
+  }
+}

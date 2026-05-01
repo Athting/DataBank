@@ -1,0 +1,37 @@
+{
+  "Material": "CoGe",
+  "DOIs_Researched": [
+    "10.1039/c9tc03410b",
+    "10.1016/j.jssc.2012.11.025"
+  ],
+  "Data_By_Temperature": {
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "Cobalt germanide",
+        "Property": "ZT",
+        "Value": 1.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc03410b"
+      },
+      {
+        "Original_Name_In_Paper": "cobalt germanide",
+        "Property": "ZT",
+        "Value": 1.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc03410b"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "CoGe",
+        "Property": "Conductivity",
+        "Value": 1538461.5384615385,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2012.11.025"
+      }
+    ]
+  }
+}

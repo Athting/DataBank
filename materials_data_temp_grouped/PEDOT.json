@@ -1,0 +1,106 @@
+{
+  "Material": "PEDOT",
+  "DOIs_Researched": [
+    "10.1016/j.orgel.2014.12.007",
+    "10.1016/j.compscitech.2017.03.040",
+    "10.1007/s10965-015-0883-3",
+    "10.1016/j.pmatsci.2017.09.004",
+    "10.1007/s10854-016-6250-2",
+    "10.1016/j.orgel.2014.09.012",
+    "10.1016/j.mtcomm.2019.100867",
+    "10.1039/c8tc01900b",
+    "10.1007/s11051-016-3701-x"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "PSS-doped PEDOT film",
+        "Property": "ZT",
+        "Value": 0.25,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11051-016-3701-x"
+      },
+      {
+        "Original_Name_In_Paper": "DMSO treated PEDOT",
+        "Property": "ZT",
+        "Value": 0.42,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2017.09.004"
+      },
+      {
+        "Original_Name_In_Paper": "polystyrene sulfonate-doped PEDOT",
+        "Property": "ZT",
+        "Value": 0.42,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.compscitech.2017.03.040"
+      },
+      {
+        "Original_Name_In_Paper": "sulfuric acid treated PEDOT",
+        "Property": "Conductivity",
+        "Value": 438000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8tc01900b"
+      },
+      {
+        "Original_Name_In_Paper": "DMSO-treated PEDOT",
+        "Property": "Conductivity",
+        "Value": 30000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10965-015-0883-3"
+      }
+    ],
+    "385.0": [
+      {
+        "Original_Name_In_Paper": "NaBH4 / DMSO treated PEDOT films",
+        "Property": "ZT",
+        "Value": 0.155,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.orgel.2014.12.007"
+      }
+    ],
+    "295.0": [
+      {
+        "Original_Name_In_Paper": "H2SO4 treated PEDOT films",
+        "Property": "ZT",
+        "Value": 0.024,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.orgel.2014.09.012"
+      }
+    ],
+    "390.0": [
+      {
+        "Original_Name_In_Paper": "DMSO-doped PEDOT",
+        "Property": "PF",
+        "Value": 4.5000000000000006e-08,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-016-6250-2"
+      }
+    ],
+    "298.0": [
+      {
+        "Original_Name_In_Paper": "DMSO-doped PEDOT",
+        "Property": "PF",
+        "Value": 7.28e-06,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-016-6250-2"
+      },
+      {
+        "Original_Name_In_Paper": "DMSO-doped PEDOT",
+        "Property": "Conductivity",
+        "Value": 51500.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtcomm.2019.100867"
+      }
+    ]
+  }
+}

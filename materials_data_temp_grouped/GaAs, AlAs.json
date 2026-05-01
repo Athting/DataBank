@@ -1,0 +1,18 @@
+{
+  "Material": "GaAs, AlAs",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2012.10.005"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "GaAs / AlAs",
+        "Property": "ZT",
+        "Value": 0.41000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2012.10.005"
+      }
+    ]
+  }
+}

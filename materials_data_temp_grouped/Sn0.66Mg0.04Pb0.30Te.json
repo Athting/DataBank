@@ -1,0 +1,26 @@
+{
+  "Material": "Sn0.66Mg0.04Pb0.30Te",
+  "DOIs_Researched": [
+    "10.1039/c7tc00009j"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.66Mg0.04Pb0.30Te",
+        "Property": "Seebeck",
+        "Value": 3.2999999999999996e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7tc00009j"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.66Mg0.04Pb0.30Te",
+        "Property": "Conductivity",
+        "Value": 83600.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7tc00009j"
+      }
+    ]
+  }
+}

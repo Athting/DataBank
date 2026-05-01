@@ -1,0 +1,18 @@
+{
+  "Material": "AuPd alloy",
+  "DOIs_Researched": [
+    "10.1039/c7nr02678a"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "AuPd alloy",
+        "Property": "Seebeck",
+        "Value": -3.5e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7nr02678a"
+      }
+    ]
+  }
+}

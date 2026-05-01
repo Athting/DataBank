@@ -1,0 +1,37 @@
+{
+  "Material": "LaTiO3",
+  "DOIs_Researched": [
+    "10.1016/j.ijhydene.2018.05.171",
+    "10.1016/j.materresbull.2019.110650"
+  ],
+  "Data_By_Temperature": {
+    "1045.0": [
+      {
+        "Original_Name_In_Paper": "La0.1Sr0.9TiO3 doped with Dy",
+        "Property": "ThermCond",
+        "Value": 2.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2019.110650"
+      },
+      {
+        "Original_Name_In_Paper": "La0.1Sr0.9TiO3 doped with Dy",
+        "Property": "ZT",
+        "Value": 0.36,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2019.110650"
+      }
+    ],
+    "1173.0": [
+      {
+        "Original_Name_In_Paper": "La0.1Ca0.9TiO3",
+        "Property": "Conductivity",
+        "Value": 5000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ijhydene.2018.05.171"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "In0.25Co4Sb12 + 0 % CeO2",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2017.11.195"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "In0.25Co4Sb12 + 0 % CeO2",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.11.195"
+      }
+    ]
+  }
+}

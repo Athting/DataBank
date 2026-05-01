@@ -1,0 +1,18 @@
+{
+  "Material": "HfZr",
+  "DOIs_Researched": [
+    "10.1016/j.jnoncrysol.2008.07.038"
+  ],
+  "Data_By_Temperature": {
+    "460.0": [
+      {
+        "Original_Name_In_Paper": "HfZr",
+        "Property": "Conductivity",
+        "Value": 714285.7142857143,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jnoncrysol.2008.07.038"
+      }
+    ]
+  }
+}

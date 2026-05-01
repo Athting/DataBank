@@ -1,0 +1,18 @@
+{
+  "Material": "H < l Tesla",
+  "DOIs_Researched": [
+    "10.1016/S0379-6779(98)00223-9"
+  ],
+  "Data_By_Temperature": {
+    "4.2": [
+      {
+        "Original_Name_In_Paper": "H < l Tesla",
+        "Property": "Conductivity",
+        "Value": 100400.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0379-6779(98)00223-9"
+      }
+    ]
+  }
+}

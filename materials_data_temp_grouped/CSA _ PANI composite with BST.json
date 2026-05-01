@@ -1,0 +1,18 @@
+{
+  "Material": "CSA : PANI composite with BST",
+  "DOIs_Researched": [
+    "10.1007/s10853-017-1958-9"
+  ],
+  "Data_By_Temperature": {
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "CSA : PANI composite with BST",
+        "Property": "PF",
+        "Value": 1.7800000000000001e-06,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-017-1958-9"
+      }
+    ]
+  }
+}

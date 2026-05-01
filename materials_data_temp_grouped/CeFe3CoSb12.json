@@ -1,0 +1,76 @@
+{
+  "Material": "CeFe3CoSb12",
+  "DOIs_Researched": [
+    "10.1016/j.enconman.2017.02.070",
+    "10.1016/j.tsf.2013.09.068",
+    "10.1016/j.jallcom.2016.11.404",
+    "10.1016/j.intermet.2011.06.010",
+    "10.1016/j.physb.2006.03.068"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Ce0.8Fe3CoSb12",
+        "Property": "ZT",
+        "Value": 0.68,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.11.404"
+      },
+      {
+        "Original_Name_In_Paper": "Ce0.8Fe3CoSb12",
+        "Property": "ZT",
+        "Value": 0.68,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.11.404"
+      }
+    ],
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "Ce0.9Fe3CoSb12",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2013.09.068"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "CeFe3CoSb12",
+        "Property": "ZT",
+        "Value": 0.75,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.enconman.2017.02.070"
+      },
+      {
+        "Original_Name_In_Paper": "Ce0.9Fe3CoSb12",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2006.03.068"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "single-filled Ce0.9Fe3CoSb12",
+        "Property": "Seebeck",
+        "Value": 0.0001115,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2011.06.010"
+      },
+      {
+        "Original_Name_In_Paper": "single-filled Ce0.9Fe3CoSb12",
+        "Property": "Conductivity",
+        "Value": 110000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2011.06.010"
+      }
+    ]
+  }
+}

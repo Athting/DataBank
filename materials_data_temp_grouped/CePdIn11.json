@@ -1,0 +1,18 @@
+{
+  "Material": "CePdIn11",
+  "DOIs_Researched": [
+    "10.1016/j.intermet.2014.08.001"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Ce3PdIn11 compound",
+        "Property": "Conductivity",
+        "Value": 1.0101010100000001e+20,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2014.08.001"
+      }
+    ]
+  }
+}

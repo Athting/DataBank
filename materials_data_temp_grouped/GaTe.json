@@ -1,0 +1,48 @@
+{
+  "Material": "GaTe",
+  "DOIs_Researched": [
+    "10.1039/d0cp02600j",
+    "10.1039/c8cp04723e",
+    "10.1007/s11664-019-07323-2"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "GaTe monolayers",
+        "Property": "ZT",
+        "Value": 0.89,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8cp04723e"
+      },
+      {
+        "Original_Name_In_Paper": "GaTe monolayers",
+        "Property": "Seebeck",
+        "Value": 0.0002516,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8cp04723e"
+      }
+    ],
+    "1100.0": [
+      {
+        "Original_Name_In_Paper": "GaTe",
+        "Property": "ZT",
+        "Value": 0.85,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-019-07323-2"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "monolayer GaTe",
+        "Property": "Conductivity",
+        "Value": 2464.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0cp02600j"
+      }
+    ]
+  }
+}

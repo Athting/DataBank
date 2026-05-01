@@ -1,0 +1,55 @@
+{
+  "Material": "CuSbSe4",
+  "DOIs_Researched": [
+    "10.1039/c4ra07609e",
+    "10.1039/c5nj00686d"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Cu3SbSe4 thin film",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5nj00686d"
+      },
+      {
+        "Original_Name_In_Paper": "Cu3SbSe4 thin film",
+        "Property": "Seebeck",
+        "Value": 6.666e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5nj00686d"
+      },
+      {
+        "Original_Name_In_Paper": "Cu3SbSe4 thin film",
+        "Property": "PF",
+        "Value": 0.000321,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5nj00686d"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Cu3SbSe4 thin films",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5nj00686d"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Cu3SbSe4 based nanostructured bulk material",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra07609e"
+      }
+    ]
+  }
+}

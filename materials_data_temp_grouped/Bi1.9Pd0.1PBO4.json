@@ -1,0 +1,18 @@
+{
+  "Material": "Bi1.9Pd0.1PBO4",
+  "DOIs_Researched": [
+    "10.1039/d0tc00818d"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Bi1.9Pb0.1PdO4",
+        "Property": "Conductivity",
+        "Value": 1000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0tc00818d"
+      }
+    ]
+  }
+}

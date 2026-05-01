@@ -1,0 +1,26 @@
+{
+  "Material": "poly(3,4-ethylenedioxythiophene) : poly(styrene sulfonate )",
+  "DOIs_Researched": [
+    "10.1039/d0tc01047b"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "poly(3,4-ethylenedioxythiophene) : poly(styrene sulfonate )",
+        "Property": "ZT",
+        "Value": 0.75,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0tc01047b"
+      },
+      {
+        "Original_Name_In_Paper": "poly(3,4-ethylenedioxythiophene) : poly(styrene sulfonate )",
+        "Property": "PF",
+        "Value": 0.000754,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0tc01047b"
+      }
+    ]
+  }
+}

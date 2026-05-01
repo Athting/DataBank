@@ -1,0 +1,26 @@
+{
+  "Material": "SmFe2.8Ni1.2Sb12.8",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2015.09.141"
+  ],
+  "Data_By_Temperature": {
+    "560.0": [
+      {
+        "Original_Name_In_Paper": "Sm0.7Fe2.8Ni1.2Sb12.8",
+        "Property": "ZT",
+        "Value": 0.55,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.09.141"
+      },
+      {
+        "Original_Name_In_Paper": "Sm0.7Fe2.8Ni1.2Sb12.8",
+        "Property": "ZT",
+        "Value": 0.55,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.09.141"
+      }
+    ]
+  }
+}

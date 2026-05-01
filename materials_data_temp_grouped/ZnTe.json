@@ -1,0 +1,229 @@
+{
+  "Material": "ZnTe",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2014.01.070",
+    "10.1016/j.matchemphys.2020.123378",
+    "10.1039/c9ra04748d",
+    "10.1039/c8ee00290h",
+    "10.1007/s40843-016-0126-x",
+    "10.1016/j.ceramint.2015.09.032"
+  ],
+  "Data_By_Temperature": {
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "ZnTe nanoprecipitates",
+        "Property": "ThermCond",
+        "Value": 0.35000000000000003,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2020.123378"
+      },
+      {
+        "Original_Name_In_Paper": "ZnTe nanoprecipitates",
+        "Property": "ThermCond",
+        "Value": 0.35000000000000003,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee00290h"
+      },
+      {
+        "Original_Name_In_Paper": "ZnTe",
+        "Property": "ThermCond",
+        "Value": 0.35000000000000003,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee00290h"
+      },
+      {
+        "Original_Name_In_Paper": "ZnTe",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee00290h"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "ZnTe nanoprecipitates",
+        "Property": "ThermCond",
+        "Value": 0.62,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee00290h"
+      },
+      {
+        "Original_Name_In_Paper": "ZnTe",
+        "Property": "ThermCond",
+        "Value": 1.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee00290h"
+      },
+      {
+        "Original_Name_In_Paper": "ZnTe",
+        "Property": "ThermCond",
+        "Value": 1.75,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee00290h"
+      },
+      {
+        "Original_Name_In_Paper": "ZnTe nanowires",
+        "Property": "ThermCond",
+        "Value": 1.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2015.09.032"
+      },
+      {
+        "Original_Name_In_Paper": "ZnTe nanoprecipitates",
+        "Property": "PF",
+        "Value": 0.0045000000000000005,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": "including ZnBi",
+        "Source_DOI": "10.1039/c8ee00290h"
+      },
+      {
+        "Original_Name_In_Paper": "ZnTe",
+        "Property": "PF",
+        "Value": 0.00445,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee00290h"
+      },
+      {
+        "Original_Name_In_Paper": "ZnTe",
+        "Property": "PF",
+        "Value": 0.0043,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee00290h"
+      }
+    ],
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "ZnTe",
+        "Property": "ThermCond",
+        "Value": 0.62,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee00290h"
+      },
+      {
+        "Original_Name_In_Paper": "ZnTe",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee00290h"
+      },
+      {
+        "Original_Name_In_Paper": "ZnTe",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee00290h"
+      },
+      {
+        "Original_Name_In_Paper": "ZnTe",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee00290h"
+      },
+      {
+        "Original_Name_In_Paper": "ZnTe",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee00290h"
+      },
+      {
+        "Original_Name_In_Paper": "ZnTe",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee00290h"
+      },
+      {
+        "Original_Name_In_Paper": "ZnTe",
+        "Property": "PF",
+        "Value": 0.0045000000000000005,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee00290h"
+      }
+    ],
+    "425.0": [
+      {
+        "Original_Name_In_Paper": "ZnTe",
+        "Property": "ThermCond",
+        "Value": 0.31,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee00290h"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "ZnTe",
+        "Property": "ThermCond",
+        "Value": 14.99,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ra04748d"
+      },
+      {
+        "Original_Name_In_Paper": "ZnTe single crystals",
+        "Property": "ThermCond",
+        "Value": 18.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2015.09.032"
+      },
+      {
+        "Original_Name_In_Paper": "ZnTe",
+        "Property": "Conductivity",
+        "Value": 220000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee00290h"
+      }
+    ],
+    "575.0": [
+      {
+        "Original_Name_In_Paper": "nondoped ZnTe",
+        "Property": "ZT",
+        "Value": 0.0082,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2015.09.032"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "pure ZnTe",
+        "Property": "ZT",
+        "Value": 2.22,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.01.070"
+      }
+    ],
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "10 wt. % of ZnTe",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s40843-016-0126-x"
+      }
+    ]
+  }
+}

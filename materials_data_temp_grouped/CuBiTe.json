@@ -1,0 +1,18 @@
+{
+  "Material": "CuBiTe",
+  "DOIs_Researched": [
+    "10.1007/s10853-020-04949-0"
+  ],
+  "Data_By_Temperature": {
+    "415.0": [
+      {
+        "Original_Name_In_Paper": "Cu0.87Bi2Te2.69",
+        "Property": "ZT",
+        "Value": 0.67,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Na\u2082Mn\u2082(MoO\u2084)\u2083",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2019.07.028"
+  ],
+  "Data_By_Temperature": {
+    "691.0": [
+      {
+        "Original_Name_In_Paper": "Na2Mn2(MoO4)3",
+        "Property": "Conductivity",
+        "Value": 0.00023,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2019.07.028"
+      }
+    ]
+  }
+}

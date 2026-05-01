@@ -1,0 +1,18 @@
+{
+  "Material": "nitroxide radical lead",
+  "DOIs_Researched": [
+    "10.1039/c9na00649d"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "nitroxide radical lead",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9na00649d"
+      }
+    ]
+  }
+}

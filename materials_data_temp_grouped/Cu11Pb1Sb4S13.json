@@ -1,0 +1,18 @@
+{
+  "Material": "Cu11Pb1Sb4S13",
+  "DOIs_Researched": [
+    "10.1039/c8cp05479g"
+  ],
+  "Data_By_Temperature": {
+    "720.0": [
+      {
+        "Original_Name_In_Paper": "Cu11Pb1Sb4S13",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8cp05479g"
+      }
+    ]
+  }
+}

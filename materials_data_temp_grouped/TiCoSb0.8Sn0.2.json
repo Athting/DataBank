@@ -1,0 +1,38 @@
+{
+  "Material": "TiCoSb0.8Sn0.2",
+  "DOIs_Researched": [
+    "10.1007/s11664-019-07486-y",
+    "10.1039/c4cp02561j",
+    "10.1007/s10853-020-04949-0"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "TiCoSb0.8Sn0.2",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4cp02561j"
+      },
+      {
+        "Original_Name_In_Paper": "TiCoSb0.8Sn0.2",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      }
+    ],
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "TiCoSb0.8Sn0.2",
+        "Property": "ZT",
+        "Value": 0.26,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-019-07486-y"
+      }
+    ]
+  }
+}

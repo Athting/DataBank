@@ -1,0 +1,18 @@
+{
+  "Material": "Re4Se8",
+  "DOIs_Researched": [
+    "10.1016/S0022-3697(97)00183-2"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Re4Se8",
+        "Property": "ZT",
+        "Value": 0.09,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0022-3697(97)00183-2"
+      }
+    ]
+  }
+}

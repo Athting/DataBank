@@ -1,0 +1,18 @@
+{
+  "Material": "In0.2Co4Sb12qu",
+  "DOIs_Researched": [
+    "10.1557/jmr.2011.102"
+  ],
+  "Data_By_Temperature": {
+    "350.0": [
+      {
+        "Original_Name_In_Paper": "In0.2Co4Sb12qu",
+        "Property": "Conductivity",
+        "Value": 120000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1557/jmr.2011.102"
+      }
+    ]
+  }
+}

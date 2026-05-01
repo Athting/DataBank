@@ -1,0 +1,342 @@
+{
+  "Material": "PbSbSe",
+  "DOIs_Researched": [
+    "10.1039/c8ee01755g",
+    "10.1016/j.ccr.2020.213437",
+    "10.1039/c9ee03410b",
+    "10.1016/j.pnsc.2018.05.002",
+    "10.1038/ncomms4640"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Pb0.995Sb0.005Se",
+        "Property": "ThermCond",
+        "Value": 0.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ccr.2020.213437"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.99875Sb0.00125Se",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/ncomms4640"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.99875Sb0.00125Se",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/ncomms4640"
+      }
+    ],
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Pb0.99Sb0.01Se",
+        "Property": "ThermCond",
+        "Value": 1.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pnsc.2018.05.002"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.99Sb0.01Se",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pnsc.2018.05.002"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.99Sb0.01Se-6 % MgSe",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pnsc.2018.05.002"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.99Sb0.01Se",
+        "Property": "ZT",
+        "Value": 0.42,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pnsc.2018.05.002"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.99Sb0.01Se-6 % MgSe",
+        "Property": "ZT",
+        "Value": 0.54,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pnsc.2018.05.002"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.99Sb0.01Se",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pnsc.2018.05.002"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.99Sb0.01Se-6 % MgSe",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pnsc.2018.05.002"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.99Sb0.01Se",
+        "Property": "PF",
+        "Value": 0.0015400000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pnsc.2018.05.002"
+      }
+    ],
+    "623.0": [
+      {
+        "Original_Name_In_Paper": "Pb0.9825Sb0.0175Se",
+        "Property": "ThermCond",
+        "Value": 0.58,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pnsc.2018.05.002"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.9955Sb0.0045Se\u201312 % GeSe",
+        "Property": "PF",
+        "Value": 0.0019100000000000002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee01755g"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Pb0.99Sb0.01Se",
+        "Property": "ThermCond",
+        "Value": 4.6,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pnsc.2018.05.002"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.9955Sb0.0045Se\u201312 % GeSe",
+        "Property": "ThermCond",
+        "Value": 1.52,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee01755g"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.9955Sb0.0045Se",
+        "Property": "ThermCond",
+        "Value": 4.69,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee01755g"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.9955Sb0.0045Se",
+        "Property": "Conductivity",
+        "Value": 437000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee01755g"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.9955Sb0.0045Se\u201312 % GeSe",
+        "Property": "Conductivity",
+        "Value": 97000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee01755g"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Pb0.9955Sb0.0045Se",
+        "Property": "ThermCond",
+        "Value": 1.8399999999999999,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee01755g"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.9955Sb0.0045Se\u201314 % GeSe",
+        "Property": "ThermCond",
+        "Value": 0.96,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee01755g"
+      }
+    ],
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "Pb0.9955Sb0.0045Se\u201312 % GeSe",
+        "Property": "ThermCond",
+        "Value": 0.36,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee01755g"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "n-type Pb0.9955Sb0.0045Se\u201312 % GeSe",
+        "Property": "ZT",
+        "Value": 1.54,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee01755g"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.9955Sb0.0045Se\u201312 % GeSe",
+        "Property": "ZT",
+        "Value": 1.54,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee01755g"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.9955Sb0.0045Se\u201312 % GeSe",
+        "Property": "ZT",
+        "Value": 1.54,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee01755g"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.9955Sb0.0045Se\u221212 % GeSe",
+        "Property": "ZT",
+        "Value": 1.54,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ccr.2020.213437"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.9955Sb0.0045Se",
+        "Property": "PF",
+        "Value": 0.0021000000000000003,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee01755g"
+      }
+    ],
+    "830.0": [
+      {
+        "Original_Name_In_Paper": "Pb0.9975Sb0.0025Se",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/ncomms4640"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.9975Sb0.0025Se",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/ncomms4640"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.9975Sb0.0025Se",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/ncomms4640"
+      }
+    ],
+    "930.0": [
+      {
+        "Original_Name_In_Paper": "Pb0.995Sb0.005Se",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/ncomms4640"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.995Sb0.005Se",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/ncomms4640"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.9925Sb0.0075Se",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/ncomms4640"
+      }
+    ],
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "Pb0.99925Sb0.00075Se",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/ncomms4640"
+      }
+    ],
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "n-type Pb0.93Sb0.05S0.5Se0.5",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ee03410b"
+      },
+      {
+        "Original_Name_In_Paper": "n-type Pb0.93Sb0.05S0.5Se0.5",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ee03410b"
+      }
+    ],
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "Pb0.9955Sb0.0045Se\u201312 % GeSe",
+        "Property": "Seebeck",
+        "Value": -0.00025,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee01755g"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.9955Sb0.0045Se",
+        "Property": "Seebeck",
+        "Value": -0.0002,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee01755g"
+      }
+    ],
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "Pb0.9875Sb0.0125Se",
+        "Property": "PF",
+        "Value": 0.0017300000000000002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pnsc.2018.05.002"
+      }
+    ]
+  }
+}

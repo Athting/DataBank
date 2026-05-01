@@ -1,0 +1,47 @@
+{
+  "Material": "RuGa2",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2013.09.175",
+    "10.1557/jmr.2011.126"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "undoped p-type RuGa2",
+        "Property": "ThermCond",
+        "Value": 4.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.09.175"
+      },
+      {
+        "Original_Name_In_Paper": "RuGa2",
+        "Property": "PF",
+        "Value": 0.0028,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.09.175"
+      }
+    ],
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "undoped RuGa2",
+        "Property": "ThermCond",
+        "Value": 4.6,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.09.175"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Pure RuGa2",
+        "Property": "Seebeck",
+        "Value": 0.000145,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1557/jmr.2011.126"
+      }
+    ]
+  }
+}

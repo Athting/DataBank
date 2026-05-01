@@ -1,0 +1,26 @@
+{
+  "Material": "Cu1.80Fe0.064S",
+  "DOIs_Researched": [
+    "10.1039/d0cp00733a"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Cu1.80Fe0.064S",
+        "Property": "ThermCond",
+        "Value": 0.75,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0cp00733a"
+      },
+      {
+        "Original_Name_In_Paper": "Cu1.80Fe0.064S",
+        "Property": "Seebeck",
+        "Value": 8.8e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0cp00733a"
+      }
+    ]
+  }
+}

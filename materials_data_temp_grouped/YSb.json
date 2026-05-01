@@ -1,0 +1,38 @@
+{
+  "Material": "YSb",
+  "DOIs_Researched": [
+    "10.1016/j.intermet.2019.02.009",
+    "10.1016/j.mtphys.2018.12.004",
+    "10.1016/j.matpr.2019.11.117"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "doped YNiSb",
+        "Property": "ZT",
+        "Value": 0.065,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2019.02.009"
+      },
+      {
+        "Original_Name_In_Paper": "YSb",
+        "Property": "Conductivity",
+        "Value": 1600000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2018.12.004"
+      }
+    ],
+    "1200.0": [
+      {
+        "Original_Name_In_Paper": "YSb",
+        "Property": "Seebeck",
+        "Value": 4.4e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matpr.2019.11.117"
+      }
+    ]
+  }
+}

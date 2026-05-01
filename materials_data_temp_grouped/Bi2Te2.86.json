@@ -1,0 +1,44 @@
+{
+  "Material": "Bi2Te2.86",
+  "DOIs_Researched": [
+    "10.1016/j.cej.2019.123513"
+  ],
+  "Data_By_Temperature": {
+    "420.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Te2.86",
+        "Property": "ThermCond",
+        "Value": 0.48,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cej.2019.123513"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Te2.86",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cej.2019.123513"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Te2.86",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cej.2019.123513"
+      }
+    ],
+    "320.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Te2.86",
+        "Property": "PF",
+        "Value": 0.001284,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cej.2019.123513"
+      }
+    ]
+  }
+}

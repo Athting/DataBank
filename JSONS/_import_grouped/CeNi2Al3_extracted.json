@@ -1,0 +1,59 @@
+{
+  "doi": "10.1007/s00339-019-3057-z",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "polycrystal CeNi2Al3",
+        "CeNi2Al3"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "CeNi2Al3",
+          "value": 0.000046,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "200.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "polycrystal CeNi2Al3",
+          "value": 285714.2857142857,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "CeNi2Al3",
+          "zt_value": 0.1,
+          "temperature": "220.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

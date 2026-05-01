@@ -1,0 +1,18 @@
+{
+  "Material": "n-type Bi2(Se,Te)3 polycrystalline materials",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2008.08.022"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "n-type Bi2(Se,Te)3 polycrystalline materials",
+        "Property": "ThermCond",
+        "Value": 0.7000000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2008.08.022"
+      }
+    ]
+  }
+}

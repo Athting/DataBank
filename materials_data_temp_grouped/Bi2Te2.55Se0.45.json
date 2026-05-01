@@ -1,0 +1,74 @@
+{
+  "Material": "Bi2Te2.55Se0.45",
+  "DOIs_Researched": [
+    "10.1016/j.scriptamat.2012.04.005",
+    "10.3938/jkps.67.1809",
+    "10.1016/j.materresbull.2016.05.030"
+  ],
+  "Data_By_Temperature": {
+    "485.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Te2.55Se0.45",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2012.04.005"
+      },
+      {
+        "Original_Name_In_Paper": "nanostructured bulk Bi2Te2.55Se0.45",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2012.04.005"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "nanostructured bulk Bi2Te2.55Se0.45",
+        "Property": "ZT",
+        "Value": 0.37,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2012.04.005"
+      }
+    ],
+    "423.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Te2.55Se0.45",
+        "Property": "ZT",
+        "Value": 0.73,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2016.05.030"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Te2.55Se0.45",
+        "Property": "ZT",
+        "Value": 0.73,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2016.05.030"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Te2.55Se0.45",
+        "Property": "ZT",
+        "Value": 0.73,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2016.05.030"
+      }
+    ],
+    "473.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Te2.55Se0.45",
+        "Property": "ZT",
+        "Value": 0.76,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.3938/jkps.67.1809"
+      }
+    ]
+  }
+}

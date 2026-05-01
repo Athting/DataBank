@@ -1,0 +1,29 @@
+{
+  "Material": "CuGaSe2",
+  "DOIs_Researched": [
+    "10.1016/j.materresbull.2012.05.004",
+    "10.1016/j.jallcom.2016.07.218"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "CuGaSe2",
+        "Property": "ThermCond",
+        "Value": 3.3,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.07.218"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "CuGaSe2 crystals",
+        "Property": "Seebeck",
+        "Value": 0.00045000000000000004,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2012.05.004"
+      }
+    ]
+  }
+}

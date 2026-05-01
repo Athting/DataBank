@@ -1,0 +1,18 @@
+{
+  "Material": "MgC2",
+  "DOIs_Researched": [
+    "10.1039/c4ra04889j"
+  ],
+  "Data_By_Temperature": {
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "MgC2",
+        "Property": "ZT",
+        "Value": 0.55,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra04889j"
+      }
+    ]
+  }
+}

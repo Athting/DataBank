@@ -1,0 +1,45 @@
+{
+  "Material": "CuFeS",
+  "DOIs_Researched": [
+    "10.1039/d0cp00733a",
+    "10.1039/c6ra10046e"
+  ],
+  "Data_By_Temperature": {
+    "623.0": [
+      {
+        "Original_Name_In_Paper": "Cu0.98Co0.02FeS1.98",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra10046e"
+      },
+      {
+        "Original_Name_In_Paper": "Cu0.98Co0.02FeS1.98",
+        "Property": "Seebeck",
+        "Value": 0.000247,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra10046e"
+      },
+      {
+        "Original_Name_In_Paper": "Cu0.98Co0.02FeS1.98",
+        "Property": "PF",
+        "Value": 0.0007,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra10046e"
+      }
+    ],
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "Cu1.80Fe0.024S",
+        "Property": "PF",
+        "Value": 0.0011200000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0cp00733a"
+      }
+    ]
+  }
+}

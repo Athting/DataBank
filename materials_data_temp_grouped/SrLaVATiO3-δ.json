@@ -1,0 +1,18 @@
+{
+  "Material": "SrLaVATiO3-\u03b4",
+  "DOIs_Researched": [
+    "10.1016/j.jeurceramsoc.2019.09.024"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "Sr0.775La0.15VA0.075TiO3-\u03b4",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2019.09.024"
+      }
+    ]
+  }
+}

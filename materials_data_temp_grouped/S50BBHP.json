@@ -1,0 +1,18 @@
+{
+  "Material": "S50BBHP",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2014.05.051"
+  ],
+  "Data_By_Temperature": {
+    "825.0": [
+      {
+        "Original_Name_In_Paper": "S50BBHP",
+        "Property": "ZT",
+        "Value": 1.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2014.05.051"
+      }
+    ]
+  }
+}

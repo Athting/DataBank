@@ -1,0 +1,26 @@
+{
+  "Material": "4.10 wt % Bi2Te3 based alloy",
+  "DOIs_Researched": [
+    "10.1016/j.apmt.2018.07.004"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "4.10 wt % Bi2Te3 based alloy",
+        "Property": "ZT",
+        "Value": 0.05,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apmt.2018.07.004"
+      },
+      {
+        "Original_Name_In_Paper": "4.10 wt % Bi2Te3 based alloy",
+        "Property": "Conductivity",
+        "Value": 129521.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apmt.2018.07.004"
+      }
+    ]
+  }
+}

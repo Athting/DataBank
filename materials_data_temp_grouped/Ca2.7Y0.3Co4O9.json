@@ -1,0 +1,18 @@
+{
+  "Material": "Ca2.7Y0.3Co4O9",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2018.01.030"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "Ca2.7Y0.3Co4O9",
+        "Property": "ZT",
+        "Value": 0.22,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.01.030"
+      }
+    ]
+  }
+}

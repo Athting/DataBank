@@ -1,0 +1,29 @@
+{
+  "Material": "Bi2VO5.5",
+  "DOIs_Researched": [
+    "10.1007/s11664-016-4701-4",
+    "10.1007/s11664-016-4665-4"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Bi2VO5.5",
+        "Property": "Seebeck",
+        "Value": 0.01,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-016-4701-4"
+      }
+    ],
+    "1010.0": [
+      {
+        "Original_Name_In_Paper": "Bi2VO5.5",
+        "Property": "Seebeck",
+        "Value": -0.028300000000000002,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-016-4665-4"
+      }
+    ]
+  }
+}

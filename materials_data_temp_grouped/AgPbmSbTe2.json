@@ -1,0 +1,38 @@
+{
+  "Material": "AgPbmSbTe2",
+  "DOIs_Researched": [
+    "10.1016/j.mser.2018.09.001",
+    "10.1016/j.tsf.2014.02.041",
+    "10.1016/j.commatsci.2011.08.016"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "AgPbmSbTe2",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2011.08.016"
+      },
+      {
+        "Original_Name_In_Paper": "AgPbmSbTe2 + m",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2014.02.041"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "n-type AgPbmSbTe2+m",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mser.2018.09.001"
+      }
+    ]
+  }
+}

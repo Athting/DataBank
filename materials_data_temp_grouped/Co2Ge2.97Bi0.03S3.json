@@ -1,0 +1,18 @@
+{
+  "Material": "Co2Ge2.97Bi0.03S3",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2020.121830"
+  ],
+  "Data_By_Temperature": {
+    "763.0": [
+      {
+        "Original_Name_In_Paper": "Co2Ge2.97Bi0.03S3",
+        "Property": "ZT",
+        "Value": 0.22,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2020.121830"
+      }
+    ]
+  }
+}

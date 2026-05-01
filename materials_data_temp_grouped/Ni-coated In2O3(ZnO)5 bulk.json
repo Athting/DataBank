@@ -1,0 +1,26 @@
+{
+  "Material": "Ni-coated In2O3(ZnO)5 bulk",
+  "DOIs_Researched": [
+    "10.1016/j.scriptamat.2019.01.039"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "Ni-coated In2O3(ZnO)5 bulk",
+        "Property": "ZT",
+        "Value": 0.39,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2019.01.039"
+      },
+      {
+        "Original_Name_In_Paper": "Ni-coated In2O3(ZnO)5 bulk",
+        "Property": "ZT",
+        "Value": 0.39,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2019.01.039"
+      }
+    ]
+  }
+}

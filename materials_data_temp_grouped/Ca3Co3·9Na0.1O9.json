@@ -1,0 +1,18 @@
+{
+  "Material": "Ca3Co3\u00b79Na0.1O9",
+  "DOIs_Researched": [
+    "10.1016/j.vacuum.2017.04.015"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ca3Co3\u00b79Na0\u00b71O9",
+        "Property": "ZT",
+        "Value": 0.0117,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.vacuum.2017.04.015"
+      }
+    ]
+  }
+}

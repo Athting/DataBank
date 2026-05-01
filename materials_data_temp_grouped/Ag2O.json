@@ -1,0 +1,18 @@
+{
+  "Material": "Ag2O",
+  "DOIs_Researched": [
+    "10.1016/B978-0-12-803581-8.11051-3"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Ag2O",
+        "Property": "ZT",
+        "Value": 0.005,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-12-803581-8.11051-3"
+      }
+    ]
+  }
+}

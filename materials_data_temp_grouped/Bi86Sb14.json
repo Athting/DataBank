@@ -1,0 +1,18 @@
+{
+  "Material": "Bi86Sb14",
+  "DOIs_Researched": [
+    "10.1016/j.ijheatmasstransfer.2013.03.018"
+  ],
+  "Data_By_Temperature": {
+    "100.0": [
+      {
+        "Original_Name_In_Paper": "Bi86Sb14",
+        "Property": "ZT",
+        "Value": 0.15,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ijheatmasstransfer.2013.03.018"
+      }
+    ]
+  }
+}

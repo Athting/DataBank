@@ -1,0 +1,577 @@
+{
+  "doi": "10.1016/j.jallcom.2017.08.227",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "SnS",
+        "SnS compound",
+        "SnS nanoparticles",
+        "SnS single crystals",
+        "undoped SnS crystal",
+        "n-type SnS crystals",
+        "2 % hole-doped SnS crystal",
+        "SnS–0.5 % Ag",
+        "polycrystalline SnS",
+        "undoped SnS",
+        "SnS crystals",
+        "Sn0.985S",
+        "p-type SnS crystals",
+        "Na-doped single crystal SnS",
+        "vacancy engineered polycrystalline SnS bulk",
+        "p–type Sn0.985S",
+        "hole-doped SnS crystals",
+        "SnS-0.5 % Ag",
+        "hole-doped single crystals SnS",
+        "Ag–doped SnS polycrystals",
+        "hole doped SnS single crystals",
+        "Sn0.98S",
+        "pure SnS",
+        "p-doped SnS",
+        "SnS pellet",
+        "n-type Br-doped SnS",
+        "bulk SnS",
+        "n-type SnS",
+        "undoped SnS pellets"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "SnS",
+          "value": 0.000554,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnS",
+          "value": 0.0002,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnS",
+          "value": 0.0004,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnS compound",
+          "value": 0.000554,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnS",
+          "value": 0.000285,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "n-type Br-doped SnS",
+          "value": -0.00064,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "SnS",
+          "value": 0.0004,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "823.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "SnS",
+          "value": 2,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnS single crystals",
+          "value": 19.3,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "undoped SnS crystal",
+          "value": 700,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnS",
+          "value": 100,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "823.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "SnS",
+          "value": 0.89,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnS",
+          "value": 1.25,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnS",
+          "value": 0.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnS compound",
+          "value": 0.89,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnS",
+          "value": 1.44,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnS nanoparticles",
+          "value": 0.9,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnS",
+          "value": 1.7000000000000002,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SnS",
+          "value": 0.14,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SnS",
+          "value": 1.1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SnS",
+          "value": 1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "400.0 K"
+        },
+        {
+          "material": "SnS–0.5 % Ag",
+          "value": 0.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "SnS",
+          "value": 0.65,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "polycrystalline SnS",
+          "value": 0.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "undoped SnS",
+          "value": 0.65,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "SnS crystals",
+          "value": 0.65,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Sn0.985S",
+          "value": 0.466,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "polycrystalline SnS",
+          "value": 0.43,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "SnS",
+          "value": 0.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "pure SnS",
+          "value": 0.65,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "SnS",
+          "value": 1.9180000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "323.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "SnS",
+          "value": 0.003,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "2 % hole-doped SnS crystal",
+          "value": 0.003,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "undoped SnS crystal",
+          "value": 0.0001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "SnS–0.5 % Ag",
+          "value": 0.00030000000000000003,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Sn0.98S",
+          "value": 0.000112,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Sn0.985S",
+          "value": 0.000335,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "p-doped SnS",
+          "value": 0.0006929999999999999,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "pure SnS",
+          "value": 0.000134,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "undoped SnS",
+          "value": 0.00025,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "undoped SnS pellets",
+          "value": 0.00001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "573.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "SnS",
+          "zt_value": 0.28,
+          "temperature": "295 K"
+        },
+        {
+          "material": "n-type SnS crystals",
+          "zt_value": 0.08,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "p-type SnS crystals",
+          "zt_value": 1,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "polycrystalline SnS",
+          "zt_value": 0.8,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Na-doped single crystal SnS",
+          "zt_value": 1,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "SnS",
+          "zt_value": 0.8,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "vacancy engineered polycrystalline SnS bulk",
+          "zt_value": 0.8,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "SnS",
+          "zt_value": 0.52,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Sn0.985S",
+          "zt_value": 0.62,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "p–type Sn0.985S",
+          "zt_value": 0.62,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "SnS",
+          "zt_value": 0.6000000000000001,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "hole-doped SnS crystals",
+          "zt_value": 1,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "undoped SnS",
+          "zt_value": 0.16,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "SnS",
+          "zt_value": 0.6000000000000001,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "polycrystalline SnS",
+          "zt_value": 0.6000000000000001,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "SnS-0.5 % Ag",
+          "zt_value": 0.5,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "hole-doped single crystals SnS",
+          "zt_value": 0.5700000000000001,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Ag–doped SnS polycrystals",
+          "zt_value": 0.6000000000000001,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "undoped SnS",
+          "zt_value": 0.25,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "polycrystalline SnS",
+          "zt_value": 0.7000000000000001,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "SnS",
+          "zt_value": 0.16,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "polycrystalline SnS",
+          "zt_value": 0.8,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "hole doped SnS single crystals",
+          "zt_value": 1.6,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "hole-doped SnS crystals",
+          "zt_value": 1.3,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "SnS pellet",
+          "zt_value": 0.01,
+          "temperature": "323.0 K"
+        },
+        {
+          "material": "undoped SnS",
+          "zt_value": 0.08,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "n-type SnS crystals",
+          "zt_value": 0.12,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "polycrystalline SnS",
+          "zt_value": 0.01,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "SnS",
+          "zt_value": 0.16,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "polycrystalline SnS",
+          "zt_value": 0.16,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "undoped SnS",
+          "zt_value": 0.16,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "undoped SnS",
+          "zt_value": 0.16,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "pure SnS",
+          "zt_value": 0.16,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "SnS",
+          "zt_value": 1,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "SnS",
+          "zt_value": 0.15,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "undoped SnS",
+          "zt_value": 0.16,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "SnS compound",
+          "zt_value": 0.8200000000000001,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "SnS",
+          "zt_value": 0.18,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "SnS",
+          "zt_value": 1.35,
+          "temperature": "816.0 K"
+        },
+        {
+          "material": "polycrystalline SnS",
+          "zt_value": 0.41000000000000003,
+          "temperature": "848.0 K"
+        },
+        {
+          "material": "SnS",
+          "zt_value": 0.6000000000000001,
+          "temperature": "793.0 K"
+        },
+        {
+          "material": "SnS",
+          "zt_value": 0.6000000000000001,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "bulk SnS",
+          "zt_value": 0.6000000000000001,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnS-0.5 % Ag",
+          "zt_value": 0.6000000000000001,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnS–0.5 % Ag",
+          "zt_value": 0.6000000000000001,
+          "temperature": "923.0 K"
+        },
+        {
+          "material": "SnS",
+          "zt_value": 1.75,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "SnS",
+          "zt_value": 1.75,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "n-type SnS",
+          "zt_value": 1.5,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "n-type SnS",
+          "zt_value": 2.21,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "SnS",
+          "zt_value": 0.6000000000000001,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "SnS",
+          "zt_value": 1.6099999999999999,
+          "temperature": "1080.0 K"
+        },
+        {
+          "material": "pure SnS",
+          "zt_value": 0.16,
+          "temperature": "1080.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

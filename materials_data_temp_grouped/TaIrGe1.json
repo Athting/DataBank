@@ -1,0 +1,36 @@
+{
+  "Material": "TaIrGe1",
+  "DOIs_Researched": [
+    "10.1016/j.cocom.2020.e00511"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "TaIrGe1",
+        "Property": "ZT",
+        "Value": 0.25,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cocom.2020.e00511"
+      },
+      {
+        "Original_Name_In_Paper": "TaIrGe1",
+        "Property": "ZT",
+        "Value": 0.25,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cocom.2020.e00511"
+      }
+    ],
+    "100.0": [
+      {
+        "Original_Name_In_Paper": "TaIrGe1",
+        "Property": "Seebeck",
+        "Value": 0.00028000000000000003,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cocom.2020.e00511"
+      }
+    ]
+  }
+}

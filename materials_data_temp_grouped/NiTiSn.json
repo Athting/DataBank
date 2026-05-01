@@ -1,0 +1,69 @@
+{
+  "Material": "NiTiSn",
+  "DOIs_Researched": [
+    "10.1016/j.scriptamat.2010.08.039",
+    "10.1016/j.mtcomm.2020.101613",
+    "10.1016/j.jsamd.2020.06.002",
+    "10.1039/c7ee03062b",
+    "10.1016/j.ssc.2020.113838",
+    "10.1016/j.jallcom.2018.06.034"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "NiTiSn",
+        "Property": "ThermCond",
+        "Value": 5.3,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.06.034"
+      },
+      {
+        "Original_Name_In_Paper": "NiTiSn []",
+        "Property": "ZT",
+        "Value": 0.96,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2020.113838"
+      },
+      {
+        "Original_Name_In_Paper": "NiTiSn",
+        "Property": "ZT",
+        "Value": 0.99,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jsamd.2020.06.002"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "NiTiSn",
+        "Property": "ThermCond",
+        "Value": 0.67,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtcomm.2020.101613"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ni-rich TiNiSn",
+        "Property": "ThermCond",
+        "Value": 3.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ee03062b"
+      }
+    ],
+    "650.0": [
+      {
+        "Original_Name_In_Paper": "Sb-doped NiTiSn materials",
+        "Property": "PF",
+        "Value": 0.007,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2010.08.039"
+      }
+    ]
+  }
+}

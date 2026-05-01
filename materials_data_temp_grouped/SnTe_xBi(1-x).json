@@ -1,0 +1,34 @@
+{
+  "Material": "SnTe:xBi(1-x)",
+  "DOIs_Researched": [
+    "10.1016/j.jmat.2017.12.001"
+  ],
+  "Data_By_Temperature": {
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.98Bi0.02Te-1 % HgInTe2",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2017.12.001"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.98Bi0.02Te-1 % HgInTe2",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2017.12.001"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.98Bi0.02Te-1 % HgInTe2",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2017.12.001"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "Material": "Ba0.7K0.3Cu2Se2",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2016.11.368",
+    "10.1016/j.matlet.2015.03.098"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Ba0.7K0.3Cu2Se2",
+        "Property": "ZT",
+        "Value": 0.32,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.11.368"
+      },
+      {
+        "Original_Name_In_Paper": "Ba0.7K0.3Cu2Se2",
+        "Property": "ZT",
+        "Value": 0.32,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2015.03.098"
+      },
+      {
+        "Original_Name_In_Paper": "Ba0.7K0.3Cu2Se2",
+        "Property": "PF",
+        "Value": 0.00076,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2015.03.098"
+      }
+    ],
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "Ba0.7K0.3Cu2Se2",
+        "Property": "Conductivity",
+        "Value": 200000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2015.03.098"
+      }
+    ]
+  }
+}

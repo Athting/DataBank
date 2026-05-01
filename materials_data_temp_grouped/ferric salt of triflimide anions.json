@@ -1,0 +1,18 @@
+{
+  "Material": "ferric salt of triflimide anions",
+  "DOIs_Researched": [
+    "10.1039/c4ra15681a"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "ferric salt of triflimide anions",
+        "Property": "PF",
+        "Value": 2.6e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra15681a"
+      }
+    ]
+  }
+}

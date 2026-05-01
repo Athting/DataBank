@@ -1,0 +1,44 @@
+{
+  "Material": "SS-MA-0.01",
+  "DOIs_Researched": [
+    "10.1039/c4ta00896k"
+  ],
+  "Data_By_Temperature": {
+    "775.0": [
+      {
+        "Original_Name_In_Paper": "SS-MA-0.01",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta00896k"
+      },
+      {
+        "Original_Name_In_Paper": "SS-MA-0.01",
+        "Property": "Conductivity",
+        "Value": 150000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta00896k"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "SS-MA-0.01",
+        "Property": "Seebeck",
+        "Value": -7.8e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta00896k"
+      },
+      {
+        "Original_Name_In_Paper": "SS-MA-0.01",
+        "Property": "Conductivity",
+        "Value": 250000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta00896k"
+      }
+    ]
+  }
+}

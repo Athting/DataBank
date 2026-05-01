@@ -1,0 +1,28 @@
+{
+  "Material": "SrTiO3 (SrTiO_3 for LaTeX)",
+  "DOIs_Researched": [
+    "10.3938/jkps.63.428"
+  ],
+  "Data_By_Temperature": {
+    "40.0": [
+      {
+        "Original_Name_In_Paper": "SrTi0.99Nb0.01O3",
+        "Property": "ZT",
+        "Value": 0.07,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.3938/jkps.63.428"
+      }
+    ],
+    "50.0": [
+      {
+        "Original_Name_In_Paper": "SrTi0.99Nb0.01O3",
+        "Property": "PF",
+        "Value": 0.005,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.3938/jkps.63.428"
+      }
+    ]
+  }
+}

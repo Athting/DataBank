@@ -1,0 +1,44 @@
+{
+  "Material": "Sr4IrO6",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2009.10.219"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Sr4IrO6",
+        "Property": "ZT",
+        "Value": 0.25,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.10.219"
+      },
+      {
+        "Original_Name_In_Paper": "Sr4IrO6",
+        "Property": "Conductivity",
+        "Value": 0.02,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.10.219"
+      }
+    ],
+    "650.0": [
+      {
+        "Original_Name_In_Paper": "Sr4IrO6",
+        "Property": "Seebeck",
+        "Value": 0.0002,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.10.219"
+      },
+      {
+        "Original_Name_In_Paper": "Sr4IrO6",
+        "Property": "Seebeck",
+        "Value": 0.0002,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.10.219"
+      }
+    ]
+  }
+}

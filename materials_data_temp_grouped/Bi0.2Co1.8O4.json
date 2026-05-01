@@ -1,0 +1,18 @@
+{
+  "Material": "Bi0.2Co1.8O4",
+  "DOIs_Researched": [
+    "10.1039/d0ra01542c"
+  ],
+  "Data_By_Temperature": {
+    "308.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.2ZnCo1.8O4 nanomaterials",
+        "Property": "Conductivity",
+        "Value": 0.10752688170000001,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ra01542c"
+      }
+    ]
+  }
+}

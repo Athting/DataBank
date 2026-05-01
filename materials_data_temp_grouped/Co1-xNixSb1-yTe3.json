@@ -1,0 +1,18 @@
+{
+  "Material": "Co1-xNixSb1-yTe3",
+  "DOIs_Researched": [
+    "10.1016/j.jpcs.2020.109545"
+  ],
+  "Data_By_Temperature": {
+    "680.0": [
+      {
+        "Original_Name_In_Paper": "Te\u2013Ni double-doped Co1-xNix (Sb1-yTey)3 compound",
+        "Property": "ZT",
+        "Value": 0.65,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2020.109545"
+      }
+    ]
+  }
+}

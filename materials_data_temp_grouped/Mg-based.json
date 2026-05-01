@@ -1,0 +1,18 @@
+{
+  "Material": "Mg-based",
+  "DOIs_Researched": [
+    "10.1016/j.physe.2020.114176"
+  ],
+  "Data_By_Temperature": {
+    "775.0": [
+      {
+        "Original_Name_In_Paper": "Mg-based",
+        "Property": "ZT",
+        "Value": 1.45,
+        "Units": null,
+        "Editing": "Sb doping",
+        "Source_DOI": "10.1016/j.physe.2020.114176"
+      }
+    ]
+  }
+}

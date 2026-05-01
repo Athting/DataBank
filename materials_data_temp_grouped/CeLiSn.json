@@ -1,0 +1,28 @@
+{
+  "Material": "CeLiSn",
+  "DOIs_Researched": [
+    "10.1007/s10948-018-4907-1"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "CeLiSn",
+        "Property": "Seebeck",
+        "Value": 4.2999999999999995e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10948-018-4907-1"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "CeLiSn",
+        "Property": "Seebeck",
+        "Value": 2.7e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10948-018-4907-1"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "Material": "BaTiO3\u2212\u03b4",
+  "DOIs_Researched": [
+    "10.1039/c7cp00020k"
+  ],
+  "Data_By_Temperature": {
+    "1123.0": [
+      {
+        "Original_Name_In_Paper": "Ba0.1Eu0.9TiO3\u2212\u03b4",
+        "Property": "ZT",
+        "Value": 0.24,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cp00020k"
+      },
+      {
+        "Original_Name_In_Paper": "Ba0.1Eu0.9TiO3\u2212\u03b4",
+        "Property": "ZT",
+        "Value": 0.24,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cp00020k"
+      }
+    ],
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "Ba0.1Eu0.9TiO3\u2212\u03b4",
+        "Property": "Seebeck",
+        "Value": 0.0008500000000000001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cp00020k"
+      }
+    ]
+  }
+}

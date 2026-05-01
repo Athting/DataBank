@@ -1,0 +1,60 @@
+{
+  "Material": "Bi1.2Sb0.8Se2.76Cl0.24",
+  "DOIs_Researched": [
+    "10.1039/d0ra04065g"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Bi1.2Sb0.8Se2.76Cl0.24",
+        "Property": "ThermCond",
+        "Value": 0.56,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ra04065g"
+      },
+      {
+        "Original_Name_In_Paper": "Bi1.2Sb0.8Se2.76Cl0.24",
+        "Property": "PF",
+        "Value": 0.000319,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ra04065g"
+      },
+      {
+        "Original_Name_In_Paper": "Bi1.2Sb0.8Se2.76Cl0.24",
+        "Property": "Conductivity",
+        "Value": 39700.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ra04065g"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Bi1.2Sb0.8Se2.76Cl0.24",
+        "Property": "ZT",
+        "Value": 0.67,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ra04065g"
+      },
+      {
+        "Original_Name_In_Paper": "Bi1.2Sb0.8Se2.76Cl0.24",
+        "Property": "ZT",
+        "Value": 0.68,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ra04065g"
+      },
+      {
+        "Original_Name_In_Paper": "Bi1.2Sb0.8Se2.76Cl0.24",
+        "Property": "Conductivity",
+        "Value": 16500.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ra04065g"
+      }
+    ]
+  }
+}

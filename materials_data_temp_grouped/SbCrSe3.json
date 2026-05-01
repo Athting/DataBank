@@ -1,0 +1,89 @@
+{
+  "Material": "SbCrSe3",
+  "DOIs_Researched": [
+    "10.1016/j.mattod.2018.03.039",
+    "10.1038/am.2017.77"
+  ],
+  "Data_By_Temperature": {
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "SbCrSe3",
+        "Property": "ThermCond",
+        "Value": 0.56,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2017.77"
+      },
+      {
+        "Original_Name_In_Paper": "SbCrSe3",
+        "Property": "ZT",
+        "Value": 0.46,
+        "Units": null,
+        "Editing": "Pb doping",
+        "Source_DOI": "10.1038/am.2017.77"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "SbCrSe3 compound",
+        "Property": "ThermCond",
+        "Value": 1.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2017.77"
+      },
+      {
+        "Original_Name_In_Paper": "SbCrSe3 compound",
+        "Property": "ThermCond",
+        "Value": 1.08,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2017.77"
+      },
+      {
+        "Original_Name_In_Paper": "SbCrSe3",
+        "Property": "ThermCond",
+        "Value": 1.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mattod.2018.03.039"
+      },
+      {
+        "Original_Name_In_Paper": "SbCrSe3 compound",
+        "Property": "ZT",
+        "Value": 0.56,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2017.77"
+      },
+      {
+        "Original_Name_In_Paper": "pristine SbCrSe3",
+        "Property": "Conductivity",
+        "Value": 0.054,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2017.77"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "SbCrSe3",
+        "Property": "ThermCond",
+        "Value": 1.08,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2017.77"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "undoped SbCrSe3",
+        "Property": "ZT",
+        "Value": 0.018000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2017.77"
+      }
+    ]
+  }
+}

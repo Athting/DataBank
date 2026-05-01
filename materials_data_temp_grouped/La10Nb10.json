@@ -1,0 +1,29 @@
+{
+  "Material": "La10Nb10",
+  "DOIs_Researched": [
+    "10.1039/c8ta10079a",
+    "10.1016/j.nanoen.2017.04.003"
+  ],
+  "Data_By_Temperature": {
+    "1100.0": [
+      {
+        "Original_Name_In_Paper": "La10Nb10",
+        "Property": "PF",
+        "Value": 0.0016500000000000002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2017.04.003"
+      }
+    ],
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "La10Nb10",
+        "Property": "PF",
+        "Value": 0.0013200000000000002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta10079a"
+      }
+    ]
+  }
+}

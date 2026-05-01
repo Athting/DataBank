@@ -1,0 +1,18 @@
+{
+  "Material": "AgPbmSbTe2\u2212m",
+  "DOIs_Researched": [
+    "10.1016/j.apenergy.2014.12.075"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "cubic AgPbmSbTe2\u2212m",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apenergy.2014.12.075"
+      }
+    ]
+  }
+}

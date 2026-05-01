@@ -1,0 +1,45 @@
+{
+  "doi": "10.1016/j.sna.2018.01.047",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "[ 90–10 ] MoSi2-Al2O3 / / [ 90–10 ] WSi2-Al2O3 composite"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "[ 90–10 ] MoSi2-Al2O3 / / [ 90–10 ] WSi2-Al2O3 composite",
+          "value": 0.0000209,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "1273.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": []
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

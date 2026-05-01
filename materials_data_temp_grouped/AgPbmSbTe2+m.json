@@ -1,0 +1,239 @@
+{
+  "Material": "AgPbmSbTe2+m",
+  "DOIs_Researched": [
+    "10.1016/j.nantod.2016.10.003",
+    "10.1016/j.jallcom.2014.09.198",
+    "10.1016/j.jallcom.2017.07.193",
+    "10.1039/c6qi00263c",
+    "10.1016/j.pnsc.2018.05.002",
+    "10.1016/j.solidstatesciences.2010.11.045",
+    "10.1016/j.electacta.2016.02.206",
+    "10.1016/j.actamat.2014.04.036",
+    "10.1007/s11664-011-1845-0",
+    "10.1016/B978-044452190-3.00050-1",
+    "10.1016/j.jallcom.2013.09.104",
+    "10.1016/B978-008044964-7-50013-3",
+    "10.1038/srep09579",
+    "10.1039/c3ra40564h",
+    "10.1016/j.pcrysgrow.2019.04.001",
+    "10.1016/B978-0-12-803581-8.00568-3",
+    "10.1016/j.matlet.2006.03.080",
+    "10.1038/srep24123",
+    "10.1557/mrs.2018.7",
+    "10.1016/B978-0-12-803581-8.12112-5",
+    "10.1016/j.ijhydene.2015.12.205",
+    "10.1039/c0cp00749h"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "AgPbmSbTe2+m",
+        "Property": "ThermCond",
+        "Value": 2.3,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pcrysgrow.2019.04.001"
+      },
+      {
+        "Original_Name_In_Paper": "AgPbmSbTe2+m",
+        "Property": "Seebeck",
+        "Value": -0.000135,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pcrysgrow.2019.04.001"
+      },
+      {
+        "Original_Name_In_Paper": "AgPbmSbTe2+m",
+        "Property": "Conductivity",
+        "Value": 185000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pcrysgrow.2019.04.001"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "AgPbmSbTe2+m bulk material",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2014.04.036"
+      },
+      {
+        "Original_Name_In_Paper": "AgPbmSbTe2+m",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c0cp00749h"
+      },
+      {
+        "Original_Name_In_Paper": "nanostructured AgPbmSbTe2+m",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6qi00263c"
+      },
+      {
+        "Original_Name_In_Paper": "AgPbmSbTe2+m",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-008044964-7-50013-3"
+      },
+      {
+        "Original_Name_In_Paper": "AgPbmSbTe2+m",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-008044964-7-50013-3"
+      },
+      {
+        "Original_Name_In_Paper": "AgPbmSbTe2+m",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.09.104"
+      },
+      {
+        "Original_Name_In_Paper": "AgPbmSbTe2+m",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2006.03.080"
+      },
+      {
+        "Original_Name_In_Paper": "AgPbmSbTe2+m",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.07.193"
+      },
+      {
+        "Original_Name_In_Paper": "AgPbmSbTe2+m",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1557/mrs.2018.7"
+      },
+      {
+        "Original_Name_In_Paper": "AgPbmSbTe2+m bulk material",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.09.198"
+      },
+      {
+        "Original_Name_In_Paper": "AgPbmSbTe2+m bulk material",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2010.11.045"
+      },
+      {
+        "Original_Name_In_Paper": "AgPbmSbTe2+m",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-12-803581-8.12112-5"
+      },
+      {
+        "Original_Name_In_Paper": "AgPbmSbTe2+m",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ra40564h"
+      },
+      {
+        "Original_Name_In_Paper": "cubic AgPbmSbTe2+m",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-044452190-3.00050-1"
+      },
+      {
+        "Original_Name_In_Paper": "AgPbmSbTe2+m",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/srep24123"
+      },
+      {
+        "Original_Name_In_Paper": "AgPbmSbTe2+m",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.electacta.2016.02.206"
+      },
+      {
+        "Original_Name_In_Paper": "cubic AgPbmSbTe2+m",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-12-803581-8.00568-3"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Cubic AgPbmSbTe2+m",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nantod.2016.10.003"
+      },
+      {
+        "Original_Name_In_Paper": "AgPbmSbTe2+m",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-011-1845-0"
+      },
+      {
+        "Original_Name_In_Paper": "AgPbmSbTe2+m",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pnsc.2018.05.002"
+      }
+    ],
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "AgPbmSbTe2+m",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/srep09579"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "AgPbmSbTe2+m",
+        "Property": "Conductivity",
+        "Value": 48296.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ijhydene.2015.12.205"
+      }
+    ]
+  }
+}

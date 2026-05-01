@@ -1,0 +1,40 @@
+{
+  "Material": "BST films",
+  "DOIs_Researched": [
+    "10.1016/j.vacuum.2019.03.055",
+    "10.1016/j.apsusc.2014.10.038",
+    "10.1016/j.jmat.2020.02.008"
+  ],
+  "Data_By_Temperature": {
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "BST films",
+        "Property": "Seebeck",
+        "Value": 0.0002,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.vacuum.2019.03.055"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "BST films",
+        "Property": "PF",
+        "Value": 0.0046700000000000005,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2020.02.008"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "BST films",
+        "Property": "PF",
+        "Value": 0.0027800000000000004,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2014.10.038"
+      }
+    ]
+  }
+}

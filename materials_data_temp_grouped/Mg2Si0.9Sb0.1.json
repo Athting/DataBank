@@ -1,0 +1,18 @@
+{
+  "Material": "Mg2Si0.9Sb0.1",
+  "DOIs_Researched": [
+    "10.1039/c6ra04986a"
+  ],
+  "Data_By_Temperature": {
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Si0.9Sb0.1",
+        "Property": "ZT",
+        "Value": 0.55,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra04986a"
+      }
+    ]
+  }
+}

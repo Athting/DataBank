@@ -1,0 +1,18 @@
+{
+  "Material": "BiBr3",
+  "DOIs_Researched": [
+    "10.1016/j.mssp.2019.01.021"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "BiBr3",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": "doping BiBr3",
+        "Source_DOI": "10.1016/j.mssp.2019.01.021"
+      }
+    ]
+  }
+}

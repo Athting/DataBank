@@ -1,0 +1,18 @@
+{
+  "Material": "lithium thiophosphates",
+  "DOIs_Researched": [
+    "10.1016/j.jmat.2020.09.003"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "lithium thiophosphates",
+        "Property": "Conductivity",
+        "Value": 1.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2020.09.003"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "SS bulk",
+  "DOIs_Researched": [
+    "10.1039/c6tc04661d"
+  ],
+  "Data_By_Temperature": {
+    "690.0": [
+      {
+        "Original_Name_In_Paper": "SS bulk",
+        "Property": "Seebeck",
+        "Value": 0.00019,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6tc04661d"
+      }
+    ]
+  }
+}

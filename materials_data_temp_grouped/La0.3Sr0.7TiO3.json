@@ -1,0 +1,18 @@
+{
+  "Material": "La0.3Sr0.7TiO3",
+  "DOIs_Researched": [
+    "10.1016/j.pecs.2015.10.004"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "H2-sintered La0.3Sr0.7TiO3",
+        "Property": "Conductivity",
+        "Value": 50000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pecs.2015.10.004"
+      }
+    ]
+  }
+}

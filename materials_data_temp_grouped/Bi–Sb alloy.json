@@ -1,0 +1,37 @@
+{
+  "Material": "Bi\u2013Sb alloy",
+  "DOIs_Researched": [
+    "10.1007/s00339-009-5300-5",
+    "10.1007/s10853-006-1128-y"
+  ],
+  "Data_By_Temperature": {
+    "344.0": [
+      {
+        "Original_Name_In_Paper": "Bi\u2013Sb alloy",
+        "Property": "ZT",
+        "Value": 0.22,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s00339-009-5300-5"
+      }
+    ],
+    "193.0": [
+      {
+        "Original_Name_In_Paper": "Bi\u2013Sb alloy",
+        "Property": "ZT",
+        "Value": 0.41000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-006-1128-y"
+      },
+      {
+        "Original_Name_In_Paper": "Bi\u2013Sb alloy",
+        "Property": "ZT",
+        "Value": 0.41000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-006-1128-y"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "BC2N",
+  "DOIs_Researched": [
+    "10.1039/c9cp02068c"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "BC2N",
+        "Property": "ZT",
+        "Value": 0.0006000000000000001,
+        "Units": null,
+        "Editing": "doping of BC2N",
+        "Source_DOI": "10.1039/c9cp02068c"
+      }
+    ]
+  }
+}

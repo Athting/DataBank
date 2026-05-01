@@ -1,0 +1,80 @@
+{
+  "doi": "10.1039/c3dt52447g",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Cu3Sb0.98Sn0.02Se4"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "Cu3Sb0.98Sn0.02Se4",
+          "value": 64516.1290322581,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Cu3Sb0.98Sn0.02Se4",
+          "value": 0.0011400000000000002,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "Cu3Sb0.98Sn0.02Se4",
+          "value": 1310,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Cu3Sb0.98Sn0.02Se4",
+          "value": 0.0016200000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "640.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Cu3Sb0.98Sn0.02Se4",
+          "zt_value": 1.05,
+          "temperature": "690.0 K"
+        },
+        {
+          "material": "Cu3Sb0.98Sn0.02Se4",
+          "zt_value": 0.97,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "Cu3Sb0.98Sn0.02Se4",
+          "zt_value": 0.7000000000000001,
+          "temperature": "673.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

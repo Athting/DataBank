@@ -1,0 +1,35 @@
+{
+  "Material": "Cu1.9Bi4.6Se8",
+  "DOIs_Researched": [
+    "10.1039/c3ta11457k",
+    "10.1039/c5tc02388b"
+  ],
+  "Data_By_Temperature": {
+    "560.0": [
+      {
+        "Original_Name_In_Paper": "Cu1.9Bi4.6Se8",
+        "Property": "ZT",
+        "Value": 0.27,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta11457k"
+      },
+      {
+        "Original_Name_In_Paper": "Cu1.9Bi4.6Se8",
+        "Property": "ZT",
+        "Value": 0.27,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta11457k"
+      },
+      {
+        "Original_Name_In_Paper": "Cu1.9Bi4.6Se8",
+        "Property": "ZT",
+        "Value": 0.27,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc02388b"
+      }
+    ]
+  }
+}

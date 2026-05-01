@@ -1,0 +1,42 @@
+{
+  "Material": "Cu1.8Se0.7S0.3",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2016.04.140"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Cu1.8Se0.7S0.3 alloy",
+        "Property": "ZT",
+        "Value": 0.78,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.04.140"
+      },
+      {
+        "Original_Name_In_Paper": "Cu1.8Se0.7S0.3",
+        "Property": "ZT",
+        "Value": 0.78,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.04.140"
+      },
+      {
+        "Original_Name_In_Paper": "Cu1.8Se0.7S0.3 bulk",
+        "Property": "ZT",
+        "Value": 0.78,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.04.140"
+      },
+      {
+        "Original_Name_In_Paper": "Cu1.8Se0.7S0.3 alloy",
+        "Property": "ZT",
+        "Value": 0.78,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.04.140"
+      }
+    ]
+  }
+}

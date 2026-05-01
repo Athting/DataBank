@@ -1,0 +1,18 @@
+{
+  "Material": "CaCo",
+  "DOIs_Researched": [
+    "10.1039/b301758n"
+  ],
+  "Data_By_Temperature": {
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "Ca\u2013Co",
+        "Property": "ZT",
+        "Value": 8.54e-05,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/b301758n"
+      }
+    ]
+  }
+}

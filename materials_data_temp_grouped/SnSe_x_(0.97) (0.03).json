@@ -1,0 +1,18 @@
+{
+  "Material": "SnSe:x:(0.97) (0.03)",
+  "DOIs_Researched": [
+    "10.1039/c5ee03366g"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.97Na0.03Se crystal",
+        "Property": "ZT",
+        "Value": 1.17,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ee03366g"
+      }
+    ]
+  }
+}

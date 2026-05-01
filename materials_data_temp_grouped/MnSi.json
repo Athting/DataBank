@@ -1,0 +1,142 @@
+{
+  "Material": "MnSi",
+  "DOIs_Researched": [
+    "10.1007/s12666-019-01743-8",
+    "10.1016/j.mssp.2019.104649",
+    "10.1016/j.mtla.2019.100374",
+    "10.1039/c9tc01937e",
+    "10.1134/S1063782617110112",
+    "10.1016/j.matpr.2015.05.074",
+    "10.1016/j.actamat.2015.04.059",
+    "10.1016/j.scriptamat.2016.03.026",
+    "10.1016/j.jssc.2015.03.017",
+    "10.1039/c5tc01536g",
+    "10.1016/j.jallcom.2017.11.022"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "MnSi",
+        "Property": "ThermCond",
+        "Value": 1.7000000000000002,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": "additional MnSi",
+        "Source_DOI": "10.1016/j.scriptamat.2016.03.026"
+      }
+    ],
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "manganese silicide",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.11.022"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "MnSi\u03b3",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2015.03.017"
+      },
+      {
+        "Original_Name_In_Paper": "MnSi nanoparticles",
+        "Property": "ZT",
+        "Value": 0.62,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01536g"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "manganese silicide",
+        "Property": "ZT",
+        "Value": 0.32,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc01937e"
+      },
+      {
+        "Original_Name_In_Paper": "manganese silicide",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2015.04.059"
+      },
+      {
+        "Original_Name_In_Paper": "MnSi\u03b3",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtla.2019.100374"
+      }
+    ],
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "Mn0.2Si0.8",
+        "Property": "ZT",
+        "Value": 0.59,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1134/S1063782617110112"
+      }
+    ],
+    "843.0": [
+      {
+        "Original_Name_In_Paper": "MnSi",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01536g"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "MnSi",
+        "Property": "ZT",
+        "Value": 0.36,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matpr.2015.05.074"
+      }
+    ],
+    "733.0": [
+      {
+        "Original_Name_In_Paper": "MnSi\u03b3-based",
+        "Property": "ZT",
+        "Value": 0.43,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtla.2019.100374"
+      }
+    ],
+    "1150.0": [
+      {
+        "Original_Name_In_Paper": "manganese silicide",
+        "Property": "Seebeck",
+        "Value": 0.000156,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s12666-019-01743-8"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "MnSi",
+        "Property": "Conductivity",
+        "Value": 27000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2019.104649"
+      }
+    ]
+  }
+}

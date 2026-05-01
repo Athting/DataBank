@@ -1,0 +1,18 @@
+{
+  "Material": "Ba8Ga16Al3Ge27",
+  "DOIs_Researched": [
+    "10.1039/c4ra05322b"
+  ],
+  "Data_By_Temperature": {
+    "760.0": [
+      {
+        "Original_Name_In_Paper": "Ba8Ga16Al3Ge27",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ra05322b"
+      }
+    ]
+  }
+}

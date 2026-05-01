@@ -1,0 +1,18 @@
+{
+  "Material": "N \u00c2\u00b7",
+  "DOIs_Researched": [
+    "10.1016/j.matpr.2015.05.084"
+  ],
+  "Data_By_Temperature": {
+    "5.0": [
+      {
+        "Original_Name_In_Paper": "N \u00c2\u00b7",
+        "Property": "Seebeck",
+        "Value": 0.2978,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matpr.2015.05.084"
+      }
+    ]
+  }
+}

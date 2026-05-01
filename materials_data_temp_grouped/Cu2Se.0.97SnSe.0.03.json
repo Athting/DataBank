@@ -1,0 +1,51 @@
+{
+  "Material": "Cu2Se.0.97SnSe.0.03",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2015.08.154",
+    "10.1007/s10853-020-04949-0"
+  ],
+  "Data_By_Temperature": {
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "(Cu2Se)0.97(SnSe)0.03",
+        "Property": "ZT",
+        "Value": 1.4100000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      },
+      {
+        "Original_Name_In_Paper": "(Cu2Se)0.97(SnSe)0.03",
+        "Property": "ZT",
+        "Value": 1.4100000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.08.154"
+      },
+      {
+        "Original_Name_In_Paper": "(Cu2Se)0.97(SnSe)0.03",
+        "Property": "ZT",
+        "Value": 1.4100000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.08.154"
+      },
+      {
+        "Original_Name_In_Paper": "(Cu2Se)0.97(SnSe)0.03",
+        "Property": "ZT",
+        "Value": 1.4100000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.08.154"
+      },
+      {
+        "Original_Name_In_Paper": "(Cu2Se)0.97(SnSe)0.03",
+        "Property": "ZT",
+        "Value": 1.4100000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.08.154"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Cd(OH)2",
+  "DOIs_Researched": [
+    "10.1016/j.apsusc.2007.11.013"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Cd(OH)2",
+        "Property": "Conductivity",
+        "Value": 0.9345794393,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2007.11.013"
+      }
+    ]
+  }
+}

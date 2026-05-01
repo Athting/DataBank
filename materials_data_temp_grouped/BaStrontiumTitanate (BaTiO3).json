@@ -1,0 +1,80 @@
+{
+  "Material": "BaStrontiumTitanate (BaTiO3)",
+  "DOIs_Researched": [
+    "10.1016/j.scriptamat.2018.05.026",
+    "10.1016/j.jallcom.2017.05.204",
+    "10.1016/j.ceramint.2018.07.266",
+    "10.1039/c8ta08238c",
+    "10.1007/s13391-019-00118-x"
+  ],
+  "Data_By_Temperature": {
+    "347.0": [
+      {
+        "Original_Name_In_Paper": "pristine BST",
+        "Property": "ThermCond",
+        "Value": 0.71,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.05.204"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "pure BST",
+        "Property": "ZT",
+        "Value": 1.31,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.07.266"
+      },
+      {
+        "Original_Name_In_Paper": "pristine BST",
+        "Property": "ZT",
+        "Value": 1.48,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2018.05.026"
+      }
+    ],
+    "325.0": [
+      {
+        "Original_Name_In_Paper": "pure BST",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta08238c"
+      }
+    ],
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "pristine BST",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s13391-019-00118-x"
+      }
+    ],
+    "375.0": [
+      {
+        "Original_Name_In_Paper": "pristine BST",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2018.05.026"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "pure BST",
+        "Property": "Seebeck",
+        "Value": 0.000184,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta08238c"
+      }
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "Material": "Na0.02Ba0.06Pb0.94Te0.",
+  "DOIs_Researched": [
+    "10.1016/j.scriptamat.2016.04.009",
+    "10.1007/s10853-020-04949-0"
+  ],
+  "Data_By_Temperature": {
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "Na0.02(Ba0.06Pb0.94)0.98Te0.5Se0.5",
+        "Property": "ZT",
+        "Value": 1.17,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2016.04.009"
+      },
+      {
+        "Original_Name_In_Paper": "Na0.02(Ba0.06Pb0.94)0.98Te0.5Se0.5",
+        "Property": "ZT",
+        "Value": 1.17,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2016.04.009"
+      },
+      {
+        "Original_Name_In_Paper": "Na0.02(Ba0.06Pb0.94)0.98Te0.5Se0.5",
+        "Property": "ZT",
+        "Value": 1.17,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2016.04.009"
+      },
+      {
+        "Original_Name_In_Paper": "Na0.02(Ba0.06Pb0.94)0.98Te0.5Se0.5",
+        "Property": "ZT",
+        "Value": 1.17,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2016.04.009"
+      },
+      {
+        "Original_Name_In_Paper": "Na0.02(Ba0.06Pb0.94)0.98Te0.5Se0.5",
+        "Property": "ZT",
+        "Value": 1.17,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      }
+    ]
+  }
+}

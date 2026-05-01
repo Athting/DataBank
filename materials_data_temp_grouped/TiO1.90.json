@@ -1,0 +1,18 @@
+{
+  "Material": "TiO1.90",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2018.07.246"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "TiO1.90",
+        "Property": "ZT",
+        "Value": 0.12,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.07.246"
+      }
+    ]
+  }
+}

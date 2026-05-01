@@ -1,0 +1,18 @@
+{
+  "Material": "PrNd",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2011.11.146"
+  ],
+  "Data_By_Temperature": {
+    "100.0": [
+      {
+        "Original_Name_In_Paper": "PrNd",
+        "Property": "Seebeck",
+        "Value": 8e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2011.11.146"
+      }
+    ]
+  }
+}

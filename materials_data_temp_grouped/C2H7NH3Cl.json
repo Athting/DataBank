@@ -1,0 +1,18 @@
+{
+  "Material": "C2H7NH3Cl",
+  "DOIs_Researched": [
+    "10.1016/j.orgel.2019.02.031"
+  ],
+  "Data_By_Temperature": {
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "hexylammonium chloride",
+        "Property": "ZT",
+        "Value": 0.28,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.orgel.2019.02.031"
+      }
+    ]
+  }
+}

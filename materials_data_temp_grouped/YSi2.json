@@ -1,0 +1,18 @@
+{
+  "Material": "YSi2",
+  "DOIs_Researched": [
+    "10.1016/j.mssp.2018.08.020"
+  ],
+  "Data_By_Temperature": {
+    "1100.0": [
+      {
+        "Original_Name_In_Paper": "YSi2 nanoinclusions",
+        "Property": "ZT",
+        "Value": 1.81,
+        "Units": null,
+        "Editing": "YSi2 nanoinclusions",
+        "Source_DOI": "10.1016/j.mssp.2018.08.020"
+      }
+    ]
+  }
+}

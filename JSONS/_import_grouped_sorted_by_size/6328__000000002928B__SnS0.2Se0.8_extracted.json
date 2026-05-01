@@ -1,0 +1,122 @@
+{
+  "doi": "10.1016/j.jallcom.2018.02.157",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "SnS0.2Se0.8",
+        "undoped SnS0.2Se0.8"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "SnS0.2Se0.8",
+          "value": 3310,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "823.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "SnS0.2Se0.8",
+          "value": 0.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "823.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "SnS0.2Se0.8",
+          "value": 0.00037000000000000005,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "SnS0.2Se0.8",
+          "value": 0.00037000000000000005,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "823.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "SnS0.2Se0.8",
+          "zt_value": 0.8200000000000001,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "SnS0.2Se0.8",
+          "zt_value": 0.64,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "SnS0.2Se0.8",
+          "zt_value": 0.64,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "SnS0.2Se0.8",
+          "zt_value": 0.64,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "undoped SnS0.2Se0.8",
+          "zt_value": 0.76,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "SnS0.2Se0.8",
+          "zt_value": 0.45,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "SnS0.2Se0.8",
+          "zt_value": 0.76,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "undoped SnS0.2Se0.8",
+          "zt_value": 0.76,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "SnS0.2Se0.8",
+          "zt_value": 0.8200000000000001,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "SnS0.2Se0.8",
+          "zt_value": 0.8200000000000001,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "SnS0.2Se0.8",
+          "zt_value": 0.64,
+          "temperature": "823.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

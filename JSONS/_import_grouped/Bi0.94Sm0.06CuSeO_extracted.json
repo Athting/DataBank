@@ -1,0 +1,67 @@
+{
+  "doi": "10.1016/j.matdes.2019.108263",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Bi0.94Sm0.06CuSeO",
+        "Bi0.94Sm0.06 CuSeO"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "Bi0.94Sm0.06CuSeO",
+          "value": 7900,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "873.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Bi0.94Sm0.06CuSeO",
+          "zt_value": 0.74,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Bi0.94Sm0.06 CuSeO",
+          "zt_value": 0.74,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Bi0.94Sm0.06CuSeO",
+          "zt_value": 0.74,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Bi0.94Sm0.06CuSeO",
+          "zt_value": 0.74,
+          "temperature": "873.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

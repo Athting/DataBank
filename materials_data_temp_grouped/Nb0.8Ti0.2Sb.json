@@ -1,0 +1,40 @@
+{
+  "Material": "Nb0.8Ti0.2Sb",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2020.07.028",
+    "10.1007/s10853-020-04949-0",
+    "10.1038/s41467-018-04958-3"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Nb0.8Ti0.2FeSb",
+        "Property": "ZT",
+        "Value": 0.5700000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41467-018-04958-3"
+      }
+    ],
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "Nb0.8Ti0.2FeSb",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2020.07.028"
+      }
+    ],
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "p-type Nb0.8Ti0.2FeSb",
+        "Property": "PF",
+        "Value": 0.0047,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      }
+    ]
+  }
+}

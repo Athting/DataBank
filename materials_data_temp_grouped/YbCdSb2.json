@@ -1,0 +1,18 @@
+{
+  "Material": "YbCdSb2",
+  "DOIs_Researched": [
+    "10.1039/c9ta03502h"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "YbCd2Sb2 alloys",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta03502h"
+      }
+    ]
+  }
+}

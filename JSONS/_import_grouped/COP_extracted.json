@@ -1,0 +1,106 @@
+{
+  "doi": "10.1016/j.desal.2015.04.013",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "COP"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "COP",
+          "value": 0.001,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "343.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "COP",
+          "zt_value": 2.4,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "COP",
+          "zt_value": 2.4,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "COP",
+          "zt_value": 2.4,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "COP",
+          "zt_value": 1.77,
+          "temperature": "293.0 K"
+        },
+        {
+          "material": "COP",
+          "zt_value": 1,
+          "temperature": "293.0 K"
+        },
+        {
+          "material": "COP",
+          "zt_value": 2.4,
+          "temperature": "293.0 K"
+        },
+        {
+          "material": "COP",
+          "zt_value": 2.4,
+          "temperature": "313.0 K"
+        },
+        {
+          "material": "COP",
+          "zt_value": 1,
+          "temperature": "230.0 K"
+        },
+        {
+          "material": "COP",
+          "zt_value": 1,
+          "temperature": "338.0 K"
+        },
+        {
+          "material": "COP",
+          "zt_value": 2.4,
+          "temperature": "353.0 K"
+        },
+        {
+          "material": "COP",
+          "zt_value": 2.4,
+          "temperature": "353.0 K"
+        },
+        {
+          "material": "COP",
+          "zt_value": 0.13,
+          "temperature": "600.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

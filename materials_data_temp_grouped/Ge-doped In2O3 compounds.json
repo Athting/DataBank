@@ -1,0 +1,18 @@
+{
+  "Material": "Ge-doped In2O3 compounds",
+  "DOIs_Researched": [
+    "10.1016/j.powtec.2010.08.050"
+  ],
+  "Data_By_Temperature": {
+    "1273.0": [
+      {
+        "Original_Name_In_Paper": "Ge-doped In2O3 compounds",
+        "Property": "ZT",
+        "Value": 0.45,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.powtec.2010.08.050"
+      }
+    ]
+  }
+}

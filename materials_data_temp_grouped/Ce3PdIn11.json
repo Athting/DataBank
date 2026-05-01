@@ -1,0 +1,18 @@
+{
+  "Material": "Ce3PdIn11",
+  "DOIs_Researched": [
+    "10.1016/j.intermet.2014.08.001"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Ce3PdIn11",
+        "Property": "Seebeck",
+        "Value": 4e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2014.08.001"
+      }
+    ]
+  }
+}

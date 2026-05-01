@@ -1,0 +1,36 @@
+{
+  "Material": "Sn1-xAgxSe2",
+  "DOIs_Researched": [
+    "10.1007/s10853-017-1238-8"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Sn1-xAgxSe2",
+        "Property": "ThermCond",
+        "Value": 1.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-017-1238-8"
+      },
+      {
+        "Original_Name_In_Paper": "Sn1-xAgxSe2",
+        "Property": "PF",
+        "Value": 0.00035000000000000005,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-017-1238-8"
+      }
+    ],
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "Sn1-xAgxSe2",
+        "Property": "PF",
+        "Value": 0.0004,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-017-1238-8"
+      }
+    ]
+  }
+}

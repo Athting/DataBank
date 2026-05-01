@@ -1,0 +1,86 @@
+{
+  "Material": "Cu3SbS4",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2017.08.227",
+    "10.1007/s11664-019-07710-9",
+    "10.1039/c7cp06465a",
+    "10.1039/c9cp06233e",
+    "10.1016/j.solener.2018.08.080"
+  ],
+  "Data_By_Temperature": {
+    "523.0": [
+      {
+        "Original_Name_In_Paper": "Cu3SbS4",
+        "Property": "ThermCond",
+        "Value": 0.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cp06465a"
+      },
+      {
+        "Original_Name_In_Paper": "Cu3SbS4",
+        "Property": "Seebeck",
+        "Value": 0.00017109999999999998,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cp06465a"
+      }
+    ],
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "Cu3SbS4",
+        "Property": "ThermCond",
+        "Value": 0.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cp06465a"
+      },
+      {
+        "Original_Name_In_Paper": "pure Cu3SbS4",
+        "Property": "Conductivity",
+        "Value": 6200.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cp06465a"
+      }
+    ],
+    "623.0": [
+      {
+        "Original_Name_In_Paper": "Cu3SbS4",
+        "Property": "ThermCond",
+        "Value": 1.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9cp06233e"
+      },
+      {
+        "Original_Name_In_Paper": "Cu3SbS4",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-019-07710-9"
+      }
+    ],
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "Cu3SbS4",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.08.227"
+      }
+    ],
+    "340.0": [
+      {
+        "Original_Name_In_Paper": "Cu3SbS4",
+        "Property": "Seebeck",
+        "Value": 2e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solener.2018.08.080"
+      }
+    ]
+  }
+}

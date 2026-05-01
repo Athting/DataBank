@@ -1,0 +1,18 @@
+{
+  "Material": "Mg3.2Sb1.5Bi0.5",
+  "DOIs_Researched": [
+    "10.1016/j.mtphys.2020.100269"
+  ],
+  "Data_By_Temperature": {
+    "716.0": [
+      {
+        "Original_Name_In_Paper": "n-type Te-doped Mg3.2Sb1.5Bi0.5",
+        "Property": "ZT",
+        "Value": 1.51,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2020.100269"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "Material": "TlInSe2",
+  "DOIs_Researched": [
+    "10.1016/j.mtener.2018.12.005",
+    "10.1016/j.elspec.2006.11.029",
+    "10.1016/j.tsf.2005.07.203"
+  ],
+  "Data_By_Temperature": {
+    "40.0": [
+      {
+        "Original_Name_In_Paper": "TlInSe2",
+        "Property": "ThermCond",
+        "Value": 6.11,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtener.2018.12.005"
+      },
+      {
+        "Original_Name_In_Paper": "p-doped TlInSe2",
+        "Property": "Conductivity",
+        "Value": 1061.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtener.2018.12.005"
+      }
+    ],
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "TlInSe2",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtener.2018.12.005"
+      }
+    ],
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "TlInSe2",
+        "Property": "Seebeck",
+        "Value": 0.0002,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtener.2018.12.005"
+      }
+    ],
+    "473.0": [
+      {
+        "Original_Name_In_Paper": "TlInSe2",
+        "Property": "Seebeck",
+        "Value": 0.000107,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2005.07.203"
+      }
+    ],
+    "413.0": [
+      {
+        "Original_Name_In_Paper": "TlInSe2",
+        "Property": "Seebeck",
+        "Value": 0.000106,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.elspec.2006.11.029"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "TlInSe2",
+        "Property": "Conductivity",
+        "Value": 0.039,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtener.2018.12.005"
+      }
+    ]
+  }
+}

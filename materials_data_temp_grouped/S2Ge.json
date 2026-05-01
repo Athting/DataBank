@@ -1,0 +1,18 @@
+{
+  "Material": "S2Ge",
+  "DOIs_Researched": [
+    "10.1016/j.physe.2018.03.023"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "S2Ge",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physe.2018.03.023"
+      }
+    ]
+  }
+}

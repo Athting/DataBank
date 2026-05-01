@@ -1,0 +1,18 @@
+{
+  "Material": "Co3.8Ni0.2Sn6Se6",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2018.10.020"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Co3.8Ni0.2Sn6Se6 compound",
+        "Property": "ZT",
+        "Value": 0.18,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2018.10.020"
+      }
+    ]
+  }
+}

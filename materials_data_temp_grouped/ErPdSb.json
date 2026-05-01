@@ -1,0 +1,36 @@
+{
+  "Material": "ErPdSb",
+  "DOIs_Researched": [
+    "10.1016/j.jmmm.2004.11.538"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "ErPdSb",
+        "Property": "Seebeck",
+        "Value": 0.00015000000000000001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmmm.2004.11.538"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "ErPdSb",
+        "Property": "Seebeck",
+        "Value": 0.00015000000000000001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmmm.2004.11.538"
+      },
+      {
+        "Original_Name_In_Paper": "ErPdSb",
+        "Property": "Seebeck",
+        "Value": -4.5e-06,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmmm.2004.11.538"
+      }
+    ]
+  }
+}

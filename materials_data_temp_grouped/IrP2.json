@@ -1,0 +1,18 @@
+{
+  "Material": "IrP2",
+  "DOIs_Researched": [
+    "10.1039/c7tc03948d"
+  ],
+  "Data_By_Temperature": {
+    "1100.0": [
+      {
+        "Original_Name_In_Paper": "IrP2",
+        "Property": "PF",
+        "Value": 0.00523,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7tc03948d"
+      }
+    ]
+  }
+}

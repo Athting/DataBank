@@ -1,0 +1,18 @@
+{
+  "Material": "PEDOT : PSS / Te composite films",
+  "DOIs_Researched": [
+    "10.1007/s10854-016-5111-3"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "PEDOT : PSS / Te composite films",
+        "Property": "PF",
+        "Value": 7.09e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-016-5111-3"
+      }
+    ]
+  }
+}

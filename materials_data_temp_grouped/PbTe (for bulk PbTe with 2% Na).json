@@ -1,0 +1,34 @@
+{
+  "Material": "PbTe (for bulk PbTe with 2% Na)",
+  "DOIs_Researched": [
+    "10.1016/j.scriptamat.2020.01.014"
+  ],
+  "Data_By_Temperature": {
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "bulk Pb0.98Na0.02Te",
+        "Property": "ZT",
+        "Value": 1.73,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2020.01.014"
+      },
+      {
+        "Original_Name_In_Paper": "bulk Pb0.98Na0.02Te",
+        "Property": "ZT",
+        "Value": 0.8300000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2020.01.014"
+      },
+      {
+        "Original_Name_In_Paper": "bulk Pb0.98Na0.02Te",
+        "Property": "ZT",
+        "Value": 1.73,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2020.01.014"
+      }
+    ]
+  }
+}

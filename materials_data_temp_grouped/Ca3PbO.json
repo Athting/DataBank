@@ -1,0 +1,64 @@
+{
+  "Material": "Ca3PbO",
+  "DOIs_Researched": [
+    "10.1016/j.mtcomm.2020.101741"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ca3PbO",
+        "Property": "ThermCond",
+        "Value": 1.23,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtcomm.2020.101741"
+      },
+      {
+        "Original_Name_In_Paper": "Ca3PbO",
+        "Property": "ThermCond",
+        "Value": 1.23,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtcomm.2020.101741"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Ca3PbO",
+        "Property": "ThermCond",
+        "Value": 2.464,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtcomm.2020.101741"
+      }
+    ],
+    "290.0": [
+      {
+        "Original_Name_In_Paper": "Ca3PbO",
+        "Property": "ThermCond",
+        "Value": 0.03,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtcomm.2020.101741"
+      },
+      {
+        "Original_Name_In_Paper": "Ca3PbO",
+        "Property": "ZT",
+        "Value": 0.022680000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtcomm.2020.101741"
+      }
+    ],
+    "550.0": [
+      {
+        "Original_Name_In_Paper": "Ca3PbO",
+        "Property": "ZT",
+        "Value": 0.107,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtcomm.2020.101741"
+      }
+    ]
+  }
+}

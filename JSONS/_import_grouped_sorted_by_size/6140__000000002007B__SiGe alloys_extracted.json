@@ -1,0 +1,87 @@
+{
+  "doi": "10.1016/j.mtla.2018.09.029",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "SiGe alloys"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "SiGe alloys",
+          "value": 0.0019,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "SiGe alloys",
+          "value": 1500,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1000.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "SiGe alloys",
+          "zt_value": 1.3,
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "SiGe alloys",
+          "zt_value": 1.3,
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "SiGe alloys",
+          "zt_value": 1.3,
+          "temperature": "1173.0 K"
+        },
+        {
+          "material": "SiGe alloys",
+          "zt_value": 0.6000000000000001,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "SiGe alloys",
+          "zt_value": 0.51,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "SiGe alloys",
+          "zt_value": 1.8399999999999999,
+          "temperature": "1073.0 K"
+        },
+        {
+          "material": "SiGe alloys",
+          "zt_value": 0.6000000000000001,
+          "temperature": "1000.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

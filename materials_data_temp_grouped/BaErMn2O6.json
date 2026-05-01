@@ -1,0 +1,28 @@
+{
+  "Material": "BaErMn2O6",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2013.04.010"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "BaErMn2O6",
+        "Property": "Conductivity",
+        "Value": 20.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2013.04.010"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "BaErMn2O6",
+        "Property": "Conductivity",
+        "Value": 4000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2013.04.010"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "BS",
+  "DOIs_Researched": [
+    "10.1016/j.apsusc.2020.146341"
+  ],
+  "Data_By_Temperature": {
+    "298.0": [
+      {
+        "Original_Name_In_Paper": "pristine BS",
+        "Property": "Seebeck",
+        "Value": 0.000498,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2020.146341"
+      }
+    ]
+  }
+}

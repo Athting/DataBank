@@ -1,0 +1,18 @@
+{
+  "Material": "CaAl14O33",
+  "DOIs_Researched": [
+    "10.1007/s00339-019-2548-2"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ca12Al14O33",
+        "Property": "Conductivity",
+        "Value": 150000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s00339-019-2548-2"
+      }
+    ]
+  }
+}

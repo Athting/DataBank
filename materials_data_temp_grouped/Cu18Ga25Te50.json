@@ -1,0 +1,18 @@
+{
+  "Material": "Cu18Ga25Te50",
+  "DOIs_Researched": [
+    "10.1039/c7ta08568k"
+  ],
+  "Data_By_Temperature": {
+    "854.0": [
+      {
+        "Original_Name_In_Paper": "Cu18Ga25Te50",
+        "Property": "ZT",
+        "Value": 0.78,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ta08568k"
+      }
+    ]
+  }
+}

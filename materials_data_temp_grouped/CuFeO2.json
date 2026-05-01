@@ -1,0 +1,151 @@
+{
+  "Material": "CuFeO2",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2011.01.113",
+    "10.1016/j.solener.2004.01.012",
+    "10.1016/S1466-6049(01)00006-X",
+    "10.1007/s10971-014-3369-6",
+    "10.1016/j.ceramint.2011.12.079",
+    "10.1016/j.jallcom.2020.154199"
+  ],
+  "Data_By_Temperature": {
+    "298.0": [
+      {
+        "Original_Name_In_Paper": "Mg doped CuFeO2 thin film",
+        "Property": "ThermCond",
+        "Value": 4.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154199"
+      }
+    ],
+    "301.0": [
+      {
+        "Original_Name_In_Paper": "CuFeO2 bulk",
+        "Property": "ThermCond",
+        "Value": 8.6,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154199"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "CuFeO2",
+        "Property": "ThermCond",
+        "Value": 5.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2011.01.113"
+      },
+      {
+        "Original_Name_In_Paper": "Cu1\u2212xPtxFeO2 sample",
+        "Property": "Seebeck",
+        "Value": 0.00024000000000000003,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2011.01.113"
+      },
+      {
+        "Original_Name_In_Paper": "CuFeO2",
+        "Property": "Conductivity",
+        "Value": 350.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2011.12.079"
+      },
+      {
+        "Original_Name_In_Paper": "CuFeO2",
+        "Property": "Conductivity",
+        "Value": 300.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2011.01.113"
+      }
+    ],
+    "960.0": [
+      {
+        "Original_Name_In_Paper": "CuFeO2",
+        "Property": "ThermCond",
+        "Value": 3.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2011.01.113"
+      },
+      {
+        "Original_Name_In_Paper": "CuFeO2",
+        "Property": "ThermCond",
+        "Value": 3.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2011.01.113"
+      },
+      {
+        "Original_Name_In_Paper": "CuFeO2",
+        "Property": "ZT",
+        "Value": 0.04,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2011.01.113"
+      },
+      {
+        "Original_Name_In_Paper": "CuFeO2",
+        "Property": "Conductivity",
+        "Value": 2300.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": "CuFeO2 substitution",
+        "Source_DOI": "10.1016/j.jallcom.2011.01.113"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "CuFeO2 pellet",
+        "Property": "Conductivity",
+        "Value": 0.0016949153,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solener.2004.01.012"
+      },
+      {
+        "Original_Name_In_Paper": "CuFeO2 pellet",
+        "Property": "Seebeck",
+        "Value": 0.0006000000000000001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solener.2004.01.012"
+      },
+      {
+        "Original_Name_In_Paper": "CuFeO2",
+        "Property": "Conductivity",
+        "Value": 153.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10971-014-3369-6"
+      },
+      {
+        "Original_Name_In_Paper": "2 % Mg doped CuFeO2 thin film",
+        "Property": "Conductivity",
+        "Value": 36.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154199"
+      },
+      {
+        "Original_Name_In_Paper": "Undoped CuFeO2",
+        "Property": "Conductivity",
+        "Value": 150.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S1466-6049(01)00006-X"
+      },
+      {
+        "Original_Name_In_Paper": "CuFeO2",
+        "Property": "Conductivity",
+        "Value": 350.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2011.01.113"
+      }
+    ]
+  }
+}

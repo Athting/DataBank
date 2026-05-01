@@ -1,0 +1,18 @@
+{
+  "Material": "AgPb16Sn2SbTe20",
+  "DOIs_Researched": [
+    "10.1016/j.solidstatesciences.2010.09.014"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "AgPb16Sn2SbTe20",
+        "Property": "PF",
+        "Value": 0.0013000000000000002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2010.09.014"
+      }
+    ]
+  }
+}

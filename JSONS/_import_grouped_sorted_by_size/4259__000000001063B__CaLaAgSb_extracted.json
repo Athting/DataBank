@@ -1,0 +1,51 @@
+{
+  "doi": "10.1039/c8qi00293b",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Ca0.85La0.15Ag0.89Sb"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "Ca0.85La0.15Ag0.89Sb",
+          "value": 0.000122,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "860.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Ca0.85La0.15Ag0.89Sb",
+          "zt_value": 0.52,
+          "temperature": "860.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

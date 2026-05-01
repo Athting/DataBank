@@ -1,0 +1,18 @@
+{
+  "Material": "RGO incorporated BST",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2017.05.204"
+  ],
+  "Data_By_Temperature": {
+    "393.0": [
+      {
+        "Original_Name_In_Paper": "RGO incorporated BST",
+        "Property": "ZT",
+        "Value": 1.16,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.05.204"
+      }
+    ]
+  }
+}

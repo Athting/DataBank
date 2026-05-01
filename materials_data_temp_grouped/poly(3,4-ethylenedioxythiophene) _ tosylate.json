@@ -1,0 +1,18 @@
+{
+  "Material": "poly(3,4-ethylenedioxythiophene) : tosylate",
+  "DOIs_Researched": [
+    "10.1038/srep44704"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "poly(3,4-ethylenedioxythiophene) : tosylate",
+        "Property": "PF",
+        "Value": 0.00032399999999999996,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/srep44704"
+      }
+    ]
+  }
+}

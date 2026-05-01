@@ -1,0 +1,111 @@
+{
+  "Material": "CuTe",
+  "DOIs_Researched": [
+    "10.1016/j.optmat.2020.110308",
+    "10.1016/j.apmt.2018.07.004",
+    "10.1016/j.jmat.2020.02.010",
+    "10.1039/c3ta12877f",
+    "10.1016/j.apsusc.2017.11.198",
+    "10.1039/c8ta04993a"
+  ],
+  "Data_By_Temperature": {
+    "523.0": [
+      {
+        "Original_Name_In_Paper": "copper telluride",
+        "Property": "ThermCond",
+        "Value": 5.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2017.11.198"
+      },
+      {
+        "Original_Name_In_Paper": "copper telluride",
+        "Property": "ZT",
+        "Value": 0.08,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2017.11.198"
+      }
+    ],
+    "950.0": [
+      {
+        "Original_Name_In_Paper": "co-doped Cu2Te",
+        "Property": "ZT",
+        "Value": 0.65,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta04993a"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Cu1.75Te / PVDF composite",
+        "Property": "ZT",
+        "Value": 0.01,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2020.02.010"
+      },
+      {
+        "Original_Name_In_Paper": "Cu1.75Te nanowires",
+        "Property": "Seebeck",
+        "Value": 9.6e-06,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apmt.2018.07.004"
+      },
+      {
+        "Original_Name_In_Paper": "Cu1.75Te nanowires",
+        "Property": "PF",
+        "Value": 2.3e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apmt.2018.07.004"
+      },
+      {
+        "Original_Name_In_Paper": "Cu1.75Te nanowires",
+        "Property": "Conductivity",
+        "Value": 249000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apmt.2018.07.004"
+      },
+      {
+        "Original_Name_In_Paper": "Se doped Cu2Te",
+        "Property": "Conductivity",
+        "Value": 37000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.optmat.2020.110308"
+      }
+    ],
+    "650.0": [
+      {
+        "Original_Name_In_Paper": "Cu1.75Te nanosheet",
+        "Property": "Seebeck",
+        "Value": 3.1e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta12877f"
+      },
+      {
+        "Original_Name_In_Paper": "Cu1.75Te nanosheet",
+        "Property": "PF",
+        "Value": 6.000000000000001e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta12877f"
+      }
+    ],
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "Cu1.98Ag0.2Te",
+        "Property": "PF",
+        "Value": 0.0015,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta04993a"
+      }
+    ]
+  }
+}

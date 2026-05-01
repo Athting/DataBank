@@ -1,0 +1,68 @@
+{
+  "doi": "10.1016/j.scriptamat.2018.12.027",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Sb doped Mg2Si0.3Sn0.7 materials",
+        "Bi-doped Mg2Si0.3Sn0.7",
+        "Sb-doped Mg2Si0.3Sn0.7 material",
+        "n-type Sb-doped Mg2Si0.3Sn0.7",
+        "n-type Mg2Si0.3Sn0.7"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Sb doped Mg2Si0.3Sn0.7 materials",
+          "zt_value": 1.3,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "Bi-doped Mg2Si0.3Sn0.7",
+          "zt_value": 1.3,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "Sb-doped Mg2Si0.3Sn0.7 material",
+          "zt_value": 1.3,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "n-type Sb-doped Mg2Si0.3Sn0.7",
+          "zt_value": 1.3,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "n-type Mg2Si0.3Sn0.7",
+          "zt_value": 1.7000000000000002,
+          "temperature": "673.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

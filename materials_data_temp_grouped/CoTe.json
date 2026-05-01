@@ -1,0 +1,36 @@
+{
+  "Material": "CoTe",
+  "DOIs_Researched": [
+    "10.1007/s10854-017-8498-6"
+  ],
+  "Data_By_Temperature": {
+    "473.0": [
+      {
+        "Original_Name_In_Paper": "CoTe",
+        "Property": "ZT",
+        "Value": 0.88,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-017-8498-6"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "CoTe",
+        "Property": "Conductivity",
+        "Value": 580000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-017-8498-6"
+      },
+      {
+        "Original_Name_In_Paper": "CoTe",
+        "Property": "Conductivity",
+        "Value": 580000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-017-8498-6"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "AgBiSe2Cl4",
+  "DOIs_Researched": [
+    "10.1007/s12039-019-1704-8"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "4 mol % Cl doped AgBiSe2",
+        "Property": "Conductivity",
+        "Value": 37600.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s12039-019-1704-8"
+      }
+    ]
+  }
+}

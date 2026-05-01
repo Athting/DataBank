@@ -1,0 +1,18 @@
+{
+  "Material": "Fe1.95Al1.05",
+  "DOIs_Researched": [
+    "10.1016/j.intermet.2017.09.012"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Fe1.95V1.05Al",
+        "Property": "Seebeck",
+        "Value": 0.00013000000000000002,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2017.09.012"
+      }
+    ]
+  }
+}

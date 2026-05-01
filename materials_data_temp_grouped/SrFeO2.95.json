@@ -1,0 +1,18 @@
+{
+  "Material": "SrFeO2.95",
+  "DOIs_Researched": [
+    "10.1016/j.solidstatesciences.2010.07.019"
+  ],
+  "Data_By_Temperature": {
+    "25.0": [
+      {
+        "Original_Name_In_Paper": "SrFeO2.95",
+        "Property": "Conductivity",
+        "Value": 100.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2010.07.019"
+      }
+    ]
+  }
+}

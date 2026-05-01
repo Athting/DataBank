@@ -1,0 +1,60 @@
+{
+  "Material": "In0.004Zn0.992O",
+  "DOIs_Researched": [
+    "10.1039/c3ra44223c"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "In0.004)Zn0.992O",
+        "Property": "ThermCond",
+        "Value": 1.7000000000000002,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ra44223c"
+      },
+      {
+        "Original_Name_In_Paper": "In0.004)Zn0.992O",
+        "Property": "ZT",
+        "Value": 0.19,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ra44223c"
+      },
+      {
+        "Original_Name_In_Paper": "In0.004)Zn0.992O",
+        "Property": "ZT",
+        "Value": 0.19,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ra44223c"
+      },
+      {
+        "Original_Name_In_Paper": "In0.004)Zn0.992O",
+        "Property": "ZT",
+        "Value": 0.00062,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ra44223c"
+      },
+      {
+        "Original_Name_In_Paper": "In0.004)Zn0.992O",
+        "Property": "PF",
+        "Value": 0.00062,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ra44223c"
+      }
+    ],
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "In0.004)Zn0.992O",
+        "Property": "ThermCond",
+        "Value": 2.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ra44223c"
+      }
+    ]
+  }
+}

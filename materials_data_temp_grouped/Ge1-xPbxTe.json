@@ -1,0 +1,18 @@
+{
+  "Material": "Ge1-xPbxTe",
+  "DOIs_Researched": [
+    "10.1016/j.physb.2020.412397"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ge1-xPbxTe",
+        "Property": "Conductivity",
+        "Value": 510000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2020.412397"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "AgSbTe2-xPb0.5Sn0.5Te1-x",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2016.03.018"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "(AgSbTe2)x(Pb0.5Sn0.5Te)1\u2212x",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2016.03.018"
+      }
+    ]
+  }
+}

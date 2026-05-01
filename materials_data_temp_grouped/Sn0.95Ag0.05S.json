@@ -1,0 +1,26 @@
+{
+  "Material": "Sn0.95Ag0.05S",
+  "DOIs_Researched": [
+    "10.1039/c7ta09941j"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.95Ag0.05S",
+        "Property": "ThermCond",
+        "Value": 0.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ta09941j"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.95Ag0.05S",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ta09941j"
+      }
+    ]
+  }
+}

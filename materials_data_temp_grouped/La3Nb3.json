@@ -1,0 +1,18 @@
+{
+  "Material": "La3Nb3",
+  "DOIs_Researched": [
+    "10.1039/c8tc02130a"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "La3Nb3",
+        "Property": "Seebeck",
+        "Value": 0.00027,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8tc02130a"
+      }
+    ]
+  }
+}

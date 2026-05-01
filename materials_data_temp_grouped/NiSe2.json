@@ -1,0 +1,78 @@
+{
+  "Material": "NiSe2",
+  "DOIs_Researched": [
+    "10.1007/s10854-016-4847-0"
+  ],
+  "Data_By_Temperature": {
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "NiSe2 bulk",
+        "Property": "ThermCond",
+        "Value": 7.21,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-016-4847-0"
+      },
+      {
+        "Original_Name_In_Paper": "NiSe2.00",
+        "Property": "ZT",
+        "Value": 0.0012000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-016-4847-0"
+      },
+      {
+        "Original_Name_In_Paper": "NiSe2 bulk",
+        "Property": "Conductivity",
+        "Value": 0.88,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-016-4847-0"
+      },
+      {
+        "Original_Name_In_Paper": "NiSe2.00",
+        "Property": "Conductivity",
+        "Value": 845700.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-016-4847-0"
+      },
+      {
+        "Original_Name_In_Paper": "NiSe2.00",
+        "Property": "Conductivity",
+        "Value": 845700.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-016-4847-0"
+      }
+    ],
+    "10.0": [
+      {
+        "Original_Name_In_Paper": "NiSe2",
+        "Property": "ThermCond",
+        "Value": 15.65,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-016-4847-0"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "NiSe2",
+        "Property": "Seebeck",
+        "Value": -1.0618e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-016-4847-0"
+      },
+      {
+        "Original_Name_In_Paper": "NiSe2",
+        "Property": "Conductivity",
+        "Value": 0.14,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-016-4847-0"
+      }
+    ]
+  }
+}

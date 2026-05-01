@@ -1,0 +1,18 @@
+{
+  "Material": "FeSb1.84Te0.16",
+  "DOIs_Researched": [
+    "10.1007/s10909-014-1148-y"
+  ],
+  "Data_By_Temperature": {
+    "100.0": [
+      {
+        "Original_Name_In_Paper": "FeSb1.84Te0.16",
+        "Property": "ZT",
+        "Value": 0.022,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10909-014-1148-y"
+      }
+    ]
+  }
+}

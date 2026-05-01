@@ -1,0 +1,18 @@
+{
+  "Material": "Li9.6P3S12",
+  "DOIs_Researched": [
+    "10.1039/c8ee01053f"
+  ],
+  "Data_By_Temperature": {
+    "298.0": [
+      {
+        "Original_Name_In_Paper": "Li9.6P3S12",
+        "Property": "Conductivity",
+        "Value": 0.12,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ee01053f"
+      }
+    ]
+  }
+}

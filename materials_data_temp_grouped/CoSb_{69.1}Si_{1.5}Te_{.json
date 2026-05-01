@@ -1,0 +1,18 @@
+{
+  "Material": "CoSb_{69.1}Si_{1.5}Te_{",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2016.11.016"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Co23.4Sb69.1Si1.5Te6.0",
+        "Property": "ZT",
+        "Value": 1.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2016.11.016"
+      }
+    ]
+  }
+}

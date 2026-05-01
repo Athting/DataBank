@@ -1,0 +1,18 @@
+{
+  "Material": "Co / PVDF composites",
+  "DOIs_Researched": [
+    "10.1039/d0ma00278j"
+  ],
+  "Data_By_Temperature": {
+    "318.0": [
+      {
+        "Original_Name_In_Paper": "Co / PVDF composites",
+        "Property": "PF",
+        "Value": 0.0005,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ma00278j"
+      }
+    ]
+  }
+}

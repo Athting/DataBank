@@ -1,0 +1,27 @@
+{
+  "Material": "FeF_{3}N",
+  "DOIs_Researched": [
+    "10.1038/srep44704",
+    "10.1039/c2ee23006b"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "ferric salt of triflimide",
+        "Property": "PF",
+        "Value": 2.6e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/srep44704"
+      },
+      {
+        "Original_Name_In_Paper": "ferric salt of triflimide",
+        "Property": "PF",
+        "Value": 2e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2ee23006b"
+      }
+    ]
+  }
+}

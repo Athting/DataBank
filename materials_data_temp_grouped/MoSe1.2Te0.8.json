@@ -1,0 +1,18 @@
+{
+  "Material": "MoSe1.2Te0.8",
+  "DOIs_Researched": [
+    "10.1039/c9tc05008f"
+  ],
+  "Data_By_Temperature": {
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "MoSe1.2Te0.8 doped with Nb",
+        "Property": "ZT",
+        "Value": 0.34,
+        "Units": null,
+        "Editing": "Te substitution",
+        "Source_DOI": "10.1039/c9tc05008f"
+      }
+    ]
+  }
+}

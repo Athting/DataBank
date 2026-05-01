@@ -1,0 +1,26 @@
+{
+  "Material": "AgIn5Se8",
+  "DOIs_Researched": [
+    "10.1039/c6ra28432a"
+  ],
+  "Data_By_Temperature": {
+    "883.0": [
+      {
+        "Original_Name_In_Paper": "Cd-doped Ag1\u2212xCdxIn5Se8",
+        "Property": "ZT",
+        "Value": 0.63,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra28432a"
+      },
+      {
+        "Original_Name_In_Paper": "pristine AgIn5Se8",
+        "Property": "ZT",
+        "Value": 0.63,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra28432a"
+      }
+    ]
+  }
+}

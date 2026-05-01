@@ -1,0 +1,34 @@
+{
+  "Material": "Sn0.96Bi0.04Te0.88Cl0.12",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2018.02.045"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.96Bi0.04Te0.88Cl0.12",
+        "Property": "ZT",
+        "Value": 1.27,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2018.02.045"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.96Bi0.04Te0.88Cl0.12",
+        "Property": "ZT",
+        "Value": 1.27,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2018.02.045"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.96Bi0.04Te0.88Cl0.12",
+        "Property": "PF",
+        "Value": 0.002291,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2018.02.045"
+      }
+    ]
+  }
+}

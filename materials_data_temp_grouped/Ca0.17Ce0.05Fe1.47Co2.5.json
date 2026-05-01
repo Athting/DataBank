@@ -1,0 +1,18 @@
+{
+  "Material": "Ca0.17Ce0.05Fe1.47Co2.5",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2011.12.022"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ca0.17Ce0.05Fe1.47Co2.53Sb12",
+        "Property": "Seebeck",
+        "Value": 7.5e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2011.12.022"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "YbGa",
+  "DOIs_Researched": [
+    "10.1038/srep14641"
+  ],
+  "Data_By_Temperature": {
+    "780.0": [
+      {
+        "Original_Name_In_Paper": "Yb0.35Ga0.15",
+        "Property": "ZT",
+        "Value": 1.25,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/srep14641"
+      }
+    ]
+  }
+}

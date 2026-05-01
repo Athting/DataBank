@@ -1,0 +1,187 @@
+{
+  "Material": "CaMnO3-\u03b4",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2018.02.130",
+    "10.1016/S0025-5408(02)00997-2",
+    "10.1016/j.ceramint.2015.11.076",
+    "10.1016/j.jallcom.2016.12.359",
+    "10.1016/j.jallcom.2007.09.001",
+    "10.1016/j.jallcom.2011.04.056",
+    "10.1039/c5fd00026b",
+    "10.1007/s10832-013-9811-2"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "CaMn0.96Ru0.04O3\u2212\u03b4",
+        "Property": "ThermCond",
+        "Value": 2.88,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0025-5408(02)00997-2"
+      },
+      {
+        "Original_Name_In_Paper": "CaMn0.96Ru0.04O3\u2212\u03b4",
+        "Property": "ThermCond",
+        "Value": 2.88,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0025-5408(02)00997-2"
+      },
+      {
+        "Original_Name_In_Paper": "CaMn0.96Ru0.04O3\u2212\u03b4",
+        "Property": "ZT",
+        "Value": 6.4e-05,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0025-5408(02)00997-2"
+      },
+      {
+        "Original_Name_In_Paper": "CaMn0.96Ru0.04O3\u2212\u03b4",
+        "Property": "ZT",
+        "Value": 6.4e-05,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0025-5408(02)00997-2"
+      },
+      {
+        "Original_Name_In_Paper": "CaMn0.98Ru0.02O3\u2212\u03b4",
+        "Property": "Seebeck",
+        "Value": 0.000214,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0025-5408(02)00997-2"
+      },
+      {
+        "Original_Name_In_Paper": "CaMn0.96Ru0.04O3\u2212\u03b4",
+        "Property": "PF",
+        "Value": 0.000185,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.02.130"
+      },
+      {
+        "Original_Name_In_Paper": "CaMn0.96Ru0.03O3\u2212\u03b4",
+        "Property": "PF",
+        "Value": 0.000185,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2007.09.001"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "CaMnO3-\u03b4",
+        "Property": "ThermCond",
+        "Value": 0.019,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10832-013-9811-2"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "CaMn0.98Si0.02O3\u2212\u03b4",
+        "Property": "ZT",
+        "Value": 0.0128,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2015.11.076"
+      },
+      {
+        "Original_Name_In_Paper": "CaMn0.98Si0.02O3\u2212\u03b4",
+        "Property": "ZT",
+        "Value": 0.013000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2015.11.076"
+      },
+      {
+        "Original_Name_In_Paper": "CaMn0.98Si0.02O3\u2212\u03b4",
+        "Property": "ZT",
+        "Value": 0.0128,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2015.11.076"
+      },
+      {
+        "Original_Name_In_Paper": "CaMnO3-\u03b4",
+        "Property": "Seebeck",
+        "Value": -0.000319,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10832-013-9811-2"
+      }
+    ],
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "nonstoichiometric CaMnO3-\u03b4",
+        "Property": "Seebeck",
+        "Value": -0.00032,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.12.359"
+      },
+      {
+        "Original_Name_In_Paper": "CaMn0.9Nb0.1O3\u2212\u03b4",
+        "Property": "Conductivity",
+        "Value": 12500.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": "Nb doping",
+        "Source_DOI": "10.1039/c5fd00026b"
+      },
+      {
+        "Original_Name_In_Paper": "CaMn0.9Nb0.1O3\u2212\u03b4",
+        "Property": "Conductivity",
+        "Value": 12500.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": "Nb doping",
+        "Source_DOI": "10.1039/c5fd00026b"
+      }
+    ],
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "CaMn0.95Nb0.05O3-\u03b4",
+        "Property": "PF",
+        "Value": 0.00011899999999999999,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.02.130"
+      },
+      {
+        "Original_Name_In_Paper": "CaMn0.95Nb0.05O3-\u03b4",
+        "Property": "PF",
+        "Value": 0.00011899999999999999,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.02.130"
+      },
+      {
+        "Original_Name_In_Paper": "CaMn.95Nb.05O3-\u03b4",
+        "Property": "PF",
+        "Value": 0.00011899999999999999,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.02.130"
+      }
+    ],
+    "1100.0": [
+      {
+        "Original_Name_In_Paper": "CaMn0.98Nb0.02O3-\u03b4",
+        "Property": "PF",
+        "Value": 0.000265,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.02.130"
+      },
+      {
+        "Original_Name_In_Paper": "CaMn0.98Nb0.02O3\u2212\u03b4",
+        "Property": "PF",
+        "Value": 0.000265,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2011.04.056"
+      }
+    ]
+  }
+}

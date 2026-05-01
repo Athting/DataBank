@@ -1,0 +1,157 @@
+{
+  "Material": "AgGaTe2",
+  "DOIs_Researched": [
+    "10.1038/am.2013.15",
+    "10.1016/j.jallcom.2013.03.174",
+    "10.1016/j.ssc.2019.113731",
+    "10.1039/c5ta09584k",
+    "10.1016/j.mseb.2012.04.025",
+    "10.1039/c4dt01909a",
+    "10.1016/j.jpcs.2015.03.012",
+    "10.1039/c4ta02590c",
+    "10.1016/j.commatsci.2018.10.038",
+    "10.1016/j.cplett.2012.04.025"
+  ],
+  "Data_By_Temperature": {
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "Ag0.95GaTe2",
+        "Property": "ThermCond",
+        "Value": 0.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2013.15"
+      },
+      {
+        "Original_Name_In_Paper": "Ag0.95GaTe2",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2013.15"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "AgGaTe2",
+        "Property": "ThermCond",
+        "Value": 1.7000000000000002,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.03.174"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "AgGaTe2",
+        "Property": "ThermCond",
+        "Value": 1.9,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2018.10.038"
+      },
+      {
+        "Original_Name_In_Paper": "AgGaTe2",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cplett.2012.04.025"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Ag0.95GaTe2",
+        "Property": "ThermCond",
+        "Value": 0.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta02590c"
+      },
+      {
+        "Original_Name_In_Paper": "Ag0.95GaTe2",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta02590c"
+      }
+    ],
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "AgGaTe2",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2019.113731"
+      },
+      {
+        "Original_Name_In_Paper": "Ag0.95GaTe2",
+        "Property": "ZT",
+        "Value": 0.77,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta09584k"
+      },
+      {
+        "Original_Name_In_Paper": "Ag0.95GaTe2",
+        "Property": "ZT",
+        "Value": 0.77,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mseb.2012.04.025"
+      },
+      {
+        "Original_Name_In_Paper": "Ag0.95GaTe2",
+        "Property": "ZT",
+        "Value": 0.77,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mseb.2012.04.025"
+      },
+      {
+        "Original_Name_In_Paper": "Ag0.95GaTe2",
+        "Property": "ZT",
+        "Value": 0.77,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4dt01909a"
+      },
+      {
+        "Original_Name_In_Paper": "Ag0.95GaTe2",
+        "Property": "ZT",
+        "Value": 0.77,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2015.03.012"
+      }
+    ],
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "AgGaTe2",
+        "Property": "ZT",
+        "Value": 1.19,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cplett.2012.04.025"
+      },
+      {
+        "Original_Name_In_Paper": "AgGaTe2",
+        "Property": "ZT",
+        "Value": 1.19,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cplett.2012.04.025"
+      },
+      {
+        "Original_Name_In_Paper": "AgGaTe2",
+        "Property": "ZT",
+        "Value": 1.19,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cplett.2012.04.025"
+      }
+    ]
+  }
+}

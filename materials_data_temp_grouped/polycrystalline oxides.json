@@ -1,0 +1,18 @@
+{
+  "Material": "polycrystalline oxides",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2012.02.007"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "polycrystalline oxides",
+        "Property": "ZT",
+        "Value": 0.45,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2012.02.007"
+      }
+    ]
+  }
+}

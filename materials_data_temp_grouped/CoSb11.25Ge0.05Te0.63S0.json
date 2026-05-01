@@ -1,0 +1,18 @@
+{
+  "Material": "CoSb11.25Ge0.05Te0.63S0",
+  "DOIs_Researched": [
+    "10.1007/s11664-012-2288-y"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Co4Sb11.25Ge0.05Te0.63S0.07 compound",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-012-2288-y"
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "Material": "SOI",
+  "DOIs_Researched": [
+    "10.1038/ncomms4432",
+    "10.1557/mrs.2012.203"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "SOI",
+        "Property": "ThermCond",
+        "Value": 150.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1557/mrs.2012.203"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "SOI",
+        "Property": "Seebeck",
+        "Value": 6.3e-06,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/ncomms4432"
+      }
+    ]
+  }
+}

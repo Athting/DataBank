@@ -1,0 +1,18 @@
+{
+  "Material": "n-type metal oxides",
+  "DOIs_Researched": [
+    "10.1039/c4ta01395f"
+  ],
+  "Data_By_Temperature": {
+    "1100.0": [
+      {
+        "Original_Name_In_Paper": "n-type metal oxides",
+        "Property": "ZT",
+        "Value": 0.15,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta01395f"
+      }
+    ]
+  }
+}

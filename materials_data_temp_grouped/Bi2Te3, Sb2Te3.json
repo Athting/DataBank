@@ -1,0 +1,262 @@
+{
+  "Material": "Bi2Te3, Sb2Te3",
+  "DOIs_Researched": [
+    "10.1016/j.enconman.2015.07.015",
+    "10.1016/j.ijheatmasstransfer.2008.01.004",
+    "10.1016/j.materresbull.2008.12.004",
+    "10.1016/j.rser.2015.01.019",
+    "10.1007/s40820-016-0106-4",
+    "10.1016/j.tsf.2014.02.041",
+    "10.1016/j.energy.2019.04.088",
+    "10.1016/j.enbuild.2012.12.041",
+    "10.1038/am.2017.197",
+    "10.1016/j.matchemphys.2010.01.016",
+    "10.1016/j.tsep.2018.11.011",
+    "10.1038/nchem.955",
+    "10.1007/s00033-020-1275-z",
+    "10.1039/c2jm33899h",
+    "10.1016/j.msea.2005.12.055",
+    "10.1016/B978-0-08-102532-1.00003-2",
+    "10.1038/srep20951",
+    "10.1016/j.intermet.2011.03.006",
+    "10.1039/c5ra24236c",
+    "10.1016/S0925-8388(02)01177-5",
+    "10.1016/j.physb.2010.09.034",
+    "10.1016/j.matlet.2012.01.087",
+    "10.1016/j.ceramint.2019.11.204",
+    "10.1016/j.apenergy.2018.03.027",
+    "10.1038/s41598-020-57991-y",
+    "10.1016/j.jallcom.2007.01.023",
+    "10.1038/srep00841"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Te3 / Sb2Te3",
+        "Property": "ThermCond",
+        "Value": 0.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ijheatmasstransfer.2008.01.004"
+      },
+      {
+        "Original_Name_In_Paper": "p type Bi2Te3 / Sb2Te3",
+        "Property": "ZT",
+        "Value": 2.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/srep00841"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Bi2Te3 / Sb2Te3",
+        "Property": "ZT",
+        "Value": 2.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2008.12.004"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Te3 / Sb2Te3",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2007.01.023"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Te3 / Sb2Te3",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2019.11.204"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Te3 / Sb2Te3",
+        "Property": "ZT",
+        "Value": 2.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apenergy.2018.03.027"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Bi2Te3 / Sb2Te3",
+        "Property": "ZT",
+        "Value": 2.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s40820-016-0106-4"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Te3 / Sb2Te3",
+        "Property": "ZT",
+        "Value": 2.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra24236c"
+      },
+      {
+        "Original_Name_In_Paper": "superlattice Bi2Te3\u2013Sb2Te3 film",
+        "Property": "ZT",
+        "Value": 2.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2jm33899h"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Bi2Te3 / Sb2Te3",
+        "Property": "ZT",
+        "Value": 2.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.enbuild.2012.12.041"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Te3 / Sb2Te3",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/srep20951"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Te3 / Sb2Te3",
+        "Property": "ZT",
+        "Value": 2.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(02)01177-5"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Bi2Te3 / Sb2Te3",
+        "Property": "ZT",
+        "Value": 2.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-020-57991-y"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Te3 / Sb2Te3",
+        "Property": "ZT",
+        "Value": 2.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/nchem.955"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Te3 / Sb2Te3",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsep.2018.11.011"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Te3 / Sb2Te3",
+        "Property": "ZT",
+        "Value": 2.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.energy.2019.04.088"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Te3 / Sb2Te3 nanolayer superlattices films",
+        "Property": "ZT",
+        "Value": 1.47,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2012.01.087"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Te3 / Sb2Te3-based",
+        "Property": "ZT",
+        "Value": 2.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rser.2015.01.019"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Bi2Te3 / Sb2Te3",
+        "Property": "ZT",
+        "Value": 2.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s00033-020-1275-z"
+      },
+      {
+        "Original_Name_In_Paper": "p-type (Bi2Te3)0.25(Sb2Te3)0.75 compounds",
+        "Property": "ZT",
+        "Value": 0.00284,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.msea.2005.12.055"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Te3 / Sb2Te3",
+        "Property": "ZT",
+        "Value": 2.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.enconman.2015.07.015"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Te3 / Sb2Te3",
+        "Property": "ZT",
+        "Value": 2.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-08-102532-1.00003-2"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Te3 / Sb2Te3",
+        "Property": "ZT",
+        "Value": 2.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2010.01.016"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Te3 / Sb2Te3 multilayers",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": "NP additions",
+        "Source_DOI": "10.1038/am.2017.197"
+      }
+    ],
+    "420.0": [
+      {
+        "Original_Name_In_Paper": "nano-scale Bi2Te3 / Sb2Te3",
+        "Property": "ZT",
+        "Value": 1.47,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2011.03.006"
+      }
+    ],
+    "453.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Te3 / Sb2Te3 powder",
+        "Property": "ZT",
+        "Value": 1.47,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2010.09.034"
+      }
+    ],
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Te3 / Sb2Te3 film",
+        "Property": "ZT",
+        "Value": 2.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2014.02.041"
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "doi": "10.1016/j.jmat.2018.05.008",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Bi1.85In0.15Te2Se + 0.25 wt %"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Bi1.85In0.15Te2Se + 0.25 wt %",
+          "zt_value": 1.1,
+          "temperature": "625.0 K"
+        },
+        {
+          "material": "Bi1.85In0.15Te2Se + 0.25 wt %",
+          "zt_value": 1.03,
+          "temperature": "625.0 K"
+        },
+        {
+          "material": "Bi1.85In0.15Te2Se + 0.25 wt %",
+          "zt_value": 1.1,
+          "temperature": "625.0 K"
+        },
+        {
+          "material": "Bi1.85In0.15Te2Se + 0.25 wt %",
+          "zt_value": 1.1,
+          "temperature": "625.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

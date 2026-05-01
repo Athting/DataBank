@@ -1,0 +1,18 @@
+{
+  "Material": "AgxCuTe2",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2016.07.060"
+  ],
+  "Data_By_Temperature": {
+    "590.0": [
+      {
+        "Original_Name_In_Paper": "Ag-doped CuAgxGa1-xTe2",
+        "Property": "ZT",
+        "Value": 0.31,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2016.07.060"
+      }
+    ]
+  }
+}

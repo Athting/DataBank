@@ -1,0 +1,53 @@
+{
+  "Material": "La0.1Sr0.83TiO3",
+  "DOIs_Researched": [
+    "10.1039/c4cp04127e",
+    "10.1016/j.matpr.2017.10.004",
+    "10.1016/j.materresbull.2010.03.018",
+    "10.1016/j.ceramint.2012.07.009"
+  ],
+  "Data_By_Temperature": {
+    "1045.0": [
+      {
+        "Original_Name_In_Paper": "La0.1Sr0.83Dy0.07TiO3",
+        "Property": "ZT",
+        "Value": 0.36,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4cp04127e"
+      },
+      {
+        "Original_Name_In_Paper": "La0.1Sr0.83Dy0.07TiO3",
+        "Property": "ZT",
+        "Value": 0.36,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2012.07.009"
+      },
+      {
+        "Original_Name_In_Paper": "La0.1Sr0.83Dy0.07TiO3",
+        "Property": "ZT",
+        "Value": 0.36,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2010.03.018"
+      },
+      {
+        "Original_Name_In_Paper": "La0.1Sr0.83Dy0.07TiO3",
+        "Property": "ZT",
+        "Value": 0.36,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2010.03.018"
+      },
+      {
+        "Original_Name_In_Paper": "La0.1Sr0.83Dy0.07TiO3",
+        "Property": "ZT",
+        "Value": 0.36,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matpr.2017.10.004"
+      }
+    ]
+  }
+}

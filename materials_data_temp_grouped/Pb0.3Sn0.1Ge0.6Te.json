@@ -1,0 +1,72 @@
+{
+  "Material": "Pb0.3Sn0.1Ge0.6Te",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2013.09.104",
+    "10.1016/j.intermet.2014.09.004",
+    "10.1016/j.jssc.2011.02.028"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Pb0.3Sn0.1Ge0.6Te",
+        "Property": "ThermCond",
+        "Value": 1.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2011.02.028"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Pb0.3Sn0.1Ge0.6Te",
+        "Property": "ThermCond",
+        "Value": 2.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2011.02.028"
+      }
+    ],
+    "650.0": [
+      {
+        "Original_Name_In_Paper": "Pb0.3Sn0.1Ge0.6Te",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2011.02.028"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.3Sn0.1Ge0.6Te",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2011.02.028"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.3Sn0.1Ge0.6Te",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2011.02.028"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.3Sn0.1Ge0.6Te",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.09.104"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.3Sn0.1Ge0.6Te",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2014.09.004"
+      }
+    ]
+  }
+}

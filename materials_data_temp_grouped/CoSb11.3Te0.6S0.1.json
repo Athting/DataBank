@@ -1,0 +1,26 @@
+{
+  "Material": "CoSb11.3Te0.6S0.1",
+  "DOIs_Researched": [
+    "10.1016/j.matlet.2012.03.104"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Co4Sb11.3Te0.6S0.1 compound",
+        "Property": "ZT",
+        "Value": 1.08,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2012.03.104"
+      },
+      {
+        "Original_Name_In_Paper": "Co4Sb11.3Te0.6S0.1 compound",
+        "Property": "ZT",
+        "Value": 1.08,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2012.03.104"
+      }
+    ]
+  }
+}

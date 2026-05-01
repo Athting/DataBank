@@ -1,0 +1,18 @@
+{
+  "Material": "PrFeCoSb12",
+  "DOIs_Researched": [
+    "10.3938/jkps.65.2071"
+  ],
+  "Data_By_Temperature": {
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "Pr0.8Fe3CoSb12",
+        "Property": "ZT",
+        "Value": 0.89,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.3938/jkps.65.2071"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "La2.2Eu0.8S4",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2009.04.076"
+  ],
+  "Data_By_Temperature": {
+    "1273.0": [
+      {
+        "Original_Name_In_Paper": "La2.2Eu0.8S4",
+        "Property": "ZT",
+        "Value": 0.52,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.04.076"
+      }
+    ]
+  }
+}

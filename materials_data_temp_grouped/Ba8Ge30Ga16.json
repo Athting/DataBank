@@ -1,0 +1,27 @@
+{
+  "Material": "Ba8Ge30Ga16",
+  "DOIs_Researched": [
+    "10.1039/c6ra14614g",
+    "10.1016/j.jssc.2016.07.024"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Ba8Ge30Ga16",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2016.07.024"
+      },
+      {
+        "Original_Name_In_Paper": "Ba8Ge30Ga16",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra14614g"
+      }
+    ]
+  }
+}

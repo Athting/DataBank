@@ -1,0 +1,18 @@
+{
+  "Material": "Na0.83RhO2",
+  "DOIs_Researched": [
+    "10.1038/srep04390"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "non-hydrated Na0.83RhO2",
+        "Property": "Seebeck",
+        "Value": 6.3e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/srep04390"
+      }
+    ]
+  }
+}

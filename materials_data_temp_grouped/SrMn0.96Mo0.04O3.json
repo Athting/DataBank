@@ -1,0 +1,18 @@
+{
+  "Material": "SrMn0.96Mo0.04O3",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2005.01.025"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "SrMn0.96Mo0.04O3",
+        "Property": "Conductivity",
+        "Value": 10000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": "Ca substitution",
+        "Source_DOI": "10.1016/j.jssc.2005.01.025"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "amorphous-oxide",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2018.12.019"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "amorphous-oxide",
+        "Property": "Conductivity",
+        "Value": 1.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2018.12.019"
+      }
+    ]
+  }
+}

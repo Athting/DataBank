@@ -1,0 +1,18 @@
+{
+  "Material": "CoTiNbTaSbSn",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2004.04.096"
+  ],
+  "Data_By_Temperature": {
+    "936.0": [
+      {
+        "Original_Name_In_Paper": "CoTi0.2Nb0.4Ta0.4Sb0.2Sn0.8",
+        "Property": "ZT",
+        "Value": 0.11,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2004.04.096"
+      }
+    ]
+  }
+}

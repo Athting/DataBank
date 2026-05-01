@@ -1,0 +1,18 @@
+{
+  "Material": "Gd5Si2Ge2",
+  "DOIs_Researched": [
+    "10.1016/B978-0-444-62711-7.00262-0"
+  ],
+  "Data_By_Temperature": {
+    "273.0": [
+      {
+        "Original_Name_In_Paper": "Gd5Si2Ge2 compound",
+        "Property": "Seebeck",
+        "Value": -8e-06,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-444-62711-7.00262-0"
+      }
+    ]
+  }
+}

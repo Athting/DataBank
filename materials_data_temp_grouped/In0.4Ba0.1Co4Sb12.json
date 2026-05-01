@@ -1,0 +1,45 @@
+{
+  "Material": "In0.4Ba0.1Co4Sb12",
+  "DOIs_Researched": [
+    "10.1016/j.jpcs.2020.109545",
+    "10.1016/j.jallcom.2017.04.130"
+  ],
+  "Data_By_Temperature": {
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "In0.4Ba0.1Co4Sb12",
+        "Property": "ThermCond",
+        "Value": 2.16,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.04.130"
+      },
+      {
+        "Original_Name_In_Paper": "In0.4Ba0.1Co4Sb12",
+        "Property": "ThermCond",
+        "Value": 1.31,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2020.109545"
+      },
+      {
+        "Original_Name_In_Paper": "In0.4Ba0.1Co4Sb12",
+        "Property": "ZT",
+        "Value": 0.97,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.04.130"
+      }
+    ],
+    "623.0": [
+      {
+        "Original_Name_In_Paper": "In0.4Ba0.1Co4Sb12",
+        "Property": "PF",
+        "Value": 0.0029700000000000004,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.04.130"
+      }
+    ]
+  }
+}

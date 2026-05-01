@@ -1,0 +1,18 @@
+{
+  "Material": "Li[_][_2]S[_][_n_]Te[_n_]",
+  "DOIs_Researched": [
+    "10.1016/j.ssi.2015.05.019"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "lithium thiostannates",
+        "Property": "Conductivity",
+        "Value": 400.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssi.2015.05.019"
+      }
+    ]
+  }
+}

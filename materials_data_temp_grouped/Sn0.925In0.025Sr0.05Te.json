@@ -1,0 +1,74 @@
+{
+  "Material": "Sn0.925In0.025Sr0.05Te",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2019.104056"
+  ],
+  "Data_By_Temperature": {
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.925In0.025Sr0.05Te",
+        "Property": "ThermCond",
+        "Value": 0.5700000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2019.104056"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.925In0.025Sr0.05Te pellet",
+        "Property": "ZT",
+        "Value": 1.31,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2019.104056"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Sn0.925In0.025Sr0.05Te",
+        "Property": "ZT",
+        "Value": 1.31,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2019.104056"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.925In0.025Sr0.05Te",
+        "Property": "ZT",
+        "Value": 1.31,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2019.104056"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.925In0.025Sr0.05Te pellet",
+        "Property": "PF",
+        "Value": 0.003388,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2019.104056"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Sn0.925In0.025Sr0.05Te",
+        "Property": "PF",
+        "Value": 0.003388,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2019.104056"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.925In0.025Sr0.05Te",
+        "Property": "PF",
+        "Value": 0.003388,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2019.104056"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.925In0.025Sr0.05Te",
+        "Property": "PF",
+        "Value": 0.003388,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2019.104056"
+      }
+    ]
+  }
+}

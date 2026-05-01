@@ -1,0 +1,18 @@
+{
+  "Material": "CNTdCCO",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2014.09.015"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "6CNTdCCO",
+        "Property": "ThermCond",
+        "Value": 0.30000000000000004,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2014.09.015"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Mg alloy",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2018.05.054"
+  ],
+  "Data_By_Temperature": {
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "Mg alloy",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.05.054"
+      }
+    ]
+  }
+}

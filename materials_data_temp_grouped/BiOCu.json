@@ -1,0 +1,37 @@
+{
+  "Material": "BiOCu",
+  "DOIs_Researched": [
+    "10.1039/c2ta00878e",
+    "10.1039/c3ta12753b"
+  ],
+  "Data_By_Temperature": {
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "BiOCu1\u2212xSe",
+        "Property": "ZT",
+        "Value": 0.81,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2ta00878e"
+      }
+    ],
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "BiOCu1\u2212xSe",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2ta00878e"
+      },
+      {
+        "Original_Name_In_Paper": "BiOCu1\u2212xSe",
+        "Property": "ZT",
+        "Value": 0.30000000000000004,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta12753b"
+      }
+    ]
+  }
+}

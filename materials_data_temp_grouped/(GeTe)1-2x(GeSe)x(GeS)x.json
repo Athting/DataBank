@@ -1,0 +1,18 @@
+{
+  "Material": "(GeTe)1-2x(GeSe)x(GeS)x",
+  "DOIs_Researched": [
+    "10.1016/j.chempr.2018.04.013"
+  ],
+  "Data_By_Temperature": {
+    "630.0": [
+      {
+        "Original_Name_In_Paper": "(GeTe)1\u22122x(GeSe)x(GeS)x",
+        "Property": "ZT",
+        "Value": 2.1,
+        "Units": null,
+        "Editing": "point defect",
+        "Source_DOI": "10.1016/j.chempr.2018.04.013"
+      }
+    ]
+  }
+}

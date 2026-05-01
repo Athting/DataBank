@@ -1,0 +1,26 @@
+{
+  "Material": "Bi on a Sn",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2010.05.086"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Bi on a Sn",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": "By substituting",
+        "Source_DOI": "10.1016/j.jallcom.2010.05.086"
+      },
+      {
+        "Original_Name_In_Paper": "Bi on a Sn",
+        "Property": "PF",
+        "Value": 0.004,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": "By substituting",
+        "Source_DOI": "10.1016/j.jallcom.2010.05.086"
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "doi": "10.1039/c4ta01333f",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "doped SnTe0.85Se0.15",
+        "SnTe0.85Se0.15"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "SnTe0.85Se0.15",
+          "value": 5e-7,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "doped SnTe0.85Se0.15",
+          "value": 0.000067,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "doped SnTe0.85Se0.15",
+          "value": 167000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "doped SnTe0.85Se0.15",
+          "value": 2.3,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "SnTe0.85Se0.15",
+          "value": 1.27,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "doped SnTe0.85Se0.15",
+          "value": 0.0007300000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "doped SnTe0.85Se0.15",
+          "zt_value": 0.8,
+          "temperature": "860.0 K"
+        },
+        {
+          "material": "doped SnTe0.85Se0.15",
+          "zt_value": 0.8,
+          "temperature": "860.0 K"
+        },
+        {
+          "material": "doped SnTe0.85Se0.15",
+          "zt_value": 0.8,
+          "temperature": "855.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

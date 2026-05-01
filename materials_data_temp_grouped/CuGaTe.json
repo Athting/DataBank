@@ -1,0 +1,103 @@
+{
+  "Material": "CuGaTe",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2016.07.060",
+    "10.1038/s41598-019-43911-2"
+  ],
+  "Data_By_Temperature": {
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "Cu28Ga25Te47 alloy",
+        "Property": "ThermCond",
+        "Value": 1.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2016.07.060"
+      },
+      {
+        "Original_Name_In_Paper": "Cu25Ga26Te49 alloy",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2016.07.060"
+      },
+      {
+        "Original_Name_In_Paper": "Cu28Ga25Te47 alloy",
+        "Property": "ZT",
+        "Value": 1.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2016.07.060"
+      }
+    ],
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "Cu1.97Ga0.03Te",
+        "Property": "ThermCond",
+        "Value": 3.1364,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-019-43911-2"
+      },
+      {
+        "Original_Name_In_Paper": "Cu1.97Ga0.03Te",
+        "Property": "ZT",
+        "Value": 0.46,
+        "Units": null,
+        "Editing": "3 atomic % Ga doping",
+        "Source_DOI": "10.1038/s41598-019-43911-2"
+      },
+      {
+        "Original_Name_In_Paper": "Cu1.97Ga0.03Te",
+        "Property": "ZT",
+        "Value": 0.46,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-019-43911-2"
+      },
+      {
+        "Original_Name_In_Paper": "Cu1.97Ga0.03Te",
+        "Property": "ZT",
+        "Value": 0.46,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-019-43911-2"
+      },
+      {
+        "Original_Name_In_Paper": "Cu1.97Ga0.03Te",
+        "Property": "Seebeck",
+        "Value": 7.000000000000001e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-019-43911-2"
+      },
+      {
+        "Original_Name_In_Paper": "Cu1.97Ga0.03Te",
+        "Property": "PF",
+        "Value": 0.00023,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-019-43911-2"
+      },
+      {
+        "Original_Name_In_Paper": "Cu1.97Ga0.03Te",
+        "Property": "Conductivity",
+        "Value": 6.000000000000001e-05,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-019-43911-2"
+      }
+    ],
+    "745.0": [
+      {
+        "Original_Name_In_Paper": "Cu1.99Ga0.01Te",
+        "Property": "Seebeck",
+        "Value": 0.000365,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-019-43911-2"
+      }
+    ]
+  }
+}

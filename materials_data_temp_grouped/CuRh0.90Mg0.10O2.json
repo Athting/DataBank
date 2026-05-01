@@ -1,0 +1,18 @@
+{
+  "Material": "CuRh0.90Mg0.10O2",
+  "DOIs_Researched": [
+    "10.1007/s10948-015-3352-7"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "CuRh0.90Mg0.10O2",
+        "Property": "ZT",
+        "Value": 0.15,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10948-015-3352-7"
+      }
+    ]
+  }
+}

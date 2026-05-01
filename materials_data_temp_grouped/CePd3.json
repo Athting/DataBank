@@ -1,0 +1,101 @@
+{
+  "Material": "CePd3",
+  "DOIs_Researched": [
+    "10.1016/B0-08-043152-6-01655-7",
+    "10.1016/S0022-3697(98)00324-2",
+    "10.1007/s00339-019-3057-z",
+    "10.1016/j.ssc.2006.03.016",
+    "10.1039/b918909b",
+    "10.1016/S0925-8388(00)00796-9",
+    "10.1007/s11664-011-1788-5",
+    "10.1039/c1dt11523e"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "CePd3",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0022-3697(98)00324-2"
+      },
+      {
+        "Original_Name_In_Paper": "CePd3",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s00339-019-3057-z"
+      }
+    ],
+    "200.0": [
+      {
+        "Original_Name_In_Paper": "CePd3",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-011-1788-5"
+      },
+      {
+        "Original_Name_In_Paper": "CePd3",
+        "Property": "ZT",
+        "Value": 0.23,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c1dt11523e"
+      }
+    ],
+    "150.0": [
+      {
+        "Original_Name_In_Paper": "CePd3",
+        "Property": "Seebeck",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2006.03.016"
+      }
+    ],
+    "100.0": [
+      {
+        "Original_Name_In_Paper": "CePd3",
+        "Property": "Seebeck",
+        "Value": 8e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/b918909b"
+      }
+    ],
+    "135.0": [
+      {
+        "Original_Name_In_Paper": "CePd3",
+        "Property": "Seebeck",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(00)00796-9"
+      }
+    ],
+    "120.0": [
+      {
+        "Original_Name_In_Paper": "CePd3",
+        "Property": "Seebeck",
+        "Value": 0.00011499999999999999,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0022-3697(98)00324-2"
+      }
+    ],
+    "125.0": [
+      {
+        "Original_Name_In_Paper": "CePd3",
+        "Property": "Seebeck",
+        "Value": 0.00011499999999999999,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B0-08-043152-6-01655-7"
+      }
+    ]
+  }
+}

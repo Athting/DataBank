@@ -1,0 +1,18 @@
+{
+  "Material": "Na5DySi4O12",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2011.07.006"
+  ],
+  "Data_By_Temperature": {
+    "343.0": [
+      {
+        "Original_Name_In_Paper": "Na5DySi4O12",
+        "Property": "Conductivity",
+        "Value": 1.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2011.07.006"
+      }
+    ]
+  }
+}

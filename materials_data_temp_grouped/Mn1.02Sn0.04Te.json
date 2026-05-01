@@ -1,0 +1,26 @@
+{
+  "Material": "Mn1.02Sn0.04Te",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2018.11.066"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Mn1.02Sn0.04Te",
+        "Property": "ZT",
+        "Value": 0.93,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.11.066"
+      },
+      {
+        "Original_Name_In_Paper": "Mn1.02Sn0.04Te",
+        "Property": "ZT",
+        "Value": 0.93,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.11.066"
+      }
+    ]
+  }
+}

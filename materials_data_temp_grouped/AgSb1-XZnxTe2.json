@@ -1,0 +1,18 @@
+{
+  "Material": "AgSb1-XZnxTe2",
+  "DOIs_Researched": [
+    "10.1016/j.mssp.2020.105292"
+  ],
+  "Data_By_Temperature": {
+    "585.0": [
+      {
+        "Original_Name_In_Paper": "AgSb1\u2212XZnxTe2",
+        "Property": "ZT",
+        "Value": 1.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2020.105292"
+      }
+    ]
+  }
+}

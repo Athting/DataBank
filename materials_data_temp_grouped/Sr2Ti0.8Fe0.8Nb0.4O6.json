@@ -1,0 +1,18 @@
+{
+  "Material": "Sr2Ti0.8Fe0.8Nb0.4O6",
+  "DOIs_Researched": [
+    "10.1039/c6cp06273c"
+  ],
+  "Data_By_Temperature": {
+    "846.0": [
+      {
+        "Original_Name_In_Paper": "pure Sr2Ti0.8Fe0.8Nb0.4O6",
+        "Property": "Conductivity",
+        "Value": 204.7,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6cp06273c"
+      }
+    ]
+  }
+}

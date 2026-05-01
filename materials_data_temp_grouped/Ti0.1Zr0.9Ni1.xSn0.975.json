@@ -1,0 +1,18 @@
+{
+  "Material": "Ti0.1Zr0.9Ni1.xSn0.975",
+  "DOIs_Researched": [
+    "10.1039/c4dt00430b"
+  ],
+  "Data_By_Temperature": {
+    "775.0": [
+      {
+        "Original_Name_In_Paper": "Ti0.1Zr0.9Ni1+xSn0.975Sb0.025 nanocomposites",
+        "Property": "Seebeck",
+        "Value": -0.00013000000000000002,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4dt00430b"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Cu / Co",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2020.154240"
+  ],
+  "Data_By_Temperature": {
+    "725.0": [
+      {
+        "Original_Name_In_Paper": "Cu / Co",
+        "Property": "ZT",
+        "Value": 0.37,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.154240"
+      }
+    ]
+  }
+}

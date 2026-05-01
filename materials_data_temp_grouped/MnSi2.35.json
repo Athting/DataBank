@@ -1,0 +1,18 @@
+{
+  "Material": "MnSi2.35",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2018.01.389"
+  ],
+  "Data_By_Temperature": {
+    "422.0": [
+      {
+        "Original_Name_In_Paper": "MnSi2.35",
+        "Property": "Seebeck",
+        "Value": 0.00029739999999999996,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.01.389"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "OS-PAS-prepared",
+  "DOIs_Researched": [
+    "10.1038/am.2017.1"
+  ],
+  "Data_By_Temperature": {
+    "820.0": [
+      {
+        "Original_Name_In_Paper": "OS-PAS-prepared",
+        "Property": "Seebeck",
+        "Value": 0.00021,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/am.2017.1"
+      }
+    ]
+  }
+}

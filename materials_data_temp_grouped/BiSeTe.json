@@ -1,0 +1,37 @@
+{
+  "Material": "BiSeTe",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2017.08.103",
+    "10.1016/j.jssc.2007.10.013"
+  ],
+  "Data_By_Temperature": {
+    "417.0": [
+      {
+        "Original_Name_In_Paper": "Cu-free Bi2Se0.3Te2.7",
+        "Property": "ZT",
+        "Value": 0.66,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2007.10.013"
+      }
+    ],
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "0.1Bi1.9Se0.3Te2.7",
+        "Property": "ZT",
+        "Value": 1.37,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.08.103"
+      },
+      {
+        "Original_Name_In_Paper": "0.1Bi1.9Se0.3Te2.7",
+        "Property": "ZT",
+        "Value": 1.37,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.08.103"
+      }
+    ]
+  }
+}

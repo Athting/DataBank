@@ -1,0 +1,18 @@
+{
+  "Material": "FeReGa",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2019.07.033"
+  ],
+  "Data_By_Temperature": {
+    "975.0": [
+      {
+        "Original_Name_In_Paper": "Fe0.96Re0.04Ga3",
+        "Property": "ZT",
+        "Value": 0.06,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.07.033"
+      }
+    ]
+  }
+}

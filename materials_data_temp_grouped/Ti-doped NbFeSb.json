@@ -1,0 +1,57 @@
+{
+  "Material": "Ti-doped NbFeSb",
+  "DOIs_Researched": [
+    "10.1016/j.mser.2018.09.001",
+    "10.1038/s41535-018-0083-6",
+    "10.1039/c7ee00098g",
+    "10.1038/s41524-020-0316-7"
+  ],
+  "Data_By_Temperature": {
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "Ti-doped NbFeSb",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41535-018-0083-6"
+      },
+      {
+        "Original_Name_In_Paper": "Ti-doped NbFeSb",
+        "Property": "PF",
+        "Value": 0.0045000000000000005,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41535-018-0083-6"
+      }
+    ],
+    "1100.0": [
+      {
+        "Original_Name_In_Paper": "Ti-doped NbFeSb",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mser.2018.09.001"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ti-doped NbFeSb",
+        "Property": "PF",
+        "Value": 0.0106,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41524-020-0316-7"
+      },
+      {
+        "Original_Name_In_Paper": "Ti-doped NbFeSb",
+        "Property": "PF",
+        "Value": 0.0106,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ee00098g"
+      }
+    ]
+  }
+}

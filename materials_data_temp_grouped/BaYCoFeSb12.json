@@ -1,0 +1,18 @@
+{
+  "Material": "BaYCoFeSb12",
+  "DOIs_Researched": [
+    "10.1007/s10853-014-8562-z"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Ba0.17Yb0.10Co2.8Fe0.9Sb12",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-014-8562-z"
+      }
+    ]
+  }
+}

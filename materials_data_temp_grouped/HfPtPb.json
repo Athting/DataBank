@@ -1,0 +1,45 @@
+{
+  "Material": "HfPtPb",
+  "DOIs_Researched": [
+    "10.1016/j.physb.2020.412536",
+    "10.1016/j.jallcom.2018.06.034"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "HfPtPb",
+        "Property": "ThermCond",
+        "Value": 7.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.06.034"
+      },
+      {
+        "Original_Name_In_Paper": "HfPtPb",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.06.034"
+      },
+      {
+        "Original_Name_In_Paper": "HfPtPb",
+        "Property": "Seebeck",
+        "Value": 9.499999999999999e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.06.034"
+      }
+    ],
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "HfPtPb",
+        "Property": "ZT",
+        "Value": 0.25,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2020.412536"
+      }
+    ]
+  }
+}

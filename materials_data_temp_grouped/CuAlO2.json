@@ -1,0 +1,514 @@
+{
+  "Material": "CuAlO2",
+  "DOIs_Researched": [
+    "10.1016/j.tsf.2004.08.117",
+    "10.1007/s10853-015-9679-4",
+    "10.1016/S1466-6049(01)00006-X",
+    "10.1016/j.jallcom.2007.12.016",
+    "10.1038/40087",
+    "10.1016/j.compositesb.2018.08.070",
+    "10.1016/j.ceramint.2018.12.004",
+    "10.1016/j.jallcom.2015.08.013",
+    "10.1016/S0040-6090(03)00817-4",
+    "10.1016/j.cap.2017.06.011",
+    "10.1007/s10854-016-5227-5",
+    "10.1016/j.ceramint.2015.07.031",
+    "10.1016/j.jeurceramsoc.2005.03.034",
+    "10.1016/j.physb.2005.09.022",
+    "10.1038/ncomms16076",
+    "10.1016/j.mssp.2016.08.023",
+    "10.1016/j.jallcom.2006.07.067",
+    "10.1016/j.cap.2011.05.028",
+    "10.1016/j.jallcom.2020.156119",
+    "10.1016/j.mseb.2005.10.035",
+    "10.1016/j.jallcom.2018.04.276",
+    "10.1016/j.ceramint.2015.01.157",
+    "10.1016/j.ceramint.2017.06.073",
+    "10.1007/s10853-017-1602-8",
+    "10.1016/j.solmat.2005.01.003",
+    "10.1016/B978-0-12-803581-8.11051-3",
+    "10.1007/s10971-011-2660-z",
+    "10.1007/s11665-018-3601-6",
+    "10.1016/j.ceramint.2011.12.079"
+  ],
+  "Data_By_Temperature": {
+    "780.0": [
+      {
+        "Original_Name_In_Paper": "CuAlO2",
+        "Property": "ZT",
+        "Value": 0.0027,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.156119"
+      },
+      {
+        "Original_Name_In_Paper": "CuAlO2",
+        "Property": "ZT",
+        "Value": 0.0027,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-12-803581-8.11051-3"
+      },
+      {
+        "Original_Name_In_Paper": "CuAlO2 pellets",
+        "Property": "Seebeck",
+        "Value": 0.00046,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.compositesb.2018.08.070"
+      }
+    ],
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "CuAlO2",
+        "Property": "ZT",
+        "Value": 0.009000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.156119"
+      },
+      {
+        "Original_Name_In_Paper": "CuAlO2",
+        "Property": "ZT",
+        "Value": 0.0004900000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.156119"
+      },
+      {
+        "Original_Name_In_Paper": "CuAlO2",
+        "Property": "PF",
+        "Value": 0.000104,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2011.12.079"
+      },
+      {
+        "Original_Name_In_Paper": "CuAlO2",
+        "Property": "PF",
+        "Value": 0.000104,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2015.01.157"
+      },
+      {
+        "Original_Name_In_Paper": "CuAlO2",
+        "Property": "PF",
+        "Value": 0.000104,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2007.12.016"
+      },
+      {
+        "Original_Name_In_Paper": "polycrystal CuAlO2",
+        "Property": "PF",
+        "Value": 0.000104,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2006.07.067"
+      }
+    ],
+    "575.0": [
+      {
+        "Original_Name_In_Paper": "CuAlO2",
+        "Property": "ZT",
+        "Value": 0.0045000000000000005,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.12.004"
+      }
+    ],
+    "960.0": [
+      {
+        "Original_Name_In_Paper": "bulk CuAlO2 powder",
+        "Property": "ZT",
+        "Value": 0.017,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-12-803581-8.11051-3"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "CuAlO2",
+        "Property": "ZT",
+        "Value": 0.001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/ncomms16076"
+      },
+      {
+        "Original_Name_In_Paper": "CuAlO2",
+        "Property": "Conductivity",
+        "Value": 9.5057034221,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2011.05.028"
+      },
+      {
+        "Original_Name_In_Paper": "CuAlO2",
+        "Property": "Conductivity",
+        "Value": 100.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2011.05.028"
+      },
+      {
+        "Original_Name_In_Paper": "CuAlO2 thin film",
+        "Property": "Conductivity",
+        "Value": 8.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0040-6090(03)00817-4"
+      },
+      {
+        "Original_Name_In_Paper": "CuAlO2",
+        "Property": "Conductivity",
+        "Value": 100.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.compositesb.2018.08.070"
+      },
+      {
+        "Original_Name_In_Paper": "CuAlO2 thin films",
+        "Property": "Conductivity",
+        "Value": 9.5,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solmat.2005.01.003"
+      },
+      {
+        "Original_Name_In_Paper": "CuAlO2 thin films",
+        "Property": "Conductivity",
+        "Value": 9.5,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2004.08.117"
+      },
+      {
+        "Original_Name_In_Paper": "CuAlO2 powder",
+        "Property": "Conductivity",
+        "Value": 0.169,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2004.08.117"
+      },
+      {
+        "Original_Name_In_Paper": "CuAlO2",
+        "Property": "Conductivity",
+        "Value": 100.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/40087"
+      },
+      {
+        "Original_Name_In_Paper": "CuAlO2",
+        "Property": "Conductivity",
+        "Value": 14000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2005.09.022"
+      },
+      {
+        "Original_Name_In_Paper": "CuAlO2",
+        "Property": "Conductivity",
+        "Value": 95.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S1466-6049(01)00006-X"
+      },
+      {
+        "Original_Name_In_Paper": "CuAlO2",
+        "Property": "Conductivity",
+        "Value": 0.17,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S1466-6049(01)00006-X"
+      },
+      {
+        "Original_Name_In_Paper": "CuAlO2",
+        "Property": "Conductivity",
+        "Value": 100.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-015-9679-4"
+      },
+      {
+        "Original_Name_In_Paper": "CuAlO2",
+        "Property": "Conductivity",
+        "Value": 0.015,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2015.07.031"
+      }
+    ],
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "CuAlO2",
+        "Property": "ZT",
+        "Value": 0.014,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-016-5227-5"
+      },
+      {
+        "Original_Name_In_Paper": "CuAlO2 thin films",
+        "Property": "ZT",
+        "Value": 0.9500000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-017-1602-8"
+      },
+      {
+        "Original_Name_In_Paper": "CuAlO2 thin films",
+        "Property": "Conductivity",
+        "Value": 34.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-017-1602-8"
+      },
+      {
+        "Original_Name_In_Paper": "CuAlO2 with 6 at % of Ag2O",
+        "Property": "Conductivity",
+        "Value": 448.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2017.06.011"
+      },
+      {
+        "Original_Name_In_Paper": "CuAlO2",
+        "Property": "Conductivity",
+        "Value": 300.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2017.06.073"
+      },
+      {
+        "Original_Name_In_Paper": "CuAlO2 with 6 at % of Ag2O",
+        "Property": "Conductivity",
+        "Value": 450.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2016.08.023"
+      }
+    ],
+    "1173.0": [
+      {
+        "Original_Name_In_Paper": "CuAlO2",
+        "Property": "Conductivity",
+        "Value": 6.6666666667,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10971-011-2660-z"
+      }
+    ],
+    "1200.0": [
+      {
+        "Original_Name_In_Paper": "CuAlO2",
+        "Property": "Seebeck",
+        "Value": 0.000325,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.08.013"
+      },
+      {
+        "Original_Name_In_Paper": "CuAlO2 single crystal",
+        "Property": "Conductivity",
+        "Value": 1000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2017.06.073"
+      },
+      {
+        "Original_Name_In_Paper": "CuAlO2",
+        "Property": "Conductivity",
+        "Value": 1000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.08.013"
+      }
+    ],
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "CuAlO2 single crystal",
+        "Property": "Seebeck",
+        "Value": 0.00018,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.tsf.2004.08.117"
+      },
+      {
+        "Original_Name_In_Paper": "CuAlO2 single crystal",
+        "Property": "Seebeck",
+        "Value": 0.00018,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2005.09.022"
+      }
+    ],
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "CuAlO2 with 2 at % of Ag2O",
+        "Property": "Seebeck",
+        "Value": 0.00042,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2016.08.023"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "bulk CuAlO2",
+        "Property": "Seebeck",
+        "Value": 0.00047000000000000004,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11665-018-3601-6"
+      },
+      {
+        "Original_Name_In_Paper": "CuAlO2",
+        "Property": "Conductivity",
+        "Value": 80.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11665-018-3601-6"
+      },
+      {
+        "Original_Name_In_Paper": "CuAlO2",
+        "Property": "Conductivity",
+        "Value": 167.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11665-018-3601-6"
+      }
+    ],
+    "1140.0": [
+      {
+        "Original_Name_In_Paper": "CuAlO2",
+        "Property": "PF",
+        "Value": 4.98e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2005.03.034"
+      },
+      {
+        "Original_Name_In_Paper": "CuAlO2",
+        "Property": "PF",
+        "Value": 4.98e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2005.03.034"
+      },
+      {
+        "Original_Name_In_Paper": "CuAlO2",
+        "Property": "PF",
+        "Value": 4.98e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2011.12.079"
+      },
+      {
+        "Original_Name_In_Paper": "CuAl0.9Ca0.1O2",
+        "Property": "PF",
+        "Value": 7.819999999999999e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2011.12.079"
+      },
+      {
+        "Original_Name_In_Paper": "CuAl0.9Ca0.1O2",
+        "Property": "PF",
+        "Value": 7.819999999999999e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mseb.2005.10.035"
+      },
+      {
+        "Original_Name_In_Paper": "CuAl0.9Ca0.1O2",
+        "Property": "PF",
+        "Value": 7.819999999999999e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mseb.2005.10.035"
+      },
+      {
+        "Original_Name_In_Paper": "CuAlO2",
+        "Property": "PF",
+        "Value": 6.62e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2015.01.157"
+      },
+      {
+        "Original_Name_In_Paper": "CuAlO2",
+        "Property": "PF",
+        "Value": 4.98e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2007.12.016"
+      },
+      {
+        "Original_Name_In_Paper": "CuAl0.9Ca0.1O2",
+        "Property": "PF",
+        "Value": 7.819999999999999e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2007.12.016"
+      }
+    ],
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "CuAlO2",
+        "Property": "PF",
+        "Value": 9.3e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.12.004"
+      },
+      {
+        "Original_Name_In_Paper": "CuAlO2",
+        "Property": "PF",
+        "Value": 6.5e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.12.004"
+      }
+    ],
+    "928.0": [
+      {
+        "Original_Name_In_Paper": "CuAlO2 single crystal",
+        "Property": "Conductivity",
+        "Value": 770.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2017.06.073"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "CuAlO2 with graphene",
+        "Property": "Conductivity",
+        "Value": 470.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.04.276"
+      },
+      {
+        "Original_Name_In_Paper": "CuAlO2",
+        "Property": "Conductivity",
+        "Value": 470.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.04.276"
+      },
+      {
+        "Original_Name_In_Paper": "CuAlO2",
+        "Property": "Conductivity",
+        "Value": 200.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.04.276"
+      }
+    ]
+  }
+}

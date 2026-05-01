@@ -1,0 +1,28 @@
+{
+  "Material": "Ba2CeCoO6",
+  "DOIs_Researched": [
+    "10.1016/j.cocom.2019.e00380"
+  ],
+  "Data_By_Temperature": {
+    "100.0": [
+      {
+        "Original_Name_In_Paper": "Ba2CeCoO6",
+        "Property": "ZT",
+        "Value": 0.996,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cocom.2019.e00380"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ba2CeCoO6",
+        "Property": "ZT",
+        "Value": 0.994,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cocom.2019.e00380"
+      }
+    ]
+  }
+}

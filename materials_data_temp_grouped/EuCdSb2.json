@@ -1,0 +1,51 @@
+{
+  "Material": "EuCdSb2",
+  "DOIs_Researched": [
+    "10.1016/S1002-0721(14)60531-7",
+    "10.1016/j.intermet.2009.07.011",
+    "10.1039/b916346h",
+    "10.1039/c6ta03012b"
+  ],
+  "Data_By_Temperature": {
+    "650.0": [
+      {
+        "Original_Name_In_Paper": "EuCd2Sb2",
+        "Property": "ZT",
+        "Value": 0.54,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S1002-0721(14)60531-7"
+      }
+    ],
+    "616.0": [
+      {
+        "Original_Name_In_Paper": "EuCd2Sb2",
+        "Property": "ZT",
+        "Value": 0.66,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/b916346h"
+      }
+    ],
+    "617.0": [
+      {
+        "Original_Name_In_Paper": "EuCd2Sb2",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta03012b"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "EuCd2Sb2",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2009.07.011"
+      }
+    ]
+  }
+}

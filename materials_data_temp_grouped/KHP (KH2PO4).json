@@ -1,0 +1,18 @@
+{
+  "Material": "KHP (KH2PO4)",
+  "DOIs_Researched": [
+    "10.1007/s11581-017-2420-3"
+  ],
+  "Data_By_Temperature": {
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "molten potassium dihydrogen phosphate",
+        "Property": "Conductivity",
+        "Value": 30.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s11581-017-2420-3"
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "Material": "ZnTiO",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2006.04.065"
+  ],
+  "Data_By_Temperature": {
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "TiO2-doped Zn1\u2212xTixO",
+        "Property": "Seebeck",
+        "Value": 0.000104,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2006.04.065"
+      },
+      {
+        "Original_Name_In_Paper": "Zn0.98Ti0.02O",
+        "Property": "PF",
+        "Value": 0.00076,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2006.04.065"
+      },
+      {
+        "Original_Name_In_Paper": "Zn0.98Ti0.02O",
+        "Property": "PF",
+        "Value": 0.00076,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2006.04.065"
+      }
+    ]
+  }
+}

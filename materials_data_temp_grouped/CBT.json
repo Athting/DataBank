@@ -1,0 +1,28 @@
+{
+  "Material": "CBT",
+  "DOIs_Researched": [
+    "10.1016/j.polymer.2014.08.048"
+  ],
+  "Data_By_Temperature": {
+    "513.0": [
+      {
+        "Original_Name_In_Paper": "CBT",
+        "Property": "Conductivity",
+        "Value": 0.01,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.polymer.2014.08.048"
+      }
+    ],
+    "543.0": [
+      {
+        "Original_Name_In_Paper": "CBT",
+        "Property": "Conductivity",
+        "Value": 0.05,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": "adding CBT",
+        "Source_DOI": "10.1016/j.polymer.2014.08.048"
+      }
+    ]
+  }
+}

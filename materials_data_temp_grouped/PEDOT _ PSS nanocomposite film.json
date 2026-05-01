@@ -1,0 +1,27 @@
+{
+  "Material": "PEDOT : PSS nanocomposite film",
+  "DOIs_Researched": [
+    "10.1039/c9qm00087a",
+    "10.1016/j.eurpolymj.2020.109726"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "PEDOT : PSS nanocomposite film",
+        "Property": "ThermCond",
+        "Value": 0.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9qm00087a"
+      },
+      {
+        "Original_Name_In_Paper": "PEDOT : PSS nanocomposite film",
+        "Property": "Conductivity",
+        "Value": 42100.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.eurpolymj.2020.109726"
+      }
+    ]
+  }
+}

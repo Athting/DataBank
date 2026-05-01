@@ -1,0 +1,26 @@
+{
+  "Material": "Na0.05Ni0.95O",
+  "DOIs_Researched": [
+    "10.1016/S0167-577X(00)00122-1"
+  ],
+  "Data_By_Temperature": {
+    "1260.0": [
+      {
+        "Original_Name_In_Paper": "Na0.05Ni0.95O",
+        "Property": "PF",
+        "Value": 0.00033000000000000005,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": "additional Li",
+        "Source_DOI": "10.1016/S0167-577X(00)00122-1"
+      },
+      {
+        "Original_Name_In_Paper": "Na0.05Ni0.95O",
+        "Property": "PF",
+        "Value": 0.00033000000000000005,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": "additional Li",
+        "Source_DOI": "10.1016/S0167-577X(00)00122-1"
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "Material": "pristine PEDOT : PSS bulk",
+  "DOIs_Researched": [
+    "10.1039/d0ma00278j",
+    "10.1039/c7cc09595c"
+  ],
+  "Data_By_Temperature": {
+    "318.0": [
+      {
+        "Original_Name_In_Paper": "pristine PEDOT : PSS bulk",
+        "Property": "ZT",
+        "Value": 0.002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cc09595c"
+      },
+      {
+        "Original_Name_In_Paper": "pristine PEDOT : PSS bulk",
+        "Property": "ZT",
+        "Value": 0.002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ma00278j"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "Material": "ScRhTe",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2017.05.005",
+    "10.1016/j.cocom.2017.10.002"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "ScRhTe",
+        "Property": "ThermCond",
+        "Value": 8.35,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.05.005"
+      },
+      {
+        "Original_Name_In_Paper": "ScRhTe",
+        "Property": "ThermCond",
+        "Value": 24.77,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cocom.2017.10.002"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "ScRhTe",
+        "Property": "ThermCond",
+        "Value": 24.77,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cocom.2017.10.002"
+      }
+    ]
+  }
+}

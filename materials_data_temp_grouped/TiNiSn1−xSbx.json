@@ -1,0 +1,18 @@
+{
+  "Material": "TiNiSn1\u2212xSbx",
+  "DOIs_Researched": [
+    "10.1039/c6ra08461c"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "TiNiSn1\u2212xSbx",
+        "Property": "ThermCond",
+        "Value": 3.7,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra08461c"
+      }
+    ]
+  }
+}

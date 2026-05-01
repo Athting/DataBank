@@ -1,0 +1,27 @@
+{
+  "Material": "Bi0.94Pb0.06CuFeSeO",
+  "DOIs_Researched": [
+    "10.1016/j.commatsci.2019.109273",
+    "10.1039/c8ta03521k"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "p-type Bi0.94Pb0.06Cu0.99Fe0.01SeO",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2019.109273"
+      },
+      {
+        "Original_Name_In_Paper": "p-type Bi0.94Pb0.06Cu0.99Fe0.01SeO",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta03521k"
+      }
+    ]
+  }
+}

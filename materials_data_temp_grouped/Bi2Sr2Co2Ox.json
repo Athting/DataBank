@@ -1,0 +1,36 @@
+{
+  "Material": "Bi2Sr2Co2Ox",
+  "DOIs_Researched": [
+    "10.1557/jmr.2014.135",
+    "10.1039/c3ta01594g",
+    "10.1016/j.jeurceramsoc.2020.07.021"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Sr2Co2Ox",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2020.07.021"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2Sr2Co2Ox bulk materials",
+        "Property": "ZT",
+        "Value": 0.27,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1557/jmr.2014.135"
+      },
+      {
+        "Original_Name_In_Paper": "Single crystal Bi2Sr2Co2Ox",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta01594g"
+      }
+    ]
+  }
+}

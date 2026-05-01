@@ -1,0 +1,18 @@
+{
+  "Material": "Sr0.7Ba0.3Yb0.1Nb2O6-",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2017.07.033"
+  ],
+  "Data_By_Temperature": {
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "Sr0.7Ba0.3Yb0.1Nb2O6-\u03b4",
+        "Property": "ZT",
+        "Value": 0.21,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2017.07.033"
+      }
+    ]
+  }
+}

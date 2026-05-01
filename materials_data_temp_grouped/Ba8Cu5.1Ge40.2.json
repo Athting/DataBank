@@ -1,0 +1,18 @@
+{
+  "Material": "Ba8Cu5.1Ge40.2",
+  "DOIs_Researched": [
+    "10.1039/c5ta04168f"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Ba8Cu5.1Ge40.2Sn0.7 single crystals",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta04168f"
+      }
+    ]
+  }
+}

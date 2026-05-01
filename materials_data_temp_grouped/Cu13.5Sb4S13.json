@@ -1,0 +1,34 @@
+{
+  "Material": "Cu13.5Sb4S13",
+  "DOIs_Researched": [
+    "10.1016/j.ensm.2018.01.006"
+  ],
+  "Data_By_Temperature": {
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "Cu13.5Sb4S13",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ensm.2018.01.006"
+      },
+      {
+        "Original_Name_In_Paper": "Cu13.5Sb4S13",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ensm.2018.01.006"
+      },
+      {
+        "Original_Name_In_Paper": "Cu13.5Sb4S13",
+        "Property": "Seebeck",
+        "Value": 0.000188,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ensm.2018.01.006"
+      }
+    ]
+  }
+}

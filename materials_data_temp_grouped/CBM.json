@@ -1,0 +1,18 @@
+{
+  "Material": "CBM",
+  "DOIs_Researched": [
+    "10.1038/s41535-017-0054-3"
+  ],
+  "Data_By_Temperature": {
+    "1.8": [
+      {
+        "Original_Name_In_Paper": "CBM",
+        "Property": "ZT",
+        "Value": 1.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41535-017-0054-3"
+      }
+    ]
+  }
+}

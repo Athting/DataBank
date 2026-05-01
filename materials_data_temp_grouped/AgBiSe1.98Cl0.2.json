@@ -1,0 +1,18 @@
+{
+  "Material": "AgBiSe1.98Cl0.2",
+  "DOIs_Researched": [
+    "10.1039/c4ta04912h"
+  ],
+  "Data_By_Temperature": {
+    "805.0": [
+      {
+        "Original_Name_In_Paper": "n-type AgBiSe1.98Cl0.2 crystalline ingot",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta04912h"
+      }
+    ]
+  }
+}

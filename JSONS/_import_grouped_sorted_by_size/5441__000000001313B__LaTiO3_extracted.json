@@ -1,0 +1,59 @@
+{
+  "doi": "10.1016/j.ijhydene.2018.05.171",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "La0.1Sr0.9TiO3 doped with Dy",
+        "La0.1Ca0.9TiO3"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "La0.1Ca0.9TiO3",
+          "value": 5000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "1173.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "La0.1Sr0.9TiO3 doped with Dy",
+          "value": 2.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "1045.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "La0.1Sr0.9TiO3 doped with Dy",
+          "zt_value": 0.36,
+          "temperature": "1045.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

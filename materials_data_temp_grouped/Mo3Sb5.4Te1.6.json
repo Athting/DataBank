@@ -1,0 +1,46 @@
+{
+  "Material": "Mo3Sb5.4Te1.6",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2014.04.006",
+    "10.1016/j.jallcom.2010.05.124",
+    "10.1016/j.jallcom.2006.03.030"
+  ],
+  "Data_By_Temperature": {
+    "1050.0": [
+      {
+        "Original_Name_In_Paper": "Mo3Sb5.4Te1.6",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2006.03.030"
+      },
+      {
+        "Original_Name_In_Paper": "Mo3Sb5.4Te1.6",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2006.03.030"
+      },
+      {
+        "Original_Name_In_Paper": "Mo3Sb5.4Te1.6",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2010.05.124"
+      }
+    ],
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "Mo3Sb5.4Te1.6",
+        "Property": "PF",
+        "Value": 0.00194,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2014.04.006"
+      }
+    ]
+  }
+}

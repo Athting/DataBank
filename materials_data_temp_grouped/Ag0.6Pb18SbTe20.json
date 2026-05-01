@@ -1,0 +1,88 @@
+{
+  "Material": "Ag0.6Pb18SbTe20",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2004.08.049",
+    "10.1016/j.jallcom.2005.08.033",
+    "10.1016/j.jssc.2009.01.017"
+  ],
+  "Data_By_Temperature": {
+    "373.0": [
+      {
+        "Original_Name_In_Paper": "Ag0.6Pb18SbTe20",
+        "Property": "ThermCond",
+        "Value": 0.916,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2004.08.049"
+      },
+      {
+        "Original_Name_In_Paper": "Ag0.6Pb18SbTe20",
+        "Property": "ThermCond",
+        "Value": 0.916,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2004.08.049"
+      },
+      {
+        "Original_Name_In_Paper": "Ag0.6Pb18SbTe20",
+        "Property": "Seebeck",
+        "Value": -0.000337,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2004.08.049"
+      }
+    ],
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "Ag0.6Pb18SbTe20",
+        "Property": "ZT",
+        "Value": 1.07,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2004.08.049"
+      },
+      {
+        "Original_Name_In_Paper": "Ag0.6Pb18SbTe20",
+        "Property": "ZT",
+        "Value": 1.07,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2004.08.049"
+      },
+      {
+        "Original_Name_In_Paper": "Ag0.6Pb18SbTe20",
+        "Property": "ZT",
+        "Value": 1.07,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2004.08.049"
+      },
+      {
+        "Original_Name_In_Paper": "Ag0.6Pb18SbTe20",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2009.01.017"
+      },
+      {
+        "Original_Name_In_Paper": "Ag0.6Pb18SbTe20",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2005.08.033"
+      }
+    ],
+    "337.0": [
+      {
+        "Original_Name_In_Paper": "Ag0.6Pb18SbTe20",
+        "Property": "Seebeck",
+        "Value": -0.00037299999999999996,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2004.08.049"
+      }
+    ]
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "Material": "PbZnSe",
+  "DOIs_Researched": [
+    "10.1016/j.ccr.2020.213437",
+    "10.1039/d0ta00174k",
+    "10.1016/j.mtphys.2019.100102"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "PbZn0.0125Se",
+        "Property": "ThermCond",
+        "Value": 0.84,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2019.100102"
+      },
+      {
+        "Original_Name_In_Paper": "PbZn0.01Se",
+        "Property": "ThermCond",
+        "Value": 0.96,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta00174k"
+      },
+      {
+        "Original_Name_In_Paper": "PbZn0.01Se",
+        "Property": "Conductivity",
+        "Value": 415500.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta00174k"
+      }
+    ],
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "PbZn0.01Se",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2019.100102"
+      },
+      {
+        "Original_Name_In_Paper": "PbZn0.01Se",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2019.100102"
+      },
+      {
+        "Original_Name_In_Paper": "PbZn0.01Se",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2019.100102"
+      },
+      {
+        "Original_Name_In_Paper": "PbZn0.01Se",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2019.100102"
+      },
+      {
+        "Original_Name_In_Paper": "PbZn0.01Se",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ccr.2020.213437"
+      }
+    ],
+    "523.0": [
+      {
+        "Original_Name_In_Paper": "PbZn0.01Se",
+        "Property": "PF",
+        "Value": 0.0026200000000000004,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2019.100102"
+      },
+      {
+        "Original_Name_In_Paper": "PbZn0.075Se",
+        "Property": "PF",
+        "Value": 0.00251,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2019.100102"
+      },
+      {
+        "Original_Name_In_Paper": "PbZn0.01Se",
+        "Property": "PF",
+        "Value": 0.0026200000000000004,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta00174k"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "PbZn0.01Se",
+        "Property": "Conductivity",
+        "Value": 415500.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2019.100102"
+      }
+    ]
+  }
+}

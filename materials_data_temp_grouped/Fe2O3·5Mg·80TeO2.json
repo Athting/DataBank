@@ -1,0 +1,18 @@
+{
+  "Material": "Fe2O3\u00b75Mg\u00b780TeO2",
+  "DOIs_Researched": [
+    "10.1016/S0254-0584(00)00242-X"
+  ],
+  "Data_By_Temperature": {
+    "548.0": [
+      {
+        "Original_Name_In_Paper": "15Fe2O3\u00b75Mg\u00b780TeO2 ( mol % )",
+        "Property": "Conductivity",
+        "Value": 0.0017000000000000001,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0254-0584(00)00242-X"
+      }
+    ]
+  }
+}

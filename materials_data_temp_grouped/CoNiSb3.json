@@ -1,0 +1,64 @@
+{
+  "Material": "CoNiSb3",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2013.03.206",
+    "10.1016/j.matchemphys.2009.08.018",
+    "10.1016/j.jallcom.2016.09.094"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Co0.94Ni0.06Sb3",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.09.094"
+      },
+      {
+        "Original_Name_In_Paper": "Co0.95Ni0.05\u22120.06Sb3",
+        "Property": "PF",
+        "Value": 0.0034000000000000002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.03.206"
+      },
+      {
+        "Original_Name_In_Paper": "Co0.95Ni0.05Sb3\u2013Co0.94Ni0.06Sb3",
+        "Property": "PF",
+        "Value": 0.0024500000000000004,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.03.206"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Co0.95Ni0.05Sb3",
+        "Property": "ZT",
+        "Value": 0.0002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.03.206"
+      },
+      {
+        "Original_Name_In_Paper": "Co0.9Ni0.1Sb3",
+        "Property": "ZT",
+        "Value": 0.08,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2009.08.018"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Co0.9Ni0.1Sb3",
+        "Property": "ZT",
+        "Value": 0.55,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2009.08.018"
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "Material": "Y2O3",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2016.07.002",
+    "10.1016/j.mssp.2010.10.016",
+    "10.1016/j.ceramint.2011.08.041"
+  ],
+  "Data_By_Temperature": {
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "Y2O3 material",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2010.10.016"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Y2O3",
+        "Property": "Conductivity",
+        "Value": 2040816.3265306123,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2016.07.002"
+      }
+    ],
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "porous Y2O3",
+        "Property": "Seebeck",
+        "Value": -0.05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2011.08.041"
+      }
+    ]
+  }
+}

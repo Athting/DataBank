@@ -1,0 +1,18 @@
+{
+  "Material": "PECVD nitride films",
+  "DOIs_Researched": [
+    "10.1016/B978-044452190-3.00002-1"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "PECVD nitride films",
+        "Property": "ThermCond",
+        "Value": 2.23,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-044452190-3.00002-1"
+      }
+    ]
+  }
+}

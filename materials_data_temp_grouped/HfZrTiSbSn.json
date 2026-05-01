@@ -1,0 +1,18 @@
+{
+  "Material": "HfZrTiSbSn",
+  "DOIs_Researched": [
+    "10.1038/s41467-018-04958-3"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Hf0.44Zr0.44Ti0.12Sb0.8Sn0.2",
+        "Property": "ZT",
+        "Value": 0.54,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41467-018-04958-3"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "Material": "Yb3.5La0.5Sb3",
+  "DOIs_Researched": [
+    "10.1039/b914712h"
+  ],
+  "Data_By_Temperature": {
+    "473.0": [
+      {
+        "Original_Name_In_Paper": "Yb3.5La0.5Sb3",
+        "Property": "ThermCond",
+        "Value": 2.3,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/b914712h"
+      }
+    ],
+    "1273.0": [
+      {
+        "Original_Name_In_Paper": "Yb3.5La0.5Sb3",
+        "Property": "ZT",
+        "Value": 0.75,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/b914712h"
+      },
+      {
+        "Original_Name_In_Paper": "Yb3.5La0.5Sb3",
+        "Property": "ZT",
+        "Value": 0.75,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/b914712h"
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "Material": "YCuTe2",
+  "DOIs_Researched": [
+    "10.1039/c8ta06470a",
+    "10.1016/j.jssc.2017.08.018",
+    "10.1039/c5ta10330d"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "YCuTe2",
+        "Property": "ThermCond",
+        "Value": 0.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2017.08.018"
+      },
+      {
+        "Original_Name_In_Paper": "YCuTe2",
+        "Property": "ThermCond",
+        "Value": 0.39,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta06470a"
+      },
+      {
+        "Original_Name_In_Paper": "YCuTe2",
+        "Property": "ThermCond",
+        "Value": 0.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta10330d"
+      },
+      {
+        "Original_Name_In_Paper": "YCuTe2",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2017.08.018"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "YCu1.08Te2",
+        "Property": "ThermCond",
+        "Value": 1.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta10330d"
+      }
+    ],
+    "780.0": [
+      {
+        "Original_Name_In_Paper": "YCuTe2",
+        "Property": "ZT",
+        "Value": 0.73,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta06470a"
+      },
+      {
+        "Original_Name_In_Paper": "YCu1.08Te2",
+        "Property": "Seebeck",
+        "Value": 0.00027,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ta10330d"
+      }
+    ],
+    "745.0": [
+      {
+        "Original_Name_In_Paper": "YCuTe2",
+        "Property": "ZT",
+        "Value": 0.81,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta06470a"
+      }
+    ]
+  }
+}

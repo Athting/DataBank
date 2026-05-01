@@ -1,0 +1,18 @@
+{
+  "Material": "SbZn",
+  "DOIs_Researched": [
+    "10.1016/S0966-9795(03)00157-2"
+  ],
+  "Data_By_Temperature": {
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "SbZn",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0966-9795(03)00157-2"
+      }
+    ]
+  }
+}

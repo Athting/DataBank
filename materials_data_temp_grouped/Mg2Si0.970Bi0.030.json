@@ -1,0 +1,18 @@
+{
+  "Material": "Mg2Si0.970Bi0.030",
+  "DOIs_Researched": [
+    "10.1016/j.jpcs.2014.04.008"
+  ],
+  "Data_By_Temperature": {
+    "810.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Si0.970Bi0.030",
+        "Property": "ZT",
+        "Value": 0.68,
+        "Units": null,
+        "Editing": "Bi doping",
+        "Source_DOI": "10.1016/j.jpcs.2014.04.008"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Bi2V0.8Mo0.2O5.5",
+  "DOIs_Researched": [
+    "10.1007/s11664-016-4665-4"
+  ],
+  "Data_By_Temperature": {
+    "799.0": [
+      {
+        "Original_Name_In_Paper": "Bi2V0.8Mo0.2O5.5",
+        "Property": "ZT",
+        "Value": 0.05,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-016-4665-4"
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "Material": "SnTe-AgSbTe2",
+  "DOIs_Researched": [
+    "10.1039/c4ta05530f",
+    "10.1039/c6ta01994c"
+  ],
+  "Data_By_Temperature": {
+    "775.0": [
+      {
+        "Original_Name_In_Paper": "SnTe\u2013AgSbTe2",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta05530f"
+      }
+    ],
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "SnTe\u2013AgSbTe2 alloys",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta01994c"
+      }
+    ]
+  }
+}

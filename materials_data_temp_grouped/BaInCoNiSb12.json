@@ -1,0 +1,18 @@
+{
+  "Material": "BaInCoNiSb12",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2011.01.064"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ba0.3In0.2Co3.95Ni0.05Sb12 materials",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2011.01.064"
+      }
+    ]
+  }
+}

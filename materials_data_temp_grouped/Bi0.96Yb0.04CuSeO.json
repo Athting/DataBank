@@ -1,0 +1,18 @@
+{
+  "Material": "Bi0.96Yb0.04CuSeO",
+  "DOIs_Researched": [
+    "10.1039/c8tc02700e"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.96Yb0.04CuSeO",
+        "Property": "ThermCond",
+        "Value": 0.28,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8tc02700e"
+      }
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "Material": "SWCNTs",
+  "DOIs_Researched": [
+    "10.1016/j.synthmet.2016.11.031",
+    "10.1016/j.jallcom.2017.06.253",
+    "10.1039/c3ra42414f",
+    "10.1038/s41598-020-73808-4",
+    "10.1039/c8ta08045c"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "SWCNTs",
+        "Property": "ThermCond",
+        "Value": 103.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ra42414f"
+      },
+      {
+        "Original_Name_In_Paper": "SWCNTs",
+        "Property": "Seebeck",
+        "Value": 4.63e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.synthmet.2016.11.031"
+      },
+      {
+        "Original_Name_In_Paper": "SWCNTs",
+        "Property": "Seebeck",
+        "Value": 4.15e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ta08045c"
+      },
+      {
+        "Original_Name_In_Paper": "SWCNTs",
+        "Property": "PF",
+        "Value": 2.358e-06,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.synthmet.2016.11.031"
+      },
+      {
+        "Original_Name_In_Paper": "SWCNTs",
+        "Property": "PF",
+        "Value": 2.2499999999999998e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.06.253"
+      },
+      {
+        "Original_Name_In_Paper": "SWCNTs",
+        "Property": "Conductivity",
+        "Value": 1100.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.synthmet.2016.11.031"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "SWCNTs",
+        "Property": "Seebeck",
+        "Value": -0.0002,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-020-73808-4"
+      }
+    ]
+  }
+}

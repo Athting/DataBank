@@ -1,0 +1,26 @@
+{
+  "Material": "Mg1.98Zn0.02Si0.5Sn0.4",
+  "DOIs_Researched": [
+    "10.1039/c4dt01734j"
+  ],
+  "Data_By_Temperature": {
+    "730.0": [
+      {
+        "Original_Name_In_Paper": "Mg1.98Zn0.02Si0.5Sn0.49Sb0.01",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4dt01734j"
+      },
+      {
+        "Original_Name_In_Paper": "Mg1.98Zn0.02Si0.5Sn0.49Sb0.01",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4dt01734j"
+      }
+    ]
+  }
+}

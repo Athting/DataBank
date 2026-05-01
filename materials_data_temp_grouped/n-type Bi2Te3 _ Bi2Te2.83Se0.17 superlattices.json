@@ -1,0 +1,18 @@
+{
+  "Material": "n-type Bi2Te3 / Bi2Te2.83Se0.17 superlattices",
+  "DOIs_Researched": [
+    "10.1038/35098012"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "n-type Bi2Te3 / Bi2Te2.83Se0.17 superlattices",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/35098012"
+      }
+    ]
+  }
+}

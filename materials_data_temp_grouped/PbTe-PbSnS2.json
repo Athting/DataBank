@@ -1,0 +1,26 @@
+{
+  "Material": "PbTe-PbSnS2",
+  "DOIs_Researched": [
+    "10.1039/c2ee22495j"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "undoped PbTe\u2013PbSnS2 6 %",
+        "Property": "ZT",
+        "Value": 0.65,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2ee22495j"
+      },
+      {
+        "Original_Name_In_Paper": "PbTe\u2013PbSnS2 3 %",
+        "Property": "Conductivity",
+        "Value": 220000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2ee22495j"
+      }
+    ]
+  }
+}

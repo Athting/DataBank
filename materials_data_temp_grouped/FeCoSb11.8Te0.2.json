@@ -1,0 +1,36 @@
+{
+  "Material": "FeCoSb11.8Te0.2",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2013.07.032"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Fe0.2Co3.8Sb11.8Te0.2",
+        "Property": "Seebeck",
+        "Value": -0.000309,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2013.07.032"
+      },
+      {
+        "Original_Name_In_Paper": "Fe0.2Co3.8Sb11.8Te0.2",
+        "Property": "Seebeck",
+        "Value": -0.000309,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2013.07.032"
+      }
+    ],
+    "427.0": [
+      {
+        "Original_Name_In_Paper": "Fe0.2Co3.8Sb11.8Te0.2",
+        "Property": "Seebeck",
+        "Value": -0.00035299999999999996,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2013.07.032"
+      }
+    ]
+  }
+}

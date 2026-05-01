@@ -1,0 +1,26 @@
+{
+  "Material": "CuMn2O4",
+  "DOIs_Researched": [
+    "10.1016/S0925-8388(10)02247-4"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "1H11002x )Cu x Mn 2 O 4 ( 0 H11349 x H11349",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(10)02247-4"
+      },
+      {
+        "Original_Name_In_Paper": "1H11002x )Cu x Mn 2 O 4 ( 0 H11349 x H11349",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0925-8388(10)02247-4"
+      }
+    ]
+  }
+}

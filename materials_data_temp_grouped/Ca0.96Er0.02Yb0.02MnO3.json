@@ -1,0 +1,28 @@
+{
+  "Material": "Ca0.96Er0.02Yb0.02MnO3",
+  "DOIs_Researched": [
+    "10.1039/c7ra08446c"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "Ca0.96Er0.02Yb0.02MnO3",
+        "Property": "ZT",
+        "Value": 0.12,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ra08446c"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Ca0.96Er0.02Yb0.02MnO3",
+        "Property": "PF",
+        "Value": 0.00021899999999999998,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ra08446c"
+      }
+    ]
+  }
+}

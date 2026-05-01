@@ -1,0 +1,29 @@
+{
+  "Material": "YAl3C3",
+  "DOIs_Researched": [
+    "10.1016/j.cplett.2007.11.089",
+    "10.1016/j.jssc.2016.02.029"
+  ],
+  "Data_By_Temperature": {
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "YAl3C3",
+        "Property": "Seebeck",
+        "Value": 0.000112,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2016.02.029"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "YAl3C3",
+        "Property": "Conductivity",
+        "Value": 3000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cplett.2007.11.089"
+      }
+    ]
+  }
+}

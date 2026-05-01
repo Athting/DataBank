@@ -1,0 +1,18 @@
+{
+  "Material": "ZrCuAlNi",
+  "DOIs_Researched": [
+    "10.1038/srep45177"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "ZrCuAlNi",
+        "Property": "ThermCond",
+        "Value": 5.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/srep45177"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "Material": "Bi0.875Ba0.125CuSe",
+  "DOIs_Researched": [
+    "10.1016/j.jmat.2016.04.002",
+    "10.1039/c3ta12753b",
+    "10.1016/j.matchemphys.2016.03.045"
+  ],
+  "Data_By_Temperature": {
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.875Ba0.125OCuSe",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2016.04.002"
+      },
+      {
+        "Original_Name_In_Paper": "textured (Bi0.875Ba0.125)OCuSe",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2016.03.045"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.875Ba0.125OCuSe",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta12753b"
+      }
+    ]
+  }
+}

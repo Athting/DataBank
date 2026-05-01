@@ -1,0 +1,26 @@
+{
+  "Material": "Bi2S2.85Se0.15",
+  "DOIs_Researched": [
+    "10.1016/j.ssc.2013.03.013"
+  ],
+  "Data_By_Temperature": {
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "Bi2S2.85Se0.15",
+        "Property": "ZT",
+        "Value": 0.16,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2013.03.013"
+      },
+      {
+        "Original_Name_In_Paper": "bulk Bi2S2.85Se0.15",
+        "Property": "PF",
+        "Value": 0.000124,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2013.03.013"
+      }
+    ]
+  }
+}

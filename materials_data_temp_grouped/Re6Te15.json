@@ -1,0 +1,18 @@
+{
+  "Material": "Re6Te15",
+  "DOIs_Researched": [
+    "10.1016/S0167-577X(98)00087-1"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Re6Te15",
+        "Property": "Seebeck",
+        "Value": 0.00048699999999999997,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0167-577X(98)00087-1"
+      }
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "Material": "BaZn2Sb2",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2018.02.155",
+    "10.1007/s10854-013-1618-z",
+    "10.1039/c6ta03012b"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "pristine BaZn2Sb2",
+        "Property": "ThermCond",
+        "Value": 1.6,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.02.155"
+      },
+      {
+        "Original_Name_In_Paper": "pristine BaZn2Sb2",
+        "Property": "ZT",
+        "Value": 1.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta03012b"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "BaZn2Sb2",
+        "Property": "ThermCond",
+        "Value": 1.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.02.155"
+      }
+    ],
+    "675.0": [
+      {
+        "Original_Name_In_Paper": "BaZn2Sb2",
+        "Property": "ZT",
+        "Value": 0.31,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-013-1618-z"
+      }
+    ],
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "BaZn2Sb2",
+        "Property": "ZT",
+        "Value": 0.38,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-013-1618-z"
+      },
+      {
+        "Original_Name_In_Paper": "BaZn2Sb2",
+        "Property": "PF",
+        "Value": 0.001067,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-013-1618-z"
+      }
+    ],
+    "704.0": [
+      {
+        "Original_Name_In_Paper": "undoped BaZn2Sb2",
+        "Property": "PF",
+        "Value": 0.000525,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta03012b"
+      },
+      {
+        "Original_Name_In_Paper": "undoped BaZn2Sb2",
+        "Property": "PF",
+        "Value": 0.000539,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta03012b"
+      }
+    ]
+  }
+}

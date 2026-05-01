@@ -1,0 +1,18 @@
+{
+  "Material": "ZeT = S2\u03c3",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2014.01.070"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "ZeT = S2\u03c3",
+        "Property": "ZT",
+        "Value": 0.125,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2014.01.070"
+      }
+    ]
+  }
+}

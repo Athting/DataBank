@@ -1,0 +1,28 @@
+{
+  "Material": "BSTFN",
+  "DOIs_Researched": [
+    "10.1039/c6cp06273c"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "BSTFN",
+        "Property": "Seebeck",
+        "Value": 0.000213,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6cp06273c"
+      }
+    ],
+    "935.0": [
+      {
+        "Original_Name_In_Paper": "BSTFN",
+        "Property": "Seebeck",
+        "Value": 0.000621,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6cp06273c"
+      }
+    ]
+  }
+}

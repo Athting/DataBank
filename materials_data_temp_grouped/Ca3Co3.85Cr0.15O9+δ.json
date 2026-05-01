@@ -1,0 +1,27 @@
+{
+  "Material": "Ca3Co3.85Cr0.15O9+\u03b4",
+  "DOIs_Researched": [
+    "10.1016/j.jmst.2020.02.034",
+    "10.1016/j.jallcom.2013.11.034"
+  ],
+  "Data_By_Temperature": {
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "Ca3Co3.85Cr0.15O9+\u03b4",
+        "Property": "ZT",
+        "Value": 0.19,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.11.034"
+      },
+      {
+        "Original_Name_In_Paper": "Ca3Co3.85Cr0.15O9+\u03b4",
+        "Property": "ZT",
+        "Value": 0.19,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmst.2020.02.034"
+      }
+    ]
+  }
+}

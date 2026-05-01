@@ -1,0 +1,46 @@
+{
+  "Material": "LaPtSb",
+  "DOIs_Researched": [
+    "10.1007/s12598-019-01235-0",
+    "10.1039/c6cp03211g",
+    "10.1007/s10853-020-04949-0"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "LaPtSb",
+        "Property": "ThermCond",
+        "Value": 1.72,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      },
+      {
+        "Original_Name_In_Paper": "LaPtSb",
+        "Property": "ThermCond",
+        "Value": 1.72,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6cp03211g"
+      },
+      {
+        "Original_Name_In_Paper": "LaPtSb",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      }
+    ],
+    "1200.0": [
+      {
+        "Original_Name_In_Paper": "LaPtSb",
+        "Property": "ZT",
+        "Value": 2.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s12598-019-01235-0"
+      }
+    ]
+  }
+}

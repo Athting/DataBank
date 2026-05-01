@@ -1,0 +1,18 @@
+{
+  "Material": "boron carbides",
+  "DOIs_Researched": [
+    "10.1016/j.jeurceramsoc.2013.08.013"
+  ],
+  "Data_By_Temperature": {
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "boron carbides",
+        "Property": "Conductivity",
+        "Value": 10000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2013.08.013"
+      }
+    ]
+  }
+}

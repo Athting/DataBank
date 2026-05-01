@@ -1,0 +1,42 @@
+{
+  "Material": "Mg3.0Y0.035Sb1.5Bi0.5",
+  "DOIs_Researched": [
+    "10.1016/j.mtphys.2018.12.004"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Mg3.0Y0.035Sb1.5Bi0.5",
+        "Property": "ThermCond",
+        "Value": 0.76,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2018.12.004"
+      },
+      {
+        "Original_Name_In_Paper": "Mg3.0Y0.035Sb1.5Bi0.5",
+        "Property": "ZT",
+        "Value": 1.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2018.12.004"
+      },
+      {
+        "Original_Name_In_Paper": "Mg3.0Y0.035Sb1.5Bi0.5",
+        "Property": "ZT",
+        "Value": 1.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2018.12.004"
+      },
+      {
+        "Original_Name_In_Paper": "Mg3.0Y0.035Sb1.5Bi0.5",
+        "Property": "PF",
+        "Value": 0.00158,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2018.12.004"
+      }
+    ]
+  }
+}

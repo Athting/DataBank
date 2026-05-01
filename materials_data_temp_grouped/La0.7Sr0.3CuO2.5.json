@@ -1,0 +1,18 @@
+{
+  "Material": "La0.7Sr0.3CuO2.5",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2011.01.035"
+  ],
+  "Data_By_Temperature": {
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "La0.7Sr0.3CuO2.5\u2212y",
+        "Property": "Conductivity",
+        "Value": 80000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2011.01.035"
+      }
+    ]
+  }
+}

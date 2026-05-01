@@ -1,0 +1,26 @@
+{
+  "Material": "Ti1.031S2",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2012.09.035"
+  ],
+  "Data_By_Temperature": {
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "Ti1.031S2",
+        "Property": "ThermCond",
+        "Value": 1.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2012.09.035"
+      },
+      {
+        "Original_Name_In_Paper": "Ti1.031S2",
+        "Property": "ThermCond",
+        "Value": 1.3,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2012.09.035"
+      }
+    ]
+  }
+}

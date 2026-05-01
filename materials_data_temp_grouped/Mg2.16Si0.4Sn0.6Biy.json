@@ -1,0 +1,18 @@
+{
+  "Material": "Mg2.16Si0.4Sn0.6Biy",
+  "DOIs_Researched": [
+    "10.1016/j.pmatsci.2016.07.002"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Bi-doped Mg2.16(Si0.4Sn0.6)1\u2212yBiy",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2016.07.002"
+      }
+    ]
+  }
+}

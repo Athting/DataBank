@@ -1,0 +1,39 @@
+{
+  "Material": "Bi2Sb2Te3",
+  "DOIs_Researched": [
+    "10.1016/j.materresbull.2014.04.046",
+    "10.1016/j.materresbull.2016.05.030"
+  ],
+  "Data_By_Temperature": {
+    "813.0": [
+      {
+        "Original_Name_In_Paper": "(Bi0.2Sb0.8)2Te3 compounds",
+        "Property": "ZT",
+        "Value": 0.71,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2016.05.030"
+      }
+    ],
+    "298.0": [
+      {
+        "Original_Name_In_Paper": "(Bi0.2Sb0.8)2Te3",
+        "Property": "ZT",
+        "Value": 0.12,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2014.04.046"
+      }
+    ],
+    "348.0": [
+      {
+        "Original_Name_In_Paper": "(Bi0.2Sb0.8)2Te3",
+        "Property": "ZT",
+        "Value": 1.03,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2014.04.046"
+      }
+    ]
+  }
+}

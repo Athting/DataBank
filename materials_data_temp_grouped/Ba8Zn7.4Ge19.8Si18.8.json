@@ -1,0 +1,38 @@
+{
+  "Material": "Ba8Zn7.4Ge19.8Si18.8",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2010.07.047"
+  ],
+  "Data_By_Temperature": {
+    "750.0": [
+      {
+        "Original_Name_In_Paper": "Ba8Zn7.4Ge19.8Si18.8",
+        "Property": "ZT",
+        "Value": 0.45,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2010.07.047"
+      }
+    ],
+    "765.0": [
+      {
+        "Original_Name_In_Paper": "Ba8Zn7.4Ge19.8Si18.8",
+        "Property": "ZT",
+        "Value": 0.45,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2010.07.047"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Ba8Zn7.4Ge19.8Si18.8",
+        "Property": "ZT",
+        "Value": 0.45,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2010.07.047"
+      }
+    ]
+  }
+}

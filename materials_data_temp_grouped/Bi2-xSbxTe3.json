@@ -1,0 +1,37 @@
+{
+  "Material": "Bi2-xSbxTe3",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2018.11.037",
+    "10.1016/j.ceramint.2018.10.228"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Bi2-xSbxTe3",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2018.11.037"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Bi2-xSbxTe3 film",
+        "Property": "Conductivity",
+        "Value": 295000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.10.228"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2-xSbxTe3 films",
+        "Property": "Conductivity",
+        "Value": 295000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.10.228"
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "Material": "PbS, SrS, PbCl2",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2019.120995"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "PbS+4 % SrS+1 % PbCl2",
+        "Property": "ThermCond",
+        "Value": 1.9,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2019.120995"
+      },
+      {
+        "Original_Name_In_Paper": "PbS+4 % SrS+1 % PbCl2",
+        "Property": "Conductivity",
+        "Value": 118500.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2019.120995"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "PbS+4 % SrS+1 % PbCl2",
+        "Property": "ThermCond",
+        "Value": 1.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2019.120995"
+      }
+    ],
+    "930.0": [
+      {
+        "Original_Name_In_Paper": "PbS+3 % SrS+1 % PbCl2",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2019.120995"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Ti5Me1-xSb2+x",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2008.02.114"
+  ],
+  "Data_By_Temperature": {
+    "80.0": [
+      {
+        "Original_Name_In_Paper": "Ti5Me1\u2212xSb2+x antimonides",
+        "Property": "Conductivity",
+        "Value": 266666.6666666667,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2008.02.114"
+      }
+    ]
+  }
+}

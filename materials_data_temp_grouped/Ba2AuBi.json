@@ -1,0 +1,28 @@
+{
+  "Material": "Ba2AuBi",
+  "DOIs_Researched": [
+    "10.1016/j.cjph.2018.11.015"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ba2AuBi",
+        "Property": "ZT",
+        "Value": 0.9590000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cjph.2018.11.015"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ba2AuBi",
+        "Property": "Seebeck",
+        "Value": 0.0008483010000000001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cjph.2018.11.015"
+      }
+    ]
+  }
+}

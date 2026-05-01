@@ -1,0 +1,27 @@
+{
+  "Material": "polystyrene sulfonate",
+  "DOIs_Researched": [
+    "10.1039/c6ta08838d",
+    "10.1016/j.nanoen.2015.10.012"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "polystyrene sulfonate",
+        "Property": "ZT",
+        "Value": 0.42,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2015.10.012"
+      },
+      {
+        "Original_Name_In_Paper": "polystyrene sulfonate",
+        "Property": "PF",
+        "Value": 0.00045000000000000004,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta08838d"
+      }
+    ]
+  }
+}

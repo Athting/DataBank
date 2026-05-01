@@ -1,0 +1,18 @@
+{
+  "Material": "PbSmTeSe",
+  "DOIs_Researched": [
+    "10.1016/j.matdes.2018.08.001"
+  ],
+  "Data_By_Temperature": {
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "Pb0.2Sm0.03Te0.7Se0.3",
+        "Property": "ThermCond",
+        "Value": 0.41000000000000003,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matdes.2018.08.001"
+      }
+    ]
+  }
+}

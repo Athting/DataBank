@@ -1,0 +1,43 @@
+{
+  "Material": "RuNbGa",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2020.156617",
+    "10.1016/j.intermet.2017.09.012"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ru2NbGa",
+        "Property": "Seebeck",
+        "Value": 2.0799999999999997e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.156617"
+      },
+      {
+        "Original_Name_In_Paper": "Ru1.90Nb1.10Ga",
+        "Property": "Seebeck",
+        "Value": 2.7e-06,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.156617"
+      },
+      {
+        "Original_Name_In_Paper": "Ru2NbGa",
+        "Property": "Seebeck",
+        "Value": 2e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2017.09.012"
+      },
+      {
+        "Original_Name_In_Paper": "Ru2NbGa",
+        "Property": "Seebeck",
+        "Value": 2e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2017.09.012"
+      }
+    ]
+  }
+}

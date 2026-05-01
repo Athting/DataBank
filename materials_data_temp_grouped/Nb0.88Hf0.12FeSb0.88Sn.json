@@ -1,0 +1,60 @@
+{
+  "Material": "Nb0.88Hf0.12FeSb0.88Sn",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2020.07.028"
+  ],
+  "Data_By_Temperature": {
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "Nb0.88Hf0.12FeSb0.88Sn0.12",
+        "Property": "ThermCond",
+        "Value": 2.96,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2020.07.028"
+      },
+      {
+        "Original_Name_In_Paper": "Nb0.88Hf0.12FeSb0.88Sn0.12",
+        "Property": "ThermCond",
+        "Value": 3.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2020.07.028"
+      },
+      {
+        "Original_Name_In_Paper": "Nb0.88Hf0.12FeSb0.88Sn0.12",
+        "Property": "ZT",
+        "Value": 0.8200000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2020.07.028"
+      },
+      {
+        "Original_Name_In_Paper": "Nb0.88Hf0.12FeSb0.88Sn0.12",
+        "Property": "ZT",
+        "Value": 0.8200000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2020.07.028"
+      }
+    ],
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "Nb0.88Hf0.12FeSb0.88Sn0.12",
+        "Property": "ZT",
+        "Value": 0.8200000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2020.07.028"
+      },
+      {
+        "Original_Name_In_Paper": "Nb0.88Hf0.12FeSb0.88Sn0.12",
+        "Property": "ZT",
+        "Value": 0.8200000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2020.07.028"
+      }
+    ]
+  }
+}

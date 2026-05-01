@@ -1,0 +1,18 @@
+{
+  "Material": "Bi0.36Sb1.54Te3",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2017.05.204"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "0.8 vol % RGO / Bi0.36Sb1.54Te3",
+        "Property": "Seebeck",
+        "Value": 0.00017,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.05.204"
+      }
+    ]
+  }
+}

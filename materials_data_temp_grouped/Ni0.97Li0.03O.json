@@ -1,0 +1,18 @@
+{
+  "Material": "Ni0.97Li0.03O",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2012.02.099"
+  ],
+  "Data_By_Temperature": {
+    "473.0": [
+      {
+        "Original_Name_In_Paper": "Ni0.97Li0.03O",
+        "Property": "Seebeck",
+        "Value": 0.00016099999999999998,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2012.02.099"
+      }
+    ]
+  }
+}

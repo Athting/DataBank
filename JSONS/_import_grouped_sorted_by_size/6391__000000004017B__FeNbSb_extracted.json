@@ -1,0 +1,158 @@
+{
+  "doi": "10.1039/c6cp07897d",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "FeNbSb",
+        "p-type FeNbSb compound",
+        "p-type FeNbSb crystal",
+        "p-type FeNbSb",
+        "p-type Hf-doped FeNbSb alloys",
+        "FeNb1-xHfxSb alloys",
+        "14 % Hf-doped FeNbSb",
+        "n-type (V0.6Nb0.4)Fe1-yCoySb alloys",
+        "n-type (V0.6Nb0.4)Fe0.98Co0.02Sb"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "p-type FeNbSb compound",
+          "value": 0.0002,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "FeNbSb",
+          "value": 22.8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "FeNbSb",
+          "value": 18,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "FeNbSb",
+          "value": 18,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "FeNbSb",
+          "value": 0.0106,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "FeNbSb",
+          "value": 0.0117,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "p-type FeNbSb compound",
+          "value": 0.0045000000000000005,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "FeNbSb",
+          "value": 0.0055000000000000005,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "800.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "FeNbSb",
+          "zt_value": 1.5,
+          "temperature": "1200.0 K"
+        },
+        {
+          "material": "p-type FeNbSb crystal",
+          "zt_value": 1.5,
+          "temperature": "1200.0 K"
+        },
+        {
+          "material": "FeNbSb",
+          "zt_value": 1.5,
+          "temperature": "1200.0 K"
+        },
+        {
+          "material": "p-type FeNbSb",
+          "zt_value": 1.5,
+          "temperature": "1200.0 K"
+        },
+        {
+          "material": "p-type FeNbSb",
+          "zt_value": 1.5,
+          "temperature": "1200.0 K"
+        },
+        {
+          "material": "p-type Hf-doped FeNbSb alloys",
+          "zt_value": 1.5,
+          "temperature": "1200.0 K"
+        },
+        {
+          "material": "p-type FeNbSb",
+          "zt_value": 1.5,
+          "temperature": "1200.0 K"
+        },
+        {
+          "material": "FeNbSb",
+          "zt_value": 1.5,
+          "temperature": "1200.0 K"
+        },
+        {
+          "material": "FeNb1-xHfxSb alloys",
+          "zt_value": 1.5,
+          "temperature": "1200.0 K"
+        },
+        {
+          "material": "14 % Hf-doped FeNbSb",
+          "zt_value": 1.5,
+          "temperature": "1200.0 K"
+        },
+        {
+          "material": "n-type (V0.6Nb0.4)Fe1-yCoySb alloys",
+          "zt_value": 0.33,
+          "temperature": "650.0 K"
+        },
+        {
+          "material": "n-type (V0.6Nb0.4)Fe0.98Co0.02Sb",
+          "zt_value": 0.33,
+          "temperature": "650.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

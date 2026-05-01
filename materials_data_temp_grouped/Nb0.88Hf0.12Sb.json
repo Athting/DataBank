@@ -1,0 +1,18 @@
+{
+  "Material": "Nb0.88Hf0.12Sb",
+  "DOIs_Researched": [
+    "10.1038/s41467-018-04958-3"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Nb0.88Hf0.12FeSb",
+        "Property": "ZT",
+        "Value": 0.6900000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/s41467-018-04958-3"
+      }
+    ]
+  }
+}

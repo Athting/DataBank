@@ -1,0 +1,58 @@
+{
+  "Material": "Bi0.88Ba0.06Pb0.06CuSe",
+  "DOIs_Researched": [
+    "10.1016/j.matlet.2018.01.074"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.88Ba0.06Pb0.06CuSeO",
+        "Property": "ZT",
+        "Value": 1.01,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2018.01.074"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.88Ba0.06Pb0.06CuSeO",
+        "Property": "ZT",
+        "Value": 1.01,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2018.01.074"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.88Ba0.06Pb0.06CuSeO bulk",
+        "Property": "ZT",
+        "Value": 1.01,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2018.01.074"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.88Ba0.06Pb0.06CuSeO bulk",
+        "Property": "ZT",
+        "Value": 1.01,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2018.01.074"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.88Ba0.06Pb0.06CuSeO",
+        "Property": "PF",
+        "Value": 0.0006600000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2018.01.074"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.88Ba0.06Pb0.06CuSeO bulk",
+        "Property": "PF",
+        "Value": 0.0006600000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matlet.2018.01.074"
+      }
+    ]
+  }
+}

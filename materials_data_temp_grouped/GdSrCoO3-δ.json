@@ -1,0 +1,28 @@
+{
+  "Material": "GdSrCoO3-\u03b4",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2018.03.037"
+  ],
+  "Data_By_Temperature": {
+    "179.0": [
+      {
+        "Original_Name_In_Paper": "Gd0.1Sr0.9CoO3-\u03b4-disordered compound",
+        "Property": "ZT",
+        "Value": 0.006,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.03.037"
+      }
+    ],
+    "248.0": [
+      {
+        "Original_Name_In_Paper": "Gd0.1Sr0.9CoO3-\u03b4-ordered compound",
+        "Property": "ZT",
+        "Value": 0.0005,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.03.037"
+      }
+    ]
+  }
+}

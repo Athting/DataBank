@@ -1,0 +1,18 @@
+{
+  "Material": "Bi2Sb0.6Te3",
+  "DOIs_Researched": [
+    "10.1039/c3ta01594g"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Sb0.6Te3 NWs",
+        "Property": "Seebeck",
+        "Value": -0.00063,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta01594g"
+      }
+    ]
+  }
+}

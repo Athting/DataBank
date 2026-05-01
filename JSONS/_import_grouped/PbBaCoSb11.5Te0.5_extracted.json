@@ -1,0 +1,64 @@
+{
+  "doi": "10.1016/j.ssc.2011.06.034",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Pb0.03Ba0.27Co4Sb11.5Te0.5",
+        "Pb0.05Ba0.25Co4Sb11.5Te0.5"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Pb0.03Ba0.27Co4Sb11.5Te0.5",
+          "value": 2.73,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "663.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Pb0.03Ba0.27Co4Sb11.5Te0.5",
+          "value": 0.0031639999999999997,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "663.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Pb0.03Ba0.27Co4Sb11.5Te0.5",
+          "zt_value": 0.63,
+          "temperature": "663.0 K"
+        },
+        {
+          "material": "Pb0.05Ba0.25Co4Sb11.5Te0.5",
+          "zt_value": 0.63,
+          "temperature": "673.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

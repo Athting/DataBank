@@ -1,0 +1,26 @@
+{
+  "Material": "CGa",
+  "DOIs_Researched": [
+    "10.1016/j.solidstatesciences.2015.12.019"
+  ],
+  "Data_By_Temperature": {
+    "663.0": [
+      {
+        "Original_Name_In_Paper": "CGa",
+        "Property": "ThermCond",
+        "Value": 1.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2015.12.019"
+      },
+      {
+        "Original_Name_In_Paper": "CGa",
+        "Property": "ZT",
+        "Value": 0.29,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2015.12.019"
+      }
+    ]
+  }
+}

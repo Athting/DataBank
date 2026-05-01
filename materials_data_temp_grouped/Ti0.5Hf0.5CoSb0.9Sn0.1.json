@@ -1,0 +1,18 @@
+{
+  "Material": "Ti0.5Hf0.5CoSb0.9Sn0.1",
+  "DOIs_Researched": [
+    "10.1039/c3nr03145d"
+  ],
+  "Data_By_Temperature": {
+    "775.0": [
+      {
+        "Original_Name_In_Paper": "p-type Ti0.5Hf0.5CoSb0.9Sn0.1",
+        "Property": "PF",
+        "Value": 0.0001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3nr03145d"
+      }
+    ]
+  }
+}

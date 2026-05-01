@@ -1,0 +1,76 @@
+{
+  "Material": "CrPbTeSe",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2015.02.026"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Cr0.015Pb0.985Te0.75Se0.25",
+        "Property": "ThermCond",
+        "Value": 1.2,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2015.02.026"
+      },
+      {
+        "Original_Name_In_Paper": "Te-rich Cr0.015Pb0.985Te0.75Se0.25",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2015.02.026"
+      },
+      {
+        "Original_Name_In_Paper": "Cr0.01Pb0.99Te0.25Se0.75",
+        "Property": "ZT",
+        "Value": 1.25,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2015.02.026"
+      },
+      {
+        "Original_Name_In_Paper": "Te-rich Cr0.015Pb0.985Te0.75Se0.25",
+        "Property": "ZT",
+        "Value": 0.63,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2015.02.026"
+      },
+      {
+        "Original_Name_In_Paper": "Te-rich Cr0.015Pb0.985Te0.75Se0.25",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2015.02.026"
+      },
+      {
+        "Original_Name_In_Paper": "Te-rich Cr0.015Pb0.985Te0.75Se0.25",
+        "Property": "Seebeck",
+        "Value": -0.00022,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2015.02.026"
+      },
+      {
+        "Original_Name_In_Paper": "Te-rich Cr0.015Pb0.985Te0.75Se0.25",
+        "Property": "PF",
+        "Value": 0.0024000000000000002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2015.02.026"
+      }
+    ],
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "Te-rich Cr0.015Pb0.985Te0.75Se0.25",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2015.02.026"
+      }
+    ]
+  }
+}

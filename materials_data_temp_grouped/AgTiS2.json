@@ -1,0 +1,44 @@
+{
+  "Material": "AgTiS2",
+  "DOIs_Researched": [
+    "10.1039/c5dt00551e",
+    "10.1039/d0ta00240b",
+    "10.1039/c5cp01795e"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Ag0.1TiS2",
+        "Property": "ThermCond",
+        "Value": 1.8,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5cp01795e"
+      },
+      {
+        "Original_Name_In_Paper": "Ag0.1TiS2",
+        "Property": "ThermCond",
+        "Value": 0.9,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5dt00551e"
+      },
+      {
+        "Original_Name_In_Paper": "Ag0.1TiS2",
+        "Property": "ZT",
+        "Value": 0.46,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5cp01795e"
+      },
+      {
+        "Original_Name_In_Paper": "Ag0.1TiS2",
+        "Property": "ZT",
+        "Value": 0.46,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ta00240b"
+      }
+    ]
+  }
+}

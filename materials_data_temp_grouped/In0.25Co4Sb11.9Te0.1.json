@@ -1,0 +1,27 @@
+{
+  "Material": "In0.25Co4Sb11.9Te0.1",
+  "DOIs_Researched": [
+    "10.1007/s10854-013-1373-1",
+    "10.1016/j.matchemphys.2007.10.021"
+  ],
+  "Data_By_Temperature": {
+    "600.0": [
+      {
+        "Original_Name_In_Paper": "In0.25Co4Sb11.9Te0.1",
+        "Property": "ZT",
+        "Value": 0.25,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2007.10.021"
+      },
+      {
+        "Original_Name_In_Paper": "In0.25Co4Sb11.9Te0.1",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-013-1373-1"
+      }
+    ]
+  }
+}

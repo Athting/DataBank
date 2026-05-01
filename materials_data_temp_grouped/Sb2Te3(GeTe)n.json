@@ -1,0 +1,29 @@
+{
+  "Material": "Sb2Te3(GeTe)n",
+  "DOIs_Researched": [
+    "10.1039/c6tc02501c",
+    "10.1016/j.jallcom.2019.151838"
+  ],
+  "Data_By_Temperature": {
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "Sb2Te3(GeTe)n",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6tc02501c"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Sb2Te3(GeTe)n",
+        "Property": "ZT",
+        "Value": 2.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.151838"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Si\u2013Ge alloys",
+  "DOIs_Researched": [
+    "10.1039/c0cs00132e"
+  ],
+  "Data_By_Temperature": {
+    "1200.0": [
+      {
+        "Original_Name_In_Paper": "Si\u2013Ge alloys",
+        "Property": "ZT",
+        "Value": 0.45,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c0cs00132e"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "MoS2 / InSe",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2018.11.073"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "MoS2 / InSe",
+        "Property": "ThermCond",
+        "Value": 81.7,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.11.073"
+      }
+    ]
+  }
+}

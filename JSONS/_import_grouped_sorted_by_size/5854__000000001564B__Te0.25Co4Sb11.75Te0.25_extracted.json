@@ -1,0 +1,68 @@
+{
+  "doi": "10.1016/j.jallcom.2019.07.189",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Te0.25Co4Sb11.75Te0.25"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Te0.25Co4Sb11.75Te0.25",
+          "value": 3.8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Te0.25Co4Sb11.75Te0.25",
+          "value": 0.0055000000000000005,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "673.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Te0.25Co4Sb11.75Te0.25",
+          "zt_value": 1.02,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "Te0.25Co4Sb11.75Te0.25",
+          "zt_value": 1.02,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "Te0.25Co4Sb11.75Te0.25",
+          "zt_value": 1.02,
+          "temperature": "673.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

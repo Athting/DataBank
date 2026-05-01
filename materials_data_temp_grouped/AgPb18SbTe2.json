@@ -1,0 +1,18 @@
+{
+  "Material": "AgPb18SbTe2",
+  "DOIs_Researched": [
+    "10.1016/j.progpolymsci.2011.11.003"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "AgPb18SbTe2 bulk material",
+        "Property": "ZT",
+        "Value": 1.7000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.progpolymsci.2011.11.003"
+      }
+    ]
+  }
+}

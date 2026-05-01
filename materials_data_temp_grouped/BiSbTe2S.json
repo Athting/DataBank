@@ -1,0 +1,18 @@
+{
+  "Material": "BiSbTe2S",
+  "DOIs_Researched": [
+    "10.1016/j.materresbull.2009.05.002"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "BiSbTe2S",
+        "Property": "Seebeck",
+        "Value": -0.00018,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": "substitution of Sn",
+        "Source_DOI": "10.1016/j.materresbull.2009.05.002"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Bi2Te2.6Se0.3",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2019.01.301"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "C-ED Bi2Te2.6Se0.3 thin film",
+        "Property": "Conductivity",
+        "Value": 29300.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.01.301"
+      }
+    ]
+  }
+}

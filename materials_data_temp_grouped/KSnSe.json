@@ -1,0 +1,46 @@
+{
+  "Material": "KSnSe",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2017.08.223",
+    "10.1039/c6ra21268a",
+    "10.1016/j.cap.2018.09.011"
+  ],
+  "Data_By_Temperature": {
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "K0.001Sn0.999Se",
+        "Property": "ThermCond",
+        "Value": 0.35000000000000003,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2018.09.011"
+      },
+      {
+        "Original_Name_In_Paper": "K0.001Sn0.999Se",
+        "Property": "PF",
+        "Value": 0.00047000000000000004,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2018.09.011"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "K0.01SnSe bulk",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ra21268a"
+      },
+      {
+        "Original_Name_In_Paper": "K0.01Sn0.99Se",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.08.223"
+      }
+    ]
+  }
+}

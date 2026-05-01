@@ -1,0 +1,37 @@
+{
+  "Material": "CuAgInTe2",
+  "DOIs_Researched": [
+    "10.1039/c6qi00162a",
+    "10.1016/j.materresbull.2018.01.029"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Cu0.5Ag0.5InTe2",
+        "Property": "ThermCond",
+        "Value": 1.6,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2018.01.029"
+      },
+      {
+        "Original_Name_In_Paper": "Cu0.88Ag0.1InTe2",
+        "Property": "Seebeck",
+        "Value": 0.00020099999999999998,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6qi00162a"
+      }
+    ],
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "Cu0.95Ag0.05InTe2",
+        "Property": "ZT",
+        "Value": 1.07,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2018.01.029"
+      }
+    ]
+  }
+}

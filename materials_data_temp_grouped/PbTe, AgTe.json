@@ -1,0 +1,18 @@
+{
+  "Material": "PbTe, AgTe",
+  "DOIs_Researched": [
+    "10.1039/c8dt03387k"
+  ],
+  "Data_By_Temperature": {
+    "775.0": [
+      {
+        "Original_Name_In_Paper": "La-doped (PbTe)1\u2212x (Ag2Te)x alloys",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8dt03387k"
+      }
+    ]
+  }
+}

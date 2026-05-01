@@ -1,0 +1,37 @@
+{
+  "Material": "HgTe",
+  "DOIs_Researched": [
+    "10.1038/s41598-018-28043-3",
+    "10.1016/j.mtphys.2018.11.008"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "HgTe",
+        "Property": "ThermCond",
+        "Value": 0.6000000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2018.11.008"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "mercury telluride",
+        "Property": "ThermCond",
+        "Value": 2.1,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-018-28043-3"
+      },
+      {
+        "Original_Name_In_Paper": "HgTe",
+        "Property": "PF",
+        "Value": 0.0014,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41598-018-28043-3"
+      }
+    ]
+  }
+}

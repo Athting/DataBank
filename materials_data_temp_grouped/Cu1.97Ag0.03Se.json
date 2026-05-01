@@ -1,0 +1,50 @@
+{
+  "Material": "Cu1.97Ag0.03Se",
+  "DOIs_Researched": [
+    "10.1007/s40243-014-0026-5"
+  ],
+  "Data_By_Temperature": {
+    "870.0": [
+      {
+        "Original_Name_In_Paper": "Cu1.97Ag0.03Se",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s40243-014-0026-5"
+      },
+      {
+        "Original_Name_In_Paper": "Cu1.97Ag0.03Se",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s40243-014-0026-5"
+      },
+      {
+        "Original_Name_In_Paper": "Cu1.97Ag0.03Se",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s40243-014-0026-5"
+      },
+      {
+        "Original_Name_In_Paper": "Cu1.97Ag0.03Se",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s40243-014-0026-5"
+      },
+      {
+        "Original_Name_In_Paper": "Cu1.97Ag0.03Se",
+        "Property": "ZT",
+        "Value": 0.66,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s40243-014-0026-5"
+      }
+    ]
+  }
+}

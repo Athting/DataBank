@@ -1,0 +1,18 @@
+{
+  "Material": "Fe1.98V0.97Ta0.05Al0.9",
+  "DOIs_Researched": [
+    "10.1007/s11664-013-2532-0"
+  ],
+  "Data_By_Temperature": {
+    "420.0": [
+      {
+        "Original_Name_In_Paper": "Fe1.98V0.97Ta0.05Al0.9Si0.1",
+        "Property": "ZT",
+        "Value": 0.25,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-013-2532-0"
+      }
+    ]
+  }
+}

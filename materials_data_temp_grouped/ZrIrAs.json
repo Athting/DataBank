@@ -1,0 +1,18 @@
+{
+  "Material": "ZrIrAs",
+  "DOIs_Researched": [
+    "10.1007/s10825-016-0937-8"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "ZrIrAs",
+        "Property": "Conductivity",
+        "Value": 1020.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10825-016-0937-8"
+      }
+    ]
+  }
+}

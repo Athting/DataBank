@@ -1,0 +1,370 @@
+{
+  "doi": "10.1038/am.2013.15",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "AgSbTe2",
+        "AgSbTe2 bulk compounds",
+        "AgSbTe2 nanostructures",
+        "6 wt % AgSbTe2 material",
+        "AgSbTe2-δ",
+        "undoped AgSbTe2",
+        "Se-doped AgSbTe2",
+        "AgSb0.99Ce0.01Te2.01",
+        "cubic AgSbTe2",
+        "Se doped AgSbTe2",
+        "undoped bulk AgSbTe2",
+        "Ag(Sb0.98La0.02)Te2",
+        "AgSbTe2 alloys with GeTe",
+        "AgSbTe2 nanoscale",
+        "Na doped nonstoichiometric AgSbTe2"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "AgSbTe2 bulk compounds",
+          "value": 0.00004,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "AgSbTe2",
+          "value": 0.00024000000000000003,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "AgSbTe2",
+          "value": 0.00024000000000000003,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "AgSbTe2",
+          "value": 0.0007300000000000001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "680.0 K"
+        },
+        {
+          "material": "Ag(Sb0.98La0.02)Te2",
+          "value": 0.000358,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "423.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "AgSbTe2 bulk compounds",
+          "value": 13000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "AgSbTe2",
+          "value": 16949.1525423729,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "AgSbTe2",
+          "value": 37900,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "380.0 K"
+        },
+        {
+          "material": "AgSbTe2",
+          "value": 34000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "520.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "AgSbTe2",
+          "value": 0.6000000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "AgSbTe2 bulk compounds",
+          "value": 0.30000000000000004,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "AgSbTe2 nanostructures",
+          "value": 0.8300000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "AgSbTe2",
+          "value": 0.6000000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "AgSbTe2",
+          "value": 0.6000000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "AgSbTe2",
+          "value": 0.68,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "AgSbTe2",
+          "value": 0.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "AgSbTe2",
+          "value": 0.8,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "AgSbTe2",
+          "value": 0.7000000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "AgSbTe2",
+          "value": 0.6000000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "AgSbTe2",
+          "value": 0.6000000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "400.0 K"
+        },
+        {
+          "material": "AgSbTe2-δ",
+          "value": 0.68,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "400.0 K"
+        },
+        {
+          "material": "AgSbTe2",
+          "value": 0.59,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "372.0 K"
+        },
+        {
+          "material": "AgSbTe2",
+          "value": 0.5700000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "622.0 K"
+        },
+        {
+          "material": "undoped AgSbTe2",
+          "value": 0.48,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "AgSbTe2",
+          "value": 0.32,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "AgSbTe2",
+          "value": 0.39,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "AgSbTe2",
+          "value": 0.39,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "undoped AgSbTe2",
+          "value": 0.6000000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "325.0 K"
+        },
+        {
+          "material": "undoped AgSbTe2",
+          "value": 0.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "425.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "AgSbTe2",
+          "zt_value": 0.30000000000000004,
+          "temperature": "295 K"
+        },
+        {
+          "material": "AgSbTe2",
+          "zt_value": 0.30000000000000004,
+          "temperature": "295 K"
+        },
+        {
+          "material": "6 wt % AgSbTe2 material",
+          "zt_value": 0.51,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "AgSbTe2",
+          "zt_value": 0.30000000000000004,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "AgSbTe2",
+          "zt_value": 1.5899999999999999,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "Se-doped AgSbTe2",
+          "zt_value": 1.4,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "AgSb0.99Ce0.01Te2.01",
+          "zt_value": 1.2,
+          "temperature": "615.0 K"
+        },
+        {
+          "material": "cubic AgSbTe2",
+          "zt_value": 1.4,
+          "temperature": "680.0 K"
+        },
+        {
+          "material": "undoped AgSbTe2",
+          "zt_value": 1,
+          "temperature": "680.0 K"
+        },
+        {
+          "material": "undoped AgSbTe2",
+          "zt_value": 1,
+          "temperature": "680.0 K"
+        },
+        {
+          "material": "AgSbTe2",
+          "zt_value": 1.4,
+          "temperature": "680.0 K"
+        },
+        {
+          "material": "undoped AgSbTe2",
+          "zt_value": 1,
+          "temperature": "680.0 K"
+        },
+        {
+          "material": "Se doped AgSbTe2",
+          "zt_value": 1.37,
+          "temperature": "565.0 K"
+        },
+        {
+          "material": "AgSbTe2",
+          "zt_value": 1,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "AgSbTe2",
+          "zt_value": 1.6,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "AgSbTe2",
+          "zt_value": 1.55,
+          "temperature": "533.0 K"
+        },
+        {
+          "material": "AgSbTe2",
+          "zt_value": 1.55,
+          "temperature": "533.0 K"
+        },
+        {
+          "material": "AgSbTe2",
+          "zt_value": 1.55,
+          "temperature": "533.0 K"
+        },
+        {
+          "material": "AgSbTe2",
+          "zt_value": 1.3,
+          "temperature": "720.0 K"
+        },
+        {
+          "material": "AgSbTe2",
+          "zt_value": 1.3,
+          "temperature": "720.0 K"
+        },
+        {
+          "material": "AgSbTe2",
+          "zt_value": 1.3,
+          "temperature": "720.0 K"
+        },
+        {
+          "material": "undoped bulk AgSbTe2",
+          "zt_value": 1.3,
+          "temperature": "720.0 K"
+        },
+        {
+          "material": "AgSbTe2",
+          "zt_value": 1.2,
+          "temperature": "423.0 K"
+        },
+        {
+          "material": "AgSbTe2",
+          "zt_value": 2.2,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "AgSbTe2 alloys with GeTe",
+          "zt_value": 1.5,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "AgSbTe2",
+          "zt_value": 1.6,
+          "temperature": "620.0 K"
+        },
+        {
+          "material": "AgSbTe2 nanoscale",
+          "zt_value": 1.27,
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "Na doped nonstoichiometric AgSbTe2",
+          "zt_value": 1.5,
+          "temperature": "570.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

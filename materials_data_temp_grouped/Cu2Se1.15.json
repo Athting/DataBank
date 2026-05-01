@@ -1,0 +1,36 @@
+{
+  "Material": "Cu2Se1.15",
+  "DOIs_Researched": [
+    "10.1016/j.jeurceramsoc.2017.07.005"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Cu2Se1.15",
+        "Property": "ZT",
+        "Value": 0.72,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2017.07.005"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2Se1.15",
+        "Property": "Seebeck",
+        "Value": 0.000204,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2017.07.005"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Cu2Se1.15",
+        "Property": "PF",
+        "Value": 0.00048499999999999997,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2017.07.005"
+      }
+    ]
+  }
+}

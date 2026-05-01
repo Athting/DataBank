@@ -1,0 +1,18 @@
+{
+  "Material": "Cu1.7S",
+  "DOIs_Researched": [
+    "10.1039/c4ta01250j"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Cu1.7S",
+        "Property": "Seebeck",
+        "Value": 1e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ta01250j"
+      }
+    ]
+  }
+}

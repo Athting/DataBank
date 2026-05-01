@@ -1,0 +1,18 @@
+{
+  "Material": "Al\u2013Pd\u2013Re",
+  "DOIs_Researched": [
+    "10.1016/B0-12-369401-9-00467-8"
+  ],
+  "Data_By_Temperature": {
+    "0.30000000000000004": [
+      {
+        "Original_Name_In_Paper": "Al\u2013Pd\u2013Re",
+        "Property": "Conductivity",
+        "Value": 943396.2264150943,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B0-12-369401-9-00467-8"
+      }
+    ]
+  }
+}

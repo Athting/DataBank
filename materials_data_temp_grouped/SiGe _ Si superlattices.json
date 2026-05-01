@@ -1,0 +1,18 @@
+{
+  "Material": "SiGe / Si superlattices",
+  "DOIs_Researched": [
+    "10.1016/j.ijthermalsci.2015.06.004"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "SiGe / Si superlattices",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ijthermalsci.2015.06.004"
+      }
+    ]
+  }
+}

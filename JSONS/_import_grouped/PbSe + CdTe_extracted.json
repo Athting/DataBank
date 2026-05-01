@@ -1,0 +1,99 @@
+{
+  "doi": "10.1039/c9ta13927c",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Pb0.98Na0.02Se + 4 % CdTe"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "Pb0.98Na0.02Se + 4 % CdTe",
+          "value": 0.000037,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "310.0 K"
+        },
+        {
+          "material": "Pb0.98Na0.02Se + 4 % CdTe",
+          "value": 0.00023799999999999998,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "860.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Pb0.98Na0.02Se + 4 % CdTe",
+          "value": 2.6,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "310.0 K"
+        },
+        {
+          "material": "Pb0.98Na0.02Se + 4 % CdTe",
+          "value": 0.44,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "860.0 K"
+        },
+        {
+          "material": "Pb0.98Na0.02Se + 4 % CdTe",
+          "value": 0.61,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "860.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Pb0.98Na0.02Se + 4 % CdTe",
+          "value": 0.0018200000000000002,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "860.0 K"
+        },
+        {
+          "material": "Pb0.98Na0.02Se + 4 % CdTe",
+          "value": 0.0018200000000000002,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "860.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Pb0.98Na0.02Se + 4 % CdTe",
+          "zt_value": 1.5,
+          "temperature": "860.0 K"
+        },
+        {
+          "material": "Pb0.98Na0.02Se + 4 % CdTe",
+          "zt_value": 1.5,
+          "temperature": "860.0 K"
+        },
+        {
+          "material": "Pb0.98Na0.02Se + 4 % CdTe",
+          "zt_value": 1.5,
+          "temperature": "860.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

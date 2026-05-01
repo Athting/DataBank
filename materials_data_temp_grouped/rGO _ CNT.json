@@ -1,0 +1,26 @@
+{
+  "Material": "rGO / CNT",
+  "DOIs_Researched": [
+    "10.1039/c9nr07406f"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "rGO / CNT",
+        "Property": "ThermCond",
+        "Value": 0.02,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9nr07406f"
+      },
+      {
+        "Original_Name_In_Paper": "rGO / CNT",
+        "Property": "ZT",
+        "Value": 0.008,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9nr07406f"
+      }
+    ]
+  }
+}

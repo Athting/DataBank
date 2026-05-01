@@ -1,0 +1,73 @@
+{
+  "Material": "CuBi2Te2.7Se0.3",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2016.11.257",
+    "10.1016/j.physb.2017.05.007",
+    "10.1016/j.apenergy.2020.115037",
+    "10.1016/j.cap.2014.12.006"
+  ],
+  "Data_By_Temperature": {
+    "398.0": [
+      {
+        "Original_Name_In_Paper": "Cu0.01Bi2Te2.7Se0.3",
+        "Property": "ZT",
+        "Value": 0.8300000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.11.257"
+      },
+      {
+        "Original_Name_In_Paper": "Cu0.01Bi2Te2.7Se0.3",
+        "Property": "ZT",
+        "Value": 0.8300000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.11.257"
+      },
+      {
+        "Original_Name_In_Paper": "Cu0.01Bi2Te2.7Se0.3",
+        "Property": "ZT",
+        "Value": 0.8300000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.11.257"
+      }
+    ],
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "Cu0.01Bi2Te2.7Se0.3",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apenergy.2020.115037"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "doped Cu0.008Bi2Te2.7Se0.3",
+        "Property": "ZT",
+        "Value": 0.78,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2014.12.006"
+      },
+      {
+        "Original_Name_In_Paper": "Cu0.01Bi2Te2.7Se0.3",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cap.2014.12.006"
+      },
+      {
+        "Original_Name_In_Paper": "doped Cu0.008Bi2Te2.7Se0.3",
+        "Property": "ZT",
+        "Value": 0.85,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.physb.2017.05.007"
+      }
+    ]
+  }
+}

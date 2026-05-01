@@ -1,0 +1,18 @@
+{
+  "Material": "Bi0.98Na0.02CuSeO",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2017.02.290"
+  ],
+  "Data_By_Temperature": {
+    "323.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.98Na0.02CuSeO",
+        "Property": "Conductivity",
+        "Value": 4200.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.02.290"
+      }
+    ]
+  }
+}

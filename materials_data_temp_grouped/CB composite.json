@@ -1,0 +1,18 @@
+{
+  "Material": "CB composite",
+  "DOIs_Researched": [
+    "10.1039/c4nr04489d"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "CB composite",
+        "Property": "Conductivity",
+        "Value": 30.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c4nr04489d"
+      }
+    ]
+  }
+}

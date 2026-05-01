@@ -1,0 +1,99 @@
+{
+  "Material": "ZrS2",
+  "DOIs_Researched": [
+    "10.1016/j.mtcomm.2020.101434",
+    "10.1016/j.commatsci.2019.01.035",
+    "10.1039/d0ra02585b",
+    "10.1016/j.commatsci.2019.109109",
+    "10.1039/c6tc01135g",
+    "10.1039/c8qi01297k"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "ZrS2 monolayer",
+        "Property": "ThermCond",
+        "Value": 2.39,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2019.01.035"
+      },
+      {
+        "Original_Name_In_Paper": "ZrS2",
+        "Property": "ThermCond",
+        "Value": 3.05,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2019.109109"
+      },
+      {
+        "Original_Name_In_Paper": "ZrS2",
+        "Property": "ThermCond",
+        "Value": 18.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2019.109109"
+      },
+      {
+        "Original_Name_In_Paper": "monolayer ZrS2",
+        "Property": "ThermCond",
+        "Value": 3.29,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2019.109109"
+      },
+      {
+        "Original_Name_In_Paper": "ZrS2",
+        "Property": "ThermCond",
+        "Value": 3.29,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8qi01297k"
+      },
+      {
+        "Original_Name_In_Paper": "monolayer ZrS2",
+        "Property": "ZT",
+        "Value": 1.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2019.109109"
+      },
+      {
+        "Original_Name_In_Paper": "p-type doped ZrS2 monolayer",
+        "Property": "ZT",
+        "Value": 2.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6tc01135g"
+      },
+      {
+        "Original_Name_In_Paper": "monolayer ZrS2",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/d0ra02585b"
+      }
+    ],
+    "250.0": [
+      {
+        "Original_Name_In_Paper": "ZrS2",
+        "Property": "Seebeck",
+        "Value": 0.00078757,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2019.109109"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "ZrS2",
+        "Property": "Seebeck",
+        "Value": 0.00028199999999999997,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtcomm.2020.101434"
+      }
+    ]
+  }
+}

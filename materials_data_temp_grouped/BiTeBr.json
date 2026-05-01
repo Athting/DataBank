@@ -1,0 +1,87 @@
+{
+  "Material": "BiTeBr",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2012.05.037",
+    "10.1007/s12598-019-01235-0",
+    "10.1007/s12598-018-1027-9",
+    "10.1016/j.commatsci.2017.08.019"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "bulk BiTeBr",
+        "Property": "ThermCond",
+        "Value": 1.71,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2017.08.019"
+      },
+      {
+        "Original_Name_In_Paper": "BiTeBr",
+        "Property": "ZT",
+        "Value": 0.17,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2012.05.037"
+      },
+      {
+        "Original_Name_In_Paper": "BiTeBr",
+        "Property": "ZT",
+        "Value": 0.17,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2012.05.037"
+      },
+      {
+        "Original_Name_In_Paper": "bulk BiTeBr",
+        "Property": "Conductivity",
+        "Value": 67000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.commatsci.2017.08.019"
+      }
+    ],
+    "560.0": [
+      {
+        "Original_Name_In_Paper": "Polycrystalline BiTeBr",
+        "Property": "ZT",
+        "Value": 0.35000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s12598-018-1027-9"
+      },
+      {
+        "Original_Name_In_Paper": "polycrystalline BiTeBr",
+        "Property": "ZT",
+        "Value": 0.35000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s12598-018-1027-9"
+      },
+      {
+        "Original_Name_In_Paper": "BiTeBr",
+        "Property": "ZT",
+        "Value": 0.35000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s12598-018-1027-9"
+      },
+      {
+        "Original_Name_In_Paper": "BiTeBr",
+        "Property": "ZT",
+        "Value": 0.35000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s12598-018-1027-9"
+      },
+      {
+        "Original_Name_In_Paper": "BiTeBr",
+        "Property": "ZT",
+        "Value": 0.35000000000000003,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s12598-019-01235-0"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "CaMnO4",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2016.12.359"
+  ],
+  "Data_By_Temperature": {
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "calcium manganite",
+        "Property": "ZT",
+        "Value": 0.12,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2016.12.359"
+      }
+    ]
+  }
+}

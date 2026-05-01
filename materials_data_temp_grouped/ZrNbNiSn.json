@@ -1,0 +1,57 @@
+{
+  "Material": "ZrNbNiSn",
+  "DOIs_Researched": [
+    "10.1007/s10853-019-03623-4",
+    "10.1016/j.actamat.2019.01.013",
+    "10.1016/j.jallcom.2009.09.139",
+    "10.1016/j.jallcom.2008.02.041"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Zr0.95Nb0.05NiSn",
+        "Property": "ThermCond",
+        "Value": 2.44,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-019-03623-4"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Zr0.98Nb0.02NiSn",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2019.01.013"
+      },
+      {
+        "Original_Name_In_Paper": "Zr0.98Nb0.02NiSn",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2008.02.041"
+      },
+      {
+        "Original_Name_In_Paper": "Zr0.98Nb0.02NiSn",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2008.02.041"
+      }
+    ],
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "n-type Zr0.98Nb0.02NiSn",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.09.139"
+      }
+    ]
+  }
+}

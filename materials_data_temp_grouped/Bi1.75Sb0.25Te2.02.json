@@ -1,0 +1,18 @@
+{
+  "Material": "Bi1.75Sb0.25Te2.02",
+  "DOIs_Researched": [
+    "10.1039/c5ra23634g"
+  ],
+  "Data_By_Temperature": {
+    "10.0": [
+      {
+        "Original_Name_In_Paper": "single crystalline Bi1.75Sb0.25Te2.02 NW",
+        "Property": "ThermCond",
+        "Value": 0.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra23634g"
+      }
+    ]
+  }
+}

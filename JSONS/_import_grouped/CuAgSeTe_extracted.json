@@ -1,0 +1,93 @@
+{
+  "doi": "10.1039/c5ta06780d",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Cu0.1Ag1.9Se0.5Te0.5",
+        "CuAgSe0.95Te0.05",
+        "Cu0.1Ag1.99Se0.5Te0.5"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "Cu0.1Ag1.9Se0.5Te0.5",
+          "value": 98100,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Cu0.1Ag1.99Se0.5Te0.5",
+          "value": 0.0011,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "400.0 K"
+        },
+        {
+          "material": "Cu0.1Ag1.99Se0.5Te0.5",
+          "value": 0.0011,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "400.0 K"
+        },
+        {
+          "material": "Cu0.1Ag1.9Se0.5Te0.5",
+          "value": 0.0012900000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "463.0 K"
+        },
+        {
+          "material": "Cu0.1Ag1.9Se0.5Te0.5",
+          "value": 0.0012900000000000001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "463.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "CuAgSe0.95Te0.05",
+          "zt_value": 0.7000000000000001,
+          "temperature": "450.0 K"
+        },
+        {
+          "material": "CuAgSe0.95Te0.05",
+          "zt_value": 0.7000000000000001,
+          "temperature": "450.0 K"
+        },
+        {
+          "material": "Cu0.1Ag1.99Se0.5Te0.5",
+          "zt_value": 0.85,
+          "temperature": "400.0 K"
+        },
+        {
+          "material": "Cu0.1Ag1.99Se0.5Te0.5",
+          "zt_value": 0.85,
+          "temperature": "400.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

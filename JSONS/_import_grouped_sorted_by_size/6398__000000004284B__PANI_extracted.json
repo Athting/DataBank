@@ -1,0 +1,176 @@
+{
+  "doi": "10.1016/j.mseb.2010.07.014",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "PANI",
+        "CSA-doped PANI multilayered film",
+        "pristine PANI",
+        "HCl-doped PANI",
+        "pure PANI"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "PANI",
+          "value": -0.000003,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PANI",
+          "value": 0.000014999999999999999,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "235.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "PANI",
+          "value": 0.032600000000000004,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PANI",
+          "value": 260,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PANI",
+          "value": 2,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PANI",
+          "value": 200,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "pristine PANI",
+          "value": 0.17,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "423.0 K"
+        },
+        {
+          "material": "PANI",
+          "value": 210,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "380.0 K"
+        },
+        {
+          "material": "PANI",
+          "value": 6500,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "413.0 K"
+        },
+        {
+          "material": "PANI",
+          "value": 12000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "493.0 K"
+        },
+        {
+          "material": "PANI",
+          "value": 258,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "373.0 K"
+        },
+        {
+          "material": "pure PANI",
+          "value": 0.85,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "383.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "PANI",
+          "value": 0.06,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "PANI",
+          "value": 0.00010499999999999999,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "PANI",
+          "zt_value": 0.001,
+          "temperature": "295 K"
+        },
+        {
+          "material": "PANI",
+          "zt_value": 0.001,
+          "temperature": "295 K"
+        },
+        {
+          "material": "PANI",
+          "zt_value": 2.17,
+          "temperature": "17.0 K"
+        },
+        {
+          "material": "PANI",
+          "zt_value": 0.02,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "PANI",
+          "zt_value": 0.0019500000000000001,
+          "temperature": "453.0 K"
+        },
+        {
+          "material": "PANI",
+          "zt_value": 0.078,
+          "temperature": "450.0 K"
+        },
+        {
+          "material": "CSA-doped PANI multilayered film",
+          "zt_value": 1.1,
+          "temperature": "423.0 K"
+        },
+        {
+          "material": "HCl-doped PANI",
+          "zt_value": 0.000267,
+          "temperature": "430.0 K"
+        },
+        {
+          "material": "PANI",
+          "zt_value": 0.0000573,
+          "temperature": "380.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

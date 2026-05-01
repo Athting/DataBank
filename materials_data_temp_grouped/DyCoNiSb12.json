@@ -1,0 +1,36 @@
+{
+  "Material": "DyCoNiSb12",
+  "DOIs_Researched": [
+    "10.1039/c8se00395e"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Dy0.4Co3.2Ni0.8Sb12",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8se00395e"
+      },
+      {
+        "Original_Name_In_Paper": "Dy0.4Co3.2Ni0.8Sb12",
+        "Property": "ZT",
+        "Value": 1.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8se00395e"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Dy0.4Co3.2Ni0.8Sb12",
+        "Property": "Conductivity",
+        "Value": 135135.1351351351,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8se00395e"
+      }
+    ]
+  }
+}

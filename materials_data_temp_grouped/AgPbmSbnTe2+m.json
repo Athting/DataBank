@@ -1,0 +1,26 @@
+{
+  "Material": "AgPbmSbnTe2+m",
+  "DOIs_Researched": [
+    "10.1016/j.mser.2009.10.001"
+  ],
+  "Data_By_Temperature": {
+    "620.0": [
+      {
+        "Original_Name_In_Paper": "AgPbmSbnTe2+m",
+        "Property": "ThermCond",
+        "Value": 0.43,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mser.2009.10.001"
+      },
+      {
+        "Original_Name_In_Paper": "AgPbmSbnTe2+m",
+        "Property": "ZT",
+        "Value": 1.45,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mser.2009.10.001"
+      }
+    ]
+  }
+}

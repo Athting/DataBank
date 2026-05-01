@@ -1,0 +1,95 @@
+{
+  "doi": "10.1016/j.ceramint.2020.04.182",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Pb0.833Na0.017(Zn0.85Al0.15)0.15Te-Te",
+        "Pb0.833Na0.017(Zn0.85Al0.15)0.15Te-Te composite"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "Pb0.833Na0.017(Zn0.85Al0.15)0.15Te-Te",
+          "value": 0.000187,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Pb0.833Na0.017(Zn0.85Al0.15)0.15Te-Te",
+          "value": 0.0004,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "Pb0.833Na0.017(Zn0.85Al0.15)0.15Te-Te",
+          "value": 0.0004,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "600.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Pb0.833Na0.017(Zn0.85Al0.15)0.15Te-Te",
+          "value": 1.6800000000000002,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Pb0.833Na0.017(Zn0.85Al0.15)0.15Te-Te",
+          "value": 1.5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Pb0.833Na0.017(Zn0.85Al0.15)0.15Te-Te",
+          "value": 0.00151,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "Pb0.833Na0.017(Zn0.85Al0.15)0.15Te-Te",
+          "value": 0.00177,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "400.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Pb0.833Na0.017(Zn0.85Al0.15)0.15Te-Te composite",
+          "zt_value": 1.08,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "Pb0.833Na0.017(Zn0.85Al0.15)0.15Te-Te",
+          "zt_value": 1.08,
+          "temperature": "600.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

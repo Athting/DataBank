@@ -1,0 +1,18 @@
+{
+  "Material": "PbTe, PbTe0.75Se0.25",
+  "DOIs_Researched": [
+    "10.1007/s10853-020-04949-0"
+  ],
+  "Data_By_Temperature": {
+    "425.0": [
+      {
+        "Original_Name_In_Paper": "PbTe / PbTe0.75Se0.25 superlattice",
+        "Property": "ZT",
+        "Value": 1.75,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      }
+    ]
+  }
+}

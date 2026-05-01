@@ -1,0 +1,27 @@
+{
+  "Material": "TiZrHfCoNiSb",
+  "DOIs_Researched": [
+    "10.1039/c0dt00742k",
+    "10.1016/j.mtphys.2017.05.002"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Ti0.5Zr0.25Hf0.25Co0.95Ni0.05Sb",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2017.05.002"
+      },
+      {
+        "Original_Name_In_Paper": "Ti0.5Zr0.25Hf0.25Co0.95Ni0.05Sb",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c0dt00742k"
+      }
+    ]
+  }
+}

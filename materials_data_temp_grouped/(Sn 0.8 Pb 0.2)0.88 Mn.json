@@ -1,0 +1,18 @@
+{
+  "Material": "(Sn 0.8 Pb 0.2)0.88 Mn",
+  "DOIs_Researched": [
+    "10.1007/s11664-016-4352-5"
+  ],
+  "Data_By_Temperature": {
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "(Sn0.8Pb0.2)0.88Mn0.12Te",
+        "Property": "ZT",
+        "Value": 0.65,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-016-4352-5"
+      }
+    ]
+  }
+}

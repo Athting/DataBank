@@ -1,0 +1,245 @@
+{
+  "Material": "In2O3",
+  "DOIs_Researched": [
+    "10.1016/j.jeurceramsoc.2014.08.012",
+    "10.1039/c5cp00739a",
+    "10.1007/s40243-019-0163-y",
+    "10.1007/s10853-020-04949-0",
+    "10.1007/s10854-018-0450-x",
+    "10.1016/j.sna.2018.01.047",
+    "10.1557/jmr.2011.108",
+    "10.1039/c7nr09585f",
+    "10.1007/s10853-018-2048-3",
+    "10.1016/j.micromeso.2019.05.050",
+    "10.1039/c8tc00171e",
+    "10.1039/c3ta11806a",
+    "10.1039/c6cp02739c",
+    "10.1007/s10853-018-2544-5",
+    "10.1016/j.ssc.2007.12.033",
+    "10.1016/j.actamat.2013.10.027",
+    "10.1016/j.scriptamat.2019.01.039",
+    "10.1039/c5cs00651a"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Zn and Ce co-doped In2O3",
+        "Property": "ThermCond",
+        "Value": 7.9,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.micromeso.2019.05.050"
+      },
+      {
+        "Original_Name_In_Paper": "mesoporous In2O3",
+        "Property": "ThermCond",
+        "Value": 0.58,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.micromeso.2019.05.050"
+      },
+      {
+        "Original_Name_In_Paper": "In2O3",
+        "Property": "ThermCond",
+        "Value": 0.86,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.micromeso.2019.05.050"
+      },
+      {
+        "Original_Name_In_Paper": "In2O3",
+        "Property": "ThermCond",
+        "Value": 0.9,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.micromeso.2019.05.050"
+      },
+      {
+        "Original_Name_In_Paper": "pristine In2O3(ZnO)4",
+        "Property": "ThermCond",
+        "Value": 1.42,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7nr09585f"
+      },
+      {
+        "Original_Name_In_Paper": "In2O3",
+        "Property": "ThermCond",
+        "Value": 2.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2013.10.027"
+      },
+      {
+        "Original_Name_In_Paper": "Zn and Ce co-doped In2O3",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.micromeso.2019.05.050"
+      }
+    ],
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "Ga doped In2O3",
+        "Property": "ThermCond",
+        "Value": 2.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5cp00739a"
+      },
+      {
+        "Original_Name_In_Paper": "Ga doped In2O3",
+        "Property": "ZT",
+        "Value": 0.05,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5cp00739a"
+      },
+      {
+        "Original_Name_In_Paper": "pristine In2O3(ZnO)5",
+        "Property": "ZT",
+        "Value": 0.11,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2019.01.039"
+      }
+    ],
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "In2O3",
+        "Property": "ThermCond",
+        "Value": 1.5,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2013.10.027"
+      },
+      {
+        "Original_Name_In_Paper": "pristine In2O3(ZnO)4",
+        "Property": "ZT",
+        "Value": 1.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      }
+    ],
+    "1273.0": [
+      {
+        "Original_Name_In_Paper": "In2O3",
+        "Property": "ZT",
+        "Value": 0.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2007.12.033"
+      },
+      {
+        "Original_Name_In_Paper": "Ge-doped In2O3",
+        "Property": "ZT",
+        "Value": 0.45,
+        "Units": null,
+        "Editing": "doping of CaMnO3",
+        "Source_DOI": "10.1039/c6cp02739c"
+      },
+      {
+        "Original_Name_In_Paper": "Ge-doped In2O3",
+        "Property": "ZT",
+        "Value": 0.45,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-018-2048-3"
+      },
+      {
+        "Original_Name_In_Paper": "In2O3",
+        "Property": "ZT",
+        "Value": 0.45,
+        "Units": null,
+        "Editing": "addition of Ge",
+        "Source_DOI": "10.1557/jmr.2011.108"
+      }
+    ],
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "Ge doped In2O3 bulks",
+        "Property": "ZT",
+        "Value": 0.13,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jeurceramsoc.2014.08.012"
+      },
+      {
+        "Original_Name_In_Paper": "In2O3",
+        "Property": "ZT",
+        "Value": 0.46,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta11806a"
+      },
+      {
+        "Original_Name_In_Paper": "Ge doped In2O3",
+        "Property": "ZT",
+        "Value": 0.23,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s40243-019-0163-y"
+      }
+    ],
+    "1050.0": [
+      {
+        "Original_Name_In_Paper": "In2O3",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-018-2544-5"
+      }
+    ],
+    "623.0": [
+      {
+        "Original_Name_In_Paper": "In2O3",
+        "Property": "Conductivity",
+        "Value": 1162790.6976744186,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5cs00651a"
+      }
+    ],
+    "1546.0": [
+      {
+        "Original_Name_In_Paper": "In2O3",
+        "Property": "Seebeck",
+        "Value": 0.000224,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.sna.2018.01.047"
+      },
+      {
+        "Original_Name_In_Paper": "In2O3",
+        "Property": "Seebeck",
+        "Value": 0.00016199999999999998,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.sna.2018.01.047"
+      }
+    ],
+    "1523.0": [
+      {
+        "Original_Name_In_Paper": "In2O3",
+        "Property": "Seebeck",
+        "Value": 0.0001317,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-018-0450-x"
+      }
+    ],
+    "1478.0": [
+      {
+        "Original_Name_In_Paper": "In2O3",
+        "Property": "Seebeck",
+        "Value": 0.0003415,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8tc00171e"
+      }
+    ]
+  }
+}

@@ -1,0 +1,410 @@
+{
+  "doi": "10.1016/j.cej.2020.124763",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Ag2Te",
+        "50 wt % Ag2Te NWs",
+        "50 wt % Ag2Te NW composite",
+        "Ag2Te-Ag composite",
+        "α-Ag2Te",
+        "Ag2Te nanowires",
+        "Ag2Te nanosheets",
+        "β-Ag2Te",
+        "pristine Ag2Te",
+        "50 wt % Ag2Te NW",
+        "Ag2Te-1.075",
+        "nanostructured Ag2Te",
+        "Ag2Te nanoparticles",
+        "bulk Ag2Te",
+        "Ag2Te nanoparticle pellet",
+        "Ag2Te-1.075 pellet",
+        "Ag2Te nanostructures",
+        "Ag2Te-Ag nanocomposite",
+        "pure Ag2Te",
+        "pristine Ag2Te bulk",
+        "Ag2Te NWs",
+        "Ag2Te NWs film"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "α-Ag2Te",
+          "value": -0.000128,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Ag2Te-Ag composite",
+          "value": -0.0000891,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Ag2Te NWs",
+          "value": -0.00014199999999999998,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "436.0 K"
+        },
+        {
+          "material": "Ag2Te NWs film",
+          "value": -0.00014199999999999998,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "468.0 K"
+        },
+        {
+          "material": "Ag2Te NWs film",
+          "value": -0.00014199999999999998,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "468.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "Ag2Te",
+          "value": 105,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Ag2Te",
+          "value": 104,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Ag2Te nanowires",
+          "value": 102,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Ag2Te nanosheets",
+          "value": 10210,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Ag2Te",
+          "value": 300000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Ag2Te",
+          "value": 26700,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Ag2Te",
+          "value": 30000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "β-Ag2Te",
+          "value": 40000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Ag2Te",
+          "value": 20000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Ag2Te",
+          "value": 183200,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Ag2Te",
+          "value": 104,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "650.0 K"
+        },
+        {
+          "material": "Ag2Te NWs film",
+          "value": 9530,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "468.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Ag2Te",
+          "value": 0.93,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Ag2Te",
+          "value": 0.93,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "pristine Ag2Te",
+          "value": 0.37,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "523.0 K"
+        },
+        {
+          "material": "Ag2Te-Ag composite",
+          "value": 0.5700000000000001,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Ag2Te nanowires",
+          "value": 0.93,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Ag2Te",
+          "value": 0.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Ag2Te",
+          "value": 0.01,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Ag2Te-1.075",
+          "value": 0.53,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "650.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Ag2Te",
+          "value": 0.00134,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Ag2Te-1.075 pellet",
+          "value": 0.00047000000000000004,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "450.0 K"
+        },
+        {
+          "material": "Ag2Te",
+          "value": 0.0005989999999999999,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "340.0 K"
+        },
+        {
+          "material": "Ag2Te",
+          "value": 0.000901,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "340.0 K"
+        },
+        {
+          "material": "Ag2Te",
+          "value": 0.0001,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "340.0 K"
+        },
+        {
+          "material": "Ag2Te nanoparticles",
+          "value": 0.000477,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "570.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "50 wt % Ag2Te NWs",
+          "zt_value": 0.005,
+          "temperature": "295 K"
+        },
+        {
+          "material": "50 wt % Ag2Te NW composite",
+          "zt_value": 0.005,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Ag2Te-Ag composite",
+          "zt_value": 0.68,
+          "temperature": "295 K"
+        },
+        {
+          "material": "50 wt % Ag2Te NW",
+          "zt_value": 0.005,
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Ag2Te",
+          "zt_value": 0.59,
+          "temperature": "650.0 K"
+        },
+        {
+          "material": "Ag2Te-1.075",
+          "zt_value": 0.59,
+          "temperature": "650.0 K"
+        },
+        {
+          "material": "Ag2Te",
+          "zt_value": 0.59,
+          "temperature": "650.0 K"
+        },
+        {
+          "material": "nanostructured Ag2Te",
+          "zt_value": 0.62,
+          "temperature": "550.0 K"
+        },
+        {
+          "material": "Ag2Te nanoparticles",
+          "zt_value": 0.62,
+          "temperature": "550.0 K"
+        },
+        {
+          "material": "Ag2Te nanoparticles",
+          "zt_value": 0.6000000000000001,
+          "temperature": "550.0 K"
+        },
+        {
+          "material": "bulk Ag2Te",
+          "zt_value": 0.4,
+          "temperature": "550.0 K"
+        },
+        {
+          "material": "Ag2Te nanoparticle pellet",
+          "zt_value": 0.62,
+          "temperature": "550.0 K"
+        },
+        {
+          "material": "bulk Ag2Te",
+          "zt_value": 0.47000000000000003,
+          "temperature": "550.0 K"
+        },
+        {
+          "material": "Ag2Te",
+          "zt_value": 1,
+          "temperature": "550.0 K"
+        },
+        {
+          "material": "Ag2Te nanoparticles",
+          "zt_value": 0.62,
+          "temperature": "550.0 K"
+        },
+        {
+          "material": "nanostructured Ag2Te",
+          "zt_value": 1.5,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "Ag2Te",
+          "zt_value": 1.5,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "Ag2Te",
+          "zt_value": 0.66,
+          "temperature": "450.0 K"
+        },
+        {
+          "material": "Ag2Te",
+          "zt_value": 1.6,
+          "temperature": "775.0 K"
+        },
+        {
+          "material": "Ag2Te nanostructures",
+          "zt_value": 1.6,
+          "temperature": "775.0 K"
+        },
+        {
+          "material": "Ag2Te",
+          "zt_value": 1.5,
+          "temperature": "775.0 K"
+        },
+        {
+          "material": "Ag2Te",
+          "zt_value": 0.27,
+          "temperature": "370.0 K"
+        },
+        {
+          "material": "nanostructured Ag2Te",
+          "zt_value": 1.53,
+          "temperature": "500.0 K"
+        },
+        {
+          "material": "Ag2Te",
+          "zt_value": 1.1,
+          "temperature": "575.0 K"
+        },
+        {
+          "material": "Ag2Te-Ag composite",
+          "zt_value": 0.68,
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "Ag2Te-Ag nanocomposite",
+          "zt_value": 0.68,
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "Ag2Te-Ag composite",
+          "zt_value": 0.68,
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "Ag2Te-Ag composite",
+          "zt_value": 0.68,
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "pure Ag2Te",
+          "zt_value": 0.9,
+          "temperature": "623.0 K"
+        },
+        {
+          "material": "pristine Ag2Te",
+          "zt_value": 0.6000000000000001,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "pristine Ag2Te bulk",
+          "zt_value": 0.9,
+          "temperature": "630.0 K"
+        },
+        {
+          "material": "pure Ag2Te",
+          "zt_value": 0.4,
+          "temperature": "630.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

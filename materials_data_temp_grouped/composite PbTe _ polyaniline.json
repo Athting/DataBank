@@ -1,0 +1,26 @@
+{
+  "Material": "composite PbTe / polyaniline",
+  "DOIs_Researched": [
+    "10.1016/B978-0-12-803581-8.10024-4"
+  ],
+  "Data_By_Temperature": {
+    "293.0": [
+      {
+        "Original_Name_In_Paper": "composite PbTe / polyaniline",
+        "Property": "PF",
+        "Value": 7.450000000000001e-07,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-12-803581-8.10024-4"
+      },
+      {
+        "Original_Name_In_Paper": "composite PbTe / polyaniline",
+        "Property": "Conductivity",
+        "Value": 1.9,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-12-803581-8.10024-4"
+      }
+    ]
+  }
+}

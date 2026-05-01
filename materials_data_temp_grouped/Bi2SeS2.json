@@ -1,0 +1,61 @@
+{
+  "Material": "Bi2SeS2",
+  "DOIs_Researched": [
+    "10.1016/B978-0-08-102687-8.00002-6",
+    "10.1016/j.jallcom.2020.156677"
+  ],
+  "Data_By_Temperature": {
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "Bi2SeS2\u20133 % CuBr",
+        "Property": "ThermCond",
+        "Value": 0.6000000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.156677"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2SeS2\u20133 % CuBr",
+        "Property": "ZT",
+        "Value": 0.71,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.156677"
+      },
+      {
+        "Original_Name_In_Paper": "Cu doped Bi2SeS2",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.156677"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2SeS2",
+        "Property": "ZT",
+        "Value": 0.22,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.156677"
+      },
+      {
+        "Original_Name_In_Paper": "Bi2SeS2\u20133 % CuBr",
+        "Property": "ZT",
+        "Value": 0.71,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2020.156677"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Bi2SeS2",
+        "Property": "ZT",
+        "Value": 0.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-08-102687-8.00002-6"
+      }
+    ]
+  }
+}

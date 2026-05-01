@@ -1,0 +1,26 @@
+{
+  "Material": "Bi0.86Ba0.14CuSeO",
+  "DOIs_Researched": [
+    "10.1016/j.ceramint.2018.10.190"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Bi0.86Ba0.14CuSeO",
+        "Property": "ZT",
+        "Value": 0.5700000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.10.190"
+      },
+      {
+        "Original_Name_In_Paper": "Bi0.86Ba0.14CuSeO",
+        "Property": "ZT",
+        "Value": 0.5700000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2018.10.190"
+      }
+    ]
+  }
+}

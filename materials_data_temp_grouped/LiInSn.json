@@ -1,0 +1,18 @@
+{
+  "Material": "LiInSn",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2017.12.014"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "LiInSn",
+        "Property": "ZT",
+        "Value": 0.07,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2017.12.014"
+      }
+    ]
+  }
+}

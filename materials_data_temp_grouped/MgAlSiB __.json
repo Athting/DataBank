@@ -1,0 +1,44 @@
+{
+  "Material": "MgAlSiB \\\\",
+  "DOIs_Researched": [
+    "10.1007/s10854-018-9168-z"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Mg1.96Al0.06Si0.985Bi0.01Sb0.005",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-018-9168-z"
+      },
+      {
+        "Original_Name_In_Paper": "Mg1.96Al0.06Si0.985Bi0.01Sb0.005",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-018-9168-z"
+      },
+      {
+        "Original_Name_In_Paper": "Mg1.96Al0.06Si0.985Bi0.01Sb0.005",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-018-9168-z"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Mg1.96Al0.06Si0.985Bi0.01Sb0.005",
+        "Property": "Conductivity",
+        "Value": 0.0016389999999999998,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-018-9168-z"
+      }
+    ]
+  }
+}

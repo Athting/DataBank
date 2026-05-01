@@ -1,0 +1,18 @@
+{
+  "Material": "SnO2 : F",
+  "DOIs_Researched": [
+    "10.1016/S0040-6090(98)01485-0"
+  ],
+  "Data_By_Temperature": {
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "SnO2 : F",
+        "Property": "Seebeck",
+        "Value": -0.0001435,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0040-6090(98)01485-0"
+      }
+    ]
+  }
+}

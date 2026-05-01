@@ -1,0 +1,26 @@
+{
+  "Material": "Ca5In1.8Sb6",
+  "DOIs_Researched": [
+    "10.1039/c5cp00972c"
+  ],
+  "Data_By_Temperature": {
+    "900.0": [
+      {
+        "Original_Name_In_Paper": "p-type Ca5In1.8Pb0.2Sb6",
+        "Property": "ZT",
+        "Value": 1.24,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5cp00972c"
+      },
+      {
+        "Original_Name_In_Paper": "n-type Ca5In1.8Pb0.2Sb6",
+        "Property": "ZT",
+        "Value": 0.87,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5cp00972c"
+      }
+    ]
+  }
+}

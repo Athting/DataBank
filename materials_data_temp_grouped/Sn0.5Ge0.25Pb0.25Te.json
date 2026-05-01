@@ -1,0 +1,18 @@
+{
+  "Material": "Sn0.5Ge0.25Pb0.25Te",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2019.104395"
+  ],
+  "Data_By_Temperature": {
+    "875.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.5Ge0.25Pb0.25Te",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2019.104395"
+      }
+    ]
+  }
+}

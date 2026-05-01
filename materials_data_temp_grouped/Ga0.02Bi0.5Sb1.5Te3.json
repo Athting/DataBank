@@ -1,0 +1,36 @@
+{
+  "Material": "Ga0.02Bi0.5Sb1.5Te3",
+  "DOIs_Researched": [
+    "10.1016/j.intermet.2012.07.007"
+  ],
+  "Data_By_Temperature": {
+    "400.0": [
+      {
+        "Original_Name_In_Paper": "Ga0.02Bi0.5Sb1.5Te3 film",
+        "Property": "Seebeck",
+        "Value": 0.000216,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2012.07.007"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ga0.02Bi0.5Sb1.5Te3 film",
+        "Property": "PF",
+        "Value": 0.0022,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2012.07.007"
+      },
+      {
+        "Original_Name_In_Paper": "Ga0.02Bi0.5Sb1.5Te3 film",
+        "Property": "PF",
+        "Value": 0.0022,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2012.07.007"
+      }
+    ]
+  }
+}

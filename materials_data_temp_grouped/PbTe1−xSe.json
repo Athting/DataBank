@@ -1,0 +1,18 @@
+{
+  "Material": "PbTe1\u2212xSe",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2012.09.037"
+  ],
+  "Data_By_Temperature": {
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "doped p-type PbTe1\u2212xSex alloys",
+        "Property": "ZT",
+        "Value": 1.8,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2012.09.037"
+      }
+    ]
+  }
+}

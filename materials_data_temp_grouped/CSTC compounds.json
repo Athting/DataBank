@@ -1,0 +1,18 @@
+{
+  "Material": "CSTC compounds",
+  "DOIs_Researched": [
+    "10.1016/j.mseb.2019.04.025"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "CSTC compounds",
+        "Property": "Conductivity",
+        "Value": 102.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mseb.2019.04.025"
+      }
+    ]
+  }
+}

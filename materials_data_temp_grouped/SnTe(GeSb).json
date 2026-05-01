@@ -1,0 +1,18 @@
+{
+  "Material": "SnTe(GeSb)",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2019.07.220"
+  ],
+  "Data_By_Temperature": {
+    "721.0": [
+      {
+        "Original_Name_In_Paper": "Ge\u2013Sb co-doped SnTe",
+        "Property": "ZT",
+        "Value": 1.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.07.220"
+      }
+    ]
+  }
+}

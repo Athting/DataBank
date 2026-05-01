@@ -1,0 +1,18 @@
+{
+  "Material": "silicone Q",
+  "DOIs_Researched": [
+    "10.1016/B978-1-927885-67-3.50014-6"
+  ],
+  "Data_By_Temperature": {
+    "278.0": [
+      {
+        "Original_Name_In_Paper": "silicone Q",
+        "Property": "ThermCond",
+        "Value": 0.65,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-1-927885-67-3.50014-6"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "K2Ti6O13",
+  "DOIs_Researched": [
+    "10.1007/s10854-019-01170-x"
+  ],
+  "Data_By_Temperature": {
+    "1033.0": [
+      {
+        "Original_Name_In_Paper": "K2Ti6O13",
+        "Property": "ThermCond",
+        "Value": 0.017,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s10854-019-01170-x"
+      }
+    ]
+  }
+}

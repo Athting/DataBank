@@ -1,0 +1,18 @@
+{
+  "Material": "Ge-Ni",
+  "DOIs_Researched": [
+    "10.1016/S0925-8388(10)00044-7"
+  ],
+  "Data_By_Temperature": {
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "Ge\u2013Ni",
+        "Property": "ZT",
+        "Value": 0.75,
+        "Units": null,
+        "Editing": "Cu additions",
+        "Source_DOI": "10.1016/S0925-8388(10)00044-7"
+      }
+    ]
+  }
+}

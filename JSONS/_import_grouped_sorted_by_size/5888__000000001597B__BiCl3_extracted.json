@@ -1,0 +1,70 @@
+{
+  "doi": "10.1016/j.pmatsci.2018.04.005",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "BiCl3",
+        "0.4 % BiCl3",
+        "BiCl3 lead",
+        "1.0 mol % BiCl3"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": []
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "BiCl3",
+          "value": 0.0005,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "793.0 K"
+        },
+        {
+          "material": "1.0 mol % BiCl3",
+          "value": 0.00047589999999999997,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "675.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "BiCl3",
+          "zt_value": 0.7000000000000001,
+          "temperature": "793.0 K"
+        },
+        {
+          "material": "0.4 % BiCl3",
+          "zt_value": 0.7000000000000001,
+          "temperature": "793.0 K"
+        },
+        {
+          "material": "BiCl3 lead",
+          "zt_value": 0.6000000000000001,
+          "temperature": "760.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

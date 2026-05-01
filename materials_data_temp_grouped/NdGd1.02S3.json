@@ -1,0 +1,27 @@
+{
+  "Material": "NdGd1.02S3",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2009.04.076",
+    "10.1007/s11664-009-0660-3"
+  ],
+  "Data_By_Temperature": {
+    "950.0": [
+      {
+        "Original_Name_In_Paper": "NdGd1.02S3",
+        "Property": "ZT",
+        "Value": 0.51,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2009.04.076"
+      },
+      {
+        "Original_Name_In_Paper": "NdGd1.02S3",
+        "Property": "ZT",
+        "Value": 0.51,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-009-0660-3"
+      }
+    ]
+  }
+}

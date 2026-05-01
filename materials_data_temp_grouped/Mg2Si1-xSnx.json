@@ -1,0 +1,102 @@
+{
+  "Material": "Mg2Si1-xSnx",
+  "DOIs_Researched": [
+    "10.1557/jmr.2011.385",
+    "10.1016/j.rser.2014.05.060",
+    "10.1007/s10853-012-6967-0",
+    "10.1007/s11771-012-1291-z",
+    "10.1016/j.carbon.2012.10.060",
+    "10.1039/c8ra02436g",
+    "10.1016/j.jallcom.2007.11.029",
+    "10.1016/j.intermet.2015.07.015",
+    "10.1016/j.scriptamat.2013.07.008"
+  ],
+  "Data_By_Temperature": {
+    "573.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Si1-xSnx",
+        "Property": "ZT",
+        "Value": 0.7000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-012-6967-0"
+      }
+    ],
+    "860.0": [
+      {
+        "Original_Name_In_Paper": "Sb-doped Mg2Si1-xSnx",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": "Sb doping",
+        "Source_DOI": "10.1557/jmr.2011.385"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Si1\u2212xSnx",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.carbon.2012.10.060"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si1\u2212xSnx",
+        "Property": "ZT",
+        "Value": 1.3,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8ra02436g"
+      }
+    ],
+    "640.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Si1\u2212xSnx",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rser.2014.05.060"
+      }
+    ],
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Si1\u2212xSnx",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2015.07.015"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2Si1-xSnx",
+        "Property": "ZT",
+        "Value": 0.26,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11771-012-1291-z"
+      }
+    ],
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Si1\u2212xSnx",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.scriptamat.2013.07.008"
+      }
+    ],
+    "862.0": [
+      {
+        "Original_Name_In_Paper": "Mg2Si1\u2212xSnx",
+        "Property": "ZT",
+        "Value": 0.054,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2007.11.029"
+      }
+    ]
+  }
+}

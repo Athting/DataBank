@@ -1,0 +1,26 @@
+{
+  "Material": "Cu0.88Ag0.12FeS2",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2019.151717"
+  ],
+  "Data_By_Temperature": {
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "Cu0.88Ag0.12FeS2",
+        "Property": "PF",
+        "Value": 0.00076,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.151717"
+      },
+      {
+        "Original_Name_In_Paper": "Cu0.88Ag0.12FeS2",
+        "Property": "PF",
+        "Value": 0.00076,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2019.151717"
+      }
+    ]
+  }
+}

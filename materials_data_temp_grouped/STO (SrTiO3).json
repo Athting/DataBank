@@ -1,0 +1,18 @@
+{
+  "Material": "STO (SrTiO3)",
+  "DOIs_Researched": [
+    "10.1016/j.rser.2018.10.006"
+  ],
+  "Data_By_Temperature": {
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "20 % Nb-doped STO film",
+        "Property": "ZT",
+        "Value": 0.37,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rser.2018.10.006"
+      }
+    ]
+  }
+}

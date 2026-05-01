@@ -1,0 +1,18 @@
+{
+  "Material": "LaSrMnO7",
+  "DOIs_Researched": [
+    "10.1016/j.jmmm.2016.03.049"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "LaSr2Mn2O7",
+        "Property": "Conductivity",
+        "Value": 100.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmmm.2016.03.049"
+      }
+    ]
+  }
+}

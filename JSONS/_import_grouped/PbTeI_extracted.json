@@ -1,0 +1,206 @@
+{
+  "doi": "10.1039/c8ee00112j",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "Sb-free PbTe0.996I0.004",
+        "PbTe0.996I0.002–3 % Sb",
+        "PbTe0.997I0.003",
+        "PbTe0.996I0.004",
+        "PbTe0.998I0.002–x % Sb",
+        "PbTe0.998I0.002–3 % Sb",
+        "PbTe0.998I0.002–3 % Sb composite",
+        "PbTe0.996I0.004–1 % MgTe",
+        "PbTe0.997I0.003 with Sn and Se",
+        "PbTe0.998I0.002-0.5 % C60",
+        "PbTe0.998I0.002 -0.5 %"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "PbTe0.998I0.002–x % Sb",
+          "value": 0.0001,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe0.997I0.003",
+          "value": -0.00011,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe0.996I0.004",
+          "value": 0.000059,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "PbTe0.997I0.003",
+          "value": 53200,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe0.997I0.003",
+          "value": 53200,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "Sb-free PbTe0.996I0.004",
+          "value": 2.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe0.996I0.002–3 % Sb",
+          "value": 2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe0.997I0.003",
+          "value": 3.1,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe0.996I0.004",
+          "value": 2.2,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe0.996I0.004",
+          "value": 4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "PbTe0.998I0.002–3 % Sb",
+          "value": 0.62,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "PbTe0.997I0.003",
+          "value": 3.4,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "PbTe0.997I0.003",
+          "value": 0.00219,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "573.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "PbTe0.998I0.002–3 % Sb composite",
+          "zt_value": 1.8,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "PbTe0.998I0.002–3 % Sb composite",
+          "zt_value": 1.8,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "PbTe0.998I0.002–3 % Sb",
+          "zt_value": 1.8,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "PbTe0.996I0.004–1 % MgTe",
+          "zt_value": 1.2,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "PbTe0.996I0.004",
+          "zt_value": 1.2,
+          "temperature": "700.0 K"
+        },
+        {
+          "material": "PbTe0.997I0.003",
+          "zt_value": 0.62,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "PbTe0.997I0.003 with Sn and Se",
+          "zt_value": 1.2,
+          "temperature": "673.0 K"
+        },
+        {
+          "material": "PbTe0.997I0.003",
+          "zt_value": 1,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "PbTe0.997I0.003",
+          "zt_value": 0.81,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "PbTe0.998I0.002-0.5 % C60",
+          "zt_value": 1.3,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "PbTe0.998I0.002-0.5 % C60",
+          "zt_value": 1.3,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "PbTe0.998I0.002-0.5 % C60",
+          "zt_value": 1.3,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "PbTe0.998I0.002 -0.5 %",
+          "zt_value": 1.3,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "PbTe0.996I0.004",
+          "zt_value": 1.2,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "PbTe0.996I0.004–1 % MgTe",
+          "zt_value": 0.8,
+          "temperature": "873.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

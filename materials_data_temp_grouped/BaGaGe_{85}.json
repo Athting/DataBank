@@ -1,0 +1,18 @@
+{
+  "Material": "BaGaGe_{85}",
+  "DOIs_Researched": [
+    "10.1016/j.jssc.2017.06.025"
+  ],
+  "Data_By_Temperature": {
+    "943.0": [
+      {
+        "Original_Name_In_Paper": "Ba24Ga15Ge85 compound",
+        "Property": "ZT",
+        "Value": 1.25,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2017.06.025"
+      }
+    ]
+  }
+}

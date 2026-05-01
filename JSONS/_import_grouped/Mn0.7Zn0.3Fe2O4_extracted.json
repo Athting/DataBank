@@ -1,0 +1,60 @@
+{
+  "doi": "10.1016/j.solidstatesciences.2017.08.021",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "1 wt % MWNTs / Mn0.7Zn0.3Fe2O4",
+        "1 wt % MWNTs / Mn0.7Zn0.3Fe2O4 composites",
+        "2 wt % Graphene / Mn0.7Zn0.3Fe2O4 composites"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "1 wt % MWNTs / Mn0.7Zn0.3Fe2O4",
+          "value": -0.000173,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "323.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "1 wt % MWNTs / Mn0.7Zn0.3Fe2O4 composites",
+          "value": 0.0000406,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "973.0 K"
+        },
+        {
+          "material": "2 wt % Graphene / Mn0.7Zn0.3Fe2O4 composites",
+          "value": 0.0000502,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "973.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": []
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

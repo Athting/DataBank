@@ -1,0 +1,18 @@
+{
+  "Material": "3Zr2(PO4)3",
+  "DOIs_Researched": [
+    "10.1039/b102987h"
+  ],
+  "Data_By_Temperature": {
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "3Zr2(PO4)3",
+        "Property": "Conductivity",
+        "Value": 0.0106,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/b102987h"
+      }
+    ]
+  }
+}

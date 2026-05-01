@@ -1,0 +1,51 @@
+{
+  "doi": "10.1016/j.jallcom.2007.12.055",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "TiCoSn0.05Sb0.95"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "TiCoSn0.05Sb0.95",
+          "value": 0.000222,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "988.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": []
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": []
+    },
+    "power_factor": {
+      "power_factor_data": []
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "TiCoSn0.05Sb0.95",
+          "zt_value": 0.03,
+          "temperature": "988.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "2D IV-VI chalcogenides",
+  "DOIs_Researched": [
+    "10.1016/j.mtphys.2018.11.008"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "2D IV-VI chalcogenides",
+        "Property": "ThermCond",
+        "Value": 3.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2018.11.008"
+      }
+    ]
+  }
+}

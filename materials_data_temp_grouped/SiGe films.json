@@ -1,0 +1,28 @@
+{
+  "Material": "SiGe films",
+  "DOIs_Researched": [
+    "10.1039/c5nr00181a"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "SiGe films",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5nr00181a"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "SiGe films",
+        "Property": "ZT",
+        "Value": 0.02,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5nr00181a"
+      }
+    ]
+  }
+}

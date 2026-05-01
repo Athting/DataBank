@@ -1,0 +1,26 @@
+{
+  "Material": "MoS2, MoSe2",
+  "DOIs_Researched": [
+    "10.1039/c9cp01702j"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "MoS2 / MoSe2-BH",
+        "Property": "ThermCond",
+        "Value": 25.39,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9cp01702j"
+      },
+      {
+        "Original_Name_In_Paper": "MoS2 / MoSe2-BH",
+        "Property": "ThermCond",
+        "Value": 25.39,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9cp01702j"
+      }
+    ]
+  }
+}

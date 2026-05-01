@@ -1,0 +1,18 @@
+{
+  "Material": "Li4Sr3Nb5.77Fe0.23O19.",
+  "DOIs_Researched": [
+    "10.1039/b002696o"
+  ],
+  "Data_By_Temperature": {
+    "663.0": [
+      {
+        "Original_Name_In_Paper": "Li4Sr3Nb5.77Fe0.23O19.77",
+        "Property": "Conductivity",
+        "Value": 0.009600000000000001,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/b002696o"
+      }
+    ]
+  }
+}

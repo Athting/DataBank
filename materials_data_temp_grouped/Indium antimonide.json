@@ -1,0 +1,27 @@
+{
+  "Material": "Indium antimonide",
+  "DOIs_Researched": [
+    "10.1016/j.nanoen.2018.03.058",
+    "10.1016/j.apsusc.2013.09.135"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Indium antimonide",
+        "Property": "ThermCond",
+        "Value": 18.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.nanoen.2018.03.058"
+      },
+      {
+        "Original_Name_In_Paper": "Indium antimonide",
+        "Property": "ThermCond",
+        "Value": 16.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2013.09.135"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Material": "Mg2.85Y0.15Sb1.5Bi0.5",
+  "DOIs_Researched": [
+    "10.1016/j.mtphys.2018.12.004"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Mg2.85Y0.15Sb1.5Bi0.5",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2018.12.004"
+      },
+      {
+        "Original_Name_In_Paper": "Mg2.85Y0.15Sb1.5Bi0.5",
+        "Property": "PF",
+        "Value": 0.0016300000000000002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2018.12.004"
+      }
+    ]
+  }
+}

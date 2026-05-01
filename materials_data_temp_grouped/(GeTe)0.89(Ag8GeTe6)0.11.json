@@ -1,0 +1,34 @@
+{
+  "Material": "(GeTe)0.89(Ag8GeTe6)0.11",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2013.02.149"
+  ],
+  "Data_By_Temperature": {
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "(GeTe)0.89(Ag8GeTe6)0.11",
+        "Property": "ZT",
+        "Value": 1.15,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.02.149"
+      },
+      {
+        "Original_Name_In_Paper": "(GeTe)0.89(Ag8GeTe6)0.11",
+        "Property": "ZT",
+        "Value": 1.15,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.02.149"
+      },
+      {
+        "Original_Name_In_Paper": "(GeTe)0.89(Ag8GeTe6)0.11",
+        "Property": "ZT",
+        "Value": 1.15,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2013.02.149"
+      }
+    ]
+  }
+}

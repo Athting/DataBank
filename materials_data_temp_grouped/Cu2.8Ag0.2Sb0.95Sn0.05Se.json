@@ -1,0 +1,76 @@
+{
+  "Material": "Cu2.8Ag0.2Sb0.95Sn0.05Se",
+  "DOIs_Researched": [
+    "10.1039/c8nr03550d"
+  ],
+  "Data_By_Temperature": {
+    "623.0": [
+      {
+        "Original_Name_In_Paper": "Cu2.8Ag0.2Sb0.95Sn0.05Se4",
+        "Property": "ThermCond",
+        "Value": 0.27,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8nr03550d"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2.8Ag0.2Sb0.95Sn0.05Se4",
+        "Property": "ThermCond",
+        "Value": 0.27,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8nr03550d"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2.8Ag0.2Sb0.95Sn0.05Se4",
+        "Property": "ThermCond",
+        "Value": 0.27,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8nr03550d"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2.8Ag0.2Sb0.95Sn0.05Se4",
+        "Property": "ZT",
+        "Value": 1.18,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8nr03550d"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2.8Ag0.2Sb0.95Sn0.05Se4",
+        "Property": "ZT",
+        "Value": 1.18,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8nr03550d"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2.8Ag0.2Sb0.95Sn0.05Se4",
+        "Property": "ZT",
+        "Value": 1.18,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8nr03550d"
+      },
+      {
+        "Original_Name_In_Paper": "Cu2.8Ag0.2Sb0.95Sn0.05Se4",
+        "Property": "Seebeck",
+        "Value": 0.000235,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c8nr03550d"
+      }
+    ],
+    "627.0": [
+      {
+        "Original_Name_In_Paper": "Cu2.8Ag0.2Sb0.95Sn0.05Se4",
+        "Property": "ZT",
+        "Value": 1.18,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c8nr03550d"
+      }
+    ]
+  }
+}

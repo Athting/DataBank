@@ -1,0 +1,18 @@
+{
+  "Material": "Si85Ge15",
+  "DOIs_Researched": [
+    "10.1016/j.jmat.2018.11.004"
+  ],
+  "Data_By_Temperature": {
+    "1200.0": [
+      {
+        "Original_Name_In_Paper": "Si85Ge15",
+        "Property": "ZT",
+        "Value": 0.74,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jmat.2018.11.004"
+      }
+    ]
+  }
+}

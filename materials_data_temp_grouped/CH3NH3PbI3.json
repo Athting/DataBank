@@ -1,0 +1,18 @@
+{
+  "Material": "CH3NH3PbI3",
+  "DOIs_Researched": [
+    "10.1016/j.orgel.2018.01.014"
+  ],
+  "Data_By_Temperature": {
+    "308.0": [
+      {
+        "Original_Name_In_Paper": "CH3NH3PbI3 perovskite thin film",
+        "Property": "Conductivity",
+        "Value": 7.8e-06,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.orgel.2018.01.014"
+      }
+    ]
+  }
+}

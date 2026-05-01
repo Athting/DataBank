@@ -1,0 +1,35 @@
+{
+  "Material": "PEDOT\u2013PSS",
+  "DOIs_Researched": [
+    "10.1039/c5tc01952d",
+    "10.1038/nmat3824"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "PEDOT\u2013PSS",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01952d"
+      },
+      {
+        "Original_Name_In_Paper": "PEDOT\u2013PSS",
+        "Property": "PF",
+        "Value": 0.00047000000000000004,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5tc01952d"
+      },
+      {
+        "Original_Name_In_Paper": "PEDOT\u2013PSS",
+        "Property": "Conductivity",
+        "Value": 110.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/nmat3824"
+      }
+    ]
+  }
+}

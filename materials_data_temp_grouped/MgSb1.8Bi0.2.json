@@ -1,0 +1,18 @@
+{
+  "Material": "MgSb1.8Bi0.2",
+  "DOIs_Researched": [
+    "10.1039/c4ra04889j"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "p-type Mg3Sb1.8Bi0.2",
+        "Property": "ZT",
+        "Value": 0.6000000000000001,
+        "Units": null,
+        "Editing": "Bi3\u2212 substitution",
+        "Source_DOI": "10.1039/c4ra04889j"
+      }
+    ]
+  }
+}

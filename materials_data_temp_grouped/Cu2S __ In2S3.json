@@ -1,0 +1,26 @@
+{
+  "Material": "Cu2S \\* In2S3",
+  "DOIs_Researched": [
+    "10.1039/c6ta03780a"
+  ],
+  "Data_By_Temperature": {
+    "850.0": [
+      {
+        "Original_Name_In_Paper": "2 % In2S3 doped Cu2S",
+        "Property": "ThermCond",
+        "Value": 0.9500000000000001,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta03780a"
+      },
+      {
+        "Original_Name_In_Paper": "2 % In2S3 doped Cu2S",
+        "Property": "PF",
+        "Value": 0.001361,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta03780a"
+      }
+    ]
+  }
+}

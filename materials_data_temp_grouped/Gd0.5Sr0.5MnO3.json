@@ -1,0 +1,18 @@
+{
+  "Material": "Gd0.5Sr0.5MnO3",
+  "DOIs_Researched": [
+    "10.1007/s12648-016-0890-1"
+  ],
+  "Data_By_Temperature": {
+    "50.0": [
+      {
+        "Original_Name_In_Paper": "Gd0.5Sr0.5MnO3",
+        "Property": "Seebeck",
+        "Value": 0.9,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1007/s12648-016-0890-1"
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "Material": "BiCuSe0.94Te0.06O",
+  "DOIs_Researched": [
+    "10.1039/c6ta04310k",
+    "10.1039/c4ee00997e",
+    "10.1016/j.ceramint.2017.02.005"
+  ],
+  "Data_By_Temperature": {
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "BiCuSe0.94Te0.06O",
+        "Property": "ZT",
+        "Value": 0.71,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c6ta04310k"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSe0.94Te0.06O",
+        "Property": "ZT",
+        "Value": 0.71,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ee00997e"
+      },
+      {
+        "Original_Name_In_Paper": "BiCuSe0.94Te0.06O",
+        "Property": "ZT",
+        "Value": 0.71,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c4ee00997e"
+      }
+    ],
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "BiCuSe0.94Te0.06O",
+        "Property": "ZT",
+        "Value": 0.71,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2017.02.005"
+      }
+    ]
+  }
+}

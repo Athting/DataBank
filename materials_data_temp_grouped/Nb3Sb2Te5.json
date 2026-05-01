@@ -1,0 +1,18 @@
+{
+  "Material": "Nb3Sb2Te5",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2006.10.056"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Nb3Sb2Te5",
+        "Property": "Conductivity",
+        "Value": 7500.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2006.10.056"
+      }
+    ]
+  }
+}

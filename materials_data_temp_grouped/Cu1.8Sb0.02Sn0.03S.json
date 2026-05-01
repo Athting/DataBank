@@ -1,0 +1,68 @@
+{
+  "Material": "Cu1.8Sb0.02Sn0.03S",
+  "DOIs_Researched": [
+    "10.1039/c9tc01096c"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Cu1.8Sb0.02Sn0.03S",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc01096c"
+      },
+      {
+        "Original_Name_In_Paper": "Cu1.8Sb0.02Sn0.03S",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc01096c"
+      },
+      {
+        "Original_Name_In_Paper": "Cu1.8Sb0.02Sn0.03S",
+        "Property": "ZT",
+        "Value": 1.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc01096c"
+      },
+      {
+        "Original_Name_In_Paper": "Cu1.8Sb0.02Sn0.03S",
+        "Property": "PF",
+        "Value": 0.000975,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc01096c"
+      },
+      {
+        "Original_Name_In_Paper": "Cu1.8Sb0.02Sn0.03S",
+        "Property": "PF",
+        "Value": 0.000975,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc01096c"
+      },
+      {
+        "Original_Name_In_Paper": "Cu1.8Sb0.02Sn0.03S",
+        "Property": "PF",
+        "Value": 0.000975,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc01096c"
+      }
+    ],
+    "873.0": [
+      {
+        "Original_Name_In_Paper": "Cu1.8Sb0.02Sn0.03S bulk",
+        "Property": "PF",
+        "Value": 1.2e-06,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9tc01096c"
+      }
+    ]
+  }
+}

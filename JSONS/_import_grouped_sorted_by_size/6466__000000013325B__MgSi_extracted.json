@@ -1,0 +1,491 @@
+{
+  "doi": "10.1557/PROC-1166-N03-21",
+  "extraction_status": "success",
+  "extracted_data": {
+    "material_composition": {
+      "materials": [
+        "magnesium silicide",
+        "Mg2Si / Si nanocomposites",
+        "undoped Mg2Si",
+        "Bi-doped Mg2Si",
+        "Mg2Si compound with PbCl2-type",
+        "Mg2Si-coated CNTs",
+        "Bi doped Mg2Si",
+        "bulk Mg2Si",
+        "Y-doped Mg2Si",
+        "0.5 wt % Sb-doped Mg2Si",
+        "n-type Mg2Si doped with Al",
+        "Mg2Si doped with Al",
+        "tin doped magnesium silicide",
+        "Mg2Si1-xSnx-based",
+        "Mg2Si1−xSnx based",
+        "doped Mg2Si1",
+        "Mg2Si material",
+        "Al and Bi co-doped Mg2Si",
+        "doped Mg2Si",
+        "Mg2Si-based material",
+        "Mg2Si nano-powder",
+        "Mg2Si powder",
+        "Mg2Si-based",
+        "Ag-doped Mg2Si single crystals",
+        "p-type Mg2Si-based materials",
+        "p-type Mg2Si based materials",
+        "Mg2Si compounds",
+        "Al-doped Mg2Si",
+        "Mg2Si-based materials",
+        "Sb doped Mg2Si",
+        "% Al-doped Mg2Si",
+        "p-type magnesium silicide-based materials",
+        "p-type Mg2Si1−xSnx alloys",
+        "Magnesium Silicide",
+        "Sn doped Mg2Si",
+        "Mg2Si-based compounds",
+        "Mg2Si with Sn",
+        "Mg2Si : Bi",
+        "Ge doped Mg2Si",
+        "Mg1.99Ca0.01Si",
+        "n-type Mg2Si",
+        "B-doped Mg2Si",
+        "n-type Al-doped Mg2Si material",
+        "Mg / Si",
+        "Mg2Si film",
+        "Al-doped Mg2Si thin film with 1.56 at. % Al",
+        "undoped Mg2Si thin film"
+      ]
+    },
+    "seebeck_coefficient": {
+      "seebeck_data": [
+        {
+          "material": "Mg2Si-coated CNTs",
+          "value": -30000000,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "0.5 wt % Sb-doped Mg2Si",
+          "value": -0.00068,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "undoped Mg2Si",
+          "value": 0.00035000000000000005,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "bulk Mg2Si",
+          "value": 0.001098,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "350.0 K"
+        },
+        {
+          "material": "Mg / Si",
+          "value": -0.00047000000000000004,
+          "unit": "Kelvin^(-1.0)  Volt^(1.0)",
+          "temperature": "373.0 K"
+        }
+      ]
+    },
+    "electrical_conductivity": {
+      "conductivity_data": [
+        {
+          "material": "Bi doped Mg2Si",
+          "value": 300,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "undoped Mg2Si",
+          "value": 300,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "undoped Mg2Si",
+          "value": 1400,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Mg2Si-coated CNTs",
+          "value": 0.98,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Mg2Si doped with Al",
+          "value": 10010,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "Mg2Si : Bi",
+          "value": 60975.6097560976,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "doped Mg2Si",
+          "value": 250000,
+          "unit": "Meter^(-1.0)  Siemens^(1.0)",
+          "temperature": "300.0 K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "thermal_conductivity_data": [
+        {
+          "material": "magnesium silicide",
+          "value": 7,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "Mg2Si / Si nanocomposites",
+          "value": 6,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "undoped Mg2Si",
+          "value": 11,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "undoped Mg2Si",
+          "value": 11,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "295 K"
+        },
+        {
+          "material": "bulk Mg2Si",
+          "value": 5,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "n-type Mg2Si doped with Al",
+          "value": 2.01,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "Bi doped Mg2Si",
+          "value": 3.9,
+          "unit": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "773.0 K"
+        }
+      ]
+    },
+    "power_factor": {
+      "power_factor_data": [
+        {
+          "material": "Bi-doped Mg2Si",
+          "value": 0.003,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "undoped Mg2Si",
+          "value": 0.0014,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "400.0 K"
+        },
+        {
+          "material": "undoped Mg2Si",
+          "value": 0.0018000000000000002,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "300.0 K"
+        },
+        {
+          "material": "Mg2Si film",
+          "value": 0.00012000000000000002,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "560.0 K"
+        },
+        {
+          "material": "doped Mg2Si",
+          "value": 0.003,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "623.0 K"
+        },
+        {
+          "material": "Al-doped Mg2Si thin film with 1.56 at. % Al",
+          "value": 0.0038,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "undoped Mg2Si thin film",
+          "value": 0.0028,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "573.0 K"
+        },
+        {
+          "material": "Al-doped Mg2Si thin film with 1.56 at. % Al",
+          "value": 0.0038,
+          "unit": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+          "temperature": "573.0 K"
+        }
+      ]
+    },
+    "figure_of_merit_ZT": {
+      "zt_data": [
+        {
+          "material": "Bi-doped Mg2Si",
+          "zt_value": 0.1,
+          "temperature": "295 K"
+        },
+        {
+          "material": "magnesium silicide",
+          "zt_value": 1.988,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Mg2Si compound with PbCl2-type",
+          "zt_value": 0.003,
+          "temperature": "295 K"
+        },
+        {
+          "material": "Y-doped Mg2Si",
+          "zt_value": 0.23,
+          "temperature": "600.0 K"
+        },
+        {
+          "material": "n-type Mg2Si doped with Al",
+          "zt_value": 0.03,
+          "temperature": "823.0 K"
+        },
+        {
+          "material": "tin doped magnesium silicide",
+          "zt_value": 1.55,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Mg2Si1-xSnx-based",
+          "zt_value": 1.1,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Bi-doped Mg2Si",
+          "zt_value": 1.82,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Bi doped Mg2Si",
+          "zt_value": 0.7000000000000001,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Mg2Si1−xSnx based",
+          "zt_value": 1.3,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "doped Mg2Si1",
+          "zt_value": 1.2,
+          "temperature": "773.0 K"
+        },
+        {
+          "material": "Mg2Si material",
+          "zt_value": 0.86,
+          "temperature": "862.0 K"
+        },
+        {
+          "material": "Bi-doped Mg2Si",
+          "zt_value": 0.86,
+          "temperature": "862.0 K"
+        },
+        {
+          "material": "Al and Bi co-doped Mg2Si",
+          "zt_value": 1.02,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "doped Mg2Si",
+          "zt_value": 1,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Mg2Si-based material",
+          "zt_value": 1,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Mg2Si nano-powder",
+          "zt_value": 0.67,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Mg2Si powder",
+          "zt_value": 1.15,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Mg2Si-based",
+          "zt_value": 1.88,
+          "temperature": "873.0 K"
+        },
+        {
+          "material": "Ag-doped Mg2Si single crystals",
+          "zt_value": 0.65,
+          "temperature": "840.0 K"
+        },
+        {
+          "material": "p-type Mg2Si-based materials",
+          "zt_value": 0.7000000000000001,
+          "temperature": "770.0 K"
+        },
+        {
+          "material": "p-type Mg2Si based materials",
+          "zt_value": 0.7000000000000001,
+          "temperature": "770.0 K"
+        },
+        {
+          "material": "Mg2Si compounds",
+          "zt_value": 0.98,
+          "temperature": "883.0 K"
+        },
+        {
+          "material": "magnesium silicide",
+          "zt_value": 0.9500000000000001,
+          "temperature": "740.0 K"
+        },
+        {
+          "material": "Al-doped Mg2Si",
+          "zt_value": 0.5700000000000001,
+          "temperature": "856.0 K"
+        },
+        {
+          "material": "Al-doped Mg2Si",
+          "zt_value": 0.5700000000000001,
+          "temperature": "856.0 K"
+        },
+        {
+          "material": "Al-doped Mg2Si",
+          "zt_value": 0.5700000000000001,
+          "temperature": "856.0 K"
+        },
+        {
+          "material": "Mg2Si-based materials",
+          "zt_value": 0.81,
+          "temperature": "810.0 K"
+        },
+        {
+          "material": "Sb doped Mg2Si",
+          "zt_value": 0.72,
+          "temperature": "864.0 K"
+        },
+        {
+          "material": "% Al-doped Mg2Si",
+          "zt_value": 0.77,
+          "temperature": "500.0 K"
+        },
+        {
+          "material": "p-type magnesium silicide-based materials",
+          "zt_value": 0.5,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "p-type Mg2Si1−xSnx alloys",
+          "zt_value": 0.5,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "Magnesium Silicide",
+          "zt_value": 1.3,
+          "temperature": "750.0 K"
+        },
+        {
+          "material": "Sn doped Mg2Si",
+          "zt_value": 1.11,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "Mg2Si-based compounds",
+          "zt_value": 1.22,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "Mg2Si with Sn",
+          "zt_value": 1.1,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "Mg2Si : Bi",
+          "zt_value": 1.4,
+          "temperature": "800.0 K"
+        },
+        {
+          "material": "Sn doped Mg2Si",
+          "zt_value": 0.25,
+          "temperature": "400.0 K"
+        },
+        {
+          "material": "Ge doped Mg2Si",
+          "zt_value": 0.2,
+          "temperature": "610.0 K"
+        },
+        {
+          "material": "Mg1.99Ca0.01Si",
+          "zt_value": 0.34,
+          "temperature": "660.0 K"
+        },
+        {
+          "material": "n-type Mg2Si",
+          "zt_value": 0.9,
+          "temperature": "900.0 K"
+        },
+        {
+          "material": "B-doped Mg2Si",
+          "zt_value": 0.68,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "B-doped Mg2Si",
+          "zt_value": 0.68,
+          "temperature": "850.0 K"
+        },
+        {
+          "material": "Bi-doped Mg2Si",
+          "zt_value": 0.7000000000000001,
+          "temperature": "775.0 K"
+        },
+        {
+          "material": "magnesium silicide",
+          "zt_value": 1.99,
+          "temperature": "723.0 K"
+        },
+        {
+          "material": "Al-doped Mg2Si",
+          "zt_value": 0.58,
+          "temperature": "844.0 K"
+        },
+        {
+          "material": "n-type Al-doped Mg2Si material",
+          "zt_value": 0.58,
+          "temperature": "844.0 K"
+        },
+        {
+          "material": "Mg / Si",
+          "zt_value": 1.4,
+          "temperature": "783.0 K"
+        }
+      ]
+    },
+    "temperature": {
+      "temperature_data": []
+    },
+    "crystal_structure": {
+      "crystal_data": []
+    },
+    "space_group": {
+      "space_group_data": []
+    },
+    "lattice_parameters": {
+      "lattice_data": []
+    }
+  }
+}

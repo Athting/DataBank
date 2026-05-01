@@ -1,0 +1,34 @@
+{
+  "Material": "SWCNT film",
+  "DOIs_Researched": [
+    "10.1016/j.mtcomm.2019.100867"
+  ],
+  "Data_By_Temperature": {
+    "298.0": [
+      {
+        "Original_Name_In_Paper": "SWCNT film",
+        "Property": "Seebeck",
+        "Value": 1.73e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtcomm.2019.100867"
+      },
+      {
+        "Original_Name_In_Paper": "SWCNT film",
+        "Property": "PF",
+        "Value": 7.31e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtcomm.2019.100867"
+      },
+      {
+        "Original_Name_In_Paper": "SWCNT film",
+        "Property": "Conductivity",
+        "Value": 244400.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtcomm.2019.100867"
+      }
+    ]
+  }
+}

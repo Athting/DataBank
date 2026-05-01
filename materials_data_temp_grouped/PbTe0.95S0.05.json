@@ -1,0 +1,18 @@
+{
+  "Material": "PbTe0.95S0.05",
+  "DOIs_Researched": [
+    "10.1016/j.actamat.2017.03.036"
+  ],
+  "Data_By_Temperature": {
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "(PbTe)0.95(PbS)0.05 compound",
+        "Property": "ZT",
+        "Value": 1.38,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2017.03.036"
+      }
+    ]
+  }
+}

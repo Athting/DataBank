@@ -1,0 +1,34 @@
+{
+  "Material": "Ca0.96Gd0.04Mn0.96Nb0",
+  "DOIs_Researched": [
+    "10.1016/j.matchemphys.2014.11.045"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "Ca0.96Gd0.04Mn0.96Nb0.04O3",
+        "Property": "ZT",
+        "Value": 0.15,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2014.11.045"
+      },
+      {
+        "Original_Name_In_Paper": "Ca0.96Gd0.04Mn0.96Nb0.04O3",
+        "Property": "PF",
+        "Value": 0.000225,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2014.11.045"
+      },
+      {
+        "Original_Name_In_Paper": "Ca0.96Gd0.04Mn0.96Nb0.04O3",
+        "Property": "PF",
+        "Value": 0.000225,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.matchemphys.2014.11.045"
+      }
+    ]
+  }
+}

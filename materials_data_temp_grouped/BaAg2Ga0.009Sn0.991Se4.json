@@ -1,0 +1,46 @@
+{
+  "Material": "BaAg2Ga0.009Sn0.991Se4",
+  "DOIs_Researched": [
+    "10.1016/j.mtphys.2019.100098"
+  ],
+  "Data_By_Temperature": {
+    "673.0": [
+      {
+        "Original_Name_In_Paper": "BaAg2Ga0.009Sn0.991Se4",
+        "Property": "ZT",
+        "Value": 0.25,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2019.100098"
+      }
+    ],
+    "623.0": [
+      {
+        "Original_Name_In_Paper": "BaAg2Ga0.009Sn0.991Se4",
+        "Property": "PF",
+        "Value": 0.00012109999999999999,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2019.100098"
+      },
+      {
+        "Original_Name_In_Paper": "BaAg2Ga0.009Sn0.991Se4",
+        "Property": "PF",
+        "Value": 0.0001131,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2019.100098"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "BaAg2Ga0.009Sn0.991Se4",
+        "Property": "Conductivity",
+        "Value": 281.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2019.100098"
+      }
+    ]
+  }
+}

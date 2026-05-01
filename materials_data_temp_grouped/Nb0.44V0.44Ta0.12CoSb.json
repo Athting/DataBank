@@ -1,0 +1,44 @@
+{
+  "Material": "Nb0.44V0.44Ta0.12CoSb",
+  "DOIs_Researched": [
+    "10.1039/c5ra21404a"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Nb0.44V0.44Ta0.12CoSb",
+        "Property": "ThermCond",
+        "Value": 3.3,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra21404a"
+      },
+      {
+        "Original_Name_In_Paper": "Nb0.44V0.44Ta0.12CoSb",
+        "Property": "ThermCond",
+        "Value": 3.3,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra21404a"
+      },
+      {
+        "Original_Name_In_Paper": "Nb0.44V0.44Ta0.12CoSb",
+        "Property": "ThermCond",
+        "Value": 0.49,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra21404a"
+      }
+    ],
+    "973.0": [
+      {
+        "Original_Name_In_Paper": "Nb0.44V0.44Ta0.12CoSb",
+        "Property": "PF",
+        "Value": 0.0016300000000000002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra21404a"
+      }
+    ]
+  }
+}

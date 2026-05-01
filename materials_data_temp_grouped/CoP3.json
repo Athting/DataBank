@@ -1,0 +1,44 @@
+{
+  "Material": "CoP3",
+  "DOIs_Researched": [
+    "10.1039/c9ra03882e"
+  ],
+  "Data_By_Temperature": {
+    "50.0": [
+      {
+        "Original_Name_In_Paper": "CoP3",
+        "Property": "ThermCond",
+        "Value": 0.23945000000000002,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ra03882e"
+      },
+      {
+        "Original_Name_In_Paper": "CoP3",
+        "Property": "Seebeck",
+        "Value": 8.782e-07,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ra03882e"
+      },
+      {
+        "Original_Name_In_Paper": "CoP3",
+        "Property": "Conductivity",
+        "Value": 6645.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ra03882e"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "CoP3",
+        "Property": "Seebeck",
+        "Value": 4.4e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ra03882e"
+      }
+    ]
+  }
+}

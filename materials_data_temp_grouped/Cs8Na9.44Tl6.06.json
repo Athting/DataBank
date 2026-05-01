@@ -1,0 +1,18 @@
+{
+  "Material": "Cs8Na9.44Tl6.06",
+  "DOIs_Researched": [
+    "10.1039/c5dt02766g"
+  ],
+  "Data_By_Temperature": {
+    "1.8": [
+      {
+        "Original_Name_In_Paper": "Cs8Na9.94(2)Tl6.06",
+        "Property": "Seebeck",
+        "Value": -1.3e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5dt02766g"
+      }
+    ]
+  }
+}

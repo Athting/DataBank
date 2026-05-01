@@ -1,0 +1,26 @@
+{
+  "Material": "CCTO",
+  "DOIs_Researched": [
+    "10.1039/c3ra40216a"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "CCTO",
+        "Property": "Conductivity",
+        "Value": 1e-07,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ra40216a"
+      },
+      {
+        "Original_Name_In_Paper": "CCTO",
+        "Property": "Conductivity",
+        "Value": 0.0001,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ra40216a"
+      }
+    ]
+  }
+}

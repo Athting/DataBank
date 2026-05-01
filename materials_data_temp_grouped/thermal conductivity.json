@@ -1,0 +1,18 @@
+{
+  "Material": "thermal conductivity",
+  "DOIs_Researched": [
+    "10.1016/j.mtphys.2018.05.005"
+  ],
+  "Data_By_Temperature": {
+    "310.0": [
+      {
+        "Original_Name_In_Paper": "thermal conductivity",
+        "Property": "Conductivity",
+        "Value": 600000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtphys.2018.05.005"
+      }
+    ]
+  }
+}

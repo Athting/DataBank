@@ -1,0 +1,18 @@
+{
+  "Material": "Sr0.9Y0.1TiO3",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2008.10.031"
+  ],
+  "Data_By_Temperature": {
+    "1673.0": [
+      {
+        "Original_Name_In_Paper": "Sr0.9Y0.1TiO3",
+        "Property": "ZT",
+        "Value": 0.146,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2008.10.031"
+      }
+    ]
+  }
+}

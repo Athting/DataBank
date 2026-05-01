@@ -1,0 +1,18 @@
+{
+  "Material": "AgPbmSnnSbTe2+m+n",
+  "DOIs_Researched": [
+    "10.1038/nchem.955"
+  ],
+  "Data_By_Temperature": {
+    "630.0": [
+      {
+        "Original_Name_In_Paper": "AgPbmSnnSbTe2+m+n",
+        "Property": "ZT",
+        "Value": 1.45,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/nchem.955"
+      }
+    ]
+  }
+}

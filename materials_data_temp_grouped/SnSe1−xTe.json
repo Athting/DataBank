@@ -1,0 +1,40 @@
+{
+  "Material": "SnSe1\u2212xTe",
+  "DOIs_Researched": [
+    "10.1039/c9cp02018g",
+    "10.1039/c7ta09941j",
+    "10.1039/c5cp05510e"
+  ],
+  "Data_By_Temperature": {
+    "800.0": [
+      {
+        "Original_Name_In_Paper": "SnSe1\u2212xTex nanoplates",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c7ta09941j"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "SnSe1\u2212xTex",
+        "Property": "Conductivity",
+        "Value": 10.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5cp05510e"
+      }
+    ],
+    "310.0": [
+      {
+        "Original_Name_In_Paper": "SnSe1\u2212xTex",
+        "Property": "Conductivity",
+        "Value": 1.4925373134,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9cp02018g"
+      }
+    ]
+  }
+}

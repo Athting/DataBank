@@ -1,0 +1,235 @@
+{
+  "Material": "La0.95Sr0.05CoO3",
+  "DOIs_Researched": [
+    "10.1016/j.ssc.2009.07.031",
+    "10.1016/j.jssc.2008.08.017",
+    "10.1016/j.jpcs.2010.12.001",
+    "10.1016/j.ceramint.2010.08.024",
+    "10.1016/j.ceramint.2013.03.095",
+    "10.1016/j.jallcom.2018.03.347",
+    "10.1557/PROC-1267-DD11-0",
+    "10.1016/j.solidstatesciences.2006.01.002",
+    "10.1016/j.ceramint.2014.04.123",
+    "10.1016/j.ceramint.2016.01.016",
+    "10.1016/j.ssc.2014.10.013",
+    "10.1016/B978-0-444-63528-0.00003-6",
+    "10.1016/j.mseb.2005.11.032",
+    "10.1007/s10853-007-2365-4",
+    "10.1016/j.jallcom.2017.11.334",
+    "10.1016/j.jallcom.2005.12.127",
+    "10.1016/j.materresbull.2018.02.032",
+    "10.1016/j.jcrysgro.2005.09.021"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "La0.95Sr0.05CoO3",
+        "Property": "ThermCond",
+        "Value": 3.75,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2010.08.024"
+      },
+      {
+        "Original_Name_In_Paper": "La0.95Sr0.05CoO3",
+        "Property": "ZT",
+        "Value": 0.18,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.03.347"
+      },
+      {
+        "Original_Name_In_Paper": "La0.95Sr0.05CoO3",
+        "Property": "ZT",
+        "Value": 0.18,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2018.02.032"
+      },
+      {
+        "Original_Name_In_Paper": "La0.95Sr0.05Co0.9Rh0.1O3",
+        "Property": "ZT",
+        "Value": 0.03,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2014.04.123"
+      },
+      {
+        "Original_Name_In_Paper": "La0.95Sr0.05CoO3",
+        "Property": "ZT",
+        "Value": 0.18,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2014.10.013"
+      },
+      {
+        "Original_Name_In_Paper": "La0.95Sr0.05CoO3",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ssc.2009.07.031"
+      },
+      {
+        "Original_Name_In_Paper": "La0.95Sr0.05CoO3",
+        "Property": "ZT",
+        "Value": 0.18,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mseb.2005.11.032"
+      },
+      {
+        "Original_Name_In_Paper": "La0.95Sr0.05CoO3",
+        "Property": "ZT",
+        "Value": 0.033,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jcrysgro.2005.09.021"
+      },
+      {
+        "Original_Name_In_Paper": "La0.95Sr0.05CoO3",
+        "Property": "ZT",
+        "Value": 0.033,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/B978-0-444-63528-0.00003-6"
+      },
+      {
+        "Original_Name_In_Paper": "La0.95Sr0.05CoO3",
+        "Property": "ZT",
+        "Value": 0.18,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2013.03.095"
+      },
+      {
+        "Original_Name_In_Paper": "polycrystalline La0.95Sr0.05CoO3",
+        "Property": "ZT",
+        "Value": 0.18,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-007-2365-4"
+      },
+      {
+        "Original_Name_In_Paper": "La0.95Sr0.05CoO3",
+        "Property": "ZT",
+        "Value": 0.18,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2006.01.002"
+      },
+      {
+        "Original_Name_In_Paper": "La0.95Sr0.05CoO3",
+        "Property": "ZT",
+        "Value": 0.18,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solidstatesciences.2006.01.002"
+      },
+      {
+        "Original_Name_In_Paper": "La0.95Sr0.05CoO3",
+        "Property": "ZT",
+        "Value": 0.18,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2005.12.127"
+      },
+      {
+        "Original_Name_In_Paper": "La0.95Sr0.05CoO3",
+        "Property": "Seebeck",
+        "Value": 0.000252,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jcrysgro.2005.09.021"
+      },
+      {
+        "Original_Name_In_Paper": "La0.95Sr0.05CoO3",
+        "Property": "Seebeck",
+        "Value": 0.000252,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jcrysgro.2005.09.021"
+      },
+      {
+        "Original_Name_In_Paper": "La0.95Sr0.05CoO3",
+        "Property": "PF",
+        "Value": 0.0004,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jpcs.2010.12.001"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "polycrystalline La0.95Sr0.05CoO3",
+        "Property": "ZT",
+        "Value": 0.0006000000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2008.08.017"
+      },
+      {
+        "Original_Name_In_Paper": "La0.95Sr0.05CoO3",
+        "Property": "ZT",
+        "Value": 0.082,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2017.11.334"
+      },
+      {
+        "Original_Name_In_Paper": "La0.95Sr0.05CoO3 pellet",
+        "Property": "ZT",
+        "Value": 0.033,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jcrysgro.2005.09.021"
+      },
+      {
+        "Original_Name_In_Paper": "La0.95Sr0.05CoO3",
+        "Property": "ZT",
+        "Value": 0.18,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ceramint.2016.01.016"
+      },
+      {
+        "Original_Name_In_Paper": "La0.95Sr0.05CoO3",
+        "Property": "Seebeck",
+        "Value": 0.0007,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2008.08.017"
+      }
+    ],
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "La0.95Sr0.05CoO3 compound",
+        "Property": "ZT",
+        "Value": 0.04,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2018.02.032"
+      }
+    ],
+    "700.0": [
+      {
+        "Original_Name_In_Paper": "La0.95Sr0.05CoO3 compound",
+        "Property": "ZT",
+        "Value": 0.04,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.materresbull.2018.02.032"
+      }
+    ],
+    "425.0": [
+      {
+        "Original_Name_In_Paper": "La0.95Sr0.05Co0.9Rh0.1O3",
+        "Property": "ZT",
+        "Value": 0.045,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1557/PROC-1267-DD11-0"
+      }
+    ]
+  }
+}

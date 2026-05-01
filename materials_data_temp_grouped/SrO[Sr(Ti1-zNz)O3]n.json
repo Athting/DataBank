@@ -1,0 +1,18 @@
+{
+  "Material": "SrO[Sr(Ti1-zNz)O3]n",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2015.12.231"
+  ],
+  "Data_By_Temperature": {
+    "650.0": [
+      {
+        "Original_Name_In_Paper": "SrO[Sr(Ti1-zNbz)O3]n",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2015.12.231"
+      }
+    ]
+  }
+}

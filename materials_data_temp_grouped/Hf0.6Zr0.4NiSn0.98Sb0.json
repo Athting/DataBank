@@ -1,0 +1,124 @@
+{
+  "Material": "Hf0.6Zr0.4NiSn0.98Sb0",
+  "DOIs_Researched": [
+    "10.1007/s10853-020-04949-0",
+    "10.1038/srep06888",
+    "10.1039/c2ce25119a",
+    "10.1557/jmr.2012.171",
+    "10.1007/s10948-020-05638-4",
+    "10.1016/j.actamat.2009.02.026",
+    "10.1016/j.pmatsci.2016.07.002"
+  ],
+  "Data_By_Temperature": {
+    "1073.0": [
+      {
+        "Original_Name_In_Paper": "Hf0.6Zr0.40NiSn0.98Sb0.02",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10948-020-05638-4"
+      }
+    ],
+    "1000.0": [
+      {
+        "Original_Name_In_Paper": "Hf0.6Zr0.4NiSn0.98Sb0.02 compound",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c2ce25119a"
+      },
+      {
+        "Original_Name_In_Paper": "Hf0.6Zr0.4NiSn0.98Sb0.02",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2009.02.026"
+      },
+      {
+        "Original_Name_In_Paper": "Hf0.6Zr0.4NiSn0.98Sb0.02",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2009.02.026"
+      },
+      {
+        "Original_Name_In_Paper": "Hf0.6Zr0.4NiSn0.98Sb0.02",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2009.02.026"
+      },
+      {
+        "Original_Name_In_Paper": "Hf0.6Zr0.4NiSn0.98Sb0.02",
+        "Property": "ZT",
+        "Value": 0.9,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1557/jmr.2012.171"
+      },
+      {
+        "Original_Name_In_Paper": "Hf0.6Zr0.4NiSn0.98Sb0.02 without Ti",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.pmatsci.2016.07.002"
+      },
+      {
+        "Original_Name_In_Paper": "Hf0.6Zr0.4NiSn0.98Sb0.02",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1038/srep06888"
+      },
+      {
+        "Original_Name_In_Paper": "Hf0.6Zr0.4NiSn0.98Sb0.02",
+        "Property": "ZT",
+        "Value": 1.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s10853-020-04949-0"
+      }
+    ],
+    "790.0": [
+      {
+        "Original_Name_In_Paper": "Hf0.6Zr0.4NiSn0.98Sb0.02",
+        "Property": "ZT",
+        "Value": 0.84,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2009.02.026"
+      },
+      {
+        "Original_Name_In_Paper": "Hf0.6Zr0.4NiSn0.98Sb0.02",
+        "Property": "ZT",
+        "Value": 0.5700000000000001,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2009.02.026"
+      },
+      {
+        "Original_Name_In_Paper": "Hf0.6Zr0.4NiSn0.98Sb0.02",
+        "Property": "Seebeck",
+        "Value": -0.000164,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2009.02.026"
+      },
+      {
+        "Original_Name_In_Paper": "Hf0.6Zr0.4NiSn0.98Sb0.02",
+        "Property": "PF",
+        "Value": 0.004390000000000001,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.actamat.2009.02.026"
+      }
+    ]
+  }
+}

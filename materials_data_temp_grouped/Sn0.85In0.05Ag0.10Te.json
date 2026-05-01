@@ -1,0 +1,36 @@
+{
+  "Material": "Sn0.85In0.05Ag0.10Te",
+  "DOIs_Researched": [
+    "10.1039/c9ta11614a"
+  ],
+  "Data_By_Temperature": {
+    "823.0": [
+      {
+        "Original_Name_In_Paper": "Sn0.85In0.05Ag0.10Te",
+        "Property": "ZT",
+        "Value": 1.38,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta11614a"
+      },
+      {
+        "Original_Name_In_Paper": "Sn0.85In0.05Ag0.10Te",
+        "Property": "ZT",
+        "Value": 1.38,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta11614a"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Sn0.85In0.05Ag0.10Te",
+        "Property": "PF",
+        "Value": 0.001918,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta11614a"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Material": "Cu15.8Sb7.8S13",
+  "DOIs_Researched": [
+    "10.1039/c7cp06465a"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Cu15.8Sb7.8S13",
+        "Property": "Conductivity",
+        "Value": 13510.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c7cp06465a"
+      }
+    ]
+  }
+}

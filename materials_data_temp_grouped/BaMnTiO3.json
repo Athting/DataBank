@@ -1,0 +1,18 @@
+{
+  "Material": "BaMnTiO3",
+  "DOIs_Researched": [
+    "10.1039/c2jm15845k"
+  ],
+  "Data_By_Temperature": {
+    "500.0": [
+      {
+        "Original_Name_In_Paper": "BaMn0.5Ti0.5O3 material",
+        "Property": "Conductivity",
+        "Value": 1e-05,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2jm15845k"
+      }
+    ]
+  }
+}

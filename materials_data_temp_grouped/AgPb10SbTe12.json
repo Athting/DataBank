@@ -1,0 +1,28 @@
+{
+  "Material": "AgPb10SbTe12",
+  "DOIs_Researched": [
+    "10.1016/j.cej.2016.06.049"
+  ],
+  "Data_By_Temperature": {
+    "660.0": [
+      {
+        "Original_Name_In_Paper": "AgPb10SbTe12",
+        "Property": "ThermCond",
+        "Value": 0.75,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": "point defects",
+        "Source_DOI": "10.1016/j.cej.2016.06.049"
+      }
+    ],
+    "320.0": [
+      {
+        "Original_Name_In_Paper": "AgPb10SbTe12",
+        "Property": "ZT",
+        "Value": 0.005,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cej.2016.06.049"
+      }
+    ]
+  }
+}

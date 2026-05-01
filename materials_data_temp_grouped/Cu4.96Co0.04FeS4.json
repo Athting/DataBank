@@ -1,0 +1,35 @@
+{
+  "Material": "Cu4.96Co0.04FeS4",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2018.03.408",
+    "10.1016/j.jallcom.2018.09.291"
+  ],
+  "Data_By_Temperature": {
+    "590.0": [
+      {
+        "Original_Name_In_Paper": "Cu4.96Co0.04FeS4",
+        "Property": "ZT",
+        "Value": 0.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.03.408"
+      },
+      {
+        "Original_Name_In_Paper": "cobalt-doped Cu4.96Co0.04FeS4",
+        "Property": "PF",
+        "Value": 0.00030000000000000003,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.09.291"
+      },
+      {
+        "Original_Name_In_Paper": "Cu4.96Co0.04FeS4",
+        "Property": "PF",
+        "Value": 0.00030000000000000003,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2018.03.408"
+      }
+    ]
+  }
+}

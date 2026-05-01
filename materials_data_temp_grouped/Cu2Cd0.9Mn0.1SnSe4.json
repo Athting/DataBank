@@ -1,0 +1,18 @@
+{
+  "Material": "Cu2Cd0.9Mn0.1SnSe4",
+  "DOIs_Researched": [
+    "10.1016/j.intermet.2016.01.004"
+  ],
+  "Data_By_Temperature": {
+    "723.0": [
+      {
+        "Original_Name_In_Paper": "Cu2Cd0.9Mn0.1SnSe4",
+        "Property": "ZT",
+        "Value": 0.16,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2016.01.004"
+      }
+    ]
+  }
+}

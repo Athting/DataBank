@@ -1,0 +1,18 @@
+{
+  "Material": "Ge0.91Sn0.09",
+  "DOIs_Researched": [
+    "10.1016/j.mtla.2020.100873"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ge0.91Sn0.09 film",
+        "Property": "PF",
+        "Value": 4.2000000000000006e-08,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mtla.2020.100873"
+      }
+    ]
+  }
+}

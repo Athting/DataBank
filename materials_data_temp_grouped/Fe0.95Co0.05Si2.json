@@ -1,0 +1,93 @@
+{
+  "Material": "Fe0.95Co0.05Si2",
+  "DOIs_Researched": [
+    "10.1016/j.jallcom.2006.08.045",
+    "10.1016/j.jallcom.2006.06.080",
+    "10.1016/S0261-3069(99)00031-X",
+    "10.1016/S0966-9795(03)00020-7"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Fe0.95Co0.05Si2",
+        "Property": "ThermCond",
+        "Value": 4.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0261-3069(99)00031-X"
+      }
+    ],
+    "770.0": [
+      {
+        "Original_Name_In_Paper": "Fe0.95Co0.05Si2",
+        "Property": "ZT",
+        "Value": 0.19,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2006.06.080"
+      }
+    ],
+    "657.0": [
+      {
+        "Original_Name_In_Paper": "Fe0.95Co0.05Si2",
+        "Property": "ZT",
+        "Value": 0.00013000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0966-9795(03)00020-7"
+      },
+      {
+        "Original_Name_In_Paper": "Fe0.95Co0.05Si2",
+        "Property": "ZT",
+        "Value": 0.00013000000000000002,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/S0966-9795(03)00020-7"
+      }
+    ],
+    "923.0": [
+      {
+        "Original_Name_In_Paper": "Fe0.95Co0.05Si2",
+        "Property": "ZT",
+        "Value": 0.182,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2006.08.045"
+      },
+      {
+        "Original_Name_In_Paper": "Fe0.95Co0.05Si2",
+        "Property": "ZT",
+        "Value": 0.182,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2006.08.045"
+      },
+      {
+        "Original_Name_In_Paper": "Fe0.95Co0.05Si2",
+        "Property": "ZT",
+        "Value": 0.182,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2006.08.045"
+      }
+    ],
+    "960.0": [
+      {
+        "Original_Name_In_Paper": "Ge doped Fe0.95Co0.05Si2",
+        "Property": "Conductivity",
+        "Value": 24000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0966-9795(03)00020-7"
+      },
+      {
+        "Original_Name_In_Paper": "Ge doped Fe0.95Co0.05Si2",
+        "Property": "Conductivity",
+        "Value": 24000.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0966-9795(03)00020-7"
+      }
+    ]
+  }
+}

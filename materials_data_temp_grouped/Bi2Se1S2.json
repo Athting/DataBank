@@ -1,0 +1,28 @@
+{
+  "Material": "Bi2Se1S2",
+  "DOIs_Researched": [
+    "10.1039/c2ee23549h"
+  ],
+  "Data_By_Temperature": {
+    "523.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Se1S2",
+        "Property": "PF",
+        "Value": 0.00043000000000000004,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2ee23549h"
+      }
+    ],
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Bi2Se1S2",
+        "Property": "PF",
+        "Value": 0.000603,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2ee23549h"
+      }
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "Material": "PbSe + CdTe",
+  "DOIs_Researched": [
+    "10.1039/c9ta13927c"
+  ],
+  "Data_By_Temperature": {
+    "310.0": [
+      {
+        "Original_Name_In_Paper": "Pb0.98Na0.02Se + 4 % CdTe",
+        "Property": "ThermCond",
+        "Value": 2.6,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta13927c"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.98Na0.02Se + 4 % CdTe",
+        "Property": "Seebeck",
+        "Value": 3.7e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta13927c"
+      }
+    ],
+    "860.0": [
+      {
+        "Original_Name_In_Paper": "Pb0.98Na0.02Se + 4 % CdTe",
+        "Property": "ThermCond",
+        "Value": 0.44,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta13927c"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.98Na0.02Se + 4 % CdTe",
+        "Property": "ThermCond",
+        "Value": 0.61,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta13927c"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.98Na0.02Se + 4 % CdTe",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta13927c"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.98Na0.02Se + 4 % CdTe",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta13927c"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.98Na0.02Se + 4 % CdTe",
+        "Property": "ZT",
+        "Value": 1.5,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta13927c"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.98Na0.02Se + 4 % CdTe",
+        "Property": "Seebeck",
+        "Value": 0.00023799999999999998,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta13927c"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.98Na0.02Se + 4 % CdTe",
+        "Property": "PF",
+        "Value": 0.0018200000000000002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta13927c"
+      },
+      {
+        "Original_Name_In_Paper": "Pb0.98Na0.02Se + 4 % CdTe",
+        "Property": "PF",
+        "Value": 0.0018200000000000002,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c9ta13927c"
+      }
+    ]
+  }
+}

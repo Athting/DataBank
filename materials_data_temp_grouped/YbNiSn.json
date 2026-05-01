@@ -1,0 +1,18 @@
+{
+  "Material": "YbNiSn",
+  "DOIs_Researched": [
+    "10.1016/S0921-4526(98)00397-4"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "YbNiSn",
+        "Property": "Seebeck",
+        "Value": -1.8e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0921-4526(98)00397-4"
+      }
+    ]
+  }
+}

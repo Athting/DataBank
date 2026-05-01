@@ -1,0 +1,68 @@
+{
+  "Material": "Mn0.75Cu0.25Sb2Se4",
+  "DOIs_Researched": [
+    "10.1039/c5ra20688j"
+  ],
+  "Data_By_Temperature": {
+    "773.0": [
+      {
+        "Original_Name_In_Paper": "Mn0.75Cu0.25Sb2Se4",
+        "Property": "ThermCond",
+        "Value": 0.61,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra20688j"
+      },
+      {
+        "Original_Name_In_Paper": "Mn0.75Cu0.25Sb2Se4",
+        "Property": "ThermCond",
+        "Value": 0.61,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra20688j"
+      },
+      {
+        "Original_Name_In_Paper": "Mn0.75Cu0.25Sb2Se4",
+        "Property": "ZT",
+        "Value": 0.64,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra20688j"
+      },
+      {
+        "Original_Name_In_Paper": "Mn0.75Cu0.25Sb2Se4",
+        "Property": "ZT",
+        "Value": 0.64,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra20688j"
+      },
+      {
+        "Original_Name_In_Paper": "Mn0.75Cu0.25Sb2Se4",
+        "Property": "PF",
+        "Value": 0.00026000000000000003,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra20688j"
+      },
+      {
+        "Original_Name_In_Paper": "Mn0.75Cu0.25Sb2Se4",
+        "Property": "PF",
+        "Value": 0.00026000000000000003,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra20688j"
+      }
+    ],
+    "295": [
+      {
+        "Original_Name_In_Paper": "Mn0.75Cu0.25Sb2Se4",
+        "Property": "Seebeck",
+        "Value": 0.000945,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c5ra20688j"
+      }
+    ]
+  }
+}

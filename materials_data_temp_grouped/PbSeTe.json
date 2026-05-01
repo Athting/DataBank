@@ -1,0 +1,46 @@
+{
+  "Material": "PbSeTe",
+  "DOIs_Researched": [
+    "10.1016/j.solener.2005.04.022",
+    "10.1016/j.rser.2018.10.006",
+    "10.1007/s11664-005-0083-8"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "PbSeTe",
+        "Property": "ZT",
+        "Value": 2.0,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.solener.2005.04.022"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Bi-doped n-type PbSeTe / PbTe",
+        "Property": "ZT",
+        "Value": 1.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.rser.2018.10.006"
+      },
+      {
+        "Original_Name_In_Paper": "Bi-doped n-type PbSeTe / PbTe",
+        "Property": "ZT",
+        "Value": 1.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-005-0083-8"
+      },
+      {
+        "Original_Name_In_Paper": "Na-doped p-type PbSeTe",
+        "Property": "ZT",
+        "Value": 1.1,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1007/s11664-005-0083-8"
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "Material": "CuGaO2",
+  "DOIs_Researched": [
+    "10.1016/j.apsusc.2014.08.137",
+    "10.1016/j.jallcom.2004.08.070",
+    "10.1016/S0040-6090(02)00199-2"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "CuGaO2 thin films",
+        "Property": "Seebeck",
+        "Value": 8e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.apsusc.2014.08.137"
+      },
+      {
+        "Original_Name_In_Paper": "Undoped CuGaO2",
+        "Property": "Seebeck",
+        "Value": 0.0007800000000000001,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2004.08.070"
+      },
+      {
+        "Original_Name_In_Paper": "CuGaO2",
+        "Property": "Conductivity",
+        "Value": 2.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/S0040-6090(02)00199-2"
+      },
+      {
+        "Original_Name_In_Paper": "Undoped CuGaO2",
+        "Property": "Conductivity",
+        "Value": 0.33,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jallcom.2004.08.070"
+      }
+    ]
+  }
+}

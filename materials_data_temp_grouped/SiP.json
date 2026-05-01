@@ -1,0 +1,18 @@
+{
+  "Material": "SiP",
+  "DOIs_Researched": [
+    "10.1038/srep00565"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Si : P",
+        "Property": "Conductivity",
+        "Value": 27.7777777778,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/srep00565"
+      }
+    ]
+  }
+}

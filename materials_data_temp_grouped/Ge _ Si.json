@@ -1,0 +1,35 @@
+{
+  "Material": "Ge / Si",
+  "DOIs_Researched": [
+    "10.1039/c3ta01594g",
+    "10.1039/c3ta14003b"
+  ],
+  "Data_By_Temperature": {
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "Ge / Si",
+        "Property": "ZT",
+        "Value": 2.6,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta14003b"
+      },
+      {
+        "Original_Name_In_Paper": "Ge / Si",
+        "Property": "ZT",
+        "Value": 0.65,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta14003b"
+      },
+      {
+        "Original_Name_In_Paper": "Ge / Si",
+        "Property": "ZT",
+        "Value": 0.85,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1039/c3ta01594g"
+      }
+    ]
+  }
+}

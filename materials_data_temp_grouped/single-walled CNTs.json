@@ -1,0 +1,44 @@
+{
+  "Material": "single-walled CNTs",
+  "DOIs_Researched": [
+    "10.1016/j.cej.2018.09.013",
+    "10.1016/j.synthmet.2019.116190",
+    "10.1038/s41563-018-0217-z"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "single-walled CNTs",
+        "Property": "ThermCond",
+        "Value": 6600.0,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.cej.2018.09.013"
+      },
+      {
+        "Original_Name_In_Paper": "single-walled CNTs",
+        "Property": "ZT",
+        "Value": 0.2,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.synthmet.2019.116190"
+      },
+      {
+        "Original_Name_In_Paper": "single-walled CNTs",
+        "Property": "Seebeck",
+        "Value": 0.00016,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.synthmet.2019.116190"
+      },
+      {
+        "Original_Name_In_Paper": "single-walled CNTs",
+        "Property": "PF",
+        "Value": 0.0007,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1038/s41563-018-0217-z"
+      }
+    ]
+  }
+}

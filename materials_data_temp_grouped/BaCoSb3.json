@@ -1,0 +1,54 @@
+{
+  "Material": "BaCoSb3",
+  "DOIs_Researched": [
+    "10.1016/j.mssp.2014.07.052"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Ba0.048CoSb3",
+        "Property": "ThermCond",
+        "Value": 0.36,
+        "Units": "Kelvin^(-1.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2014.07.052"
+      },
+      {
+        "Original_Name_In_Paper": "nanocrystalline Ba0.048CoSb3",
+        "Property": "Seebeck",
+        "Value": 4.6e-05,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2014.07.052"
+      }
+    ],
+    "710.0": [
+      {
+        "Original_Name_In_Paper": "Ba0.048CoSb3",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2014.07.052"
+      },
+      {
+        "Original_Name_In_Paper": "nanocrystalline p-type Ba0.048CoSb3",
+        "Property": "ZT",
+        "Value": 0.4,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2014.07.052"
+      }
+    ],
+    "300.0": [
+      {
+        "Original_Name_In_Paper": "nanocrystalline Ba0.048CoSb3",
+        "Property": "Conductivity",
+        "Value": 8500.0,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.mssp.2014.07.052"
+      }
+    ]
+  }
+}

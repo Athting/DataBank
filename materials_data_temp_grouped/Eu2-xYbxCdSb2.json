@@ -1,0 +1,27 @@
+{
+  "Material": "Eu2-xYbxCdSb2",
+  "DOIs_Researched": [
+    "10.1016/bs.hpcre.2016.05.003",
+    "10.1016/j.jssc.2010.12.015"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Eu2\u2013xYbxCdSb2",
+        "Property": "Seebeck",
+        "Value": 0.000217,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.jssc.2010.12.015"
+      },
+      {
+        "Original_Name_In_Paper": "Eu2\u2013xYbxCdSb2",
+        "Property": "Seebeck",
+        "Value": 0.00022,
+        "Units": "Kelvin^(-1.0)  Volt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/bs.hpcre.2016.05.003"
+      }
+    ]
+  }
+}

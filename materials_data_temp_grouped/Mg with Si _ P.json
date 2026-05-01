@@ -1,0 +1,18 @@
+{
+  "Material": "Mg with Si / P",
+  "DOIs_Researched": [
+    "10.1016/j.ensm.2020.09.007"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "Mg with Si / P",
+        "Property": "Conductivity",
+        "Value": 0.1,
+        "Units": "Meter^(-1.0)  Siemens^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1016/j.ensm.2020.09.007"
+      }
+    ]
+  }
+}

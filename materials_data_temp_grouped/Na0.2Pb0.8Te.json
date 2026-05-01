@@ -1,0 +1,18 @@
+{
+  "Material": "Na0.2Pb0.8Te",
+  "DOIs_Researched": [
+    "10.1016/j.intermet.2017.09.018"
+  ],
+  "Data_By_Temperature": {
+    "774.0": [
+      {
+        "Original_Name_In_Paper": "p-type Na0.2Pb0.8Te",
+        "Property": "ZT",
+        "Value": 1.74,
+        "Units": null,
+        "Editing": null,
+        "Source_DOI": "10.1016/j.intermet.2017.09.018"
+      }
+    ]
+  }
+}

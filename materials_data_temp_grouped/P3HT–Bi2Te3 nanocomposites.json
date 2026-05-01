@@ -1,0 +1,26 @@
+{
+  "Material": "P3HT\u2013Bi2Te3 nanocomposites",
+  "DOIs_Researched": [
+    "10.1039/c2ee21803h"
+  ],
+  "Data_By_Temperature": {
+    "295": [
+      {
+        "Original_Name_In_Paper": "P3HT\u2013Bi2Te3 nanocomposites",
+        "Property": "PF",
+        "Value": 1.3599999999999999e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2ee21803h"
+      },
+      {
+        "Original_Name_In_Paper": "P3HT\u2013Bi2Te3 nanocomposites",
+        "Property": "PF",
+        "Value": 1.3599999999999999e-05,
+        "Units": "Kelvin^(-2.0)  Meter^(-1.0)  Watt^(1.0)",
+        "Editing": null,
+        "Source_DOI": "10.1039/c2ee21803h"
+      }
+    ]
+  }
+}
